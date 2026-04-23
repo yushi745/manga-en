@@ -61,43 +61,41 @@ Target: 300 articles total
 - [x] romance/blue-flag
 - [x] romance/living-room-matsunaga-san
 
-## Batch 4 — Horror/Mystery 15
-- [ ] horror/master-keaton
-- [ ] horror/doubt
-- [ ] horror/judge
-- [ ] horror/dark-gathering
-- [ ] horror/the-summit-of-the-gods
-- [ ] horror/life-is-money
-- [ ] horror/biomega... (already exists)
-- [ ] horror/fuan-no-tane
-- [ ] horror/ibitsu
-- [ ] horror/dead-tube
-- [ ] horror/the-drifting-classroom
-- [ ] horror/happy-sugar-life
-- [ ] horror/magical-girl-site
-- [ ] horror/category-freaks
-- [ ] horror/goodnight-punpun
+## Batch 4 — Horror/Mystery 14 ✅ COMMITTED (14 articles + progress file)
+- [x] horror/master-keaton
+- [x] horror/doubt
+- [x] horror/judge
+- [x] horror/dark-gathering
+- [x] horror/the-summit-of-the-gods
+- [x] horror/ibitsu
+- [x] horror/the-drifting-classroom
+- [x] horror/happy-sugar-life
+- [x] horror/magical-girl-site
+- [x] horror/goodnight-punpun
+- [x] horror/mieruko-chan
+- [x] horror/flowers-of-evil
+- [x] horror/happiness
+- [x] horror/shadows-house
 
-## Batch 5 — Sci-Fi 15
-- [ ] sci-fi/nausicaa
-- [ ] sci-fi/solanin
-- [ ] sci-fi/dead-dead-demons
-- [ ] sci-fi/seven-seeds
-- [ ] sci-fi/legend-of-the-galactic-heroes
-- [ ] sci-fi/iron-knight
-- [ ] sci-fi/secret-service-saison
-- [ ] sci-fi/eden-endless-world
-- [ ] sci-fi/punisher-manga
-- [ ] sci-fi/no-guns-life
-- [ ] sci-fi/outlaw-star
-- [ ] sci-fi/to-your-eternity
-- [ ] sci-fi/fire-punch
-- [ ] sci-fi/look-back
-- [ ] sci-fi/witch-hat-atelier (moved to fantasy)
+## Batch 5 — Sci-Fi 15 ✅ COMMITTED
+- [x] sci-fi/nausicaa
+- [x] sci-fi/solanin
+- [x] sci-fi/dead-dead-demons
+- [x] sci-fi/seven-seeds
+- [x] sci-fi/legend-of-the-galactic-heroes
+- [x] sci-fi/eden-endless-world
+- [x] sci-fi/no-guns-life
+- [x] sci-fi/to-your-eternity
+- [x] sci-fi/fire-punch
+- [x] sci-fi/look-back
+- [x] sci-fi/i-am-a-hero
+- [x] sci-fi/from-the-new-world
+- [x] sci-fi/ultraman
+- [x] sci-fi/inuyashiki
+- [x] sci-fi/gundam-the-origin
 
 ## Batch 6 — Slice of Life 15
 - [ ] slice-of-life/blue-period
-- [ ] slice-of-life/march-comes-in-like-a-lion (moved from romance)
 - [ ] slice-of-life/komi-cant-communicate
 - [ ] slice-of-life/teasing-master-takagi-san
 - [ ] slice-of-life/bocchi-the-rock
@@ -106,11 +104,12 @@ Target: 300 articles total
 - [ ] slice-of-life/genshiken
 - [ ] slice-of-life/wagnaria
 - [ ] slice-of-life/aharen-san
-- [ ] slice-of-life/goodnight-punpun (moved from horror)
-- [ ] slice-of-life/solanin
-- [ ] slice-of-life/saint-young-men (moved here)
 - [ ] slice-of-life/watamote
 - [ ] slice-of-life/chio-school-road
+- [ ] slice-of-life/silver-spoon
+- [ ] slice-of-life/barakamon
+- [ ] slice-of-life/sweetness-and-lightning
+- [ ] slice-of-life/yotsuba
 
 ## Batch 7 — Sports 15
 - [ ] sports/hikaru-no-go
