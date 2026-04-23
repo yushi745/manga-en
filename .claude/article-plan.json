@@ -1,0 +1,215 @@
+{
+  "goal": 150,
+  "batches": [
+    {
+      "batch": 1,
+      "theme": "Action Classics",
+      "articles": [
+        { "slug": "dragon-ball", "title": "Dragon Ball", "genreSlug": "action", "status": "done" },
+        { "slug": "hunter-x-hunter", "title": "Hunter x Hunter", "genreSlug": "action", "status": "done" },
+        { "slug": "vinland-saga", "title": "Vinland Saga", "genreSlug": "action", "status": "done" },
+        { "slug": "tokyo-revengers", "title": "Tokyo Revengers", "genreSlug": "action", "status": "done" },
+        { "slug": "assassination-classroom", "title": "Assassination Classroom", "genreSlug": "action", "status": "done" },
+        { "slug": "one-punch-man", "title": "One Punch Man", "genreSlug": "action", "status": "done" },
+        { "slug": "mob-psycho-100", "title": "Mob Psycho 100", "genreSlug": "action", "status": "done" },
+        { "slug": "blue-exorcist", "title": "Blue Exorcist", "genreSlug": "action", "status": "done" },
+        { "slug": "soul-eater", "title": "Soul Eater", "genreSlug": "action", "status": "done" },
+        { "slug": "gintama", "title": "Gintama", "genreSlug": "action", "status": "done" },
+        { "slug": "noragami", "title": "Noragami", "genreSlug": "action", "status": "done" },
+        { "slug": "dororo", "title": "Dororo", "genreSlug": "action", "status": "done" },
+        { "slug": "vagabond", "title": "Vagabond", "genreSlug": "action", "status": "done" },
+        { "slug": "rurouni-kenshin", "title": "Rurouni Kenshin", "genreSlug": "action", "status": "done" },
+        { "slug": "yu-yu-hakusho", "title": "Yu Yu Hakusho", "genreSlug": "action", "status": "done" }
+      ]
+    },
+    {
+      "batch": 2,
+      "theme": "Fantasy & Isekai",
+      "articles": [
+        { "slug": "dungeon-meshi", "title": "Dungeon Meshi", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "frieren", "title": "Frieren: Beyond Journey's End", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "made-in-abyss", "title": "Made in Abyss", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "slime-isekai", "title": "That Time I Got Reincarnated as a Slime", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "ancient-magus-bride", "title": "The Ancient Magus' Bride", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "mushoku-tensei", "title": "Mushoku Tensei: Jobless Reincarnation", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "magi", "title": "Magi: The Labyrinth of Magic", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "konosuba", "title": "KonoSuba", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "re-zero", "title": "Re:Zero", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "rising-shield-hero", "title": "The Rising of the Shield Hero", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "no-game-no-life", "title": "No Game No Life", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "overlord", "title": "Overlord", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "goblin-slayer", "title": "Goblin Slayer", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "sword-art-online", "title": "Sword Art Online", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "ascendance-of-a-bookworm", "title": "Ascendance of a Bookworm", "genreSlug": "fantasy", "status": "pending" }
+      ]
+    },
+    {
+      "batch": 3,
+      "theme": "Romance",
+      "articles": [
+        { "slug": "fruits-basket", "title": "Fruits Basket", "genreSlug": "romance", "status": "pending" },
+        { "slug": "horimiya", "title": "Horimiya", "genreSlug": "romance", "status": "pending" },
+        { "slug": "ouran-host-club", "title": "Ouran High School Host Club", "genreSlug": "romance", "status": "pending" },
+        { "slug": "ao-haru-ride", "title": "Ao Haru Ride", "genreSlug": "romance", "status": "pending" },
+        { "slug": "my-love-story", "title": "My Love Story!!", "genreSlug": "romance", "status": "pending" },
+        { "slug": "wotakoi", "title": "Wotakoi: Love is Hard for Otaku", "genreSlug": "romance", "status": "pending" },
+        { "slug": "skip-and-loafer", "title": "Skip and Loafer", "genreSlug": "romance", "status": "pending" },
+        { "slug": "takagi-san", "title": "Teasing Master Takagi-san", "genreSlug": "romance", "status": "pending" },
+        { "slug": "nagatoro", "title": "Please Don't Bully Me, Nagatoro", "genreSlug": "romance", "status": "pending" },
+        { "slug": "monthly-girls-nozaki-kun", "title": "Monthly Girls' Nozaki-kun", "genreSlug": "romance", "status": "pending" },
+        { "slug": "bloom-into-you", "title": "Bloom Into You", "genreSlug": "romance", "status": "pending" },
+        { "slug": "your-lie-in-april", "title": "Your Lie in April", "genreSlug": "romance", "status": "pending" },
+        { "slug": "a-silent-voice", "title": "A Silent Voice", "genreSlug": "romance", "status": "pending" },
+        { "slug": "yona-of-the-dawn", "title": "Yona of the Dawn", "genreSlug": "romance", "status": "pending" },
+        { "slug": "lovely-complex", "title": "Lovely Complex", "genreSlug": "romance", "status": "pending" }
+      ]
+    },
+    {
+      "batch": 4,
+      "theme": "Horror & Dark",
+      "articles": [
+        { "slug": "uzumaki", "title": "Uzumaki", "genreSlug": "horror", "status": "pending" },
+        { "slug": "parasyte", "title": "Parasyte", "genreSlug": "horror", "status": "pending" },
+        { "slug": "monster", "title": "Monster", "genreSlug": "horror", "status": "pending" },
+        { "slug": "berserk", "title": "Berserk", "genreSlug": "horror", "status": "pending" },
+        { "slug": "dorohedoro", "title": "Dorohedoro", "genreSlug": "horror", "status": "pending" },
+        { "slug": "hellsing", "title": "Hellsing", "genreSlug": "horror", "status": "pending" },
+        { "slug": "higurashi", "title": "Higurashi When They Cry", "genreSlug": "horror", "status": "pending" },
+        { "slug": "tomie", "title": "Tomie", "genreSlug": "horror", "status": "pending" },
+        { "slug": "gantz", "title": "Gantz", "genreSlug": "horror", "status": "pending" },
+        { "slug": "elfen-lied", "title": "Elfen Lied", "genreSlug": "horror", "status": "pending" },
+        { "slug": "deadman-wonderland", "title": "Deadman Wonderland", "genreSlug": "horror", "status": "pending" },
+        { "slug": "homunculus", "title": "Homunculus", "genreSlug": "horror", "status": "pending" },
+        { "slug": "another", "title": "Another", "genreSlug": "horror", "status": "pending" },
+        { "slug": "promised-neverland", "title": "The Promised Neverland", "genreSlug": "horror", "status": "pending" },
+        { "slug": "shadows-house", "title": "Shadows House", "genreSlug": "horror", "status": "pending" }
+      ]
+    },
+    {
+      "batch": 5,
+      "theme": "Slice of Life",
+      "articles": [
+        { "slug": "yotsuba", "title": "Yotsuba&!", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "barakamon", "title": "Barakamon", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "march-comes-in-like-a-lion", "title": "March Comes in Like a Lion", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "silver-spoon", "title": "Silver Spoon", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "mushishi", "title": "Mushishi", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "laid-back-camp", "title": "Laid-Back Camp", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "way-of-the-househusband", "title": "The Way of the Househusband", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "non-non-biyori", "title": "Non Non Biyori", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "sweetness-and-lightning", "title": "Sweetness and Lightning", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "grand-blue", "title": "Grand Blue Dreaming", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "bunny-drop", "title": "Bunny Drop", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "my-neighbor-seki", "title": "My Neighbor Seki", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "a-man-and-his-cat", "title": "A Man and His Cat", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "blue-period", "title": "Blue Period", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "natsume-book-of-friends", "title": "Natsume's Book of Friends", "genreSlug": "slice-of-life", "status": "pending" }
+      ]
+    },
+    {
+      "batch": 6,
+      "theme": "Sports",
+      "articles": [
+        { "slug": "slam-dunk", "title": "Slam Dunk", "genreSlug": "sports", "status": "pending" },
+        { "slug": "kuroko-basketball", "title": "Kuroko's Basketball", "genreSlug": "sports", "status": "pending" },
+        { "slug": "blue-lock", "title": "Blue Lock", "genreSlug": "sports", "status": "pending" },
+        { "slug": "hajime-no-ippo", "title": "Hajime no Ippo", "genreSlug": "sports", "status": "pending" },
+        { "slug": "yowamushi-pedal", "title": "Yowamushi Pedal", "genreSlug": "sports", "status": "pending" },
+        { "slug": "ace-of-diamond", "title": "Ace of Diamond", "genreSlug": "sports", "status": "pending" },
+        { "slug": "prince-of-tennis", "title": "The Prince of Tennis", "genreSlug": "sports", "status": "pending" },
+        { "slug": "eyeshield-21", "title": "Eyeshield 21", "genreSlug": "sports", "status": "pending" },
+        { "slug": "major", "title": "Major", "genreSlug": "sports", "status": "pending" },
+        { "slug": "chihayafuru", "title": "Chihayafuru", "genreSlug": "sports", "status": "pending" },
+        { "slug": "cross-game", "title": "Cross Game", "genreSlug": "sports", "status": "pending" },
+        { "slug": "captain-tsubasa", "title": "Captain Tsubasa", "genreSlug": "sports", "status": "pending" },
+        { "slug": "ahiru-no-sora", "title": "Ahiru no Sora", "genreSlug": "sports", "status": "pending" },
+        { "slug": "baby-steps", "title": "Baby Steps", "genreSlug": "sports", "status": "pending" },
+        { "slug": "days", "title": "Days", "genreSlug": "sports", "status": "pending" }
+      ]
+    },
+    {
+      "batch": 7,
+      "theme": "Sci-Fi",
+      "articles": [
+        { "slug": "ghost-in-the-shell", "title": "Ghost in the Shell", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "pluto", "title": "Pluto", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "20th-century-boys", "title": "20th Century Boys", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "battle-angel-alita", "title": "Battle Angel Alita", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "nausicaa", "title": "Nausicaä of the Valley of the Wind", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "blame", "title": "Blame!", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "evangelion-manga", "title": "Neon Genesis Evangelion", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "knights-of-sidonia", "title": "Knights of Sidonia", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "terra-formars", "title": "Terra Formars", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "eden", "title": "Eden: It's an Endless World!", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "yokohama-kaidashi-kikou", "title": "Yokohama Kaidashi Kikou", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "astro-boy", "title": "Astro Boy", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "black-jack", "title": "Black Jack", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "biomega", "title": "Biomega", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "dr-stone", "title": "Dr. Stone", "genreSlug": "sci-fi", "status": "pending" }
+      ]
+    },
+    {
+      "batch": 8,
+      "theme": "Action Extended",
+      "articles": [
+        { "slug": "inuyasha", "title": "Inuyasha", "genreSlug": "action", "status": "pending" },
+        { "slug": "fairy-tail", "title": "Fairy Tail", "genreSlug": "action", "status": "pending" },
+        { "slug": "claymore", "title": "Claymore", "genreSlug": "action", "status": "pending" },
+        { "slug": "black-butler", "title": "Black Butler", "genreSlug": "action", "status": "pending" },
+        { "slug": "d-gray-man", "title": "D.Gray-man", "genreSlug": "action", "status": "pending" },
+        { "slug": "seven-deadly-sins", "title": "The Seven Deadly Sins", "genreSlug": "action", "status": "pending" },
+        { "slug": "katekyo-hitman-reborn", "title": "Katekyo Hitman Reborn!", "genreSlug": "action", "status": "pending" },
+        { "slug": "shaman-king", "title": "Shaman King", "genreSlug": "action", "status": "pending" },
+        { "slug": "black-clover", "title": "Black Clover", "genreSlug": "action", "status": "pending" },
+        { "slug": "fire-force", "title": "Fire Force", "genreSlug": "action", "status": "pending" },
+        { "slug": "golden-kamuy", "title": "Golden Kamuy", "genreSlug": "action", "status": "pending" },
+        { "slug": "beelzebub", "title": "Beelzebub", "genreSlug": "action", "status": "pending" },
+        { "slug": "toriko", "title": "Toriko", "genreSlug": "action", "status": "pending" },
+        { "slug": "pandora-hearts", "title": "Pandora Hearts", "genreSlug": "action", "status": "pending" },
+        { "slug": "record-of-ragnarok", "title": "Record of Ragnarok", "genreSlug": "action", "status": "pending" }
+      ]
+    },
+    {
+      "batch": 9,
+      "theme": "Fantasy Extended & Mystery",
+      "articles": [
+        { "slug": "witch-hat-atelier", "title": "Witch Hat Atelier", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "vanitas-no-carte", "title": "The Case Study of Vanitas", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "beastars", "title": "Beastars", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "moriarty-the-patriot", "title": "Moriarty the Patriot", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "otoyomegatari", "title": "A Bride's Story", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "given", "title": "Given", "genreSlug": "romance", "status": "pending" },
+        { "slug": "erased", "title": "Erased (Boku dake ga Inai Machi)", "genreSlug": "horror", "status": "pending" },
+        { "slug": "detective-conan", "title": "Detective Conan", "genreSlug": "action", "status": "pending" },
+        { "slug": "liar-game", "title": "Liar Game", "genreSlug": "horror", "status": "pending" },
+        { "slug": "say-i-love-you", "title": "Say I Love You", "genreSlug": "romance", "status": "pending" },
+        { "slug": "ao-no-flag", "title": "Ao no Flag", "genreSlug": "romance", "status": "pending" },
+        { "slug": "strobe-edge", "title": "Strobe Edge", "genreSlug": "romance", "status": "pending" },
+        { "slug": "wolf-girl-black-prince", "title": "Wolf Girl and Black Prince", "genreSlug": "romance", "status": "pending" },
+        { "slug": "flying-witch", "title": "Flying Witch", "genreSlug": "slice-of-life", "status": "pending" },
+        { "slug": "k-on", "title": "K-On!", "genreSlug": "slice-of-life", "status": "pending" }
+      ]
+    },
+    {
+      "batch": 10,
+      "theme": "Final Mix",
+      "articles": [
+        { "slug": "jojo-phantom-blood", "title": "JoJo's Bizarre Adventure: Phantom Blood", "genreSlug": "action", "status": "pending" },
+        { "slug": "jojo-battle-tendency", "title": "JoJo's Bizarre Adventure: Battle Tendency", "genreSlug": "action", "status": "pending" },
+        { "slug": "food-wars", "title": "Food Wars! Shokugeki no Soma", "genreSlug": "action", "status": "pending" },
+        { "slug": "kakegurui", "title": "Kakegurui", "genreSlug": "horror", "status": "pending" },
+        { "slug": "tomodachi-game", "title": "Tomodachi Game", "genreSlug": "horror", "status": "pending" },
+        { "slug": "world-trigger", "title": "World Trigger", "genreSlug": "action", "status": "pending" },
+        { "slug": "dragon-quest-dai", "title": "Dragon Quest: The Adventure of Dai", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "black-lagoon", "title": "Black Lagoon", "genreSlug": "action", "status": "pending" },
+        { "slug": "dragon-ball-super", "title": "Dragon Ball Super", "genreSlug": "action", "status": "pending" },
+        { "slug": "lone-wolf-and-cub", "title": "Lone Wolf and Cub", "genreSlug": "action", "status": "pending" },
+        { "slug": "trigun", "title": "Trigun", "genreSlug": "sci-fi", "status": "pending" },
+        { "slug": "samurai-8", "title": "Samurai 8: The Tale of Hachimaru", "genreSlug": "action", "status": "pending" },
+        { "slug": "tokyo-ghoul-re", "title": "Tokyo Ghoul:re", "genreSlug": "horror", "status": "pending" },
+        { "slug": "radiant", "title": "Radiant", "genreSlug": "fantasy", "status": "pending" },
+        { "slug": "tokyo-babylon", "title": "Tokyo Babylon", "genreSlug": "horror", "status": "pending" }
+      ]
+    }
+  ]
+}
