@@ -94,90 +94,86 @@ Target: 300 articles total
 - [x] sci-fi/inuyashiki
 - [x] sci-fi/gundam-the-origin
 
-## Batch 6 — Slice of Life 15
-- [ ] slice-of-life/blue-period
-- [ ] slice-of-life/komi-cant-communicate
-- [ ] slice-of-life/teasing-master-takagi-san
-- [ ] slice-of-life/bocchi-the-rock
-- [ ] slice-of-life/my-roommate-is-a-cat
-- [ ] slice-of-life/a-man-and-his-cat
-- [ ] slice-of-life/genshiken
-- [ ] slice-of-life/wagnaria
-- [ ] slice-of-life/aharen-san
-- [ ] slice-of-life/watamote
-- [ ] slice-of-life/chio-school-road
-- [ ] slice-of-life/silver-spoon
-- [ ] slice-of-life/barakamon
-- [ ] slice-of-life/sweetness-and-lightning
-- [ ] slice-of-life/yotsuba
+## Batch 6 — Slice of Life 14 ✅ COMMITTED (14 new articles, silver-spoon/barakamon/yotsuba already existed)
+- [x] slice-of-life/blue-period
+- [x] slice-of-life/komi-cant-communicate
+- [x] slice-of-life/teasing-master-takagi-san
+- [x] slice-of-life/bocchi-the-rock
+- [x] slice-of-life/my-roommate-is-a-cat
+- [x] slice-of-life/a-man-and-his-cat
+- [x] slice-of-life/genshiken
+- [x] slice-of-life/wagnaria
+- [x] slice-of-life/aharen-san
+- [x] slice-of-life/watamote
+- [x] slice-of-life/chio-school-road
+- [x] slice-of-life/sweetness-and-lightning
+- [x] slice-of-life/wotakoi
+- [x] slice-of-life/hinamatsuri
 
-## Batch 7 — Sports 15
-- [ ] sports/hikaru-no-go
-- [ ] sports/whistle
-- [ ] sports/hinomaru-sumo
-- [ ] sports/ashita-no-joe
-- [ ] sports/giant-killing
-- [ ] sports/area-no-kishi
-- [ ] sports/tsurune
-- [ ] sports/chihayafuru
-- [ ] sports/how-do-we-relationship
-- [ ] sports/harukana-receive
-- [ ] sports/basquash-manga
-- [ ] sports/major
-- [ ] sports/ippo-sequel
-- [ ] sports/ro-kyu-bu (basketball anime/manga)
-- [ ] sports/dear-boys
+## Batch 7 — Sports 16 ✅ COMMITTED (16 articles — one extra to cover cross-game already existing)
+- [x] sports/hikaru-no-go
+- [x] sports/whistle
+- [x] sports/hinomaru-sumo
+- [x] sports/ashita-no-joe
+- [x] sports/tsurune
+- [x] sports/chihayafuru
+- [x] sports/harukana-receive
+- [x] sports/farewell-my-dear-cramer
+- [x] sports/mix
+- [x] sports/baby-steps
+- [x] sports/teppu
+- [x] sports/robot-x-laserbeam
+- [x] sports/hanebado
+- [x] sports/kuroko-extra-game
+- [x] sports/ace-of-diamond
+- [x] sports/touch
 
-## Batch 8 — Action 15
-- [ ] action/buso-renkin
-- [ ] action/medaka-box
-- [ ] action/psyren
-- [ ] action/ushio-and-tora
-- [ ] action/zoids-manga
-- [ ] action/takopi-original-sin
-- [ ] action/the-eminence-in-shadow
-- [ ] action/sand-land
-- [ ] action/boruto
-- [ ] action/black-torch
-- [ ] action/smokin-parade
-- [ ] action/kemono-jihen
-- [ ] action/platinum-end
-- [ ] action/seraph-of-the-end
-- [ ] action/triage-x
+## Batch 8 — Action 11 ✅ COMMITTED (started 13, deleted 2 duplicates of horror/berserk and fantasy/seven-deadly-sins)
+- [x] action/buso-renkin
+- [x] action/psyren
+- [x] action/takopi-original-sin
+- [x] action/platinum-end
+- [x] action/seraph-of-the-end
+- [x] action/ushio-and-tora
+- [x] action/sand-land
+- [x] action/the-eminence-in-shadow
+- [x] action/medaka-box
+- [x] action/kemono-jihen
+- [x] action/boruto
 
-## Batch 9 — Fantasy/Sci-Fi Mix 15
-- [ ] fantasy/cardcaptor-sakura-clear-card
-- [ ] fantasy/somali-forest-spirit (duplicate — use: record-of-ragnarok)
-- [ ] sci-fi/fire-punch
-- [ ] sci-fi/no-guns-life
-- [ ] sci-fi/to-your-eternity
-- [ ] sci-fi/look-back
-- [ ] sci-fi/dead-dead-demons
-- [ ] sci-fi/nausicaa
-- [ ] sci-fi/eden-endless-world
-- [ ] sci-fi/solanin
-- [ ] sci-fi/seven-seeds
-- [ ] romance/watamote (moved)
-- [ ] romance/wotakoi-sequel
-- [ ] romance/tsubaki-chou-lonely-planet
-- [ ] romance/anonymous-noise
+## Batch 9 — Romance/Mix 15 ✅ COMMITTED
+- [x] romance/nisekoi
+- [x] romance/given
+- [x] romance/bloom-into-you
+- [x] romance/tomo-chan
+- [x] romance/wolf-girl-and-black-prince
+- [x] romance/anonymous-noise
+- [x] romance/takane-and-hana
+- [x] romance/yamada-kun-seven-witches
+- [x] romance/one-week-friends
+- [x] action/case-closed
+- [x] fantasy/devil-is-a-part-timer
+- [x] slice-of-life/miss-kobayashis-dragon-maid
+- [x] slice-of-life/interviews-with-monster-girls
+- [x] horror/magical-girl-apocalypse
+- [x] slice-of-life/tanaka-kun-is-always-listless
 
-## Batch 10 — Mix to reach 300
-- [ ] romance/ao-haru-ride-sequel
-- [ ] slice-of-life/dungeon-food (already in fantasy)
-- [ ] horror/happiness
-- [ ] horror/magical-girl-apocalypse
-- [ ] action/nanbaka
-- [ ] action/black-torch
-- [ ] sports/kuroko-no-basuke-extra-game
-- [ ] romance/voice-over
-- [ ] romance/wolf-girl-and-black-prince
-- [ ] romance/dreamin-sun
-- [ ] slice-of-life/gekkan-shoujo-nozaki (already: nozaki-kun)
-- [ ] action/dragon-ball-super
-- [ ] sci-fi/witch-hat-atelier (placed in fantasy)
-- [ ] horror/pumpkin-night
-- [ ] fantasy/saint-seiya
+## Batch 10 — Final Mix 15 ✅ COMMITTED
+- [x] romance/adachi-and-shimamura
+- [x] romance/sweet-blue-flowers
+- [x] romance/kiss-him-not-me
+- [x] romance/junjou-romantica
+- [x] romance/kase-san
+- [x] romance/haganai
+- [x] fantasy/log-horizon
+- [x] fantasy/by-the-grace-of-the-gods
+- [x] fantasy/cautious-hero
+- [x] fantasy/my-next-life-as-a-villainess
+- [x] sci-fi/astra-lost-in-space
+- [x] action/food-wars-shokugeki-no-soma
+- [x] action/radiant
+- [x] slice-of-life/restaurant-to-another-world
+- [x] sports/major
 
 ---
 
