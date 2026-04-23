@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "gore", "death of major characters", "psychological horror", "body horror"]
 description: "Yu's review of Jujutsu Kaisen — 27 volumes about cursed energy, sorcerers, and a boy sentenced to death who keeps finding reasons to keep going. Brutal, beautiful, and one of the most emotionally devastating manga of its generation."
-coverImage: "https://m.media-amazon.com/images/I/51h5G1-tKkL._SY445_SX342_.jpg"
+coverImage: "https://covers.openlibrary.org/b/isbn/1974710025-L.jpg"
 amazonASIN: "B081QW3QFP"
 publishedAt: "2026-04-23"
 tags: ["shonen", "cursed-energy", "dark-fantasy", "action", "completed", "mature"]

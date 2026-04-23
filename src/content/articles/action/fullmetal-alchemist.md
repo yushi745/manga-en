@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "war themes", "themes of death and grief", "body horror (brief)"]
 description: "Yu's review of Fullmetal Alchemist — 27 volumes of a story about two brothers, a terrible mistake, and what it truly costs to fix it. Widely considered the best-written manga ever made, and I agree."
-coverImage: "https://m.media-amazon.com/images/I/51HgCiRJ6dL._SY445_SX342_.jpg"
+coverImage: "https://covers.openlibrary.org/b/isbn/1591169208-L.jpg"
 amazonASIN: "B00JDRKY48"
 publishedAt: "2026-04-23"
 tags: ["shonen", "alchemy", "action", "fantasy", "completed", "brothers"]

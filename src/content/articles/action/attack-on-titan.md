@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "gore", "genocide", "war crimes", "body horror", "death of major characters", "psychological horror"]
 description: "Yu's review of Attack on Titan — a manga that starts as a monster story and becomes something far more disturbing: a story about what hatred and cycles of violence do to people and nations. Brilliant, brutal, and unforgettable."
-coverImage: "https://m.media-amazon.com/images/I/51Gd3bOUCBL._SY445_SX342_.jpg"
+coverImage: "https://covers.openlibrary.org/b/isbn/1612620248-L.jpg"
 amazonASIN: "B00CCOO1HA"
 publishedAt: "2026-04-23"
 tags: ["seinen", "dark-fantasy", "action", "political", "completed", "mature"]
