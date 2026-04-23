@@ -41,11 +41,11 @@ export const GENRES: Record<string, string> = {
 };
 
 export const SITE_CONFIG = {
-  name: "MangaWithYu",
+  name: "DearManga",
   subtitle: "Japanese Manga Reviews & Guides",
   description:
     "Yu, a manga fan from Japan, reviews Japanese manga for English-speaking readers. Honest reviews, cultural context, and everything you need to start reading.",
-  url: "https://www.mangawithyu.com",
+  url: "https://www.dearmanga.com",
   author: {
     name: "Yu",
     job: "Manga Enthusiast from Japan",
