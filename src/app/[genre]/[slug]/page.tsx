@@ -6,6 +6,7 @@ import Breadcrumb from "@/components/Breadcrumb";
 import MarkdownContent from "@/components/MarkdownContent";
 import AuthorBox from "@/components/AuthorBox";
 import AffiliateButton from "@/components/AffiliateButton";
+import CoverImage from "@/components/CoverImage";
 import type { Metadata } from "next";
 
 interface Props {
@@ -103,7 +104,7 @@ export default async function ArticlePage({ params }: Props) {
           <div className="flex gap-6">
             {frontmatter.coverImage && (
               <div className="shrink-0">
-                <img
+                <CoverImage
                   src={frontmatter.coverImage}
                   alt={frontmatter.mangaTitle}
                   className="h-40 w-28 rounded object-cover shadow"

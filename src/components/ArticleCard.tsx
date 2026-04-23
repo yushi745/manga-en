@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { Article } from "@/lib/types";
+import CoverImage from "@/components/CoverImage";
 
 export default function ArticleCard({ article }: { article: Article }) {
   const { frontmatter, genreSlug, slug } = article;
@@ -10,7 +11,7 @@ export default function ArticleCard({ article }: { article: Article }) {
         <div className="flex gap-4">
           {frontmatter.coverImage && (
             <div className="w-20 shrink-0">
-              <img
+              <CoverImage
                 src={frontmatter.coverImage}
                 alt={frontmatter.mangaTitle}
                 className="h-28 w-20 rounded object-cover"
