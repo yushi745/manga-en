@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(crontab -l)",
+      "Bash(npm run build *)",
+      "Bash(git -C * status *)",
+      "Bash(git -C * log *)",
+      "Bash(for * in *; do *)"
+    ]
+  }
+}
