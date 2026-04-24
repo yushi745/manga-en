@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["mild action violence", "desert survival themes"]
 description: "Yu's review of Sand Land — Beelzebub is the son of the Demon King; he teams up with an old sheriff named Rao to cross a desert and find a legendary lake, because the Demon Realm needs water and the king is hoarding what exists; Akira Toriyama's standalone adventure."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1591165520.01.LZZZZZZZ.jpg"
-amazonASIN: "1591165520"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1591161819.01.LZZZZZZZ.jpg"
+amazonASIN: "1591161819"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "completed", "Toriyama", "single-volume", "adventure"]
 rating: 4
@@ -123,7 +123,7 @@ VIZ Media published the single complete volume. Available.
 
 ## Where to Buy
 
-[Get Sand Land on Amazon →](https://www.amazon.com/dp/1591165520)
+[Get Sand Land on Amazon →](https://www.amazon.com/dp/1591161819)
 
 ---
 

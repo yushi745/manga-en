@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Nichijou — a high school slice-of-life where ordinary situations escalate to catastrophic absurdity, a robot girl tries to hide what she is, and the Professor is an eight-year-old genius who made her."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1939130476.01.LZZZZZZZ.jpg"
-amazonASIN: "1939130476"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1942993307.01.LZZZZZZZ.jpg"
+amazonASIN: "1942993307"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "school", "completed", "absurdist"]
 rating: 5
@@ -124,7 +124,7 @@ Vertical published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Nichijou Vol. 1 on Amazon →](https://www.amazon.com/dp/1939130476)
+[Get Nichijou Vol. 1 on Amazon →](https://www.amazon.com/dp/1942993307)
 
 ---
 

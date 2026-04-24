@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "sexual assault depicted (opening chapter is extremely graphic)", "trauma and PTSD themes", "dark fantasy throughout"]
 description: "Yu's review of Goblin Slayer — a manga about a warrior who kills only goblins, obsessively, methodically, because of what goblins did to him. The opening chapter is one of the most graphic in manga. What follows is a dark fantasy about trauma and obsession."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B07B9FQKHV.01.LZZZZZZZ.jpg"
-amazonASIN: "B07B9FQKHV"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/031643972X.01.LZZZZZZZ.jpg"
+amazonASIN: "031643972X"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "dark-fantasy", "completed", "mature", "action", "psychological"]
 rating: 3
@@ -178,8 +178,8 @@ Start from Volume 1 — but read the content warning first.
 
 ## Where to Buy
 
-- [📱 Goblin Slayer Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B07B9FQKHV)
-- [📚 Goblin Slayer Vol. 1 — Paperback](https://www.amazon.com/dp/9780316501590)
+- [📱 Goblin Slayer Vol. 1 — Kindle Edition](https://www.amazon.com/dp/031643972X)
+- [📚 Goblin Slayer Vol. 1 — Paperback](https://www.amazon.com/dp/031643972X)
 
 ---
 

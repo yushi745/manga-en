@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["child illness themes", "class discrimination themes", "mild political intrigue"]
 description: "Yu's review of Ascendance of a Bookworm — an isekai about a book-obsessed librarian reincarnated into a world with almost no books, who decides to make them from scratch. The most unique isekai premise, with exceptional world-building and character work."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B07N8V9TT2.01.LZZZZZZZ.jpg"
-amazonASIN: "B07N8V9TT2"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1718372507.01.LZZZZZZZ.jpg"
+amazonASIN: "1718372507"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "ongoing", "slice-of-life", "books", "world-building"]
 rating: 5
@@ -186,8 +186,8 @@ Start from Volume 1. The series builds patiently.
 
 ## Where to Buy
 
-- [📱 Ascendance of a Bookworm Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B07N8V9TT2)
-- [📚 Ascendance of a Bookworm Vol. 1 — Paperback](https://www.amazon.com/dp/9781718356849)
+- [📱 Ascendance of a Bookworm Vol. 1 — Kindle Edition](https://www.amazon.com/dp/1718372507)
+- [📚 Ascendance of a Bookworm Vol. 1 — Paperback](https://www.amazon.com/dp/1718372507)
 
 ---
 

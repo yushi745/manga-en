@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["false accusation themes", "slavery depicted (protagonist purchases a demi-human slave)", "action violence", "themes of betrayal and mistrust"]
 description: "Yu's review of The Rising of the Shield Hero — an isekai where the chosen hero is immediately betrayed, falsely accused, stripped of everything, and must rebuild from nothing. The most bitter isekai premise, with a satisfying arc of recovery."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B07BPMS84N.01.LZZZZZZZ.jpg"
-amazonASIN: "B07BPMS84N"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1935548700.01.LZZZZZZZ.jpg"
+amazonASIN: "1935548700"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "completed", "underdog", "action", "dark"]
 rating: 3
@@ -184,8 +184,8 @@ Start from Volume 1. The opening arc is essential.
 
 ## Where to Buy
 
-- [📱 Shield Hero Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B07BPMS84N)
-- [📚 Shield Hero Vol. 1 — Paperback](https://www.amazon.com/dp/9781642754292)
+- [📱 Shield Hero Vol. 1 — Kindle Edition](https://www.amazon.com/dp/1935548700)
+- [📚 Shield Hero Vol. 1 — Paperback](https://www.amazon.com/dp/1935548700)
 
 ---
 

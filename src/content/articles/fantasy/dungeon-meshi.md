@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "monster cooking (some disturbing imagery)", "themes of death and resurrection", "body horror elements in later volumes"]
 description: "Yu's review of Dungeon Meshi — 14 volumes about a party of adventurers who have to eat the monsters they defeat to survive. A cooking manga, a fantasy manga, and one of the most emotionally satisfying completed series of the decade."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B07BNJ3QRX.01.LZZZZZZZ.jpg"
-amazonASIN: "B07BNJ3QRX"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316471852.01.LZZZZZZZ.jpg"
+amazonASIN: "0316471852"
 publishedAt: "2026-04-23"
 tags: ["fantasy", "adventure", "comedy", "food", "completed", "world-building"]
 rating: 5
@@ -200,8 +200,8 @@ Start from Volume 1. The series is continuous and the world-building builds acro
 
 ## Where to Buy
 
-- [📱 Dungeon Meshi Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B07BNJ3QRX)
-- [📚 Dungeon Meshi Vol. 1 — Paperback](https://www.amazon.com/dp/9781975314026)
+- [📱 Dungeon Meshi Vol. 1 — Kindle Edition](https://www.amazon.com/dp/0316471852)
+- [📚 Dungeon Meshi Vol. 1 — Paperback](https://www.amazon.com/dp/0316471852)
 
 ---
 

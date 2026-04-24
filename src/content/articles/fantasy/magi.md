@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "war themes", "slavery depicted as a historical reality", "complex political themes", "some character death"]
 description: "Yu's review of Magi — 37 volumes of fantasy adventure inspired by One Thousand and One Nights. Aladdin, Alibaba, and Morgiana journey through a world of dungeons, djinn, and empires, in one of the most ambitious and underrated manga of its era."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00FPLNVPU.01.LZZZZZZZ.jpg"
-amazonASIN: "B00FPLNVPU"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421536595.01.LZZZZZZZ.jpg"
+amazonASIN: "1421536595"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "completed", "shonen", "political", "world-building"]
 rating: 5
@@ -188,8 +188,8 @@ Start from Volume 1. The political depth only works because the early adventurou
 
 ## Where to Buy
 
-- [📱 Magi Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00FPLNVPU)
-- [📚 Magi Vol. 1 — Paperback](https://www.amazon.com/dp/1421561468)
+- [📱 Magi Vol. 1 — Kindle Edition](https://www.amazon.com/dp/1421536595)
+- [📚 Magi Vol. 1 — Paperback](https://www.amazon.com/dp/1421536595)
 
 ---
 

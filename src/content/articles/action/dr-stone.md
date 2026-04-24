@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild violence", "science content", "themes of survival"]
 description: "Yu's review of Dr. Stone — Senku Ishigami, a scientific genius, wakes from a millennia-long stone petrification to find human civilization erased; he decides to use science to rebuild everything humanity ever created, starting from zero."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974708292.01.LZZZZZZZ.jpg"
-amazonASIN: "1974708292"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974702618.01.LZZZZZZZ.jpg"
+amazonASIN: "1974702618"
 publishedAt: "2026-04-24"
 tags: ["action", "sci-fi", "shonen", "completed", "science", "survival", "Boichi"]
 rating: 5
@@ -129,7 +129,7 @@ VIZ Media published the complete 26-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Dr. Stone Vol. 1 on Amazon →](https://www.amazon.com/dp/1974708292)
+[Get Dr. Stone Vol. 1 on Amazon →](https://www.amazon.com/dp/1974702618)
 
 ---
 

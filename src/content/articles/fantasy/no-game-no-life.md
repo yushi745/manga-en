@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["fan service and suggestive content (significant)", "incestuous undertones between siblings", "violence depicted through games", "psychological manipulation"]
 description: "Yu's review of No Game No Life — two genius shut-in siblings transported to a world where all conflict is resolved through games. The game mechanics are inventive, the visual style is distinctive, and the content warnings are real."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00V8GJJT4.01.LZZZZZZZ.jpg"
-amazonASIN: "B00V8GJJT4"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1626920796.01.LZZZZZZZ.jpg"
+amazonASIN: "1626920796"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "ongoing", "comedy", "games", "strategy"]
 rating: 3
@@ -179,8 +179,8 @@ Start from Volume 1.
 
 ## Where to Buy
 
-- [📱 No Game No Life Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00V8GJJT4)
-- [📚 No Game No Life Vol. 1 — Paperback](https://www.amazon.com/dp/9780316384407)
+- [📱 No Game No Life Vol. 1 — Kindle Edition](https://www.amazon.com/dp/1626920796)
+- [📚 No Game No Life Vol. 1 — Paperback](https://www.amazon.com/dp/1626920796)
 
 ---
 

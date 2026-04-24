@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "body horror", "child endangerment", "graphic injury and death", "psychological horror", "disturbing content throughout"]
 description: "Yu's review of Made in Abyss — a manga that looks like a children's adventure story and contains some of the most disturbing content in modern manga. A girl descends into a bottomless pit to find her mother. The pit does not want her to return."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B07BHG9HSP.01.LZZZZZZZ.jpg"
-amazonASIN: "B07BHG9HSP"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1626927731.01.LZZZZZZZ.jpg"
+amazonASIN: "1626927731"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "mature", "ongoing", "dark", "world-building"]
 rating: 5
@@ -196,8 +196,8 @@ Start from Volume 1. The series is continuous and the world-building builds acro
 
 ## Where to Buy
 
-- [📱 Made in Abyss Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B07BHG9HSP)
-- [📚 Made in Abyss Vol. 1 — Paperback](https://www.amazon.com/dp/9781626927742)
+- [📱 Made in Abyss Vol. 1 — Kindle Edition](https://www.amazon.com/dp/1626927731)
+- [📚 Made in Abyss Vol. 1 — Paperback](https://www.amazon.com/dp/1626927731)
 
 ---
 

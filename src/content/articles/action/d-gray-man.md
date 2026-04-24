@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "dark themes", "themes of trauma and sacrifice"]
 description: "Yu's review of D.Gray-man — a young exorcist with a cursed arm fights parasitic demons called Akuma in a 19th-century world, working for a secret church organization against the Millennium Earl who creates the Akuma from human grief."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421506041.01.LZZZZZZZ.jpg"
-amazonASIN: "1421506041"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421506238.01.LZZZZZZZ.jpg"
+amazonASIN: "1421506238"
 publishedAt: "2026-04-24"
 tags: ["action", "dark-fantasy", "shonen", "ongoing", "gothic"]
 rating: 4
@@ -124,7 +124,7 @@ VIZ Media is publishing the ongoing series. Currently 27 volumes available in En
 
 ## Where to Buy
 
-[Get D.Gray-man Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506041)
+[Get D.Gray-man Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506238)
 
 ---
 

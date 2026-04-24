@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["vampire violence", "blood", "sexual violence (an attack that transforms the protagonist)", "psychological horror", "body horror"]
 description: "Yu's review of Happiness — Makoto Okazaki is attacked and bitten by a vampire girl who then disappears; he begins transforming and craving blood, and is pulled into a world of people who are all becoming something that is no longer human."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632363240.01.LZZZZZZZ.jpg"
-amazonASIN: "1632363240"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632363631.01.LZZZZZZZ.jpg"
+amazonASIN: "1632363631"
 publishedAt: "2026-04-24"
 tags: ["horror", "vampire", "psychological", "completed", "Oshimi", "seinen"]
 rating: 4
@@ -125,7 +125,7 @@ Kodansha USA published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Happiness Vol. 1 on Amazon →](https://www.amazon.com/dp/1632363240)
+[Get Happiness Vol. 1 on Amazon →](https://www.amazon.com/dp/1632363631)
 
 ---
 

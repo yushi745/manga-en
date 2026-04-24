@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["MMO game mechanics as plot elements", "political world-building", "mild action violence"]
 description: "Yu's review of Log Horizon — when 30,000 Japanese players of the MMO Elder Tale are suddenly transported inside the game world, Shiroe — a legendary strategy player with no love for other people — must figure out what the new world's rules are and help build a functional society while uncovering why the Catastrophe happened."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316383341.01.LZZZZZZZ.jpg"
-amazonASIN: "0316383341"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316383066.01.LZZZZZZZ.jpg"
+amazonASIN: "0316383066"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "MMO", "completed", "strategy", "world-building", "Yen-Press"]
 rating: 4
@@ -128,7 +128,7 @@ Yen Press published the complete 11-volume manga adaptation. The light novel ser
 
 ## Where to Buy
 
-[Get Log Horizon Vol. 1 on Amazon →](https://www.amazon.com/dp/0316383341)
+[Get Log Horizon Vol. 1 on Amazon →](https://www.amazon.com/dp/0316383066)
 
 ---
 
