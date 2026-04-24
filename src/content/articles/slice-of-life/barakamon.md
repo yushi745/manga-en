@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild suggestive content (rare)", "themes of creative block and failure"]
 description: "Yu's review of Barakamon — a young calligrapher exiled to a rural island after punching a critic discovers that the village children, the sea air, and the ordinary chaos of island life might be what his art has been missing."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316270970.01.LZZZZZZZ.jpg"
-amazonASIN: "0316270970"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316336084.01.LZZZZZZZ.jpg"
+amazonASIN: "0316336084"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "art", "rural", "completed", "heartwarming"]
 rating: 5
@@ -132,7 +132,7 @@ Yen Press published the complete 18-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get Barakamon Vol. 1 on Amazon →](https://www.amazon.com/dp/0316270970)
+[Get Barakamon Vol. 1 on Amazon →](https://www.amazon.com/dp/0316336084)
 
 ---
 
