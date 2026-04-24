@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme graphic violence", "gore", "Nazi imagery (villains)", "religious themes", "dark humor"]
 description: "Yu's review of Hellsing — the secret British organization that uses a vampire to kill other vampires, featuring the most terrifyingly powerful protagonist in horror manga and one of the most spectacular final battles ever drawn."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781593070588-L.jpg"
-amazonASIN: "1593070586"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781593070564-L.jpg"
+amazonASIN: "1593070564"
 publishedAt: "2026-04-24"
 tags: ["horror", "action", "vampire", "mature", "completed", "dark-humor"]
 rating: 4
@@ -131,7 +131,7 @@ Dark Horse Comics published the complete 10-volume series in English. All volume
 
 ## Where to Buy
 
-[Get Hellsing Vol. 1 on Amazon →](https://www.amazon.com/dp/1593070586)
+[Get Hellsing Vol. 1 on Amazon →](https://www.amazon.com/dp/1593070564)
 
 ---
 

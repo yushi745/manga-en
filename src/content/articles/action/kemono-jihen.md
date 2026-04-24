@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["supernatural violence", "child mistreatment in backstory", "some horror elements"]
 description: "Yu's review of Kemono Jihen — Kabane is a half-Kemono (supernatural monster-human) boy who was mistreated by his relatives; he is discovered by Kohachi Inugami, who runs a Tokyo detective agency investigating supernatural Kemono cases; Kabane joins and learns what he is."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781646090136-L.jpg"
-amazonASIN: "1646090136"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781638585398-L.jpg"
+amazonASIN: "1638585393"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "ongoing", "yokai", "supernatural", "found-family"]
 rating: 4
@@ -125,7 +125,7 @@ Square Enix Manga is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get Kemono Jihen Vol. 1 on Amazon →](https://www.amazon.com/dp/1646090136)
+[Get Kemono Jihen Vol. 1 on Amazon →](https://www.amazon.com/dp/1638585393)
 
 ---
 

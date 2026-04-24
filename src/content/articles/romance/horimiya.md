@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild suggestive content", "parental abandonment themes"]
 description: "Yu's review of Horimiya — the popular girl hides her domestic home life, the quiet boy hides his piercings and tattoos, and when they accidentally discover each other's real selves, something begins."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316270366-L.jpg"
-amazonASIN: "0316270369"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780316270137-L.jpg"
+amazonASIN: "0316270134"
 publishedAt: "2026-04-24"
 tags: ["romance", "slice-of-life", "school", "shonen", "completed", "warm"]
 rating: 4
@@ -132,7 +132,7 @@ Yen Press published the complete 16-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get Horimiya Vol. 1 on Amazon →](https://www.amazon.com/dp/0316270369)
+[Get Horimiya Vol. 1 on Amazon →](https://www.amazon.com/dp/0316270134)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yuri (girls' love) romance", "gentle physical affection"]
 description: "Yu's review of Kase-san and Morning Glories — Yamada is a soft, gardening-focused girl; Kase-san is the school's star runner; they fall in love; the series follows their high school relationship with warmth and honest physical and emotional development."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781626925342-L.jpg"
-amazonASIN: "1626925348"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781626924703-L.jpg"
+amazonASIN: "1626924708"
 publishedAt: "2026-04-24"
 tags: ["romance", "yuri", "completed", "school", "gentle", "Seven-Seas"]
 rating: 5
@@ -124,7 +124,7 @@ Seven Seas Entertainment published the complete 5-volume series. A sequel series
 
 ## Where to Buy
 
-[Get Kase-san and Morning Glories Vol. 1 on Amazon →](https://www.amazon.com/dp/1626925348)
+[Get Kase-san and Morning Glories Vol. 1 on Amazon →](https://www.amazon.com/dp/1626924708)
 
 ---
 

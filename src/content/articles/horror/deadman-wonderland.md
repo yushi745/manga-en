@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "torture", "dark themes", "body horror"]
 description: "Yu's review of Deadman Wonderland — a middle schooler is framed for massacring his classmates and sent to a privatized prison that doubles as a theme park, where inmates fight for their lives as entertainment."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421564791-L.jpg"
-amazonASIN: "1421564793"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421555485-L.jpg"
+amazonASIN: "1421555484"
 publishedAt: "2026-04-24"
 tags: ["horror", "action", "dark", "completed", "prison"]
 rating: 4
@@ -122,7 +122,7 @@ VIZ Media published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Deadman Wonderland Vol. 1 on Amazon →](https://www.amazon.com/dp/1421564793)
+[Get Deadman Wonderland Vol. 1 on Amazon →](https://www.amazon.com/dp/1421555484)
 
 ---
 

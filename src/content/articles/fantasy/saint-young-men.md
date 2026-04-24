@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["religious satire", "mild comedy violence", "no intended offense to religious readers"]
 description: "Yu's review of Saint Young Men — Jesus Christ and Gautama Buddha share an apartment in Tokyo's Tachikawa neighborhood while on vacation, trying to experience ordinary human life while accidentally performing miracles."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781646518296-L.jpg"
-amazonASIN: "1646518292"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781632369369-L.jpg"
+amazonASIN: "1632369362"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "comedy", "slice-of-life", "religious-satire", "seinen", "ongoing"]
 rating: 5
@@ -125,7 +125,7 @@ Kodansha USA is publishing the ongoing series in English. Multiple volumes avail
 
 ## Where to Buy
 
-[Get Saint Young Men Vol. 1 on Amazon →](https://www.amazon.com/dp/1646518292)
+[Get Saint Young Men Vol. 1 on Amazon →](https://www.amazon.com/dp/1632369362)
 
 ---
 

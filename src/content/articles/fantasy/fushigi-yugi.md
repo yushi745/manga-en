@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "romance", "themes of sacrifice", "historical setting"]
 description: "Yu's review of Fushigi Yugi — a middle school girl is pulled into a historical Chinese fantasy book and becomes the Priestess of Suzaku, destined to gather seven celestial warriors and summon a god."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781569318867-L.jpg"
-amazonASIN: "1569318867"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781569319574-L.jpg"
+amazonASIN: "156931957X"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "romance", "shojo", "completed", "historical", "classic"]
 rating: 4
@@ -128,7 +128,7 @@ VIZ Media published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Fushigi Yugi Vol. 1 on Amazon →](https://www.amazon.com/dp/1569318867)
+[Get Fushigi Yugi Vol. 1 on Amazon →](https://www.amazon.com/dp/156931957X)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yuri (girls' love) romance", "themes of identity and emotional self-knowledge"]
 description: "Yu's review of Bloom Into You — Yuu Koito has never understood the romantic feelings people describe; Touko Nanami confesses to her and says she loves that Yuu does not love her back; the series follows both of them as that arrangement becomes impossible."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781626926929-L.jpg"
-amazonASIN: "1626926921"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781626924925-L.jpg"
+amazonASIN: "1626924929"
 publishedAt: "2026-04-24"
 tags: ["romance", "yuri", "completed", "drama", "identity", "school"]
 rating: 5
@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 8-volume series. All volumes ava
 
 ## Where to Buy
 
-[Get Bloom Into You Vol. 1 on Amazon →](https://www.amazon.com/dp/1626926921)
+[Get Bloom Into You Vol. 1 on Amazon →](https://www.amazon.com/dp/1626924929)
 
 ---
 

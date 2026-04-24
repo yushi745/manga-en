@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["harem romance", "mild fan service", "identical siblings identity themes"]
 description: "Yu's review of The Quintessential Quintuplets — Fuutarou Uesugi is hired as a tutor for five identical sisters who all refuse to study; the story spans their high school years, and the reader knows from the first page that one of them will marry him."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632365897-L.jpg"
-amazonASIN: "1632365898"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781632367747-L.jpg"
+amazonASIN: "1632367742"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "harem", "shonen", "completed", "mystery"]
 rating: 4
@@ -131,7 +131,7 @@ Kodansha USA published the complete 14-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get The Quintessential Quintuplets Vol. 1 on Amazon →](https://www.amazon.com/dp/1632365898)
+[Get The Quintessential Quintuplets Vol. 1 on Amazon →](https://www.amazon.com/dp/1632367742)
 
 ---
 

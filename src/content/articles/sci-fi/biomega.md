@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "body horror", "post-apocalyptic themes", "zombie-adjacent content"]
 description: "Yu's review of Biomega — in a future where a virus is turning humanity into zombie-like drones, a synthetic human named Zoichi Kanoe travels a dying Earth on a motorcycle with his AI bear partner, searching for immune humans."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421531694-L.jpg"
-amazonASIN: "1421531690"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421531847-L.jpg"
+amazonASIN: "1421531844"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "post-apocalyptic", "action", "completed", "unique"]
 rating: 4
@@ -120,7 +120,7 @@ VIZ Media published the complete 6-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Biomega Vol. 1 on Amazon →](https://www.amazon.com/dp/1421531690)
+[Get Biomega Vol. 1 on Amazon →](https://www.amazon.com/dp/1421531844)
 
 ---
 

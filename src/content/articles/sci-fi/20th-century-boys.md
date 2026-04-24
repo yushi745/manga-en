@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "death", "themes of cult manipulation", "dark themes throughout"]
 description: "Yu's review of 20th Century Boys — a childhood game about saving the world becomes real decades later, and a convenience store manager realizes a mysterious cult leader called 'Friend' is following a plan he wrote as a kid."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421523477-L.jpg"
-amazonASIN: "1421523477"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781591169222-L.jpg"
+amazonASIN: "1591169224"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "mystery", "thriller", "drama", "classic", "completed"]
 rating: 5
@@ -134,7 +134,7 @@ VIZ Media published the complete 22-volume series plus 21st Century Boys. All vo
 
 ## Where to Buy
 
-[Get 20th Century Boys Vol. 1 on Amazon →](https://www.amazon.com/dp/1421523477)
+[Get 20th Century Boys Vol. 1 on Amazon →](https://www.amazon.com/dp/1591169224)
 
 ---
 

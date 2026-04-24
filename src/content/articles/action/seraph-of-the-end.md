@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "death of children in opening", "dark themes", "vampires depicted with horror elements"]
 description: "Yu's review of Seraph of the End — a virus kills all adults; vampires emerge and enslave the surviving children as livestock; Yuichiro Hyakuya escapes and joins the Japanese Imperial Demon Army to avenge his orphan family and kill all vampires."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421571447-L.jpg"
-amazonASIN: "1421571447"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421571508-L.jpg"
+amazonASIN: "1421571501"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "ongoing", "vampires", "dark-fantasy", "post-apocalyptic"]
 rating: 4
@@ -123,7 +123,7 @@ VIZ Media is publishing the ongoing series. Multiple volumes available in Englis
 
 ## Where to Buy
 
-[Get Seraph of the End Vol. 1 on Amazon →](https://www.amazon.com/dp/1421571447)
+[Get Seraph of the End Vol. 1 on Amazon →](https://www.amazon.com/dp/1421571501)
 
 ---
 

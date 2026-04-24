@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "graphic horror", "existential themes", "tragedy", "apocalyptic themes"]
 description: "Yu's review of Devilman — a gentle boy merges with the demon Amon and becomes Devilman, fighting to protect humanity from demonic invasion, until the question of whether humanity is worth protecting becomes unavoidable."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781626929722-L.jpg"
-amazonASIN: "1626929726"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781626927575-L.jpg"
+amazonASIN: "1626927571"
 publishedAt: "2026-04-24"
 tags: ["horror", "dark-fantasy", "classic", "completed", "tragedy"]
 rating: 5
@@ -128,7 +128,7 @@ Seven Seas Entertainment published "Devilman: The Classic Collection" (2 omnibus
 
 ## Where to Buy
 
-[Get Devilman: The Classic Collection Vol. 1 on Amazon →](https://www.amazon.com/dp/1626929726)
+[Get Devilman: The Classic Collection Vol. 1 on Amazon →](https://www.amazon.com/dp/1626927571)
 
 ---
 

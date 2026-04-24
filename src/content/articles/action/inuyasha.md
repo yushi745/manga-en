@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of loss and death", "romance"]
 description: "Yu's review of InuYasha — a modern high school girl falls through a well into feudal Japan, meets a half-demon with dog ears, and must help collect the shards of a shattered magical jewel before an evil villain uses them to destroy everything."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781591162759-L.jpg"
-amazonASIN: "1591162750"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781569312629-L.jpg"
+amazonASIN: "1569312621"
 publishedAt: "2026-04-24"
 tags: ["action", "fantasy", "romance", "historical", "completed", "classic"]
 rating: 4
@@ -132,7 +132,7 @@ VIZ Media published the complete 56-volume series. VIZ Big omnibus editions are 
 
 ## Where to Buy
 
-[Get InuYasha VIZ Big Vol. 1 on Amazon →](https://www.amazon.com/dp/1591162750)
+[Get InuYasha VIZ Big Vol. 1 on Amazon →](https://www.amazon.com/dp/1569312621)
 
 ---
 

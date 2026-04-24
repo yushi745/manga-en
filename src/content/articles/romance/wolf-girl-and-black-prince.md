@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["emotionally manipulative relationship dynamics", "possessive behavior", "mild romance"]
 description: "Yu's review of Wolf Girl and Black Prince — Erika Shinohara lied to her friends about having a boyfriend and used a stranger's photo as proof; that stranger turns out to be the most popular boy in school, Kyoya Sata; he agrees to play her boyfriend in exchange for her acting as his dog — a romance that starts from a deeply uncomfortable power imbalance."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421578774-L.jpg"
-amazonASIN: "1421578778"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781974737529-L.jpg"
+amazonASIN: "1974737527"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "completed", "high-school", "VIZ"]
 rating: 3
@@ -125,7 +125,7 @@ VIZ Media published the complete 12-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Wolf Girl and Black Prince Vol. 1 on Amazon →](https://www.amazon.com/dp/1421578778)
+[Get Wolf Girl and Black Prince Vol. 1 on Amazon →](https://www.amazon.com/dp/1974737527)
 
 ---
 

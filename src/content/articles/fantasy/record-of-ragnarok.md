@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["intense violence", "blood", "death of major characters"]
 description: "Yu's review of Record of Ragnarok — the gods of every pantheon vote to destroy humanity, but a Valkyrie proposes one final tournament: 13 humans vs. 13 gods, with the fate of mankind as the prize."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974725731-L.jpg"
-amazonASIN: "1974725731"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781974727865-L.jpg"
+amazonASIN: "1974727866"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "action", "mythology", "tournament", "mature", "ongoing"]
 rating: 4
@@ -127,7 +127,7 @@ VIZ Media is publishing the ongoing series. Multiple volumes available simultane
 
 ## Where to Buy
 
-[Get Record of Ragnarok Vol. 1 on Amazon →](https://www.amazon.com/dp/1974725731)
+[Get Record of Ragnarok Vol. 1 on Amazon →](https://www.amazon.com/dp/1974727866)
 
 ---
 

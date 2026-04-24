@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "gore", "body horror", "death", "disturbing imagery"]
 description: "Yu's review of Hell's Paradise: Jigokuraku — a convicted ninja is sent to a supernatural island of horrors to find the elixir of immortality, paired with the executioner assigned to kill him."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974713493-L.jpg"
-amazonASIN: "1974713490"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781974713202-L.jpg"
+amazonASIN: "1974713202"
 publishedAt: "2026-04-24"
 tags: ["horror", "action", "historical", "supernatural", "completed"]
 rating: 4
@@ -134,7 +134,7 @@ VIZ Media published the complete 13-volume run in English. All volumes are avail
 
 ## Where to Buy
 
-[Get Hell's Paradise Vol. 1 on Amazon →](https://www.amazon.com/dp/1974713490)
+[Get Hell's Paradise Vol. 1 on Amazon →](https://www.amazon.com/dp/1974713202)
 
 ---
 

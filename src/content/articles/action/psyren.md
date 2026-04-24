@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "post-apocalyptic survival sequences", "some horror elements"]
 description: "Yu's review of Psyren — Ageha Yoshina finds a phone card called Psyren; using it transports him to a devastated future Japan where monsters called Taboo hunt humans; players who survive the game develop psychic powers; together with others, he tries to prevent this future from happening."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421538440-L.jpg"
-amazonASIN: "1421538440"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421559155-L.jpg"
+amazonASIN: "1421559153"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "completed", "sci-fi", "psychic", "time-travel"]
 rating: 4
@@ -127,7 +127,7 @@ VIZ Media published the complete 16-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Psyren Vol. 1 on Amazon →](https://www.amazon.com/dp/1421538440)
+[Get Psyren Vol. 1 on Amazon →](https://www.amazon.com/dp/1421559153)
 
 ---
 

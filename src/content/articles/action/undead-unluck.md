@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "suicide ideation themes", "body horror involving immortality", "romantic themes"]
 description: "Yu's review of Undead Unluck — Fuuko, a girl whose touch causes catastrophic misfortune to anyone around her, meets Andy, an immortal who wants to die; together they join a secret organization that fights supernatural rules governing reality."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974725144-L.jpg"
-amazonASIN: "1974725146"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781974719266-L.jpg"
+amazonASIN: "1974719262"
 publishedAt: "2026-04-24"
 tags: ["action", "supernatural", "shonen", "completed", "power-system"]
 rating: 4
@@ -127,7 +127,7 @@ VIZ Media published the complete 20-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Undead Unluck Vol. 1 on Amazon →](https://www.amazon.com/dp/1974725146)
+[Get Undead Unluck Vol. 1 on Amazon →](https://www.amazon.com/dp/1974719262)
 
 ---
 

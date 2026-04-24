@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["family dysfunction themes", "eating disorder themes (mild)", "emotional outbursts"]
 description: "Yu's review of Toradora! — a delinquent-looking boy and a tiny, terrifying girl make a deal to help each other confess to the other's best friend, and discover they had the wrong target all along."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781626921856-L.jpg"
-amazonASIN: "162692185X"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781934876947-L.jpg"
+amazonASIN: "1934876941"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "school", "completed", "classic", "light-novel-adaptation"]
 rating: 5
@@ -134,7 +134,7 @@ Seven Seas Entertainment published the complete 8-volume manga adaptation. All v
 
 ## Where to Buy
 
-[Get Toradora! Vol. 1 on Amazon →](https://www.amazon.com/dp/162692185X)
+[Get Toradora! Vol. 1 on Amazon →](https://www.amazon.com/dp/1934876941)
 
 ---
 

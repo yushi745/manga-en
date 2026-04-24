@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["teacher-student inappropriate behavior (comedic but present)"]
 description: "Yu's review of Azumanga Daioh — the manga that created the 4-koma school comedy genre, following six high school girls and two teachers across three years of school life."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316073899-L.jpg"
-amazonASIN: "0316073890"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780316077385-L.jpg"
+amazonASIN: "0316077380"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "school", "classic", "completed", "4-koma"]
 rating: 4
@@ -130,7 +130,7 @@ Yen Press published the complete omnibus edition (all four volumes in one book).
 
 ## Where to Buy
 
-[Get Azumanga Daioh Omnibus on Amazon →](https://www.amazon.com/dp/0316073890)
+[Get Azumanga Daioh Omnibus on Amazon →](https://www.amazon.com/dp/0316077380)
 
 ---
 

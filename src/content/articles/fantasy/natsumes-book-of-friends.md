@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["supernatural themes", "themes of loneliness and belonging", "some melancholy content"]
 description: "Yu's review of Natsume's Book of Friends — a teenager who can see spirits inherits a book from his deceased grandmother containing the names of spirits she had bound to her, and must return those names while navigating a world of supernatural beings and the human world he never quite fit into."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421521794-L.jpg"
-amazonASIN: "1421521792"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421532431-L.jpg"
+amazonASIN: "1421532433"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "supernatural", "shojo", "ongoing", "spirits", "healing", "classic"]
 rating: 5
@@ -127,7 +127,7 @@ VIZ Media is publishing the ongoing series. 29 volumes available in English.
 
 ## Where to Buy
 
-[Get Natsume's Book of Friends Vol. 1 on Amazon →](https://www.amazon.com/dp/1421521792)
+[Get Natsume's Book of Friends Vol. 1 on Amazon →](https://www.amazon.com/dp/1421532433)
 
 ---
 

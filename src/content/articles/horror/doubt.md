@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "murder", "death of characters", "gore"]
 description: "Yu's review of Doubt — six players of a mobile app called Rabbit Doubt wake up in an abandoned hospital wearing rabbit masks; one of them is the wolf in disguise, and they must identify the killer before everyone dies."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316071697-L.jpg"
-amazonASIN: "0316071692"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780316335126-L.jpg"
+amazonASIN: "0316335126"
 publishedAt: "2026-04-24"
 tags: ["horror", "thriller", "mystery", "completed", "survival-game"]
 rating: 4
@@ -126,7 +126,7 @@ Yen Press published the complete 4-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Doubt Vol. 1 on Amazon →](https://www.amazon.com/dp/0316071692)
+[Get Doubt Vol. 1 on Amazon →](https://www.amazon.com/dp/0316335126)
 
 ---
 

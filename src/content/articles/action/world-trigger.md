@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["tactical combat", "sci-fi violence", "themes of war and defense"]
 description: "Yu's review of World Trigger — a defense organization uses sci-fi weapons called Triggers to fight alien invaders called Neighbors, and a weak new recruit turns out to be connected to those invaders in unexpected ways."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421576978-L.jpg"
-amazonASIN: "1421576970"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421587080-L.jpg"
+amazonASIN: "1421587084"
 publishedAt: "2026-04-24"
 tags: ["action", "sci-fi", "tactical", "ongoing", "school"]
 rating: 4
@@ -126,7 +126,7 @@ VIZ Media is publishing the ongoing series. Currently 24 volumes available in En
 
 ## Where to Buy
 
-[Get World Trigger Vol. 1 on Amazon →](https://www.amazon.com/dp/1421576970)
+[Get World Trigger Vol. 1 on Amazon →](https://www.amazon.com/dp/1421587084)
 
 ---
 

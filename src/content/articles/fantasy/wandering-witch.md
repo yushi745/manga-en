@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["dark themes in individual story arcs", "death", "tragedy alongside lighter content", "mature themes presented unexpectedly"]
 description: "Yu's review of Wandering Witch: The Journey of Elaina — a young witch named Elaina travels from country to country, collecting experiences as a traveler, witnessing the beautiful and the terrible in equal measure."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975318321-L.jpg"
-amazonASIN: "1975318323"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781646090358-L.jpg"
+amazonASIN: "1646090357"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "anthology", "ongoing", "light-novel-adaptation"]
 rating: 4
@@ -126,7 +126,7 @@ Yen Press is publishing the ongoing manga adaptation. Multiple volumes available
 
 ## Where to Buy
 
-[Get Wandering Witch Vol. 1 on Amazon →](https://www.amazon.com/dp/1975318323)
+[Get Wandering Witch Vol. 1 on Amazon →](https://www.amazon.com/dp/1646090357)
 
 ---
 

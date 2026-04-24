@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "elite school setting"]
 description: "Yu's review of Special A — Hikari Hanazono has been second to Kei Takishima since childhood; she is completely dedicated to surpassing him and completely unaware that he has loved her for years."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421516028-L.jpg"
-amazonASIN: "1421516020"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421513751-L.jpg"
+amazonASIN: "1421513757"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "completed", "elite-school", "oblivious-heroine"]
 rating: 4
@@ -125,7 +125,7 @@ VIZ Media published the complete 17-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Special A Vol. 1 on Amazon →](https://www.amazon.com/dp/1421516020)
+[Get Special A Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513757)
 
 ---
 

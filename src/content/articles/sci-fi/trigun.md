@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "themes of pacifism and its limits", "death"]
 description: "Yu's review of Trigun Maximum — Vash the Stampede has a $$60 billion bounty, is the most feared man on a desert planet, and refuses to kill anyone. This is a manga about whether that conviction can survive everything the world throws at it."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781593074920-L.jpg"
-amazonASIN: "1593074921"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781593071967-L.jpg"
+amazonASIN: "1593071965"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "action", "western", "completed", "pacifism", "space-western"]
 rating: 5
@@ -130,7 +130,7 @@ Dark Horse Comics published the complete English series. All volumes available.
 
 ## Where to Buy
 
-[Get Trigun Maximum Vol. 1 on Amazon →](https://www.amazon.com/dp/1593074921)
+[Get Trigun Maximum Vol. 1 on Amazon →](https://www.amazon.com/dp/1593071965)
 
 ---
 

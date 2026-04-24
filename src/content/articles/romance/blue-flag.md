@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["LGBTQ+ themes (central to the story)", "unrequited love", "identity themes"]
 description: "Yu's review of Blue Flag — four high school students navigate overlapping feelings: Taichi likes Futaba, Futaba likes Touma, Touma's best friend Masumi likes Touma, and the feelings all connect in ways none of them can fully see."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974713271-L.jpg"
-amazonASIN: "1974713275"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781974331819-L.jpg"
+amazonASIN: "197433181X"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "LGBTQ", "shonen", "completed", "high-school"]
 rating: 5
@@ -129,7 +129,7 @@ VIZ Media published the complete 8-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Blue Flag Vol. 1 on Amazon →](https://www.amazon.com/dp/1974713275)
+[Get Blue Flag Vol. 1 on Amazon →](https://www.amazon.com/dp/197433181X)
 
 ---
 

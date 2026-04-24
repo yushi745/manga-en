@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["romantic content", "themes of social anxiety and trust issues", "mild sexual content in later volumes"]
 description: "Yu's review of Say I Love You — Mei Tachibana has had no friends for years after a childhood betrayal, but when she accidentally kicks the most popular boy in school, he inexplicably decides she is worth knowing."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781612625980-L.jpg"
-amazonASIN: "1612625983"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781612626024-L.jpg"
+amazonASIN: "1612626025"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "school", "completed", "trust"]
 rating: 4
@@ -122,7 +122,7 @@ Kodansha USA published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Say I Love You Vol. 1 on Amazon →](https://www.amazon.com/dp/1612625983)
+[Get Say I Love You Vol. 1 on Amazon →](https://www.amazon.com/dp/1612626025)
 
 ---
 

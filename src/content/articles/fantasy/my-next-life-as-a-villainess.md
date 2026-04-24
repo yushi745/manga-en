@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild comedy situations", "otome game tropes used as comedy", "mild romance"]
 description: "Yu's review of My Next Life as a Villainess — after a bump on the head, noble girl Catarina Claes realizes she is the villain of an otome game she played in her past life; in every route, her character gets exiled or killed; she spends the series desperately trying to avoid all bad endings, inadvertently charming everyone around her in the process."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781645057307-L.jpg"
-amazonASIN: "1645057305"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781642753295-L.jpg"
+amazonASIN: "1642753297"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "comedy", "completed", "otome-game", "Seven-Seas"]
 rating: 4
@@ -128,7 +128,7 @@ Seven Seas Entertainment published the complete 8-volume manga. The light novel 
 
 ## Where to Buy
 
-[Get My Next Life as a Villainess Vol. 1 on Amazon →](https://www.amazon.com/dp/1645057305)
+[Get My Next Life as a Villainess Vol. 1 on Amazon →](https://www.amazon.com/dp/1642753297)
 
 ---
 

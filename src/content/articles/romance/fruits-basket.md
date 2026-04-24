@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["emotional abuse", "family trauma", "themes of depression and isolation", "some violence"]
 description: "Yu's review of Fruits Basket — a girl who has lost everything moves in with a family cursed to transform into animals of the Chinese zodiac, and slowly melts the ice that generations of abuse built around their hearts."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316360579-L.jpg"
-amazonASIN: "0316360570"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781591826033-L.jpg"
+amazonASIN: "1591826039"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "shojo", "classic", "emotional", "completed"]
 rating: 5
@@ -134,7 +134,7 @@ Yen Press holds the current license and has published the complete series, inclu
 
 ## Where to Buy
 
-[Get Fruits Basket Collector's Edition Vol. 1 on Amazon →](https://www.amazon.com/dp/0316360570)
+[Get Fruits Basket Collector's Edition Vol. 1 on Amazon →](https://www.amazon.com/dp/1591826039)
 
 ---
 

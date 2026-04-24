@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild fanservice", "themes of loneliness and mortality"]
 description: "Yu's review of Spice and Wolf — a traveling merchant forms an unlikely partnership with Holo, an ancient wolf harvest deity, as they journey together through medieval trade routes toward her distant homeland."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316102230-L.jpg"
-amazonASIN: "0316102237"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780316073394-L.jpg"
+amazonASIN: "0316073393"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "romance", "completed", "unique", "economics"]
 rating: 5
@@ -126,7 +126,7 @@ Yen Press published the complete 16-volume manga series. All volumes available.
 
 ## Where to Buy
 
-[Get Spice and Wolf Vol. 1 on Amazon →](https://www.amazon.com/dp/0316102237)
+[Get Spice and Wolf Vol. 1 on Amazon →](https://www.amazon.com/dp/0316073393)
 
 ---
 

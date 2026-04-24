@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "political themes", "themes of loss and betrayal"]
 description: "Yu's review of Yona of the Dawn — a sheltered princess witnesses her father's murder, flees the palace with her bodyguard, and begins the journey to reclaim her kingdom and herself."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421587196-L.jpg"
-amazonASIN: "1421587190"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421587905-L.jpg"
+amazonASIN: "1421587904"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "shojo", "female-lead", "ongoing", "political"]
 rating: 5
@@ -130,7 +130,7 @@ VIZ Media (VIZ Signature) is publishing the ongoing series. Currently 38 volumes
 
 ## Where to Buy
 
-[Get Yona of the Dawn Vol. 1 on Amazon →](https://www.amazon.com/dp/1421587190)
+[Get Yona of the Dawn Vol. 1 on Amazon →](https://www.amazon.com/dp/1421587904)
 
 ---
 

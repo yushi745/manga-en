@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["gun violence", "action themes", "dark backstory"]
 description: "Yu's review of Black Cat — Train Heartnet, Chronos's Number XIII and most feared assassin, abandons the organization to become a Sweeper (bounty hunter) after a woman shows him that freedom is possible."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421504094-L.jpg"
-amazonASIN: "1421504099"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421506050-L.jpg"
+amazonASIN: "1421506055"
 publishedAt: "2026-04-24"
 tags: ["action", "sci-fi", "shonen", "completed", "guns"]
 rating: 4
@@ -124,7 +124,7 @@ VIZ Media published the complete 20-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Black Cat Vol. 1 on Amazon →](https://www.amazon.com/dp/1421504099)
+[Get Black Cat Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506055)
 
 ---
 

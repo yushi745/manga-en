@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["sports violence", "intense competition themes"]
 description: "Yu's review of Kuroko's Basketball — a player with almost no athletic ability but a complete inability to be noticed joins a basketball team, becoming the shadow who makes the ace shine."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421566405-L.jpg"
-amazonASIN: "1421566400"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421587714-L.jpg"
+amazonASIN: "1421587718"
 publishedAt: "2026-04-24"
 tags: ["sports", "basketball", "shonen", "completed", "fantasy-sports"]
 rating: 4
@@ -130,7 +130,7 @@ VIZ Media published the complete 30-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get Kuroko's Basketball Vol. 1 on Amazon →](https://www.amazon.com/dp/1421566400)
+[Get Kuroko's Basketball Vol. 1 on Amazon →](https://www.amazon.com/dp/1421587718)
 
 ---
 

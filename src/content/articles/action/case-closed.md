@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["murder mystery content", "some violence", "poison/drugs in story context"]
 description: "Yu's review of Case Closed (Detective Conan) — Shinichi Kudo is a teen genius detective who is given a poison by a criminal organization and shrunk to elementary school age; he lives with his childhood friend's family using a fake identity as Conan Edogawa; every volume contains multiple murder mysteries he must solve while hiding who he is."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781569319727-L.jpg"
-amazonASIN: "1569319723"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781591163275-L.jpg"
+amazonASIN: "1591163277"
 publishedAt: "2026-04-24"
 tags: ["mystery", "action", "shonen", "ongoing", "long-running", "VIZ"]
 rating: 4
@@ -128,7 +128,7 @@ VIZ Media is publishing the ongoing series with consistent releases. Over 100 vo
 
 ## Where to Buy
 
-[Get Case Closed Vol. 1 on Amazon →](https://www.amazon.com/dp/1569319723)
+[Get Case Closed Vol. 1 on Amazon →](https://www.amazon.com/dp/1591163277)
 
 ---
 

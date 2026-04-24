@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "body horror", "dark themes", "black comedy"]
 description: "Yu's review of Dorohedoro — a man with a lizard head and amnesia searches for the sorcerer who transformed him in a brutal city where sorcerers use humans as test subjects."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421533674-L.jpg"
-amazonASIN: "1421533677"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421533636-L.jpg"
+amazonASIN: "1421533634"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "dark-fantasy", "completed", "unique", "black-comedy"]
 rating: 5
@@ -126,7 +126,7 @@ VIZ Media published the complete 23-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Dorohedoro Vol. 1 on Amazon →](https://www.amazon.com/dp/1421533677)
+[Get Dorohedoro Vol. 1 on Amazon →](https://www.amazon.com/dp/1421533634)
 
 ---
 

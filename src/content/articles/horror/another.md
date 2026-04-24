@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic death", "horror violence", "mystery around death", "classroom horror"]
 description: "Yu's review of Another — a transfer student arrives at a middle school and discovers that his class has been dealing with a curse for decades: an extra student appears every year, and people connected to the class die."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316219013-L.jpg"
-amazonASIN: "0316219010"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780316245913-L.jpg"
+amazonASIN: "0316245917"
 publishedAt: "2026-04-24"
 tags: ["horror", "mystery", "school", "completed", "curse"]
 rating: 4
@@ -126,7 +126,7 @@ Yen Press published the complete 4-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Another Vol. 1 on Amazon →](https://www.amazon.com/dp/0316219010)
+[Get Another Vol. 1 on Amazon →](https://www.amazon.com/dp/0316245917)
 
 ---
 

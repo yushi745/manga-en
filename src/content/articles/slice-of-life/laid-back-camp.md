@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Laid-Back Camp — a girl who loves solo camping at the foot of Mount Fuji meets enthusiastic beginners who want to start a camping club, and both kinds of camping turn out to be good."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975328009-L.jpg"
-amazonASIN: "1975328000"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780316517829-L.jpg"
+amazonASIN: "0316517828"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "camping", "all-ages", "heartwarming", "ongoing", "nature"]
 rating: 5
@@ -136,7 +136,7 @@ Yen Press is publishing the ongoing series in English. Currently 13 volumes avai
 
 ## Where to Buy
 
-[Get Laid-Back Camp Vol. 1 on Amazon →](https://www.amazon.com/dp/1975328000)
+[Get Laid-Back Camp Vol. 1 on Amazon →](https://www.amazon.com/dp/0316517828)
 
 ---
 

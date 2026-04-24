@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "comedic situations"]
 description: "Yu's review of High School Debut — a sporty, enthusiastic girl who has never had a boyfriend asks the school's most popular and romantically experienced boy to coach her on how to get a boyfriend, but he falls for her instead."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421514758-L.jpg"
-amazonASIN: "1421514753"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421514819-L.jpg"
+amazonASIN: "1421514818"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "school", "completed"]
 rating: 4
@@ -122,7 +122,7 @@ VIZ Media published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get High School Debut Vol. 1 on Amazon →](https://www.amazon.com/dp/1421514753)
+[Get High School Debut Vol. 1 on Amazon →](https://www.amazon.com/dp/1421514818)
 
 ---
 

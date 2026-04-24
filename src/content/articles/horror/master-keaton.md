@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild violence", "Cold War themes", "some intense scenarios"]
 description: "Yu's review of Master Keaton — Taichi Hiraga Keaton is a half-British, half-Japanese former SAS survival expert who works as an insurance investigator for Lloyd's of London while dreaming of becoming an archaeologist; each case takes him somewhere in Europe with a different mystery."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421598499-L.jpg"
-amazonASIN: "1421598493"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421575896-L.jpg"
+amazonASIN: "1421575892"
 publishedAt: "2026-04-24"
 tags: ["horror", "mystery", "adventure", "seinen", "completed", "Urasawa"]
 rating: 5
@@ -125,7 +125,7 @@ VIZ Media published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Master Keaton Vol. 1 on Amazon →](https://www.amazon.com/dp/1421598493)
+[Get Master Keaton Vol. 1 on Amazon →](https://www.amazon.com/dp/1421575892)
 
 ---
 

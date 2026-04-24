@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["themes of purposelessness and depression", "death of a significant character", "the specific sadness of being young and uncertain"]
 description: "Yu's review of Solanin — Meiko works a job she hates; her boyfriend Taneda plays in a band that goes nowhere; together they ask what their lives are for in the specific way that only your mid-twenties allows."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421523996-L.jpg"
-amazonASIN: "1421523990"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421523217-L.jpg"
+amazonASIN: "142152321X"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "slice-of-life", "music", "completed", "Asano", "youth", "bittersweet"]
 rating: 5
@@ -125,7 +125,7 @@ VIZ Media published the complete series in a single omnibus volume. Available.
 
 ## Where to Buy
 
-[Get Solanin on Amazon →](https://www.amazon.com/dp/1421523990)
+[Get Solanin on Amazon →](https://www.amazon.com/dp/142152321X)
 
 ---
 

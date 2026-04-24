@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["suicidal ideation at series opening", "death battle content", "philosophical themes about god and existence"]
 description: "Yu's review of Platinum End — Mirai Kakehashi, at the edge of suicide, is given angel wings and arrows by his guardian angel; he and 12 other candidates chosen by angels are competing to become the next God; the creators of Death Note apply their formula to a theological competition."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421597249-L.jpg"
-amazonASIN: "1421597241"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421590639-L.jpg"
+amazonASIN: "1421590638"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "completed", "supernatural", "Ohba", "Obata", "Death-Note-creators"]
 rating: 3
@@ -124,7 +124,7 @@ VIZ Media published the complete 14-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Platinum End Vol. 1 on Amazon →](https://www.amazon.com/dp/1421597241)
+[Get Platinum End Vol. 1 on Amazon →](https://www.amazon.com/dp/1421590638)
 
 ---
 

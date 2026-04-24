@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["game violence", "boss fight content"]
 description: "Yu's review of Shangri-La Frontier — Rakuro Hizutome's hobby is playing terrible, broken games; when he tries Shangri-La Frontier, the world's most popular and technically perfect VR RPG, his experience with game-breaking strategies makes him approach it in ways no other player would."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781646519033-L.jpg"
-amazonASIN: "1646519033"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781646514823-L.jpg"
+amazonASIN: "1646514823"
 publishedAt: "2026-04-24"
 tags: ["action", "game", "isekai", "shonen", "ongoing", "boss-fights"]
 rating: 4
@@ -127,7 +127,7 @@ Kodansha USA is publishing the ongoing series. 16 volumes available in English.
 
 ## Where to Buy
 
-[Get Shangri-La Frontier Vol. 1 on Amazon →](https://www.amazon.com/dp/1646519033)
+[Get Shangri-La Frontier Vol. 1 on Amazon →](https://www.amazon.com/dp/1646514823)
 
 ---
 

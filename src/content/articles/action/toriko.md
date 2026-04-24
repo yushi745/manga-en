@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "hunting/eating of fictional creatures", "large-scale battles"]
 description: "Yu's review of Toriko — a Gourmet Hunter in a world where ingredients are the most precious things alive battles fantastic creatures to capture the rarest foods and complete his dream full-course meal."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421541716-L.jpg"
-amazonASIN: "1421541718"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421535098-L.jpg"
+amazonASIN: "1421535092"
 publishedAt: "2026-04-24"
 tags: ["action", "adventure", "shonen", "food", "completed"]
 rating: 4
@@ -128,7 +128,7 @@ VIZ Media published the complete 43-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Toriko Vol. 1 on Amazon →](https://www.amazon.com/dp/1421541718)
+[Get Toriko Vol. 1 on Amazon →](https://www.amazon.com/dp/1421535092)
 
 ---
 

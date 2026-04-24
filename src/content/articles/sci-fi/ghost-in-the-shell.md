@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "nudity", "adult themes", "cyberpunk violence"]
 description: "Yu's review of Ghost in the Shell — Major Motoko Kusanagi leads a counter-cyberterrorism unit in a future where the line between human and machine has dissolved, and pursues the mystery of a hacker called the Puppet Master."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781569715611-L.jpg"
-amazonASIN: "1569715610"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781632364210-L.jpg"
+amazonASIN: "1632364212"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "cyberpunk", "action", "classic", "philosophical", "completed"]
 rating: 5
@@ -130,7 +130,7 @@ Kodansha USA publishes the English editions. The current deluxe edition (larger 
 
 ## Where to Buy
 
-[Get Ghost in the Shell Deluxe Edition on Amazon →](https://www.amazon.com/dp/1569715610)
+[Get Ghost in the Shell Deluxe Edition on Amazon →](https://www.amazon.com/dp/1632364212)
 
 ---
 

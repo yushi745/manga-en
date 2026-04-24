@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["ecchi content", "harem situations", "some mature themes"]
 description: "Yu's review of Haganai: I Don't Have Many Friends — Kodaka Hasegawa is a loner because his blond hair makes him look like a delinquent; Yozora Mikazuki is a loner who lost her childhood friend; they accidentally form the Neighbors Club — a club for people who have no friends, to practice friendship; the comedy and eventual romance come from a group of social misfits figuring out what connection means."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781626920347-L.jpg"
-amazonASIN: "1626920346"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781937867126-L.jpg"
+amazonASIN: "1937867129"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "mature", "harem", "completed", "Seven-Seas"]
 rating: 3
@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 18-volume series. All volumes av
 
 ## Where to Buy
 
-[Get Haganai: I Don't Have Many Friends Vol. 1 on Amazon →](https://www.amazon.com/dp/1626920346)
+[Get Haganai: I Don't Have Many Friends Vol. 1 on Amazon →](https://www.amazon.com/dp/1937867129)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "zombie horror", "psychological breakdown", "body horror", "mature themes throughout"]
 description: "Yu's review of I Am a Hero — Hideo Suzuki is a 35-year-old assistant manga artist who has never succeeded at anything; when a zombie-like outbreak begins in Tokyo, his specific psychology — anxiety, failure, delusion — becomes the series' most interesting survival tool."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781616554514-L.jpg"
-amazonASIN: "1616554517"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781616559205-L.jpg"
+amazonASIN: "1616559209"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "horror", "seinen", "mature", "completed", "zombies", "psychological"]
 rating: 5
@@ -126,7 +126,7 @@ Dark Horse Comics published the complete 22-volume series. All volumes available
 
 ## Where to Buy
 
-[Get I Am a Hero Vol. 1 on Amazon →](https://www.amazon.com/dp/1616554517)
+[Get I Am a Hero Vol. 1 on Amazon →](https://www.amazon.com/dp/1616559209)
 
 ---
 

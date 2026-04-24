@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["romantic content", "hacking/technology themes", "themes of loss"]
 description: "Yu's review of Dengeki Daisy — a poor orphan girl is protected by a mysterious phone contact called DAISY, not knowing that the school janitor she argues with daily is DAISY himself."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421533230-L.jpg"
-amazonASIN: "142153323X"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421537276-L.jpg"
+amazonASIN: "1421537273"
 publishedAt: "2026-04-24"
 tags: ["romance", "mystery", "shojo", "completed", "technology"]
 rating: 4
@@ -120,7 +120,7 @@ VIZ Media published the complete 16-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Dengeki Daisy Vol. 1 on Amazon →](https://www.amazon.com/dp/142153323X)
+[Get Dengeki Daisy Vol. 1 on Amazon →](https://www.amazon.com/dp/1421537273)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["age gap romance (high schooler and adult man)", "mild comedy situations"]
 description: "Yu's review of Takane and Hana — sixteen-year-old Hana Nonomura attends an omiai in her sister's place as a prank; the man waiting is Takane Saibara, heir to a corporate empire, who has rejected every previous meeting; Hana argues with him immediately; he finds her refreshing and wants to see her again."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421598079-L.jpg"
-amazonASIN: "1421598078"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421599038-L.jpg"
+amazonASIN: "1421599031"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "completed", "age-gap", "comedy", "VIZ"]
 rating: 4
@@ -127,7 +127,7 @@ VIZ Media published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Takane & Hana Vol. 1 on Amazon →](https://www.amazon.com/dp/1421598078)
+[Get Takane & Hana Vol. 1 on Amazon →](https://www.amazon.com/dp/1421599031)
 
 ---
 

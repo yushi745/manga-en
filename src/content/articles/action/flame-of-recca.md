@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "tournament violence", "ninja themes"]
 description: "Yu's review of Flame of Recca — a high school boy obsessed with ninjas discovers he can summon fire and is actually an heir of the ancient Hokage flame ninja clan, pulling him into a battle with a deathless villain who wants to use the power of flames to achieve immortality."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781591160991-L.jpg"
-amazonASIN: "1591160995"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781591160663-L.jpg"
+amazonASIN: "1591160669"
 publishedAt: "2026-04-24"
 tags: ["action", "ninja", "tournament", "shonen", "completed", "classic"]
 rating: 4
@@ -129,7 +129,7 @@ VIZ Media published the complete 33-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Flame of Recca Vol. 1 on Amazon →](https://www.amazon.com/dp/1591160995)
+[Get Flame of Recca Vol. 1 on Amazon →](https://www.amazon.com/dp/1591160669)
 
 ---
 

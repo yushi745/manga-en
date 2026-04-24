@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["parental death backstory", "grief depicted gently"]
 description: "Yu's review of Sweetness and Lightning — Kouhei Inuzuka is a teacher and single father whose wife recently died; he cannot cook and his daughter Tsumugi eats convenience store food; a student named Kotori invites them to her family's empty restaurant and teaches him to cook for his daughter."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632362100-L.jpg"
-amazonASIN: "1632362104"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781632363695-L.jpg"
+amazonASIN: "1632363690"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "cooking", "seinen", "completed", "heartwarming", "family"]
 rating: 5
@@ -125,7 +125,7 @@ Kodansha USA published the complete 12-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Sweetness and Lightning Vol. 1 on Amazon →](https://www.amazon.com/dp/1632362104)
+[Get Sweetness and Lightning Vol. 1 on Amazon →](https://www.amazon.com/dp/1632363690)
 
 ---
 

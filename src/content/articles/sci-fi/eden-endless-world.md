@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "sexual content", "drug use", "mature themes throughout", "not for younger readers"]
 description: "Yu's review of Eden: It's an Endless World! — a plague destroyed most of humanity; a boy named Elijah grows up in the aftermath, in a world run by the Propater organization and his father's network of resistance, becoming something neither of them intended."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781595823069-L.jpg"
-amazonASIN: "1595823069"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781593074067-L.jpg"
+amazonASIN: "1593074069"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "seinen", "mature", "completed", "post-apocalyptic", "dark"]
 rating: 4
@@ -127,7 +127,7 @@ Dark Horse Comics published the complete 18-volume series. All volumes available
 
 ## Where to Buy
 
-[Get Eden: It's an Endless World! Vol. 1 on Amazon →](https://www.amazon.com/dp/1595823069)
+[Get Eden: It's an Endless World! Vol. 1 on Amazon →](https://www.amazon.com/dp/1593074069)
 
 ---
 

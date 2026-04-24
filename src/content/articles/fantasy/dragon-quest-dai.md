@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of sacrifice", "battle deaths"]
 description: "Yu's review of Dragon Quest: The Adventure of Dai — a boy raised on a monster island who always dreamed of being a hero discovers he may be the descendant of a legendary warrior, and sets out to defeat the demon lord threatening the world."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974732296-L.jpg"
-amazonASIN: "1974732296"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781974728930-L.jpg"
+amazonASIN: "1974728935"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "shonen", "classic", "completed", "RPG"]
 rating: 5
@@ -129,7 +129,7 @@ VIZ Media published the complete 25-volume series in 2020-2021. All volumes now 
 
 ## Where to Buy
 
-[Get Dragon Quest: The Adventure of Dai Vol. 1 on Amazon →](https://www.amazon.com/dp/1974732296)
+[Get Dragon Quest: The Adventure of Dai Vol. 1 on Amazon →](https://www.amazon.com/dp/1974728935)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death of a child character early", "themes of grief and moving forward"]
 description: "Yu's review of Cross Game — a boy who grew up next door to four sisters loses one of them when they are children, and grows up playing baseball while carrying what she meant to him."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421542294-L.jpg"
-amazonASIN: "1421542293"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421537580-L.jpg"
+amazonASIN: "1421537583"
 publishedAt: "2026-04-24"
 tags: ["sports", "baseball", "romance", "completed", "classic"]
 rating: 5
@@ -122,7 +122,7 @@ VIZ Media published the complete 17-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Cross Game Vol. 1 on Amazon →](https://www.amazon.com/dp/1421542293)
+[Get Cross Game Vol. 1 on Amazon →](https://www.amazon.com/dp/1421537583)
 
 ---
 

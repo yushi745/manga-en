@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "dark government themes", "supernatural powers"]
 description: "Yu's review of Code:Breaker — a high school girl witnesses a boy burn people alive with blue flame and realizes he is a Code:Breaker, a government agent authorized to kill using supernatural powers."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781612622750-L.jpg"
-amazonASIN: "1612622755"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780345520999-L.jpg"
+amazonASIN: "0345520998"
 publishedAt: "2026-04-24"
 tags: ["action", "supernatural", "shonen", "completed", "government"]
 rating: 3
@@ -122,7 +122,7 @@ Kodansha USA published the complete 26-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Code:Breaker Vol. 1 on Amazon →](https://www.amazon.com/dp/1612622755)
+[Get Code:Breaker Vol. 1 on Amazon →](https://www.amazon.com/dp/0345520998)
 
 ---
 

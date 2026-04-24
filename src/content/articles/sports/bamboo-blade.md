@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild fanservice", "comedic situations", "sports competition"]
 description: "Yu's review of Bamboo Blade — a high school kendo coach who is always broke makes a bet with an old friend that his team will beat theirs, motivating him to actually assemble a team from his club's few members."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780759529823-L.jpg"
-amazonASIN: "0759529825"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780316240536-L.jpg"
+amazonASIN: "0316240532"
 publishedAt: "2026-04-24"
 tags: ["sports", "comedy", "kendo", "completed", "school"]
 rating: 4
@@ -126,7 +126,7 @@ Yen Press published the complete 15-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Bamboo Blade Vol. 1 on Amazon →](https://www.amazon.com/dp/0759529825)
+[Get Bamboo Blade Vol. 1 on Amazon →](https://www.amazon.com/dp/0316240532)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["violence", "disturbing content", "body horror", "sexual themes", "psychological content"]
 description: "Yu's review of Gleipnir — Shuichi can transform into a large, empty monster suit; Clair discovers this and climbs inside him to control his transformed body, and together they enter a game where humans who collected alien coins can have any wish granted."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632368133-L.jpg"
-amazonASIN: "1632368132"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781632367631-L.jpg"
+amazonASIN: "1632367637"
 publishedAt: "2026-04-24"
 tags: ["action", "supernatural", "mature", "completed", "seinen", "psychological"]
 rating: 4
@@ -125,7 +125,7 @@ Kodansha USA published the complete 14-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Gleipnir Vol. 1 on Amazon →](https://www.amazon.com/dp/1632368132)
+[Get Gleipnir Vol. 1 on Amazon →](https://www.amazon.com/dp/1632367637)
 
 ---
 

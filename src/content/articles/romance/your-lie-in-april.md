@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["terminal illness", "death", "grief", "parental abuse themes", "emotional trauma"]
 description: "Yu's review of Your Lie in April — a piano prodigy who lost his ability to hear his own music after his mother's death meets a violinist who plays like she is throwing everything she has at the sky."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781612629414-L.jpg"
-amazonASIN: "1612629415"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781632361714-L.jpg"
+amazonASIN: "1632361714"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "music", "tragedy", "emotional", "completed"]
 rating: 5
@@ -130,7 +130,7 @@ Kodansha USA published the complete 11-volume series. All volumes available in p
 
 ## Where to Buy
 
-[Get Your Lie in April Vol. 1 on Amazon →](https://www.amazon.com/dp/1612629415)
+[Get Your Lie in April Vol. 1 on Amazon →](https://www.amazon.com/dp/1632361714)
 
 ---
 

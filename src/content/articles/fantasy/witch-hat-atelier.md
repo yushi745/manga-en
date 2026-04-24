@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy peril", "themes of forbidden knowledge", "mild body horror in certain arcs"]
 description: "Yu's review of Witch Hat Atelier — a girl born without magic witnesses the forbidden secret of how magic actually works, and must now become a witch to undo what she accidentally caused."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632366627-L.jpg"
-amazonASIN: "1632366627"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781632367709-L.jpg"
+amazonASIN: "1632367700"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "seinen", "magic", "art", "ongoing", "award-winning"]
 rating: 5
@@ -129,7 +129,7 @@ Kodansha USA is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get Witch Hat Atelier Vol. 1 on Amazon →](https://www.amazon.com/dp/1632366627)
+[Get Witch Hat Atelier Vol. 1 on Amazon →](https://www.amazon.com/dp/1632367700)
 
 ---
 

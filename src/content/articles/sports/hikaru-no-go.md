@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["mild supernatural elements", "competitive pressure"]
 description: "Yu's review of Hikaru no Go — Hikaru Shindo discovers a haunted Go board inhabited by the spirit of a Heian-era master; the spirit possesses him during games; Hikaru gradually discovers his own passion for Go and his desire to surpass the ghost that started everything."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781591164616-L.jpg"
-amazonASIN: "159116461X"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421510682-L.jpg"
+amazonASIN: "1421510685"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "go", "board-game", "Takeshi-Obata"]
 rating: 5
@@ -125,7 +125,7 @@ VIZ Media published the complete 23-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Hikaru no Go Vol. 1 on Amazon →](https://www.amazon.com/dp/159116461X)
+[Get Hikaru no Go Vol. 1 on Amazon →](https://www.amazon.com/dp/1421510685)
 
 ---
 

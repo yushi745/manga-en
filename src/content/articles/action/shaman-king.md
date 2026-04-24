@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of death and spiritual world", "intense tournament combat"]
 description: "Yu's review of Shaman King — a laid-back shaman who communes with spirits enters the Shaman Fight, a tournament held every 500 years to determine who becomes the Shaman King and reshapes the world."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974721139-L.jpg"
-amazonASIN: "197472113X"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781646512003-L.jpg"
+amazonASIN: "1646512006"
 publishedAt: "2026-04-24"
 tags: ["action", "fantasy", "shonen", "spirits", "tournament", "completed"]
 rating: 4
@@ -130,7 +130,7 @@ VIZ Media published the Complete Edition (27 volumes in the complete format). Al
 
 ## Where to Buy
 
-[Get Shaman King Complete Edition Vol. 1 on Amazon →](https://www.amazon.com/dp/197472113X)
+[Get Shaman King Complete Edition Vol. 1 on Amazon →](https://www.amazon.com/dp/1646512006)
 
 ---
 

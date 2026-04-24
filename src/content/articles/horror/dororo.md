@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "dark themes", "body horror (limb absence)", "war themes", "themes of parental abandonment"]
 description: "Yu's review of Dororo — a feudal lord sacrificed his unborn son's body parts to demons to gain power. Now that son, Hyakkimaru, wanders Japan killing the 48 demons to reclaim his limbs, senses, and humanity."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781935654032-L.jpg"
-amazonASIN: "1935654039"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781934287163-L.jpg"
+amazonASIN: "1934287164"
 publishedAt: "2026-04-24"
 tags: ["horror", "action", "historical", "classic", "osamu-tezuka", "completed"]
 rating: 5
@@ -130,7 +130,7 @@ Vertical published the complete English edition in four volumes. All volumes ava
 
 ## Where to Buy
 
-[Get Dororo Vol. 1 on Amazon →](https://www.amazon.com/dp/1935654039)
+[Get Dororo Vol. 1 on Amazon →](https://www.amazon.com/dp/1934287164)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of sacrifice and loss", "complex narrative involving timeline manipulation"]
 description: "Yu's review of Tsubasa Reservoir Chronicle — a young excavator must travel across parallel dimensions to recover the scattered feathers containing the memories of Princess Sakura, paying an impossible price to do so."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780345470904-L.jpg"
-amazonASIN: "0345470907"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780345470577-L.jpg"
+amazonASIN: "0345470575"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "shonen", "CLAMP", "completed", "multiverse"]
 rating: 4
@@ -130,7 +130,7 @@ Del Rey / Kodansha USA published the complete 28-volume series. All volumes avai
 
 ## Where to Buy
 
-[Get Tsubasa Reservoir Chronicle Vol. 1 on Amazon →](https://www.amazon.com/dp/0345470907)
+[Get Tsubasa Reservoir Chronicle Vol. 1 on Amazon →](https://www.amazon.com/dp/0345470575)
 
 ---
 

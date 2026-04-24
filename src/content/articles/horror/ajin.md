@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "torture", "body horror", "death", "government experimentation"]
 description: "Yu's review of Ajin: Demi-Human — a high school student discovers he is an Ajin, an immortal being that the government has been secretly capturing and experimenting on, and must decide which side to fight for."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632361271-L.jpg"
-amazonASIN: "1632361272"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781941220214-L.jpg"
+amazonASIN: "1941220215"
 publishedAt: "2026-04-24"
 tags: ["horror", "thriller", "supernatural", "action", "completed"]
 rating: 4
@@ -132,7 +132,7 @@ Kodansha USA published the complete 17-volume series in English. All volumes are
 
 ## Where to Buy
 
-[Get Ajin: Demi-Human Vol. 1 on Amazon →](https://www.amazon.com/dp/1632361272)
+[Get Ajin: Demi-Human Vol. 1 on Amazon →](https://www.amazon.com/dp/1941220215)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Flying Witch — a teenage witch moves to rural Aomori to complete her training, lives with her cousins, and spends most of her time tending her garden, harvesting magical plants, and introducing her neighbors to the world of magic."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632362766-L.jpg"
-amazonASIN: "1632362767"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781945054105-L.jpg"
+amazonASIN: "1945054107"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "fantasy", "rural", "ongoing", "gentle"]
 rating: 5
@@ -124,7 +124,7 @@ Kodansha USA is publishing the ongoing series. Currently 11 volumes available in
 
 ## Where to Buy
 
-[Get Flying Witch Vol. 1 on Amazon →](https://www.amazon.com/dp/1632362767)
+[Get Flying Witch Vol. 1 on Amazon →](https://www.amazon.com/dp/1945054107)
 
 ---
 

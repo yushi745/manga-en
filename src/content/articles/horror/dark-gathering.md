@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["horror content", "spirit possession", "disturbing imagery", "child protagonist in danger"]
 description: "Yu's review of Dark Gathering — Keitaro Gentoge is a shut-in with spiritual magnetism; when his childhood friend's daughter Yayoi — who has enormous spiritual power and uses it to collect evil spirits — enters his life, he is pulled into her crusade to find the spirit that took her mother."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974742820-L.jpg"
-amazonASIN: "1974742822"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781974738946-L.jpg"
+amazonASIN: "1974738949"
 publishedAt: "2026-04-24"
 tags: ["horror", "supernatural", "shonen", "ongoing", "spirit-hunting"]
 rating: 4
@@ -125,7 +125,7 @@ VIZ Media is publishing the ongoing series. 8 volumes available in English.
 
 ## Where to Buy
 
-[Get Dark Gathering Vol. 1 on Amazon →](https://www.amazon.com/dp/1974742822)
+[Get Dark Gathering Vol. 1 on Amazon →](https://www.amazon.com/dp/1974738949)
 
 ---
 

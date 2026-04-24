@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "All Ages"
 contentWarnings: ["game violence (consequence-free)", "none significant"]
 description: "Yu's review of Bofuri — Maple is a beginner gamer who puts all her stats into VIT (defense) to avoid pain, accidentally absorbs every overpowered ability she encounters, and becomes a walking catastrophe in the shape of a cheerful girl."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975317492-L.jpg"
-amazonASIN: "1975317491"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781975323868-L.jpg"
+amazonASIN: "1975323866"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "game", "isekai", "comedy", "ongoing", "all-ages"]
 rating: 4
@@ -126,7 +126,7 @@ Yen Press is publishing the ongoing manga adaptation. Multiple volumes available
 
 ## Where to Buy
 
-[Get Bofuri Vol. 1 on Amazon →](https://www.amazon.com/dp/1975317491)
+[Get Bofuri Vol. 1 on Amazon →](https://www.amazon.com/dp/1975323866)
 
 ---
 

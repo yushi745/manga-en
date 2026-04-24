@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "sexual violence (implied)", "dismemberment", "psychological horror", "misogyny depicted critically"]
 description: "Yu's review of Tomie — a beautiful girl who drives men to murder her and then regenerates, again and again, in a horror anthology that is also a deeply uncomfortable portrait of obsession and violence against women."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421590660-L.jpg"
-amazonASIN: "1421590662"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421590561-L.jpg"
+amazonASIN: "1421590565"
 publishedAt: "2026-04-24"
 tags: ["horror", "junji-ito", "psychological", "body-horror", "anthology"]
 rating: 4
@@ -129,7 +129,7 @@ VIZ Media published a complete deluxe edition containing all Tomie stories. This
 
 ## Where to Buy
 
-[Get Tomie (Complete Deluxe Edition) on Amazon →](https://www.amazon.com/dp/1421590662)
+[Get Tomie (Complete Deluxe Edition) on Amazon →](https://www.amazon.com/dp/1421590565)
 
 ---
 

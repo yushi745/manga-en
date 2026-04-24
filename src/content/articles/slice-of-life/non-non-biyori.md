@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Non Non Biyori — five students in a tiny rural school (total enrollment: five) experience the small, seasonal rhythms of countryside life in a mountain village far from anything."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781626923546-L.jpg"
-amazonASIN: "1626923540"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781626921481-L.jpg"
+amazonASIN: "1626921482"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "rural", "all-ages", "completed", "seasonal"]
 rating: 4
@@ -130,7 +130,7 @@ Seven Seas Entertainment published the complete 15-volume series. All volumes av
 
 ## Where to Buy
 
-[Get Non Non Biyori Vol. 1 on Amazon →](https://www.amazon.com/dp/1626923540)
+[Get Non Non Biyori Vol. 1 on Amazon →](https://www.amazon.com/dp/1626921482)
 
 ---
 

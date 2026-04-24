@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "emotional content", "themes of friendship and sacrifice"]
 description: "Yu's review of Zatch Bell! — a genius middle schooler named Kiyo partners with Zatch, a demon child who must win a battle royale against 100 other demon children to become King of the Mamodo World."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421506425-L.jpg"
-amazonASIN: "1421506424"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781591165866-L.jpg"
+amazonASIN: "1591165865"
 publishedAt: "2026-04-24"
 tags: ["action", "adventure", "shonen", "completed", "classic", "friendship"]
 rating: 5
@@ -129,7 +129,7 @@ VIZ Media published the complete 33-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Zatch Bell! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506424)
+[Get Zatch Bell! Vol. 1 on Amazon →](https://www.amazon.com/dp/1591165865)
 
 ---
 

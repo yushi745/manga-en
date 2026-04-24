@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "death of children", "psychological horror", "dark themes"]
 description: "Yu's review of The Promised Neverland — orphan children living a perfect life discover their farm is raising them as food for demons. A survival thriller that starts as one of the best manga ever made."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974711697-L.jpg"
-amazonASIN: "1974711692"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781421597140-L.jpg"
+amazonASIN: "1421597144"
 publishedAt: "2026-04-24"
 tags: ["horror", "thriller", "shonen", "survival", "psychological"]
 rating: 4
@@ -132,7 +132,7 @@ VIZ Media published the complete 20-volume series in English. All volumes are av
 
 ## Where to Buy
 
-[Get The Promised Neverland Vol. 1 on Amazon →](https://www.amazon.com/dp/1974711692)
+[Get The Promised Neverland Vol. 1 on Amazon →](https://www.amazon.com/dp/1421597144)
 
 ---
 

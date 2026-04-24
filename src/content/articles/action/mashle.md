@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["comedy violence", "parody content"]
 description: "Yu's review of Mashle: Magic and Muscles — in a world where magic determines social status, Mash Burnedead has no magic at all; he compensates entirely through physical strength so absurd it defeats every magical opponent he encounters."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974725021-L.jpg"
-amazonASIN: "1974725022"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781974719297-L.jpg"
+amazonASIN: "1974719294"
 publishedAt: "2026-04-24"
 tags: ["action", "comedy", "shonen", "completed", "parody", "Harry-Potter-parody"]
 rating: 4
@@ -127,7 +127,7 @@ VIZ Media published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Mashle: Magic and Muscles Vol. 1 on Amazon →](https://www.amazon.com/dp/1974725022)
+[Get Mashle: Magic and Muscles Vol. 1 on Amazon →](https://www.amazon.com/dp/1974719294)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["cringe comedy with real social anxiety", "isolation and loneliness depicted honestly", "mild mature thoughts"]
 description: "Yu's review of WataMote — Tomoko Kuroki is convinced she will be popular in high school because she has extensive experience with otome games; she is not popular; every attempt to change this makes it worse; the manga is simultaneously the funniest and most painful depiction of teenage social isolation in manga."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316254809-L.jpg"
-amazonASIN: "0316254800"
+coverImage: "https://covers.openlibrary.org/b/isbn/9780316243162-L.jpg"
+amazonASIN: "0316243167"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "seinen", "ongoing", "social-anxiety", "cringe"]
 rating: 4
@@ -127,7 +127,7 @@ Yen Press is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get WataMote Vol. 1 on Amazon →](https://www.amazon.com/dp/0316254800)
+[Get WataMote Vol. 1 on Amazon →](https://www.amazon.com/dp/0316243167)
 
 ---
 

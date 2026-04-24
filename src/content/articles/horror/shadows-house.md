@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["mystery around character true nature", "themes of control and identity", "gothic horror atmosphere", "some violence"]
 description: "Yu's review of Shadows' House — Kate is a shadow noble whose face is obscured by soot; Emilico is her 'Living Doll' — a human servant who functions as Kate's face and emotional expression; together they navigate the mysterious house and begin to understand what it truly is."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975320300-L.jpg"
-amazonASIN: "1975320301"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781975345921-L.jpg"
+amazonASIN: "1975345924"
 publishedAt: "2026-04-24"
 tags: ["horror", "mystery", "ongoing", "gothic", "identity", "seinen"]
 rating: 5
@@ -125,7 +125,7 @@ Yen Press is publishing the ongoing series. 12 volumes available in English.
 
 ## Where to Buy
 
-[Get Shadows' House Vol. 1 on Amazon →](https://www.amazon.com/dp/1975320301)
+[Get Shadows' House Vol. 1 on Amazon →](https://www.amazon.com/dp/1975345924)
 
 ---
 

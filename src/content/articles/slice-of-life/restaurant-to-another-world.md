@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["food content", "no significant warnings"]
 description: "Yu's review of Restaurant to Another World — Western Restaurant Nekoya is a small Tokyo restaurant that, every Saturday, has a door that opens from various locations in a fantasy world; fantasy world inhabitants enter and encounter Japanese Western food for the first time; each chapter follows a different customer and the dish that changes them."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781638586111-L.jpg"
-amazonASIN: "1638586110"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781975309039-L.jpg"
+amazonASIN: "1975309030"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "fantasy", "food", "anthology", "completed", "gentle"]
 rating: 4
@@ -125,7 +125,7 @@ Square Enix Manga published the complete 11-volume series. All volumes available
 
 ## Where to Buy
 
-[Get Restaurant to Another World Vol. 1 on Amazon →](https://www.amazon.com/dp/1638586110)
+[Get Restaurant to Another World Vol. 1 on Amazon →](https://www.amazon.com/dp/1975309030)
 
 ---
 

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Whistle! — Sho Kazamatsuri was cut from his elite school's soccer team for lacking talent; he transfers to a school where he can actually play and works relentlessly to become a real player; the series follows his growth from the team's weakest member to something more."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781591161271-L.jpg"
-amazonASIN: "1591161274"
+coverImage: "https://covers.openlibrary.org/b/isbn/9781591166856-L.jpg"
+amazonASIN: "1591166853"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "soccer", "football"]
 rating: 4
@@ -126,7 +126,7 @@ VIZ Media published the complete 24-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Whistle! Vol. 1 on Amazon →](https://www.amazon.com/dp/1591161274)
+[Get Whistle! Vol. 1 on Amazon →](https://www.amazon.com/dp/1591166853)
 
 ---
 
