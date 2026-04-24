@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild language", "mild suggestive content", "themes of family trauma (later volumes)"]
 description: "Yu's review of Kaguya-sama: Love Is War — 28 volumes about two geniuses who are in love but won't admit it. Funnier than it has any right to be, smarter than it looks, and one of the most satisfying romance arcs in manga history."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B0793HGHKC.01.LZZZZZZZ.jpg"
-amazonASIN: "B0793HGHKC"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974700305.01.LZZZZZZZ.jpg"
+amazonASIN: "1974700305"
 publishedAt: "2026-04-23"
 tags: ["romance", "comedy", "school", "completed", "psychological"]
 rating: 5
@@ -186,7 +186,6 @@ Start from Volume 1. The comedy builds on established character dynamics, and th
 
 ## Where to Buy
 
-- [📱 Kaguya-sama Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B0793HGHKC)
 - [📚 Kaguya-sama Vol. 1 — Paperback](https://www.amazon.com/dp/1974700305)
 
 ---

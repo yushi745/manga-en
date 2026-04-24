@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Chi's Sweet Home — a small kitten gets separated from her mother and adopted by a young family who live in a no-pets apartment, and the manga follows her exploration of her world through her earnest cat-brain perspective."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1934287288.01.LZZZZZZZ.jpg"
-amazonASIN: "1934287288"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1934287814.01.LZZZZZZZ.jpg"
+amazonASIN: "1934287814"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "animals", "completed", "family"]
 rating: 4
@@ -126,7 +126,7 @@ Vertical published the complete 12-volume series. All volumes available, includi
 
 ## Where to Buy
 
-[Get Chi's Sweet Home Vol. 1 on Amazon →](https://www.amazon.com/dp/1934287288)
+[Get Chi's Sweet Home Vol. 1 on Amazon →](https://www.amazon.com/dp/1934287814)
 
 ---
 
