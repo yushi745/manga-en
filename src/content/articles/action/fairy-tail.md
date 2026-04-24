@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "mild fanservice", "themes of friendship and sacrifice"]
 description: "Yu's review of Fairy Tail — a celestial spirit mage joins the most destructive (and most tight-knit) guild in the kingdom, and together they save the world repeatedly through the power of friendship and overwhelming magic."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1612629865.01.LZZZZZZZ.jpg"
-amazonASIN: "1612629865"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1612622763.01.LZZZZZZZ.jpg"
+amazonASIN: "1612622763"
 publishedAt: "2026-04-24"
 tags: ["action", "fantasy", "shonen", "magic", "completed", "guild"]
 rating: 4
@@ -130,7 +130,7 @@ Kodansha USA published the complete 63-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Fairy Tail Vol. 1 on Amazon →](https://www.amazon.com/dp/1612629865)
+[Get Fairy Tail Vol. 1 on Amazon →](https://www.amazon.com/dp/1612622763)
 
 ---
 

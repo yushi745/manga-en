@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme horror", "violence", "stalking", "gore", "disturbing imagery"]
 description: "Yu's review of Ibitsu — the urban legend says that if you encounter a girl in a gothic lolita dress sitting by trash bags at night and she asks you if you have a little sister, you should not answer; Kazuki answers."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316246735.01.LZZZZZZZ.jpg"
-amazonASIN: "0316246735"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1975353315.01.LZZZZZZZ.jpg"
+amazonASIN: "1975353315"
 publishedAt: "2026-04-24"
 tags: ["horror", "mature", "completed", "urban-legend", "stalker"]
 rating: 4
@@ -126,7 +126,7 @@ Yen Press published the complete 2-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Ibitsu Vol. 1 on Amazon →](https://www.amazon.com/dp/0316246735)
+[Get Ibitsu Vol. 1 on Amazon →](https://www.amazon.com/dp/1975353315)
 
 ---
 
