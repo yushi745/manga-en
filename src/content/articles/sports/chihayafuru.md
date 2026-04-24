@@ -6,20 +6,19 @@ genreSlug: "sports"
 mangaTitle: "Chihayafuru"
 mangaAuthor: "Yuki Suetsugu"
 serialization: "Monthly Betsufure"
-publisher: "Kodansha / Kodansha USA"
+publisher: "Kodansha"
 volumes: 50
 status: "Completed"
-englishVolumes: 45
-englishStatus: "Ongoing"
+englishVolumes: 50
+englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "themes of ambition and friendship strain"]
 description: "Yu's review of Chihayafuru — Chihaya Ayase discovered competitive karuta as a child; she builds a karuta club in high school and pursues the title of Queen while her teammates pursue their own reasons for playing; the series is as much about the poem in the card game as about the competition."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781949980899-L.jpg"
-amazonASIN: "1949980898"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sports", "josei", "completed-in-Japan", "karuta", "poetry", "competitive"]
 rating: 5
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -103,7 +102,7 @@ Volume 1 — Chihaya's childhood discovery of karuta and Arata is essential to e
 
 ## Official English Translation Status
 
-Kodansha USA is publishing the series. 45 volumes available in English; series complete at 50 in Japan.
+Available digitally via Kodansha USA (all 50 volumes). No current English print edition.
 
 ## Pros & Cons
 
@@ -128,7 +127,7 @@ Kodansha USA is publishing the series. 45 volumes available in English; series c
 
 ## Where to Buy
 
-[Get Chihayafuru Vol. 1 on Amazon →](https://www.amazon.com/dp/1949980898)
+*This title is not available in English print.*
 
 ---
 

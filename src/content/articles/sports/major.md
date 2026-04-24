@@ -6,20 +6,19 @@ genreSlug: "sports"
 mangaTitle: "Major"
 mangaAuthor: "Takuya Mitsuda"
 serialization: "Weekly Shonen Sunday"
-publisher: "Shogakukan / VIZ Media"
+publisher: "Shogakukan"
 volumes: 78
 status: "Completed"
-englishVolumes: 78
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["sports drama", "parental loss", "intense competition", "injury content"]
 description: "Yu's review of Major — Goro Honda is the son of a professional baseball player; when loss defines his childhood, baseball becomes how he carries his father forward; the series follows Goro from little league through professional baseball across 78 volumes, one of the longest complete sports manga stories ever told."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421517575-L.jpg"
-amazonASIN: "1421517574"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sports", "baseball", "drama", "completed", "long-running", "VIZ"]
 rating: 5
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -99,7 +98,7 @@ Volume 1 — the story begins with Goro's childhood and the foundational loss th
 
 ## Official English Translation Status
 
-VIZ Media published the complete 78-volume series. All volumes available.
+Not available in English. This series has not been officially licensed in English print.
 
 ## Pros & Cons
 
@@ -123,7 +122,7 @@ VIZ Media published the complete 78-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Major Vol. 1 on Amazon →](https://www.amazon.com/dp/1421517574)
+*This title is not available in English print.*
 
 ---
 

@@ -4,28 +4,27 @@ slug: "hanebado"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Hanebado!"
-mangaAuthor: "Hajime Itagaki"
+mangaAuthor: "Kosuke Hamada"
 serialization: "Monthly Afternoon"
-publisher: "Kodansha / Kodansha USA"
+publisher: "Kodansha"
 volumes: 13
 status: "Completed"
-englishVolumes: 13
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["parental abandonment backstory", "psychological pressure in competition", "some dark character turns"]
 description: "Yu's review of Hanebado! — Ayano Hanesaki is a badminton prodigy whose mother abandoned her to pursue professional coaching; her rediscovery of badminton and her psychological transformation across the series makes this the most psychologically complex badminton manga ever published."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632368089-L.jpg"
-amazonASIN: "1632368080"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sports", "seinen", "completed", "badminton", "psychological"]
 rating: 4
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
 
 - A badminton prodigy whose mother left her, discovered by a captain who needs her talent, goes from reluctant to dangerously obsessed — the most psychologically complex badminton manga ever written
-- Hajime Itagaki's art is exceptional and the badminton is technically accurate — 13 volumes, complete
+- Hamada's art is exceptional and the badminton is technically accurate — 13 volumes, complete
 - Divisive among fans; the psychological turn in Ayano's arc is either the series' best element or its most controversial
 
 ## Who Is This Manga For?
@@ -70,7 +69,7 @@ Ayano returns to badminton. Her relationship with the sport changes as the serie
 
 ## Art Style
 
-Itagaki's art is exceptional — among the best in any sports manga. The badminton sequences use the shuttlecock's speed and trajectory as visual design elements, the court geometry is clear, and the character expressions in match moments communicate psychological state as much as athletic effort. The art is consistently the series' strongest element.
+Hamada's art is exceptional — among the best in any sports manga. The badminton sequences use the shuttlecock's speed and trajectory as visual design elements, the court geometry is clear, and the character expressions in match moments communicate psychological state as much as athletic effort. The art is consistently the series' strongest element.
 
 ## Cultural Context
 
@@ -78,7 +77,7 @@ Badminton in Japan is taken seriously as a competitive sport — the national te
 
 ## What I Love About It
 
-The art. Itagaki draws badminton with the specificity of someone who understands the sport's physics — the shuttlecock's distinctive deceleration, the jump smashes, the net play — and the match sequences are as visually exciting as any sports manga published. Whatever the debate about the psychological arc, the art is not part of the debate.
+The art. Hamada draws badminton with the specificity of someone who understands the sport's physics — the shuttlecock's distinctive deceleration, the jump smashes, the net play — and the match sequences are as visually exciting as any sports manga published. Whatever the debate about the psychological arc, the art is not part of the debate.
 
 ## What English-Speaking Fans Say
 
@@ -101,7 +100,7 @@ Volume 1 — the abandonment backstory and Nagisa's recruitment of Ayano establi
 
 ## Official English Translation Status
 
-Kodansha USA published the complete 13-volume series. All volumes available.
+Not available in English. Hanebado! has not been officially licensed in English.
 
 ## Pros & Cons
 
@@ -125,7 +124,7 @@ Kodansha USA published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Hanebado! Vol. 1 on Amazon →](https://www.amazon.com/dp/1632368080)
+*This title is not available in English print.*
 
 ---
 

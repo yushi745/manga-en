@@ -6,20 +6,19 @@ genreSlug: "slice-of-life"
 mangaTitle: "Tanaka-kun Is Always Listless"
 mangaAuthor: "Nozomi Uda"
 serialization: "Square Enix's Monthly GFantasy"
-publisher: "Square Enix / Yen Press"
+publisher: "Square Enix"
 volumes: 10
 status: "Completed"
-englishVolumes: 10
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["very mild content — this is extremely gentle manga"]
 description: "Yu's review of Tanaka-kun Is Always Listless — Tanaka is a high school boy whose entire being is devoted to doing as little as possible; his best friend Ohta carries him when necessary; the series follows Tanaka's profound listlessness encountering the energetic, enthusiastic people around him without disturbing his fundamental peace."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316471671-L.jpg"
-amazonASIN: "0316471674"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "completed", "gentle", "school", "Yen-Press"]
 rating: 4
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -103,7 +102,7 @@ Volume 1 — Tanaka's listlessness is established in the first pages; the tone i
 
 ## Official English Translation Status
 
-Yen Press published the complete 10-volume series. All volumes available.
+Available digitally via Square Enix Manga UP! No English print edition exists.
 
 ## Pros & Cons
 
@@ -127,7 +126,7 @@ Yen Press published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Tanaka-kun Is Always Listless Vol. 1 on Amazon →](https://www.amazon.com/dp/0316471674)
+*This title is not available in English print.*
 
 ---
 

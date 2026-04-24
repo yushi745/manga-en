@@ -6,20 +6,19 @@ genreSlug: "sci-fi"
 mangaTitle: "Seven Seeds"
 mangaAuthor: "Yumi Tamura"
 serialization: "Betsucomi"
-publisher: "Shogakukan / VIZ Media"
+publisher: "Shogakukan"
 volumes: 35
 status: "Completed"
-englishVolumes: 35
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["survival situations", "death", "themes of isolation and survival", "some intense content"]
 description: "Yu's review of Seven Seeds — the Japanese government preserved groups of young people in cryosleep as humanity's last hope; they wake in a post-catastrophe future Japan, separated and uncertain, and must survive and eventually connect."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974714858-L.jpg"
-amazonASIN: "1974714853"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "survival", "shojo", "completed", "post-apocalyptic"]
 rating: 4
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -103,7 +102,7 @@ Volume 1 — the multiple team structure establishes quickly.
 
 ## Official English Translation Status
 
-VIZ Media published the complete 35-volume series. All volumes available.
+Not available in English. Seven Seeds has not been officially licensed in English print.
 
 ## Pros & Cons
 
@@ -127,7 +126,7 @@ VIZ Media published the complete 35-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Seven Seeds Vol. 1 on Amazon →](https://www.amazon.com/dp/1974714853)
+*This title is not available in English print.*
 
 ---
 

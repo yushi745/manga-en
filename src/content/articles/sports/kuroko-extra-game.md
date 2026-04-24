@@ -9,17 +9,16 @@ serialization: "Weekly Shonen Jump NEXT!!"
 publisher: "Shueisha / VIZ Media"
 volumes: 2
 status: "Completed"
-englishVolumes: 2
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive sports content", "some trash talk"]
 description: "Yu's review of Kuroko's Basketball: Extra Game — the sequel to Kuroko's Basketball follows the Generation of Miracles as they face Jabberwock, an American street basketball team, in an exhibition that becomes genuinely dangerous; the reunion story for the main series cast."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974701018-L.jpg"
-amazonASIN: "1974701018"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "basketball", "sequel", "Fujimaki"]
 rating: 4
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -100,7 +99,7 @@ Read Kuroko's Basketball first. Extra Game directly follows the main series.
 
 ## Official English Translation Status
 
-VIZ Media published the complete 2-volume series. Both volumes available.
+Available digitally via VIZ Media. No confirmed English print edition.
 
 ## Pros & Cons
 
@@ -123,7 +122,7 @@ VIZ Media published the complete 2-volume series. Both volumes available.
 
 ## Where to Buy
 
-[Get Kuroko's Basketball: Extra Game Vol. 1 on Amazon →](https://www.amazon.com/dp/1974701018)
+*This title is not available in English print.*
 
 ---
 

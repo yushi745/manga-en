@@ -9,17 +9,16 @@ serialization: "Weekly Shonen Jump"
 publisher: "Shueisha / VIZ Media"
 volumes: 9
 status: "Completed"
-englishVolumes: 9
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "mild sports rivalry"]
 description: "Yu's review of Robot x Laserbeam — Robo Yamada picks up golf and discovers he can hit the ball in a perfectly straight line with no effort; his childhood friend Youzan, a natural golf prodigy, recruits him to a team to compete in high school golf; the creator of Kuroko's Basketball applies the same concept to golf."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974701315-L.jpg"
-amazonASIN: "1974701301"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "golf", "Fujimaki"]
 rating: 3
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -100,7 +99,7 @@ Volume 1 — the premise is the series; it establishes immediately.
 
 ## Official English Translation Status
 
-VIZ Media published the complete 9-volume series. All volumes available.
+Available digitally via VIZ Media. No English print edition exists.
 
 ## Pros & Cons
 
@@ -124,7 +123,7 @@ VIZ Media published the complete 9-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Robot x Laserbeam Vol. 1 on Amazon →](https://www.amazon.com/dp/1974701301)
+*This title is not available in English print.*
 
 ---
 

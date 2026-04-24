@@ -6,20 +6,19 @@ genreSlug: "sports"
 mangaTitle: "Diamond no Ace"
 mangaAuthor: "Yuji Terajima"
 serialization: "Weekly Shonen Magazine"
-publisher: "Kodansha / Kodansha USA"
+publisher: "Kodansha"
 volumes: 47
 status: "Completed"
-englishVolumes: 26
-englishStatus: "Ongoing"
+englishVolumes: 47
+englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive sports themes", "themes of team pressure and rivalry"]
 description: "Yu's review of Diamond no Ace — a pitcher with a wild but powerful pitch transfers to a prestigious baseball high school and works toward becoming the team's ace in one of manga's most detailed baseball series."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632361127-L.jpg"
-amazonASIN: "1632361124"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sports", "baseball", "shonen", "ongoing", "school"]
 rating: 4
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -99,7 +98,7 @@ Volume 1. The series rewards following from the beginning. The sequel series (Di
 
 ## Official English Translation Status
 
-Kodansha USA is publishing the ongoing translation. Currently 26 volumes available. The series is complete in Japanese at 47 volumes.
+Available digitally via Kodansha USA (all 47 volumes complete). No English print edition.
 
 ## Pros & Cons
 
@@ -124,7 +123,7 @@ Kodansha USA is publishing the ongoing translation. Currently 26 volumes availab
 
 ## Where to Buy
 
-[Get Diamond no Ace Vol. 1 on Amazon →](https://www.amazon.com/dp/1632361124)
+*This title is not available in English print.*
 
 ---
 

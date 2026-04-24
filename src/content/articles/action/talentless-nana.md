@@ -6,20 +6,19 @@ genreSlug: "action"
 mangaTitle: "Talentless Nana"
 mangaAuthor: "Looseboy, Iori Furuya"
 serialization: "Monthly Shonen Gangan"
-publisher: "Square Enix / Yen Press"
+publisher: "Square Enix"
 volumes: 14
 status: "Completed"
-englishVolumes: 14
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["death of characters including apparent protagonists", "psychological manipulation", "thriller violence", "major twist in chapter 1"]
 description: "Yu's review of Talentless Nana — a school for the Talented has a new transfer student who presents as optimistic and Talentless; within the first chapter the entire premise is revealed to be something else entirely, and the series becomes a cat-and-mouse thriller."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975322007-L.jpg"
-amazonASIN: "1975322002"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["action", "thriller", "mystery", "shonen", "completed", "twist"]
 rating: 5
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -103,7 +102,7 @@ Volume 1. Do not read chapter summaries. Do not read fan pages. Just open volume
 
 ## Official English Translation Status
 
-Yen Press published the complete 14-volume series. All volumes available.
+Available digitally via Square Enix Manga UP! No English print edition exists.
 
 ## Pros & Cons
 
@@ -127,7 +126,7 @@ Yen Press published the complete 14-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Talentless Nana Vol. 1 on Amazon →](https://www.amazon.com/dp/1975322002)
+*This title is not available in English print.*
 
 ---
 

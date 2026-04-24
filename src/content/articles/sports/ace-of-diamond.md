@@ -6,20 +6,19 @@ genreSlug: "sports"
 mangaTitle: "Ace of Diamond (Daiya no A)"
 mangaAuthor: "Yuji Terajima"
 serialization: "Weekly Shonen Magazine"
-publisher: "Kodansha / Kodansha USA"
+publisher: "Kodansha"
 volumes: 47
 status: "Completed"
 englishVolumes: 47
-englishStatus: "Complete"
+englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "team conflict", "injury"]
 description: "Yu's review of Ace of Diamond — Eijun Sawamura is a pitcher from a small town with an unorthodox delivery and an unhittable change-up; he is recruited to Seidou High School, one of Japan's best baseball programs, and has to earn the title of ace against a team full of better-prepared players."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632361318-L.jpg"
-amazonASIN: "1632361310"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "baseball", "pitcher"]
 rating: 4
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -103,7 +102,7 @@ Volume 1 — the Seidou recruiting and Sawamura's first days establish the premi
 
 ## Official English Translation Status
 
-Kodansha USA published the complete 47-volume series. All volumes available. The sequel (Act II) is also available.
+Available digitally via Kodansha USA (all 47 volumes complete). No English print edition.
 
 ## Pros & Cons
 
@@ -127,7 +126,7 @@ Kodansha USA published the complete 47-volume series. All volumes available. The
 
 ## Where to Buy
 
-[Get Ace of Diamond Vol. 1 on Amazon →](https://www.amazon.com/dp/1632361310)
+*This title is not available in English print.*
 
 ---
 

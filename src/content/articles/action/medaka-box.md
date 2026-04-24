@@ -6,20 +6,19 @@ genreSlug: "action"
 mangaTitle: "Medaka Box"
 mangaAuthor: "NisiOisiN / Akira Akatsuki"
 serialization: "Weekly Shonen Jump"
-publisher: "Shueisha / VIZ Media"
+publisher: "Shueisha"
 volumes: 22
 status: "Completed"
-englishVolumes: 22
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "school battle content", "some mature humor"]
 description: "Yu's review of Medaka Box — Medaka Kurokami is elected student council president with 98% of the vote and wants to answer every student's problems using the school suggestion box; the manga begins as school comedy and transforms into a meta-commentary on shonen manga tropes."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421564203-L.jpg"
-amazonASIN: "1421564203"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "completed", "NisiOisiN", "meta", "school"]
 rating: 4
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -99,7 +98,7 @@ Volume 1 — the comedy beginning is necessary for the series' later transformat
 
 ## Official English Translation Status
 
-VIZ Media published the complete 22-volume series. All volumes available.
+Not available in English print. Medaka Box has not been officially licensed in English.
 
 ## Pros & Cons
 
@@ -123,7 +122,7 @@ VIZ Media published the complete 22-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Medaka Box Vol. 1 on Amazon →](https://www.amazon.com/dp/1421564203)
+*This title is not available in English print.*
 
 ---
 

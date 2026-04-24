@@ -6,20 +6,19 @@ genreSlug: "horror"
 mangaTitle: "Shiki"
 mangaAuthor: "Fuyumi Ono (story) / Ryu Fujisaki (art)"
 serialization: "Jump Square"
-publisher: "Shueisha / VIZ Media"
+publisher: "Shueisha"
 volumes: 11
 status: "Completed"
-englishVolumes: 11
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "M (Mature)"
 contentWarnings: ["vampire violence", "graphic horror", "mass death", "morally complex themes"]
 description: "Yu's review of Shiki — people begin dying mysteriously in a rural Japanese village during summer, and the doctors, priests, and survivors must confront what is happening and what they are willing to do in response."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421540979-L.jpg"
-amazonASIN: "1421540975"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["horror", "vampire", "supernatural", "completed", "moral-complexity"]
 rating: 5
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -101,7 +100,7 @@ Volume 1. The slow build is essential — do not skip to the action.
 
 ## Official English Translation Status
 
-VIZ Media published the complete 11-volume series. All volumes available.
+Not available in English print. The Shiki manga has not been officially licensed in English.
 
 ## Pros & Cons
 
@@ -126,7 +125,7 @@ VIZ Media published the complete 11-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Shiki Vol. 1 on Amazon →](https://www.amazon.com/dp/1421540975)
+*This title is not available in English print.*
 
 ---
 
