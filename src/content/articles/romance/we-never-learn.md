@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild fanservice", "harem elements", "romantic comedy"]
 description: "Yu's review of We Never Learn — a scholarship student agrees to tutor three geniuses, each brilliant in one field but failing in the subjects they want to pursue, while navigating the increasingly complicated feelings everyone develops."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974700912-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974700917.01.LZZZZZZZ.jpg"
 amazonASIN: "1974700917"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shonen", "harem", "completed", "school"]

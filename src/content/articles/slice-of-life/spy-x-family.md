@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence (mild)", "spy thriller themes"]
 description: "Yu's review of Spy x Family — a manga about a spy, an assassin, and a telepath pretending to be a family, who accidentally become one. Genuinely funny, genuinely warm, and one of the most joyful ongoing series in manga right now."
-coverImage: "https://covers.openlibrary.org/b/isbn/1974715466-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/B088W7RWXS.01.LZZZZZZZ.jpg"
 amazonASIN: "B088W7RWXS"
 publishedAt: "2026-04-23"
 tags: ["comedy", "action", "slice-of-life", "family", "ongoing", "feel-good"]

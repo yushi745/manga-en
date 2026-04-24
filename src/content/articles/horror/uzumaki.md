@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["body horror", "graphic violence", "psychological horror", "disturbing imagery", "suicide themes"]
 description: "Yu's review of Uzumaki by Junji Ito — a small town cursed by spirals, where the obsession spreads like a disease until the geometry itself becomes monstrous."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421561325-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421561328.01.LZZZZZZZ.jpg"
 amazonASIN: "1421561328"
 publishedAt: "2026-04-24"
 tags: ["horror", "junji-ito", "psychological", "body-horror", "classic"]

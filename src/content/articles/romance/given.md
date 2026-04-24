@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["BL (boys' love) romance", "grief and suicide (backstory)", "mature romance content"]
 description: "Yu's review of Given — Ritsuka Uenoyama stopped caring about guitar; Mafuyu Sato is a boy with a broken guitar and something he cannot say; when Mafuyu hears Ritsuka play, he wants to learn; when Ritsuka hears Mafuyu sing, everything changes; a BL music manga about grief and what music does to it."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974709809-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/197470980X.01.LZZZZZZZ.jpg"
 amazonASIN: "197470980X"
 publishedAt: "2026-04-24"
 tags: ["romance", "BL", "music", "completed", "mature", "grief"]

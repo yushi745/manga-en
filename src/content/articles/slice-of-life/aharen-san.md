@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Aharen-san wa Hakarenai — Reina Aharen is tiny, quiet, and has no sense of personal distance — she either sits too far away or too close, and nothing in between; her classmate Raidou Matsuboshi cannot tell what she means by anything; their comedy is the gap between intent and interpretation."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781646515202-L.jpg"
-amazonASIN: "1646515200"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/B0F9N6RQZL.01.LZZZZZZZ.jpg"
+amazonASIN: "B0F9N6RQZL"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "romance", "shonen", "completed", "wholesome"]
 rating: 4
@@ -122,7 +122,7 @@ Kodansha USA published the complete 16-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Aharen-san wa Hakarenai Vol. 1 on Amazon →](https://www.amazon.com/dp/1646515200)
+[Get Aharen-san wa Hakarenai Vol. 1 on Amazon →](https://www.amazon.com/dp/B0F9N6RQZL)
 
 ---
 

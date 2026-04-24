@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "dark government themes", "supernatural powers"]
 description: "Yu's review of Code:Breaker — a high school girl witnesses a boy burn people alive with blue flame and realizes he is a Code:Breaker, a government agent authorized to kill using supernatural powers."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780345520999-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0345520998.01.LZZZZZZZ.jpg"
 amazonASIN: "0345520998"
 publishedAt: "2026-04-24"
 tags: ["action", "supernatural", "shonen", "completed", "government"]

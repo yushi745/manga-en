@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["unrequited love", "emotional intensity", "music themes"]
 description: "Yu's review of Anonymous Noise — Nino Arisugawa sings too loud, always, because two boys she loved left her and singing was how she called out to them; years later she finds them both in the same high school music scene and becomes the hidden voice of a band where one of them cannot let her be seen."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421596501-L.jpg"
-amazonASIN: "1421596504"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/142159420X.01.LZZZZZZZ.jpg"
+amazonASIN: "142159420X"
 publishedAt: "2026-04-24"
 tags: ["romance", "music", "shojo", "completed", "VIZ"]
 rating: 4
@@ -127,7 +127,7 @@ VIZ Media published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Anonymous Noise Vol. 1 on Amazon →](https://www.amazon.com/dp/1421596504)
+[Get Anonymous Noise Vol. 1 on Amazon →](https://www.amazon.com/dp/142159420X)
 
 ---
 

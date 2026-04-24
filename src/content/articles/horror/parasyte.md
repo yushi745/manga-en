@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "body horror", "gore", "existential themes", "death"]
 description: "Yu's review of Parasyte — the manga where alien parasites invade human bodies and one boy must share his arm with the creature that failed to take his brain, raising questions about humanity, empathy, and what we owe each other."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781612621210-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1612621210.01.LZZZZZZZ.jpg"
 amazonASIN: "1612621210"
 publishedAt: "2026-04-24"
 tags: ["horror", "sci-fi", "psychological", "body-horror", "classic", "philosophical"]

@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "death of children in opening", "dark themes", "vampires depicted with horror elements"]
 description: "Yu's review of Seraph of the End — a virus kills all adults; vampires emerge and enslave the surviving children as livestock; Yuichiro Hyakuya escapes and joins the Japanese Imperial Demon Army to avenge his orphan family and kill all vampires."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421571508-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421571501.01.LZZZZZZZ.jpg"
 amazonASIN: "1421571501"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "ongoing", "vampires", "dark-fantasy", "post-apocalyptic"]

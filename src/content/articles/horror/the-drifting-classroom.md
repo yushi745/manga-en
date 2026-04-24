@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["child characters in extreme danger", "death of children", "psychological horror", "survival violence"]
 description: "Yu's review of The Drifting Classroom — a Japanese elementary school and all its students and teachers are suddenly transported to a desolate future Earth; the children must survive without adult leadership as food runs out and monsters appear."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421507224-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421507226.01.LZZZZZZZ.jpg"
 amazonASIN: "1421507226"
 publishedAt: "2026-04-24"
 tags: ["horror", "survival", "classic", "completed", "Umezu", "children-in-danger"]

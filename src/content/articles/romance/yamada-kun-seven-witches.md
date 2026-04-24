@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["body-swap comedy situations", "mild romance", "some fanservice"]
 description: "Yu's review of Yamada-kun and the Seven Witches — Ryu Yamada is a failing delinquent; Urara Shiraishi is the top student; when they fall down stairs together and accidentally kiss, Yamada discovers he has switched bodies with her; this supernatural power connects to seven witches in their school and to a larger mystery about their student council."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632360908-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632360900.01.LZZZZZZZ.jpg"
 amazonASIN: "1632360900"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "supernatural", "completed", "school", "Kodansha"]

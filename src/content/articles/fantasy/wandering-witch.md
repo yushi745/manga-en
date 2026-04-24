@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["dark themes in individual story arcs", "death", "tragedy alongside lighter content", "mature themes presented unexpectedly"]
 description: "Yu's review of Wandering Witch: The Journey of Elaina — a young witch named Elaina travels from country to country, collecting experiences as a traveler, witnessing the beautiful and the terrible in equal measure."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781646090358-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1646090357.01.LZZZZZZZ.jpg"
 amazonASIN: "1646090357"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "anthology", "ongoing", "light-novel-adaptation"]

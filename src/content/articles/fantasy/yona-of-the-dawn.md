@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "political themes", "themes of loss and betrayal"]
 description: "Yu's review of Yona of the Dawn — a sheltered princess witnesses her father's murder, flees the palace with her bodyguard, and begins the journey to reclaim her kingdom and herself."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421587905-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421587904.01.LZZZZZZZ.jpg"
 amazonASIN: "1421587904"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "shojo", "female-lead", "ongoing", "political"]

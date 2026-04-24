@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["slapstick violence", "comedy involving street gangs", "mild mature humor"]
 description: "Yu's review of Chio's School Road — Chio Miyamo oversleeps regularly and has to get to school by any means necessary; her experience playing stealth games has given her a specific skill set that is completely useless in normal life and occasionally useful in the absurd situations she creates for herself."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632368133-L.jpg"
-amazonASIN: "1632368137"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1975381203.01.LZZZZZZZ.jpg"
+amazonASIN: "1975381203"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "shonen", "completed", "gaming", "school"]
 rating: 4
@@ -123,7 +123,7 @@ Kodansha USA published the complete 8-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Chio's School Road Vol. 1 on Amazon →](https://www.amazon.com/dp/1632368137)
+[Get Chio's School Road Vol. 1 on Amazon →](https://www.amazon.com/dp/1975381203)
 
 ---
 

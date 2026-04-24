@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "themes of pacifism and its limits", "death"]
 description: "Yu's review of Trigun Maximum — Vash the Stampede has a $$60 billion bounty, is the most feared man on a desert planet, and refuses to kill anyone. This is a manga about whether that conviction can survive everything the world throws at it."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781593071967-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1593071965.01.LZZZZZZZ.jpg"
 amazonASIN: "1593071965"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "action", "western", "completed", "pacifism", "space-western"]

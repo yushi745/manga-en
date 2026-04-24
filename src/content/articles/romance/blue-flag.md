@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["LGBTQ+ themes (central to the story)", "unrequited love", "identity themes"]
 description: "Yu's review of Blue Flag — four high school students navigate overlapping feelings: Taichi likes Futaba, Futaba likes Touma, Touma's best friend Masumi likes Touma, and the feelings all connect in ways none of them can fully see."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974331819-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/197433181X.01.LZZZZZZZ.jpg"
 amazonASIN: "197433181X"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "LGBTQ", "shonen", "completed", "high-school"]

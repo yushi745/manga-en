@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["mild fantasy peril", "gentle romance themes"]
 description: "Yu's review of Cardcaptor Sakura — a ten-year-old girl accidentally releases a set of magical cards and must capture them all before they cause harm, becoming a Card Captor with a magical staff and her best friend filming everything."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781595820655-L.jpg"
-amazonASIN: "159582065X"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1595825223.01.LZZZZZZZ.jpg"
+amazonASIN: "1595825223"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "magical-girl", "shojo", "completed", "classic", "CLAMP"]
 rating: 5
@@ -130,7 +130,7 @@ Kodansha USA published the complete 12-volume series in an unedited edition. All
 
 ## Where to Buy
 
-[Get Cardcaptor Sakura Vol. 1 on Amazon →](https://www.amazon.com/dp/159582065X)
+[Get Cardcaptor Sakura Vol. 1 on Amazon →](https://www.amazon.com/dp/1595825223)
 
 ---
 

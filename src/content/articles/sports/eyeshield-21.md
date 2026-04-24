@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["sports violence", "bullying themes in early volumes"]
 description: "Yu's review of Eyeshield 21 — a timid errand boy discovers he has the fastest legs at his school, gets press-ganged onto the American football team, and must become a running back without anyone discovering who he is."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421504483-L.jpg"
-amazonASIN: "1421504480"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1591167523.01.LZZZZZZZ.jpg"
+amazonASIN: "1591167523"
 publishedAt: "2026-04-24"
 tags: ["sports", "american-football", "shonen", "comedy", "completed"]
 rating: 4
@@ -132,7 +132,7 @@ VIZ Media published the complete 37-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get Eyeshield 21 Vol. 1 on Amazon →](https://www.amazon.com/dp/1421504480)
+[Get Eyeshield 21 Vol. 1 on Amazon →](https://www.amazon.com/dp/1591167523)
 
 ---
 

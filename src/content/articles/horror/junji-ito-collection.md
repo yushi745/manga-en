@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["body horror", "psychological horror", "graphic violence", "disturbing imagery"]
 description: "Yu's review of Shiver — nine of Junji Ito's best short horror stories selected by the author himself, including The Hanging Balloons, Greased, and Honored Ancestors."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421596938-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421596938.01.LZZZZZZZ.jpg"
 amazonASIN: "1421596938"
 publishedAt: "2026-04-24"
 tags: ["horror", "junji-ito", "anthology", "short-stories", "psychological", "body-horror"]

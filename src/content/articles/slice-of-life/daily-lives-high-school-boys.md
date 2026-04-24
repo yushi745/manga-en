@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild comedic violence", "teenage boy humor"]
 description: "Yu's review of Daily Lives of High School Boys — a sketch comedy manga observing three high school boys doing nothing in particular: sitting by the river, making up embarrassing scenarios, talking about girls without understanding anything."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781945054501-L.jpg"
-amazonASIN: "1945054506"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1949980219.01.LZZZZZZZ.jpg"
+amazonASIN: "1949980219"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "school", "completed", "boys"]
 rating: 4
@@ -124,7 +124,7 @@ Originally translated by Crunchyroll Manga. All 6 volumes available in English.
 
 ## Where to Buy
 
-[Get Daily Lives of High School Boys Vol. 1 on Amazon →](https://www.amazon.com/dp/1945054506)
+[Get Daily Lives of High School Boys Vol. 1 on Amazon →](https://www.amazon.com/dp/1949980219)
 
 ---
 

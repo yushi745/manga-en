@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme horror", "violence", "stalking", "gore", "disturbing imagery"]
 description: "Yu's review of Ibitsu — the urban legend says that if you encounter a girl in a gothic lolita dress sitting by trash bags at night and she asks you if you have a little sister, you should not answer; Kazuki answers."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316246736-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316246735.01.LZZZZZZZ.jpg"
 amazonASIN: "0316246735"
 publishedAt: "2026-04-24"
 tags: ["horror", "mature", "completed", "urban-legend", "stalker"]

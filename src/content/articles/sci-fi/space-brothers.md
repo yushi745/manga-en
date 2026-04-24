@@ -14,12 +14,11 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["realistic space program content", "themes of failure and perseverance"]
 description: "Yu's review of Space Brothers — a 32-year-old man who was fired from his job reapplies to become a JAXA astronaut, following the dream he abandoned when his younger brother moved forward without him."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781612624044-L.jpg"
-amazonASIN: "1612624049"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "drama", "realistic", "ongoing", "space"]
 rating: 5
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -126,7 +125,7 @@ Kodansha USA is publishing the series. Currently 20 volumes available in English
 
 ## Where to Buy
 
-[Get Space Brothers Vol. 1 on Amazon →](https://www.amazon.com/dp/1612624049)
+*Not available in English print.*
 
 ---
 

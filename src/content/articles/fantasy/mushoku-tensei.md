@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["sexual content (mild-explicit)", "sexual humor involving minors", "harassment and inappropriate behavior", "themes of hikikomori and social isolation"]
 description: "Yu's review of Mushoku Tensei — the web novel that started the modern isekai genre, now in manga form. The most influential isekai ever written, with serious content warnings that matter. Rudy's redemption arc is genuinely good; his starting point is genuinely difficult."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781648270703-L.jpg"
-amazonASIN: "B08NXS41WC"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1626922357.01.LZZZZZZZ.jpg"
+amazonASIN: "1626922357"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "completed", "adult", "redemption", "world-building"]
 rating: 3
@@ -180,8 +180,8 @@ Start from Volume 1. The series is continuous.
 
 ## Where to Buy
 
-- [📱 Mushoku Tensei Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B08NXS41WC)
-- [📚 Mushoku Tensei Vol. 1 — Paperback](https://www.amazon.com/dp/9781648270703)
+- [📱 Mushoku Tensei Vol. 1 — Kindle Edition](https://www.amazon.com/dp/1626922357)
+- [📚 Mushoku Tensei Vol. 1 — Paperback](https://www.amazon.com/dp/1626922357)
 
 ---
 

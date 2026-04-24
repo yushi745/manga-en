@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["child abuse", "bullying", "suicidal ideation in a child", "dark themes despite the cute visual style"]
 description: "Yu's review of Takopi's Original Sin — Takopi is an alien from Happy Planet sent to spread happiness on Earth; he meets Shizuka, a girl who is being bullied and whose home life is deeply troubled; the series uses Takopi's happiness abilities to examine what happiness means when suffering is real."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974742455-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974742458.01.LZZZZZZZ.jpg"
 amazonASIN: "1974742458"
 publishedAt: "2026-04-24"
 tags: ["action", "drama", "shonen", "completed", "dark", "bullying", "short"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "themes of social isolation"]
 description: "Yu's review of Kimi ni Todoke — Sawako Kuronuma is avoided by her classmates because she resembles the horror movie character Sadako, but when the most popular boy in class actually speaks to her, her world begins to change."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421527550-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421527553.01.LZZZZZZZ.jpg"
 amazonASIN: "1421527553"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "school", "completed", "friendship"]

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Teasing Master Takagi-san — Takagi teases her desk neighbor Nishikata every single day; he keeps making plans to get back at her; she always wins; the series is about two middle school students who are clearly in love with each other before either of them knows how to say it."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975332365-L.jpg"
-amazonASIN: "1975332369"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1975353307.01.LZZZZZZZ.jpg"
+amazonASIN: "1975353307"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "romance", "shonen", "completed", "school", "wholesome"]
 rating: 5
@@ -123,7 +123,7 @@ Yen Press published the complete 20-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Teasing Master Takagi-san Vol. 1 on Amazon →](https://www.amazon.com/dp/1975332369)
+[Get Teasing Master Takagi-san Vol. 1 on Amazon →](https://www.amazon.com/dp/1975353307)
 
 ---
 

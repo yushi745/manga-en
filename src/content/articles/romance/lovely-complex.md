@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild suggestive content"]
 description: "Yu's review of Lovely Complex — the tallest girl in class and the shortest boy in class are constantly mistaken for a comedy duo, gradually realizing the comedy might actually be love."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421513294-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421513293.01.LZZZZZZZ.jpg"
 amazonASIN: "1421513293"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "classic", "completed", "osaka"]

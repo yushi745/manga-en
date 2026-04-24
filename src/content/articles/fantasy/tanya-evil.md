@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["military violence", "war themes", "dark themes", "child soldier protagonist"]
 description: "Yu's review of The Saga of Tanya the Evil — a cold-blooded Japanese salaryman is reincarnated as a blonde girl in a magical World War I Europe and becomes the most ruthless and effective military officer in the imperial army."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316560405-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316560405.01.LZZZZZZZ.jpg"
 amazonASIN: "0316560405"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "military", "isekai", "dark", "ongoing"]

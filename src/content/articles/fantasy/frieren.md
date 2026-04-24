@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of death and grief", "loss of loved ones", "mild action combat"]
 description: "Yu's review of Frieren: Beyond Journey's End — an elf mage who helped defeat the Demon King but barely knew her companions because she outlives everyone. A manga about what it means to look back and finally understand what you had."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974739547-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/B0BPW53P1L.01.LZZZZZZZ.jpg"
 amazonASIN: "B0BPW53P1L"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "slice-of-life", "ongoing", "emotional", "adventure", "elves"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "themes of expressing vs. suppressing feelings"]
 description: "Yu's review of Love Me, Love Me Not — Yuna is reserved and has never said her feelings openly; Akari says everything she feels immediately; when they become friends and meet two boys connected to each other, the series explores the difference between those two approaches to love."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974720132-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974720136.01.LZZZZZZZ.jpg"
 amazonASIN: "1974720136"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "completed", "Io-Sakisaka", "friendship"]

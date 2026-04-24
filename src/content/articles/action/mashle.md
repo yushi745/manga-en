@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["comedy violence", "parody content"]
 description: "Yu's review of Mashle: Magic and Muscles — in a world where magic determines social status, Mash Burnedead has no magic at all; he compensates entirely through physical strength so absurd it defeats every magical opponent he encounters."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974719297-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974719294.01.LZZZZZZZ.jpg"
 amazonASIN: "1974719294"
 publishedAt: "2026-04-24"
 tags: ["action", "comedy", "shonen", "completed", "parody", "Harry-Potter-parody"]

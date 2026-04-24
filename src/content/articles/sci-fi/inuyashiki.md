@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "mass murder depicted in detail", "graphic content", "themes of despair and violence"]
 description: "Yu's review of Inuyashiki — two people are accidentally destroyed and rebuilt as machines by aliens; a 58-year-old man no one noticed becomes a hero; a teenage boy whom everyone admired becomes a mass murderer; the series asks what the inside of a person determines when they are given absolute power."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781942993896-L.jpg"
-amazonASIN: "1942993897"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632361213.01.LZZZZZZZ.jpg"
+amazonASIN: "1632361213"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "drama", "seinen", "mature", "completed", "Hiroya-Oku"]
 rating: 4
@@ -129,7 +129,7 @@ Kodansha USA published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Inuyashiki Vol. 1 on Amazon →](https://www.amazon.com/dp/1942993897)
+[Get Inuyashiki Vol. 1 on Amazon →](https://www.amazon.com/dp/1632361213)
 
 ---
 

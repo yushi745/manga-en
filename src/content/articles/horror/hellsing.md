@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme graphic violence", "gore", "Nazi imagery (villains)", "religious themes", "dark humor"]
 description: "Yu's review of Hellsing — the secret British organization that uses a vampire to kill other vampires, featuring the most terrifyingly powerful protagonist in horror manga and one of the most spectacular final battles ever drawn."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781593070564-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1593070564.01.LZZZZZZZ.jpg"
 amazonASIN: "1593070564"
 publishedAt: "2026-04-24"
 tags: ["horror", "action", "vampire", "mature", "completed", "dark-humor"]

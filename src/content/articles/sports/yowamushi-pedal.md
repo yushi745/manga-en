@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["sports competition intensity", "mild rivalry themes"]
 description: "Yu's review of Yowamushi Pedal — an anime otaku who rides his mama-chari to Akihabara every week is discovered by competitive cyclists who realize he has elite climbing ability without knowing it."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316306010-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316306010.01.LZZZZZZZ.jpg"
 amazonASIN: "0316306010"
 publishedAt: "2026-04-24"
 tags: ["sports", "cycling", "school", "ongoing", "underdog"]

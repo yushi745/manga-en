@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["animal death (farm context)", "themes of parental pressure and failure"]
 description: "Yu's review of Silver Spoon — a city kid escapes to an agricultural high school to avoid his family, and discovers that farming, animal husbandry, and the people who feed the country have lessons no classroom ever taught him."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316263818-L.jpg"
-amazonASIN: "0316263818"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316416193.01.LZZZZZZZ.jpg"
+amazonASIN: "0316416193"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "school", "drama", "food", "completed", "fullmetal-alchemist-author"]
 rating: 5
@@ -132,7 +132,7 @@ Yen Press published the complete 15-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get Silver Spoon Vol. 1 on Amazon →](https://www.amazon.com/dp/0316263818)
+[Get Silver Spoon Vol. 1 on Amazon →](https://www.amazon.com/dp/0316416193)
 
 ---
 

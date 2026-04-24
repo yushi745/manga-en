@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["delinquent fighting", "mild nudity (baby)", "comedy violence"]
 description: "Yu's review of Beelzebub — the toughest delinquent at the most violent school in Japan picks up a baby floating down a river and discovers it's the infant Demon King, who immediately bonds with him and cannot be separated without causing massive electrical explosions."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421545486-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421545489.01.LZZZZZZZ.jpg"
 amazonASIN: "1421545489"
 publishedAt: "2026-04-24"
 tags: ["action", "comedy", "shonen", "completed", "delinquent"]

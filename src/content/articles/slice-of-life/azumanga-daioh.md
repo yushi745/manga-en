@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["teacher-student inappropriate behavior (comedic but present)"]
 description: "Yu's review of Azumanga Daioh — the manga that created the 4-koma school comedy genre, following six high school girls and two teachers across three years of school life."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316077385-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316077380.01.LZZZZZZZ.jpg"
 amazonASIN: "0316077380"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "school", "classic", "completed", "4-koma"]

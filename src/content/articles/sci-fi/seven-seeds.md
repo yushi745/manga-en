@@ -14,7 +14,7 @@ englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["survival situations", "death", "themes of isolation and survival", "some intense content"]
 description: "Yu's review of Seven Seeds — the Japanese government preserved groups of young people in cryosleep as humanity's last hope; they wake in a post-catastrophe future Japan, separated and uncertain, and must survive and eventually connect."
-coverImage: ""
+coverImage: "https://covers.openlibrary.org/b/isbn/9784091380135-L.jpg"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "survival", "shojo", "completed", "post-apocalyptic"]
 rating: 4

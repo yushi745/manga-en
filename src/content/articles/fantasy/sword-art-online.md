@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "life-or-death game premise", "some character death", "mild suggestive content"]
 description: "Yu's review of Sword Art Online — the original Aincrad arc in manga form. Ten thousand players trapped in a VR game where dying in-game means dying for real. Kirito's journey through a hundred floors to freedom."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316407014-L.jpg"
-amazonASIN: "B00HCRM8RA"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316371238.01.LZZZZZZZ.jpg"
+amazonASIN: "0316371238"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "sci-fi", "completed", "action", "gaming", "adventure"]
 rating: 3
@@ -174,8 +174,8 @@ Start from Volume 1. Eight volumes for the complete Aincrad arc.
 
 ## Where to Buy
 
-- [📱 Sword Art Online Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00HCRM8RA)
-- [📚 Sword Art Online Vol. 1 — Paperback](https://www.amazon.com/dp/9780316407014)
+- [📱 Sword Art Online Vol. 1 — Kindle Edition](https://www.amazon.com/dp/0316371238)
+- [📚 Sword Art Online Vol. 1 — Paperback](https://www.amazon.com/dp/0316371238)
 
 ---
 

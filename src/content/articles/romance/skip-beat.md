@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["emotional manipulation themes", "toxic relationship depicted critically", "mild violence (comedic)"]
 description: "Yu's review of Skip Beat! — a girl who sacrificed everything to support her childhood friend's pop idol career discovers he was using her, and decides the best revenge is to break into the entertainment industry herself."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421506173-L.jpg"
-amazonASIN: "1421506173"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421505851.01.LZZZZZZZ.jpg"
+amazonASIN: "1421505851"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "shojo", "entertainment", "ongoing", "revenge"]
 rating: 5
@@ -130,7 +130,7 @@ VIZ Media is publishing the ongoing series in English. Currently 49 volumes rele
 
 ## Where to Buy
 
-[Get Skip Beat! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506173)
+[Get Skip Beat! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421505851)
 
 ---
 

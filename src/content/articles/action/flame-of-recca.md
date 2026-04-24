@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "tournament violence", "ninja themes"]
 description: "Yu's review of Flame of Recca — a high school boy obsessed with ninjas discovers he can summon fire and is actually an heir of the ancient Hokage flame ninja clan, pulling him into a battle with a deathless villain who wants to use the power of flames to achieve immortality."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781591160663-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1591160669.01.LZZZZZZZ.jpg"
 amazonASIN: "1591160669"
 publishedAt: "2026-04-24"
 tags: ["action", "ninja", "tournament", "shonen", "completed", "classic"]

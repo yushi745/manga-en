@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death", "psychological manipulation", "themes of god complex and moral corruption"]
 description: "Yu's review of Death Note — 12 volumes of the most tightly constructed psychological thriller in manga. A genius finds a notebook that kills. His opponent is the world's greatest detective. Neither will stop."
-coverImage: "https://covers.openlibrary.org/b/isbn/1421501686-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00FDZERXI.01.LZZZZZZZ.jpg"
 amazonASIN: "B00FDZERXI"
 publishedAt: "2026-04-23"
 tags: ["thriller", "psychological", "mystery", "completed", "classic"]

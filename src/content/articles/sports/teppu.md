@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["MMA fighting violence", "blood", "mature sports content"]
 description: "Yu's review of Teppu — Natsuo Ishido is a natural athlete who has won everything she has tried without effort and resents every second of it; when she meets a girl who fights MMA with genuine passion despite not being naturally gifted, Natsuo joins an MMA gym to find out what it means to want something."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781506700403-L.jpg"
-amazonASIN: "1506700403"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/B0DPJWQFCD.01.LZZZZZZZ.jpg"
+amazonASIN: "B0DPJWQFCD"
 publishedAt: "2026-04-24"
 tags: ["sports", "seinen", "completed", "MMA", "martial-arts", "mature"]
 rating: 5
@@ -123,7 +123,7 @@ Dark Horse Comics published the complete 8-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Teppu Vol. 1 on Amazon →](https://www.amazon.com/dp/1506700403)
+[Get Teppu Vol. 1 on Amazon →](https://www.amazon.com/dp/B0DPJWQFCD)
 
 ---
 

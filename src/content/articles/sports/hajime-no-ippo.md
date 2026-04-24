@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["boxing violence", "depictions of brain injury risk", "intense competition"]
 description: "Yu's review of Hajime no Ippo — a bullied high school boy is saved by a professional boxer, discovers he has a natural gift for the sport, and begins the long road to becoming a champion."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781612629223-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1612629229.01.LZZZZZZZ.jpg"
 amazonASIN: "1612629229"
 publishedAt: "2026-04-24"
 tags: ["sports", "boxing", "shonen", "ongoing", "classic", "long-running"]

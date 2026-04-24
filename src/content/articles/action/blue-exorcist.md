@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "demonic imagery", "themes of identity and rejection", "parental death in early volumes"]
 description: "Yu's review of Blue Exorcist — the story of Rin Okumura, son of Satan, who enrolls in an academy to become an exorcist and fight against his own father. A manga about choosing who you are despite where you came from."
-coverImage: "https://covers.openlibrary.org/b/isbn/1421540320-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00CKN5WYS.01.LZZZZZZZ.jpg"
 amazonASIN: "B00CKN5WYS"
 publishedAt: "2026-04-23"
 tags: ["shonen", "action", "supernatural", "ongoing", "identity", "school"]

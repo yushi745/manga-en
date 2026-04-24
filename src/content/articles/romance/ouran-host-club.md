@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild suggestive content", "gender identity themes", "family dysfunction themes"]
 description: "Yu's review of Ouran High School Host Club — a scholarship student at an elite school accidentally breaks a vase and must join the Host Club to pay off the debt, in a manga that satirizes shojo tropes while being genuinely charming."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421506166-L.jpg"
-amazonASIN: "1421506165"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1591169151.01.LZZZZZZZ.jpg"
+amazonASIN: "1591169151"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "school", "classic", "completed"]
 rating: 4
@@ -131,7 +131,7 @@ VIZ Media published the complete 18-volume series, plus a side story volume. All
 
 ## Where to Buy
 
-[Get Ouran High School Host Club Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506165)
+[Get Ouran High School Host Club Vol. 1 on Amazon →](https://www.amazon.com/dp/1591169151)
 
 ---
 

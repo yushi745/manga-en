@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["manipulation (central character Sae)", "romantic rivalry", "appearance-based bullying", "melodrama"]
 description: "Yu's review of Peach Girl — Momo Adachi's tan skin from swimming makes others assume she's a gyaru; her best friend Sae is actually her manipulative enemy; she is caught between two boys while Sae engineers situations against her."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781935429029-L.jpg"
-amazonASIN: "1935429022"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1595321713.01.LZZZZZZZ.jpg"
+amazonASIN: "1595321713"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "shojo", "completed", "classic", "1990s"]
 rating: 4
@@ -127,7 +127,7 @@ Kodansha USA has published the complete series. All volumes available.
 
 ## Where to Buy
 
-[Get Peach Girl Vol. 1 on Amazon →](https://www.amazon.com/dp/1935429022)
+[Get Peach Girl Vol. 1 on Amazon →](https://www.amazon.com/dp/1595321713)
 
 ---
 

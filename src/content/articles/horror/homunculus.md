@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["psychological horror", "disturbing imagery", "sexuality and trauma", "graphic content"]
 description: "Yu's review of Homunculus — a man living in his car agrees to have trepanation (drilling a hole in his skull) performed by a medical student, and develops the ability to see other people's psychological traumas manifested as physical distortions."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421513423-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421513420.01.LZZZZZZZ.jpg"
 amazonASIN: "1421513420"
 publishedAt: "2026-04-24"
 tags: ["horror", "psychological", "mature", "completed", "unique"]

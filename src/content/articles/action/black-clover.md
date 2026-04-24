@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "intense combat"]
 description: "Yu's review of Black Clover — in a world where everyone has magic, Asta was born with none. He compensates with a five-leaf clover grimoire, anti-magic swords, and a volume of enthusiasm that is physically painful to be near."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421587189-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421587181.01.LZZZZZZZ.jpg"
 amazonASIN: "1421587181"
 publishedAt: "2026-04-24"
 tags: ["action", "fantasy", "shonen", "magic", "ongoing"]

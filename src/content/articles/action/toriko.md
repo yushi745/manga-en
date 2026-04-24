@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "hunting/eating of fictional creatures", "large-scale battles"]
 description: "Yu's review of Toriko — a Gourmet Hunter in a world where ingredients are the most precious things alive battles fantastic creatures to capture the rarest foods and complete his dream full-course meal."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421535098-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421535092.01.LZZZZZZZ.jpg"
 amazonASIN: "1421535092"
 publishedAt: "2026-04-24"
 tags: ["action", "adventure", "shonen", "food", "completed"]

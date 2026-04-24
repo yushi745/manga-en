@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["themes of loss and grief", "family dysfunction", "mild emotional manipulation"]
 description: "Yu's review of Ao Haru Ride — Futaba liked a boy named Tanaka in middle school. He disappeared. In high school she finds him again, now going by Mabuchi, and he is completely different. She wants to know what happened to him."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421587547-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421587548.01.LZZZZZZZ.jpg"
 amazonASIN: "1421587548"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "school", "drama", "completed"]

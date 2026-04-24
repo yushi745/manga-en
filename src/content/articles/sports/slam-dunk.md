@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["sports violence", "mild delinquent themes"]
 description: "Yu's review of Slam Dunk — a delinquent who has never played basketball joins the school team to impress a girl, and discovers that he might actually be a natural genius at the game."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974713714-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974713717.01.LZZZZZZZ.jpg"
 amazonASIN: "1974713717"
 publishedAt: "2026-04-24"
 tags: ["sports", "basketball", "shonen", "classic", "completed", "comedy"]

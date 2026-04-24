@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["supernatural violence", "child mistreatment in backstory", "some horror elements"]
 description: "Yu's review of Kemono Jihen — Kabane is a half-Kemono (supernatural monster-human) boy who was mistreated by his relatives; he is discovered by Kohachi Inugami, who runs a Tokyo detective agency investigating supernatural Kemono cases; Kabane joins and learns what he is."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781638585398-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1638585393.01.LZZZZZZZ.jpg"
 amazonASIN: "1638585393"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "ongoing", "yokai", "supernatural", "found-family"]

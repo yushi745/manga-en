@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of sacrifice", "emotional ending"]
 description: "Yu's review of Magic Knight Rayearth — three middle school girls on a field trip to Tokyo Tower are transported to the world of Cephiro and given a mission: become Magic Knights and save the world by freeing the Pillar from the Knight who has imprisoned her."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781595825889-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1595825886.01.LZZZZZZZ.jpg"
 amazonASIN: "1595825886"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "magical-girl", "shojo", "completed", "mecha", "classic"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of death and spiritual world", "intense tournament combat"]
 description: "Yu's review of Shaman King — a laid-back shaman who communes with spirits enters the Shaman Fight, a tournament held every 500 years to determine who becomes the Shaman King and reshapes the world."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781646512003-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1646512006.01.LZZZZZZZ.jpg"
 amazonASIN: "1646512006"
 publishedAt: "2026-04-24"
 tags: ["action", "fantasy", "shonen", "spirits", "tournament", "completed"]

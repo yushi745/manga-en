@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "some fantasy war themes", "mild suggestive content"]
 description: "Yu's review of That Time I Got Reincarnated as a Slime — an isekai manga where the protagonist becomes a slime and builds a monster nation. Lighter and more optimistic than most isekai, with genuine political world-building underneath the fun."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632366573-L.jpg"
-amazonASIN: "1632366576"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632365065.01.LZZZZZZZ.jpg"
+amazonASIN: "1632365065"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "ongoing", "adventure", "world-building", "feel-good"]
 rating: 4
@@ -186,8 +186,8 @@ Start from Volume 1. The nation-building premise is established quickly.
 
 ## Where to Buy
 
-- [📱 Slime Isekai Vol. 1 — Kindle Edition](https://www.amazon.com/dp/1632366576)
-- [📚 Slime Isekai Vol. 1 — Paperback](https://www.amazon.com/dp/1632366576)
+- [📱 Slime Isekai Vol. 1 — Kindle Edition](https://www.amazon.com/dp/1632365065)
+- [📚 Slime Isekai Vol. 1 — Paperback](https://www.amazon.com/dp/1632365065)
 
 ---
 

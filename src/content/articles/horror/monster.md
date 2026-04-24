@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["serial murder", "psychological horror", "dark historical themes", "violence"]
 description: "Yu's review of Monster — a brilliant surgeon saves a boy's life over a hospital director's, ruins his career, and ten years later discovers the boy he saved has become a serial killer who is now hunting him."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781591167860-L.jpg"
-amazonASIN: "1591167868"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/142156906X.01.LZZZZZZZ.jpg"
+amazonASIN: "142156906X"
 publishedAt: "2026-04-24"
 tags: ["horror", "thriller", "psychological", "completed", "mature"]
 rating: 5
@@ -126,7 +126,7 @@ VIZ Media published the complete 18-volume series. All volumes available, includ
 
 ## Where to Buy
 
-[Get Monster Vol. 1 on Amazon →](https://www.amazon.com/dp/1591167868)
+[Get Monster Vol. 1 on Amazon →](https://www.amazon.com/dp/142156906X)
 
 ---
 

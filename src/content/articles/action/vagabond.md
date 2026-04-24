@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "historical warfare", "death", "philosophical themes about killing and meaning", "nudity in some volumes"]
 description: "Yu's review of Vagabond — a manga about the historical Miyamoto Musashi's journey to become the greatest swordsman alive, and his gradual understanding that invincibility is not the same as wisdom. Visually the most beautiful manga ever published."
-coverImage: "https://covers.openlibrary.org/b/isbn/1591160510-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00FPLNY6U.01.LZZZZZZZ.jpg"
 amazonASIN: "B00FPLNY6U"
 publishedAt: "2026-04-23"
 tags: ["historical", "action", "mature", "hiatus", "philosophical", "samurai"]

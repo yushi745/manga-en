@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "death of characters", "forced execution premise", "gore"]
 description: "Yu's review of Judge — nine people who have committed sins that went unpunished are locked in a building wearing animal masks; they must vote to execute one person every twelve hours or everyone dies."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316246736-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316246735.01.LZZZZZZZ.jpg"
 amazonASIN: "0316246735"
 publishedAt: "2026-04-24"
 tags: ["horror", "thriller", "mystery", "completed", "survival-game", "Tonogai"]

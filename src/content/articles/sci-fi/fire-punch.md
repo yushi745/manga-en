@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "body horror", "cannibalism", "psychological horror", "mature themes throughout", "the most extreme content in any Fujimoto work"]
 description: "Yu's review of Fire Punch — Agni has a regeneration blessing; someone with a flame blessing sets him on fire; he cannot die and cannot stop burning; he crosses a frozen post-apocalyptic world looking for revenge while a man with a camera follows him."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974701155-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974701158.01.LZZZZZZZ.jpg"
 amazonASIN: "1974701158"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "dark-fantasy", "mature", "completed", "Fujimoto", "Chainsaw-Man-author"]

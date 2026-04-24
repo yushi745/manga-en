@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "elite school setting"]
 description: "Yu's review of Special A — Hikari Hanazono has been second to Kei Takishima since childhood; she is completely dedicated to surpassing him and completely unaware that he has loved her for years."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421513751-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421513757.01.LZZZZZZZ.jpg"
 amazonASIN: "1421513757"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "completed", "elite-school", "oblivious-heroine"]

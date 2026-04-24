@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Flying Witch — a teenage witch moves to rural Aomori to complete her training, lives with her cousins, and spends most of her time tending her garden, harvesting magical plants, and introducing her neighbors to the world of magic."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781945054105-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1945054107.01.LZZZZZZZ.jpg"
 amazonASIN: "1945054107"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "fantasy", "rural", "ongoing", "gentle"]

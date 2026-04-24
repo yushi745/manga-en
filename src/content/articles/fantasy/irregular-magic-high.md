@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "military themes", "sibling relationship that readers find unusual"]
 description: "Yu's review of The Irregular at Magic High School — at a magic high school that segregates students by exam results, a 'Weed' student turns out to be one of the most powerful magicians in the world, concealing his ability for his own reasons."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316348805-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316348805.01.LZZZZZZZ.jpg"
 amazonASIN: "0316348805"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "sci-fi", "magic", "completed", "school"]

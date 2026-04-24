@@ -14,12 +14,11 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "injury"]
 description: "Yu's review of Baby Steps — Eiichiro Maruo is a straight-A student who takes perfect notes about everything; when he joins a tennis club, he applies the same systematic analysis to the sport and discovers that data and discipline can compete with natural talent."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781612621067-L.jpg"
-amazonASIN: "1612621066"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "tennis", "academic"]
 rating: 4
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -125,7 +124,7 @@ Kodansha USA published the complete 47-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Baby Steps Vol. 1 on Amazon →](https://www.amazon.com/dp/1612621066)
+*Not available in English print.*
 
 ---
 

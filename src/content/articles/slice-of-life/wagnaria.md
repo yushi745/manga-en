@@ -14,12 +14,11 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["comedy violence (light slapstick)", "mild mature humor"]
 description: "Yu's review of Wagnaria!! — Souta Takanashi starts working at a family restaurant because a tiny girl asked him to; his coworkers include a woman with androphobia, a katana-carrying floor chief, an invisible manager, and a girl who thinks she might be in love with him; chaos is the default state."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316232791-L.jpg"
-amazonASIN: "0316232793"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "seinen", "completed", "workplace", "romance"]
 rating: 4
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -127,7 +126,7 @@ Yen Press published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Wagnaria!! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316232793)
+*Not available in English print.*
 
 ---
 

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["violence", "cyberpunk dark themes", "body horror of modified humans", "themes of dehumanization"]
 description: "Yu's review of No Guns Life — Juzo Inui is an Extended — a cyborg modified for war — whose head is a giant revolver; he works as a problem fixer in a city that fears and restricts the Extended people who fought for it."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974710621-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974710629.01.LZZZZZZZ.jpg"
 amazonASIN: "1974710629"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "noir", "cyberpunk", "seinen", "completed"]

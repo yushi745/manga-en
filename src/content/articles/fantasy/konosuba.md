@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["comedic violence", "suggestive humor and content", "crude comedy", "parody of isekai tropes"]
 description: "Yu's review of KonoSuba — the isekai parody where every party member is disastrously incompetent at something crucial. A useless goddess, an explosion-obsessed mage, a masochistic crusader, and a pathetic protagonist who somehow keeps surviving. The funniest isekai ever made."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316553377-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/B07BKGR7LC.01.LZZZZZZZ.jpg"
 amazonASIN: "B07BKGR7LC"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "comedy", "isekai", "completed", "parody", "feel-good"]

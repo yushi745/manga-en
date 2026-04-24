@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["themes of purposelessness and depression", "death of a significant character", "the specific sadness of being young and uncertain"]
 description: "Yu's review of Solanin — Meiko works a job she hates; her boyfriend Taneda plays in a band that goes nowhere; together they ask what their lives are for in the specific way that only your mid-twenties allows."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421523217-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/142152321X.01.LZZZZZZZ.jpg"
 amazonASIN: "142152321X"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "slice-of-life", "music", "completed", "Asano", "youth", "bittersweet"]

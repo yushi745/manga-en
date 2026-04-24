@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["intense psychological competition", "themes of ego and ruthlessness"]
 description: "Yu's review of Blue Lock — after Japan's World Cup failure, the Football Association recruits 300 top high school strikers and puts them in an experimental program where only one will emerge as the best striker in Japan."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781646516544-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1646516543.01.LZZZZZZZ.jpg"
 amazonASIN: "1646516543"
 publishedAt: "2026-04-24"
 tags: ["sports", "soccer", "shonen", "ongoing", "psychological", "intense"]

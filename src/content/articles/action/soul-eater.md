@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "horror imagery", "themes of madness", "dark fantasy elements", "mild suggestive content"]
 description: "Yu's review of Soul Eater — a manga set in a school where students are weapon-wielders, and the weapons are people. Gothic, funny, and visually unlike anything else in manga. One of the best completed action series of its era."
-coverImage: "https://covers.openlibrary.org/b/isbn/0316073873-L.jpg"
-amazonASIN: "B00FN5GGQW"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0759530017.01.LZZZZZZZ.jpg"
+amazonASIN: "0759530017"
 publishedAt: "2026-04-23"
 tags: ["shonen", "action", "fantasy", "horror", "completed", "gothic"]
 rating: 4
@@ -192,8 +192,8 @@ Start from Volume 1. The world-building is established across the early volumes 
 
 ## Where to Buy
 
-- [📱 Soul Eater Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00FN5GGQW)
-- [📚 Soul Eater Vol. 1 — Paperback](https://www.amazon.com/dp/0316073873)
+- [📱 Soul Eater Vol. 1 — Kindle Edition](https://www.amazon.com/dp/0759530017)
+- [📚 Soul Eater Vol. 1 — Paperback](https://www.amazon.com/dp/0759530017)
 
 ---
 

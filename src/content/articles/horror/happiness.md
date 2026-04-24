@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["vampire violence", "blood", "sexual violence (an attack that transforms the protagonist)", "psychological horror", "body horror"]
 description: "Yu's review of Happiness — Makoto Okazaki is attacked and bitten by a vampire girl who then disappears; he begins transforming and craving blood, and is pulled into a world of people who are all becoming something that is no longer human."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632363244-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632363240.01.LZZZZZZZ.jpg"
 amazonASIN: "1632363240"
 publishedAt: "2026-04-24"
 tags: ["horror", "vampire", "psychological", "completed", "Oshimi", "seinen"]

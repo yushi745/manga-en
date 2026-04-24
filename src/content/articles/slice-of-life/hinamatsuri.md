@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yakuza content", "mild violence", "a child living on the street played for dark comedy"]
 description: "Yu's review of Hinamatsuri — a girl with psychic powers falls from the sky into a yakuza man's apartment; he reluctantly takes her in; she destroys things when she is not allowed to use her powers; together they navigate life in a way that makes no sense and is somehow very funny."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781642731569-L.jpg"
-amazonASIN: "1642731560"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/164273005X.01.LZZZZZZZ.jpg"
+amazonASIN: "164273005X"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "seinen", "completed", "yakuza", "psychic"]
 rating: 5
@@ -129,7 +129,7 @@ One Peace Books published the complete 19-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Hinamatsuri Vol. 1 on Amazon →](https://www.amazon.com/dp/1642731560)
+[Get Hinamatsuri Vol. 1 on Amazon →](https://www.amazon.com/dp/164273005X)
 
 ---
 

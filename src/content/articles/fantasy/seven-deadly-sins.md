@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "some fanservice", "themes of war and sacrifice"]
 description: "Yu's review of Seven Deadly Sins — a princess secretly seeks the legendary Seven Deadly Sins, a group of powerful and disgraced knights, to save her kingdom from a corrupted Holy Knights order."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781612629216-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1612629210.01.LZZZZZZZ.jpg"
 amazonASIN: "1612629210"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "action", "shonen", "knights", "completed"]

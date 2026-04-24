@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["war violence", "ecological catastrophe themes", "mature philosophical content"]
 description: "Yu's review of Nausicaa of the Valley of Wind — the manga Hayao Miyazaki serialized over twelve years, extending far beyond the film's scope: a post-catastrophic world where toxic forests cover Earth, and a princess who understands the insects that everyone else fears."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781591164081-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1591164087.01.LZZZZZZZ.jpg"
 amazonASIN: "1591164087"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "fantasy", "completed", "Miyazaki", "post-apocalyptic", "ecological"]

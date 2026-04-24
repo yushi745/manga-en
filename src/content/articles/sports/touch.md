@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death of a major character", "grief", "mild romance"]
 description: "Yu's review of Touch — Tatsuya and Kazuya Uesugi are twins; Kazuya is the talented baseball player; Tatsuya pretends not to care about anything; Minami is the girl next door who has loved baseball and the twins her whole life; what happens between them changed Japanese sports manga permanently."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781591163459-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/159116345X.01.LZZZZZZZ.jpg"
 amazonASIN: "159116345X"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "classic", "baseball", "Adachi"]

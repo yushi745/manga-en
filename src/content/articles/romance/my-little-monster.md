@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "comedic violence", "social anxiety themes"]
 description: "Yu's review of My Little Monster — a studious girl focused entirely on grades is disrupted when she is asked to deliver notes to a classmate who stopped coming to school, a boy who fights constantly and has no idea how human interaction works."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781612625225-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1612625223.01.LZZZZZZZ.jpg"
 amazonASIN: "1612625223"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "completed", "school"]

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "otaku culture references"]
 description: "Yu's review of Wotakoi — two coworkers who are secretly otaku start dating and discover that being in a relationship is hard when both people would honestly prefer to be playing video games."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975382858-L.jpg"
-amazonASIN: "1975382854"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632367041.01.LZZZZZZZ.jpg"
+amazonASIN: "1632367041"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "office", "completed", "otaku"]
 rating: 4
@@ -122,7 +122,7 @@ Yen Press published the complete 11-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Wotakoi: Love is Hard for Otaku Vol. 1 on Amazon →](https://www.amazon.com/dp/1975382854)
+[Get Wotakoi: Love is Hard for Otaku Vol. 1 on Amazon →](https://www.amazon.com/dp/1632367041)
 
 ---
 

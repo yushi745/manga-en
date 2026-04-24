@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "body horror", "death (frequent)", "sexual content (mild)", "existential themes"]
 description: "Yu's review of Knights of Sidonia — a thousand years after Earth is destroyed, the last humans travel space in a massive seed ship, fighting shapeshifting beings called Gauna with mecha called Gardes."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781935654803-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1935654802.01.LZZZZZZZ.jpg"
 amazonASIN: "1935654802"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "mecha", "action", "completed", "nihei"]

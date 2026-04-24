@@ -14,12 +14,11 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yokai action violence", "some horror elements", "emotional character deaths"]
 description: "Yu's review of Ushio and Tora — Ushio finds an ancient beast-spirit called Tora pinned under the temple floor; he releases Tora to fight other spirits threatening his town; Tora intends to eat Ushio eventually; they travel Japan fighting supernatural threats."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974724963-L.jpg"
-amazonASIN: "197472496X"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "completed", "yokai", "supernatural", "classic"]
 rating: 5
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -125,7 +124,7 @@ VIZ Media published the complete 33-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Ushio and Tora Vol. 1 on Amazon →](https://www.amazon.com/dp/197472496X)
+*Not available in English print.*
 
 ---
 

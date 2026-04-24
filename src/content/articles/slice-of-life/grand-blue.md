@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["heavy alcohol content", "nudity (played for comedy)", "adult humor"]
 description: "Yu's review of Grand Blue Dreaming — a college freshman joins his uncle's dive shop, intends to actually dive and study, and instead finds himself drawn into extreme drinking culture with his diving club's terrifying seniors."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632366726-L.jpg"
-amazonASIN: "1632366720"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632366665.01.LZZZZZZZ.jpg"
+amazonASIN: "1632366665"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "college", "ongoing", "diving"]
 rating: 4
@@ -126,7 +126,7 @@ Kodansha USA is publishing the ongoing series. Currently 17 volumes available in
 
 ## Where to Buy
 
-[Get Grand Blue Dreaming Vol. 1 on Amazon →](https://www.amazon.com/dp/1632366720)
+[Get Grand Blue Dreaming Vol. 1 on Amazon →](https://www.amazon.com/dp/1632366665)
 
 ---
 

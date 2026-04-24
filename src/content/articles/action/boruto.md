@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["ninja action violence", "some dark story turns in later volumes"]
 description: "Yu's review of Boruto — Boruto Uzumaki is the son of the Seventh Hokage; he resents the attention his father gets as a legend; his generation faces threats the previous one could not have imagined, including enemies from outside the world the Ninja War established."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974714476-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974714470.01.LZZZZZZZ.jpg"
 amazonASIN: "1974714470"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "ongoing", "ninja", "Naruto-sequel"]

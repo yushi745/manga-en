@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mountain climbing danger", "death in extreme environments", "obsession themes"]
 description: "Yu's review of The Summit of the Gods — a photojournalist in Kathmandu may have found the camera of George Mallory, who disappeared on Everest in 1924; the mystery pulls him into the story of Habu Joji, a climber of legendary ability who disappeared years earlier."
-coverImage: "https://covers.openlibrary.org/b/isbn/9788492444335-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/8492444339.01.LZZZZZZZ.jpg"
 amazonASIN: "8492444339"
 publishedAt: "2026-04-24"
 tags: ["horror", "adventure", "mystery", "seinen", "completed", "mountain-climbing"]

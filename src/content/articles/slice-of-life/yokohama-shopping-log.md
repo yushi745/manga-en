@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["themes of impermanence and gentle endings"]
 description: "Yu's review of Yokohama Kaidashi Kikou — an android named Alpha runs a small café in a Japan that is slowly, gently flooding, and finds meaning in the conversations she has and the world she can still observe."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781569709627-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1569709629.01.LZZZZZZZ.jpg"
 amazonASIN: "1569709629"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "sci-fi", "post-apocalyptic", "completed", "philosophical"]

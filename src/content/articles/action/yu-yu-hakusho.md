@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "death", "supernatural themes", "tournament violence escalates significantly in later arcs"]
 description: "Yu's review of Yu Yu Hakusho — 19 volumes about a delinquent who dies heroically and is recruited as a Spirit Detective to investigate supernatural cases. The series Togashi made before Hunter x Hunter, and the DNA is visible in everything he'd write after."
-coverImage: "https://covers.openlibrary.org/b/isbn/1591164079-L.jpg"
-amazonASIN: "B00FPLNVQ4"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1569319049.01.LZZZZZZZ.jpg"
+amazonASIN: "1569319049"
 publishedAt: "2026-04-23"
 tags: ["shonen", "action", "supernatural", "completed", "classic", "tournament"]
 rating: 5
@@ -199,8 +199,8 @@ Start from Volume 1. The early Spirit Detective arc is lighter but establishes c
 
 ## Where to Buy
 
-- [📱 Yu Yu Hakusho Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00FPLNVQ4)
-- [📚 Yu Yu Hakusho Vol. 1 — Paperback](https://www.amazon.com/dp/1591164079)
+- [📱 Yu Yu Hakusho Vol. 1 — Kindle Edition](https://www.amazon.com/dp/1569319049)
+- [📚 Yu Yu Hakusho Vol. 1 — Paperback](https://www.amazon.com/dp/1569319049)
 
 ---
 

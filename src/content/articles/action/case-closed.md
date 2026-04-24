@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["murder mystery content", "some violence", "poison/drugs in story context"]
 description: "Yu's review of Case Closed (Detective Conan) — Shinichi Kudo is a teen genius detective who is given a poison by a criminal organization and shrunk to elementary school age; he lives with his childhood friend's family using a fake identity as Conan Edogawa; every volume contains multiple murder mysteries he must solve while hiding who he is."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781591163275-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1591163277.01.LZZZZZZZ.jpg"
 amazonASIN: "1591163277"
 publishedAt: "2026-04-24"
 tags: ["mystery", "action", "shonen", "ongoing", "long-running", "VIZ"]

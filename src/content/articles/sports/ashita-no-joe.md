@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["boxing violence", "death", "poverty and social marginalization depicted", "themes of self-destruction"]
 description: "Yu's review of Ashita no Joe — Joe Yabuki grows up in the slums of postwar Tokyo, is discovered by a washed-up trainer, and becomes a boxer; the series follows him to the title fight while asking what a life spent burning completely is worth."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781647293871-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1647293871.01.LZZZZZZZ.jpg"
 amazonASIN: "1647293871"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "classic", "boxing", "postwar"]

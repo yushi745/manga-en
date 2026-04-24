@@ -14,12 +14,11 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["large-scale war and death", "political violence", "themes of empire and democracy"]
 description: "Yu's review of Legend of the Galactic Heroes — the manga adaptation of the classic novel series following Yang Wen-li of the Free Planets Alliance and Reinhard von Lohengramm of the Galactic Empire across a war that neither believes in the same terms as the people who sent them to fight it."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781626927551-L.jpg"
-amazonASIN: "1626927553"
+coverImage: ""
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "military", "seinen", "completed", "space-opera", "classic"]
 rating: 5
-hasAffiliate: true
+hasAffiliate: false
 ---
 
 ## Quick Take
@@ -130,7 +129,7 @@ Seven Seas Entertainment published the complete 10-volume manga adaptation. All 
 
 ## Where to Buy
 
-[Get Legend of the Galactic Heroes Vol. 1 on Amazon →](https://www.amazon.com/dp/1626927553)
+*Not available in English print.*
 
 ---
 

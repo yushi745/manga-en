@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death", "time loop themes", "psychological distress", "themes of loss"]
 description: "Yu's review of the Steins;Gate manga — a self-proclaimed mad scientist accidentally invents a way to send text messages to the past, and discovers that every change to the timeline costs someone something."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781927925508-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1927925509.01.LZZZZZZZ.jpg"
 amazonASIN: "1927925509"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "thriller", "time-travel", "mystery", "completed"]

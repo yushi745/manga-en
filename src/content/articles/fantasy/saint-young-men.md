@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["religious satire", "mild comedy violence", "no intended offense to religious readers"]
 description: "Yu's review of Saint Young Men — Jesus Christ and Gautama Buddha share an apartment in Tokyo's Tachikawa neighborhood while on vacation, trying to experience ordinary human life while accidentally performing miracles."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632369369-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632369362.01.LZZZZZZZ.jpg"
 amazonASIN: "1632369362"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "comedy", "slice-of-life", "religious-satire", "seinen", "ongoing"]

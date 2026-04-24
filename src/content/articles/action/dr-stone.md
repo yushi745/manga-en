@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild violence", "science content", "themes of survival"]
 description: "Yu's review of Dr. Stone — Senku Ishigami, a scientific genius, wakes from a millennia-long stone petrification to find human civilization erased; he decides to use science to rebuild everything humanity ever created, starting from zero."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974708291-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974708292.01.LZZZZZZZ.jpg"
 amazonASIN: "1974708292"
 publishedAt: "2026-04-24"
 tags: ["action", "sci-fi", "shonen", "completed", "science", "survival", "Boichi"]

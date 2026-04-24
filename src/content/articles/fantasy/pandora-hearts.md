@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "dark themes", "psychological themes", "themes of identity and memory"]
 description: "Yu's review of Pandora Hearts — a nobleman's son is cast into a prison dimension called the Abyss on his fifteenth birthday, returns with a powerful chain partner, and unravels a conspiracy that rewrote the history of his world."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316076074-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316076074.01.LZZZZZZZ.jpg"
 amazonASIN: "0316076074"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "mystery", "dark", "completed", "psychological"]

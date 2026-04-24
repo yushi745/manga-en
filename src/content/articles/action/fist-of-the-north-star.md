@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "death", "post-apocalyptic content", "iconic gore"]
 description: "Yu's review of Fist of the North Star — in a nuclear wasteland, Kenshiro, master of Hokuto Shinken (the assassination art that explodes bodies from within), wanders the badlands protecting survivors and confronting the martial arts rivals and enemies who shaped his past."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781569312001-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1569312001.01.LZZZZZZZ.jpg"
 amazonASIN: "1569312001"
 publishedAt: "2026-04-24"
 tags: ["action", "post-apocalyptic", "classic", "mature", "completed", "shonen", "iconic"]

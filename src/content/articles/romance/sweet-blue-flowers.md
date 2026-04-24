@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yuri (girls' love) romance", "gentle emotional complexity", "themes of heartbreak"]
 description: "Yu's review of Sweet Blue Flowers — Fumi Manjoume and Akira Okudaira were childhood best friends who lost contact; they meet again in high school; Fumi is going through a heartbreak and beginning a new relationship with a senior girl while discovering who she is; Akira watches, loves, and cannot yet name it."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421598116-L.jpg"
-amazonASIN: "1421598116"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421592983.01.LZZZZZZZ.jpg"
+amazonASIN: "1421592983"
 publishedAt: "2026-04-24"
 tags: ["romance", "yuri", "completed", "drama", "school", "foundational", "VIZ"]
 rating: 5
@@ -125,7 +125,7 @@ VIZ Media published the complete 4-volume series. All volumes available. The ani
 
 ## Where to Buy
 
-[Get Sweet Blue Flowers Vol. 1 on Amazon →](https://www.amazon.com/dp/1421598116)
+[Get Sweet Blue Flowers Vol. 1 on Amazon →](https://www.amazon.com/dp/1421592983)
 
 ---
 

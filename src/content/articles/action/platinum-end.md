@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["suicidal ideation at series opening", "death battle content", "philosophical themes about god and existence"]
 description: "Yu's review of Platinum End — Mirai Kakehashi, at the edge of suicide, is given angel wings and arrows by his guardian angel; he and 12 other candidates chosen by angels are competing to become the next God; the creators of Death Note apply their formula to a theological competition."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421590639-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421590638.01.LZZZZZZZ.jpg"
 amazonASIN: "1421590638"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "completed", "supernatural", "Ohba", "Obata", "Death-Note-creators"]

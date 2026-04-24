@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "supernatural horror elements", "themes of death and the afterlife", "psychological manipulation in later arcs"]
 description: "Yu's review of Noragami — a manga about a minor god with a broken phone number, one divine weapon, and a desperate wish to be remembered. Funny and warm early, genuinely affecting as it deepens. One of the most underrated supernatural manga running."
-coverImage: "https://covers.openlibrary.org/b/isbn/1612629547-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00PZMIKN8.01.LZZZZZZZ.jpg"
 amazonASIN: "B00PZMIKN8"
 publishedAt: "2026-04-23"
 tags: ["supernatural", "action", "comedy", "ongoing", "mythology", "gods"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["gun violence", "action themes", "dark backstory"]
 description: "Yu's review of Black Cat — Train Heartnet, Chronos's Number XIII and most feared assassin, abandons the organization to become a Sweeper (bounty hunter) after a woman shows him that freedom is possible."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421506050-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421506055.01.LZZZZZZZ.jpg"
 amazonASIN: "1421506055"
 publishedAt: "2026-04-24"
 tags: ["action", "sci-fi", "shonen", "completed", "guns"]

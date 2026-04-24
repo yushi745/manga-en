@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["disability themes", "medical content", "dark psychological themes", "mature drama"]
 description: "Yu's review of Real — three young men connected by accident and injury find themselves in the world of wheelchair basketball, and the manga is about what it means to have a body and to lose what you thought you knew about it."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421519431-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421519437.01.LZZZZZZZ.jpg"
 amazonASIN: "1421519437"
 publishedAt: "2026-04-24"
 tags: ["sports", "drama", "mature", "ongoing", "wheelchair-basketball"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fire violence", "death", "body horror in Infernal sequences", "fan service"]
 description: "Yu's review of Fire Force — Shinra Kusakabe, a pyrokinetic firefighter with devil feet who can ignite flames from his feet, joins Special Fire Force Company 8 to find the truth behind his mother's death and the phenomenon that turns humans into living flames."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632363305-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632363305.01.LZZZZZZZ.jpg"
 amazonASIN: "1632363305"
 publishedAt: "2026-04-24"
 tags: ["action", "supernatural", "shonen", "completed", "fire", "Soul-Eater-author"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "mob violence", "mass death", "cosmic horror", "suicide themes"]
 description: "Yu's review of Remina — a scientist names a mysterious planet after his daughter, and when that planet turns out to be heading toward Earth to consume it, the terrified public turns on the girl."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974717477-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974717476.01.LZZZZZZZ.jpg"
 amazonASIN: "1974717476"
 publishedAt: "2026-04-24"
 tags: ["horror", "junji-ito", "cosmic-horror", "sci-fi", "completed", "one-shot"]

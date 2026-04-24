@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "death of children", "psychological horror", "dark themes"]
 description: "Yu's review of The Promised Neverland — orphan children living a perfect life discover their farm is raising them as food for demons. A survival thriller that starts as one of the best manga ever made."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421597140-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421597144.01.LZZZZZZZ.jpg"
 amazonASIN: "1421597144"
 publishedAt: "2026-04-24"
 tags: ["horror", "thriller", "shonen", "survival", "psychological"]

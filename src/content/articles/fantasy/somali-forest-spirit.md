@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["themes of mortality", "danger to a child", "emotional ending"]
 description: "Yu's review of Somali and the Forest Spirit — a golem assigned to maintain a forest finds a human child and raises her, traveling through a world of monsters and beasts where humans are prey, searching for other humans before his own time runs out."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781787743625-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1787743624.01.LZZZZZZZ.jpg"
 amazonASIN: "1787743624"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "slice-of-life", "completed", "emotional", "parent-child"]

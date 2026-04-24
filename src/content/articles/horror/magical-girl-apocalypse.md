@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "gore", "mass death", "body horror", "magical girl genre deconstruction"]
 description: "Yu's review of Magical Girl Apocalypse — ordinary high schooler Kii Kogami watches a magical girl appear at school and kill everyone; the magical girls appear in large numbers and begin a massacre; this is an extremely violent horror manga that uses the magical girl aesthetic as the vehicle for a zombie-apocalypse-style survival story with time travel complications."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781626921375-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1626921377.01.LZZZZZZZ.jpg"
 amazonASIN: "1626921377"
 publishedAt: "2026-04-24"
 tags: ["horror", "action", "mature", "completed", "magical-girl", "Seven-Seas"]

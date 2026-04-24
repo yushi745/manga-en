@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["isekai action violence", "some dark themes in the background conspiracy", "mild mature humor"]
 description: "Yu's review of The Eminence in Shadow — Minoru Kageno is reincarnated into a fantasy world and creates a shadow organization called Shadow Garden, inventing fictional enemies for his followers to fight; the enemies turn out to be real; the comedy is that he never knows this."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975348816-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/197534881X.01.LZZZZZZZ.jpg"
 amazonASIN: "197534881X"
 publishedAt: "2026-04-24"
 tags: ["action", "isekai", "seinen", "ongoing", "comedy", "shadow-garden"]

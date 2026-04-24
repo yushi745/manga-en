@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["kaiju violence", "body horror elements", "themes of failure and second chances"]
 description: "Yu's review of Kaiju No. 8 — Kafka Hibino, a 32-year-old kaiju cleanup worker who failed his dream of joining the Defense Force, gets a second chance when a small kaiju enters his body and gives him the power to transform."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974732760-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974732762.01.LZZZZZZZ.jpg"
 amazonASIN: "1974732762"
 publishedAt: "2026-04-24"
 tags: ["action", "sci-fi", "shonen", "kaiju", "ongoing"]

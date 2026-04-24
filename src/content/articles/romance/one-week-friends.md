@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["memory loss themes", "emotional loss", "gentle romance"]
 description: "Yu's review of One Week Friends — Kaori Fujimiya loses her memories of people she considers friends every Monday; Yuki Hase finds out and decides to become her friend every week regardless; he keeps a diary of their time together; this is a gentle romance about persistence, memory, and what friendship means when it has to be rebuilt."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316399937-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316399930.01.LZZZZZZZ.jpg"
 amazonASIN: "0316399930"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "completed", "memory", "gentle", "school"]

@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["fanservice", "violent action", "mature content"]
 description: "Yu's review of Air Gear — in a world where motorized inline skates called Air Trecks allow riders to perform superhuman aerial stunts, a delinquent becomes obsessed with becoming the legendary Sky King."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780345485847-L.jpg"
-amazonASIN: "0345485843"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0345492781.01.LZZZZZZZ.jpg"
+amazonASIN: "0345492781"
 publishedAt: "2026-04-24"
 tags: ["action", "sports", "completed", "mature", "skating"]
 rating: 3
@@ -119,7 +119,7 @@ Del Rey published early volumes; Kodansha USA continued. All 37 volumes availabl
 
 ## Where to Buy
 
-[Get Air Gear Vol. 1 on Amazon →](https://www.amazon.com/dp/0345485843)
+[Get Air Gear Vol. 1 on Amazon →](https://www.amazon.com/dp/0345492781)
 
 ---
 

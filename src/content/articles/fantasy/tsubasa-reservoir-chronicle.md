@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of sacrifice and loss", "complex narrative involving timeline manipulation"]
 description: "Yu's review of Tsubasa Reservoir Chronicle — a young excavator must travel across parallel dimensions to recover the scattered feathers containing the memories of Princess Sakura, paying an impossible price to do so."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780345470577-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0345470575.01.LZZZZZZZ.jpg"
 amazonASIN: "0345470575"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "shonen", "CLAMP", "completed", "multiverse"]

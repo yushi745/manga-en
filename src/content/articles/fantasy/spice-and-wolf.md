@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild fanservice", "themes of loneliness and mortality"]
 description: "Yu's review of Spice and Wolf — a traveling merchant forms an unlikely partnership with Holo, an ancient wolf harvest deity, as they journey together through medieval trade routes toward her distant homeland."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316073394-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316073393.01.LZZZZZZZ.jpg"
 amazonASIN: "0316073393"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "romance", "completed", "unique", "economics"]

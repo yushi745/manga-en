@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["idol industry darkness", "murder", "themes of obsession and stalking", "entertainment industry exploitation", "reincarnation premise"]
 description: "Yu's review of Oshi no Ko — a doctor reincarnates as the son of the idol he worshipped, retaining his adult memories; he enters the entertainment industry to find his mother's killer while his twin sister becomes an idol herself."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975337759-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1975337751.01.LZZZZZZZ.jpg"
 amazonASIN: "1975337751"
 publishedAt: "2026-04-24"
 tags: ["action", "drama", "mystery", "seinen", "idol", "completed-in-Japan", "reincarnation"]

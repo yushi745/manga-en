@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "dark themes", "themes of trauma and sacrifice"]
 description: "Yu's review of D.Gray-man — a young exorcist with a cursed arm fights parasitic demons called Akuma in a 19th-century world, working for a secret church organization against the Millennium Earl who creates the Akuma from human grief."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421506044-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421506041.01.LZZZZZZZ.jpg"
 amazonASIN: "1421506041"
 publishedAt: "2026-04-24"
 tags: ["action", "dark-fantasy", "shonen", "ongoing", "gothic"]

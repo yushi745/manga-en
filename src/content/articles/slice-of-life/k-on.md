@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of K-On! — four high school girls start a light music club, spend most of their time eating cake and talking, rarely practice, and somehow become a band that matters to them deeply."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780316189569-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316189561.01.LZZZZZZZ.jpg"
 amazonASIN: "0316189561"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "music", "comedy", "school", "completed", "moe"]

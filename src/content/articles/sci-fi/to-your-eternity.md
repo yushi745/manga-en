@@ -14,8 +14,8 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["death of major characters (recurring)", "themes of grief and loss", "emotional content throughout"]
 description: "Yu's review of To Your Eternity — an entity sent to Earth can take the form of anything it touches; after mimicking a dying boy, it begins an eternal journey through human lives, learning what grief, love, and connection mean across centuries."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781632365330-L.jpg"
-amazonASIN: "1632365332"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632365715.01.LZZZZZZZ.jpg"
+amazonASIN: "1632365715"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "fantasy", "shonen", "completed-in-Japan", "emotional", "immortality", "grief"]
 rating: 5
@@ -127,7 +127,7 @@ Kodansha USA is publishing the series. 20 volumes available in English.
 
 ## Where to Buy
 
-[Get To Your Eternity Vol. 1 on Amazon →](https://www.amazon.com/dp/1632365332)
+[Get To Your Eternity Vol. 1 on Amazon →](https://www.amazon.com/dp/1632365715)
 
 ---
 

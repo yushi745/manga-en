@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "homunculus monster content", "some transformation body horror"]
 description: "Yu's review of Buso Renkin — Kazuki Muto dies saving a girl from a monster; she revives him with an alchemical weapon lodged in his chest; he becomes a warrior using Buso Renkin — alchemical devices that manifest as weapons based on the user's will — to fight homunculi."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781421501918-L.jpg"
-amazonASIN: "142150191X"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421506157.01.LZZZZZZZ.jpg"
+amazonASIN: "1421506157"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "completed", "alchemy", "supernatural", "Watsuki"]
 rating: 4
@@ -125,7 +125,7 @@ VIZ Media published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Buso Renkin Vol. 1 on Amazon →](https://www.amazon.com/dp/142150191X)
+[Get Buso Renkin Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506157)
 
 ---
 

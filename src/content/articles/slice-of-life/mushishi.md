@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death", "themes of illness and disability", "supernatural harm", "some body horror (mild)"]
 description: "Yu's review of Mushishi — Ginko travels through a Japan that exists before modernity, investigating and treating afflictions caused by Mushi — ancient lifeforms that exist at the edge of perception and disturb the boundary between the living and something else."
-coverImage: "https://covers.openlibrary.org/b/isbn/9780345496218-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/0345496213.01.LZZZZZZZ.jpg"
 amazonASIN: "0345496213"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "fantasy", "episodic", "nature", "completed", "meditative"]

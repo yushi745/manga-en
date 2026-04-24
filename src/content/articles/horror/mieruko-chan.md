@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["horror imagery (spirits are genuinely disturbing)", "fan service", "psychological horror of pretending not to see"]
 description: "Yu's review of Mieruko-chan — Miko Yotsuya woke up one day able to see grotesque spirits; her strategy for survival is to ignore them completely and pretend she cannot see them, while navigating high school and increasingly complicated supernatural situations."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781975323028-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1975323026.01.LZZZZZZZ.jpg"
 amazonASIN: "1975323026"
 publishedAt: "2026-04-24"
 tags: ["horror", "comedy", "slice-of-life", "ongoing"]

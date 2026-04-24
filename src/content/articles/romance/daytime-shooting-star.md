@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["teacher-student attraction (depicted without consummation)", "unrequited love arc"]
 description: "Yu's review of Daytime Shooting Star — Suzume moves from the countryside to Tokyo to live with her uncle, meets a teacher who becomes her homeroom teacher, and falls for him; what makes the manga interesting is how carefully it handles the inevitability of that being wrong."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781974707942-L.jpg"
-amazonASIN: "1974707946"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974706672.01.LZZZZZZZ.jpg"
+amazonASIN: "1974706672"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "completed", "teacher-student", "coming-of-age"]
 rating: 4
@@ -123,7 +123,7 @@ VIZ Media published the complete 11-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Daytime Shooting Star Vol. 1 on Amazon →](https://www.amazon.com/dp/1974707946)
+[Get Daytime Shooting Star Vol. 1 on Amazon →](https://www.amazon.com/dp/1974706672)
 
 ---
 

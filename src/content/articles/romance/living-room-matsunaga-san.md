@@ -14,8 +14,8 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["age-gap romance (high school girl, adult man)", "boarding house setting"]
 description: "Yu's review of Living-Room Matsunaga-san — Meeko moves into a unique boarding house run by her uncle where multiple adults live together; the cool resident Matsunaga becomes the person she falls for, despite the age difference."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781646511471-L.jpg"
-amazonASIN: "1646511476"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632368137.01.LZZZZZZZ.jpg"
+amazonASIN: "1632368137"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "completed", "boarding-house", "age-gap"]
 rating: 4
@@ -125,7 +125,7 @@ Kodansha USA published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Living-Room Matsunaga-san Vol. 1 on Amazon →](https://www.amazon.com/dp/1646511476)
+[Get Living-Room Matsunaga-san Vol. 1 on Amazon →](https://www.amazon.com/dp/1632368137)
 
 ---
 

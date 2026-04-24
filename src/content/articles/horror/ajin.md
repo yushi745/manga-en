@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "torture", "body horror", "death", "government experimentation"]
 description: "Yu's review of Ajin: Demi-Human — a high school student discovers he is an Ajin, an immortal being that the government has been secretly capturing and experimenting on, and must decide which side to fight for."
-coverImage: "https://covers.openlibrary.org/b/isbn/9781941220214-L.jpg"
+coverImage: "https://images-na.ssl-images-amazon.com/images/P/1941220215.01.LZZZZZZZ.jpg"
 amazonASIN: "1941220215"
 publishedAt: "2026-04-24"
 tags: ["horror", "thriller", "supernatural", "action", "completed"]
