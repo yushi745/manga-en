@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["dystopian themes", "state violence", "implied LGBTQ+ content", "death", "parasitic horror elements"]
 description: "Yu's review of No. 6 — in the near future, the utopian city-state No. 6 promises its citizens a perfect life; Shion, an elite citizen, shelters a fugitive named Rat on a stormy night when he is 12; years later, this single act of kindness has destroyed his privileged status and the two are reunited in the city's dark underside."
-coverImage: ""
+coverImage: "/covers/no-6.jpg"
 amazonASIN: "161262266X"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "drama", "completed", "dystopian", "LGBTQ", "light-novel-adaptation"]
