@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["post-apocalyptic setting", "themes of loneliness and mortality", "existential themes"]
 description: "Yu's review of Girls' Last Tour — two girls travel through a massive post-apocalyptic city on a kettenrad, eating whatever they find, watching it snow, and thinking about what it means to be alive when almost nothing is left."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316470627.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/5b93fa0f-0640-49b8-974e-954b9959929b/67d556f5-91d4-4b85-b287-2f74f008e564.jpg"
 amazonASIN: "0316470627"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "slice-of-life", "post-apocalyptic", "completed", "philosophical"]

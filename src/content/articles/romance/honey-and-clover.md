@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["unrequited love", "themes of artistic identity and failure", "melancholy"]
 description: "Yu's review of Honey and Clover — five art school students love each other in various permutations that cannot all resolve, while each navigates the question of what their talent means and who they want to become."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421513307.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/8d64bbc5-b1a7-4346-b233-4b81952945e9/1545dfb3-88df-4e80-bacc-bf00de0d84b6.jpg"
 amazonASIN: "1421513307"
 publishedAt: "2026-04-24"
 tags: ["romance", "slice-of-life", "josei", "completed", "art-school", "classic"]

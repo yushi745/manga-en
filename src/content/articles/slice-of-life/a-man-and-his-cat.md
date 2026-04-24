@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "All Ages"
 contentWarnings: ["grief (widow backstory)", "mild emotional content"]
 description: "Yu's review of A Man and His Cat — an ugly, perpetually unsold cat at the pet store is finally adopted by a retired music teacher who recently lost his wife; the series is about the happiness of second chances and the specific way a pet fills a kind of loneliness nothing else touches."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1646090268.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/8cc979c5-9c2d-4c16-9e83-e0a30dbcc6c7/692e3a02-e90f-4f60-ab78-618350ca16c2.jpg"
 amazonASIN: "1646090268"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "cats", "seinen", "ongoing", "wholesome", "grief"]

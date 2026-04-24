@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["sports violence", "intense competition themes"]
 description: "Yu's review of Kuroko's Basketball — a player with almost no athletic ability but a complete inability to be noticed joins a basketball team, becoming the shadow who makes the ace shine."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421587718.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/f8e41a48-5ca9-41e3-94a7-a1379a4fda62/c9c30004-e44a-4676-9edf-729ba9aabb3e.jpg"
 amazonASIN: "1421587718"
 publishedAt: "2026-04-24"
 tags: ["sports", "basketball", "shonen", "completed", "fantasy-sports"]

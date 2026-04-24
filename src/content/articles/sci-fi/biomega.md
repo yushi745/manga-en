@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "body horror", "post-apocalyptic themes", "zombie-adjacent content"]
 description: "Yu's review of Biomega — in a future where a virus is turning humanity into zombie-like drones, a synthetic human named Zoichi Kanoe travels a dying Earth on a motorcycle with his AI bear partner, searching for immune humans."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421531844.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/5bdb093f-9707-4a30-b02e-c8b66554ecf0/e9978bf9-e0a8-47a9-af09-a5793ae4edaf.jpg"
 amazonASIN: "1421531844"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "post-apocalyptic", "action", "completed", "unique"]

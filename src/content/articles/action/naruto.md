@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "themes of death and loss", "mild language"]
 description: "A heartfelt review of Naruto by Yu — a manga about a lonely outcast who never stopped believing in himself. If you've ever felt invisible, this story will hit you somewhere deep."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00F3HG7TS.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/6b1eb93e-473a-4ab3-9922-1a66d2a29a4a/c5a3090c-4ca0-40a2-9102-e0ee0c6dac15.jpg"
 amazonASIN: "B00F3HG7TS"
 publishedAt: "2026-04-23"
 tags: ["shonen", "ninja", "action", "classic", "coming-of-age"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death", "themes of ambition and self-destruction", "political themes"]
 description: "Yu's review of Planetes — a crew of space debris collectors in the near future of 2075, where someone wants to be the first human to Jupiter and someone else just wants to survive the shift."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1595820914.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/3be16cf9-fe5c-431e-b528-98551d3d3bb0/fd37fc42-1848-4376-8f9e-c5ff4b01f3c6.jpg"
 amazonASIN: "1595820914"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "drama", "space", "realistic", "completed", "slice-of-life"]

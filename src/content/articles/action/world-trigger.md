@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["tactical combat", "sci-fi violence", "themes of war and defense"]
 description: "Yu's review of World Trigger — a defense organization uses sci-fi weapons called Triggers to fight alien invaders called Neighbors, and a weak new recruit turns out to be connected to those invaders in unexpected ways."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421587084.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/7ae7067a-7e68-4bd2-a064-5e3e3c059078/1648193b-1fba-4859-bbf1-e0088d344710.jpg"
 amazonASIN: "1421587084"
 publishedAt: "2026-04-24"
 tags: ["action", "sci-fi", "tactical", "ongoing", "school"]

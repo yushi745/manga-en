@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "torture", "dark themes", "body horror"]
 description: "Yu's review of Deadman Wonderland — a middle schooler is framed for massacring his classmates and sent to a privatized prison that doubles as a theme park, where inmates fight for their lives as entertainment."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421555484.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/b96e5e23-0017-4e89-a582-ddaa261bd21d/7091e61f-2063-4b60-bde3-6d99e17d25d4.jpg"
 amazonASIN: "1421555484"
 publishedAt: "2026-04-24"
 tags: ["horror", "action", "dark", "completed", "prison"]

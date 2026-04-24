@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild demihuman fantasy content", "school setting", "very mild romance"]
 description: "Yu's review of Interviews With Monster Girls — Tetsuo Takahashi is a biology teacher fascinated by demihumans; his school happens to have four demihuman students (a vampire, a dullahan, a snow woman, and a succubus teacher); he interviews them about their lives and the series is about understanding difference through conversation."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632364190.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/afc939f8-fea2-4d46-baa3-dd00520abc73/f0e9b406-739c-4603-870d-57c1b89b800c.jpg"
 amazonASIN: "1632364190"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "fantasy", "completed", "school", "Kodansha"]

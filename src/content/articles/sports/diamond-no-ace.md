@@ -14,7 +14,7 @@ englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive sports themes", "themes of team pressure and rivalry"]
 description: "Yu's review of Diamond no Ace — a pitcher with a wild but powerful pitch transfers to a prestigious baseball high school and works toward becoming the team's ace in one of manga's most detailed baseball series."
-coverImage: ""
+coverImage: "https://uploads.mangadex.org/covers/60879eb7-3845-4dff-b86d-5a612108053b/7c3f84a5-f8aa-4998-96fe-1b7d7c63f315.jpg"
 publishedAt: "2026-04-24"
 tags: ["sports", "baseball", "shonen", "ongoing", "school"]
 rating: 4

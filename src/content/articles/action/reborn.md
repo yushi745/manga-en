@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "mafia themes", "time travel elements"]
 description: "Yu's review of Katekyo Hitman Reborn! — an infant hitman named Reborn arrives to tutor the world's unluckiest middle schooler into becoming the Tenth Boss of the Vongola Mafia Family."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421513374.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/26937cf3-0fba-4651-995d-5ebcc8a15eb2/0a49ea89-71be-4d2e-8698-f260bbf9d738.jpg"
 amazonASIN: "1421513374"
 publishedAt: "2026-04-24"
 tags: ["action", "comedy", "shonen", "mafia", "completed", "friendship"]

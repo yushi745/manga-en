@@ -14,7 +14,7 @@ englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "team conflict", "injury"]
 description: "Yu's review of Ace of Diamond — Eijun Sawamura is a pitcher from a small town with an unorthodox delivery and an unhittable change-up; he is recruited to Seidou High School, one of Japan's best baseball programs, and has to earn the title of ace against a team full of better-prepared players."
-coverImage: ""
+coverImage: "https://uploads.mangadex.org/covers/60879eb7-3845-4dff-b86d-5a612108053b/7c3f84a5-f8aa-4998-96fe-1b7d7c63f315.jpg"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "baseball", "pitcher"]
 rating: 4

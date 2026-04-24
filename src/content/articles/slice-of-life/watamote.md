@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["cringe comedy with real social anxiety", "isolation and loneliness depicted honestly", "mild mature thoughts"]
 description: "Yu's review of WataMote — Tomoko Kuroki is convinced she will be popular in high school because she has extensive experience with otome games; she is not popular; every attempt to change this makes it worse; the manga is simultaneously the funniest and most painful depiction of teenage social isolation in manga."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316243167.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/e182b09f-09ab-4201-8f37-0ced6822eb39/b79e48ee-4c1d-4557-ab04-4e1bcecd92b2.jpg"
 amazonASIN: "0316243167"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "seinen", "ongoing", "social-anxiety", "cringe"]

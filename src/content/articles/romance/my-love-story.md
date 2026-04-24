@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["none significant"]
 description: "Yu's review of My Love Story!! — a huge, scary-looking boy with no luck with girls saves a girl from a groper on the train, and she falls in love with him — not his handsome best friend."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421571919.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/7aee516e-4633-47e9-bf15-49196ce2d195/b6308cbf-51f0-431a-80e7-39564bb1d419.jpg"
 amazonASIN: "1421571919"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "heartwarming", "completed", "subversive"]

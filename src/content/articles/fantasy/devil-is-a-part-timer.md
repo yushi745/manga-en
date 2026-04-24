@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy action violence", "comedy situations", "mild romance"]
 description: "Yu's review of The Devil Is a Part-Timer! — Demon Lord Satan is defeated by the hero Emilia and flees through a dimensional portal to modern-day Tokyo; with almost no magical power remaining, he takes a part-time job at a fast food restaurant called MgRonald's; the comedy is him being genuinely good at this while hiding what he is."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316383139.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/98052ef1-49a9-4722-a8f5-60baac437e2e/1baf22dd-364b-45cf-9a5e-9bfbd57ec00d.jpg"
 amazonASIN: "0316383139"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "comedy", "completed", "isekai-reverse", "Yen-Press"]

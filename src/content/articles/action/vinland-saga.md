@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "war", "slavery", "death", "historical brutality", "themes of revenge and its costs"]
 description: "Yu's review of Vinland Saga — a Viking manga that starts as a brutal revenge story and becomes a profound examination of what violence costs the people who use it. One of the greatest manga being published today."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00PZ7JQIG.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/5d1fc77e-706a-4fc5-bea8-486c9be0145d/47e19a12-b0fb-4b52-b105-c202c555b966.jpg"
 amazonASIN: "B00PZ7JQIG"
 publishedAt: "2026-04-23"
 tags: ["historical", "action", "mature", "ongoing", "war", "philosophical"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["MMA fighting violence", "blood", "mature sports content"]
 description: "Yu's review of Teppu — Natsuo Ishido is a natural athlete who has won everything she has tried without effort and resents every second of it; when she meets a girl who fights MMA with genuine passion despite not being naturally gifted, Natsuo joins an MMA gym to find out what it means to want something."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B0DPJWQFCD.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/1d698138-55e2-4b4d-bb0f-29cd7649efe7/5302dfa7-3698-49bc-9d60-014bd86d467b.jpg"
 amazonASIN: "B0DPJWQFCD"
 publishedAt: "2026-04-24"
 tags: ["sports", "seinen", "completed", "MMA", "martial-arts", "mature"]

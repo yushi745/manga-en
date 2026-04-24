@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["game violence", "boss fight content"]
 description: "Yu's review of Shangri-La Frontier — Rakuro Hizutome's hobby is playing terrible, broken games; when he tries Shangri-La Frontier, the world's most popular and technically perfect VR RPG, his experience with game-breaking strategies makes him approach it in ways no other player would."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1646514823.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/29ab6984-7c1d-4d45-b925-25aa082b492e/0acb9e9f-31e5-4601-96f0-240f1269bf37.jpg"
 amazonASIN: "1646514823"
 publishedAt: "2026-04-24"
 tags: ["action", "game", "isekai", "shonen", "ongoing", "boss-fights"]

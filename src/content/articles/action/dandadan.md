@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["supernatural content", "comedy violence", "body horror elements", "suggestive scenes"]
 description: "Yu's review of Dandadan — Momo believes in ghosts, Ken believes in aliens, and they make a deal to test each other's beliefs; both get immediately proven wrong and right simultaneously, and a bizarre supernatural romance begins."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974741885.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/68112dc1-2b80-4f20-beb8-2f2a8716a430/1fea11e0-fd26-40a8-9977-9d93b46ef53e.jpg"
 amazonASIN: "1974741885"
 publishedAt: "2026-04-24"
 tags: ["action", "supernatural", "comedy", "romance", "shonen", "ongoing"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["violence", "murder", "obsessive/yandere content", "child in danger", "disturbing psychological content", "abuse themes"]
 description: "Yu's review of Happy Sugar Life — Satou Matsuzaka has never felt love; when she finds the girl she loves — a small child named Shio — she becomes willing to do anything to protect what she calls her 'happy sugar life,' including murder."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/197530330X.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/010a8606-ab4f-4e3e-82ce-17f19b02f262/0bace93c-41af-4808-89a4-6242f38e2769.jpg"
 amazonASIN: "197530330X"
 publishedAt: "2026-04-24"
 tags: ["horror", "psychological", "completed", "mature", "yandere", "disturbing"]

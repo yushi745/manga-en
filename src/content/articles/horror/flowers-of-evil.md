@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["psychological horror", "shame and humiliation", "teenage behavioral crisis", "disturbing content", "controversial behavior depicted"]
 description: "Yu's review of Flowers of Evil — Kasuga is a bookish middle schooler obsessed with Baudelaire; when he steals his crush's gym uniform and is caught by the class outcast Nakamura, she blackmails him into a contract that pulls him away from the person he thought he was."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1935654535.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/00710da8-d320-42e5-a76d-fa0fae6017cc/348a6561-c210-4b35-9a2e-60880b4c7d02.jpg"
 amazonASIN: "1935654535"
 publishedAt: "2026-04-24"
 tags: ["horror", "psychological", "drama", "completed", "literary", "disturbing"]

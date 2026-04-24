@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yuri (girls' love) romance", "slow emotional development", "themes of social disconnection"]
 description: "Yu's review of Adachi and Shimamura — Adachi and Shimamura meet in a gym loft where both are skipping class; they spend time together without agenda; Adachi realizes she is in love; Shimamura does not process her own feelings for a long time; the manga is about the specific space between people who matter to each other before either acknowledges it."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1975320034.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/a1620de1-6eb6-4948-b228-b232f910155a/220ee1ce-24c6-4d2c-b10c-10de8fb5f87c.jpg"
 amazonASIN: "1975320034"
 publishedAt: "2026-04-24"
 tags: ["romance", "yuri", "completed", "drama", "slow-burn", "Yen-Press"]

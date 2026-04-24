@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["emotional manipulation themes", "toxic relationship depicted critically", "mild violence (comedic)"]
 description: "Yu's review of Skip Beat! — a girl who sacrificed everything to support her childhood friend's pop idol career discovers he was using her, and decides the best revenge is to break into the entertainment industry herself."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421505851.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/9356fa3f-9ecd-4ff7-a7fe-241884680079/fffc3988-2aaf-4344-9561-d9712834d3f5.jpg"
 amazonASIN: "1421505851"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "shojo", "entertainment", "ongoing", "revenge"]

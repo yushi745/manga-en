@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "sexual violence (implied)", "dismemberment", "psychological horror", "misogyny depicted critically"]
 description: "Yu's review of Tomie — a beautiful girl who drives men to murder her and then regenerates, again and again, in a horror anthology that is also a deeply uncomfortable portrait of obsession and violence against women."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421590565.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/9ad2d9a1-8e01-48f6-b979-a03b1050a2bd/d38b1ee0-2664-4d8d-8d6c-2e3928a3bef7.jpg"
 amazonASIN: "1421590565"
 publishedAt: "2026-04-24"
 tags: ["horror", "junji-ito", "psychological", "body-horror", "anthology"]

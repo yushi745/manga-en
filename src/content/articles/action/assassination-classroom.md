@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence (comedic and serious)", "assassination themes played for both laughs and weight", "themes of academic failure and social rejection", "significant emotional scenes in final arc"]
 description: "Yu's review of Assassination Classroom — 21 volumes about a class of underachievers assigned to kill their alien teacher before he destroys the Earth. The funniest manga about murder and the most moving manga about education."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00UKMJVJ0.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/333f4d22-7753-4e3b-b0da-0a69b2cdce4f/da6a849e-1645-46ae-9ada-8f13356595f0.jpg"
 amazonASIN: "B00UKMJVJ0"
 publishedAt: "2026-04-23"
 tags: ["shonen", "comedy", "action", "completed", "school", "feel-good"]

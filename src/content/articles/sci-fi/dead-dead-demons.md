@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["normalized apocalypse setting", "themes of death and meaning", "otaku culture", "mature content in later volumes", "genocide themes"]
 description: "Yu's review of Dead Dead Demon's Dededede Destruction — giant alien motherships have hovered over Tokyo for three years; Kadode and Ouran go to high school underneath them, play games, take photos, and try to stay friends while the world ends slowly around them."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974707555.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/fc7f2c19-0a26-4d89-9505-332fcb7d60c6/23146c93-37f7-44f6-80a8-20a9fc1606dc.jpg"
 amazonASIN: "1974707555"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "slice-of-life", "completed", "Asano", "alien-invasion", "friendship"]

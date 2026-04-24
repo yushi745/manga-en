@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild comedic violence", "teenage boy humor"]
 description: "Yu's review of Daily Lives of High School Boys — a sketch comedy manga observing three high school boys doing nothing in particular: sitting by the river, making up embarrassing scenarios, talking about girls without understanding anything."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1949980219.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/94589231-4a4c-4fa2-a0fd-48e27ee61b63/71d7533b-1e6e-41b4-95f4-406625484ab6.jpg"
 amazonASIN: "1949980219"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "school", "completed", "boys"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["animal death (farm context)", "themes of parental pressure and failure"]
 description: "Yu's review of Silver Spoon — a city kid escapes to an agricultural high school to avoid his family, and discovers that farming, animal husbandry, and the people who feed the country have lessons no classroom ever taught him."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316416193.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/84d60997-65fc-49e1-b1a4-3fcf0390c6cb/30fc61d5-267a-4748-9791-71c7058726d9.jpg"
 amazonASIN: "0316416193"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "school", "drama", "food", "completed", "fullmetal-alchemist-author"]

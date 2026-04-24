@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["crude humor", "parody violence", "mature comedy themes", "occasionally serious arcs with significant action violence"]
 description: "Yu's review of Gintama — 77 volumes of the most insane, absurdist, laugh-until-you-cry comedy in manga history, with a handful of the most emotionally devastating arcs hidden inside. The series that rewarded readers who stuck around."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00FPLNVQE.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/f65444dc-3694-4e31-a166-8afb2938ed55/a77b9a0f-e9e6-4b95-959a-c3ddf7cf7f12.jpg"
 amazonASIN: "B00FPLNVQE"
 publishedAt: "2026-04-23"
 tags: ["shonen", "comedy", "action", "parody", "completed", "classic"]

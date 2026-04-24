@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yuri (girls' love) romance", "gentle emotional complexity", "themes of heartbreak"]
 description: "Yu's review of Sweet Blue Flowers — Fumi Manjoume and Akira Okudaira were childhood best friends who lost contact; they meet again in high school; Fumi is going through a heartbreak and beginning a new relationship with a senior girl while discovering who she is; Akira watches, loves, and cannot yet name it."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421592983.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/7e9ea5e7-7dc0-4907-b79c-5b66605ef955/d4faf26f-ad40-4caf-80ea-01669134ffde.jpg"
 amazonASIN: "1421592983"
 publishedAt: "2026-04-24"
 tags: ["romance", "yuri", "completed", "drama", "school", "foundational", "VIZ"]

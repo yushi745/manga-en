@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "psychological horror elements", "death", "manipulation and cruelty", "dark themes in later arcs"]
 description: "Yu's review of Hunter x Hunter — 37 volumes of the most intelligent action manga ever written, from the creator of Yu Yu Hakusho. A series that keeps reinventing itself and never stops being the best thing it possibly can be, when it's being published."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00FPLMVJS.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/db692d58-4b13-4174-ae8c-30c515c0689c/aa112927-f1e5-4fe4-a4db-7fd4a1536e3c.jpg"
 amazonASIN: "B00FPLMVJS"
 publishedAt: "2026-04-23"
 tags: ["shonen", "action", "adventure", "ongoing", "psychological", "classic"]

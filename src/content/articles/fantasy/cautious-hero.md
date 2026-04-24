@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["comedy violence", "goddess-hero comedy situations", "mild fanservice"]
 description: "Yu's review of Cautious Hero — goddess Ristarte summons a hero to save a world; the hero Seiya Ryuuguuin is absurdly powerful but refuses to engage with anything without maxing his stats, buying every possible item, and training for days first; the comedy is the goddess watching him prepare endlessly for battles he could win instantly."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1975385616.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/645514e1-45d4-4a2f-a989-cead86ae8fd1/098a4f72-6512-4a56-8969-ac4e1a9f617d.jpg"
 amazonASIN: "1975385616"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "comedy", "completed", "Yen-Press"]

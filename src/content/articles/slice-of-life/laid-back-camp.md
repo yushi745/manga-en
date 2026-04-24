@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Laid-Back Camp — a girl who loves solo camping at the foot of Mount Fuji meets enthusiastic beginners who want to start a camping club, and both kinds of camping turn out to be good."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316517828.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/1ee97895-4796-4bcf-bcd1-5ef99c011f8b/52cd5815-c856-44cb-8ae2-1f1c4d1398ed.jpg"
 amazonASIN: "0316517828"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "camping", "all-ages", "heartwarming", "ongoing", "nature"]

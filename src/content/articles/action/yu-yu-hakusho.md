@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "death", "supernatural themes", "tournament violence escalates significantly in later arcs"]
 description: "Yu's review of Yu Yu Hakusho — 19 volumes about a delinquent who dies heroically and is recruited as a Spirit Detective to investigate supernatural cases. The series Togashi made before Hunter x Hunter, and the DNA is visible in everything he'd write after."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1569319049.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/44a5cbe1-0204-4cc7-a1ff-0fda2ac004b6/6509f7a7-bbe0-4132-b478-1bc571bb3422.jpg"
 amazonASIN: "1569319049"
 publishedAt: "2026-04-23"
 tags: ["shonen", "action", "supernatural", "completed", "classic", "tournament"]

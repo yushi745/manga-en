@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["some fanservice", "non-traditional family structure", "mild comedy violence"]
 description: "Yu's review of Miss Kobayashi's Dragon Maid — Kobayashi is an ordinary programmer who drunkenly invited a dragon named Tohru to stay; Tohru takes the form of a human woman in a maid uniform and lives with Kobayashi and eventually a young dragon named Kanna; the comedy is Tohru's dragon nature meeting everyday Japanese life."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1626923485.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/67b35ba4-9c53-4957-91e7-4f7884e4b412/2290cf68-e68f-4fc5-a323-7eba21696ff6.jpg"
 amazonASIN: "1626923485"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "completed", "dragons", "found-family", "Seven-Seas"]

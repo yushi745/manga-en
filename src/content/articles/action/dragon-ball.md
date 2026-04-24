@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "mild suggestive content (early volumes)", "slapstick humor"]
 description: "Yu's review of Dragon Ball — 42 volumes that started as a silly adventure and became the template for every shounen manga that followed. Goku's journey from child to the strongest being in the universe. Essential."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00FPLNYUU.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/40bc649f-7b49-4645-859e-6cd94136e722/b8edc15e-8d93-4b8f-83ee-325abe78defe.jpg"
 amazonASIN: "B00FPLNYUU"
 publishedAt: "2026-04-23"
 tags: ["shonen", "action", "classic", "completed", "martial-arts", "adventure"]

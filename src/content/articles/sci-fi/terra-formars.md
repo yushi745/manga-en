@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme graphic violence", "racial imagery controversies", "body horror", "dark sci-fi themes"]
 description: "Yu's review of Terra Formars — humanity seeded Mars with cockroaches to begin terraforming; centuries later, the cockroaches have evolved into humanoid giants with extreme strength, and human soldiers with insect-based genetic modifications are sent to exterminate them."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421571544.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/ce89adb4-63fc-422e-9fbc-40ea6af4525c/3dd7c524-ffdd-4ee2-9814-45d67e2c0fde.jpg"
 amazonASIN: "1421571544"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "action", "mature", "completed", "military"]

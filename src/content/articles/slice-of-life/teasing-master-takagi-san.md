@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Teasing Master Takagi-san — Takagi teases her desk neighbor Nishikata every single day; he keeps making plans to get back at her; she always wins; the series is about two middle school students who are clearly in love with each other before either of them knows how to say it."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1975353307.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/6e445564-d9a8-4862-bff1-f4d6be6dba2c/6a18d1f6-2fad-4345-8ab8-949e0d6f2510.jpg"
 amazonASIN: "1975353307"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "romance", "shonen", "completed", "school", "wholesome"]

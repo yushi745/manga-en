@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "death", "themes of cult manipulation", "dark themes throughout"]
 description: "Yu's review of 20th Century Boys — a childhood game about saving the world becomes real decades later, and a convenience store manager realizes a mysterious cult leader called 'Friend' is following a plan he wrote as a kid."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1591169224.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/ad06790a-01e3-400c-a449-0ec152d6756a/fd4db574-031b-4904-8c01-278cedb7c226.jpg"
 amazonASIN: "1591169224"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "mystery", "thriller", "drama", "classic", "completed"]

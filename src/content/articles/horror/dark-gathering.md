@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["horror content", "spirit possession", "disturbing imagery", "child protagonist in danger"]
 description: "Yu's review of Dark Gathering — Keitaro Gentoge is a shut-in with spiritual magnetism; when his childhood friend's daughter Yayoi — who has enormous spiritual power and uses it to collect evil spirits — enters his life, he is pulled into her crusade to find the spirit that took her mother."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974738949.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/d64b0768-bebe-433c-b923-99870503c0a3/aea6f54a-4da9-4771-bf73-6bea77421fac.jpg"
 amazonASIN: "1974738949"
 publishedAt: "2026-04-24"
 tags: ["horror", "supernatural", "shonen", "ongoing", "spirit-hunting"]

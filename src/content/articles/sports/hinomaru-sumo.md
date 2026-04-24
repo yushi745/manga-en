@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive violence (sumo contact)", "intense competition sequences"]
 description: "Yu's review of Hinomaru Sumo — Ushio Hinomaru is smaller than the minimum size requirement for professional sumo but is the most gifted sumo wrestler anyone has seen; he joins his high school sumo club and aims for the title of Yokozuna through sheer talent and complete refusal to accept limits."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974714268.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/b5c17ad7-5993-414b-8f63-c39d607b4ab1/83b0fdd4-f8f9-450c-a828-21a682368e9b.jpg"
 amazonASIN: "1974714268"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "sumo", "martial-arts"]

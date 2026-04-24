@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["sports competition"]
 description: "Yu's review of Captain Tsubasa — the manga credited with creating Japan's soccer boom, following prodigy Tsubasa Ozora from elementary school to the world stage."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974713520.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/94be07be-2a8f-4557-a575-7a26a8a6194e/b05da6f3-77de-4523-bcbe-4640d3cc46f5.jpg"
 amazonASIN: "1974713520"
 publishedAt: "2026-04-24"
 tags: ["sports", "soccer", "shonen", "classic", "completed", "legendary"]

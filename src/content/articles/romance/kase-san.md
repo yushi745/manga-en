@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yuri (girls' love) romance", "gentle physical affection"]
 description: "Yu's review of Kase-san and Morning Glories — Yamada is a soft, gardening-focused girl; Kase-san is the school's star runner; they fall in love; the series follows their high school relationship with warmth and honest physical and emotional development."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1626924708.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/8d612ce8-2d6f-464b-8d0d-98c0352cc146/a514addd-ebb2-4abb-9701-66e4eb19fc65.jpg"
 amazonASIN: "1626924708"
 publishedAt: "2026-04-24"
 tags: ["romance", "yuri", "completed", "school", "gentle", "Seven-Seas"]

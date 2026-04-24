@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "gore", "war", "body horror", "psychological horror", "drug use"]
 description: "Yu's review of Akira — 6 massive volumes that changed what manga could be. Set in 2019 Neo-Tokyo, a teenage biker's best friend gains supernatural powers that could destroy the world. The manga that made the world take Japanese comics seriously."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1935429000.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/175cf215-2122-4656-9fac-37ac092438af/d966c1b5-3db7-4b73-b01f-37c42c9149a5.jpg"
 amazonASIN: "1935429000"
 publishedAt: "2026-04-23"
 tags: ["sci-fi", "cyberpunk", "action", "mature", "classic", "completed"]

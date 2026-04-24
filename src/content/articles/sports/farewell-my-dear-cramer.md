@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive sports content", "some intensity in match sequences"]
 description: "Yu's review of Farewell My Dear Cramer — Nozomi Onda is an exceptional midfielder who has been playing with boys because the girls' teams cannot keep up with her; in high school she joins Warabi Seiwa's struggling girls' soccer team alongside other talented players who had nowhere to go."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1647290201.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/8534de82-7b6c-4e0e-9e6a-c5e78f78124a/ce2204aa-c13c-4e83-829b-ad43fdab4658.jpg"
 amazonASIN: "1647290201"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "soccer", "women-sports"]

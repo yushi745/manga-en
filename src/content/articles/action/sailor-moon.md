@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of sacrifice and death", "romance"]
 description: "Yu's review of Sailor Moon — a clumsy, crybaby middle schooler is revealed to be the legendary Sailor Moon, guardian warrior of love and justice, and eventually the reincarnated princess of the Moon Kingdom."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1612620051.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/e39944f5-15bf-4464-9556-a4e9b3945571/e3743329-d94c-4fa5-92d9-94de6e61fde7.jpg"
 amazonASIN: "1612620051"
 publishedAt: "2026-04-24"
 tags: ["action", "romance", "magical-girl", "classic", "completed", "shojo"]

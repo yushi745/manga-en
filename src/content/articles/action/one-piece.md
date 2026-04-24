@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "themes of death and loss", "mild language"]
 description: "Yu's review of One Piece — the manga that has been running for over 25 years and still feels alive. About freedom, friendship, and one ridiculous boy who refuses to be defined by anyone else's rules."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B00F3HG7ES.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/a1c7c817-4e59-43b7-9365-09675a149a6f/2f4aca53-64c7-46ac-ae85-3bc9b3169890.png"
 amazonASIN: "B00F3HG7ES"
 publishedAt: "2026-04-23"
 tags: ["shonen", "pirates", "action", "adventure", "classic", "ongoing"]

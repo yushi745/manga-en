@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["survival in space", "mystery thriller elements", "mild violence"]
 description: "Yu's review of Astra: Lost in Space — eight students and one child are sent to a planet for a camp trip; an energy sphere ejects them 5,000 light-years away; they find an abandoned spaceship called the Astra and use it to navigate back home one planet at a time; the survival mystery is tighter than its premise suggests."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974704831.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/be55c7bc-b6ff-4cbf-a2c8-4350a90770b2/424368e7-6c9c-4248-99b6-2473e50ba3f2.jpg"
 amazonASIN: "1974704831"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "adventure", "completed", "space", "mystery", "VIZ"]

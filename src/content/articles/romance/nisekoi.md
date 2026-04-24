@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild violence (yakuza comedy)", "harem romance content"]
 description: "Yu's review of Nisekoi — Raku Ichijo's yakuza family and Chitoge Kirisaki's gang-boss family form a truce that requires Raku and Chitoge to fake a relationship; they hate each other; there is also a locket with a promise from childhood that connects to multiple girls; the comedy of the situation is the series."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421556723.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/ce16b1c3-d6bb-41e0-8671-d8b065248ba2/decafe0e-8654-451b-ac09-244c6eda7346.jpg"
 amazonASIN: "1421556723"
 publishedAt: "2026-04-24"
 tags: ["romance", "shonen", "completed", "harem", "comedy", "VIZ"]

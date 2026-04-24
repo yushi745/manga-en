@@ -14,7 +14,7 @@ englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["parental abandonment backstory", "psychological pressure in competition", "some dark character turns"]
 description: "Yu's review of Hanebado! — Ayano Hanesaki is a badminton prodigy whose mother abandoned her to pursue professional coaching; her rediscovery of badminton and her psychological transformation across the series makes this the most psychologically complex badminton manga ever published."
-coverImage: "https://covers.openlibrary.org/b/isbn/9784063879278-L.jpg"
+coverImage: "https://uploads.mangadex.org/covers/d5942d2c-c320-4b94-ab21-4fb34c568338/d009f667-bc16-4fbd-b87e-d895e81f5603.jpg"
 publishedAt: "2026-04-24"
 tags: ["sports", "seinen", "completed", "badminton", "psychological"]
 rating: 4

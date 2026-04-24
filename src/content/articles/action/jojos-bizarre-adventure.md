@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "some horror elements", "creative body horror"]
 description: "Yu's review of JoJo's Bizarre Adventure — a generational saga following the Joestar bloodline across centuries and continents, each story featuring a new JoJo facing supernatural evil with increasingly creative and bizarre combat abilities."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421578451.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/2dfeb1aa-14c4-4acf-96d5-86334584bf94/74a623a5-fa3d-4016-b071-cf910c5f6ed8.jpg"
 amazonASIN: "1421578451"
 publishedAt: "2026-04-24"
 tags: ["action", "fantasy", "shonen", "ongoing", "classic", "iconic"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "fan service", "themes of loneliness and grief"]
 description: "Yu's review of Edens Zero — a boy who grew up on a planet of machines sets out into space with newfound human friends aboard a legendary warship to find the goddess Mother and discover what friendship means."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632367564.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/bbaa17c4-0f36-4bbb-9861-34fc8fdf20fc/fa5775a3-056f-406a-a0b2-cbd9a470c6ba.jpg"
 amazonASIN: "1632367564"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "sci-fi", "shonen", "space", "completed", "Mashima"]

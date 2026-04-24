@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "suicide ideation themes", "body horror involving immortality", "romantic themes"]
 description: "Yu's review of Undead Unluck — Fuuko, a girl whose touch causes catastrophic misfortune to anyone around her, meets Andy, an immortal who wants to die; together they join a secret organization that fights supernatural rules governing reality."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974719262.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/cc1b8669-82b2-4232-99c1-40d48fc2d988/17f5485c-d2b4-400d-ad34-923c7a03c6f3.jpg"
 amazonASIN: "1974719262"
 publishedAt: "2026-04-24"
 tags: ["action", "supernatural", "shonen", "completed", "power-system"]

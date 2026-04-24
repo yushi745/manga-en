@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "survival gore", "historical violence", "mature themes"]
 description: "Yu's review of Golden Kamuy — a Russo-Japanese War veteran teams up with an Ainu girl to find tattooed skins containing the key to a fortune in hidden Ainu gold, pursued by the Imperial Army, deserters, and men who want the gold for their own reasons."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421594943.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/8847f905-550d-4fe6-bcda-ac2b896789c7/57c05826-c91f-467b-8749-bb2cd06f7847.png"
 amazonASIN: "1421594943"
 publishedAt: "2026-04-24"
 tags: ["action", "adventure", "historical", "mature", "completed", "seinen", "Ainu"]

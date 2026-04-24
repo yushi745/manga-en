@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["teacher-student attraction (depicted without consummation)", "unrequited love arc"]
 description: "Yu's review of Daytime Shooting Star — Suzume moves from the countryside to Tokyo to live with her uncle, meets a teacher who becomes her homeroom teacher, and falls for him; what makes the manga interesting is how carefully it handles the inevitability of that being wrong."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974706672.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/7dab8f66-748e-4d83-a8a0-9f7440e254fc/6f2d1303-d238-4743-8321-744b256aedfe.jpg"
 amazonASIN: "1974706672"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "completed", "teacher-student", "coming-of-age"]

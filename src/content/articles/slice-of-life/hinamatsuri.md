@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yakuza content", "mild violence", "a child living on the street played for dark comedy"]
 description: "Yu's review of Hinamatsuri — a girl with psychic powers falls from the sky into a yakuza man's apartment; he reluctantly takes her in; she destroys things when she is not allowed to use her powers; together they navigate life in a way that makes no sense and is somehow very funny."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/164273005X.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/8a3d319d-2d10-4364-928c-0f30fd367c24/954aab95-0346-4f3b-a0fc-8e131d210898.jpg"
 amazonASIN: "164273005X"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "seinen", "completed", "yakuza", "psychic"]

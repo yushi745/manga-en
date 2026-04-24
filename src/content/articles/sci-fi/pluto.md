@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "war themes", "themes of robot consciousness and humanity"]
 description: "Yu's review of Pluto — Naoki Urasawa reimagines a single Astro Boy story arc through the lens of adult science fiction: a robot detective investigates who is systematically destroying the world's seven most powerful robots."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421519186.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/e171c073-4415-499b-85bc-ea93825127ac/ad501946-5cae-477a-bae5-a89f0a8d6746.jpg"
 amazonASIN: "1421519186"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "mystery", "completed", "classic", "robot"]

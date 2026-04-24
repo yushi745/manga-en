@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "murder", "death of characters", "gore"]
 description: "Yu's review of Doubt — six players of a mobile app called Rabbit Doubt wake up in an abandoned hospital wearing rabbit masks; one of them is the wolf in disguise, and they must identify the killer before everyone dies."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316335126.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/e376c6b9-29dc-4d01-858c-b0b2fba858ff/b9ee642f-e387-4477-adb5-0b5a6ebdc7ee.jpg"
 amazonASIN: "0316335126"
 publishedAt: "2026-04-24"
 tags: ["horror", "thriller", "mystery", "completed", "survival-game"]

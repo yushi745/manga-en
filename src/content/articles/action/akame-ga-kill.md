@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "character deaths", "dark themes", "corruption"]
 description: "Yu's review of Akame ga Kill! — a young man from the countryside joins Night Raid, an assassin group fighting to overthrow a corrupt empire, and discovers that fighting for justice in a corrupt world requires becoming a killer."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316259462.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/8946189d-682f-4838-9c2a-3c2dd5132f2c/a84f4c03-4617-4c7b-869c-f31523c7c3db.jpg"
 amazonASIN: "0316259462"
 publishedAt: "2026-04-24"
 tags: ["action", "dark-fantasy", "completed", "mature", "revolution"]

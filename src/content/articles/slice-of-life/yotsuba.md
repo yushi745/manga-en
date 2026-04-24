@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Yotsuba&! — a five-year-old girl who has never experienced ordinary things moves to a new town with her dad, and everything — cicadas, air conditioning, swings — is the greatest thing she has ever seen."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/0316073873.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/58be6aa6-06cb-4ca5-bd20-f1392ce451fb/ac743536-e998-44fe-83c0-d3f903cba221.jpg"
 amazonASIN: "0316073873"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "all-ages", "heartwarming", "ongoing"]

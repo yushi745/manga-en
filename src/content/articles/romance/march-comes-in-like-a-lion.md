@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["depression (depicted accurately)", "bullying arc (significant and serious)", "themes of grief and isolation"]
 description: "Yu's review of March Comes in Like a Lion — Rei Kiriyama is a seventeen-year-old professional shogi player living alone; his depression and isolation are the series' starting point, and the Kawamoto sisters and the shogi world are the things that slowly open him."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1634428129.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/0ca1627e-95dd-4118-892a-f144adf02256/eab815ea-903c-41a4-a6de-685503e5a36f.jpg"
 amazonASIN: "1634428129"
 publishedAt: "2026-04-24"
 tags: ["romance", "slice-of-life", "drama", "shogi", "ongoing", "depression", "Chica-Umino"]

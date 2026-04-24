@@ -14,7 +14,7 @@ englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "mild sports rivalry"]
 description: "Yu's review of Robot x Laserbeam — Robo Yamada picks up golf and discovers he can hit the ball in a perfectly straight line with no effort; his childhood friend Youzan, a natural golf prodigy, recruits him to a team to compete in high school golf; the creator of Kuroko's Basketball applies the same concept to golf."
-coverImage: ""
+coverImage: "https://uploads.mangadex.org/covers/8cdbb977-4774-4360-a91c-feeea846f97f/c1f2c2bf-57b4-41b5-b8f5-d850f1f42999.jpg"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "golf", "Fujimaki"]
 rating: 3

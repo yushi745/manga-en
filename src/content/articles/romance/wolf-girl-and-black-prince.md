@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["emotionally manipulative relationship dynamics", "possessive behavior", "mild romance"]
 description: "Yu's review of Wolf Girl and Black Prince — Erika Shinohara lied to her friends about having a boyfriend and used a stranger's photo as proof; that stranger turns out to be the most popular boy in school, Kyoya Sata; he agrees to play her boyfriend in exchange for her acting as his dog — a romance that starts from a deeply uncomfortable power imbalance."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1974737527.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/28425868-a1bf-4eda-be9c-3ad77ec37649/5c16b0cd-6e2e-4c9c-8dcb-a0ecd9f1ecf2.jpg"
 amazonASIN: "1974737527"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "completed", "high-school", "VIZ"]

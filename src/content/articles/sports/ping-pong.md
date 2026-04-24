@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive themes", "themes of identity and purpose"]
 description: "Yu's review of Ping Pong — two high school table tennis players, one a prodigy who loves the game and one who hates to lose, move toward a tournament while the manga asks what it means to devote yourself to something."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421565293.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/7e435a27-b4fc-417d-94de-30cea79ab6f4/be95c7b2-e396-4f3e-801e-31e20c1a1268.jpg"
 amazonASIN: "1421565293"
 publishedAt: "2026-04-24"
 tags: ["sports", "drama", "completed", "philosophical", "table-tennis"]

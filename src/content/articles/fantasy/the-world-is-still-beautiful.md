@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["age-gap romance", "mild political violence", "arranged marriage premise"]
 description: "Yu's review of The World Is Still Beautiful — Nike, the youngest princess of the Rain Dukedom, travels to the Sun Kingdom to fulfill her political marriage contract with Livius, the boy-king who conquered the world, and finds something neither of them expected."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1421568411.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/5e72a727-0f25-4b3a-b847-ccd787456366/a896fb8f-0a4f-43d5-829d-28900295cfce.png"
 amazonASIN: "1421568411"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "romance", "shojo", "completed", "political-fantasy"]

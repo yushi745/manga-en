@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "dark themes", "body horror (limb absence)", "war themes", "themes of parental abandonment"]
 description: "Yu's review of Dororo — a feudal lord sacrificed his unborn son's body parts to demons to gain power. Now that son, Hyakkimaru, wanders Japan killing the 48 demons to reclaim his limbs, senses, and humanity."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1934287164.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/07d858d0-1537-487f-8e1f-a32e1782206d/ea4e6cb6-3b7a-44d0-923a-b4aba59ac042.png"
 amazonASIN: "1934287164"
 publishedAt: "2026-04-24"
 tags: ["horror", "action", "historical", "classic", "osamu-tezuka", "completed"]

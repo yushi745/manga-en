@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "All Ages"
 contentWarnings: ["no significant content warnings — very gentle"]
 description: "Yu's review of By the Grace of the Gods — a salaryman dies and is reincarnated as an 8-year-old boy in a fantasy world; the three gods who sent him there give him magical abilities and let him live peacefully; he spends his early years raising slimes in a forest; the series is about a person who had a hard life finally being allowed to rest and do what he loves."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1646090802.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/4187856d-65a9-4fb4-98ec-84c0bf16631f/050bc58e-2686-4280-90b7-8ea3d98a8d22.jpg"
 amazonASIN: "1646090802"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "slice-of-life", "ongoing", "gentle", "Square-Enix"]

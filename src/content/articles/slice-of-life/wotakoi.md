@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild mature humor", "alcohol consumption in adult workplace setting"]
 description: "Yu's review of Wotakoi — Narumi hides her fujoshi hobby at every job she has ever had; at her new job she discovers her childhood friend Hirotaka is there, and he knows all her secrets; they start dating, and navigate being adult otaku in a relationship together."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1632367041.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/65263bf9-4f87-4513-b72f-ad6436b3911c/ade5cf94-4c94-40d3-a0b0-de71f0be4ed1.jpg"
 amazonASIN: "1632367041"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "romance", "josei", "completed", "otaku", "workplace", "adult"]

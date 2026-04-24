@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "gore", "themes of death and grief", "disturbing imagery"]
 description: "Yu's review of Demon Slayer — 23 volumes, breathtaking art, and a story about a boy who shows kindness even to the monsters who destroyed his family. One of the most beautiful and brutal manga ever made."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/B07CTBBGZF.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/789642f8-ca89-4e4e-8f7b-eee4d17ea08b/6fa2282f-282b-41cf-8ab7-fbdbeb822bd5.jpg"
 amazonASIN: "B07CTBBGZF"
 publishedAt: "2026-04-23"
 tags: ["shonen", "demons", "action", "historical", "completed", "anime"]

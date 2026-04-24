@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Whistle! — Sho Kazamatsuri was cut from his elite school's soccer team for lacking talent; he transfers to a school where he can actually play and works relentlessly to become a real player; the series follows his growth from the team's weakest member to something more."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1591166853.01.LZZZZZZZ.jpg"
+coverImage: "https://uploads.mangadex.org/covers/29760ec9-e216-4c64-bef6-c829335c8547/ca2348f1-6882-4778-80e0-d2ee08840279.jpg"
 amazonASIN: "1591166853"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "soccer", "football"]
