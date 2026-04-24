@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["BL (boys' love) romance", "mature romance content", "power imbalance in relationships"]
 description: "Yu's review of Junjou Romantica — Misaki Takahashi needs help getting into university; his older brother's best friend Akihiko Usami is a famous novelist who agrees to tutor him; a complicated, intense relationship develops; the manga follows multiple BL couples across 25+ volumes."
-coverImage: "https://uploads.mangadex.org/covers/530163d8-e607-4fec-ba9a-f6e0cf345a59/46663fed-8d1a-4912-9dbc-498f972292d0.jpg"
+coverImage: "/covers/junjou-romantica.jpg"
 amazonASIN: "1598167197"
 publishedAt: "2026-04-24"
 tags: ["romance", "BL", "mature", "ongoing", "drama", "SuBLime"]

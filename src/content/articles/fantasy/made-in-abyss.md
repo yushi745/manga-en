@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "body horror", "child endangerment", "graphic injury and death", "psychological horror", "disturbing content throughout"]
 description: "Yu's review of Made in Abyss — a manga that looks like a children's adventure story and contains some of the most disturbing content in modern manga. A girl descends into a bottomless pit to find her mother. The pit does not want her to return."
-coverImage: "https://uploads.mangadex.org/covers/80422e14-b9ad-4fda-970f-de370d5fa4e5/defcc6a6-ae88-4454-af48-0eaf8afb125d.jpg"
+coverImage: "/covers/made-in-abyss.jpg"
 amazonASIN: "1626927731"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "mature", "ongoing", "dark", "world-building"]

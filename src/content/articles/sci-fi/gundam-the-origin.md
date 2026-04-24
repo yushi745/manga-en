@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["war and military violence", "death of major characters", "themes of political violence and military escalation"]
 description: "Yu's review of Mobile Suit Gundam: The Origin — Yoshikazu Yasuhiko, the original character designer for the 1979 Gundam anime, re-adapts and expands the One Year War, giving Char Aznable the backstory the original never showed and drawing the Universal Century with 40 years of additional craft."
-coverImage: "https://uploads.mangadex.org/covers/f36895e4-5045-4a5c-a8ec-c073d8958433/4be407c8-3720-4202-8526-2ab79ae21ec9.jpg"
+coverImage: "/covers/gundam-the-origin.jpg"
 amazonASIN: "1935654876"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "military", "seinen", "completed", "Gundam", "mecha", "classic"]

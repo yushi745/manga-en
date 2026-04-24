@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["unrequited love", "emotional intensity", "music themes"]
 description: "Yu's review of Anonymous Noise — Nino Arisugawa sings too loud, always, because two boys she loved left her and singing was how she called out to them; years later she finds them both in the same high school music scene and becomes the hidden voice of a band where one of them cannot let her be seen."
-coverImage: "https://uploads.mangadex.org/covers/f541814d-4de7-43fd-9cd4-d43b427e0593/a43d539e-ca37-41e5-9da3-4376534fa33b.jpg"
+coverImage: "/covers/anonymous-noise.jpg"
 amazonASIN: "142159420X"
 publishedAt: "2026-04-24"
 tags: ["romance", "music", "shojo", "completed", "VIZ"]

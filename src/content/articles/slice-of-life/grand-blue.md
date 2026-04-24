@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["heavy alcohol content", "nudity (played for comedy)", "adult humor"]
 description: "Yu's review of Grand Blue Dreaming — a college freshman joins his uncle's dive shop, intends to actually dive and study, and instead finds himself drawn into extreme drinking culture with his diving club's terrifying seniors."
-coverImage: "https://uploads.mangadex.org/covers/fffbfac3-b7ad-41ee-9581-b4d90ecec941/14df697d-dd5e-40da-aaec-31a230b7862c.jpg"
+coverImage: "/covers/grand-blue.jpg"
 amazonASIN: "1632366665"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "college", "ongoing", "diving"]

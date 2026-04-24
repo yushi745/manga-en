@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "otaku culture references"]
 description: "Yu's review of Wotakoi — two coworkers who are secretly otaku start dating and discover that being in a relationship is hard when both people would honestly prefer to be playing video games."
-coverImage: "https://uploads.mangadex.org/covers/65263bf9-4f87-4513-b72f-ad6436b3911c/ade5cf94-4c94-40d3-a0b0-de71f0be4ed1.jpg"
+coverImage: "/covers/wotakoi.jpg"
 amazonASIN: "1632367041"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "office", "completed", "otaku"]

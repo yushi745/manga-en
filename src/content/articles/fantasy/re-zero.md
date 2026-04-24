@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["extreme violence including repeated protagonist death", "psychological horror", "torture", "themes of trauma and mental breakdown", "graphic death sequences"]
 description: "Yu's review of Re:Zero — an isekai where the protagonist can return from death, but every death costs him psychologically. Not a power fantasy. A story about someone being broken by circumstances and trying to put himself back together."
-coverImage: "https://uploads.mangadex.org/covers/5ef4e73e-6fbc-456b-b7e1-4642256f666d/feb16374-3448-460d-979f-e530ee82e13a.jpg"
+coverImage: "/covers/re-zero.jpg"
 amazonASIN: "0316315311"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "ongoing", "psychological", "thriller", "dark"]

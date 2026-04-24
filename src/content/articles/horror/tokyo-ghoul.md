@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "gore", "torture", "psychological horror", "body horror", "themes of trauma and identity"]
 description: "Yu's review of Tokyo Ghoul — 14 volumes about a boy who becomes something between human and monster, and must decide what that makes him. Dark, brutal, and heartbreakingly human at its core."
-coverImage: "https://uploads.mangadex.org/covers/6a1d1cb1-ecd5-40d9-89ff-9d88e40b136b/040e8ae9-4ddd-49d2-8986-56782b391714.jpg"
+coverImage: "/covers/tokyo-ghoul.jpg"
 amazonASIN: "B00U2XO2KO"
 publishedAt: "2026-04-23"
 tags: ["seinen", "horror", "dark-fantasy", "completed", "mature", "identity"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["otaku culture content including adult doujinshi discussion", "mild mature themes in club context"]
 description: "Yu's review of Genshiken — the Society for the Study of Modern Visual Culture is a university club for manga and anime fans; the series follows its members across years as they graduate, enter the workforce, and figure out what being an otaku means when you have to also be an adult."
-coverImage: "https://uploads.mangadex.org/covers/487e025e-9865-4d10-9018-a4c9227eb4d9/3668fd69-2a6a-40ef-be44-66f271bf1fec.jpg"
+coverImage: "/covers/genshiken.jpg"
 amazonASIN: "0345481380"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "seinen", "completed", "otaku", "university"]

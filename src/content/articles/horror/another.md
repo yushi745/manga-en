@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic death", "horror violence", "mystery around death", "classroom horror"]
 description: "Yu's review of Another — a transfer student arrives at a middle school and discovers that his class has been dealing with a curse for decades: an extra student appears every year, and people connected to the class die."
-coverImage: "https://uploads.mangadex.org/covers/c40bf165-81fa-499f-b368-48b353a968df/02330133-24ba-4318-99f8-4cf95c50ace7.jpg"
+coverImage: "/covers/another.jpg"
 amazonASIN: "0316245917"
 publishedAt: "2026-04-24"
 tags: ["horror", "mystery", "school", "completed", "curse"]

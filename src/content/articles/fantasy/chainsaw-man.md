@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "gore", "sexual content (mild)", "death of major characters", "psychological manipulation", "body horror"]
 description: "Yu's review of Chainsaw Man Part 1 — 11 volumes about a boy who just wants a normal life. Denji has the simplest dreams in the world: a warm bed, decent food, maybe a girlfriend. The universe makes this as difficult as possible. Brutal, tender, and unlike anything else."
-coverImage: "https://uploads.mangadex.org/covers/a77742b1-befd-49a4-bff5-1ad4e6b0ef7b/07b6e139-194a-4438-b07a-57db2f4f22f8.jpg"
+coverImage: "/covers/chainsaw-man.jpg"
 amazonASIN: "B08JTYRXZB"
 publishedAt: "2026-04-23"
 tags: ["shonen", "devils", "dark-fantasy", "action", "completed", "mature"]

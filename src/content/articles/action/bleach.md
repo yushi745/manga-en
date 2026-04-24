@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "themes of death and loss", "mild language"]
 description: "Yu's review of Bleach — 74 volumes of the most stylish, visually stunning manga ever serialized in Shonen Jump. The story is wild and sometimes uneven, but the aesthetic, the fights, and the characters are unforgettable."
-coverImage: "https://uploads.mangadex.org/covers/239d6260-d71f-43b0-afff-074e3619e3de/3cbb1b1c-6630-4971-b2b1-e24e6cbf4f40.jpg"
+coverImage: "/covers/bleach.jpg"
 amazonASIN: "B00F3HG5MC"
 publishedAt: "2026-04-23"
 tags: ["shonen", "soul-reaper", "action", "supernatural", "completed", "classic"]

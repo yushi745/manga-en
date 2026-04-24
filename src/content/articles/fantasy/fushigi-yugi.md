@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "romance", "themes of sacrifice", "historical setting"]
 description: "Yu's review of Fushigi Yugi — a middle school girl is pulled into a historical Chinese fantasy book and becomes the Priestess of Suzaku, destined to gather seven celestial warriors and summon a god."
-coverImage: "https://uploads.mangadex.org/covers/15def101-a7ed-469f-b93c-549aa861cf54/4045feef-0e49-4a32-a5a4-ea5db11b175e.jpg"
+coverImage: "/covers/fushigi-yugi.jpg"
 amazonASIN: "156931957X"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "romance", "shojo", "completed", "historical", "classic"]

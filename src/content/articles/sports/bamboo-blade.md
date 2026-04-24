@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild fanservice", "comedic situations", "sports competition"]
 description: "Yu's review of Bamboo Blade — a high school kendo coach who is always broke makes a bet with an old friend that his team will beat theirs, motivating him to actually assemble a team from his club's few members."
-coverImage: "https://uploads.mangadex.org/covers/fa6c64e2-cfb5-45d8-98ac-47ec34d33005/3f53e6c6-587e-405a-97b8-3f05acf6102b.png"
+coverImage: "/covers/bamboo-blade.jpg"
 amazonASIN: "0316240532"
 publishedAt: "2026-04-24"
 tags: ["sports", "comedy", "kendo", "completed", "school"]

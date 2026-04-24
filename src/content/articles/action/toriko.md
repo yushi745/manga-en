@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "hunting/eating of fictional creatures", "large-scale battles"]
 description: "Yu's review of Toriko — a Gourmet Hunter in a world where ingredients are the most precious things alive battles fantastic creatures to capture the rarest foods and complete his dream full-course meal."
-coverImage: "https://uploads.mangadex.org/covers/a7a8149f-65cf-4cab-a243-9b00b91e3b24/d3703905-6c41-413d-a9ef-d7a768ad0728.jpg"
+coverImage: "/covers/toriko.jpg"
 amazonASIN: "1421535092"
 publishedAt: "2026-04-24"
 tags: ["action", "adventure", "shonen", "food", "completed"]

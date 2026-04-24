@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death of a child character early", "themes of grief and moving forward"]
 description: "Yu's review of Cross Game — a boy who grew up next door to four sisters loses one of them when they are children, and grows up playing baseball while carrying what she meant to him."
-coverImage: "https://uploads.mangadex.org/covers/8bd288e6-7c5a-403a-b5b6-a845a70ca376/9cd56a87-e73f-4cab-bd2a-0cfc4c456574.jpg"
+coverImage: "/covers/cross-game.jpg"
 amazonASIN: "1421537583"
 publishedAt: "2026-04-24"
 tags: ["sports", "baseball", "romance", "completed", "classic"]

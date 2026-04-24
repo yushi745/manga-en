@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["large-scale war and death", "political violence", "themes of empire and democracy"]
 description: "Yu's review of Legend of the Galactic Heroes — the manga adaptation of the classic novel series following Yang Wen-li of the Free Planets Alliance and Reinhard von Lohengramm of the Galactic Empire across a war that neither believes in the same terms as the people who sent them to fight it."
-coverImage: "https://uploads.mangadex.org/covers/e48840ea-f28b-44fe-9412-d95db2a1ac3c/b6ffa7e1-a38b-46cd-9881-60d12af82b77.jpg"
+coverImage: "/covers/legend-of-the-galactic-heroes.jpg"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "military", "seinen", "completed", "space-opera", "classic"]
 rating: 5

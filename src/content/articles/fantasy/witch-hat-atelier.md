@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy peril", "themes of forbidden knowledge", "mild body horror in certain arcs"]
 description: "Yu's review of Witch Hat Atelier — a girl born without magic witnesses the forbidden secret of how magic actually works, and must now become a witch to undo what she accidentally caused."
-coverImage: "https://uploads.mangadex.org/covers/67e7453b-9ee5-4ae5-9316-215b03e4a71d/b9c8a98e-1cc0-4aaa-8bee-1755e63d2564.jpg"
+coverImage: "/covers/witch-hat-atelier.jpg"
 amazonASIN: "1632367700"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "seinen", "magic", "art", "ongoing", "award-winning"]

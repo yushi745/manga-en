@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["romantic content", "themes of social anxiety and trust issues", "mild sexual content in later volumes"]
 description: "Yu's review of Say I Love You — Mei Tachibana has had no friends for years after a childhood betrayal, but when she accidentally kicks the most popular boy in school, he inexplicably decides she is worth knowing."
-coverImage: "https://uploads.mangadex.org/covers/42a24ea1-6035-4247-af1c-09963b5bff35/a41896be-2fe4-4174-a51f-93e54ea3ce8f.jpg"
+coverImage: "/covers/say-i-love-you.jpg"
 amazonASIN: "1612626025"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "school", "completed", "trust"]

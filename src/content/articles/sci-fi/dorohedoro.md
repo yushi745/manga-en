@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "body horror", "dark themes", "black comedy"]
 description: "Yu's review of Dorohedoro — a man with a lizard head and amnesia searches for the sorcerer who transformed him in a brutal city where sorcerers use humans as test subjects."
-coverImage: "https://uploads.mangadex.org/covers/34f45c13-2b78-4900-8af2-d0bb551101f4/d004bed4-9bab-4ded-b1ec-116a8371f294.jpg"
+coverImage: "/covers/dorohedoro.jpg"
 amazonASIN: "1421533634"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "dark-fantasy", "completed", "unique", "black-comedy"]

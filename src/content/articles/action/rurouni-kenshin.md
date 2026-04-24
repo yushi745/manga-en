@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "historical warfare and revolution", "themes of atonement and guilt", "some character death"]
 description: "Yu's review of Rurouni Kenshin — 28 volumes about Japan's most feared assassin, now wandering with a reverse-blade sword, trying to protect without killing. One of the defining samurai manga, with the best villain in the genre."
-coverImage: "https://uploads.mangadex.org/covers/754a46fa-62fa-457a-bc3b-4f31bf1373d4/121183b7-305d-4ab3-b247-712362732560.png"
+coverImage: "/covers/rurouni-kenshin.jpg"
 amazonASIN: "B00FPLNY78"
 publishedAt: "2026-04-23"
 tags: ["shonen", "historical", "action", "completed", "samurai", "classic"]

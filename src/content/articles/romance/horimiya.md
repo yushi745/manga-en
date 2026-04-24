@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild suggestive content", "parental abandonment themes"]
 description: "Yu's review of Horimiya — the popular girl hides her domestic home life, the quiet boy hides his piercings and tattoos, and when they accidentally discover each other's real selves, something begins."
-coverImage: "https://uploads.mangadex.org/covers/a25e46ec-30f7-4db6-89df-cacbc1d9a900/2d466103-0184-480a-9947-b9ad49bf549a.jpg"
+coverImage: "/covers/horimiya.jpg"
 amazonASIN: "0316270134"
 publishedAt: "2026-04-24"
 tags: ["romance", "slice-of-life", "school", "shonen", "completed", "warm"]

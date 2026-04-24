@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["bullying (depicted seriously)", "themes of suicide", "themes of self-hatred and isolation", "deaf character's experience of ableism"]
 description: "Yu's review of A Silent Voice — a boy who bullied a deaf girl in elementary school finds her years later, having spent those years unable to forgive himself; what follows is a difficult story about damage, apology, and the kind of connection that might be possible after."
-coverImage: "https://uploads.mangadex.org/covers/4bde51e5-e420-45a4-98e9-7405bf2d59ff/456391d7-33c1-4b0e-bace-3fa3b89d29f9.jpg"
+coverImage: "/covers/a-silent-voice.jpg"
 amazonASIN: "163236056X"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "slice-of-life", "completed", "bullying", "disability", "emotional"]

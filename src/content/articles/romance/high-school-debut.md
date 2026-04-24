@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "comedic situations"]
 description: "Yu's review of High School Debut — a sporty, enthusiastic girl who has never had a boyfriend asks the school's most popular and romantically experienced boy to coach her on how to get a boyfriend, but he falls for her instead."
-coverImage: "https://uploads.mangadex.org/covers/854933f8-27de-4d65-afb6-3eed5dadeede/c545dcf3-41cb-493d-8160-7363b344cfb1.jpg"
+coverImage: "/covers/high-school-debut.jpg"
 amazonASIN: "1421514818"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "school", "completed"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "horror imagery", "themes of madness", "dark fantasy elements", "mild suggestive content"]
 description: "Yu's review of Soul Eater — a manga set in a school where students are weapon-wielders, and the weapons are people. Gothic, funny, and visually unlike anything else in manga. One of the best completed action series of its era."
-coverImage: "https://uploads.mangadex.org/covers/53ef1720-7a5d-40ad-90b0-2f9ca0a1ab01/6163c521-db05-4b23-9642-862d55fe9787.jpg"
+coverImage: "/covers/soul-eater.jpg"
 amazonASIN: "0759530017"
 publishedAt: "2026-04-23"
 tags: ["shonen", "action", "fantasy", "horror", "completed", "gothic"]

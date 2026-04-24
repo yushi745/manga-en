@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["military violence", "time loop themes", "psychological themes of repetition"]
 description: "Yu's review of All You Need Is Kill — a soldier in a war against alien invaders dies in battle and wakes up at the start of the same day. He dies again. He wakes up again. Each loop makes him a better soldier."
-coverImage: "https://uploads.mangadex.org/covers/7dc523b0-8ecd-40b0-b86c-1ea57c07773c/4f7822e6-1951-46c1-b9ab-efdf96405727.jpg"
+coverImage: "/covers/all-you-need-is-kill.jpg"
 amazonASIN: "1421565048"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "action", "completed", "time-loop", "military"]

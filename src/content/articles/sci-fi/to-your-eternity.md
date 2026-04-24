@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["death of major characters (recurring)", "themes of grief and loss", "emotional content throughout"]
 description: "Yu's review of To Your Eternity — an entity sent to Earth can take the form of anything it touches; after mimicking a dying boy, it begins an eternal journey through human lives, learning what grief, love, and connection mean across centuries."
-coverImage: "https://uploads.mangadex.org/covers/34e45b02-b5c8-4a4b-a21a-7b5059391dc8/2c97eb9d-c31b-4e3e-b23d-1955ef6b0720.jpg"
+coverImage: "/covers/to-your-eternity.jpg"
 amazonASIN: "1632365715"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "fantasy", "shonen", "completed-in-Japan", "emotional", "immortality", "grief"]

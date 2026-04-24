@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "nudity", "adult themes", "cyberpunk violence"]
 description: "Yu's review of Ghost in the Shell — Major Motoko Kusanagi leads a counter-cyberterrorism unit in a future where the line between human and machine has dissolved, and pursues the mystery of a hacker called the Puppet Master."
-coverImage: "https://uploads.mangadex.org/covers/c4994dc6-f2ee-4eb7-a00c-ebca63b35268/537fd127-9fb9-4b70-87fd-5bfa01b05c3b.jpg"
+coverImage: "/covers/ghost-in-the-shell.jpg"
 amazonASIN: "1632364212"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "cyberpunk", "action", "classic", "philosophical", "completed"]

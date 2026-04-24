@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["mild supernatural elements", "competitive pressure"]
 description: "Yu's review of Hikaru no Go — Hikaru Shindo discovers a haunted Go board inhabited by the spirit of a Heian-era master; the spirit possesses him during games; Hikaru gradually discovers his own passion for Go and his desire to surpass the ghost that started everything."
-coverImage: "https://uploads.mangadex.org/covers/17dcd7da-7692-420f-b813-a92159def4be/b716526e-b3b7-4049-96ac-511596c067ce.jpg"
+coverImage: "/covers/hikaru-no-go.jpg"
 amazonASIN: "1421510685"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "go", "board-game", "Takeshi-Obata"]

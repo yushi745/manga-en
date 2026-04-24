@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["age gap romance (high schooler and adult man)", "mild comedy situations"]
 description: "Yu's review of Takane and Hana — sixteen-year-old Hana Nonomura attends an omiai in her sister's place as a prank; the man waiting is Takane Saibara, heir to a corporate empire, who has rejected every previous meeting; Hana argues with him immediately; he finds her refreshing and wants to see her again."
-coverImage: "https://uploads.mangadex.org/covers/bb5e7cdd-a3b0-4a23-938d-61bd5b8c1a2a/f2f28aa7-b122-4b4c-b695-1d5b285ff025.jpg"
+coverImage: "/covers/takane-and-hana.jpg"
 amazonASIN: "1421599031"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "completed", "age-gap", "comedy", "VIZ"]

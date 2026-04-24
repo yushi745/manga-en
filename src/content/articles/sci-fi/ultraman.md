@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "alien threat themes", "some body horror of alien designs"]
 description: "Yu's review of Ultraman — Shinjiro Hayata is the son of the original Ultraman; he has inherited abilities he cannot fully control and is recruited into a secret organization that continues to fight alien threats; this is a tokusatsu legacy story done as serious science fiction manga."
-coverImage: "https://uploads.mangadex.org/covers/5cd8edbe-8e41-4af1-b7ae-4a29e85d53c5/baae24f2-a269-497e-800c-99fe0388a82a.jpg"
+coverImage: "/covers/ultraman.jpg"
 amazonASIN: "1421581841"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "action", "seinen", "completed", "tokusatsu", "VIZ"]

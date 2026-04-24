@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["serial murder", "psychological horror", "dark historical themes", "violence"]
 description: "Yu's review of Monster — a brilliant surgeon saves a boy's life over a hospital director's, ruins his career, and ten years later discovers the boy he saved has become a serial killer who is now hunting him."
-coverImage: "https://uploads.mangadex.org/covers/057c89e8-40f2-4215-9bd0-754d7e5572b6/9ddfc741-d59c-4432-ae7f-347970ce3c8d.jpg"
+coverImage: "/covers/monster.jpg"
 amazonASIN: "142156906X"
 publishedAt: "2026-04-24"
 tags: ["horror", "thriller", "psychological", "completed", "mature"]

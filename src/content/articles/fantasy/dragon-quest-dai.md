@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of sacrifice", "battle deaths"]
 description: "Yu's review of Dragon Quest: The Adventure of Dai — a boy raised on a monster island who always dreamed of being a hero discovers he may be the descendant of a legendary warrior, and sets out to defeat the demon lord threatening the world."
-coverImage: "https://uploads.mangadex.org/covers/3a3cfc32-357e-4b50-a660-5ce4b58dfcbc/c86f6bf5-6311-491a-ba97-068458cab49d.jpg"
+coverImage: "/covers/dragon-quest-dai.jpg"
 amazonASIN: "1974728935"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "shonen", "classic", "completed", "RPG"]

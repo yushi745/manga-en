@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["sports violence", "bullying themes in early volumes"]
 description: "Yu's review of Eyeshield 21 — a timid errand boy discovers he has the fastest legs at his school, gets press-ganged onto the American football team, and must become a running back without anyone discovering who he is."
-coverImage: "https://uploads.mangadex.org/covers/30460ee1-e7c1-4b1a-90a0-6861f9992c17/ef597662-6fad-430c-bac9-78abe6d56aa3.jpg"
+coverImage: "/covers/eyeshield-21.jpg"
 amazonASIN: "1591167523"
 publishedAt: "2026-04-24"
 tags: ["sports", "american-football", "shonen", "comedy", "completed"]

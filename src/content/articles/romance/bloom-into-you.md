@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yuri (girls' love) romance", "themes of identity and emotional self-knowledge"]
 description: "Yu's review of Bloom Into You — Yuu Koito has never understood the romantic feelings people describe; Touko Nanami confesses to her and says she loves that Yuu does not love her back; the series follows both of them as that arrangement becomes impossible."
-coverImage: "https://uploads.mangadex.org/covers/69060a67-1d4e-4110-9d29-838bfd99917f/6e6968b2-7395-4cf4-b96d-57469f2bdd20.jpg"
+coverImage: "/covers/bloom-into-you.jpg"
 amazonASIN: "1626923531"
 publishedAt: "2026-04-24"
 tags: ["romance", "yuri", "completed", "drama", "identity", "school"]

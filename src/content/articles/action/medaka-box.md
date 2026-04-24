@@ -14,7 +14,7 @@ englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "school battle content", "some mature humor"]
 description: "Yu's review of Medaka Box — Medaka Kurokami is elected student council president with 98% of the vote and wants to answer every student's problems using the school suggestion box; the manga begins as school comedy and transforms into a meta-commentary on shonen manga tropes."
-coverImage: "https://uploads.mangadex.org/covers/881fccb1-e60c-4c82-b64c-28f709545174/040e28d9-b590-48ae-b8c6-0a353c14e5d4.jpg"
+coverImage: "/covers/medaka-box.jpg"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "completed", "NisiOisiN", "meta", "school"]
 rating: 4

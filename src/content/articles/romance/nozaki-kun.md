@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["mild suggestive content (rare)"]
 description: "Yu's review of Monthly Girls' Nozaki-kun — a girl tries to confess to her crush and accidentally becomes his manga assistant, because he thought she was asking for his autograph."
-coverImage: "https://uploads.mangadex.org/covers/bc634b22-0c05-4a55-9b7e-3f55438a1ad3/f833d54a-1675-4b3f-96ca-8e0873d5dae5.jpg"
+coverImage: "/covers/nozaki-kun.jpg"
 amazonASIN: "0316270962"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "meta", "manga-within-manga", "ongoing"]

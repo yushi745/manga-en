@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["supernatural horror elements", "themes of addiction and compulsion", "psychological content"]
 description: "Yu's review of xxxHOLiC — a high school student cursed with the ability to see spirits finds a mysterious shop run by the dimension witch Yūko, who agrees to remove his power in exchange for becoming her shop worker."
-coverImage: "https://uploads.mangadex.org/covers/4702058d-c553-4966-ab09-1deab6328384/51025958-c8da-4924-bf6d-ec1e9c927d10.jpg"
+coverImage: "/covers/xxxholic.jpg"
 amazonASIN: "0345470583"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "supernatural", "seinen", "CLAMP", "completed", "psychological"]

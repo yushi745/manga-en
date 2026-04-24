@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild violence", "Cold War themes", "some intense scenarios"]
 description: "Yu's review of Master Keaton — Taichi Hiraga Keaton is a half-British, half-Japanese former SAS survival expert who works as an insurance investigator for Lloyd's of London while dreaming of becoming an archaeologist; each case takes him somewhere in Europe with a different mystery."
-coverImage: "https://uploads.mangadex.org/covers/b965ba5a-52a3-42c0-b16e-bbea1ee4b8cc/cd8d2f70-d60d-4606-b349-bd7fbfcaa40d.jpg"
+coverImage: "/covers/master-keaton.jpg"
 amazonASIN: "1421575892"
 publishedAt: "2026-04-24"
 tags: ["horror", "mystery", "adventure", "seinen", "completed", "Urasawa"]

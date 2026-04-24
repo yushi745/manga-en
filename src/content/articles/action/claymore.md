@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "body horror", "dark themes", "death"]
 description: "Yu's review of Claymore — half-human, half-Yoma warriors called Claymores hunt the shape-shifting demons that prey on humanity, struggling against the monster within themselves as much as the ones outside."
-coverImage: "https://uploads.mangadex.org/covers/be8fe64b-37da-4fba-b14d-603aba19be1f/946b216b-c1fd-443a-a22d-800ff2160c7d.jpg"
+coverImage: "/covers/claymore.jpg"
 amazonASIN: "1421506181"
 publishedAt: "2026-04-24"
 tags: ["action", "dark-fantasy", "completed", "female-lead", "body-horror"]

@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["realistic space program content", "themes of failure and perseverance"]
 description: "Yu's review of Space Brothers — a 32-year-old man who was fired from his job reapplies to become a JAXA astronaut, following the dream he abandoned when his younger brother moved forward without him."
-coverImage: "https://uploads.mangadex.org/covers/a437129d-18e9-48d7-9484-9fb9b9073ddd/6c0e8d40-0252-4b93-872b-9d3a258960ac.jpg"
+coverImage: "/covers/space-brothers.jpg"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "drama", "realistic", "ongoing", "space"]
 rating: 5

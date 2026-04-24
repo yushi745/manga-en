@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "graphic horror", "existential themes", "tragedy", "apocalyptic themes"]
 description: "Yu's review of Devilman — a gentle boy merges with the demon Amon and becomes Devilman, fighting to protect humanity from demonic invasion, until the question of whether humanity is worth protecting becomes unavoidable."
-coverImage: "https://uploads.mangadex.org/covers/4393fd4e-d646-4bab-9c95-786168ccb618/aa03f4be-d855-4017-af7a-18efcca3e499.jpg"
+coverImage: "/covers/devilman.jpg"
 amazonASIN: "1626927571"
 publishedAt: "2026-04-24"
 tags: ["horror", "dark-fantasy", "classic", "completed", "tragedy"]

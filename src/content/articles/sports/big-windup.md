@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["themes of anxiety and low self-esteem", "sports competition"]
 description: "Yu's review of Big Windup! — a pitcher with severe anxiety and compulsive apologizing joins a new high school team and learns what it means to trust the players behind him."
-coverImage: "https://uploads.mangadex.org/covers/c411bbfb-043e-421e-bafb-e2d206ff7ac4/25eba9f7-6252-4598-b189-308b0127d78b.jpg"
+coverImage: "/covers/big-windup.jpg"
 amazonASIN: "0345501152"
 publishedAt: "2026-04-24"
 tags: ["sports", "baseball", "drama", "ongoing", "anxiety"]

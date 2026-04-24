@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["psychological trauma", "depression", "violence", "existential themes", "body horror (mecha)"]
 description: "Yu's review of the Neon Genesis Evangelion manga — Shinji Ikari is fourteen, has been abandoned by his father, and is told he must pilot a giant biomechanical weapon against beings called Angels or humanity ends."
-coverImage: "https://uploads.mangadex.org/covers/aaedcbda-ea61-4e7b-8143-7a475f327fbf/608a07c7-0671-4577-8eb5-8ee826d50ed5.jpg"
+coverImage: "/covers/neon-genesis-evangelion.jpg"
 amazonASIN: "1421550792"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "mecha", "psychological", "classic", "completed"]

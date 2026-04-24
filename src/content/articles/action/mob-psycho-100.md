@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["psychic violence", "cult themes", "themes of manipulation and self-worth", "mild body horror"]
 description: "Yu's review of Mob Psycho 100 — 16 volumes about the most powerful psychic in the world, who just wants to get better at talking to his crush. The best manga about emotional suppression, growing up, and what actual strength looks like."
-coverImage: "https://uploads.mangadex.org/covers/736a2bf0-f875-4b52-a7b4-e8c40505b68a/c09d7be1-b2e8-42a9-ab84-69e2bc67f74b.jpg"
+coverImage: "/covers/mob-psycho-100.jpg"
 amazonASIN: "B07PVF5VN4"
 publishedAt: "2026-04-23"
 tags: ["shonen", "comedy", "action", "completed", "psychological", "coming-of-age"]

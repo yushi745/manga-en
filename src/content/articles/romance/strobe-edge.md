@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["romantic content", "unrequited love themes"]
 description: "Yu's review of Strobe Edge — a girl who doesn't understand what love is falls for the most popular and unattainable boy in school, who is already in a relationship, and learns that loving someone is more complicated than she expected."
-coverImage: "https://uploads.mangadex.org/covers/990718a0-4fc3-4370-b58b-5a19d35523c5/b6d67f93-e249-492e-ba12-0279cf96c032.jpg"
+coverImage: "/covers/strobe-edge.jpg"
 amazonASIN: "1421552027"
 publishedAt: "2026-04-24"
 tags: ["romance", "shojo", "school", "completed", "unrequited-love"]

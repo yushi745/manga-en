@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["fanservice", "violent action", "mature content"]
 description: "Yu's review of Air Gear — in a world where motorized inline skates called Air Trecks allow riders to perform superhuman aerial stunts, a delinquent becomes obsessed with becoming the legendary Sky King."
-coverImage: "https://uploads.mangadex.org/covers/15b458ec-71fc-40b0-af60-656d0904490e/19b09ffa-3b43-44d8-be58-6eaee7af5901.jpg"
+coverImage: "/covers/air-gear.jpg"
 amazonASIN: "0345492781"
 publishedAt: "2026-04-24"
 tags: ["action", "sports", "completed", "mature", "skating"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["violence", "disturbing content", "body horror", "sexual themes", "psychological content"]
 description: "Yu's review of Gleipnir — Shuichi can transform into a large, empty monster suit; Clair discovers this and climbs inside him to control his transformed body, and together they enter a game where humans who collected alien coins can have any wish granted."
-coverImage: "https://uploads.mangadex.org/covers/9643f5da-c7da-4705-ac5b-4b4a4c7a649e/b7d513ec-59ee-445c-b38c-7b3f760977c1.jpg"
+coverImage: "/covers/gleipnir.jpg"
 amazonASIN: "1632367637"
 publishedAt: "2026-04-24"
 tags: ["action", "supernatural", "mature", "completed", "seinen", "psychological"]

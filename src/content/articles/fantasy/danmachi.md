@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "mild fanservice", "dungeon combat"]
 description: "Yu's review of DanMachi — a rookie adventurer in a city built around a massive dungeon dreams of becoming a hero worthy of the girl who saved him, while belonging to the smallest and least prestigious divine familia in the city."
-coverImage: "https://uploads.mangadex.org/covers/8b459a49-b40f-4614-90a2-dc0a9209a42f/3a6f923f-cfd1-4861-af1a-41d4186f0799.jpg"
+coverImage: "/covers/danmachi.jpg"
 amazonASIN: "0316340146"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "adventure", "isekai-adjacent", "ongoing", "dungeon"]

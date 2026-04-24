@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "gore", "body horror", "death", "disturbing imagery"]
 description: "Yu's review of Hell's Paradise: Jigokuraku — a convicted ninja is sent to a supernatural island of horrors to find the elixir of immortality, paired with the executioner assigned to kill him."
-coverImage: "https://uploads.mangadex.org/covers/cb77e4a6-3921-43b9-9d64-7d78cd3205ce/3a8e86f3-0b9a-422f-bae9-4ffbb6eaf55b.jpg"
+coverImage: "/covers/hell-paradise.jpg"
 amazonASIN: "1974713202"
 publishedAt: "2026-04-24"
 tags: ["horror", "action", "historical", "supernatural", "completed"]

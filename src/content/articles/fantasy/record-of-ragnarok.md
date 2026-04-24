@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["intense violence", "blood", "death of major characters"]
 description: "Yu's review of Record of Ragnarok — the gods of every pantheon vote to destroy humanity, but a Valkyrie proposes one final tournament: 13 humans vs. 13 gods, with the fate of mankind as the prize."
-coverImage: "https://uploads.mangadex.org/covers/b5b21ca1-bba5-4b9a-8cd1-6248f731650b/4c22f14f-7942-4f16-9b4f-70299773e3da.jpg"
+coverImage: "/covers/record-of-ragnarok.jpg"
 amazonASIN: "1974727866"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "action", "mythology", "tournament", "mature", "ongoing"]

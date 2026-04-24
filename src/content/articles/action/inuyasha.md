@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "themes of loss and death", "romance"]
 description: "Yu's review of InuYasha — a modern high school girl falls through a well into feudal Japan, meets a half-demon with dog ears, and must help collect the shards of a shattered magical jewel before an evil villain uses them to destroy everything."
-coverImage: "https://uploads.mangadex.org/covers/279c2494-8f85-4e5b-8bfb-a3223441fd13/b3221ffd-3819-43da-ab4e-746075877ae3.jpg"
+coverImage: "/covers/inuyasha.jpg"
 amazonASIN: "1569312621"
 publishedAt: "2026-04-24"
 tags: ["action", "fantasy", "romance", "historical", "completed", "classic"]

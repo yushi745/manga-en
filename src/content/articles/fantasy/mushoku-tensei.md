@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["sexual content (mild-explicit)", "sexual humor involving minors", "harassment and inappropriate behavior", "themes of hikikomori and social isolation"]
 description: "Yu's review of Mushoku Tensei — the web novel that started the modern isekai genre, now in manga form. The most influential isekai ever written, with serious content warnings that matter. Rudy's redemption arc is genuinely good; his starting point is genuinely difficult."
-coverImage: "https://uploads.mangadex.org/covers/bd6d0982-0091-4945-ad70-c028ed3c0917/3b850fb3-33dd-422e-a31b-e3f3c60b3c17.jpg"
+coverImage: "/covers/mushoku-tensei.jpg"
 amazonASIN: "1626922357"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "completed", "adult", "redemption", "world-building"]

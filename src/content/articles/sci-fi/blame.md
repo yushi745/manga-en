@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "body horror", "existential themes", "dark dystopian atmosphere"]
 description: "Yu's review of Blame! — in a city that has grown to planetary scale and is controlled by murderous AI, a silent man named Killy walks through the infinite architecture searching for humans with the Net Terminal Gene."
-coverImage: "https://uploads.mangadex.org/covers/b905f827-8d48-4948-b58c-0d6fd330d10d/f4b7ffea-5835-49dc-8e27-e560bc8b8dad.jpg"
+coverImage: "/covers/blame.jpg"
 amazonASIN: "1942993766"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "dark-fantasy", "completed", "unique", "architecture"]

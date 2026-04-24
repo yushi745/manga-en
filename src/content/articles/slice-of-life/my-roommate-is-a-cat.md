@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["grief and loss (parental death backstory)", "mild themes of social isolation"]
 description: "Yu's review of My Roommate Is a Cat — Subaru Mikazuki is a mystery writer who barely leaves his house and barely interacts with people; he finds a stray cat and takes her home; the manga alternates between his perspective and the cat's perspective on the same events."
-coverImage: "https://uploads.mangadex.org/covers/b2ca4e0e-a7d7-4c98-bfa3-c771c643bb68/45275504-5ae2-456e-a879-39e423118918.jpg"
+coverImage: "/covers/my-roommate-is-a-cat.jpg"
 amazonASIN: "1642751456"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "cats", "seinen", "completed", "wholesome", "grief"]

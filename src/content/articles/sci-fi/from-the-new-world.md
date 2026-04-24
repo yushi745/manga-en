@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death of children", "themes of social control and suppression", "disturbing revelations about society", "mild violence"]
 description: "Yu's review of From the New World — a millennium from now, a small society of psychic humans lives in apparent peace; Saki and her friends begin to notice the gaps between what they are taught and what is real, and what they discover rewrites everything they thought their world was."
-coverImage: "https://uploads.mangadex.org/covers/f7e56139-06b6-43b2-8be9-480ff2db2e33/a472ddd7-f27f-4728-b19f-884963bb7e14.png"
+coverImage: "/covers/from-the-new-world.jpg"
 amazonASIN: "1939130549"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "mystery", "seinen", "completed", "dystopia", "psychic"]

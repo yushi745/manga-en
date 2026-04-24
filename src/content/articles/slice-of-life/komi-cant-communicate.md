@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["social anxiety depicted with sensitivity", "mild comedy situations"]
 description: "Yu's review of Komi Can't Communicate — Shouko Komi is mistaken for the coolest, most intimidating girl in school; she actually has severe communication disorder and can barely speak; her classmate Tadano discovers the truth and commits to helping her make 100 friends."
-coverImage: "https://uploads.mangadex.org/covers/a96676e5-8ae2-425e-b549-7f15dd34a6d8/d517d175-3d60-479e-80fb-d724224db8d1.jpg"
+coverImage: "/covers/komi-cant-communicate.jpg"
 amazonASIN: "1974707920"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "shonen", "completed", "school", "social-anxiety"]

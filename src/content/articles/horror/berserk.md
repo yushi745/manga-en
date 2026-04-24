@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "sexual assault", "torture", "psychological horror", "gore", "dark themes throughout"]
 description: "Yu's review of Berserk — the story of Guts, a warrior born from the corpse of his hanged mother, who fights demons with a sword the size of a car door in a world where God is real and malevolent."
-coverImage: "https://uploads.mangadex.org/covers/801513ba-a712-498c-8f57-cae55b38cc92/bae91cd3-2847-4c19-8777-9da5db0ed2d1.jpg"
+coverImage: "/covers/berserk.jpg"
 amazonASIN: "1593070209"
 publishedAt: "2026-04-24"
 tags: ["dark-fantasy", "horror", "action", "classic", "mature", "tragedy"]

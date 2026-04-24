@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["romantic content", "hacking/technology themes", "themes of loss"]
 description: "Yu's review of Dengeki Daisy — a poor orphan girl is protected by a mysterious phone contact called DAISY, not knowing that the school janitor she argues with daily is DAISY himself."
-coverImage: "https://uploads.mangadex.org/covers/d05da86d-cdcb-4364-b21b-8d242ccaf254/a4cb6951-96ae-4d04-94e5-eea4f64005bb.jpg"
+coverImage: "/covers/dengeki-daisy.jpg"
 amazonASIN: "1421537273"
 publishedAt: "2026-04-24"
 tags: ["romance", "mystery", "shojo", "completed", "technology"]

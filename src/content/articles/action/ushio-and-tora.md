@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["yokai action violence", "some horror elements", "emotional character deaths"]
 description: "Yu's review of Ushio and Tora — Ushio finds an ancient beast-spirit called Tora pinned under the temple floor; he releases Tora to fight other spirits threatening his town; Tora intends to eat Ushio eventually; they travel Japan fighting supernatural threats."
-coverImage: "https://uploads.mangadex.org/covers/353060d8-9596-4084-98e3-931581b36497/5d1f31c8-4220-4fdc-a1ee-512c112e3679.jpg"
+coverImage: "/covers/ushio-and-tora.jpg"
 publishedAt: "2026-04-24"
 tags: ["action", "shonen", "completed", "yokai", "supernatural", "classic"]
 rating: 5

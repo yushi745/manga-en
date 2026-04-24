@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["mature content", "adult relationships", "themes of ambition vs. love"]
 description: "Yu's review of Paradise Kiss — Yukari, a high-achieving student who has never questioned her path, is spotted by fashion students and asked to model their graduation collection; George, the designer, becomes the first person who sees who she might actually be."
-coverImage: "https://uploads.mangadex.org/covers/2419695a-840b-4e3a-8d0c-d19d050c7afa/f1b5c911-7473-4a45-966c-cf10c5fb20da.jpg"
+coverImage: "/covers/paradise-kiss.jpg"
 amazonASIN: "1935654713"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "josei", "completed", "fashion", "Ai-Yazawa", "classic"]

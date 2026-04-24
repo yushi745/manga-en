@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["false accusation themes", "slavery depicted (protagonist purchases a demi-human slave)", "action violence", "themes of betrayal and mistrust"]
 description: "Yu's review of The Rising of the Shield Hero — an isekai where the chosen hero is immediately betrayed, falsely accused, stripped of everything, and must rebuild from nothing. The most bitter isekai premise, with a satisfying arc of recovery."
-coverImage: "https://uploads.mangadex.org/covers/0f237a5f-07ad-4e43-bbd9-2a320694434d/a6c107c0-73a1-4d6d-9703-67b89316cef6.jpg"
+coverImage: "/covers/rising-shield-hero.jpg"
 amazonASIN: "1935548700"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "completed", "underdog", "action", "dark"]

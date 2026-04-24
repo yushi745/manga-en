@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "body horror", "cyberpunk violence", "existential themes"]
 description: "Yu's review of Battle Angel Alita — a cyborg warrior with no memory of her past is discovered in a junkyard and rebuilt, and must fight her way through a brutal cyberpunk world to discover who she is."
-coverImage: "https://uploads.mangadex.org/covers/f64f7752-f0b5-4a21-913c-e8b077e0b8b2/b7a60370-e0b9-40c0-9d2d-89dc86121e30.jpg"
+coverImage: "/covers/battle-angel-alita.jpg"
 amazonASIN: "1612629245"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "cyberpunk", "action", "classic", "completed"]

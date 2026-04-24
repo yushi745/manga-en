@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "genocide and mass murder depicted", "protagonist is an amoral villain-adjacent character", "dark themes throughout"]
 description: "Yu's review of Overlord — an isekai where the protagonist is already maxed-level and essentially a god, and the story is about what happens when an overpowered player becomes the monster everyone else fears. Dark, intelligent, and not what you expect."
-coverImage: "https://uploads.mangadex.org/covers/ac4e2459-d995-45ae-8421-4c4cf4a87770/c726fb25-c118-417b-ae79-6616c151f45d.png"
+coverImage: "/covers/overlord.jpg"
 amazonASIN: "0316272272"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "ongoing", "dark", "villain-protagonist", "strategy"]

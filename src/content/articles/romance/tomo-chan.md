@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romance", "comedy situations"]
 description: "Yu's review of Tomo-chan Is a Girl! — Tomo Aizawa confesses to her childhood best friend Junichirou Kubota; he congratulates her and keeps being her best friend because he has never thought of her as a girl; the comedy of her trying to be seen as a woman to the person who has always seen her as a buddy is the entire series."
-coverImage: "https://uploads.mangadex.org/covers/76ee7069-23b4-493c-bc44-34ccbf3051a8/8b72a73f-ca1d-4be2-a504-1f48588cd5b9.jpg"
+coverImage: "/covers/tomo-chan.jpg"
 amazonASIN: "1638585431"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "completed", "tomboy", "school"]

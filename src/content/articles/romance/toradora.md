@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["family dysfunction themes", "eating disorder themes (mild)", "emotional outbursts"]
 description: "Yu's review of Toradora! — a delinquent-looking boy and a tiny, terrifying girl make a deal to help each other confess to the other's best friend, and discover they had the wrong target all along."
-coverImage: "https://uploads.mangadex.org/covers/e9dc373b-314c-44ff-9428-ae63319ae86b/b57e18e9-a3d7-49cb-8df1-8377376d5d3e.jpg"
+coverImage: "/covers/toradora.jpg"
 amazonASIN: "1934876941"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "school", "completed", "classic", "light-novel-adaptation"]

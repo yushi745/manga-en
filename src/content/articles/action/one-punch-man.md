@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "monster horror imagery", "dark humor", "existential themes"]
 description: "Yu's review of One Punch Man — a manga about the most powerful hero in the world who can't feel excited about anything anymore because he always wins in one punch. Visually the most spectacular action manga alive. Philosophically surprisingly deep."
-coverImage: "https://uploads.mangadex.org/covers/d8a959f7-648e-4c8d-8f23-f1f3f8e129f3/dfc14954-f855-47a3-9401-4abe2a78621a.jpg"
+coverImage: "/covers/one-punch-man.jpg"
 amazonASIN: "B00UKMJVJO"
 publishedAt: "2026-04-23"
 tags: ["shonen", "comedy", "action", "ongoing", "parody", "superhero"]

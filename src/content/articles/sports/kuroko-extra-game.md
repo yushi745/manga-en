@@ -14,7 +14,7 @@ englishStatus: "Digital Only"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive sports content", "some trash talk"]
 description: "Yu's review of Kuroko's Basketball: Extra Game — the sequel to Kuroko's Basketball follows the Generation of Miracles as they face Jabberwock, an American street basketball team, in an exhibition that becomes genuinely dangerous; the reunion story for the main series cast."
-coverImage: "https://uploads.mangadex.org/covers/3bad3bbb-1d4e-41bf-93fd-de2b3e9d561a/910f26c5-1bfc-438d-9fd5-4d066fe6858c.jpg"
+coverImage: "/covers/kuroko-extra-game.jpg"
 publishedAt: "2026-04-24"
 tags: ["sports", "shonen", "completed", "basketball", "sequel", "Fujimaki"]
 rating: 4

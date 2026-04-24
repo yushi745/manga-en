@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "comedy scenarios"]
 description: "Yu's review of Maid Sama! — Misaki Ayuzawa is the iron-fisted student council president of a formerly all-boys school; she works secretly at a maid café to support her family; the school's most popular boy discovers her secret and holds it over her, but not in the way she expects."
-coverImage: "https://uploads.mangadex.org/covers/d5e2bd89-e300-4262-a799-fb4f79bdb777/6c51ae0a-8fa9-4e78-acb6-d3d7036e25b9.jpg"
+coverImage: "/covers/maid-sama.jpg"
 amazonASIN: "1421531437"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "shojo", "completed", "maid-café", "classic"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Chi's Sweet Home — a small kitten gets separated from her mother and adopted by a young family who live in a no-pets apartment, and the manga follows her exploration of her world through her earnest cat-brain perspective."
-coverImage: "https://uploads.mangadex.org/covers/f0f4a17c-8ec7-4144-90d9-c119a7762ab4/3073b966-cec7-425d-ba34-8acdbc613049.jpg"
+coverImage: "/covers/chi-sweet-home.jpg"
 amazonASIN: "1934287814"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "animals", "completed", "family"]

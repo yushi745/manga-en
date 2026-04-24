@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["adult themes", "substance use", "sexual content", "mental health themes", "grief"]
 description: "Yu's review of Nana — two young women named Nana meet on a train to Tokyo and become inseparable, even as their lives move in opposite directions through love, music, and loss."
-coverImage: "https://uploads.mangadex.org/covers/7e2ddc4c-c07c-4163-bf48-2b7c45f7b7fb/4eb41e2e-daa6-443d-a5ec-84765af12d2c.jpg"
+coverImage: "/covers/nana.jpg"
 amazonASIN: "1421501082"
 publishedAt: "2026-04-24"
 tags: ["romance", "drama", "josei", "music", "adult", "incomplete"]

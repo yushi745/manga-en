@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Non Non Biyori — five students in a tiny rural school (total enrollment: five) experience the small, seasonal rhythms of countryside life in a mountain village far from anything."
-coverImage: "https://uploads.mangadex.org/covers/74502f72-ad26-4af1-846c-de18061107a0/7c5cf535-1f87-43c1-b6e9-078b216e5a7b.jpg"
+coverImage: "/covers/non-non-biyori.jpg"
 amazonASIN: "1626921482"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "rural", "all-ages", "completed", "seasonal"]

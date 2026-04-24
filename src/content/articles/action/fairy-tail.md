@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "mild fanservice", "themes of friendship and sacrifice"]
 description: "Yu's review of Fairy Tail — a celestial spirit mage joins the most destructive (and most tight-knit) guild in the kingdom, and together they save the world repeatedly through the power of friendship and overwhelming magic."
-coverImage: "https://uploads.mangadex.org/covers/227e3f72-863f-46f9-bafe-c43104ca29ee/a74a86c4-0585-453a-8027-d6732d742dd6.jpg"
+coverImage: "/covers/fairy-tail.jpg"
 amazonASIN: "1612622763"
 publishedAt: "2026-04-24"
 tags: ["action", "fantasy", "shonen", "magic", "completed", "guild"]

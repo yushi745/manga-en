@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "body horror", "psychological content", "themes of identity"]
 description: "Yu's review of Choujin X — Tokyo Ghoul creator Sui Ishida's new series: in a world where some humans transform into 'Choujin' — superhuman beings with terrifying abilities — Tokio injects himself with a Choujin syringe to save his best friend, and both of them enter a new world."
-coverImage: "https://uploads.mangadex.org/covers/11b74211-f4c0-4f08-b5a4-c491da0d0c0b/2c1c11f4-6293-4fd0-8acc-1e23747f94c4.jpg"
+coverImage: "/covers/choujin-x.jpg"
 amazonASIN: "1974741991"
 publishedAt: "2026-04-24"
 tags: ["action", "supernatural", "shonen", "ongoing", "Tokyo-Ghoul-author", "identity"]

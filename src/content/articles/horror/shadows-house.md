@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["mystery around character true nature", "themes of control and identity", "gothic horror atmosphere", "some violence"]
 description: "Yu's review of Shadows' House — Kate is a shadow noble whose face is obscured by soot; Emilico is her 'Living Doll' — a human servant who functions as Kate's face and emotional expression; together they navigate the mysterious house and begin to understand what it truly is."
-coverImage: "https://uploads.mangadex.org/covers/8c697de6-a142-4cec-ae1f-9b31a07f04cb/8eb4ebfa-7758-4435-b3bf-d2333698d8b5.png"
+coverImage: "/covers/shadows-house.jpg"
 amazonASIN: "1975345924"
 publishedAt: "2026-04-24"
 tags: ["horror", "mystery", "ongoing", "gothic", "identity", "seinen"]

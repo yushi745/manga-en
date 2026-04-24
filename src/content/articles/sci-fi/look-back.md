@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death of a significant character", "themes of creative meaning and grief", "reference to a real mass violence event"]
 description: "Yu's review of Look Back — a single volume about two girls who connect through drawing, whose friendship is the manga's emotional center, and what one page of someone's art can mean to another person across time."
-coverImage: "https://uploads.mangadex.org/covers/ba7908db-5c9e-4f78-9fc1-3b3581f752e9/eb105651-a650-4cb7-8ce4-a37835cade4a.jpg"
+coverImage: "/covers/look-back.jpg"
 amazonASIN: "1974734641"
 publishedAt: "2026-04-24"
 tags: ["sci-fi", "slice-of-life", "completed", "Fujimoto", "single-volume", "art", "grief"]

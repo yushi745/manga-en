@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "dark themes", "themes of death and revenge", "some disturbing imagery"]
 description: "Yu's review of Black Butler — a twelve-year-old earl serves as the Queen of England's secret watchdog, with a demon butler who is absolutely perfect at his job and will eventually devour his master's soul."
-coverImage: "https://uploads.mangadex.org/covers/8bd19e5c-94f7-4368-a918-50f463857446/138eaacb-fa3b-4fd4-a3d7-0ec4a6ee998f.jpg"
+coverImage: "/covers/black-butler.jpg"
 amazonASIN: "0316084298"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "mystery", "gothic", "ongoing", "historical"]

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["mature romantic content", "fan service", "morally ambiguous protagonist behavior", "lying as a central premise"]
 description: "Yu's review of Rent-a-Girlfriend — Kazuya Kinoshita is dumped, rents a girlfriend service on an app, meets Chizuru Mizuhara who is perfect at her job, and then lies to his grandmother that they are real — a lie that spirals for 30 volumes."
-coverImage: "https://uploads.mangadex.org/covers/32fdfe9b-6e11-4a13-9e36-dcd8ea77b4e4/2389c535-9c39-492a-a34b-48e2f20538c2.jpg"
+coverImage: "/covers/rent-a-girlfriend.jpg"
 amazonASIN: "1646516217"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "seinen", "completed", "harem", "slow-burn"]

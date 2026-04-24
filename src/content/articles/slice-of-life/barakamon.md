@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild suggestive content (rare)", "themes of creative block and failure"]
 description: "Yu's review of Barakamon — a young calligrapher exiled to a rural island after punching a critic discovers that the village children, the sea air, and the ordinary chaos of island life might be what his art has been missing."
-coverImage: "https://uploads.mangadex.org/covers/b9a99e3f-6803-4efe-9f7c-f7d566703e4c/3991210f-d6e3-46f5-96bf-0c8115fc9dba.jpg"
+coverImage: "/covers/barakamon.jpg"
 amazonASIN: "0316336084"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "art", "rural", "completed", "heartwarming"]

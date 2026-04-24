@@ -14,7 +14,7 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "anxiety depicted around performance"]
 description: "Yu's review of Tsurune — Minato Narumiya was an archer until target panic (a release disorder) ended his ability to compete; in high school, he joins the kyudo club and works through his anxiety with a new coach and teammates, trying to find the clean release again."
-coverImage: "https://images-na.ssl-images-amazon.com/images/P/1975346980.01.LZZZZZZZ.jpg"
+coverImage: ""
 amazonASIN: "1975346980"
 publishedAt: "2026-04-24"
 tags: ["sports", "seinen", "ongoing", "kyudo", "archery", "mental-health"]

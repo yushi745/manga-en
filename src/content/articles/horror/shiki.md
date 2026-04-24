@@ -14,7 +14,7 @@ englishStatus: "Unlicensed"
 ageRating: "M (Mature)"
 contentWarnings: ["vampire violence", "graphic horror", "mass death", "morally complex themes"]
 description: "Yu's review of Shiki — people begin dying mysteriously in a rural Japanese village during summer, and the doctors, priests, and survivors must confront what is happening and what they are willing to do in response."
-coverImage: "https://uploads.mangadex.org/covers/47859811-7fd7-488a-963d-bd10c081142e/836099b0-80dd-4eeb-a3c3-3bbc77648ce4.jpg"
+coverImage: "/covers/shiki.jpg"
 publishedAt: "2026-04-24"
 tags: ["horror", "vampire", "supernatural", "completed", "moral-complexity"]
 rating: 5

@@ -14,7 +14,7 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["MMO game mechanics as plot elements", "political world-building", "mild action violence"]
 description: "Yu's review of Log Horizon — when 30,000 Japanese players of the MMO Elder Tale are suddenly transported inside the game world, Shiroe — a legendary strategy player with no love for other people — must figure out what the new world's rules are and help build a functional society while uncovering why the Catastrophe happened."
-coverImage: "https://uploads.mangadex.org/covers/fead53e5-f3b5-4793-b19f-b483208ad04e/ebe37b4c-3a88-4b57-89b5-9130ad2cc3d2.jpg"
+coverImage: "/covers/log-horizon.jpg"
 amazonASIN: "0316383066"
 publishedAt: "2026-04-24"
 tags: ["fantasy", "isekai", "MMO", "completed", "strategy", "world-building", "Yen-Press"]
