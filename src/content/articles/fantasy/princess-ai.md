@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["music industry themes", "amnesia plot", "fantasy world politics", "rock music aesthetics"]
 description: "Yu's review of Princess Ai — Ai, a girl with wings, falls from the fantasy world of Ai-Land to contemporary Tokyo with no memory of who she is; she is taken in by Kentaro and discovers she has an extraordinary singing voice; she enters the Tokyo music industry while fragments of her past world pursue her."
-coverImage: "/covers/princess-ai.jpg"
 amazonASIN: "1591829275"
 publishedAt: "2026-05-10"
 tags: ["fantasy", "romance", "completed", "teen", "tokyopop", "music", "amnesia", "rock-aesthetic"]

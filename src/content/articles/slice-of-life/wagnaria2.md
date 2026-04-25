@@ -14,7 +14,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["workplace comedy", "eccentric characters"]
 description: "Yu's review of WWW.Working!! — a parallel web manga to Working!!, set in a different Wagnaria family restaurant with a new cast of eccentric employees; Daisuke Higashida takes a part-time job to pay off his father's debt and discovers his coworkers are even more unusual than the situation suggests."
-coverImage: "/covers/wagnaria2.jpg"
 amazonASIN: "0316477079"
 publishedAt: "2026-04-24"
 tags: ["slice-of-life", "comedy", "completed", "workplace", "restaurant"]
