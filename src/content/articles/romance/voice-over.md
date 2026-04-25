@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["school setting", "mild romance", "voice acting industry content"]
 description: "Yu's review of Voice Over! Seiyu Academy — Hime Kino dreams of becoming a voice actress like her idol; she enrolls in the voice acting program at her high school, but her voice — husky, deep, and immediately cast in villain and old-man roles — is nothing like the heroine she imagines herself to be."
-coverImage: "/covers/voice-over.jpg"
 amazonASIN: "1421558327"
 publishedAt: "2026-04-24"
 tags: ["romance", "comedy", "completed", "voice-acting", "school", "industry-manga"]
