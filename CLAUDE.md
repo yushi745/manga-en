@@ -114,10 +114,37 @@ I earn from qualifying purchases.
 
 ## 記事生成ワークフロー
 
-1. **WebFetch** で日本語ネタバレ・あらすじサイトを参照して情報収集
-2. 収集した情報をYuのペルソナで書き直す（コピーペーストではなく自分の言葉で）
-3. `src/content/articles/<genre>/<slug>.md` に保存
-4. git commit & push → Vercel自動デプロイ
+1. **ISBN取得（必須）**: 記事を書く前に、必ず Open Library API でISBNを取得してASINを確定する。
+   ```
+   https://openlibrary.org/search.json?title=<英語タイトル>&author=<著者名>&limit=5
+   ```
+   - レスポンスの `isbn` 配列から ISBN-10（10桁）を取得 → これがAmazonのASIN
+   - 見つからない場合は `title` + `publisher` で再検索
+   - それでも見つからない場合は Open Library の ISBN なしで `hasAffiliate: false` にする
+   - **ASINを推測・でっち上げしてはならない。必ず検索で確認すること。**
+
+2. **WebFetch** で日本語ネタバレ・あらすじサイトを参照して情報収集
+3. 収集した情報をYuのペルソナで書き直す（コピーペーストではなく自分の言葉で）
+4. `src/content/articles/<genre>/<slug>.md` に保存
+5. git commit & push → Vercel自動デプロイ
+
+### ISBN取得スクリプト例（バッチ処理時）
+
+```python
+import urllib.request, urllib.parse, json
+
+def get_isbn(title, author=""):
+    query = urllib.parse.quote(f"{title} {author}".strip())
+    url = f"https://openlibrary.org/search.json?q={query}&limit=5"
+    with urllib.request.urlopen(url, timeout=10) as r:
+        data = json.loads(r.read())
+    for doc in data.get('docs', []):
+        isbns = doc.get('isbn', [])
+        isbn10 = [i for i in isbns if len(i) == 10]
+        if isbn10:
+            return isbn10[0]
+    return None
+```
 
 ※ よみほと違い `quality: "auto"` フラグ・noindexロジックは不要。最初から完成記事として作成する。
 
