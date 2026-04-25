@@ -114,19 +114,43 @@ I earn from qualifying purchases.
 
 ## 記事生成ワークフロー
 
-1. **ISBN取得（必須）**: 記事を書く前に、必ず Open Library API でISBNを取得してASINを確定する。
-   ```
-   https://openlibrary.org/search.json?title=<英語タイトル>&author=<著者名>&limit=5
-   ```
-   - レスポンスの `isbn` 配列から ISBN-10（10桁）を取得 → これがAmazonのASIN
-   - 見つからない場合は `title` + `publisher` で再検索
-   - それでも見つからない場合は Open Library の ISBN なしで `hasAffiliate: false` にする
-   - **ASINを推測・でっち上げしてはならない。必ず検索で確認すること。**
-
-2. **WebFetch** で日本語ネタバレ・あらすじサイトを参照して情報収集
-3. 収集した情報をYuのペルソナで書き直す（コピーペーストではなく自分の言葉で）
+1. **WebFetch** で日本語ネタバレ・あらすじサイトを参照して情報収集
+2. 収集した情報をYuのペルソナで書き直す（コピーペーストではなく自分の言葉で）
+3. `mangaTitleJa`（日本語タイトル）を frontmatter に追加する（Jikan APIで取得）
 4. `src/content/articles/<genre>/<slug>.md` に保存
-5. git commit & push → Vercel自動デプロイ
+5. **カバー画像取得**（下記フロー参照）
+6. git commit & push → Vercel自動デプロイ
+
+---
+
+## カバー画像取得フロー（確定）
+
+バッチ記事作成後、`scripts/download_covers_rakuten.py` を実行して一括取得。
+失敗した記事のみ以下の順で個別対応する。
+
+### ステップ1: 楽天Books API（主）
+- `mangaTitleJa`（日本語タイトル）で検索
+- `scripts/download_covers_rakuten.py` が自動実行
+- エンドポイント: `https://openapi.rakuten.co.jp/services/api/BooksBook/Search/20170404`
+- キー: `.env.local` の `RAKUTEN_APP_ID` / `RAKUTEN_ACCESS_KEY`
+- `Origin: https://www.dearmanga.com` ヘッダー必須
+
+### ステップ2: Google Books API（補助）
+- 楽天でNOT FOUNDの場合、同スクリプトが自動でフォールバック
+- 追加の設定不要
+
+### ステップ3: 個別対応（失敗した記事のみ）
+1. `amazon.co.jp` で正式な日本語タイトルを確認
+2. `mangaTitleJa` を修正
+3. 楽天APIで再検索（スクリプト or 手動）
+
+### ステップ4: coverImage 削除
+- ステップ3でも見つからない場合は `coverImage` フィールドを frontmatter から削除
+- 画像なし表示になる（page.tsx が `coverImage` の有無で条件分岐済み）
+
+### 注意
+- MangaDexは使わない（非公式・著作権グレー・URL不安定）
+- ASINを推測・でっち上げしてはならない（Amazonリンクは現在すべて検索URLで運用中）
 
 ### ISBN取得スクリプト例（バッチ処理時）
 
