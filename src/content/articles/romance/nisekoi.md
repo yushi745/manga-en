@@ -129,7 +129,7 @@ VIZ Media published the complete 25-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Nisekoi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nisekoi%3A+False+Love+manga)
+[Get Nisekoi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nisekoi%3A+False+Love+manga&i=stripbooks)
 
 ---
 

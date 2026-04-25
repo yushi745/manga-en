@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 8-volume series. All volumes ava
 
 ## Where to Buy
 
-[Get Bloom Into You Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bloom+Into+You+manga)
+[Get Bloom Into You Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bloom+Into+You+manga&i=stripbooks)
 
 ---
 

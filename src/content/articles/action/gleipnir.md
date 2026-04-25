@@ -125,7 +125,7 @@ Kodansha USA published the complete 14-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Gleipnir Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gleipnir+manga)
+[Get Gleipnir Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gleipnir+manga&i=stripbooks)
 
 ---
 

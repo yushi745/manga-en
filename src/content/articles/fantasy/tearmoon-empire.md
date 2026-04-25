@@ -125,7 +125,7 @@ Seven Seas Entertainment publishes the ongoing English series. 6+ volumes curren
 
 ## Where to Buy
 
-[Get Tearmoon Empire Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tearmoon+Empire+manga)
+[Get Tearmoon Empire Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tearmoon+Empire+manga&i=stripbooks)
 
 ---
 

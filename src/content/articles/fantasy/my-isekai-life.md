@@ -121,7 +121,7 @@ Square Enix Manga is publishing the English edition, currently at 14 volumes. On
 
 ## Where to Buy
 
-[Get My Isekai Life Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Isekai+Life%3A+I+Gained+a+Second+Character+Class+and+Became+the+Strongest+Sage+in+the+World%21+manga)
+[Get My Isekai Life Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Isekai+Life%3A+I+Gained+a+Second+Character+Class+and+Became+the+Strongest+Sage+in+the+World%21+manga&i=stripbooks)
 
 ---
 

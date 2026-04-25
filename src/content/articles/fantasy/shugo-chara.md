@@ -127,7 +127,7 @@ Del Rey (later Kodansha Comics) published the complete 12-volume run. All volume
 
 ## Where to Buy
 
-[Get Shugo Chara! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shugo+Chara%21+manga)
+[Get Shugo Chara! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shugo+Chara%21+manga&i=stripbooks)
 
 ---
 

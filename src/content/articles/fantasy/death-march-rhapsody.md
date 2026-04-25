@@ -121,7 +121,7 @@ Yen Press publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get Death March to the Parallel World Rhapsody Vol. 1 on Amazon →](https://www.amazon.com/s?k=Death+March+to+the+Parallel+World+Rhapsody+manga)
+[Get Death March to the Parallel World Rhapsody Vol. 1 on Amazon →](https://www.amazon.com/s?k=Death+March+to+the+Parallel+World+Rhapsody+manga&i=stripbooks)
 
 ---
 

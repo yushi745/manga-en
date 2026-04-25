@@ -123,7 +123,7 @@ Viz Media published the complete 18-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Black Bird Vol. 1 on Amazon →](https://www.amazon.com/s?k=Black+Bird+manga)
+[Get Black Bird Vol. 1 on Amazon →](https://www.amazon.com/s?k=Black+Bird+manga&i=stripbooks)
 
 ---
 

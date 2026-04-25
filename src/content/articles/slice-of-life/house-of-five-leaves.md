@@ -123,7 +123,7 @@ Viz Media published the complete English series. All 8 volumes available.
 
 ## Where to Buy
 
-[Get House of Five Leaves Vol. 1 on Amazon →](https://www.amazon.com/s?k=House+of+Five+Leaves+manga)
+[Get House of Five Leaves Vol. 1 on Amazon →](https://www.amazon.com/s?k=House+of+Five+Leaves+manga&i=stripbooks)
 
 ---
 

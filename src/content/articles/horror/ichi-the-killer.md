@@ -125,7 +125,7 @@ VIZ Media published the complete English series. All 10 volumes available.
 
 ## Where to Buy
 
-[Get Ichi the Killer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ichi+the+Killer+manga)
+[Get Ichi the Killer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ichi+the+Killer+manga&i=stripbooks)
 
 ---
 

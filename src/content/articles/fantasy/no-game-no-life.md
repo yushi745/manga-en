@@ -179,8 +179,8 @@ Start from Volume 1.
 
 ## Where to Buy
 
-- [📱 No Game No Life Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=No+Game+No+Life+manga)
-- [📚 No Game No Life Vol. 1 — Paperback](https://www.amazon.com/s?k=No+Game+No+Life+manga)
+- [📱 No Game No Life Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=No+Game+No+Life+manga&i=stripbooks)
+- [📚 No Game No Life Vol. 1 — Paperback](https://www.amazon.com/s?k=No+Game+No+Life+manga&i=stripbooks)
 
 ---
 

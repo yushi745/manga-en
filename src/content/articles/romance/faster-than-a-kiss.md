@@ -125,7 +125,7 @@ Viz Media published the complete 12-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Faster Than a Kiss Vol. 1 on Amazon →](https://www.amazon.com/s?k=Faster+Than+a+Kiss+manga)
+[Get Faster Than a Kiss Vol. 1 on Amazon →](https://www.amazon.com/s?k=Faster+Than+a+Kiss+manga&i=stripbooks)
 
 ---
 

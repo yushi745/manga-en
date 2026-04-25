@@ -125,7 +125,7 @@ Kodansha Comics published 11 volumes before the English release stopped. The ava
 
 ## Where to Buy
 
-[Get Giant Killing Vol. 1 on Amazon →](https://www.amazon.com/s?k=Giant+Killing+manga)
+[Get Giant Killing Vol. 1 on Amazon →](https://www.amazon.com/s?k=Giant+Killing+manga&i=stripbooks)
 
 ---
 

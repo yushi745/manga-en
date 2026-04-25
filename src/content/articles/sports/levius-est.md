@@ -121,7 +121,7 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Levius/est Vol. 1 on Amazon →](https://www.amazon.com/s?k=Levius%2Fest+manga)
+[Get Levius/est Vol. 1 on Amazon →](https://www.amazon.com/s?k=Levius%2Fest+manga&i=stripbooks)
 
 ---
 

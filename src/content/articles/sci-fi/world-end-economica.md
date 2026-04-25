@@ -123,7 +123,7 @@ Yen Press published the complete 3-volume English series.
 
 ## Where to Buy
 
-[Get World End Economica Vol. 1 on Amazon →](https://www.amazon.com/s?k=World+End+Economica+manga)
+[Get World End Economica Vol. 1 on Amazon →](https://www.amazon.com/s?k=World+End+Economica+manga&i=stripbooks)
 
 ---
 

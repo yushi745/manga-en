@@ -125,7 +125,7 @@ VIZ Media published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Maid Sama! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Maid+Sama%21+manga)
+[Get Maid Sama! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Maid+Sama%21+manga&i=stripbooks)
 
 ---
 

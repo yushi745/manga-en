@@ -123,7 +123,7 @@ Seven Seas Entertainment published all 21 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Gate Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gate%3A+Jieitai+Kanochi+nite%2C+Kaku+Tatakaeri+manga)
+[Get Gate Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gate%3A+Jieitai+Kanochi+nite%2C+Kaku+Tatakaeri+manga&i=stripbooks)
 
 ---
 

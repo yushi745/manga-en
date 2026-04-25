@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 21 volumes available.
 
 ## Where to Buy
 
-[Get Please Save My Earth Vol. 1 on Amazon →](https://www.amazon.com/s?k=Please+Save+My+Earth+manga)
+[Get Please Save My Earth Vol. 1 on Amazon →](https://www.amazon.com/s?k=Please+Save+My+Earth+manga&i=stripbooks)
 
 ---
 

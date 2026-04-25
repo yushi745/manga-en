@@ -121,7 +121,7 @@ Viz Media published the complete 10-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Mx0 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mx0+manga)
+[Get Mx0 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mx0+manga&i=stripbooks)
 
 ---
 

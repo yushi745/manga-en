@@ -125,7 +125,7 @@ Viz Media publishes the ongoing series. 18+ volumes currently available in Engli
 
 ## Where to Buy
 
-[Get Darwin's Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Darwin%27s+Game+manga)
+[Get Darwin's Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Darwin%27s+Game+manga&i=stripbooks)
 
 ---
 

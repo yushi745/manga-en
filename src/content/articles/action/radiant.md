@@ -125,7 +125,7 @@ VIZ Media is publishing the ongoing series. Over 20 volumes available with consi
 
 ## Where to Buy
 
-[Get Radiant Vol. 1 on Amazon →](https://www.amazon.com/s?k=Radiant+manga)
+[Get Radiant Vol. 1 on Amazon →](https://www.amazon.com/s?k=Radiant+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published all 17 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get 07-Ghost Vol. 1 on Amazon →](https://www.amazon.com/s?k=07-Ghost+manga)
+[Get 07-Ghost Vol. 1 on Amazon →](https://www.amazon.com/s?k=07-Ghost+manga&i=stripbooks)
 
 ---
 

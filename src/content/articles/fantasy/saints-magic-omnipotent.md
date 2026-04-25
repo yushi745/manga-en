@@ -121,7 +121,7 @@ Kodansha Comics publishes the English edition. Ongoing; check current volume cou
 
 ## Where to Buy
 
-[Get The Saint's Magic Power Is Omnipotent Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Saint%27s+Magic+Power+is+Omnipotent+manga)
+[Get The Saint's Magic Power Is Omnipotent Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Saint%27s+Magic+Power+is+Omnipotent+manga&i=stripbooks)
 
 ---
 

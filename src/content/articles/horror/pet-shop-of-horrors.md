@@ -123,7 +123,7 @@ Tokyopop published the complete 10-volume run. Out of print but widely available
 
 ## Where to Buy
 
-[Get Pet Shop of Horrors Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pet+Shop+of+Horrors+manga)
+[Get Pet Shop of Horrors Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pet+Shop+of+Horrors+manga&i=stripbooks)
 
 ---
 

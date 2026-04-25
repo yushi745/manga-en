@@ -127,7 +127,7 @@ Kodansha Comics publishes the ongoing English series. 14+ volumes currently avai
 
 ## Where to Buy
 
-[Get The Fable Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Fable+manga)
+[Get The Fable Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Fable+manga&i=stripbooks)
 
 ---
 

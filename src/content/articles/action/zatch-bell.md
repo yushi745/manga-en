@@ -129,7 +129,7 @@ VIZ Media published the complete 33-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Zatch Bell! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Zatch+Bell%21+manga)
+[Get Zatch Bell! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Zatch+Bell%21+manga&i=stripbooks)
 
 ---
 

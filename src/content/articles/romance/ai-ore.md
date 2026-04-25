@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 8 volumes available.
 
 ## Where to Buy
 
-[Get Ai Ore! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ai+Ore%21+manga)
+[Get Ai Ore! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ai+Ore%21+manga&i=stripbooks)
 
 ---
 

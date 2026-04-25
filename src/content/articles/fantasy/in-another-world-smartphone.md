@@ -127,7 +127,7 @@ Seven Seas Entertainment publishes the ongoing English series. 10+ volumes curre
 
 ## Where to Buy
 
-[Get In Another World with My Smartphone Vol. 1 on Amazon →](https://www.amazon.com/s?k=In+Another+World+with+My+Smartphone+manga)
+[Get In Another World with My Smartphone Vol. 1 on Amazon →](https://www.amazon.com/s?k=In+Another+World+with+My+Smartphone+manga&i=stripbooks)
 
 ---
 

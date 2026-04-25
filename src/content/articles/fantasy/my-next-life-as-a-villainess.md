@@ -128,7 +128,7 @@ Seven Seas Entertainment published the complete 8-volume manga. The light novel 
 
 ## Where to Buy
 
-[Get My Next Life as a Villainess Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Next+Life+as+a+Villainess%3A+All+Routes+Lead+to+Doom%21+manga)
+[Get My Next Life as a Villainess Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Next+Life+as+a+Villainess%3A+All+Routes+Lead+to+Doom%21+manga&i=stripbooks)
 
 ---
 

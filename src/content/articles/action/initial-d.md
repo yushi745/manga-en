@@ -125,7 +125,7 @@ Tokyopop published the series in English. Out of print but available secondhand;
 
 ## Where to Buy
 
-[Get Initial D Vol. 1 on Amazon →](https://www.amazon.com/s?k=Initial+D+manga)
+[Get Initial D Vol. 1 on Amazon →](https://www.amazon.com/s?k=Initial+D+manga&i=stripbooks)
 
 ---
 

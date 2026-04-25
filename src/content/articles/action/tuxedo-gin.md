@@ -125,7 +125,7 @@ Viz Media published the complete English series. All 15 volumes available.
 
 ## Where to Buy
 
-[Get Tuxedo Gin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tuxedo+Gin+manga)
+[Get Tuxedo Gin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tuxedo+Gin+manga&i=stripbooks)
 
 ---
 

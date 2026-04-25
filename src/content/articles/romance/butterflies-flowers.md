@@ -123,7 +123,7 @@ Viz Media published the complete 8-volume English series.
 
 ## Where to Buy
 
-[Get Butterflies, Flowers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Butterflies%2C+Flowers+manga)
+[Get Butterflies, Flowers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Butterflies%2C+Flowers+manga&i=stripbooks)
 
 ---
 

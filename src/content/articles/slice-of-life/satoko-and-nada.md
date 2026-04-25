@@ -123,7 +123,7 @@ Seven Seas Entertainment published the complete 4-volume English series.
 
 ## Where to Buy
 
-[Get Satoko and Nada Vol. 1 on Amazon →](https://www.amazon.com/s?k=Satoko+and+Nada+manga)
+[Get Satoko and Nada Vol. 1 on Amazon →](https://www.amazon.com/s?k=Satoko+and+Nada+manga&i=stripbooks)
 
 ---
 

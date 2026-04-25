@@ -121,7 +121,7 @@ TOKYOPOP published all 12 volumes. Out of print but available used.
 
 ## Where to Buy
 
-[Get V.B. Rose Vol. 1 on Amazon →](https://www.amazon.com/s?k=V.B.+Rose+manga)
+[Get V.B. Rose Vol. 1 on Amazon →](https://www.amazon.com/s?k=V.B.+Rose+manga&i=stripbooks)
 
 ---
 

@@ -123,7 +123,7 @@ Seven Seas Entertainment published the complete 4-volume English series.
 
 ## Where to Buy
 
-[Get King's Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=King%27s+Game+%28Ousama+Game%29+manga)
+[Get King's Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=King%27s+Game+%28Ousama+Game%29+manga&i=stripbooks)
 
 ---
 

@@ -127,7 +127,7 @@ Yen Press published the complete 26-volume manga run. All volumes available.
 
 ## Where to Buy
 
-[Get Higurashi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Higurashi%3A+When+They+Cry+manga)
+[Get Higurashi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Higurashi%3A+When+They+Cry+manga&i=stripbooks)
 
 ---
 

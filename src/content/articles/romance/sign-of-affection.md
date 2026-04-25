@@ -127,7 +127,7 @@ Kodansha Comics has published the complete English series. All 10 volumes availa
 
 ## Where to Buy
 
-[Get A Sign of Affection Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Sign+of+Affection+manga)
+[Get A Sign of Affection Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Sign+of+Affection+manga&i=stripbooks)
 
 ---
 

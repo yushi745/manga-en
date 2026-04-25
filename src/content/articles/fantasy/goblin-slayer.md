@@ -178,8 +178,8 @@ Start from Volume 1 — but read the content warning first.
 
 ## Where to Buy
 
-- [📱 Goblin Slayer Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Goblin+Slayer+manga)
-- [📚 Goblin Slayer Vol. 1 — Paperback](https://www.amazon.com/s?k=Goblin+Slayer+manga)
+- [📱 Goblin Slayer Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Goblin+Slayer+manga&i=stripbooks)
+- [📚 Goblin Slayer Vol. 1 — Paperback](https://www.amazon.com/s?k=Goblin+Slayer+manga&i=stripbooks)
 
 ---
 

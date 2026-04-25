@@ -125,7 +125,7 @@ Vertical published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Twin Spica Vol. 1 on Amazon →](https://www.amazon.com/s?k=Twin+Spica+manga)
+[Get Twin Spica Vol. 1 on Amazon →](https://www.amazon.com/s?k=Twin+Spica+manga&i=stripbooks)
 
 ---
 

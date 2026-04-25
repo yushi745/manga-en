@@ -129,7 +129,7 @@ VIZ Media published the complete 26-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Dr. Stone Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dr.+Stone+manga)
+[Get Dr. Stone Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dr.+Stone+manga&i=stripbooks)
 
 ---
 

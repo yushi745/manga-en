@@ -120,7 +120,7 @@ Kodansha Comics published the complete 8-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Magus of the Library Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magus+of+the+Library+manga)
+[Get Magus of the Library Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magus+of+the+Library+manga&i=stripbooks)
 
 ---
 

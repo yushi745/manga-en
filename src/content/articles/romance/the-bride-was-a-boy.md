@@ -123,7 +123,7 @@ Seven Seas published the complete English edition. 1 volume available.
 
 ## Where to Buy
 
-[Get The Bride Was a Boy on Amazon →](https://www.amazon.com/s?k=The+Bride+Was+a+Boy+manga)
+[Get The Bride Was a Boy on Amazon →](https://www.amazon.com/s?k=The+Bride+Was+a+Boy+manga&i=stripbooks)
 
 ---
 

@@ -124,7 +124,7 @@ Dark Horse Comics published the complete 9-volume English series.
 
 ## Where to Buy
 
-[Get Gunsmith Cats Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gunsmith+Cats+manga)
+[Get Gunsmith Cats Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gunsmith+Cats+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Yen Press publishes the ongoing English series. 10+ volumes currently available.
 
 ## Where to Buy
 
-[Get Reign of the Seven Spellblades Vol. 1 on Amazon →](https://www.amazon.com/s?k=Reign+of+the+Seven+Spellblades+manga)
+[Get Reign of the Seven Spellblades Vol. 1 on Amazon →](https://www.amazon.com/s?k=Reign+of+the+Seven+Spellblades+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Del Rey published the complete 36-volume English series.
 
 ## Where to Buy
 
-[Get The Wallflower Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Wallflower+manga)
+[Get The Wallflower Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Wallflower+manga&i=stripbooks)
 
 ---
 

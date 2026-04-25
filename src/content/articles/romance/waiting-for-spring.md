@@ -123,7 +123,7 @@ Kodansha Comics published the complete 12-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Waiting for Spring Vol. 1 on Amazon →](https://www.amazon.com/s?k=Waiting+for+Spring+manga)
+[Get Waiting for Spring Vol. 1 on Amazon →](https://www.amazon.com/s?k=Waiting+for+Spring+manga&i=stripbooks)
 
 ---
 

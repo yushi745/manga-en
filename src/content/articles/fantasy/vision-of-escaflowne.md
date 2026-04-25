@@ -123,7 +123,7 @@ Tokyopop published all 8 volumes. Complete; older publication, available in seco
 
 ## Where to Buy
 
-[Get The Vision of Escaflowne Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Vision+of+Escaflowne+manga)
+[Get The Vision of Escaflowne Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Vision+of+Escaflowne+manga&i=stripbooks)
 
 ---
 

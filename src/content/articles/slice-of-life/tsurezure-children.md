@@ -126,7 +126,7 @@ Square Enix Manga published all 20 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Tsurezure Children Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tsurezure+Children+manga)
+[Get Tsurezure Children Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tsurezure+Children+manga&i=stripbooks)
 
 ---
 

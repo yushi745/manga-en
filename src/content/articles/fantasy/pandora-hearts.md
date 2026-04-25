@@ -126,7 +126,7 @@ Yen Press published the complete 24-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Pandora Hearts Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pandora+Hearts+manga)
+[Get Pandora Hearts Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pandora+Hearts+manga&i=stripbooks)
 
 ---
 

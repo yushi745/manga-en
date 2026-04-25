@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 4 volumes available.
 
 ## Where to Buy
 
-[Get Romantic Killer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Romantic+Killer+manga)
+[Get Romantic Killer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Romantic+Killer+manga&i=stripbooks)
 
 ---
 

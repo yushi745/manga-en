@@ -123,7 +123,7 @@ Viz Media published the complete 18-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Muhyo & Roji Vol. 1 on Amazon →](https://www.amazon.com/s?k=Muhyo+%26+Roji%27s+Bureau+of+Supernatural+Investigation+manga)
+[Get Muhyo & Roji Vol. 1 on Amazon →](https://www.amazon.com/s?k=Muhyo+%26+Roji%27s+Bureau+of+Supernatural+Investigation+manga&i=stripbooks)
 
 ---
 

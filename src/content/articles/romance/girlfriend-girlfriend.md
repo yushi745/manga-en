@@ -127,7 +127,7 @@ Kodansha Comics published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Girlfriend, Girlfriend Vol. 1 on Amazon →](https://www.amazon.com/s?k=Girlfriend%2C+Girlfriend+manga)
+[Get Girlfriend, Girlfriend Vol. 1 on Amazon →](https://www.amazon.com/s?k=Girlfriend%2C+Girlfriend+manga&i=stripbooks)
 
 ---
 

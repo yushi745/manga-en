@@ -123,7 +123,7 @@ Viz Media is publishing the ongoing English series. 10 volumes available.
 
 ## Where to Buy
 
-[Get How Do We Relationship? Vol. 1 on Amazon →](https://www.amazon.com/s?k=How+Do+We+Relationship%3F+manga)
+[Get How Do We Relationship? Vol. 1 on Amazon →](https://www.amazon.com/s?k=How+Do+We+Relationship%3F+manga&i=stripbooks)
 
 ---
 

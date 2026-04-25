@@ -126,7 +126,7 @@ Viz Media published the complete 38-volume run and has also released collected 2
 
 ## Where to Buy
 
-[Get Ranma ½ Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ranma+%C2%BD+manga)
+[Get Ranma ½ Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ranma+%C2%BD+manga&i=stripbooks)
 
 ---
 

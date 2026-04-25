@@ -125,7 +125,7 @@ Vertical Comics published the complete 9-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get After the Rain Vol. 1 on Amazon →](https://www.amazon.com/s?k=After+the+Rain+manga)
+[Get After the Rain Vol. 1 on Amazon →](https://www.amazon.com/s?k=After+the+Rain+manga&i=stripbooks)
 
 ---
 

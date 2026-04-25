@@ -127,7 +127,7 @@ Tokyopop published the complete English series. All 15 volumes available (may re
 
 ## Where to Buy
 
-[Get Mars Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mars+manga)
+[Get Mars Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mars+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Bakuon!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bakuon%21%21+manga)
+[Get Bakuon!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bakuon%21%21+manga&i=stripbooks)
 
 ---
 

@@ -130,7 +130,7 @@ VIZ Media published the complete 30-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get Kuroko's Basketball Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kuroko%27s+Basketball+manga)
+[Get Kuroko's Basketball Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kuroko%27s+Basketball+manga&i=stripbooks)
 
 ---
 

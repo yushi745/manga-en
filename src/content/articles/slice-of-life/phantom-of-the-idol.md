@@ -125,7 +125,7 @@ Kodansha Comics published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Phantom of the Idol Vol. 1 on Amazon →](https://www.amazon.com/s?k=Phantom+of+the+Idol+manga)
+[Get Phantom of the Idol Vol. 1 on Amazon →](https://www.amazon.com/s?k=Phantom+of+the+Idol+manga&i=stripbooks)
 
 ---
 

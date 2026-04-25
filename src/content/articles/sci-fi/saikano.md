@@ -123,7 +123,7 @@ VIZ Media published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Saikano Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saikano+manga)
+[Get Saikano Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saikano+manga&i=stripbooks)
 
 ---
 

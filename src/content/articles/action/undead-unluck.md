@@ -127,7 +127,7 @@ VIZ Media published the complete 20-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Undead Unluck Vol. 1 on Amazon →](https://www.amazon.com/s?k=Undead+Unluck+manga)
+[Get Undead Unluck Vol. 1 on Amazon →](https://www.amazon.com/s?k=Undead+Unluck+manga&i=stripbooks)
 
 ---
 

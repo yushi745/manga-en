@@ -125,7 +125,7 @@ Yen Press is publishing the ongoing series. 12 volumes available in English.
 
 ## Where to Buy
 
-[Get Shadows' House Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shadows%27+House+manga)
+[Get Shadows' House Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shadows%27+House+manga&i=stripbooks)
 
 ---
 

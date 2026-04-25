@@ -134,7 +134,7 @@ Yen Press holds the current license and has published the complete series, inclu
 
 ## Where to Buy
 
-[Get Fruits Basket Collector's Edition Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fruits+Basket+manga)
+[Get Fruits Basket Collector's Edition Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fruits+Basket+manga&i=stripbooks)
 
 ---
 

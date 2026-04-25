@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get Love Me For Who I Am Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+Me+For+Who+I+Am+manga)
+[Get Love Me For Who I Am Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+Me+For+Who+I+Am+manga&i=stripbooks)
 
 ---
 

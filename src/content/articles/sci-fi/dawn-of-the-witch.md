@@ -125,7 +125,7 @@ Kodansha Comics publishes the ongoing English series. 7+ volumes currently avail
 
 ## Where to Buy
 
-[Get Dawn of the Witch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dawn+of+the+Witch+manga)
+[Get Dawn of the Witch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dawn+of+the+Witch+manga&i=stripbooks)
 
 ---
 

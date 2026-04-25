@@ -123,7 +123,7 @@ Last Gasp published the complete English series. All 10 volumes available.
 
 ## Where to Buy
 
-[Get Barefoot Gen Vol. 1 on Amazon →](https://www.amazon.com/s?k=Barefoot+Gen+manga)
+[Get Barefoot Gen Vol. 1 on Amazon →](https://www.amazon.com/s?k=Barefoot+Gen+manga&i=stripbooks)
 
 ---
 

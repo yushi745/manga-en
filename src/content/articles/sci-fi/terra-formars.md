@@ -120,7 +120,7 @@ VIZ Media published the complete 27-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Terra Formars Vol. 1 on Amazon →](https://www.amazon.com/s?k=Terra+Formars+manga)
+[Get Terra Formars Vol. 1 on Amazon →](https://www.amazon.com/s?k=Terra+Formars+manga&i=stripbooks)
 
 ---
 

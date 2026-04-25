@@ -125,7 +125,7 @@ VIZ Media published all 61 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Kenichi: The Mightiest Disciple Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kenichi%3A+The+Mightiest+Disciple+manga)
+[Get Kenichi: The Mightiest Disciple Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kenichi%3A+The+Mightiest+Disciple+manga&i=stripbooks)
 
 ---
 

@@ -124,7 +124,7 @@ VIZ Media published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Alice 19th Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alice+19th+manga)
+[Get Alice 19th Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alice+19th+manga&i=stripbooks)
 
 ---
 

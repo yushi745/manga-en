@@ -123,7 +123,7 @@ VIZ Media publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get Choujin X Vol. 1 on Amazon →](https://www.amazon.com/s?k=Choujin+X+manga)
+[Get Choujin X Vol. 1 on Amazon →](https://www.amazon.com/s?k=Choujin+X+manga&i=stripbooks)
 
 ---
 

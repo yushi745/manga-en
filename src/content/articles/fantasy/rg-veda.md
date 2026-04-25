@@ -126,7 +126,7 @@ Dark Horse Comics published the complete 10-volume English series.
 
 ## Where to Buy
 
-[Get RG Veda Vol. 1 on Amazon →](https://www.amazon.com/s?k=RG+Veda+manga)
+[Get RG Veda Vol. 1 on Amazon →](https://www.amazon.com/s?k=RG+Veda+manga&i=stripbooks)
 
 ---
 

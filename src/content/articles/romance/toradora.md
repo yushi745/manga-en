@@ -134,7 +134,7 @@ Seven Seas Entertainment published the complete 8-volume manga adaptation. All v
 
 ## Where to Buy
 
-[Get Toradora! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Toradora%21+manga)
+[Get Toradora! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Toradora%21+manga&i=stripbooks)
 
 ---
 

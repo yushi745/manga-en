@@ -127,7 +127,7 @@ Tokyopop published the complete English series. All 31 volumes available (some m
 
 ## Where to Buy
 
-[Get Gakuen Alice Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gakuen+Alice+manga)
+[Get Gakuen Alice Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gakuen+Alice+manga&i=stripbooks)
 
 ---
 

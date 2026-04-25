@@ -121,7 +121,7 @@ Seven Seas published the complete 10-volume English series.
 
 ## Where to Buy
 
-[Get Outbreak Company Vol. 1 on Amazon →](https://www.amazon.com/s?k=Outbreak+Company+manga)
+[Get Outbreak Company Vol. 1 on Amazon →](https://www.amazon.com/s?k=Outbreak+Company+manga&i=stripbooks)
 
 ---
 

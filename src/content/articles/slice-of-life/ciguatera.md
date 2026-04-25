@@ -123,7 +123,7 @@ Vertical published the complete 8-volume English series.
 
 ## Where to Buy
 
-[Get Ciguatera Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ciguatera+manga)
+[Get Ciguatera Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ciguatera+manga&i=stripbooks)
 
 ---
 

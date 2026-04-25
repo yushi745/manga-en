@@ -209,9 +209,9 @@ If you finish Volume 6 and want more, you're committed. Most readers are.
 
 ## Where to Buy
 
-- [📱 Haikyu!! Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Haikyu%21%21+manga)
-- [📚 Haikyu!! Vol. 1 — Paperback](https://www.amazon.com/s?k=Haikyu%21%21+manga)
-- [📦 Haikyu!! 3-in-1 Omnibus Vol. 1](https://www.amazon.com/s?k=Haikyu%21%21+manga)
+- [📱 Haikyu!! Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Haikyu%21%21+manga&i=stripbooks)
+- [📚 Haikyu!! Vol. 1 — Paperback](https://www.amazon.com/s?k=Haikyu%21%21+manga&i=stripbooks)
+- [📦 Haikyu!! 3-in-1 Omnibus Vol. 1](https://www.amazon.com/s?k=Haikyu%21%21+manga&i=stripbooks)
 
 ---
 

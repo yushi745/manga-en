@@ -192,8 +192,8 @@ Start from Volume 1. The time travel mechanics are established immediately and t
 
 ## Where to Buy
 
-- [📱 Tokyo Revengers Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Tokyo+Revengers+manga)
-- [📚 Tokyo Revengers Vol. 1 — Paperback](https://www.amazon.com/s?k=Tokyo+Revengers+manga)
+- [📱 Tokyo Revengers Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Tokyo+Revengers+manga&i=stripbooks)
+- [📚 Tokyo Revengers Vol. 1 — Paperback](https://www.amazon.com/s?k=Tokyo+Revengers+manga&i=stripbooks)
 
 ---
 

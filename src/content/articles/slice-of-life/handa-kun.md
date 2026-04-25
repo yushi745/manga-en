@@ -123,7 +123,7 @@ Yen Press published the complete 7-volume English series.
 
 ## Where to Buy
 
-[Get Handa-kun Vol. 1 on Amazon →](https://www.amazon.com/s?k=Handa-kun+manga)
+[Get Handa-kun Vol. 1 on Amazon →](https://www.amazon.com/s?k=Handa-kun+manga&i=stripbooks)
 
 ---
 

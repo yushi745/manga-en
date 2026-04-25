@@ -125,7 +125,7 @@ Yen Press published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get A Witch's Printing Office Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Witch%27s+Printing+Office+manga)
+[Get A Witch's Printing Office Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Witch%27s+Printing+Office+manga&i=stripbooks)
 
 ---
 

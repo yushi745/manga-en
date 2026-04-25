@@ -128,7 +128,7 @@ VIZ Media is publishing the ongoing series with consistent releases. Over 100 vo
 
 ## Where to Buy
 
-[Get Case Closed Vol. 1 on Amazon →](https://www.amazon.com/s?k=Case+Closed+%28Detective+Conan%29+manga)
+[Get Case Closed Vol. 1 on Amazon →](https://www.amazon.com/s?k=Case+Closed+%28Detective+Conan%29+manga&i=stripbooks)
 
 ---
 

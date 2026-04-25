@@ -121,7 +121,7 @@ Vertical published all 44 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Drops of God Vol. 1 on Amazon →](https://www.amazon.com/s?k=Drops+of+God+manga)
+[Get Drops of God Vol. 1 on Amazon →](https://www.amazon.com/s?k=Drops+of+God+manga&i=stripbooks)
 
 ---
 

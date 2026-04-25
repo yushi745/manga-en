@@ -123,7 +123,7 @@ Tokyopop published the complete English series. All 9 volumes available (may req
 
 ## Where to Buy
 
-[Get Wild Act Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wild+Act+manga)
+[Get Wild Act Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wild+Act+manga&i=stripbooks)
 
 ---
 

@@ -121,7 +121,7 @@ Seven Seas publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get How Heavy Are the Dumbbells You Lift? Vol. 1 on Amazon →](https://www.amazon.com/s?k=How+Heavy+Are+the+Dumbbells+You+Lift%3F+manga)
+[Get How Heavy Are the Dumbbells You Lift? Vol. 1 on Amazon →](https://www.amazon.com/s?k=How+Heavy+Are+the+Dumbbells+You+Lift%3F+manga&i=stripbooks)
 
 ---
 

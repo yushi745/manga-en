@@ -123,7 +123,7 @@ Yen Press published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get Stella Women's Academy Vol. 1 on Amazon →](https://www.amazon.com/s?k=Stella+Women%27s+Academy%2C+High+School+Division+Class+C%C2%B3+manga)
+[Get Stella Women's Academy Vol. 1 on Amazon →](https://www.amazon.com/s?k=Stella+Women%27s+Academy%2C+High+School+Division+Class+C%C2%B3+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Yen Press published the complete 3-volume manga. All volumes available.
 
 ## Where to Buy
 
-[Get Little Witch Academia Vol. 1 on Amazon →](https://www.amazon.com/s?k=Little+Witch+Academia+manga)
+[Get Little Witch Academia Vol. 1 on Amazon →](https://www.amazon.com/s?k=Little+Witch+Academia+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Yen Press has published the complete English series. All 12 volumes available.
 
 ## Where to Buy
 
-[Get Bloody Cross Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bloody+Cross+manga)
+[Get Bloody Cross Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bloody+Cross+manga&i=stripbooks)
 
 ---
 

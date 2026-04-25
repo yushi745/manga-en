@@ -129,7 +129,7 @@ Yen Press published the complete 3-volume manga. All volumes available. Multiple
 
 ## Where to Buy
 
-[Get Puella Magi Madoka Magica Vol. 1 on Amazon →](https://www.amazon.com/s?k=Puella+Magi+Madoka+Magica+manga)
+[Get Puella Magi Madoka Magica Vol. 1 on Amazon →](https://www.amazon.com/s?k=Puella+Magi+Madoka+Magica+manga&i=stripbooks)
 
 ---
 

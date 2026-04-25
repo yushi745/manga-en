@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 7 volumes available (may req
 
 ## Where to Buy
 
-[Get Saint Tail Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saint+Tail+manga)
+[Get Saint Tail Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saint+Tail+manga&i=stripbooks)
 
 ---
 

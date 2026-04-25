@@ -123,7 +123,7 @@ Kodansha Comics published all 3 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Prophecy Vol. 1 on Amazon →](https://www.amazon.com/s?k=Prophecy+manga)
+[Get Prophecy Vol. 1 on Amazon →](https://www.amazon.com/s?k=Prophecy+manga&i=stripbooks)
 
 ---
 

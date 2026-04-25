@@ -123,7 +123,7 @@ Yen Press published the complete 16-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Dimension W Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dimension+W+manga)
+[Get Dimension W Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dimension+W+manga&i=stripbooks)
 
 ---
 

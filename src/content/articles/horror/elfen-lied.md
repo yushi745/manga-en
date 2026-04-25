@@ -125,7 +125,7 @@ Dark Horse Comics published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Elfen Lied Vol. 1 on Amazon →](https://www.amazon.com/s?k=Elfen+Lied+manga)
+[Get Elfen Lied Vol. 1 on Amazon →](https://www.amazon.com/s?k=Elfen+Lied+manga&i=stripbooks)
 
 ---
 

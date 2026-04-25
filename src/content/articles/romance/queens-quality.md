@@ -125,7 +125,7 @@ VIZ Media published the complete English series. All 16 volumes available.
 
 ## Where to Buy
 
-[Get Queen's Quality Vol. 1 on Amazon →](https://www.amazon.com/s?k=Queen%27s+Quality+manga)
+[Get Queen's Quality Vol. 1 on Amazon →](https://www.amazon.com/s?k=Queen%27s+Quality+manga&i=stripbooks)
 
 ---
 

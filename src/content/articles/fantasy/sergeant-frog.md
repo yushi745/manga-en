@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 26 volumes available (may re
 
 ## Where to Buy
 
-[Get Sgt. Frog Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sgt.+Frog+manga)
+[Get Sgt. Frog Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sgt.+Frog+manga&i=stripbooks)
 
 ---
 

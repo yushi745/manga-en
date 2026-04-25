@@ -125,7 +125,7 @@ Del Rey (later Kodansha Comics) published the complete 38-volume run. All volume
 
 ## Where to Buy
 
-[Get Negima! Magister Negi Magi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Negima%21+Magister+Negi+Magi+manga)
+[Get Negima! Magister Negi Magi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Negima%21+Magister+Negi+Magi+manga&i=stripbooks)
 
 ---
 

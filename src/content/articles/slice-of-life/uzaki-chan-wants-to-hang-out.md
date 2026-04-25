@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Uzaki-chan Wants to Hang Out! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Uzaki-chan+Wants+to+Hang+Out%21+manga)
+[Get Uzaki-chan Wants to Hang Out! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Uzaki-chan+Wants+to+Hang+Out%21+manga&i=stripbooks)
 
 ---
 

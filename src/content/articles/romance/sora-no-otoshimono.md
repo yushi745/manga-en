@@ -127,7 +127,7 @@ Yen Press published the complete English series. All 20 volumes available.
 
 ## Where to Buy
 
-[Get Heaven's Lost Property Vol. 1 on Amazon →](https://www.amazon.com/s?k=Heaven%27s+Lost+Property+manga)
+[Get Heaven's Lost Property Vol. 1 on Amazon →](https://www.amazon.com/s?k=Heaven%27s+Lost+Property+manga&i=stripbooks)
 
 ---
 

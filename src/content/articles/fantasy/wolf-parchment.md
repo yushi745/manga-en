@@ -125,7 +125,7 @@ Yen Press publishes the ongoing English series. 7+ volumes currently available.
 
 ## Where to Buy
 
-[Get Wolf & Parchment Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wolf+%26+Parchment%3A+New+Theory+Spice+%26+Wolf+manga)
+[Get Wolf & Parchment Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wolf+%26+Parchment%3A+New+Theory+Spice+%26+Wolf+manga&i=stripbooks)
 
 ---
 

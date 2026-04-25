@@ -127,7 +127,7 @@ Square Enix Manga published the complete 7-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get One Week Friends Vol. 1 on Amazon →](https://www.amazon.com/s?k=One+Week+Friends+manga)
+[Get One Week Friends Vol. 1 on Amazon →](https://www.amazon.com/s?k=One+Week+Friends+manga&i=stripbooks)
 
 ---
 

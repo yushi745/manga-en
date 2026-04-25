@@ -184,8 +184,8 @@ Start from Volume 1. The opening arc is essential.
 
 ## Where to Buy
 
-- [📱 Shield Hero Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=The+Rising+of+the+Shield+Hero+manga)
-- [📚 Shield Hero Vol. 1 — Paperback](https://www.amazon.com/s?k=The+Rising+of+the+Shield+Hero+manga)
+- [📱 Shield Hero Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=The+Rising+of+the+Shield+Hero+manga&i=stripbooks)
+- [📚 Shield Hero Vol. 1 — Paperback](https://www.amazon.com/s?k=The+Rising+of+the+Shield+Hero+manga&i=stripbooks)
 
 ---
 

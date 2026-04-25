@@ -125,7 +125,7 @@ VIZ Media (Shojo Beat) published all 17 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Cheeky Brat Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cheeky+Brat+manga)
+[Get Cheeky Brat Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cheeky+Brat+manga&i=stripbooks)
 
 ---
 

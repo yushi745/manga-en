@@ -125,7 +125,7 @@ Kodansha Comics publishes the ongoing English series. 4+ volumes currently avail
 
 ## Where to Buy
 
-[Get Penguin & House Vol. 1 on Amazon →](https://www.amazon.com/s?k=Penguin+%26+House+manga)
+[Get Penguin & House Vol. 1 on Amazon →](https://www.amazon.com/s?k=Penguin+%26+House+manga&i=stripbooks)
 
 ---
 

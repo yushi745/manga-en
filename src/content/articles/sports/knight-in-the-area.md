@@ -125,7 +125,7 @@ Kodansha Comics published all 37 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Knight in the Area Vol. 1 on Amazon →](https://www.amazon.com/s?k=Knight+in+the+Area+manga)
+[Get Knight in the Area Vol. 1 on Amazon →](https://www.amazon.com/s?k=Knight+in+the+Area+manga&i=stripbooks)
 
 ---
 

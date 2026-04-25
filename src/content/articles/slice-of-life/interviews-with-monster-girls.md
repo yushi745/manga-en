@@ -127,7 +127,7 @@ Kodansha USA published the complete 8-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Interviews With Monster Girls Vol. 1 on Amazon →](https://www.amazon.com/s?k=Interviews+With+Monster+Girls+manga)
+[Get Interviews With Monster Girls Vol. 1 on Amazon →](https://www.amazon.com/s?k=Interviews+With+Monster+Girls+manga&i=stripbooks)
 
 ---
 

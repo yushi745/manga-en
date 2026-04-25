@@ -123,7 +123,7 @@ Yen Press published the complete 4-volume English series.
 
 ## Where to Buy
 
-[Get Megalo Box Vol. 1 on Amazon →](https://www.amazon.com/s?k=Megalo+Box+manga)
+[Get Megalo Box Vol. 1 on Amazon →](https://www.amazon.com/s?k=Megalo+Box+manga&i=stripbooks)
 
 ---
 

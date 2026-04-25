@@ -128,7 +128,7 @@ Viz Media published the complete 42-volume run. Multiple sequel series (Baki-Doh
 
 ## Where to Buy
 
-[Get Baki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Baki+the+Grappler+manga)
+[Get Baki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Baki+the+Grappler+manga&i=stripbooks)
 
 ---
 

@@ -123,7 +123,7 @@ VIZ Media is publishing the English edition. Ongoing; the Japanese run is comple
 
 ## Where to Buy
 
-[Get Ao Ashi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ao+Ashi+manga)
+[Get Ao Ashi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ao+Ashi+manga&i=stripbooks)
 
 ---
 

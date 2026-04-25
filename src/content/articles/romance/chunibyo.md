@@ -125,7 +125,7 @@ Yen Press published the complete 3-volume English series.
 
 ## Where to Buy
 
-[Get Chuunibyou Demo Koi ga Shitai! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chuunibyou+Demo+Koi+ga+Shitai%21+manga)
+[Get Chuunibyou Demo Koi ga Shitai! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chuunibyou+Demo+Koi+ga+Shitai%21+manga&i=stripbooks)
 
 ---
 

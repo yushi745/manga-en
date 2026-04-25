@@ -120,7 +120,7 @@ Seven Seas Entertainment published all 16 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get World's End Harem Vol. 1 on Amazon →](https://www.amazon.com/s?k=World%27s+End+Harem+manga)
+[Get World's End Harem Vol. 1 on Amazon →](https://www.amazon.com/s?k=World%27s+End+Harem+manga&i=stripbooks)
 
 ---
 

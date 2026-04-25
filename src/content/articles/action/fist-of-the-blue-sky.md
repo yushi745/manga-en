@@ -123,7 +123,7 @@ VIZ Media published the complete English series. All 22 volumes available.
 
 ## Where to Buy
 
-[Get Fist of the Blue Sky Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fist+of+the+Blue+Sky+manga)
+[Get Fist of the Blue Sky Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fist+of+the+Blue+Sky+manga&i=stripbooks)
 
 ---
 

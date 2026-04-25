@@ -125,7 +125,7 @@ Viz Media published the complete English series. All 10 volumes available.
 
 ## Where to Buy
 
-[Get The Water Dragon's Bride Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Water+Dragon%27s+Bride+manga)
+[Get The Water Dragon's Bride Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Water+Dragon%27s+Bride+manga&i=stripbooks)
 
 ---
 

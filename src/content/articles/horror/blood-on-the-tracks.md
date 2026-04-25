@@ -123,7 +123,7 @@ VIZ Media published all 17 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Blood on the Tracks Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blood+on+the+Tracks+manga)
+[Get Blood on the Tracks Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blood+on+the+Tracks+manga&i=stripbooks)
 
 ---
 

@@ -134,7 +134,7 @@ Yen Press is publishing the ongoing series in English. Currently 13 volumes avai
 
 ## Where to Buy
 
-[Get Monthly Girls' Nozaki-kun Vol. 1 on Amazon →](https://www.amazon.com/s?k=Monthly+Girls%27+Nozaki-kun+manga)
+[Get Monthly Girls' Nozaki-kun Vol. 1 on Amazon →](https://www.amazon.com/s?k=Monthly+Girls%27+Nozaki-kun+manga&i=stripbooks)
 
 ---
 

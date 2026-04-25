@@ -121,7 +121,7 @@ Fanfare/Ponent Mon published the complete English edition.
 
 ## Where to Buy
 
-[Get Disappearance Diary on Amazon →](https://www.amazon.com/s?k=Disappearance+Diary+manga)
+[Get Disappearance Diary on Amazon →](https://www.amazon.com/s?k=Disappearance+Diary+manga&i=stripbooks)
 
 ---
 

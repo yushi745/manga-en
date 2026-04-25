@@ -132,7 +132,7 @@ VIZ Media published the complete 42-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get The Prince of Tennis Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Prince+of+Tennis+manga)
+[Get The Prince of Tennis Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Prince+of+Tennis+manga&i=stripbooks)
 
 ---
 

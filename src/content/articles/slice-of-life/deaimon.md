@@ -125,7 +125,7 @@ Yen Press is actively publishing the ongoing English edition. Check for the late
 
 ## Where to Buy
 
-[Get Deaimon: Recipe for Happiness Vol. 1 on Amazon →](https://www.amazon.com/s?k=Deaimon%3A+Recipe+for+Happiness+manga)
+[Get Deaimon: Recipe for Happiness Vol. 1 on Amazon →](https://www.amazon.com/s?k=Deaimon%3A+Recipe+for+Happiness+manga&i=stripbooks)
 
 ---
 

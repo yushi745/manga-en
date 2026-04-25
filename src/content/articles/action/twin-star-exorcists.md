@@ -123,7 +123,7 @@ Viz Media published the complete 30-volume English edition. All volumes availabl
 
 ## Where to Buy
 
-[Get Twin Star Exorcists Vol. 1 on Amazon →](https://www.amazon.com/s?k=Twin+Star+Exorcists+manga)
+[Get Twin Star Exorcists Vol. 1 on Amazon →](https://www.amazon.com/s?k=Twin+Star+Exorcists+manga&i=stripbooks)
 
 ---
 

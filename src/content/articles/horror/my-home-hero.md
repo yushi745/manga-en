@@ -129,7 +129,7 @@ Kodansha Comics publishes the ongoing English series. 21+ volumes currently avai
 
 ## Where to Buy
 
-[Get My Home Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Home+Hero+manga)
+[Get My Home Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Home+Hero+manga&i=stripbooks)
 
 ---
 

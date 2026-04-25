@@ -130,7 +130,7 @@ Del Rey / Kodansha USA published the complete 28-volume series. All volumes avai
 
 ## Where to Buy
 
-[Get Tsubasa Reservoir Chronicle Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tsubasa+Reservoir+Chronicle+manga)
+[Get Tsubasa Reservoir Chronicle Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tsubasa+Reservoir+Chronicle+manga&i=stripbooks)
 
 ---
 

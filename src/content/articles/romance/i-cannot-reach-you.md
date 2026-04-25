@@ -125,7 +125,7 @@ Yen Press has published the complete English series. All 6 volumes available.
 
 ## Where to Buy
 
-[Get I Cannot Reach You Vol. 1 on Amazon →](https://www.amazon.com/s?k=I+Cannot+Reach+You+manga)
+[Get I Cannot Reach You Vol. 1 on Amazon →](https://www.amazon.com/s?k=I+Cannot+Reach+You+manga&i=stripbooks)
 
 ---
 

@@ -123,7 +123,7 @@ Square Enix Manga published the complete English series. All 9 volumes available
 
 ## Where to Buy
 
-[Get Sugar Apple Fairy Tale Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sugar+Apple+Fairy+Tale+manga)
+[Get Sugar Apple Fairy Tale Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sugar+Apple+Fairy+Tale+manga&i=stripbooks)
 
 ---
 

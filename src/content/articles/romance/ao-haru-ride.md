@@ -126,7 +126,7 @@ VIZ Media published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Ao Haru Ride Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ao+Haru+Ride+manga)
+[Get Ao Haru Ride Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ao+Haru+Ride+manga&i=stripbooks)
 
 ---
 

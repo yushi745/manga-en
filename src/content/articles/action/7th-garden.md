@@ -123,7 +123,7 @@ Viz Media published the complete English series. All 8 volumes available.
 
 ## Where to Buy
 
-[Get 7th Garden Vol. 1 on Amazon →](https://www.amazon.com/s?k=7th+Garden+manga)
+[Get 7th Garden Vol. 1 on Amazon →](https://www.amazon.com/s?k=7th+Garden+manga&i=stripbooks)
 
 ---
 

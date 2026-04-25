@@ -123,7 +123,7 @@ Yen Press published the complete 3-volume English series.
 
 ## Where to Buy
 
-[Get Your Name Vol. 1 on Amazon →](https://www.amazon.com/s?k=Your+Name+%28Kimi+no+Na+wa%29+manga)
+[Get Your Name Vol. 1 on Amazon →](https://www.amazon.com/s?k=Your+Name+%28Kimi+no+Na+wa%29+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Kodansha Comics published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get I'm Standing on a Million Lives Vol. 1 on Amazon →](https://www.amazon.com/s?k=I%27m+Standing+on+a+Million+Lives+manga)
+[Get I'm Standing on a Million Lives Vol. 1 on Amazon →](https://www.amazon.com/s?k=I%27m+Standing+on+a+Million+Lives+manga&i=stripbooks)
 
 ---
 

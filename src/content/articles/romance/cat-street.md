@@ -123,7 +123,7 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Cat Street Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cat+Street+manga)
+[Get Cat Street Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cat+Street+manga&i=stripbooks)
 
 ---
 

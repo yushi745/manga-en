@@ -125,7 +125,7 @@ Vertical published the complete English series. All 8 volumes available.
 
 ## Where to Buy
 
-[Get Wolfsmund Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wolfsmund+manga)
+[Get Wolfsmund Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wolfsmund+manga&i=stripbooks)
 
 ---
 

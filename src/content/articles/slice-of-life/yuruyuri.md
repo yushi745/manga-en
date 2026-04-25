@@ -125,7 +125,7 @@ Yen Press publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get YuruYuri Vol. 1 on Amazon →](https://www.amazon.com/s?k=YuruYuri+manga)
+[Get YuruYuri Vol. 1 on Amazon →](https://www.amazon.com/s?k=YuruYuri+manga&i=stripbooks)
 
 ---
 

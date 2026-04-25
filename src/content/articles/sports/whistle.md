@@ -126,7 +126,7 @@ VIZ Media published the complete 24-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Whistle! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Whistle%21+manga)
+[Get Whistle! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Whistle%21+manga&i=stripbooks)
 
 ---
 

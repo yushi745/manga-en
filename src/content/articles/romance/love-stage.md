@@ -125,7 +125,7 @@ SuBLime (Viz Media imprint) published the complete English series. All 7 volumes
 
 ## Where to Buy
 
-[Get Love Stage!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+Stage%21%21+manga)
+[Get Love Stage!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+Stage%21%21+manga&i=stripbooks)
 
 ---
 

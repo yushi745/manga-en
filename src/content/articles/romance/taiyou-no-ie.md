@@ -125,7 +125,7 @@ Kodansha Comics published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get House of the Sun Vol. 1 on Amazon →](https://www.amazon.com/s?k=House+of+the+Sun+%28Taiyou+no+Ie%29+manga)
+[Get House of the Sun Vol. 1 on Amazon →](https://www.amazon.com/s?k=House+of+the+Sun+%28Taiyou+no+Ie%29+manga&i=stripbooks)
 
 ---
 

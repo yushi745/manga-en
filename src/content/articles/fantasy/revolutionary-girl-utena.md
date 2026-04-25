@@ -123,7 +123,7 @@ VIZ Media published all 5 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Revolutionary Girl Utena Vol. 1 on Amazon →](https://www.amazon.com/s?k=Revolutionary+Girl+Utena+manga)
+[Get Revolutionary Girl Utena Vol. 1 on Amazon →](https://www.amazon.com/s?k=Revolutionary+Girl+Utena+manga&i=stripbooks)
 
 ---
 

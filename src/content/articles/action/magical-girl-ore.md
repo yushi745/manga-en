@@ -125,7 +125,7 @@ Seven Seas published the complete English series. All 5 volumes available.
 
 ## Where to Buy
 
-[Get Magical Girl Ore Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magical+Girl+Ore+manga)
+[Get Magical Girl Ore Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magical+Girl+Ore+manga&i=stripbooks)
 
 ---
 

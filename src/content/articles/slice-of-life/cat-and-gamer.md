@@ -121,7 +121,7 @@ Dark Horse published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Cat and Gamer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cat+and+Gamer+manga)
+[Get Cat and Gamer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cat+and+Gamer+manga&i=stripbooks)
 
 ---
 

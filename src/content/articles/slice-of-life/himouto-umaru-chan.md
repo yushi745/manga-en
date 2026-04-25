@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Himouto! Umaru-chan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Himouto%21+Umaru-chan+manga)
+[Get Himouto! Umaru-chan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Himouto%21+Umaru-chan+manga&i=stripbooks)
 
 ---
 

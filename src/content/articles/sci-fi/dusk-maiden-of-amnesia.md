@@ -123,7 +123,7 @@ Yen Press published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Dusk Maiden of Amnesia Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dusk+Maiden+of+Amnesia+manga)
+[Get Dusk Maiden of Amnesia Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dusk+Maiden+of+Amnesia+manga&i=stripbooks)
 
 ---
 

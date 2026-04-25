@@ -127,7 +127,7 @@ Viz Media published the complete 27-volume run digitally. Print volumes availabl
 
 ## Where to Buy
 
-[Get Kengan Ashura Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kengan+Ashura+manga)
+[Get Kengan Ashura Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kengan+Ashura+manga&i=stripbooks)
 
 ---
 

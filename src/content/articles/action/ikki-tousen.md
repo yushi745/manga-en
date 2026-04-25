@@ -121,7 +121,7 @@ Tokyopop published the English series through volume 15. Volumes available (may 
 
 ## Where to Buy
 
-[Get Ikki Tousen Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ikki+Tousen+manga)
+[Get Ikki Tousen Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ikki+Tousen+manga&i=stripbooks)
 
 ---
 

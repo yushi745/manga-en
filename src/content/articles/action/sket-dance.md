@@ -125,7 +125,7 @@ Viz Media published the complete 32-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get SKET Dance Vol. 1 on Amazon →](https://www.amazon.com/s?k=SKET+Dance+manga)
+[Get SKET Dance Vol. 1 on Amazon →](https://www.amazon.com/s?k=SKET+Dance+manga&i=stripbooks)
 
 ---
 

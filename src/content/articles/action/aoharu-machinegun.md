@@ -123,7 +123,7 @@ Yen Press published all 15 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Aoharu x Machinegun Vol. 1 on Amazon →](https://www.amazon.com/s?k=Aoharu+x+Machinegun+manga)
+[Get Aoharu x Machinegun Vol. 1 on Amazon →](https://www.amazon.com/s?k=Aoharu+x+Machinegun+manga&i=stripbooks)
 
 ---
 

@@ -127,7 +127,7 @@ Kodansha Comics is publishing the ongoing English release.
 
 ## Where to Buy
 
-[Get All Out!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=All+Out%21%21+manga)
+[Get All Out!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=All+Out%21%21+manga&i=stripbooks)
 
 ---
 

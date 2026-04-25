@@ -125,7 +125,7 @@ J-Novel Club publishes the ongoing English series. 8+ volumes currently availabl
 
 ## Where to Buy
 
-[Get Infinite Dendrogram Vol. 1 on Amazon →](https://www.amazon.com/s?k=Infinite+Dendrogram+manga)
+[Get Infinite Dendrogram Vol. 1 on Amazon →](https://www.amazon.com/s?k=Infinite+Dendrogram+manga&i=stripbooks)
 
 ---
 

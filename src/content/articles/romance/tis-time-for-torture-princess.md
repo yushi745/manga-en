@@ -125,7 +125,7 @@ Seven Seas Entertainment publishes the ongoing English series. 15+ volumes curre
 
 ## Where to Buy
 
-[Get 'Tis Time for "Torture," Princess Vol. 1 on Amazon →](https://www.amazon.com/s?k=%27Tis+Time+for+%27Torture%2C%27+Princess+manga)
+[Get 'Tis Time for "Torture," Princess Vol. 1 on Amazon →](https://www.amazon.com/s?k=%27Tis+Time+for+%27Torture%2C%27+Princess+manga&i=stripbooks)
 
 ---
 

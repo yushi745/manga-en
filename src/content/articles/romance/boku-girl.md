@@ -125,7 +125,7 @@ Seven Seas published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Boku Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Boku+Girl+manga)
+[Get Boku Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Boku+Girl+manga&i=stripbooks)
 
 ---
 

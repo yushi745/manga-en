@@ -125,7 +125,7 @@ Yen Press published the complete 3-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Angel Beats! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Angel+Beats%21+manga)
+[Get Angel Beats! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Angel+Beats%21+manga&i=stripbooks)
 
 ---
 

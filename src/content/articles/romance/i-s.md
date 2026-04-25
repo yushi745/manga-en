@@ -125,7 +125,7 @@ VIZ Media published the complete English series. All 15 volumes available.
 
 ## Where to Buy
 
-[Get I"s Vol. 1 on Amazon →](https://www.amazon.com/s?k=I%5C+manga)
+[Get I"s Vol. 1 on Amazon →](https://www.amazon.com/s?k=I%5C+manga&i=stripbooks)
 
 ---
 

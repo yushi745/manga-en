@@ -125,7 +125,7 @@ Yen Press is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get The Eminence in Shadow Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Eminence+in+Shadow+manga)
+[Get The Eminence in Shadow Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Eminence+in+Shadow+manga&i=stripbooks)
 
 ---
 

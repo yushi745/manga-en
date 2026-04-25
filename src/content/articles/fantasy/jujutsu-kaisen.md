@@ -210,8 +210,8 @@ The complete series is available in English now.
 
 ## Where to Buy
 
-- [📱 Jujutsu Kaisen Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Jujutsu+Kaisen+manga)
-- [📚 Jujutsu Kaisen Vol. 1 — Paperback](https://www.amazon.com/s?k=Jujutsu+Kaisen+manga)
+- [📱 Jujutsu Kaisen Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Jujutsu+Kaisen+manga&i=stripbooks)
+- [📚 Jujutsu Kaisen Vol. 1 — Paperback](https://www.amazon.com/s?k=Jujutsu+Kaisen+manga&i=stripbooks)
 
 ---
 

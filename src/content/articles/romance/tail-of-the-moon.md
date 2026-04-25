@@ -123,7 +123,7 @@ Viz Media published the complete 15-volume English series.
 
 ## Where to Buy
 
-[Get Tail of the Moon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tail+of+the+Moon+manga)
+[Get Tail of the Moon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tail+of+the+Moon+manga&i=stripbooks)
 
 ---
 

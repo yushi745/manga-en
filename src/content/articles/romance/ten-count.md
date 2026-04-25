@@ -123,7 +123,7 @@ SuBLime (Viz Media imprint) published the complete English series. All 6 volumes
 
 ## Where to Buy
 
-[Get Ten Count Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ten+Count+manga)
+[Get Ten Count Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ten+Count+manga&i=stripbooks)
 
 ---
 

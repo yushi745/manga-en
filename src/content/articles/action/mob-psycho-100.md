@@ -196,8 +196,8 @@ Start from Volume 1. The series is compact and complete at 16 volumes.
 
 ## Where to Buy
 
-- [📱 Mob Psycho 100 Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Mob+Psycho+100+manga)
-- [📚 Mob Psycho 100 Vol. 1 — Paperback](https://www.amazon.com/s?k=Mob+Psycho+100+manga)
+- [📱 Mob Psycho 100 Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Mob+Psycho+100+manga&i=stripbooks)
+- [📚 Mob Psycho 100 Vol. 1 — Paperback](https://www.amazon.com/s?k=Mob+Psycho+100+manga&i=stripbooks)
 
 ---
 

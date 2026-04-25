@@ -121,7 +121,7 @@ Viz Media published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Behind the Scenes!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Behind+the+Scenes%21%21+manga)
+[Get Behind the Scenes!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Behind+the+Scenes%21%21+manga&i=stripbooks)
 
 ---
 

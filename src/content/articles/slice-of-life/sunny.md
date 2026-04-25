@@ -125,7 +125,7 @@ Viz Media published the complete English series. All 6 volumes available.
 
 ## Where to Buy
 
-[Get Sunny Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sunny+manga)
+[Get Sunny Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sunny+manga&i=stripbooks)
 
 ---
 

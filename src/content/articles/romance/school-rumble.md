@@ -125,7 +125,7 @@ Del Rey Manga published the complete 22-volume run. All volumes available (check
 
 ## Where to Buy
 
-[Get School Rumble Vol. 1 on Amazon →](https://www.amazon.com/s?k=School+Rumble+manga)
+[Get School Rumble Vol. 1 on Amazon →](https://www.amazon.com/s?k=School+Rumble+manga&i=stripbooks)
 
 ---
 

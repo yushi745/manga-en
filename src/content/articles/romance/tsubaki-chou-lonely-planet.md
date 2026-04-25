@@ -123,7 +123,7 @@ Kodansha Comics has published the complete English series. All 9 volumes availab
 
 ## Where to Buy
 
-[Get Tsubaki-chou Lonely Planet Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tsubaki-chou+Lonely+Planet+manga)
+[Get Tsubaki-chou Lonely Planet Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tsubaki-chou+Lonely+Planet+manga&i=stripbooks)
 
 ---
 

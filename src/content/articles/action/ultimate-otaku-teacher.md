@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 17 volumes available.
 
 ## Where to Buy
 
-[Get Ultimate Otaku Teacher Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ultimate+Otaku+Teacher+manga)
+[Get Ultimate Otaku Teacher Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ultimate+Otaku+Teacher+manga&i=stripbooks)
 
 ---
 

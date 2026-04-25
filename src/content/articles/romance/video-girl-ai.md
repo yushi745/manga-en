@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 15 volumes available.
 
 ## Where to Buy
 
-[Get Video Girl Ai Vol. 1 on Amazon →](https://www.amazon.com/s?k=Video+Girl+Ai+manga)
+[Get Video Girl Ai Vol. 1 on Amazon →](https://www.amazon.com/s?k=Video+Girl+Ai+manga&i=stripbooks)
 
 ---
 

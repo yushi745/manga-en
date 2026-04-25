@@ -121,7 +121,7 @@ Seven Seas published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Girls und Panzer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Girls+und+Panzer+manga)
+[Get Girls und Panzer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Girls+und+Panzer+manga&i=stripbooks)
 
 ---
 

@@ -123,7 +123,7 @@ Vertical published the complete English series. All 4 volumes available.
 
 ## Where to Buy
 
-[Get 7 Billion Needles Vol. 1 on Amazon →](https://www.amazon.com/s?k=7+Billion+Needles+manga)
+[Get 7 Billion Needles Vol. 1 on Amazon →](https://www.amazon.com/s?k=7+Billion+Needles+manga&i=stripbooks)
 
 ---
 

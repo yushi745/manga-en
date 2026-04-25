@@ -130,7 +130,7 @@ Kodansha USA publishes the English editions. The current deluxe edition (larger 
 
 ## Where to Buy
 
-[Get Ghost in the Shell Deluxe Edition on Amazon →](https://www.amazon.com/s?k=Ghost+in+the+Shell+manga)
+[Get Ghost in the Shell Deluxe Edition on Amazon →](https://www.amazon.com/s?k=Ghost+in+the+Shell+manga&i=stripbooks)
 
 ---
 

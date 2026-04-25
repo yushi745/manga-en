@@ -123,7 +123,7 @@ Yen Press publishes the ongoing English series. 8+ volumes currently available.
 
 ## Where to Buy
 
-[Get Spirit Chronicles Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spirit+Chronicles+manga)
+[Get Spirit Chronicles Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spirit+Chronicles+manga&i=stripbooks)
 
 ---
 

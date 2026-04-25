@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Lucifer and the Biscuit Hammer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lucifer+and+the+Biscuit+Hammer+manga)
+[Get Lucifer and the Biscuit Hammer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lucifer+and+the+Biscuit+Hammer+manga&i=stripbooks)
 
 ---
 

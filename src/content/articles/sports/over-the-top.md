@@ -123,7 +123,7 @@ Kodansha Comics published all 3 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Over the Top Vol. 1 on Amazon →](https://www.amazon.com/s?k=Over+the+Top+manga)
+[Get Over the Top Vol. 1 on Amazon →](https://www.amazon.com/s?k=Over+the+Top+manga&i=stripbooks)
 
 ---
 

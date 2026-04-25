@@ -123,7 +123,7 @@ VIZ Media published all 4 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get One Pound Gospel Vol. 1 on Amazon →](https://www.amazon.com/s?k=One+Pound+Gospel+manga)
+[Get One Pound Gospel Vol. 1 on Amazon →](https://www.amazon.com/s?k=One+Pound+Gospel+manga&i=stripbooks)
 
 ---
 

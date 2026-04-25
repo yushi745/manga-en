@@ -123,7 +123,7 @@ Seven Seas Entertainment published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Time Stop Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=Time+Stop+Hero+manga)
+[Get Time Stop Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=Time+Stop+Hero+manga&i=stripbooks)
 
 ---
 

@@ -127,7 +127,7 @@ VIZ Media published the complete 17-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Ultraman Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ultraman+manga)
+[Get Ultraman Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ultraman+manga&i=stripbooks)
 
 ---
 

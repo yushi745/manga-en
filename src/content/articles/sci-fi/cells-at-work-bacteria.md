@@ -123,7 +123,7 @@ Kodansha Comics published the complete 4-volume English series.
 
 ## Where to Buy
 
-[Get Cells at Work! Bacteria Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cells+at+Work%21+Bacteria+manga)
+[Get Cells at Work! Bacteria Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cells+at+Work%21+Bacteria+manga&i=stripbooks)
 
 ---
 

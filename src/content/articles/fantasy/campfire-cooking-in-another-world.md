@@ -121,7 +121,7 @@ Seven Seas publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get Campfire Cooking in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Campfire+Cooking+in+Another+World+with+My+Absurd+Skill+manga)
+[Get Campfire Cooking in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Campfire+Cooking+in+Another+World+with+My+Absurd+Skill+manga&i=stripbooks)
 
 ---
 

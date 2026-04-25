@@ -127,7 +127,7 @@ VIZ Media has published the complete English series. All 14 volumes available.
 
 ## Where to Buy
 
-[Get Sacrificial Princess and the King of Beasts Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sacrificial+Princess+and+the+King+of+Beasts+manga)
+[Get Sacrificial Princess and the King of Beasts Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sacrificial+Princess+and+the+King+of+Beasts+manga&i=stripbooks)
 
 ---
 

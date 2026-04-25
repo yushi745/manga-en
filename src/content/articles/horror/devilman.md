@@ -128,7 +128,7 @@ Seven Seas Entertainment published "Devilman: The Classic Collection" (2 omnibus
 
 ## Where to Buy
 
-[Get Devilman: The Classic Collection Vol. 1 on Amazon →](https://www.amazon.com/s?k=Devilman+manga)
+[Get Devilman: The Classic Collection Vol. 1 on Amazon →](https://www.amazon.com/s?k=Devilman+manga&i=stripbooks)
 
 ---
 

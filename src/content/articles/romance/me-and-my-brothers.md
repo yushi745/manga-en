@@ -123,7 +123,7 @@ Tokyopop published the complete English series. All 9 volumes available (may req
 
 ## Where to Buy
 
-[Get Me and My Brothers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Me+and+My+Brothers+manga)
+[Get Me and My Brothers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Me+and+My+Brothers+manga&i=stripbooks)
 
 ---
 

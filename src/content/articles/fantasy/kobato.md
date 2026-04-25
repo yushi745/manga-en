@@ -123,7 +123,7 @@ Yen Press published the complete 6-volume English series.
 
 ## Where to Buy
 
-[Get Kobato. Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kobato.+manga)
+[Get Kobato. Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kobato.+manga&i=stripbooks)
 
 ---
 

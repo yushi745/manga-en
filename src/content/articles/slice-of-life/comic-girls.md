@@ -125,7 +125,7 @@ Seven Seas has published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Comic Girls Vol. 1 on Amazon →](https://www.amazon.com/s?k=Comic+Girls+manga)
+[Get Comic Girls Vol. 1 on Amazon →](https://www.amazon.com/s?k=Comic+Girls+manga&i=stripbooks)
 
 ---
 

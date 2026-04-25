@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 17 volumes available.
 
 ## Where to Buy
 
-[Get Blood Lad Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blood+Lad+manga)
+[Get Blood Lad Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blood+Lad+manga&i=stripbooks)
 
 ---
 

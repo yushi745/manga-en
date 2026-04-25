@@ -127,7 +127,7 @@ Viz Media published 14 volumes — the complete English release before the serie
 
 ## Where to Buy
 
-[Get Beet the Vandel Buster Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beet+the+Vandel+Buster+manga)
+[Get Beet the Vandel Buster Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beet+the+Vandel+Buster+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 10 volumes available in pri
 
 ## Where to Buy
 
-[Get Oresuki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Oresuki%3A+Are+You+the+Only+One+Who+Loves+Me%3F+manga)
+[Get Oresuki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Oresuki%3A+Are+You+the+Only+One+Who+Loves+Me%3F+manga&i=stripbooks)
 
 ---
 

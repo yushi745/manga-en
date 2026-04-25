@@ -127,7 +127,7 @@ Yen Press publishes the ongoing series. 9+ volumes currently available in Englis
 
 ## Where to Buy
 
-[Get Banished from the Hero's Party Vol. 1 on Amazon →](https://www.amazon.com/s?k=Banished+from+the+Hero%27s+Party%2C+I+Decided+to+Live+a+Quiet+Life+in+the+Countryside+manga)
+[Get Banished from the Hero's Party Vol. 1 on Amazon →](https://www.amazon.com/s?k=Banished+from+the+Hero%27s+Party%2C+I+Decided+to+Live+a+Quiet+Life+in+the+Countryside+manga&i=stripbooks)
 
 ---
 

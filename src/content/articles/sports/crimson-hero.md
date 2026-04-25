@@ -125,7 +125,7 @@ Viz Media published the complete 17-volume run in their Shojo Beat imprint. All 
 
 ## Where to Buy
 
-[Get Crimson Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=Crimson+Hero+manga)
+[Get Crimson Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=Crimson+Hero+manga&i=stripbooks)
 
 ---
 

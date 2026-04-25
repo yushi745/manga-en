@@ -125,7 +125,7 @@ Yen Press publishes the ongoing English series. 5+ volumes currently available.
 
 ## Where to Buy
 
-[Get The Magical Revolution Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Magical+Revolution+of+the+Reincarnated+Princess+and+the+Genius+Young+Lady+manga)
+[Get The Magical Revolution Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Magical+Revolution+of+the+Reincarnated+Princess+and+the+Genius+Young+Lady+manga&i=stripbooks)
 
 ---
 

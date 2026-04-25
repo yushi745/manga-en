@@ -127,7 +127,7 @@ Tokyopop published the complete English series. All 8 volumes available (may req
 
 ## Where to Buy
 
-[Get Pita-Ten Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pita-Ten+manga)
+[Get Pita-Ten Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pita-Ten+manga&i=stripbooks)
 
 ---
 

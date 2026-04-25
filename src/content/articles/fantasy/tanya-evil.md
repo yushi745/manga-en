@@ -124,7 +124,7 @@ Yen Press is publishing the ongoing manga series. Currently 20 volumes available
 
 ## Where to Buy
 
-[Get The Saga of Tanya the Evil Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Saga+of+Tanya+the+Evil+manga)
+[Get The Saga of Tanya the Evil Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Saga+of+Tanya+the+Evil+manga&i=stripbooks)
 
 ---
 

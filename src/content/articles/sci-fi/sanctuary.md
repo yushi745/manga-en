@@ -127,7 +127,7 @@ VIZ Media published all 9 volumes. Complete; older publication, available in sec
 
 ## Where to Buy
 
-[Get Sanctuary Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sanctuary+manga)
+[Get Sanctuary Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sanctuary+manga&i=stripbooks)
 
 ---
 

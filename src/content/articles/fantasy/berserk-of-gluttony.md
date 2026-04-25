@@ -123,7 +123,7 @@ Seven Seas Entertainment publishes the English edition. Ongoing; check current v
 
 ## Where to Buy
 
-[Get Berserk of Gluttony Vol. 1 on Amazon →](https://www.amazon.com/s?k=Berserk+of+Gluttony+manga)
+[Get Berserk of Gluttony Vol. 1 on Amazon →](https://www.amazon.com/s?k=Berserk+of+Gluttony+manga&i=stripbooks)
 
 ---
 

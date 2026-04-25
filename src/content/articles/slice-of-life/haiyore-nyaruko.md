@@ -123,7 +123,7 @@ Seven Seas published the complete 6-volume English series.
 
 ## Where to Buy
 
-[Get Nyaruko: Crawling With Love Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nyaruko%3A+Crawling+With+Love+manga)
+[Get Nyaruko: Crawling With Love Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nyaruko%3A+Crawling+With+Love+manga&i=stripbooks)
 
 ---
 

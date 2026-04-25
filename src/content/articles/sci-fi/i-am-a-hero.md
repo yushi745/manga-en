@@ -126,7 +126,7 @@ Dark Horse Comics published the complete 22-volume series. All volumes available
 
 ## Where to Buy
 
-[Get I Am a Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=I+Am+a+Hero+manga)
+[Get I Am a Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=I+Am+a+Hero+manga&i=stripbooks)
 
 ---
 

@@ -127,7 +127,7 @@ Kodansha published the complete English series. All 17 volumes available.
 
 ## Where to Buy
 
-[Get Shikimori's Not Just a Cutie Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shikimori%27s+Not+Just+a+Cutie+manga)
+[Get Shikimori's Not Just a Cutie Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shikimori%27s+Not+Just+a+Cutie+manga&i=stripbooks)
 
 ---
 

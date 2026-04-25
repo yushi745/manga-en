@@ -127,7 +127,7 @@ VIZ Media is publishing the ongoing series. 12 volumes available.
 
 ## Where to Buy
 
-[Get Kaiju No. 8 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kaiju+No.+8+manga)
+[Get Kaiju No. 8 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kaiju+No.+8+manga&i=stripbooks)
 
 ---
 

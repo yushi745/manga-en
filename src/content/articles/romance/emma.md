@@ -128,7 +128,7 @@ Yen Press published the complete 10-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Emma Vol. 1 on Amazon →](https://www.amazon.com/s?k=Emma+manga)
+[Get Emma Vol. 1 on Amazon →](https://www.amazon.com/s?k=Emma+manga&i=stripbooks)
 
 ---
 

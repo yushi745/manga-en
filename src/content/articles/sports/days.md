@@ -121,7 +121,7 @@ Kodansha Comics published all 32 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Days Vol. 1 on Amazon →](https://www.amazon.com/s?k=Days+manga)
+[Get Days Vol. 1 on Amazon →](https://www.amazon.com/s?k=Days+manga&i=stripbooks)
 
 ---
 

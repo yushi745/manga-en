@@ -119,7 +119,7 @@ Fantagraphics published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get Nijigahara Holograph on Amazon →](https://www.amazon.com/s?k=Nijigahara+Holograph+manga)
+[Get Nijigahara Holograph on Amazon →](https://www.amazon.com/s?k=Nijigahara+Holograph+manga&i=stripbooks)
 
 ---
 

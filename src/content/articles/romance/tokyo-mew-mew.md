@@ -125,7 +125,7 @@ Kodansha USA has published the complete English series. All 7 volumes available 
 
 ## Where to Buy
 
-[Get Tokyo Mew Mew Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tokyo+Mew+Mew+manga)
+[Get Tokyo Mew Mew Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tokyo+Mew+Mew+manga&i=stripbooks)
 
 ---
 

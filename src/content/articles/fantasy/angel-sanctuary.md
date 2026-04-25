@@ -127,7 +127,7 @@ VIZ Media has published the complete English series. All 20 volumes available.
 
 ## Where to Buy
 
-[Get Angel Sanctuary Vol. 1 on Amazon →](https://www.amazon.com/s?k=Angel+Sanctuary+manga)
+[Get Angel Sanctuary Vol. 1 on Amazon →](https://www.amazon.com/s?k=Angel+Sanctuary+manga&i=stripbooks)
 
 ---
 

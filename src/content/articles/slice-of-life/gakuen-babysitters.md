@@ -129,7 +129,7 @@ Yen Press publishes the complete English series. All 18 volumes available in pri
 
 ## Where to Buy
 
-[Get Gakuen Babysitters Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gakuen+Babysitters+manga)
+[Get Gakuen Babysitters Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gakuen+Babysitters+manga&i=stripbooks)
 
 ---
 

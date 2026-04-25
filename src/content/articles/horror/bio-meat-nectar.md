@@ -127,7 +127,7 @@ VIZ Media published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Bio-Meat: Nectar Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bio-Meat%3A+Nectar+manga)
+[Get Bio-Meat: Nectar Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bio-Meat%3A+Nectar+manga&i=stripbooks)
 
 ---
 

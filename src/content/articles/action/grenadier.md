@@ -123,7 +123,7 @@ ADV Manga published the complete English series. All 8 volumes available (may re
 
 ## Where to Buy
 
-[Get Grenadier Vol. 1 on Amazon →](https://www.amazon.com/s?k=Grenadier%3A+The+Beautiful+Warrior+manga)
+[Get Grenadier Vol. 1 on Amazon →](https://www.amazon.com/s?k=Grenadier%3A+The+Beautiful+Warrior+manga&i=stripbooks)
 
 ---
 

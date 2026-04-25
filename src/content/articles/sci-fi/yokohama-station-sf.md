@@ -124,7 +124,7 @@ Yen Press published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get Yokohama Station SF Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yokohama+Station+SF+manga)
+[Get Yokohama Station SF Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yokohama+Station+SF+manga&i=stripbooks)
 
 ---
 

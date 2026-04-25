@@ -125,7 +125,7 @@ Yen Press published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Beautiful Bones: Sakurako's Investigation Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beautiful+Bones%3A+Sakurako%27s+Investigation+manga)
+[Get Beautiful Bones: Sakurako's Investigation Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beautiful+Bones%3A+Sakurako%27s+Investigation+manga&i=stripbooks)
 
 ---
 

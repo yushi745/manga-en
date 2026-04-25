@@ -125,7 +125,7 @@ Viz Media published the complete English series. All 17 volumes available.
 
 ## Where to Buy
 
-[Get La Corda d'Oro Vol. 1 on Amazon →](https://www.amazon.com/s?k=La+Corda+d%27Oro+manga)
+[Get La Corda d'Oro Vol. 1 on Amazon →](https://www.amazon.com/s?k=La+Corda+d%27Oro+manga&i=stripbooks)
 
 ---
 

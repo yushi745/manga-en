@@ -123,7 +123,7 @@ Yen Press published the complete 6-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Thermae Romae Vol. 1 on Amazon →](https://www.amazon.com/s?k=Thermae+Romae+manga)
+[Get Thermae Romae Vol. 1 on Amazon →](https://www.amazon.com/s?k=Thermae+Romae+manga&i=stripbooks)
 
 ---
 

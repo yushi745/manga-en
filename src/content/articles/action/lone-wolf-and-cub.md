@@ -127,7 +127,7 @@ Dark Horse published the complete English series. All 28 volumes available.
 
 ## Where to Buy
 
-[Get Lone Wolf and Cub Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lone+Wolf+and+Cub+manga)
+[Get Lone Wolf and Cub Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lone+Wolf+and+Cub+manga&i=stripbooks)
 
 ---
 

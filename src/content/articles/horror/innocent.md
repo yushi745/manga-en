@@ -123,7 +123,7 @@ VIZ Media published all 7 volumes. Complete and available. Innocent Rouge (the s
 
 ## Where to Buy
 
-[Get Innocent Vol. 1 on Amazon →](https://www.amazon.com/s?k=Innocent+manga)
+[Get Innocent Vol. 1 on Amazon →](https://www.amazon.com/s?k=Innocent+manga&i=stripbooks)
 
 ---
 

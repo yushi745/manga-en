@@ -122,7 +122,7 @@ Dark Horse published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get MPD Psycho Vol. 1 on Amazon →](https://www.amazon.com/s?k=MPD+Psycho+manga)
+[Get MPD Psycho Vol. 1 on Amazon →](https://www.amazon.com/s?k=MPD+Psycho+manga&i=stripbooks)
 
 ---
 

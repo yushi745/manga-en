@@ -124,7 +124,7 @@ Originally translated by Crunchyroll Manga. All 6 volumes available in English.
 
 ## Where to Buy
 
-[Get Daily Lives of High School Boys Vol. 1 on Amazon →](https://www.amazon.com/s?k=Daily+Lives+of+High+School+Boys+manga)
+[Get Daily Lives of High School Boys Vol. 1 on Amazon →](https://www.amazon.com/s?k=Daily+Lives+of+High+School+Boys+manga&i=stripbooks)
 
 ---
 

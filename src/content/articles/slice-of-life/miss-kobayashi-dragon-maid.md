@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Miss Kobayashi's Dragon Maid Vol. 1 on Amazon →](https://www.amazon.com/s?k=Miss+Kobayashi%27s+Dragon+Maid+manga)
+[Get Miss Kobayashi's Dragon Maid Vol. 1 on Amazon →](https://www.amazon.com/s?k=Miss+Kobayashi%27s+Dragon+Maid+manga&i=stripbooks)
 
 ---
 

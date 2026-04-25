@@ -125,7 +125,7 @@ Kodansha Comics publishes the ongoing series. 15+ volumes currently available in
 
 ## Where to Buy
 
-[Get Fairy Tail: 100 Years Quest Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fairy+Tail%3A+100+Years+Quest+manga)
+[Get Fairy Tail: 100 Years Quest Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fairy+Tail%3A+100+Years+Quest+manga&i=stripbooks)
 
 ---
 

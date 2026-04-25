@@ -125,7 +125,7 @@ VIZ Media publishes the ongoing series. 14+ volumes currently available in Engli
 
 ## Where to Buy
 
-[Get Sakamoto Days Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sakamoto+Days+manga)
+[Get Sakamoto Days Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sakamoto+Days+manga&i=stripbooks)
 
 ---
 

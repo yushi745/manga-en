@@ -125,7 +125,7 @@ Vertical published the complete 11-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Flowers of Evil Vol. 1 on Amazon →](https://www.amazon.com/s?k=Flowers+of+Evil+manga)
+[Get Flowers of Evil Vol. 1 on Amazon →](https://www.amazon.com/s?k=Flowers+of+Evil+manga&i=stripbooks)
 
 ---
 

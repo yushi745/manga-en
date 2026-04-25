@@ -125,7 +125,7 @@ VIZ Media published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Beyblade Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beyblade+manga)
+[Get Beyblade Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beyblade+manga&i=stripbooks)
 
 ---
 

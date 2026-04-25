@@ -125,7 +125,7 @@ Seven Seas Entertainment is publishing the ongoing English series. 9 volumes ava
 
 ## Where to Buy
 
-[Get Ms. Koizumi Loves Ramen Noodles Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ms.+Koizumi+Loves+Ramen+Noodles+manga)
+[Get Ms. Koizumi Loves Ramen Noodles Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ms.+Koizumi+Loves+Ramen+Noodles+manga&i=stripbooks)
 
 ---
 

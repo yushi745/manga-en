@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 18 volumes available.
 
 ## Where to Buy
 
-[Get Dr. Slump Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dr.+Slump+manga)
+[Get Dr. Slump Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dr.+Slump+manga&i=stripbooks)
 
 ---
 

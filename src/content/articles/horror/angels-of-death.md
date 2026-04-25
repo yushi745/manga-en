@@ -123,7 +123,7 @@ Yen Press published the complete English series. All 8 volumes available.
 
 ## Where to Buy
 
-[Get Angels of Death Vol. 1 on Amazon →](https://www.amazon.com/s?k=Angels+of+Death+manga)
+[Get Angels of Death Vol. 1 on Amazon →](https://www.amazon.com/s?k=Angels+of+Death+manga&i=stripbooks)
 
 ---
 

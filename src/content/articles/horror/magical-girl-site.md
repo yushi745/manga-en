@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 16-volume series. All volumes av
 
 ## Where to Buy
 
-[Get Magical Girl Site Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magical+Girl+Site+manga)
+[Get Magical Girl Site Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magical+Girl+Site+manga&i=stripbooks)
 
 ---
 

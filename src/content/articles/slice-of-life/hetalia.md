@@ -123,7 +123,7 @@ Right Stuf and later Yen Press published the complete 6-volume English series.
 
 ## Where to Buy
 
-[Get Hetalia: Axis Powers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hetalia%3A+Axis+Powers+manga)
+[Get Hetalia: Axis Powers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hetalia%3A+Axis+Powers+manga&i=stripbooks)
 
 ---
 

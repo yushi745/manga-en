@@ -121,7 +121,7 @@ Seven Seas published all 25 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get How NOT to Summon a Demon Lord Vol. 1 on Amazon →](https://www.amazon.com/s?k=How+NOT+to+Summon+a+Demon+Lord+manga)
+[Get How NOT to Summon a Demon Lord Vol. 1 on Amazon →](https://www.amazon.com/s?k=How+NOT+to+Summon+a+Demon+Lord+manga&i=stripbooks)
 
 ---
 

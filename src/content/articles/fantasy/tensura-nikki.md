@@ -123,7 +123,7 @@ Yen Press has published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Slime Diaries Vol. 1 on Amazon →](https://www.amazon.com/s?k=That+Time+I+Got+Reincarnated+as+a+Slime%3A+Slime+Diaries+manga)
+[Get Slime Diaries Vol. 1 on Amazon →](https://www.amazon.com/s?k=That+Time+I+Got+Reincarnated+as+a+Slime%3A+Slime+Diaries+manga&i=stripbooks)
 
 ---
 

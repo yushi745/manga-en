@@ -125,7 +125,7 @@ Yen Press publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get March Comes in Like a Lion Vol. 1 on Amazon →](https://www.amazon.com/s?k=March+Comes+in+Like+a+Lion+manga)
+[Get March Comes in Like a Lion Vol. 1 on Amazon →](https://www.amazon.com/s?k=March+Comes+in+Like+a+Lion+manga&i=stripbooks)
 
 ---
 

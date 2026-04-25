@@ -125,7 +125,7 @@ Dark Horse Comics published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Vampire Hunter D Vol. 1 on Amazon →](https://www.amazon.com/s?k=Vampire+Hunter+D+manga)
+[Get Vampire Hunter D Vol. 1 on Amazon →](https://www.amazon.com/s?k=Vampire+Hunter+D+manga&i=stripbooks)
 
 ---
 

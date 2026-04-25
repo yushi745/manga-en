@@ -122,7 +122,7 @@ VIZ Media published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Strobe Edge Vol. 1 on Amazon →](https://www.amazon.com/s?k=Strobe+Edge+manga)
+[Get Strobe Edge Vol. 1 on Amazon →](https://www.amazon.com/s?k=Strobe+Edge+manga&i=stripbooks)
 
 ---
 

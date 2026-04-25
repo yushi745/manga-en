@@ -138,7 +138,7 @@ Yen Press publishes the ongoing English edition. Currently 15 volumes available.
 
 ## Where to Buy
 
-[Get Yotsuba&! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yotsuba%26%21+manga)
+[Get Yotsuba&! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yotsuba%26%21+manga&i=stripbooks)
 
 ---
 

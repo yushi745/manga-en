@@ -129,7 +129,7 @@ VIZ Media published the complete English series in omnibus format (2-in-1 volume
 
 ## Where to Buy
 
-[Get My Bride is a Mermaid Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Bride+is+a+Mermaid+manga)
+[Get My Bride is a Mermaid Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Bride+is+a+Mermaid+manga&i=stripbooks)
 
 ---
 

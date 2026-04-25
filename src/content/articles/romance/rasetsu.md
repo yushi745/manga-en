@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Rasetsu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rasetsu+manga)
+[Get Rasetsu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rasetsu+manga&i=stripbooks)
 
 ---
 

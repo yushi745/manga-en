@@ -123,7 +123,7 @@ Seven Seas Entertainment publishes the ongoing series. 12+ volumes currently ava
 
 ## Where to Buy
 
-[Get The 100 Girlfriends Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+Really+Love+You+manga)
+[Get The 100 Girlfriends Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+100+Girlfriends+Who+Really%2C+Really%2C+Really%2C+Really%2C+Really+Love+You+manga&i=stripbooks)
 
 ---
 

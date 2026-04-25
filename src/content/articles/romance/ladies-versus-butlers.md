@@ -127,7 +127,7 @@ Seven Seas published the complete English series. All 12 volumes available.
 
 ## Where to Buy
 
-[Get Ladies versus Butlers! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ladies+versus+Butlers%21+manga)
+[Get Ladies versus Butlers! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ladies+versus+Butlers%21+manga&i=stripbooks)
 
 ---
 

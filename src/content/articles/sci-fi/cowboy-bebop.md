@@ -121,7 +121,7 @@ Dark Horse published all 3 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Cowboy Bebop Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cowboy+Bebop+manga)
+[Get Cowboy Bebop Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cowboy+Bebop+manga&i=stripbooks)
 
 ---
 

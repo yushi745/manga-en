@@ -123,7 +123,7 @@ VIZ Media published this single volume. Complete and available.
 
 ## Where to Buy
 
-[Get Dissolving Classroom on Amazon →](https://www.amazon.com/s?k=Dissolving+Classroom+manga)
+[Get Dissolving Classroom on Amazon →](https://www.amazon.com/s?k=Dissolving+Classroom+manga&i=stripbooks)
 
 ---
 

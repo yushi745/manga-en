@@ -127,7 +127,7 @@ Drawn & Quarterly is actively publishing the ongoing English edition. Check for 
 
 ## Where to Buy
 
-[Get Kageki Shojo!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kageki+Shojo%21%21+manga)
+[Get Kageki Shojo!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kageki+Shojo%21%21+manga&i=stripbooks)
 
 ---
 

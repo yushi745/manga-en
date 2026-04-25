@@ -123,7 +123,7 @@ Seven Seas published the complete English volume. 1 volume available.
 
 ## Where to Buy
 
-[Get My Lesbian Experience with Loneliness on Amazon →](https://www.amazon.com/s?k=My+Lesbian+Experience+with+Loneliness+manga)
+[Get My Lesbian Experience with Loneliness on Amazon →](https://www.amazon.com/s?k=My+Lesbian+Experience+with+Loneliness+manga&i=stripbooks)
 
 ---
 

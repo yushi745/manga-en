@@ -127,7 +127,7 @@ VIZ Media published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Alice in Murderland Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alice+in+Murderland+manga)
+[Get Alice in Murderland Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alice+in+Murderland+manga&i=stripbooks)
 
 ---
 

@@ -121,7 +121,7 @@ Seven Seas published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Arte Vol. 1 on Amazon →](https://www.amazon.com/s?k=Arte+manga)
+[Get Arte Vol. 1 on Amazon →](https://www.amazon.com/s?k=Arte+manga&i=stripbooks)
 
 ---
 

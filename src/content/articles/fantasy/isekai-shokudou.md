@@ -123,7 +123,7 @@ Seven Seas published the complete 7-volume English series.
 
 ## Where to Buy
 
-[Get Restaurant to Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Restaurant+to+Another+World+manga)
+[Get Restaurant to Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Restaurant+to+Another+World+manga&i=stripbooks)
 
 ---
 

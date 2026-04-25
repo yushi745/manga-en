@@ -127,7 +127,7 @@ Kodansha Comics published the complete 9-volume manga. All volumes available.
 
 ## Where to Buy
 
-[Get No. 6 Vol. 1 on Amazon →](https://www.amazon.com/s?k=No.+6+manga)
+[Get No. 6 Vol. 1 on Amazon →](https://www.amazon.com/s?k=No.+6+manga&i=stripbooks)
 
 ---
 

@@ -127,7 +127,7 @@ Yen Press has published the complete English series. All 11 volumes available.
 
 ## Where to Buy
 
-[Get Acchi Kocchi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Acchi+Kocchi+manga)
+[Get Acchi Kocchi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Acchi+Kocchi+manga&i=stripbooks)
 
 ---
 

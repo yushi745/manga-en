@@ -129,7 +129,7 @@ VIZ Media published the complete 33-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Flame of Recca Vol. 1 on Amazon →](https://www.amazon.com/s?k=Flame+of+Recca+manga)
+[Get Flame of Recca Vol. 1 on Amazon →](https://www.amazon.com/s?k=Flame+of+Recca+manga&i=stripbooks)
 
 ---
 

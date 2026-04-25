@@ -124,7 +124,7 @@ Viz Media published the complete 6-volume English series.
 
 ## Where to Buy
 
-[Get Wild Adapter Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wild+Adapter+manga)
+[Get Wild Adapter Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wild+Adapter+manga&i=stripbooks)
 
 ---
 

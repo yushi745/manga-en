@@ -125,7 +125,7 @@ Kodansha Comics is publishing the ongoing English series. 16 volumes available.
 
 ## Where to Buy
 
-[Get Cardcaptor Sakura: Clear Card Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cardcaptor+Sakura%3A+Clear+Card+manga)
+[Get Cardcaptor Sakura: Clear Card Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cardcaptor+Sakura%3A+Clear+Card+manga&i=stripbooks)
 
 ---
 

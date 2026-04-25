@@ -125,7 +125,7 @@ Vertical (Kodansha) publishes the ongoing English series. 16+ volumes currently 
 
 ## Where to Buy
 
-[Get Witch Craft Works Vol. 1 on Amazon →](https://www.amazon.com/s?k=Witch+Craft+Works+manga)
+[Get Witch Craft Works Vol. 1 on Amazon →](https://www.amazon.com/s?k=Witch+Craft+Works+manga&i=stripbooks)
 
 ---
 

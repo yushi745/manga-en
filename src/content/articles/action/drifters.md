@@ -126,7 +126,7 @@ Dark Horse Comics is publishing the English edition as volumes are released in J
 
 ## Where to Buy
 
-[Get Drifters Vol. 1 on Amazon →](https://www.amazon.com/s?k=Drifters+manga)
+[Get Drifters Vol. 1 on Amazon →](https://www.amazon.com/s?k=Drifters+manga&i=stripbooks)
 
 ---
 

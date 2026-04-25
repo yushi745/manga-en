@@ -125,7 +125,7 @@ Kodansha Comics published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Origin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Origin+manga)
+[Get Origin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Origin+manga&i=stripbooks)
 
 ---
 

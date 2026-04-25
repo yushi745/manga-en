@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 11 volumes available.
 
 ## Where to Buy
 
-[Get Descendants of Darkness Vol. 1 on Amazon →](https://www.amazon.com/s?k=Descendants+of+Darkness+manga)
+[Get Descendants of Darkness Vol. 1 on Amazon →](https://www.amazon.com/s?k=Descendants+of+Darkness+manga&i=stripbooks)
 
 ---
 

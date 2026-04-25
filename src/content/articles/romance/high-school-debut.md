@@ -122,7 +122,7 @@ VIZ Media published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get High School Debut Vol. 1 on Amazon →](https://www.amazon.com/s?k=High+School+Debut+manga)
+[Get High School Debut Vol. 1 on Amazon →](https://www.amazon.com/s?k=High+School+Debut+manga&i=stripbooks)
 
 ---
 

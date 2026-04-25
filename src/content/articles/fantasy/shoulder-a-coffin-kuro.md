@@ -127,7 +127,7 @@ Yen Press has published the complete English series. All 6 volumes available.
 
 ## Where to Buy
 
-[Get Shoulder-a-Coffin Kuro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shoulder-a-Coffin+Kuro+manga)
+[Get Shoulder-a-Coffin Kuro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shoulder-a-Coffin+Kuro+manga&i=stripbooks)
 
 ---
 

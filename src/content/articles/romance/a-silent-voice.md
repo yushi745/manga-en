@@ -130,7 +130,7 @@ Kodansha USA published the complete 7-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get A Silent Voice Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Silent+Voice+manga)
+[Get A Silent Voice Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Silent+Voice+manga&i=stripbooks)
 
 ---
 

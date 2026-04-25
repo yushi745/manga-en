@@ -125,7 +125,7 @@ Kodansha Comics published the complete 12-volume English series.
 
 ## Where to Buy
 
-[Get Kakushigoto Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kakushigoto+manga)
+[Get Kakushigoto Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kakushigoto+manga&i=stripbooks)
 
 ---
 

@@ -123,7 +123,7 @@ Yen Press published the complete 10-volume English series.
 
 ## Where to Buy
 
-[Get Sansha Sanyou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sansha+Sanyou+manga)
+[Get Sansha Sanyou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sansha+Sanyou+manga&i=stripbooks)
 
 ---
 

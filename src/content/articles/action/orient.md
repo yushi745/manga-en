@@ -125,7 +125,7 @@ Kodansha Comics publishes the ongoing series. 17+ volumes currently available in
 
 ## Where to Buy
 
-[Get Orient Vol. 1 on Amazon →](https://www.amazon.com/s?k=Orient+manga)
+[Get Orient Vol. 1 on Amazon →](https://www.amazon.com/s?k=Orient+manga&i=stripbooks)
 
 ---
 

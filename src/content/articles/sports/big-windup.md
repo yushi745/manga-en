@@ -122,7 +122,7 @@ Del Rey published the first 11 volumes; Kodansha USA continued from volume 12. C
 
 ## Where to Buy
 
-[Get Big Windup! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Big+Windup%21+manga)
+[Get Big Windup! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Big+Windup%21+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Viz Media published the complete 9-volume English series.
 
 ## Where to Buy
 
-[Get Jiu Jiu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Jiu+Jiu+manga)
+[Get Jiu Jiu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Jiu+Jiu+manga&i=stripbooks)
 
 ---
 

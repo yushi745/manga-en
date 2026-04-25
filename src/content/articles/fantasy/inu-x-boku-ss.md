@@ -127,7 +127,7 @@ Yen Press published the complete English series. All 11 volumes available.
 
 ## Where to Buy
 
-[Get Inu x Boku SS Vol. 1 on Amazon →](https://www.amazon.com/s?k=Inu+x+Boku+SS+manga)
+[Get Inu x Boku SS Vol. 1 on Amazon →](https://www.amazon.com/s?k=Inu+x+Boku+SS+manga&i=stripbooks)
 
 ---
 

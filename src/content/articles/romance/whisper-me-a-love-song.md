@@ -129,7 +129,7 @@ Seven Seas Entertainment publishes the ongoing English series. 8+ volumes curren
 
 ## Where to Buy
 
-[Get Whisper Me a Love Song Vol. 1 on Amazon →](https://www.amazon.com/s?k=Whisper+Me+a+Love+Song+manga)
+[Get Whisper Me a Love Song Vol. 1 on Amazon →](https://www.amazon.com/s?k=Whisper+Me+a+Love+Song+manga&i=stripbooks)
 
 ---
 

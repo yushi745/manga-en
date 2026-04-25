@@ -125,7 +125,7 @@ Viz Media published the complete 22-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Rainbow Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rainbow%3A+Nisha+Rokub%C5%8D+no+Shichinin+manga)
+[Get Rainbow Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rainbow%3A+Nisha+Rokub%C5%8D+no+Shichinin+manga&i=stripbooks)
 
 ---
 

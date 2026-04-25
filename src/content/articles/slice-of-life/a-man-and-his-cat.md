@@ -127,7 +127,7 @@ Square Enix Manga is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get A Man and His Cat Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Man+and+His+Cat+manga)
+[Get A Man and His Cat Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Man+and+His+Cat+manga&i=stripbooks)
 
 ---
 

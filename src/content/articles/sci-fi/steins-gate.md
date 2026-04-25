@@ -128,7 +128,7 @@ Udon Entertainment published the complete 7-volume series in English. All volume
 
 ## Where to Buy
 
-[Get Steins;Gate Vol. 1 on Amazon →](https://www.amazon.com/s?k=Steins%3BGate+manga)
+[Get Steins;Gate Vol. 1 on Amazon →](https://www.amazon.com/s?k=Steins%3BGate+manga&i=stripbooks)
 
 ---
 

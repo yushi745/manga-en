@@ -121,7 +121,7 @@ VIZ Media publishes the English edition. Ongoing; the Japanese run is extensive.
 
 ## Where to Buy
 
-[Get Major 2nd Vol. 1 on Amazon →](https://www.amazon.com/s?k=Major+2nd+manga)
+[Get Major 2nd Vol. 1 on Amazon →](https://www.amazon.com/s?k=Major+2nd+manga&i=stripbooks)
 
 ---
 

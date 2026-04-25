@@ -125,7 +125,7 @@ Seven Seas has published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Sabagebu! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sabagebu%21+%E2%80%94Survival+Game+Club%21%E2%80%94+manga)
+[Get Sabagebu! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sabagebu%21+%E2%80%94Survival+Game+Club%21%E2%80%94+manga&i=stripbooks)
 
 ---
 

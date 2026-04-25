@@ -129,7 +129,7 @@ One Peace Books published the complete 19-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Hinamatsuri Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hinamatsuri+manga)
+[Get Hinamatsuri Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hinamatsuri+manga&i=stripbooks)
 
 ---
 

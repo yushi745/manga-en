@@ -123,7 +123,7 @@ VIZ Media published all 25 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Snow White with the Red Hair Vol. 1 on Amazon →](https://www.amazon.com/s?k=Snow+White+with+the+Red+Hair+manga)
+[Get Snow White with the Red Hair Vol. 1 on Amazon →](https://www.amazon.com/s?k=Snow+White+with+the+Red+Hair+manga&i=stripbooks)
 
 ---
 

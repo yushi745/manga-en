@@ -121,7 +121,7 @@ Vertical published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get My Neighbor Seki Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Neighbor+Seki+manga)
+[Get My Neighbor Seki Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Neighbor+Seki+manga&i=stripbooks)
 
 ---
 

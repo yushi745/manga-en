@@ -123,7 +123,7 @@ Seven Seas Entertainment published the complete 13-volume English series.
 
 ## Where to Buy
 
-[Get Maria Watches Over Us Vol. 1 on Amazon →](https://www.amazon.com/s?k=Maria+Watches+Over+Us+%28Marimite%29+manga)
+[Get Maria Watches Over Us Vol. 1 on Amazon →](https://www.amazon.com/s?k=Maria+Watches+Over+Us+%28Marimite%29+manga&i=stripbooks)
 
 ---
 

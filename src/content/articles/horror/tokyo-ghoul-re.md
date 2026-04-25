@@ -125,7 +125,7 @@ Viz Media published the complete 16-volume English series.
 
 ## Where to Buy
 
-[Get Tokyo Ghoul:re Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tokyo+Ghoul%3Are+manga)
+[Get Tokyo Ghoul:re Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tokyo+Ghoul%3Are+manga&i=stripbooks)
 
 ---
 

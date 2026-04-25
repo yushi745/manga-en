@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 12 volumes available.
 
 ## Where to Buy
 
-[Get The Testament of Sister New Devil Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Testament+of+Sister+New+Devil+manga)
+[Get The Testament of Sister New Devil Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Testament+of+Sister+New+Devil+manga&i=stripbooks)
 
 ---
 

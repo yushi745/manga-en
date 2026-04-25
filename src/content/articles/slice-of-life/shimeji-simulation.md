@@ -121,7 +121,7 @@ Yen Press published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Shimeji Simulation Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shimeji+Simulation+manga)
+[Get Shimeji Simulation Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shimeji+Simulation+manga&i=stripbooks)
 
 ---
 

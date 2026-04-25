@@ -193,8 +193,8 @@ Start from Volume 1. The Farm arc (which begins around volume 9–10) is a signi
 
 ## Where to Buy
 
-- [📱 Vinland Saga Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Vinland+Saga+manga)
-- [📚 Vinland Saga Vol. 1 — Paperback](https://www.amazon.com/s?k=Vinland+Saga+manga)
+- [📱 Vinland Saga Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Vinland+Saga+manga&i=stripbooks)
+- [📚 Vinland Saga Vol. 1 — Paperback](https://www.amazon.com/s?k=Vinland+Saga+manga&i=stripbooks)
 
 ---
 

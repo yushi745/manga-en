@@ -125,7 +125,7 @@ Viz Media publishes the ongoing English series. Currently matching Japanese publ
 
 ## Where to Buy
 
-[Get Natsume's Book of Friends Vol. 1 on Amazon →](https://www.amazon.com/s?k=Natsume%27s+Book+of+Friends+manga)
+[Get Natsume's Book of Friends Vol. 1 on Amazon →](https://www.amazon.com/s?k=Natsume%27s+Book+of+Friends+manga&i=stripbooks)
 
 ---
 

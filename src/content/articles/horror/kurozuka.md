@@ -121,7 +121,7 @@ VIZ Media (Viz Signature) published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Kurozuka Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kurozuka+manga)
+[Get Kurozuka Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kurozuka+manga&i=stripbooks)
 
 ---
 

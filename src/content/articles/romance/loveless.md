@@ -127,7 +127,7 @@ Tokyopop originally published volumes 1-8; VIZ Media Blu has continued from volu
 
 ## Where to Buy
 
-[Get Loveless Vol. 1 on Amazon →](https://www.amazon.com/s?k=Loveless+manga)
+[Get Loveless Vol. 1 on Amazon →](https://www.amazon.com/s?k=Loveless+manga&i=stripbooks)
 
 ---
 

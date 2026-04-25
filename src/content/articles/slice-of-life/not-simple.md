@@ -124,7 +124,7 @@ Viz Media published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get not simple on Amazon →](https://www.amazon.com/s?k=not+simple+manga)
+[Get not simple on Amazon →](https://www.amazon.com/s?k=not+simple+manga&i=stripbooks)
 
 ---
 

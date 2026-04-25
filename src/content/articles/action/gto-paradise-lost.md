@@ -124,7 +124,7 @@ Vertical published the complete English series. All 14 volumes available.
 
 ## Where to Buy
 
-[Get GTO: Paradise Lost Vol. 1 on Amazon →](https://www.amazon.com/s?k=GTO%3A+Paradise+Lost+manga)
+[Get GTO: Paradise Lost Vol. 1 on Amazon →](https://www.amazon.com/s?k=GTO%3A+Paradise+Lost+manga&i=stripbooks)
 
 ---
 

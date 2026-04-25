@@ -125,7 +125,7 @@ Viz Media published the complete 23-volume English series.
 
 ## Where to Buy
 
-[Get Happy! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Happy%21+manga)
+[Get Happy! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Happy%21+manga&i=stripbooks)
 
 ---
 

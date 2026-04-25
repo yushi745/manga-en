@@ -123,7 +123,7 @@ Viz Media published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get Aggretsuko Vol. 1 on Amazon →](https://www.amazon.com/s?k=Aggretsuko+manga)
+[Get Aggretsuko Vol. 1 on Amazon →](https://www.amazon.com/s?k=Aggretsuko+manga&i=stripbooks)
 
 ---
 

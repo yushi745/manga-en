@@ -130,7 +130,7 @@ Kodansha USA published the complete 12-volume series ("Pretty Guardian Sailor Mo
 
 ## Where to Buy
 
-[Get Sailor Moon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sailor+Moon+manga)
+[Get Sailor Moon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sailor+Moon+manga&i=stripbooks)
 
 ---
 

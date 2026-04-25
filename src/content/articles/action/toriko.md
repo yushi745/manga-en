@@ -128,7 +128,7 @@ VIZ Media published the complete 43-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Toriko Vol. 1 on Amazon →](https://www.amazon.com/s?k=Toriko+manga)
+[Get Toriko Vol. 1 on Amazon →](https://www.amazon.com/s?k=Toriko+manga&i=stripbooks)
 
 ---
 

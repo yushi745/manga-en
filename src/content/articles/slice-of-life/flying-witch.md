@@ -124,7 +124,7 @@ Kodansha USA is publishing the ongoing series. Currently 11 volumes available in
 
 ## Where to Buy
 
-[Get Flying Witch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Flying+Witch+manga)
+[Get Flying Witch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Flying+Witch+manga&i=stripbooks)
 
 ---
 

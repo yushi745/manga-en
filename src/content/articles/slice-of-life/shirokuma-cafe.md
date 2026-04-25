@@ -125,7 +125,7 @@ Viz Media published the complete 5-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Shirokuma Cafe Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shirokuma+Cafe+manga)
+[Get Shirokuma Cafe Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shirokuma+Cafe+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Chibi Vampire Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chibi+Vampire+manga)
+[Get Chibi Vampire Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chibi+Vampire+manga&i=stripbooks)
 
 ---
 

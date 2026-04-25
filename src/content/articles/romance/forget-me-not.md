@@ -123,7 +123,7 @@ Seven Seas Entertainment published the complete 8-volume English series.
 
 ## Where to Buy
 
-[Get Forget Me Not Vol. 1 on Amazon →](https://www.amazon.com/s?k=Forget+Me+Not+manga)
+[Get Forget Me Not Vol. 1 on Amazon →](https://www.amazon.com/s?k=Forget+Me+Not+manga&i=stripbooks)
 
 ---
 

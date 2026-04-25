@@ -123,7 +123,7 @@ Viz Media published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get Nagareboshi Lens Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nagareboshi+Lens+manga)
+[Get Nagareboshi Lens Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nagareboshi+Lens+manga&i=stripbooks)
 
 ---
 

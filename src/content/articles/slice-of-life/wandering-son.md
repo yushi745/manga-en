@@ -121,7 +121,7 @@ Fantagraphics published 8 volumes. The English publication is incomplete (15 vol
 
 ## Where to Buy
 
-[Get Wandering Son Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wandering+Son+manga)
+[Get Wandering Son Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wandering+Son+manga&i=stripbooks)
 
 ---
 

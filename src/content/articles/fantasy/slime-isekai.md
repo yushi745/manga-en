@@ -186,8 +186,8 @@ Start from Volume 1. The nation-building premise is established quickly.
 
 ## Where to Buy
 
-- [📱 Slime Isekai Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=That+Time+I+Got+Reincarnated+as+a+Slime+manga)
-- [📚 Slime Isekai Vol. 1 — Paperback](https://www.amazon.com/s?k=That+Time+I+Got+Reincarnated+as+a+Slime+manga)
+- [📱 Slime Isekai Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=That+Time+I+Got+Reincarnated+as+a+Slime+manga&i=stripbooks)
+- [📚 Slime Isekai Vol. 1 — Paperback](https://www.amazon.com/s?k=That+Time+I+Got+Reincarnated+as+a+Slime+manga&i=stripbooks)
 
 ---
 

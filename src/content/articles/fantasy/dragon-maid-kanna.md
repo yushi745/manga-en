@@ -124,7 +124,7 @@ Seven Seas is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get Miss Kobayashi's Dragon Maid: Kanna's Daily Life Vol. 1 on Amazon →](https://www.amazon.com/s?k=Miss+Kobayashi%27s+Dragon+Maid%3A+Kanna%27s+Daily+Life+manga)
+[Get Miss Kobayashi's Dragon Maid: Kanna's Daily Life Vol. 1 on Amazon →](https://www.amazon.com/s?k=Miss+Kobayashi%27s+Dragon+Maid%3A+Kanna%27s+Daily+Life+manga&i=stripbooks)
 
 ---
 

@@ -129,7 +129,7 @@ Viz Media published the complete 22-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Beastars Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beastars+manga)
+[Get Beastars Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beastars+manga&i=stripbooks)
 
 ---
 

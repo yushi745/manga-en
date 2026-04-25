@@ -123,7 +123,7 @@ Viz Media published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get Spell of Desire Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spell+of+Desire+manga)
+[Get Spell of Desire Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spell+of+Desire+manga&i=stripbooks)
 
 ---
 

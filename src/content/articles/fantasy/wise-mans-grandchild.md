@@ -123,7 +123,7 @@ Seven Seas published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Wise Man's Grandchild Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wise+Man%27s+Grandchild+manga)
+[Get Wise Man's Grandchild Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wise+Man%27s+Grandchild+manga&i=stripbooks)
 
 ---
 

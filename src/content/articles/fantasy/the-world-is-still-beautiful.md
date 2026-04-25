@@ -127,7 +127,7 @@ VIZ Media published the complete 12-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get The World Is Still Beautiful Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+World+Is+Still+Beautiful+manga)
+[Get The World Is Still Beautiful Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+World+Is+Still+Beautiful+manga&i=stripbooks)
 
 ---
 

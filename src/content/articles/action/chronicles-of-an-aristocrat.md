@@ -123,7 +123,7 @@ Seven Seas Entertainment publishes the ongoing English series. 11+ volumes curre
 
 ## Where to Buy
 
-[Get Chronicles of an Aristocrat Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chronicles+of+an+Aristocrat+Reborn+in+Another+World+manga)
+[Get Chronicles of an Aristocrat Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chronicles+of+an+Aristocrat+Reborn+in+Another+World+manga&i=stripbooks)
 
 ---
 

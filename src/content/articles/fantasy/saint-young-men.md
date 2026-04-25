@@ -125,7 +125,7 @@ Kodansha USA is publishing the ongoing series in English. Multiple volumes avail
 
 ## Where to Buy
 
-[Get Saint Young Men Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saint+Young+Men+manga)
+[Get Saint Young Men Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saint+Young+Men+manga&i=stripbooks)
 
 ---
 

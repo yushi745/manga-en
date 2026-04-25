@@ -123,7 +123,7 @@ Viz Media published the complete English series. All 10 volumes available.
 
 ## Where to Buy
 
-[Get Hana to Akuma Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hana+to+Akuma+manga)
+[Get Hana to Akuma Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hana+to+Akuma+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Vertical published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Kids on the Slope Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kids+on+the+Slope+manga)
+[Get Kids on the Slope Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kids+on+the+Slope+manga&i=stripbooks)
 
 ---
 

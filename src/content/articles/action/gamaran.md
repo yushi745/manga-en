@@ -127,7 +127,7 @@ Seven Seas Entertainment published all 22 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Gamaran Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gamaran+manga)
+[Get Gamaran Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gamaran+manga&i=stripbooks)
 
 ---
 

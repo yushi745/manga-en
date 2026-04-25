@@ -126,7 +126,7 @@ Yen Press published the complete 4-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Another Vol. 1 on Amazon →](https://www.amazon.com/s?k=Another+manga)
+[Get Another Vol. 1 on Amazon →](https://www.amazon.com/s?k=Another+manga&i=stripbooks)
 
 ---
 

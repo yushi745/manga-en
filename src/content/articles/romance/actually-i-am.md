@@ -125,7 +125,7 @@ Seven Seas published the complete English series. All 22 volumes available.
 
 ## Where to Buy
 
-[Get Actually, I Am... Vol. 1 on Amazon →](https://www.amazon.com/s?k=Actually%2C+I+Am...+manga)
+[Get Actually, I Am... Vol. 1 on Amazon →](https://www.amazon.com/s?k=Actually%2C+I+Am...+manga&i=stripbooks)
 
 ---
 

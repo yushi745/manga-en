@@ -123,7 +123,7 @@ Yen Press published the complete English series. All 12 volumes available.
 
 ## Where to Buy
 
-[Get Sumomomo Momomo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sumomomo%2C+Momomo%3A+The+Strongest+Bride+on+Earth+manga)
+[Get Sumomomo Momomo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sumomomo%2C+Momomo%3A+The+Strongest+Bride+on+Earth+manga&i=stripbooks)
 
 ---
 

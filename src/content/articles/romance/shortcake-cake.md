@@ -118,7 +118,7 @@ VIZ Media published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Shortcake Cake Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shortcake+Cake+manga)
+[Get Shortcake Cake Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shortcake+Cake+manga&i=stripbooks)
 
 ---
 

@@ -121,7 +121,7 @@ Yen Press published the complete 4-volume English series.
 
 ## Where to Buy
 
-[Get Urara Meirochou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Urara+Meirochou+manga)
+[Get Urara Meirochou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Urara+Meirochou+manga&i=stripbooks)
 
 ---
 

@@ -134,7 +134,7 @@ VIZ Media published the complete 13-volume run in English. All volumes are avail
 
 ## Where to Buy
 
-[Get Hell's Paradise Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hell%27s+Paradise%3A+Jigokuraku+manga)
+[Get Hell's Paradise Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hell%27s+Paradise%3A+Jigokuraku+manga&i=stripbooks)
 
 ---
 

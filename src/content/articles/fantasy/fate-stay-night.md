@@ -125,7 +125,7 @@ Dark Horse Comics published all 20 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Fate/Stay Night Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fate%2FStay+Night+manga)
+[Get Fate/Stay Night Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fate%2FStay+Night+manga&i=stripbooks)
 
 ---
 

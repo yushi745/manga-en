@@ -121,7 +121,7 @@ Seven Seas Entertainment publishes the ongoing series. 12+ volumes currently ava
 
 ## Where to Buy
 
-[Get Reincarnated as a Sword Vol. 1 on Amazon →](https://www.amazon.com/s?k=Reincarnated+as+a+Sword+manga)
+[Get Reincarnated as a Sword Vol. 1 on Amazon →](https://www.amazon.com/s?k=Reincarnated+as+a+Sword+manga&i=stripbooks)
 
 ---
 

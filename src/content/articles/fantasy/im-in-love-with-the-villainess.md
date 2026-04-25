@@ -123,7 +123,7 @@ Seven Seas published the complete English series. All 6 volumes available.
 
 ## Where to Buy
 
-[Get I'm in Love with the Villainess Vol. 1 on Amazon →](https://www.amazon.com/s?k=I%27m+in+Love+with+the+Villainess+manga)
+[Get I'm in Love with the Villainess Vol. 1 on Amazon →](https://www.amazon.com/s?k=I%27m+in+Love+with+the+Villainess+manga&i=stripbooks)
 
 ---
 

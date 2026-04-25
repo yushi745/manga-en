@@ -127,7 +127,7 @@ Yen Press publishes the ongoing English series. 6+ volumes currently available.
 
 ## Where to Buy
 
-[Get The Hero Is Overpowered but Overly Cautious Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Hero+Is+Overpowered+but+Overly+Cautious+manga)
+[Get The Hero Is Overpowered but Overly Cautious Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Hero+Is+Overpowered+but+Overly+Cautious+manga&i=stripbooks)
 
 ---
 

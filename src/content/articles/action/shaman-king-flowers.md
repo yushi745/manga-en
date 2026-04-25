@@ -124,7 +124,7 @@ Kodansha Comics published the complete 8-volume English series.
 
 ## Where to Buy
 
-[Get Shaman King: Flowers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shaman+King%3A+Flowers+manga)
+[Get Shaman King: Flowers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shaman+King%3A+Flowers+manga&i=stripbooks)
 
 ---
 

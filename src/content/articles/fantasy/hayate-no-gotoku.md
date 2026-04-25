@@ -125,7 +125,7 @@ Viz Media published the complete 52-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Hayate the Combat Butler Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hayate+the+Combat+Butler+manga)
+[Get Hayate the Combat Butler Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hayate+the+Combat+Butler+manga&i=stripbooks)
 
 ---
 

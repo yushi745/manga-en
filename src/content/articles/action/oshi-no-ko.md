@@ -129,7 +129,7 @@ Yen Press is publishing the English edition. 15 volumes available, with the fina
 
 ## Where to Buy
 
-[Get Oshi no Ko Vol. 1 on Amazon →](https://www.amazon.com/s?k=Oshi+no+Ko+manga)
+[Get Oshi no Ko Vol. 1 on Amazon →](https://www.amazon.com/s?k=Oshi+no+Ko+manga&i=stripbooks)
 
 ---
 

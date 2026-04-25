@@ -125,7 +125,7 @@ J-Novel Club publishes the ongoing English series. 8+ volumes currently availabl
 
 ## Where to Buy
 
-[Get Lazy Dungeon Master Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lazy+Dungeon+Master+manga)
+[Get Lazy Dungeon Master Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lazy+Dungeon+Master+manga&i=stripbooks)
 
 ---
 

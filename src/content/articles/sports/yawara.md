@@ -127,7 +127,7 @@ Viz Media published the complete 29-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Yawara! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yawara%21+A+Fashionable+Judo+Girl+manga)
+[Get Yawara! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yawara%21+A+Fashionable+Judo+Girl+manga&i=stripbooks)
 
 ---
 

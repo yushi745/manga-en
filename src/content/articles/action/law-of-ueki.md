@@ -125,7 +125,7 @@ Viz Media published the complete 16-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get The Law of Ueki Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Law+of+Ueki+manga)
+[Get The Law of Ueki Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Law+of+Ueki+manga&i=stripbooks)
 
 ---
 

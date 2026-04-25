@@ -125,7 +125,7 @@ Viz Media published the complete 10-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Ikigami Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ikigami%3A+The+Ultimate+Limit+manga)
+[Get Ikigami Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ikigami%3A+The+Ultimate+Limit+manga&i=stripbooks)
 
 ---
 

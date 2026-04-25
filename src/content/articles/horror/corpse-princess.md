@@ -125,7 +125,7 @@ Yen Press published all 18 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Corpse Princess Vol. 1 on Amazon →](https://www.amazon.com/s?k=Corpse+Princess+manga)
+[Get Corpse Princess Vol. 1 on Amazon →](https://www.amazon.com/s?k=Corpse+Princess+manga&i=stripbooks)
 
 ---
 

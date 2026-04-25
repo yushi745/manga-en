@@ -123,7 +123,7 @@ Vertical Comics published the complete English series. All 5 volumes available.
 
 ## Where to Buy
 
-[Get Moteki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Moteki+manga)
+[Get Moteki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Moteki+manga&i=stripbooks)
 
 ---
 

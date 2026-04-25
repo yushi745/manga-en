@@ -121,7 +121,7 @@ CMX published the 2-volume English series. Complete.
 
 ## Where to Buy
 
-[Get Shirley on Amazon →](https://www.amazon.com/s?k=Shirley+manga)
+[Get Shirley on Amazon →](https://www.amazon.com/s?k=Shirley+manga&i=stripbooks)
 
 ---
 

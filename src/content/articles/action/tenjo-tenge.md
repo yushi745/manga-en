@@ -125,7 +125,7 @@ VIZ Media published the complete English series (more complete than the original
 
 ## Where to Buy
 
-[Get Tenjo Tenge Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tenjo+Tenge+manga)
+[Get Tenjo Tenge Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tenjo+Tenge+manga&i=stripbooks)
 
 ---
 

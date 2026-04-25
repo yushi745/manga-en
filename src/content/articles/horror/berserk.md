@@ -139,7 +139,7 @@ Dark Horse Comics publishes the English editions. A deluxe hardcover edition is 
 
 The deluxe hardcovers are the definitive edition. Each book collects three volumes.
 
-[Get Berserk Deluxe Vol. 1 on Amazon →](https://www.amazon.com/s?k=Berserk+manga)
+[Get Berserk Deluxe Vol. 1 on Amazon →](https://www.amazon.com/s?k=Berserk+manga&i=stripbooks)
 
 ---
 

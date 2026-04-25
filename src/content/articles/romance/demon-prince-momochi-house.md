@@ -125,7 +125,7 @@ Viz Media published the complete 16-volume English series.
 
 ## Where to Buy
 
-[Get The Demon Prince of Momochi House Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Demon+Prince+of+Momochi+House+manga)
+[Get The Demon Prince of Momochi House Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Demon+Prince+of+Momochi+House+manga&i=stripbooks)
 
 ---
 

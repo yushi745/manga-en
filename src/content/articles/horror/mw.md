@@ -122,7 +122,7 @@ Vertical published the English omnibus edition.
 
 ## Where to Buy
 
-[Get MW on Amazon →](https://www.amazon.com/s?k=MW+manga)
+[Get MW on Amazon →](https://www.amazon.com/s?k=MW+manga&i=stripbooks)
 
 ---
 

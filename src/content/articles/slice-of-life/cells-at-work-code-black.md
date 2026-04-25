@@ -125,7 +125,7 @@ Kodansha Comics published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Cells at Work! CODE BLACK Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cells+at+Work%21+CODE+BLACK+manga)
+[Get Cells at Work! CODE BLACK Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cells+at+Work%21+CODE+BLACK+manga&i=stripbooks)
 
 ---
 

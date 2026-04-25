@@ -126,7 +126,7 @@ VIZ Media published the complete 12-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Love Me, Love Me Not Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+Me%2C+Love+Me+Not+manga)
+[Get Love Me, Love Me Not Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+Me%2C+Love+Me+Not+manga&i=stripbooks)
 
 ---
 

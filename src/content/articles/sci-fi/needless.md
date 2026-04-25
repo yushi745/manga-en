@@ -125,7 +125,7 @@ Yen Press published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Needless Vol. 1 on Amazon →](https://www.amazon.com/s?k=Needless+manga)
+[Get Needless Vol. 1 on Amazon →](https://www.amazon.com/s?k=Needless+manga&i=stripbooks)
 
 ---
 

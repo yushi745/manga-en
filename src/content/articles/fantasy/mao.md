@@ -127,7 +127,7 @@ VIZ Media publishes the ongoing series. 12+ volumes currently available in Engli
 
 ## Where to Buy
 
-[Get Mao Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mao+manga)
+[Get Mao Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mao+manga&i=stripbooks)
 
 ---
 

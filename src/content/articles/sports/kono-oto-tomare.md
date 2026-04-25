@@ -129,7 +129,7 @@ VIZ Media is publishing the series; 17 volumes available as of 2026. Ongoing.
 
 ## Where to Buy
 
-[Get Kono Oto Tomare! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kono+Oto+Tomare%21+Sounds+of+Life+manga)
+[Get Kono Oto Tomare! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kono+Oto+Tomare%21+Sounds+of+Life+manga&i=stripbooks)
 
 ---
 

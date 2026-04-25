@@ -119,7 +119,7 @@ Kodansha published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Attack on Titan: Junior High Vol. 1 on Amazon →](https://www.amazon.com/s?k=Attack+on+Titan%3A+Junior+High+manga)
+[Get Attack on Titan: Junior High Vol. 1 on Amazon →](https://www.amazon.com/s?k=Attack+on+Titan%3A+Junior+High+manga&i=stripbooks)
 
 ---
 

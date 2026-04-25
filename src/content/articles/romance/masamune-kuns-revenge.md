@@ -125,7 +125,7 @@ Yen Press published all 13 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Masamune-kun's Revenge Vol. 1 on Amazon →](https://www.amazon.com/s?k=Masamune-kun%27s+Revenge+manga)
+[Get Masamune-kun's Revenge Vol. 1 on Amazon →](https://www.amazon.com/s?k=Masamune-kun%27s+Revenge+manga&i=stripbooks)
 
 ---
 

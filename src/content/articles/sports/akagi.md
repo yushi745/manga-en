@@ -128,7 +128,7 @@ Viz Media offers digital volumes. Physical editions are limited; check digital p
 
 ## Where to Buy
 
-[Get Akagi on Amazon →](https://www.amazon.com/s?k=Akagi%3A+The+Genius+Who+Descended+Into+the+Darkness+manga)
+[Get Akagi on Amazon →](https://www.amazon.com/s?k=Akagi%3A+The+Genius+Who+Descended+Into+the+Darkness+manga&i=stripbooks)
 
 ---
 

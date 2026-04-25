@@ -216,8 +216,8 @@ All One Piece volumes are available on Amazon US in digital and physical formats
 
 **Start here:**
 
-- [📱 One Piece Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=One+Piece+manga) — Best way to start
-- [📚 One Piece Vol. 1 — Paperback](https://www.amazon.com/s?k=One+Piece+manga) — Physical edition
+- [📱 One Piece Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=One+Piece+manga&i=stripbooks) — Best way to start
+- [📚 One Piece Vol. 1 — Paperback](https://www.amazon.com/s?k=One+Piece+manga&i=stripbooks) — Physical edition
 
 ---
 

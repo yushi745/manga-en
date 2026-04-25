@@ -125,7 +125,7 @@ TOKYOPOP published all 10 volumes. Out of print but available used.
 
 ## Where to Buy
 
-[Get Dragon Head Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dragon+Head+manga)
+[Get Dragon Head Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dragon+Head+manga&i=stripbooks)
 
 ---
 

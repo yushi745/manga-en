@@ -121,7 +121,7 @@ Seven Seas Entertainment publishes the English edition. Ongoing; check current v
 
 ## Where to Buy
 
-[Get Pandora in the Crimson Shell Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pandora+in+the+Crimson+Shell%3A+Ghost+Urn+manga)
+[Get Pandora in the Crimson Shell Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pandora+in+the+Crimson+Shell%3A+Ghost+Urn+manga&i=stripbooks)
 
 ---
 

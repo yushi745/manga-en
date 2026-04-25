@@ -125,7 +125,7 @@ Dark Horse published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Translucent Vol. 1 on Amazon →](https://www.amazon.com/s?k=Translucent+manga)
+[Get Translucent Vol. 1 on Amazon →](https://www.amazon.com/s?k=Translucent+manga&i=stripbooks)
 
 ---
 

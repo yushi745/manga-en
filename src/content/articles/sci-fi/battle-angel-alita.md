@@ -134,7 +134,7 @@ Kodansha USA publishes the current English editions. The deluxe editions (2-in-1
 
 ## Where to Buy
 
-[Get Battle Angel Alita Deluxe Vol. 1 on Amazon →](https://www.amazon.com/s?k=Battle+Angel+Alita+manga)
+[Get Battle Angel Alita Deluxe Vol. 1 on Amazon →](https://www.amazon.com/s?k=Battle+Angel+Alita+manga&i=stripbooks)
 
 ---
 

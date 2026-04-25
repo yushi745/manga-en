@@ -127,7 +127,7 @@ VIZ Media published all 18 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Hungry Heart Wild Striker Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hungry+Heart+Wild+Striker+manga)
+[Get Hungry Heart Wild Striker Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hungry+Heart+Wild+Striker+manga&i=stripbooks)
 
 ---
 

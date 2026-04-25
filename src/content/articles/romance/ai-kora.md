@@ -123,7 +123,7 @@ VIZ Media has published the complete English series. All 13 volumes available.
 
 ## Where to Buy
 
-[Get Ai Kora Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ai+Kora+manga)
+[Get Ai Kora Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ai+Kora+manga&i=stripbooks)
 
 ---
 

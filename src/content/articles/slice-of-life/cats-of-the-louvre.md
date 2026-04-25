@@ -121,7 +121,7 @@ Pantheon published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get The Cats of the Louvre on Amazon →](https://www.amazon.com/s?k=The+Cats+of+the+Louvre+manga)
+[Get The Cats of the Louvre on Amazon →](https://www.amazon.com/s?k=The+Cats+of+the+Louvre+manga&i=stripbooks)
 
 ---
 

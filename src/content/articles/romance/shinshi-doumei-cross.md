@@ -123,7 +123,7 @@ Viz Media published the complete 11-volume English series.
 
 ## Where to Buy
 
-[Get The Gentlemen's Alliance Cross Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Gentlemen%27s+Alliance+Cross+manga)
+[Get The Gentlemen's Alliance Cross Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Gentlemen%27s+Alliance+Cross+manga&i=stripbooks)
 
 ---
 

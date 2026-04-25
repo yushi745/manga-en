@@ -125,7 +125,7 @@ SuBLime (Viz Media imprint) published the complete English series. All 9 volumes
 
 ## Where to Buy
 
-[Get Don't Be Cruel Vol. 1 on Amazon →](https://www.amazon.com/s?k=Don%27t+Be+Cruel+manga)
+[Get Don't Be Cruel Vol. 1 on Amazon →](https://www.amazon.com/s?k=Don%27t+Be+Cruel+manga&i=stripbooks)
 
 ---
 

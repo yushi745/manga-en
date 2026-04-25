@@ -132,7 +132,7 @@ Kodansha USA published the complete 17-volume series in English. All volumes are
 
 ## Where to Buy
 
-[Get Ajin: Demi-Human Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ajin%3A+Demi-Human+manga)
+[Get Ajin: Demi-Human Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ajin%3A+Demi-Human+manga&i=stripbooks)
 
 ---
 

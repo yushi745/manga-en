@@ -127,7 +127,7 @@ Kodansha USA is publishing the series. 20 volumes available in English.
 
 ## Where to Buy
 
-[Get To Your Eternity Vol. 1 on Amazon →](https://www.amazon.com/s?k=To+Your+Eternity+manga)
+[Get To Your Eternity Vol. 1 on Amazon →](https://www.amazon.com/s?k=To+Your+Eternity+manga&i=stripbooks)
 
 ---
 

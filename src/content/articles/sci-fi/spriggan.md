@@ -127,7 +127,7 @@ VIZ Media published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Spriggan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spriggan+manga)
+[Get Spriggan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spriggan+manga&i=stripbooks)
 
 ---
 

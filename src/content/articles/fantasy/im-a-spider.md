@@ -125,7 +125,7 @@ Yen Press published the complete 16-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get So I'm a Spider, So What? Vol. 1 on Amazon →](https://www.amazon.com/s?k=So+I%27m+a+Spider%2C+So+What%3F+manga)
+[Get So I'm a Spider, So What? Vol. 1 on Amazon →](https://www.amazon.com/s?k=So+I%27m+a+Spider%2C+So+What%3F+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published all 20 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Bakuman Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bakuman+manga)
+[Get Bakuman Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bakuman+manga&i=stripbooks)
 
 ---
 

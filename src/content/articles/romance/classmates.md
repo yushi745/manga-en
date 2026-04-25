@@ -125,7 +125,7 @@ Seven Seas Entertainment published the English edition.
 
 ## Where to Buy
 
-[Get Classmates on Amazon →](https://www.amazon.com/s?k=Classmates+%28Doukyuusei%29+manga)
+[Get Classmates on Amazon →](https://www.amazon.com/s?k=Classmates+%28Doukyuusei%29+manga&i=stripbooks)
 
 ---
 

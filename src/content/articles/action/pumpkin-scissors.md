@@ -125,7 +125,7 @@ Del Rey published 16 volumes; publication stopped. Check for remaining volumes t
 
 ## Where to Buy
 
-[Get Pumpkin Scissors Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pumpkin+Scissors+manga)
+[Get Pumpkin Scissors Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pumpkin+Scissors+manga&i=stripbooks)
 
 ---
 

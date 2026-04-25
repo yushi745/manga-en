@@ -125,7 +125,7 @@ Yen Press published 7 volumes. The English run is incomplete — the Japanese se
 
 ## Where to Buy
 
-[Get Minami-ke Vol. 1 on Amazon →](https://www.amazon.com/s?k=Minami-ke+manga)
+[Get Minami-ke Vol. 1 on Amazon →](https://www.amazon.com/s?k=Minami-ke+manga&i=stripbooks)
 
 ---
 

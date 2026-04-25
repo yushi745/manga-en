@@ -125,7 +125,7 @@ Kodansha Comics published the complete English series. All 14 volumes available 
 
 ## Where to Buy
 
-[Get Boarding School Juliet Vol. 1 on Amazon →](https://www.amazon.com/s?k=Boarding+School+Juliet+manga)
+[Get Boarding School Juliet Vol. 1 on Amazon →](https://www.amazon.com/s?k=Boarding+School+Juliet+manga&i=stripbooks)
 
 ---
 

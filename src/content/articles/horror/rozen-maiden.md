@@ -127,7 +127,7 @@ Tokyopop published the complete English series. All 8 volumes available (may req
 
 ## Where to Buy
 
-[Get Rozen Maiden Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rozen+Maiden+manga)
+[Get Rozen Maiden Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rozen+Maiden+manga&i=stripbooks)
 
 ---
 

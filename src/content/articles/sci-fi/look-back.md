@@ -119,7 +119,7 @@ VIZ Media published the complete single volume. Available.
 
 ## Where to Buy
 
-[Get Look Back on Amazon →](https://www.amazon.com/s?k=Look+Back+manga)
+[Get Look Back on Amazon →](https://www.amazon.com/s?k=Look+Back+manga&i=stripbooks)
 
 ---
 

@@ -124,7 +124,7 @@ VIZ Media published the complete 36-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Food Wars!: Shokugeki no Soma Vol. 1 on Amazon →](https://www.amazon.com/s?k=Food+Wars%21%3A+Shokugeki+no+Soma+manga)
+[Get Food Wars!: Shokugeki no Soma Vol. 1 on Amazon →](https://www.amazon.com/s?k=Food+Wars%21%3A+Shokugeki+no+Soma+manga&i=stripbooks)
 
 ---
 

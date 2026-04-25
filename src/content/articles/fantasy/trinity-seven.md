@@ -123,7 +123,7 @@ Yen Press publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get Trinity Seven Vol. 1 on Amazon →](https://www.amazon.com/s?k=Trinity+Seven+manga)
+[Get Trinity Seven Vol. 1 on Amazon →](https://www.amazon.com/s?k=Trinity+Seven+manga&i=stripbooks)
 
 ---
 

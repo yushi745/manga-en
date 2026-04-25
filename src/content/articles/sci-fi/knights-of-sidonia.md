@@ -128,7 +128,7 @@ Vertical published the complete 15-volume series in English. All volumes availab
 
 ## Where to Buy
 
-[Get Knights of Sidonia Vol. 1 on Amazon →](https://www.amazon.com/s?k=Knights+of+Sidonia+manga)
+[Get Knights of Sidonia Vol. 1 on Amazon →](https://www.amazon.com/s?k=Knights+of+Sidonia+manga&i=stripbooks)
 
 ---
 

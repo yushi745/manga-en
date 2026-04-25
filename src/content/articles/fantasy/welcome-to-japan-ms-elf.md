@@ -123,7 +123,7 @@ Seven Seas Entertainment is publishing the English edition, currently at 9 volum
 
 ## Where to Buy
 
-[Get Welcome to Japan, Ms. Elf Vol. 1 on Amazon →](https://www.amazon.com/s?k=Welcome+to+Japan%2C+Ms.+Elf%21+manga)
+[Get Welcome to Japan, Ms. Elf Vol. 1 on Amazon →](https://www.amazon.com/s?k=Welcome+to+Japan%2C+Ms.+Elf%21+manga&i=stripbooks)
 
 ---
 

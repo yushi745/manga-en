@@ -123,7 +123,7 @@ Seven Seas Entertainment published the complete 13-volume run. All volumes avail
 
 ## Where to Buy
 
-[Get Arifureta Vol. 1 on Amazon →](https://www.amazon.com/s?k=Arifureta%3A+From+Commonplace+to+World%27s+Strongest+manga)
+[Get Arifureta Vol. 1 on Amazon →](https://www.amazon.com/s?k=Arifureta%3A+From+Commonplace+to+World%27s+Strongest+manga&i=stripbooks)
 
 ---
 

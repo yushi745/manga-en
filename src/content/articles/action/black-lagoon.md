@@ -129,7 +129,7 @@ Viz Media is publishing the ongoing series. The series updates slowly; check for
 
 ## Where to Buy
 
-[Get Black Lagoon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Black+Lagoon+manga)
+[Get Black Lagoon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Black+Lagoon+manga&i=stripbooks)
 
 ---
 

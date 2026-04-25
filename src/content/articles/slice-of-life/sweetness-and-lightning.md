@@ -125,7 +125,7 @@ Kodansha USA published the complete 12-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Sweetness and Lightning Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sweetness+and+Lightning+manga)
+[Get Sweetness and Lightning Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sweetness+and+Lightning+manga&i=stripbooks)
 
 ---
 

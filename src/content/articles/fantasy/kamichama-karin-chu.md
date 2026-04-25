@@ -125,7 +125,7 @@ Del Rey/Kodansha published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Kamichama Karin Chu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kamichama+Karin+Chu+manga)
+[Get Kamichama Karin Chu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kamichama+Karin+Chu+manga&i=stripbooks)
 
 ---
 

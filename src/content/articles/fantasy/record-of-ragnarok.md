@@ -127,7 +127,7 @@ VIZ Media is publishing the ongoing series. Multiple volumes available simultane
 
 ## Where to Buy
 
-[Get Record of Ragnarok Vol. 1 on Amazon →](https://www.amazon.com/s?k=Record+of+Ragnarok+manga)
+[Get Record of Ragnarok Vol. 1 on Amazon →](https://www.amazon.com/s?k=Record+of+Ragnarok+manga&i=stripbooks)
 
 ---
 

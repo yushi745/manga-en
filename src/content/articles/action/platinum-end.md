@@ -124,7 +124,7 @@ VIZ Media published the complete 14-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Platinum End Vol. 1 on Amazon →](https://www.amazon.com/s?k=Platinum+End+manga)
+[Get Platinum End Vol. 1 on Amazon →](https://www.amazon.com/s?k=Platinum+End+manga&i=stripbooks)
 
 ---
 

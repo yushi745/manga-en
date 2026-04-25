@@ -123,7 +123,7 @@ Yen Press is publishing the English series. 13 volumes available; ongoing.
 
 ## Where to Buy
 
-[Get Goblin Slayer: Year One Vol. 1 on Amazon →](https://www.amazon.com/s?k=Goblin+Slayer%3A+Year+One+manga)
+[Get Goblin Slayer: Year One Vol. 1 on Amazon →](https://www.amazon.com/s?k=Goblin+Slayer%3A+Year+One+manga&i=stripbooks)
 
 ---
 

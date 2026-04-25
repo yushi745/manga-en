@@ -127,7 +127,7 @@ Dark Horse Comics published the complete 18-volume series. All volumes available
 
 ## Where to Buy
 
-[Get Eden: It's an Endless World! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Eden%3A+It%27s+an+Endless+World%21+manga)
+[Get Eden: It's an Endless World! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Eden%3A+It%27s+an+Endless+World%21+manga&i=stripbooks)
 
 ---
 

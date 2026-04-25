@@ -123,7 +123,7 @@ Yen Press published all 7 available volumes. The series is complete as published
 
 ## Where to Buy
 
-[Get Highschool of the Dead Vol. 1 on Amazon →](https://www.amazon.com/s?k=Highschool+of+the+Dead+manga)
+[Get Highschool of the Dead Vol. 1 on Amazon →](https://www.amazon.com/s?k=Highschool+of+the+Dead+manga&i=stripbooks)
 
 ---
 

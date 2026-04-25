@@ -125,7 +125,7 @@ Yen Press published the complete 5-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Servant x Service Vol. 1 on Amazon →](https://www.amazon.com/s?k=Servant+x+Service+manga)
+[Get Servant x Service Vol. 1 on Amazon →](https://www.amazon.com/s?k=Servant+x+Service+manga&i=stripbooks)
 
 ---
 

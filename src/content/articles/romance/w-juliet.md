@@ -124,7 +124,7 @@ VIZ Media published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get W Juliet Vol. 1 on Amazon →](https://www.amazon.com/s?k=W+Juliet+manga)
+[Get W Juliet Vol. 1 on Amazon →](https://www.amazon.com/s?k=W+Juliet+manga&i=stripbooks)
 
 ---
 

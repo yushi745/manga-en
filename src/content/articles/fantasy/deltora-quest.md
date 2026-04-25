@@ -125,7 +125,7 @@ Kodansha Comics published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Deltora Quest Vol. 1 on Amazon →](https://www.amazon.com/s?k=Deltora+Quest+manga)
+[Get Deltora Quest Vol. 1 on Amazon →](https://www.amazon.com/s?k=Deltora+Quest+manga&i=stripbooks)
 
 ---
 

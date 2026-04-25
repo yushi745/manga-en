@@ -125,7 +125,7 @@ Kodansha Comics published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Love and Lies Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+and+Lies+manga)
+[Get Love and Lies Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+and+Lies+manga&i=stripbooks)
 
 ---
 

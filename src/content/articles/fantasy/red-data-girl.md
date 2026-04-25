@@ -123,7 +123,7 @@ Yen Press published the complete 6-volume English series.
 
 ## Where to Buy
 
-[Get Red Data Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Red+Data+Girl+manga)
+[Get Red Data Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Red+Data+Girl+manga&i=stripbooks)
 
 ---
 

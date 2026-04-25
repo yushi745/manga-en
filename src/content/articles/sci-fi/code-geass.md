@@ -123,7 +123,7 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Code Geass Vol. 1 on Amazon →](https://www.amazon.com/s?k=Code+Geass%3A+Lelouch+of+the+Rebellion+manga)
+[Get Code Geass Vol. 1 on Amazon →](https://www.amazon.com/s?k=Code+Geass%3A+Lelouch+of+the+Rebellion+manga&i=stripbooks)
 
 ---
 

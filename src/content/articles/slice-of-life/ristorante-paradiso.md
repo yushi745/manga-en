@@ -123,7 +123,7 @@ Viz Media published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get Ristorante Paradiso on Amazon →](https://www.amazon.com/s?k=Ristorante+Paradiso+manga)
+[Get Ristorante Paradiso on Amazon →](https://www.amazon.com/s?k=Ristorante+Paradiso+manga&i=stripbooks)
 
 ---
 

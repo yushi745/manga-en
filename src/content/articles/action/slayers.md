@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 8 volumes available (may req
 
 ## Where to Buy
 
-[Get Slayers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Slayers+manga)
+[Get Slayers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Slayers+manga&i=stripbooks)
 
 ---
 

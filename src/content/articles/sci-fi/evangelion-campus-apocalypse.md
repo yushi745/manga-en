@@ -123,7 +123,7 @@ Dark Horse published all 5 volumes. Complete series available.
 
 ## Where to Buy
 
-[Get Evangelion: Campus Apocalypse on Amazon →](https://www.amazon.com/s?k=Evangelion%3A+Campus+Apocalypse+manga)
+[Get Evangelion: Campus Apocalypse on Amazon →](https://www.amazon.com/s?k=Evangelion%3A+Campus+Apocalypse+manga&i=stripbooks)
 
 ---
 

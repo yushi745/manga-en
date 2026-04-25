@@ -6,7 +6,7 @@ export function generateBookPageUrl(asin: string): string {
 }
 
 export function generateBookSearchUrl(mangaTitle: string): string {
-  const baseUrl = `https://www.amazon.com/s?k=${encodeURIComponent(mangaTitle)}&i=digital-text`;
+  const baseUrl = `https://www.amazon.com/s?k=${encodeURIComponent(mangaTitle)}&i=stripbooks`;
   return AMAZON_TAG ? `${baseUrl}&tag=${AMAZON_TAG}` : baseUrl;
 }
 

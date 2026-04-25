@@ -132,7 +132,7 @@ Kodansha USA is publishing the ongoing series in English, currently through volu
 
 ## Where to Buy
 
-[Get Blue Lock Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Lock+manga)
+[Get Blue Lock Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Lock+manga&i=stripbooks)
 
 ---
 

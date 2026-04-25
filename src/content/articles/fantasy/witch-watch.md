@@ -125,7 +125,7 @@ Viz Media is actively publishing the ongoing series. Check for the latest volume
 
 ## Where to Buy
 
-[Get Witch Watch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Witch+Watch+manga)
+[Get Witch Watch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Witch+Watch+manga&i=stripbooks)
 
 ---
 

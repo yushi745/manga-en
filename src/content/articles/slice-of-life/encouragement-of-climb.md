@@ -121,7 +121,7 @@ Kodansha Comics published all 18 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Encouragement of Climb Vol. 1 on Amazon →](https://www.amazon.com/s?k=Encouragement+of+Climb+manga)
+[Get Encouragement of Climb Vol. 1 on Amazon →](https://www.amazon.com/s?k=Encouragement+of+Climb+manga&i=stripbooks)
 
 ---
 

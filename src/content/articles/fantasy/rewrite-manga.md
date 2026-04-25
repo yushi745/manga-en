@@ -121,7 +121,7 @@ Yen Press published the complete 6-volume English series.
 
 ## Where to Buy
 
-[Get Rewrite Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rewrite+manga)
+[Get Rewrite Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rewrite+manga&i=stripbooks)
 
 ---
 

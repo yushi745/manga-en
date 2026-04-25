@@ -121,7 +121,7 @@ Seven Seas publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get Drugstore in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Drugstore+in+Another+World%3A+The+Slow+Life+of+a+Cheat+Pharmacist+manga)
+[Get Drugstore in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Drugstore+in+Another+World%3A+The+Slow+Life+of+a+Cheat+Pharmacist+manga&i=stripbooks)
 
 ---
 

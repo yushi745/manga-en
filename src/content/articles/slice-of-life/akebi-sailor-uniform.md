@@ -125,7 +125,7 @@ Seven Seas is publishing the ongoing English series. 8 volumes available.
 
 ## Where to Buy
 
-[Get Akebi's Sailor Uniform Vol. 1 on Amazon →](https://www.amazon.com/s?k=Akebi%27s+Sailor+Uniform+manga)
+[Get Akebi's Sailor Uniform Vol. 1 on Amazon →](https://www.amazon.com/s?k=Akebi%27s+Sailor+Uniform+manga&i=stripbooks)
 
 ---
 

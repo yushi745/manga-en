@@ -125,7 +125,7 @@ Viz Media published the complete 12-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get The Way of the Househusband Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Way+of+the+Househusband+manga)
+[Get The Way of the Househusband Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Way+of+the+Househusband+manga&i=stripbooks)
 
 ---
 

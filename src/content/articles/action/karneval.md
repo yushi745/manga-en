@@ -123,7 +123,7 @@ Yen Press published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Karneval Vol. 1 on Amazon →](https://www.amazon.com/s?k=Karneval+manga)
+[Get Karneval Vol. 1 on Amazon →](https://www.amazon.com/s?k=Karneval+manga&i=stripbooks)
 
 ---
 

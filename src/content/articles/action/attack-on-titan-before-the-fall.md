@@ -123,7 +123,7 @@ Kodansha published the complete English series. All 21 volumes available.
 
 ## Where to Buy
 
-[Get Attack on Titan: Before the Fall Vol. 1 on Amazon →](https://www.amazon.com/s?k=Attack+on+Titan%3A+Before+the+Fall+manga)
+[Get Attack on Titan: Before the Fall Vol. 1 on Amazon →](https://www.amazon.com/s?k=Attack+on+Titan%3A+Before+the+Fall+manga&i=stripbooks)
 
 ---
 

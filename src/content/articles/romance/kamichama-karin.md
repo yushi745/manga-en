@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 7 volumes available (may req
 
 ## Where to Buy
 
-[Get Kamichama Karin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kamichama+Karin+manga)
+[Get Kamichama Karin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kamichama+Karin+manga&i=stripbooks)
 
 ---
 

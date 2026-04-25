@@ -125,7 +125,7 @@ VIZ Media published the complete 26-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Touch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Touch+manga)
+[Get Touch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Touch+manga&i=stripbooks)
 
 ---
 

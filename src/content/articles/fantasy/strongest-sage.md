@@ -123,7 +123,7 @@ Square Enix Manga publishes the ongoing English series. Current volumes availabl
 
 ## Where to Buy
 
-[Get The Strongest Sage with the Weakest Crest Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Strongest+Sage+with+the+Weakest+Crest+manga)
+[Get The Strongest Sage with the Weakest Crest Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Strongest+Sage+with+the+Weakest+Crest+manga&i=stripbooks)
 
 ---
 

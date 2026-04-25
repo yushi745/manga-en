@@ -125,7 +125,7 @@ J-Novel Club publishes the ongoing English manga series. Current volumes availab
 
 ## Where to Buy
 
-[Get The Unwanted Undead Adventurer Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Unwanted+Undead+Adventurer+manga)
+[Get The Unwanted Undead Adventurer Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Unwanted+Undead+Adventurer+manga&i=stripbooks)
 
 ---
 

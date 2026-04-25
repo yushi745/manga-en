@@ -123,7 +123,7 @@ Yen Press publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get Ichigo Mashimaro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ichigo+Mashimaro+manga)
+[Get Ichigo Mashimaro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ichigo+Mashimaro+manga&i=stripbooks)
 
 ---
 

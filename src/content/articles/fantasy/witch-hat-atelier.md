@@ -129,7 +129,7 @@ Kodansha USA is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get Witch Hat Atelier Vol. 1 on Amazon →](https://www.amazon.com/s?k=Witch+Hat+Atelier+manga)
+[Get Witch Hat Atelier Vol. 1 on Amazon →](https://www.amazon.com/s?k=Witch+Hat+Atelier+manga&i=stripbooks)
 
 ---
 

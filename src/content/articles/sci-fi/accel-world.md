@@ -123,7 +123,7 @@ Yen Press published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Accel World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Accel+World+manga)
+[Get Accel World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Accel+World+manga&i=stripbooks)
 
 ---
 

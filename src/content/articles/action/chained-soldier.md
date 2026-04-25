@@ -125,7 +125,7 @@ Seven Seas is publishing the ongoing English series. 12 volumes available.
 
 ## Where to Buy
 
-[Get Chained Soldier Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chained+Soldier+manga)
+[Get Chained Soldier Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chained+Soldier+manga&i=stripbooks)
 
 ---
 

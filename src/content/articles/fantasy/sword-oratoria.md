@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 12 volumes available.
 
 ## Where to Buy
 
-[Get Sword Oratoria Vol. 1 on Amazon →](https://www.amazon.com/s?k=Is+It+Wrong+to+Try+to+Pick+Up+Girls+in+a+Dungeon%3F+On+the+Side%3A+Sword+Oratoria+manga)
+[Get Sword Oratoria Vol. 1 on Amazon →](https://www.amazon.com/s?k=Is+It+Wrong+to+Try+to+Pick+Up+Girls+in+a+Dungeon%3F+On+the+Side%3A+Sword+Oratoria+manga&i=stripbooks)
 
 ---
 

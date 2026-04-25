@@ -126,7 +126,7 @@ Yen Press published the complete 16-volume manga series. All volumes available.
 
 ## Where to Buy
 
-[Get Spice and Wolf Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spice+and+Wolf+manga)
+[Get Spice and Wolf Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spice+and+Wolf+manga&i=stripbooks)
 
 ---
 

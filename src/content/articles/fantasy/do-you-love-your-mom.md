@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Do You Love Your Mom Vol. 1 on Amazon →](https://www.amazon.com/s?k=Do+You+Love+Your+Mom+and+Her+Two-Hit+Multi-Target+Attacks%3F+manga)
+[Get Do You Love Your Mom Vol. 1 on Amazon →](https://www.amazon.com/s?k=Do+You+Love+Your+Mom+and+Her+Two-Hit+Multi-Target+Attacks%3F+manga&i=stripbooks)
 
 ---
 

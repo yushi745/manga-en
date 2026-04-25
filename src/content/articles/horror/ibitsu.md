@@ -126,7 +126,7 @@ Yen Press published the complete 2-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Ibitsu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ibitsu+manga)
+[Get Ibitsu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ibitsu+manga&i=stripbooks)
 
 ---
 

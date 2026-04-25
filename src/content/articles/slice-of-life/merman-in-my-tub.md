@@ -125,7 +125,7 @@ Square Enix Manga published the complete English series. All 11 volumes availabl
 
 ## Where to Buy
 
-[Get Merman in My Tub Vol. 1 on Amazon →](https://www.amazon.com/s?k=Merman+in+My+Tub+manga)
+[Get Merman in My Tub Vol. 1 on Amazon →](https://www.amazon.com/s?k=Merman+in+My+Tub+manga&i=stripbooks)
 
 ---
 

@@ -188,8 +188,8 @@ Start from Volume 1. The comedy builds on the established characters.
 
 ## Where to Buy
 
-- [📱 KonoSuba Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=KonoSuba%3A+God%27s+Blessing+on+This+Wonderful+World%21+manga)
-- [📚 KonoSuba Vol. 1 — Paperback](https://www.amazon.com/s?k=KonoSuba%3A+God%27s+Blessing+on+This+Wonderful+World%21+manga)
+- [📱 KonoSuba Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=KonoSuba%3A+God%27s+Blessing+on+This+Wonderful+World%21+manga&i=stripbooks)
+- [📚 KonoSuba Vol. 1 — Paperback](https://www.amazon.com/s?k=KonoSuba%3A+God%27s+Blessing+on+This+Wonderful+World%21+manga&i=stripbooks)
 
 ---
 

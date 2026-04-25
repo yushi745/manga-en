@@ -123,7 +123,7 @@ Yen Press published the complete English series. All 28 volumes available.
 
 ## Where to Buy
 
-[Get Prison School Vol. 1 on Amazon →](https://www.amazon.com/s?k=Prison+School+manga)
+[Get Prison School Vol. 1 on Amazon →](https://www.amazon.com/s?k=Prison+School+manga&i=stripbooks)
 
 ---
 

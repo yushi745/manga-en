@@ -123,7 +123,7 @@ Square Enix Manga published the complete English series. All 9 volumes available
 
 ## Where to Buy
 
-[Get Hi Score Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hi+Score+Girl+manga)
+[Get Hi Score Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hi+Score+Girl+manga&i=stripbooks)
 
 ---
 

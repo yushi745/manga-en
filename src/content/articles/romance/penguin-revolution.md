@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 6 volumes available.
 
 ## Where to Buy
 
-[Get Penguin Revolution Vol. 1 on Amazon →](https://www.amazon.com/s?k=Penguin+Revolution+manga)
+[Get Penguin Revolution Vol. 1 on Amazon →](https://www.amazon.com/s?k=Penguin+Revolution+manga&i=stripbooks)
 
 ---
 

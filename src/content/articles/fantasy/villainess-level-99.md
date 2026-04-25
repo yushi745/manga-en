@@ -123,7 +123,7 @@ Square Enix Manga published the complete 5-volume English edition. All volumes a
 
 ## Where to Buy
 
-[Get Villainess Level 99 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Villainess+Level+99%3A+I+May+Be+the+Hidden+Boss+but+I%27m+Not+the+Demon+Lord+manga)
+[Get Villainess Level 99 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Villainess+Level+99%3A+I+May+Be+the+Hidden+Boss+but+I%27m+Not+the+Demon+Lord+manga&i=stripbooks)
 
 ---
 

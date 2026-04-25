@@ -126,7 +126,7 @@ VIZ Media published the complete 23-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Dorohedoro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dorohedoro+manga)
+[Get Dorohedoro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dorohedoro+manga&i=stripbooks)
 
 ---
 

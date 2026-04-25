@@ -123,7 +123,7 @@ Kodansha Comics published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get A Galaxy Next Door Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Galaxy+Next+Door+manga)
+[Get A Galaxy Next Door Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Galaxy+Next+Door+manga&i=stripbooks)
 
 ---
 

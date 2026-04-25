@@ -122,7 +122,7 @@ VIZ Media published the complete 17-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Cross Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cross+Game+manga)
+[Get Cross Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cross+Game+manga&i=stripbooks)
 
 ---
 

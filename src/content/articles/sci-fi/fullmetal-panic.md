@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 9 volumes (completing the Tokyopop run). 
 
 ## Where to Buy
 
-[Get Full Metal Panic! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Full+Metal+Panic%21+manga)
+[Get Full Metal Panic! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Full+Metal+Panic%21+manga&i=stripbooks)
 
 ---
 

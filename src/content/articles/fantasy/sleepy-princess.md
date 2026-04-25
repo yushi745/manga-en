@@ -127,7 +127,7 @@ Viz Media published the complete 25-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Sleepy Princess in the Demon Castle Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sleepy+Princess+in+the+Demon+Castle+manga)
+[Get Sleepy Princess in the Demon Castle Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sleepy+Princess+in+the+Demon+Castle+manga&i=stripbooks)
 
 ---
 

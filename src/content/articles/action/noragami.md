@@ -186,8 +186,8 @@ Start from Volume 1. The early comedy establishes the characters before the seri
 
 ## Where to Buy
 
-- [📱 Noragami Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Noragami+manga)
-- [📚 Noragami Vol. 1 — Paperback](https://www.amazon.com/s?k=Noragami+manga)
+- [📱 Noragami Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Noragami+manga&i=stripbooks)
+- [📚 Noragami Vol. 1 — Paperback](https://www.amazon.com/s?k=Noragami+manga&i=stripbooks)
 
 ---
 

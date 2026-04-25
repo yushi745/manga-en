@@ -127,7 +127,7 @@ Yen Press published the complete 5-volume manga. All volumes available. Multiple
 
 ## Where to Buy
 
-[Get Magical Girl Raising Project Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magical+Girl+Raising+Project+manga)
+[Get Magical Girl Raising Project Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magical+Girl+Raising+Project+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Hot Gimmick Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hot+Gimmick+manga)
+[Get Hot Gimmick Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hot+Gimmick+manga&i=stripbooks)
 
 ---
 

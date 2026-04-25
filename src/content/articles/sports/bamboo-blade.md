@@ -126,7 +126,7 @@ Yen Press published the complete 15-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Bamboo Blade Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bamboo+Blade+manga)
+[Get Bamboo Blade Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bamboo+Blade+manga&i=stripbooks)
 
 ---
 

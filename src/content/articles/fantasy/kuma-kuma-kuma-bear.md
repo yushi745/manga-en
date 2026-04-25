@@ -127,7 +127,7 @@ Seven Seas Entertainment publishes the ongoing English series. 9+ volumes curren
 
 ## Where to Buy
 
-[Get Kuma Kuma Kuma Bear Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kuma+Kuma+Kuma+Bear+manga)
+[Get Kuma Kuma Kuma Bear Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kuma+Kuma+Kuma+Bear+manga&i=stripbooks)
 
 ---
 

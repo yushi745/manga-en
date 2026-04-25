@@ -125,7 +125,7 @@ Viz Media published the complete 13-volume English edition. All volumes availabl
 
 ## Where to Buy
 
-[Get Helck Vol. 1 on Amazon →](https://www.amazon.com/s?k=Helck+manga)
+[Get Helck Vol. 1 on Amazon →](https://www.amazon.com/s?k=Helck+manga&i=stripbooks)
 
 ---
 

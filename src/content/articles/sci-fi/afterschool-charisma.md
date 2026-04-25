@@ -125,7 +125,7 @@ Viz Media published the complete 10-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Afterschool Charisma Vol. 1 on Amazon →](https://www.amazon.com/s?k=Afterschool+Charisma+manga)
+[Get Afterschool Charisma Vol. 1 on Amazon →](https://www.amazon.com/s?k=Afterschool+Charisma+manga&i=stripbooks)
 
 ---
 

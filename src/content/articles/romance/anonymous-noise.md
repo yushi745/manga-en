@@ -127,7 +127,7 @@ VIZ Media published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Anonymous Noise Vol. 1 on Amazon →](https://www.amazon.com/s?k=Anonymous+Noise+manga)
+[Get Anonymous Noise Vol. 1 on Amazon →](https://www.amazon.com/s?k=Anonymous+Noise+manga&i=stripbooks)
 
 ---
 

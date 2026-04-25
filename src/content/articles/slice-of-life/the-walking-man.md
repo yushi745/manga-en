@@ -121,7 +121,7 @@ Fanfare Ponent Mon published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get The Walking Man on Amazon →](https://www.amazon.com/s?k=The+Walking+Man+manga)
+[Get The Walking Man on Amazon →](https://www.amazon.com/s?k=The+Walking+Man+manga&i=stripbooks)
 
 ---
 

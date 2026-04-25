@@ -125,7 +125,7 @@ SuBLime (VIZ's BL imprint) is publishing the ongoing series. Multiple volumes av
 
 ## Where to Buy
 
-[Get Junjou Romantica Vol. 1 on Amazon →](https://www.amazon.com/s?k=Junjou+Romantica+manga)
+[Get Junjou Romantica Vol. 1 on Amazon →](https://www.amazon.com/s?k=Junjou+Romantica+manga&i=stripbooks)
 
 ---
 

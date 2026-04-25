@@ -125,7 +125,7 @@ VIZ Media published the complete 4-volume series. All volumes available. The ani
 
 ## Where to Buy
 
-[Get Sweet Blue Flowers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sweet+Blue+Flowers+manga)
+[Get Sweet Blue Flowers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sweet+Blue+Flowers+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Tokyopop published all 10 volumes. Complete — may require used/secondhand mark
 
 ## Where to Buy
 
-[Get Girl Got Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Girl+Got+Game+%28Power%21%29+manga)
+[Get Girl Got Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Girl+Got+Game+%28Power%21%29+manga&i=stripbooks)
 
 ---
 

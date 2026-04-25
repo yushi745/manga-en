@@ -125,7 +125,7 @@ Yen Press published the complete 13-volume English series.
 
 ## Where to Buy
 
-[Get My Teen Romantic Comedy SNAFU Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Teen+Romantic+Comedy+SNAFU+manga)
+[Get My Teen Romantic Comedy SNAFU Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Teen+Romantic+Comedy+SNAFU+manga&i=stripbooks)
 
 ---
 

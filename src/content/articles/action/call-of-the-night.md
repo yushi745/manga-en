@@ -127,7 +127,7 @@ Viz Media published the complete English series. All 16 volumes available.
 
 ## Where to Buy
 
-[Get Call of the Night Vol. 1 on Amazon →](https://www.amazon.com/s?k=Call+of+the+Night+manga)
+[Get Call of the Night Vol. 1 on Amazon →](https://www.amazon.com/s?k=Call+of+the+Night+manga&i=stripbooks)
 
 ---
 

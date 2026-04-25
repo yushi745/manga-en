@@ -123,7 +123,7 @@ Viz Media published the complete English series. All 6 volumes available.
 
 ## Where to Buy
 
-[Get Demon Love Spell Vol. 1 on Amazon →](https://www.amazon.com/s?k=Demon+Love+Spell+manga)
+[Get Demon Love Spell Vol. 1 on Amazon →](https://www.amazon.com/s?k=Demon+Love+Spell+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Viz Media published the complete English series. All 12 volumes available.
 
 ## Where to Buy
 
-[Get Ayakashi Triangle Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ayakashi+Triangle+manga)
+[Get Ayakashi Triangle Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ayakashi+Triangle+manga&i=stripbooks)
 
 ---
 

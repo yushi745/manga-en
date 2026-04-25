@@ -121,7 +121,7 @@ Seven Seas published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Blank Canvas Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blank+Canvas%3A+How+I+Found+My+Artist%27s+Voice+manga)
+[Get Blank Canvas Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blank+Canvas%3A+How+I+Found+My+Artist%27s+Voice+manga&i=stripbooks)
 
 ---
 

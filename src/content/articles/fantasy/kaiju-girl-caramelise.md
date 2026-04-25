@@ -125,7 +125,7 @@ Yen Press published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Kaiju Girl Caramelise Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kaiju+Girl+Caramelise+manga)
+[Get Kaiju Girl Caramelise Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kaiju+Girl+Caramelise+manga&i=stripbooks)
 
 ---
 

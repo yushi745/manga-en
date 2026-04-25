@@ -123,7 +123,7 @@ Kodansha Comics published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Sankarea Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sankarea%3A+Undying+Love+manga)
+[Get Sankarea Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sankarea%3A+Undying+Love+manga&i=stripbooks)
 
 ---
 

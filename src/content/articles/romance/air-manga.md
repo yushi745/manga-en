@@ -125,7 +125,7 @@ Tokyopop published the 2-volume English series. Tokyopop is defunct; availabilit
 
 ## Where to Buy
 
-[Get Air manga on Amazon →](https://www.amazon.com/s?k=Air+manga)
+[Get Air manga on Amazon →](https://www.amazon.com/s?k=Air+manga&i=stripbooks)
 
 ---
 

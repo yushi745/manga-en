@@ -127,7 +127,7 @@ Seven Seas published the complete English series. All 13 volumes available.
 
 ## Where to Buy
 
-[Get Seitokai Yakuindomo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Seitokai+Yakuindomo+manga)
+[Get Seitokai Yakuindomo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Seitokai+Yakuindomo+manga&i=stripbooks)
 
 ---
 

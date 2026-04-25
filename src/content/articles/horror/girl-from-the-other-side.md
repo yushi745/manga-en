@@ -123,7 +123,7 @@ Seven Seas Entertainment published the complete 11-volume run. All volumes avail
 
 ## Where to Buy
 
-[Get The Girl From the Other Side Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Girl+From+the+Other+Side%3A+Si%C3%BAil%2C+a+R%C3%BAn+manga)
+[Get The Girl From the Other Side Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Girl+From+the+Other+Side%3A+Si%C3%BAil%2C+a+R%C3%BAn+manga&i=stripbooks)
 
 ---
 

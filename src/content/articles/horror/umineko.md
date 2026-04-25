@@ -125,7 +125,7 @@ Yen Press published the complete 20-volume English edition. All volumes availabl
 
 ## Where to Buy
 
-[Get Umineko: When They Cry Vol. 1 on Amazon →](https://www.amazon.com/s?k=Umineko%3A+When+They+Cry+manga)
+[Get Umineko: When They Cry Vol. 1 on Amazon →](https://www.amazon.com/s?k=Umineko%3A+When+They+Cry+manga&i=stripbooks)
 
 ---
 

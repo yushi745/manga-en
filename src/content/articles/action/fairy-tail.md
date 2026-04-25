@@ -130,7 +130,7 @@ Kodansha USA published the complete 63-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Fairy Tail Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fairy+Tail+manga)
+[Get Fairy Tail Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fairy+Tail+manga&i=stripbooks)
 
 ---
 

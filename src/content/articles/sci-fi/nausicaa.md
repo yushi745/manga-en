@@ -126,7 +126,7 @@ VIZ Media published the complete 7-volume series in both individual and omnibus 
 
 ## Where to Buy
 
-[Get Nausicaa of the Valley of Wind Omnibus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nausicaa+of+the+Valley+of+Wind+manga)
+[Get Nausicaa of the Valley of Wind Omnibus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nausicaa+of+the+Valley+of+Wind+manga&i=stripbooks)
 
 ---
 

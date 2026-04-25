@@ -123,7 +123,7 @@ Yen Press publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get Is It Wrong to Try to Pick Up Girls in a Dungeon? Vol. 1 on Amazon →](https://www.amazon.com/s?k=Is+It+Wrong+to+Try+to+Pick+Up+Girls+in+a+Dungeon%3F+manga)
+[Get Is It Wrong to Try to Pick Up Girls in a Dungeon? Vol. 1 on Amazon →](https://www.amazon.com/s?k=Is+It+Wrong+to+Try+to+Pick+Up+Girls+in+a+Dungeon%3F+manga&i=stripbooks)
 
 ---
 

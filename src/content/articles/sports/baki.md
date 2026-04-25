@@ -123,7 +123,7 @@ VIZ Media is publishing the English edition. Ongoing; check current volume count
 
 ## Where to Buy
 
-[Get Baki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Baki+manga)
+[Get Baki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Baki+manga&i=stripbooks)
 
 ---
 

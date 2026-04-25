@@ -125,7 +125,7 @@ Square Enix Manga (Manga UP!) publishes the ongoing English series. 10+ volumes 
 
 ## Where to Buy
 
-[Get The Misfit of Demon King Academy Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Misfit+of+Demon+King+Academy+manga)
+[Get The Misfit of Demon King Academy Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Misfit+of+Demon+King+Academy+manga&i=stripbooks)
 
 ---
 

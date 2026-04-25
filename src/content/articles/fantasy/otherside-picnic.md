@@ -125,7 +125,7 @@ Seven Seas Entertainment publishes the ongoing English series. 8+ volumes curren
 
 ## Where to Buy
 
-[Get Otherside Picnic Vol. 1 on Amazon →](https://www.amazon.com/s?k=Otherside+Picnic+manga)
+[Get Otherside Picnic Vol. 1 on Amazon →](https://www.amazon.com/s?k=Otherside+Picnic+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Yen Press published all 13 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get How Heavy Are the Dumbbells You Lift? Vol. 1 on Amazon →](https://www.amazon.com/s?k=How+Heavy+Are+the+Dumbbells+You+Lift%3F+manga)
+[Get How Heavy Are the Dumbbells You Lift? Vol. 1 on Amazon →](https://www.amazon.com/s?k=How+Heavy+Are+the+Dumbbells+You+Lift%3F+manga&i=stripbooks)
 
 ---
 

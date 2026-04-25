@@ -125,7 +125,7 @@ Viz Media published the complete 10-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Last Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Last+Game+manga)
+[Get Last Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Last+Game+manga&i=stripbooks)
 
 ---
 

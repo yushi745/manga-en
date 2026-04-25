@@ -123,7 +123,7 @@ Viz Media published the complete 6-volume English series.
 
 ## Where to Buy
 
-[Get Shuriken and Pleats Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shuriken+and+Pleats+manga)
+[Get Shuriken and Pleats Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shuriken+and+Pleats+manga&i=stripbooks)
 
 ---
 

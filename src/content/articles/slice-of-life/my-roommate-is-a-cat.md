@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 10-volume series. All volumes av
 
 ## Where to Buy
 
-[Get My Roommate Is a Cat Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Roommate+Is+a+Cat+manga)
+[Get My Roommate Is a Cat Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Roommate+Is+a+Cat+manga&i=stripbooks)
 
 ---
 

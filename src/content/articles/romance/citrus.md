@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Citrus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Citrus+manga)
+[Get Citrus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Citrus+manga&i=stripbooks)
 
 ---
 

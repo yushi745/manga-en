@@ -122,7 +122,7 @@ VIZ Media published the complete 27-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Claymore Vol. 1 on Amazon →](https://www.amazon.com/s?k=Claymore+manga)
+[Get Claymore Vol. 1 on Amazon →](https://www.amazon.com/s?k=Claymore+manga&i=stripbooks)
 
 ---
 

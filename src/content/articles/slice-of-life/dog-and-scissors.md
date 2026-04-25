@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Dog & Scissors Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dog+%26+Scissors+manga)
+[Get Dog & Scissors Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dog+%26+Scissors+manga&i=stripbooks)
 
 ---
 

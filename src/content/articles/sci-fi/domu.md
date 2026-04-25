@@ -123,7 +123,7 @@ Dark Horse Comics published the complete English edition. Available.
 
 ## Where to Buy
 
-[Get DOMU: A Child's Dream on Amazon →](https://www.amazon.com/s?k=DOMU%3A+A+Child%27s+Dream+manga)
+[Get DOMU: A Child's Dream on Amazon →](https://www.amazon.com/s?k=DOMU%3A+A+Child%27s+Dream+manga&i=stripbooks)
 
 ---
 

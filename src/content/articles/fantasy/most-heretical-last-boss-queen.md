@@ -125,7 +125,7 @@ Seven Seas Entertainment publishes the ongoing English series. 8+ volumes curren
 
 ## Where to Buy
 
-[Get The Most Heretical Last Boss Queen Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Most+Heretical+Last+Boss+Queen%3A+From+Villainess+to+Savior+manga)
+[Get The Most Heretical Last Boss Queen Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Most+Heretical+Last+Boss+Queen%3A+From+Villainess+to+Savior+manga&i=stripbooks)
 
 ---
 

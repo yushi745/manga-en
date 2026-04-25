@@ -125,7 +125,7 @@ Yen Press is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get Tsurune Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tsurune+manga)
+[Get Tsurune Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tsurune+manga&i=stripbooks)
 
 ---
 

@@ -123,7 +123,7 @@ Yen Press published the complete 20-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Teasing Master Takagi-san Vol. 1 on Amazon →](https://www.amazon.com/s?k=Teasing+Master+Takagi-san+manga)
+[Get Teasing Master Takagi-san Vol. 1 on Amazon →](https://www.amazon.com/s?k=Teasing+Master+Takagi-san+manga&i=stripbooks)
 
 ---
 

@@ -123,7 +123,7 @@ Viz Media is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get Tonikawa Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tonikawa%3A+Over+the+Moon+for+You+manga)
+[Get Tonikawa Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tonikawa%3A+Over+the+Moon+for+You+manga&i=stripbooks)
 
 ---
 

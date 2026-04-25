@@ -123,7 +123,7 @@ Kodansha published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Kokkoku Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kokkoku+manga)
+[Get Kokkoku Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kokkoku+manga&i=stripbooks)
 
 ---
 

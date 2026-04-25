@@ -126,7 +126,7 @@ Yen Press is publishing the ongoing manga adaptation. Multiple volumes available
 
 ## Where to Buy
 
-[Get Bofuri Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bofuri%3A+I+Don%27t+Want+to+Get+Hurt%2C+so+I%27ll+Max+Out+My+Defense+manga)
+[Get Bofuri Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bofuri%3A+I+Don%27t+Want+to+Get+Hurt%2C+so+I%27ll+Max+Out+My+Defense+manga&i=stripbooks)
 
 ---
 

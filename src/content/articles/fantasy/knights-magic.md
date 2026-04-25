@@ -123,7 +123,7 @@ Yen Press is publishing the ongoing English series. 12 volumes available.
 
 ## Where to Buy
 
-[Get Knights & Magic Vol. 1 on Amazon →](https://www.amazon.com/s?k=Knights+%26+Magic+manga)
+[Get Knights & Magic Vol. 1 on Amazon →](https://www.amazon.com/s?k=Knights+%26+Magic+manga&i=stripbooks)
 
 ---
 

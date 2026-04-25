@@ -125,7 +125,7 @@ Del Rey/Kodansha published the complete English series. All 8 volumes available.
 
 ## Where to Buy
 
-[Get Papillon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Papillon+manga)
+[Get Papillon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Papillon+manga&i=stripbooks)
 
 ---
 

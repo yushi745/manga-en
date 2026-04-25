@@ -125,7 +125,7 @@ Viz Media (Shojo Beat) published the complete 28-volume run. All volumes availab
 
 ## Where to Buy
 
-[Get Oresama Teacher Vol. 1 on Amazon →](https://www.amazon.com/s?k=Oresama+Teacher+manga)
+[Get Oresama Teacher Vol. 1 on Amazon →](https://www.amazon.com/s?k=Oresama+Teacher+manga&i=stripbooks)
 
 ---
 

@@ -125,7 +125,7 @@ Viz Media published the complete 19-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Ichigo 100% Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ichigo+100%25+manga)
+[Get Ichigo 100% Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ichigo+100%25+manga&i=stripbooks)
 
 ---
 

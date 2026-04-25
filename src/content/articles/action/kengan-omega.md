@@ -125,7 +125,7 @@ Kodansha Comics publishes the ongoing English series. 17+ volumes currently avai
 
 ## Where to Buy
 
-[Get Kengan Omega Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kengan+Omega+manga)
+[Get Kengan Omega Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kengan+Omega+manga&i=stripbooks)
 
 ---
 

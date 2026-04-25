@@ -126,7 +126,7 @@ Kodansha USA is publishing the ongoing series. Currently 17 volumes available in
 
 ## Where to Buy
 
-[Get Grand Blue Dreaming Vol. 1 on Amazon →](https://www.amazon.com/s?k=Grand+Blue+Dreaming+manga)
+[Get Grand Blue Dreaming Vol. 1 on Amazon →](https://www.amazon.com/s?k=Grand+Blue+Dreaming+manga&i=stripbooks)
 
 ---
 
