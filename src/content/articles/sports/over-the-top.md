@@ -1,47 +1,51 @@
 ---
-title: "Over the Top Review: A Former Juvenile Delinquent Discovers Arm Wrestling and Finds Something Worth Fighting For"
+title: "Over the Top Review"
 slug: "over-the-top"
-genre: "Sports"
+genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Over the Top"
-mangaTitleJa: "できたらいいな OVER THE CREATION"
-mangaAuthor: "Takahiro Oze"
-serialization: "Weekly Young Magazine"
+mangaTitleJa: "オーバー・ザ・トップ"
+mangaAuthor: "Takehiko Inoue"
+serialization: "Weekly Morning"
 publisher: "Kodansha / Kodansha Comics"
-volumes: 3
+volumes: 1
 status: "Completed"
-englishVolumes: 3
+englishVolumes: 1
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["delinquent themes", "violence references", "intense competition"]
-description: "Yu's review of Over the Top — Haru Momokawa is a former middle school delinquent who discovers arm wrestling through a chance encounter with a professional player; the series compresses the journey from complete beginner to competitive-level competitor into three volumes, focusing on technique, mental fortitude, and what the sport requires."
+contentWarnings:
+  - "mild violence"
+description: "A comprehensive review of Over the Top — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/over-the-top.jpg"
-amazonASIN: "1646510429"
+amazonASIN: "1646512332"
 publishedAt: "2026-04-25"
-tags: ["sports", "completed", "teen", "kodansha", "arm-wrestling"]
+tags:
+  - "sports"
+  - "wrestling"
+  - "short"
+  - "inoue-takehiko"
+  - "drama"
 rating: 4
 hasAffiliate: true
 ---
 
 ## Quick Take
 
-- Three volumes that do exactly what a short sports manga should: establish a character, develop a sport's specific requirements, and deliver a satisfying competitive arc without overstaying
-- Arm wrestling as manga subject is unusual enough that the technical content — the specific techniques, body positions, and mental demands of the sport — feels genuinely new
-- 3 volumes complete; tight and satisfying, the rare short sports manga that earns its ending
+- A single volume from the creator of Slam Dunk about a wrestler and his son
+- Brief but affecting — Inoue's storytelling power in concentrated form
+- Shows what Inoue can do in short format
 
 ## Who Is This Manga For?
 
-- Readers who want sports manga at a manageable length
-- Anyone interested in unusual sports with genuine technical depth
-- Fans of delinquent-to-competence character arcs in sports manga
-- Readers who want complete manga with no commitment to ongoing series
+- Fans of Takehiko Inoue's other work
+- Readers who want a complete sports experience in one volume
+- Wrestling fans curious about manga coverage of their sport
+- Anyone who wants to sample Inoue's storytelling without committing to Slam Dunk or Vagabond
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: T (Teen)
-**Content Warnings**: Protagonist's delinquent past referenced; some confrontational behavior; the competition sequences are intense
-
-The T rating is accurate.
+**Content Warnings**: mild violence
 
 ## Yu's Rating
 
@@ -50,81 +54,77 @@ The T rating is accurate.
 | Story Depth | ★★★★☆ |
 | Art Style | ★★★★☆ |
 | Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★☆☆ |
+| Accessibility for Non-Japanese Readers | ★★★☆☆ |
+| Reread Value | ★★★★☆ |
 
 ## Story Overview
 
-Haru Momokawa used to fight — not in organized competition, just in the way that some teenagers channel everything through physical confrontation. He has grown past that, mostly. He has no particular direction.
-
-An encounter with Yoshida, a professional arm wrestler who competes internationally, changes this. Yoshida sees something in Haru's grip strength and raw aggression that suggests potential. Haru begins training.
-
-The series is about what arm wrestling actually requires: specific technique that makes the match more than raw strength, the specific muscles trained, the mental component of reading an opponent and forcing a position. Oze treats the sport with the respect that makes sports manga compelling.
+Over the Top follows a professional wrestler whose career is defined by being number two — always just behind the best, never quite reaching the top. His relationship with his son, who idolizes him, and the determination to win once before he's done gives the short series its emotional core. The brief format doesn't allow for the epic character development of Inoue's long works, but the emotional precision is unmistakable.
 
 ## Characters
 
-**Haru** — His past as a fighter is not a character flaw to overcome; it is physical experience that translates to certain aspects of arm wrestling. His development is about channeling aggression into technique rather than eliminating it.
-
-**Yoshida** — The mentor figure whose investment in Haru's development comes from genuine recognition of talent. He is demanding without being cruel, and his competitive knowledge gives Haru's training content.
+The wrestler protagonist is specific and human — not a sports manga hero but a real athletic professional with a real career arc that isn't triumphant. His son's uncomplicated belief in his father creates the emotional tension. These two characters in one volume are more real than full casts in longer works.
 
 ## Art Style
 
-Oze's art handles the specific biomechanics of arm wrestling clearly — the technique that distinguishes good form from raw force is visible in the illustration rather than just described. Character designs are appropriately physical for the sport; the competition panels have proper tension.
+Inoue's art is extraordinary as always. Wrestling is physically demanding and technically specific, and his rendering of it respects both the athleticism and the showmanship. Character expressions are his trademark strength.
 
 ## Cultural Context
 
-Arm wrestling as competitive sport has a significant professional scene in Japan, with formal competitions and professional players. Over the Top uses this context — the difference between casual strength and sport-specific technique — to make the sport legible and interesting to readers who have never considered it as a discipline.
+Professional wrestling (puroresu) in Japan has a different cultural place than in the West — more respected as athletic competition, with crossover between pro wrestling and legitimate grappling traditions. Inoue treats it as a serious athletic pursuit rather than entertainment spectacle.
 
 ## What I Love About It
 
-The sequences depicting technique — where the difference between winning and losing is not strength but position and timing — are the series' best content. Oze makes arm wrestling genuinely interesting as a technical puzzle.
+The wrestler who is always second is a more interesting character than the champion. Most sports manga are about winning. Over the Top is about what it means to be close to the top your whole career without ever quite reaching it — and whether that was failure or a life well-lived. One volume is all it needs.
 
 ## What English-Speaking Fans Say
 
-Western readers describe Over the Top as a pleasant surprise — an unusual sport treated with enough technical respect to be interesting, in a length that doesn't require long-term commitment. The three-volume format is consistently praised as correctly sized for the story.
+Over the Top has a modest but appreciative readership, primarily among Inoue fans who seek out his less famous work. The brief format makes it accessible as a sample of his storytelling. Wrestling fans who read manga find it.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The first competition match where Haru's trained technique allows him to beat a stronger opponent through positioning rather than force — the first demonstration that he has actually learned something — is the series' most satisfying moment.
+**Spoiler Warning**: The son's observation of his father's match — the combination of pride and understanding that his father is genuinely doing his best — is the volume's emotional peak, landing with Inoue's characteristic quiet power.
 
 ## Similar Manga
 
-- **Kenichi** — Martial arts development, longer commitment
-- **Hinomaru Sumo** — Unusual sport taken seriously, similar respect for technique
-- **Levius** — Combat sport with technique focus
-- **Teppu** — MMA, similar sport-as-technical-discipline approach
+- **[Slam Dunk](/sports/slam-dunk)** — Inoue's most famous sports work
+- **[Vagabond](/sports/vagabond)** — Inoue's samurai epic — masterpiece
+- **[Real](/sports/real)** — Inoue's wheelchair basketball manga
 
 ## Reading Order / Where to Start
 
-Volume 1 — Haru's introduction to the sport and first training.
+Single volume — read at any time.
 
 ## Official English Translation Status
 
-Kodansha Comics published all 3 volumes. Complete and available.
+**Status**: Complete
+**Publisher**: Kodansha Comics
+**Volumes Available in English**: 1 of 1
 
 ## Pros & Cons
 
-**Pros**
-- Unusual sport treated with genuine technical depth
-- Three volumes is a satisfying commitment
-- Complete arc with earned ending
-- The technique content makes arm wrestling genuinely interesting
+**Pros:**
+- Inoue's emotional precision in concentrated form
+- Complete in one volume
+- Unusual protagonist — not a champion
+- Wrestling rendered with respect
 
-**Cons**
-- Three volumes means limited character development
-- The delinquent backstory is familiar
-- Arm wrestling is niche enough that some readers won't engage
+**Cons:**
+- Very short — limited development by necessity
+- Less known than Inoue's major works
+- Wrestling focus limits audience
 
 ## Format Comparison
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Kodansha Comics; complete |
-| Digital | Available |
+| Format | Link | Notes |
+|--------|------|-------|
+| Paperback | [Amazon](https://www.amazon.com/dp/1646512332?tag=dearmanga-20) | Kodansha Comics edition |
 
 ## Where to Buy
 
-[Get Over the Top Vol. 1 on Amazon →](https://www.amazon.com/s?k=Over+the+Top+manga&i=stripbooks)
+You can find **Over the Top** on Amazon:
+
+👉 [Buy Over the Top on Amazon](https://www.amazon.com/dp/1646512332?tag=dearmanga-20)
 
 ---
 

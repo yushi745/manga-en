@@ -1,132 +1,132 @@
 ---
-title: "Keijo!!!!!!!! Review: A Sport Designed to Be Absurd Takes Itself Completely Seriously and Becomes Something Wonderful"
+title: "Keijo!!!!!!!! Review"
 slug: "keijo"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Keijo!!!!!!!!"
 mangaTitleJa: "競女!!!!!!!!"
 mangaAuthor: "Daichi Sorayomi"
-serialization: "Weekly Big Comic Spirits"
-publisher: "Shogakukan / Viz Media"
+serialization: "Weekly Shonen Sunday"
+publisher: "Shogakukan / VIZ Media"
 volumes: 18
 status: "Completed"
 englishVolumes: 18
 englishStatus: "Complete"
 ageRating: "M (Mature)"
-contentWarnings: ["fanservice", "suggestive content", "physical competition"]
-description: "Yu's review of Keijo!!!!!!!! — Keijo is a competitive sport played on floating platforms where athletes can only use their chests and backsides to knock opponents into the water; Nozomi Kaminashi, a gifted gymnast, enters the sport to earn money for her family."
+contentWarnings:
+  - "nudity"
+  - "sexual content"
+  - "sports violence"
+description: "A comprehensive review of Keijo!!!!!!!! — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/keijo.jpg"
-amazonASIN: "1421596415"
-publishedAt: "2026-04-24"
-tags: ["sports", "comedy", "seinen", "completed"]
+amazonASIN: "1421590786"
+publishedAt: "2026-04-25"
+tags:
+  - "sports"
+  - "comedy"
+  - "ecchi"
+  - "female-protagonist"
+  - "unique"
 rating: 3
 hasAffiliate: true
 ---
 
 ## Quick Take
 
-- The premise is deliberately absurd; the execution is completely sincere; the sincerity is what makes it work
-- Keijo treats its ridiculous sport with the same technical seriousness that Haikyu!! treats volleyball — every technique has a name, a biomechanical logic, and a counter
-- 18 volumes complete; the most committed comedy in sports manga
+- Women compete in a sport where they can only use their breasts and buttocks to knock opponents off a platform
+- Sounds absurd — and it is — but it's also genuinely committed to its sports manga structure
+- If you can engage with the premise, it's a surprisingly well-executed sports comedy
 
 ## Who Is This Manga For?
 
-- Readers who can engage with absurd premises taken completely seriously
-- Fans of sports manga who want to see the genre's conventions applied to an unexpected context
-- Anyone who enjoys sports manga that generates genuine excitement from its match sequences
-- Readers who understand that the M rating is primarily for fanservice
+- Adults who can engage with the absurd premise without discomfort
+- Sports manga fans who want something completely different
+- Readers who appreciate when ridiculous premises are taken seriously
+- Fans of female-protagonist sports manga
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: M (Mature)
-**Content Warnings**: Significant fanservice — the sport's nature means character bodies are prominently depicted; this is a sports manga built around a concept specifically designed to generate fanservice
-
-The content is not graphic in an explicit sense but the premise is built around it.
+**Content Warnings**: nudity, sexual content, sports violence
 
 ## Yu's Rating
 
 | Category | Score |
 |----------|-------|
 | Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
+| Art Style | ★★★☆☆ |
 | Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
+| Accessibility for Non-Japanese Readers | ★★★☆☆ |
 | Reread Value | ★★★☆☆ |
 
 ## Story Overview
 
-Keijo is a professional sport played on floating platforms called "lands." Athletes can only touch opponents using their chest or backside. The goal is to knock opponents off the platform into the water. Athletes are called "players" and train in professional schools.
-
-Nozomi Kaminashi is a gymnast with extraordinary physical ability. She enters the Setouchi Keijo Training School to earn prize money for her family. She is talented but undisciplined, and the sport is more technically demanding than she expected.
-
-The series follows her training and competition. Every technique is named and explained. The match sequences are structured exactly like conventional sports manga matches. The comedy comes from applying this serious structure to an absurd premise, and the series never flinches.
+Nozomi Kaminashi is a former gymnastics prodigy who decides to become a professional Keijo player — an exclusively female sport where competitors stand on floating platforms over water and try to knock each other off using only their chests and buttocks. The sport is wildly lucrative in this alternate Japan. Nozomi joins a Keijo training program and must develop her unique abilities while competing against other talented players. The series plays the sports manga formula completely straight despite its absurd premise.
 
 ## Characters
 
-**Nozomi Kaminashi** — The same character type as most sports manga protagonists: naturally talented, insufficiently disciplined, driven by something external. What makes her specific is her gymnastic background providing techniques the sport's conventions don't anticipate.
-
-**Sayaka Miyata** — Nozomi's roommate and training partner whose complementary strengths provide the central friendship.
-
-**Non Toyoguchi** — A rival whose analytical approach to the sport contrasts with Nozomi's instinctive style.
+Nozomi is a legitimate sports protagonist — determined, talented, developing a unique fighting style. Her training partners and competitors are drawn with genuine sports manga depth. The comedy comes from the premise, not from making the characters ridiculous.
 
 ## Art Style
 
-The sport demands dynamic body movement and the art delivers it — match sequences are kinetically drawn with the same panel energy that conventional sports manga applies to volleyball or basketball. The technique illustrations are clear and sometimes genuinely creative in how they explain the biomechanics.
+Sorayomi's art handles the ecchi elements while maintaining sports manga clarity in competition sequences. The various Keijo techniques are given visual distinctiveness despite the premise constraints.
 
 ## Cultural Context
 
-Keijo!! operates in the tradition of absurdist sports manga — a tradition that includes other series that took impossibly specific premises and applied genuine craft to them. The series's sincerity about its premise is part of a Japanese manga tradition where commitment to concept is itself a value.
+Keijo!!!!!!!!! satirizes the extreme professionalism of Japanese sports culture by applying it to an absurd athletic discipline. The detailed ruleset, training regimens, and professional development of fictional Keijo mirrors how seriously Japan takes sports infrastructure in other disciplines.
 
 ## What I Love About It
 
-The technique naming. Every major move in Keijo has a name that sounds exactly like a martial arts technique and is accompanied by a diagram explaining its physical mechanism. The gap between the seriousness of the naming convention and the nature of what is being named generates consistent comedy while also making the match sequences genuinely follow-able.
+I admire Keijo!!!!!!!!! for its commitment. It genuinely treats its sport with the same narrative seriousness as Haikyuu treats volleyball. The training arcs are real. The competitive development is tracked. The protagonist grows. The fact that the sport is what it is doesn't make any of that less real in the narrative.
 
 ## What English-Speaking Fans Say
 
-Western readers are divided: readers who engage with the premise find it one of the most entertainingly committed manga they have encountered; readers who can't get past the premise don't get far. Those who engage consistently cite the tournament arc as generating genuine sports manga excitement from a premise designed to be ridiculous.
+Keijo!!!!!!!!! has a divided reception internationally. Readers who accept the premise find it a competently executed sports comedy. Readers who find the premise objectifying cannot engage regardless of the execution. The anime adaptation brought wider attention. Complete at 18 volumes.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The debut of the "Vacuum Butt Cannon" technique in competition — a technique so mechanically improbable that it becomes a genuine tournament turning point — is the series' clearest example of what it is.
+**Spoiler Warning**: Nozomi's first major competitive victory — earned through genuine tactical innovation within the constraints of the sport — is an actual sports manga triumph moment that works despite everything.
 
 ## Similar Manga
 
-- **Haikyu!!** — The sports manga template that Keijo is applying to its premise
-- **Bamboo Blade** — Kendo, similarly sincere about its sport
-- **Scorching Ping Pong Girls** — Non-traditional sports competition, female athletes
-- **Food Wars** — Absurd premise taken with complete culinary seriousness
+- **[Food Wars!](/sports/shokugeki)** — Another series with ecchi elements in competitive context
+- **[Prison School](/sports/prison-school)** — Mature comedy with sports-adjacent competition
+- **[Shokugeki no Soma](/sports/shokugeki)** — Similar tone balance
 
 ## Reading Order / Where to Start
 
-Volume 1 — the premise is established immediately.
+Start from Volume 1. Complete at 18 volumes.
 
 ## Official English Translation Status
 
-Viz Media published the complete 18-volume run. All volumes available.
+**Status**: Complete
+**Publisher**: VIZ Media
+**Volumes Available in English**: 18 of 18
 
 ## Pros & Cons
 
-**Pros**
-- Commits completely to its premise
-- Match sequences generate genuine sports manga excitement
-- The technique system is surprisingly sophisticated
-- Complete in English at excellent value
+**Pros:**
+- Committed to its sports manga structure
+- Nozomi is a genuine protagonist
+- Complete series
+- Consistently funny within its premise
 
-**Cons**
-- The M rating is earned through consistent fanservice
-- Not suitable for readers who cannot engage with the premise
-- Character depth is secondary to sport mechanics
+**Cons:**
+- Premise is a hard barrier for many readers
+- Ecchi content throughout
+- Not for readers looking for serious sports manga
 
 ## Format Comparison
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Viz; standard |
-| Digital | Available |
+| Format | Link | Notes |
+|--------|------|-------|
+| Paperback | [Amazon](https://www.amazon.com/dp/1421590786?tag=dearmanga-20) | VIZ edition — all 18 volumes |
 
 ## Where to Buy
 
-[Get Keijo!!!!!!!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Keijo%21%21%21%21%21%21%21%21+manga&i=stripbooks)
+You can find **Keijo!!!!!!!!** on Amazon:
+
+👉 [Buy Keijo!!!!!!!! on Amazon](https://www.amazon.com/dp/1421590786?tag=dearmanga-20)
 
 ---
 

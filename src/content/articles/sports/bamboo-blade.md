@@ -1,133 +1,130 @@
 ---
-title: "Bamboo Blade Review: A Broke Kendo Coach Needs His Team to Win for a Bet"
+title: "Bamboo Blade Review"
 slug: "bamboo-blade"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Bamboo Blade"
 mangaTitleJa: "バンブーブレード"
-mangaAuthor: "Masahiro Totsuka (story) / Aguri Igarashi (art)"
+mangaAuthor: "Masahiro Totsuka / Aguri Igarashi"
 serialization: "Monthly Young Gangan"
 publisher: "Square Enix / Yen Press"
-volumes: 15
+volumes: 14
 status: "Completed"
-englishVolumes: 15
+englishVolumes: 14
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["mild fanservice", "comedic situations", "sports competition"]
-description: "Yu's review of Bamboo Blade — a high school kendo coach who is always broke makes a bet with an old friend that his team will beat theirs, motivating him to actually assemble a team from his club's few members."
+contentWarnings:
+  - "mild violence"
+  - "kendo"
+description: "A comprehensive review of Bamboo Blade — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/bamboo-blade.jpg"
-amazonASIN: "0316240532"
-publishedAt: "2026-04-24"
-tags: ["sports", "comedy", "kendo", "completed", "school"]
+amazonASIN: "0759530548"
+publishedAt: "2026-04-25"
+tags:
+  - "sports"
+  - "kendo"
+  - "comedy"
+  - "school"
+  - "female-protagonist"
 rating: 4
 hasAffiliate: true
 ---
 
 ## Quick Take
 
-- A kendo coach makes a bet for a year of free sushi against his old friend — if his team wins, he eats well; if they lose, he's embarrassed and hungry — which gives him genuine motivation to coach for the first time
-- Sports comedy that takes kendo seriously while having fun with the ensemble
-- 15 volumes, complete
+- A broke teacher recruits kendo club members to win a bet — and finds genuine talent
+- Warm sports comedy that makes kendo accessible and appealing
+- Tamaki is one of the most charming sports manga protagonists
 
 ## Who Is This Manga For?
 
-- Readers who want sports comedy with a female-led ensemble in an unusual sport
-- Anyone interested in kendo as a martial art portrayed with technical accuracy alongside the comedy
-- Fans of school sports manga who want something lighter in tone
-- Readers who want a complete series with a consistent comedic voice
+- Sports comedy fans who want something lighter than intense competition manga
+- Kendo enthusiasts or those curious about the martial art
+- Readers who like ensemble casts with varied personalities
+- Anyone who wants a complete, easy-reading sports series
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: T (Teen)
-**Content Warnings**: Mild fanservice, comedic situations, kendo competition
-
-Accessible. Standard sports comedy content.
+**Content Warnings**: mild violence, kendo
 
 ## Yu's Rating
 
 | Category | Score |
 |----------|-------|
-| Story Depth | ★★★☆☆ |
+| Story Depth | ★★★★☆ |
 | Art Style | ★★★★☆ |
 | Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
+| Accessibility for Non-Japanese Readers | ★★★☆☆ |
+| Reread Value | ★★★★☆ |
 
 ## Story Overview
 
-Toraji Ishida is a high school kendo coach with more ambition than work ethic and a permanent financial problem. When his old kendo rival, now also a coach, proposes a bet — pit their teams against each other, winner buys the loser a year of free sushi — Ishida has genuine motivation for the first time.
-
-His team: Tamaki Kawazoe, who is the most talented kendo prodigy he has ever seen but has no interest in competitive kendo; Kirino Chiba, the team captain who is more enthusiastic than talented; and others assembled with varying degrees of success.
-
-The manga follows the team's development, the growing attachment of each member to kendo and to each other, and Ishida's gradual transformation from purely mercenary coach to someone who actually cares about his students.
+Teacher Kojirou Ishida is broke and bets a case of sushi on whether his kendo club can beat a rival school's team. The problem is his club has only one serious member and he needs five for a team. He recruits members — including Tamaki, a quiet girl with natural kendo talent who loves superhero anime. The series follows the club's development from obligation to genuine passion, with Tamaki's exceptional ability as the technical anchor and the ensemble's varied personalities as the comedy.
 
 ## Characters
 
-**Tamaki Kawazoe** — The prodigy who finds kendo easy and matches boring. Her arc is discovering why competition might be worth caring about.
-
-**Kirino Chiba** — The team captain whose enthusiasm compensates for her talent limitations; her role as social glue for the team is the ensemble's heart.
-
-**Ishida** — The coach whose selfishness is gradually undermined by genuine attachment to his students. His arc is quieter than the students' but equally satisfying.
+Tamaki is a memorable sports protagonist — remarkably skilled but also remarkably oblivious about everything except kendo and her favorite superhero shows. Her contrast with more socially aware teammates creates natural comedy. The ensemble includes enough variety to keep any reader finding someone to follow.
 
 ## Art Style
 
-Igarashi's art is clean and expressive — the kendo sequences are dynamic and technically aware, and the character designs are distinct enough to track across the ensemble. The comedy timing is handled well visually.
+Igarashi's art is clean and expressive — kendo equipment and technique are rendered accurately. Character expressions handle both comedy and athletic intensity well. The visual style is welcoming rather than intimidating.
 
 ## Cultural Context
 
-Kendo — Japanese sword fighting using shinai (bamboo swords) and armor — is a common middle and high school activity in Japan, with a significant competitive circuit. The manga depicts kendo competition rules and technique with care, making it educational for Western readers unfamiliar with the sport.
+Kendo is a traditional Japanese martial art that has modernized as a competitive sport while maintaining connections to samurai tradition. High school kendo clubs are serious competitive institutions. Bamboo Blade respects the martial art while making it accessible and funny.
 
 ## What I Love About It
 
-Tamaki's development. She begins as someone for whom kendo is simply natural — she has been training since childhood, it is easy, it does not mean anything because nothing costs her anything. Watching her encounter someone who makes her work for it, and discover that working for something makes it matter, is the manga's central sports insight.
+What I love about Bamboo Blade is Tamaki. A character who is exceptionally good at something specific, completely unaware of everything else, devoted to her anime and her kendo — she's drawn with genuine affection rather than mockery. Her teammates learn to love her quirks. So does the reader.
 
 ## What English-Speaking Fans Say
 
-Bamboo Blade has a modest Western following from the anime adaptation. Western readers appreciate the kendo content as introduction to an unfamiliar sport, and the ensemble's character dynamics. The comedy is considered well-paced for sports manga.
+Bamboo Blade has a devoted international fanbase, particularly in kendo communities and among fans of sports comedy. The anime adaptation is well-regarded. Complete at 14 volumes. Yen Press made it fully available in English.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-Tamaki's first match where she struggles — where the result is not guaranteed — is the chapter that pays off the entire setup of her character. Igarashi draws her uncertainty with care.
+**Spoiler Warning**: Tamaki's first real competitive match against a serious opponent — where her technical excellence is tested in actual competition — delivers the sports manga satisfaction that the early comedy volumes promise.
 
 ## Similar Manga
 
-- **Haikyu!!** — More intense sports, similar team-building
-- **Slam Dunk** — Sports with character focus
-- **K-On!** — Female ensemble, different activity, similar warmth
-- **Eyeshield 21** — Comedy sports, similar energy
+- **[Chihayafuru](/sports/chihayafuru)** — Female-led competitive traditional game manga
+- **[Saki](/sports/saki)** — Female-led competitive game manga with ensemble
+- **[Haikyuu!!](/sports/haikyu)** — Sports ensemble done brilliantly
 
 ## Reading Order / Where to Start
 
-Volume 1. The bet premise is established in the first chapter.
+Start from Volume 1. Complete at 14 volumes.
 
 ## Official English Translation Status
 
-Yen Press published the complete 15-volume series. All volumes available.
+**Status**: Complete
+**Publisher**: Yen Press
+**Volumes Available in English**: 14 of 14
 
 ## Pros & Cons
 
-**Pros**
-- 15 volumes, complete
-- Kendo rendered with genuine technical awareness
-- Tamaki's arc is well-developed
-- Consistent comedy throughout
+**Pros:**
+- Tamaki is a great protagonist
+- Kendo treated accurately and accessibly
+- Complete series
+- Comedy and sports balance well
 
-**Cons**
-- Lower story depth than dramatic sports manga
-- Mild fanservice in early volumes
-- Ishida's mercenary motivation can make him unsympathetic initially
+**Cons:**
+- Comedy focus may slow pacing for action fans
+- Some ensemble members underdeveloped
 
 ## Format Comparison
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Standard Yen Press release |
-| Digital | Works well |
-| Physical | Fine |
+| Format | Link | Notes |
+|--------|------|-------|
+| Paperback | [Amazon](https://www.amazon.com/dp/0759530548?tag=dearmanga-20) | Yen Press edition — all 14 volumes |
 
 ## Where to Buy
 
-[Get Bamboo Blade Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bamboo+Blade+manga&i=stripbooks)
+You can find **Bamboo Blade** on Amazon:
+
+👉 [Buy Bamboo Blade on Amazon](https://www.amazon.com/dp/0759530548?tag=dearmanga-20)
 
 ---
 

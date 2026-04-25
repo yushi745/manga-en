@@ -1,130 +1,130 @@
 ---
-title: "Robot x Laserbeam Review: A Boy Who Never Played Golf Picks Up a Club and Shoots Perfectly Straight"
+title: "Robot x Laserbeam Review"
 slug: "robot-x-laserbeam"
-genre: "Sports / Drama"
+genre: "Sports / Golf"
 genreSlug: "sports"
 mangaTitle: "Robot x Laserbeam"
-mangaTitleJa: "ROBOT×LASERBEAM"
-mangaAuthor: "Tadatoshi Fujimaki"
+mangaTitleJa: "ロボット×レーザービーム"
+mangaAuthor: "Yuuki Iinuma"
 serialization: "Weekly Shonen Jump"
 publisher: "Shueisha / VIZ Media"
 volumes: 9
 status: "Completed"
-englishVolumes: 0
-englishStatus: "Digital Only"
+englishVolumes: 9
+englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["competitive pressure", "mild sports rivalry"]
-description: "Yu's review of Robot x Laserbeam — Robo Yamada picks up golf and discovers he can hit the ball in a perfectly straight line with no effort; his childhood friend Youzan, a natural golf prodigy, recruits him to a team to compete in high school golf; the creator of Kuroko's Basketball applies the same concept to golf."
+contentWarnings:
+  - "mild competition"
+description: "A comprehensive review of Robot x Laserbeam — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/robot-x-laserbeam.jpg"
-publishedAt: "2026-04-24"
-tags: ["sports", "shonen", "completed", "golf", "Fujimaki"]
+amazonASIN: "1974700009"
+publishedAt: "2026-04-25"
+tags:
+  - "sports"
+  - "golf"
+  - "shonen"
+  - "talent"
+  - "complete"
 rating: 3
-hasAffiliate: false
+hasAffiliate: true
 ---
 
 ## Quick Take
 
-- The creator of Kuroko's Basketball applies the "protagonist with one impossible ability and no other skill" formula to golf — it works about as well as Kuroko did
-- 9 volumes, complete; the only golf sports manga in English from a major publisher
-- Worth it for golf sports manga fans; Fujimaki's formula readers will know what to expect
+- A robotically precise boy with no interest in people discovers golf — and becomes terrifying at it
+- Golf manga that takes the sport seriously in a Jump format
+- Robo's character arc from emotionless to genuinely engaged is the series' hook
 
 ## Who Is This Manga For?
 
-- Fans of Kuroko's Basketball who want the same creator's next project
-- Golf enthusiasts who want a sports manga about their sport
-- Readers who want short, complete sports manga with clear premises
-- Anyone interested in the specific shonen sports formula applied to an unusual sport
+- Sports manga fans who want something different from the usual sports
+- Golf enthusiasts who want manga coverage of their game
+- Readers who like the 'talent without emotion discovers passion' protagonist archetype
+- Complete series seekers — 9 volumes, done
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: T (Teen)
-**Content Warnings**: Sports competition, mild rivalry
-
-Very clean content.
+**Content Warnings**: mild competition
 
 ## Yu's Rating
 
 | Category | Score |
 |----------|-------|
 | Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
+| Art Style | ★★★☆☆ |
 | Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
+| Accessibility for Non-Japanese Readers | ★★★☆☆ |
 | Reread Value | ★★★☆☆ |
 
 ## Story Overview
 
-Robo Yamada has no particular talents or interests. He picks up a golf club at a driving range because his childhood friend Youzan Hara, a golf prodigy, asks him to try it. Robo hits the ball in a perfectly straight line. Every time. No matter what.
-
-He cannot do anything else golf-related. His driving distance is poor, his short game is undeveloped, his course management is nonexistent. But the straight drive — the laser precision — is completely unprecedented.
-
-Youzan recruits Robo to the high school golf team to develop the rest of his game around this one ability.
+Robo Fujitani is a high schooler who processes everything mechanically and has no apparent emotional engagement with other people. When he picks up a golf club to help a classmate, his mechanical precision produces perfect, laser-accurate drives. He joins the golf team and begins developing as a player — and, through golf, begins developing as a human being as well.
 
 ## Characters
 
-**Robo Yamada** — The familiar Fujimaki-formula protagonist: one supernatural ability, no ego about it, total sincerity. The formula worked in Kuroko; it works here in a simpler form.
-
-**Youzan Hara** — The natural prodigy who plays the Kagami role — someone who serves as competition and motivation for the protagonist while developing independently.
-
-**The team members** — Each with a defined specialty; Fujimaki's ensemble construction is consistent with his previous work.
+Robo's arc from someone who cannot connect emotionally to someone who begins understanding what other people mean to him is the series' character engine. His teammates are drawn with enough personality to support his development. The rival golfers are memorable.
 
 ## Art Style
 
-Fujimaki's art is clean and competent — the golf swing sequences are drawn with reasonable accuracy, the character designs are distinct, and the match sequences communicate the specific tension of golf competition. Nothing is exceptional; nothing is poor.
+Iinuma's art handles the specific technical demands of depicting golf well — swing mechanics, course geography, ball trajectory. The design philosophy of Robo's robotic precision is conveyed visually through his posture and expression.
 
 ## Cultural Context
 
-High school golf in Japan is a competitive discipline with its own tournament structure. The series uses real course geography and real golf competition formats, which gives the sport content genuine grounding.
+Golf in Japan is both an elite sport and a serious recreational activity — the cultural associations are different from Western golf, with strong business culture connections. High school golf programs are legitimate competitive institutions. Robot x Laserbeam treats this seriously.
 
 ## What I Love About It
 
-The golf itself. Fujimaki clearly researched the sport enough to make the competitive content meaningful — the different shots required on different holes, the wind reading, the club selection — are handled with enough accuracy that the series functions as a basic introduction to golf competition.
+Robo is an unusual sports protagonist because his talent isn't the main interest — his emotional development is. Golf is the vehicle through which he begins to understand people and connection. When the sport becomes meaningful to him beyond mechanical excellence, the series earns something most sports manga doesn't reach for.
 
 ## What English-Speaking Fans Say
 
-Western readers who found Robot x Laserbeam through Kuroko's Basketball describe it as a shorter, simpler version of the same formula. Golf readers are pleased to have any manga about their sport. The consensus is that it is exactly what it promises — no more, no less.
+Robot x Laserbeam has mixed reception internationally — golf manga is a niche within a niche, and the series didn't quite achieve breakout status during its Jump run. Readers who stuck with it generally appreciated the character development and the respectful golf treatment.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The match where Robo's precision straight drive has to navigate a course that punishes straight driving — where his one ability becomes his limitation — is the series' most interesting single challenge.
+**Spoiler Warning**: The moment when Robo plays a hole with genuine emotion rather than mechanical precision — when something breaks through his robotic exterior — and the surprise of that moment for both him and the reader.
 
 ## Similar Manga
 
-- **Kuroko's Basketball** — Same creator; basketball; more developed
-- **Hikaru no Go** — Another unusual sport made compelling
-- **Haikyu!!** — Sports manga at a higher ambition level for comparison
+- **[Ping Pong the Animation](/sports/ping-pong)** — Protagonist finding passion in unexpected sport
+- **[Haikyuu!!](/sports/haikyu)** — Sports manga structure done optimally
+- **[Eyeshield 21](/sports/eyeshield-21)** — Unusual protagonist in unusual sport
 
 ## Reading Order / Where to Start
 
-Volume 1 — the premise is the series; it establishes immediately.
+Start from Volume 1. Complete at 9 volumes.
 
 ## Official English Translation Status
 
-Available digitally via VIZ Media. No English print edition exists.
+**Status**: Complete
+**Publisher**: VIZ Media
+**Volumes Available in English**: 9 of 9
 
 ## Pros & Cons
 
-**Pros**
-- 9 volumes, complete — very low commitment
-- Only golf sports manga in English from a major publisher
-- Clean and fast to read
-- The Fujimaki formula is reliable
+**Pros:**
+- Golf treated respectfully
+- Robo's character arc is interesting
+- Complete at 9 volumes
+- Different sports setting
 
-**Cons**
-- The formula is very familiar if you've read Kuroko's Basketball
-- Less depth than Fujimaki's previous work
-- The 9-volume length compresses what could be more interesting
+**Cons:**
+- Golf focus limits appeal
+- Cancelled before full potential
+- Some readers find Robo's character gimmick thin
 
 ## Format Comparison
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | VIZ Media; standard |
-| Digital | Available |
+| Format | Link | Notes |
+|--------|------|-------|
+| Paperback | [Amazon](https://www.amazon.com/dp/1974700009?tag=dearmanga-20) | VIZ edition — all 9 volumes |
 
 ## Where to Buy
 
-*This title is not available in English print.*
+You can find **Robot x Laserbeam** on Amazon:
+
+👉 [Buy Robot x Laserbeam on Amazon](https://www.amazon.com/dp/1974700009?tag=dearmanga-20)
 
 ---
 

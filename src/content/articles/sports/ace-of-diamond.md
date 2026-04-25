@@ -1,46 +1,51 @@
 ---
-title: "Ace of Diamond Review: A Wild Pitcher With an Unhittable Change-Up Chases the Title of Ace at Japan's Best Baseball High School"
+title: "Ace of Diamond Review"
 slug: "ace-of-diamond"
-genre: "Sports / Drama"
+genre: "Sports / Baseball"
 genreSlug: "sports"
-mangaTitle: "Ace of Diamond (Daiya no A)"
-mangaTitleJa: "ダイヤのA〈エース〉"
+mangaTitle: "Ace of Diamond"
+mangaTitleJa: "ダイヤのA"
 mangaAuthor: "Yuji Terajima"
 serialization: "Weekly Shonen Magazine"
-publisher: "Kodansha"
+publisher: "Kodansha / Kodansha Comics"
 volumes: 47
 status: "Completed"
-englishVolumes: 47
-englishStatus: "Digital Only"
+englishVolumes: 26
+englishStatus: "Ongoing"
 ageRating: "T (Teen)"
-contentWarnings: ["competitive pressure", "team conflict", "injury"]
-description: "Yu's review of Ace of Diamond — Eijun Sawamura is a pitcher from a small town with an unorthodox delivery and an unhittable change-up; he is recruited to Seidou High School, one of Japan's best baseball programs, and has to earn the title of ace against a team full of better-prepared players."
+contentWarnings:
+  - "sports competition"
+description: "A comprehensive review of Ace of Diamond — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/ace-of-diamond.jpg"
-publishedAt: "2026-04-24"
-tags: ["sports", "shonen", "completed", "baseball", "pitcher"]
+amazonASIN: "1612629172"
+publishedAt: "2026-04-25"
+tags:
+  - "sports"
+  - "baseball"
+  - "school"
+  - "team"
+  - "long-series"
 rating: 4
-hasAffiliate: false
+hasAffiliate: true
 ---
 
 ## Quick Take
 
-- A chaotic, lovable pitcher with one truly special pitch has to grow into an actual ace at a school where everything is competitive — 47 volumes of high school baseball
-- Terajima's series is one of the most popular baseball manga of its generation in Japan
-- Complete at 47 volumes; the sequel series (Act II) continues the story
+- A boy with a special breaking ball joins one of Japan's best baseball programs
+- The most technically detailed baseball manga — players who play will recognize the craft
+- 47 volumes of team building, competition, and baseball excellence
 
 ## Who Is This Manga For?
 
-- Baseball manga fans who want a long-form high school series with genuine team depth
-- Readers who want a shonen sports protagonist who is more chaotic than refined
-- Anyone who wants completed sports manga with a full high school baseball arc
-- Fans of ensemble sports teams where multiple players have complete arcs
+- Baseball fans who want technical accuracy in their manga
+- Sports manga readers who can commit to long series
+- Anyone interested in how elite Japanese high school sports programs work
+- Fans of team dynamics rather than individual hero stories
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: T (Teen)
-**Content Warnings**: Competitive pressure throughout; some injury content; team hierarchy conflicts
-
-Standard T-rated baseball manga.
+**Content Warnings**: sports competition
 
 ## Yu's Rating
 
@@ -48,86 +53,78 @@ Standard T-rated baseball manga.
 |----------|-------|
 | Story Depth | ★★★★☆ |
 | Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
+| Character Development | ★★★★☆ |
+| Accessibility for Non-Japanese Readers | ★★★☆☆ |
 | Reread Value | ★★★★☆ |
 
 ## Story Overview
 
-Eijun Sawamura pitches for his small-town middle school team. His delivery is unorthodox — crooked release, movement pattern that doesn't make sense by conventional mechanics. The ball goes where it goes, and opposing batters cannot hit it. His change-up breaks in ways that should not be possible.
-
-He is recruited to Seidou High School's baseball program — one of the best in Japan. Seidou has a squad of talented pitchers, including Satoru Furuya, who is physically and mechanically superior to Sawamura in every measurable way.
-
-The 47 volumes follow Sawamura's development from wildcard newcomer to the ace the title promises, alongside the team's competition through the regional and national high school tournaments.
+Eijun Sawamura is a lefty pitcher from rural Japan whose unusual breaking ball attracts the attention of a scout from Seido High School — one of Japan's elite baseball programs. He transfers to Seido with dreams of becoming their ace, but discovers a highly competitive environment full of talented players. His teammate Furuya is a right-handed prodigy. The series follows Sawamura's development alongside Seido's pursuit of Koshien (the national championship).
 
 ## Characters
 
-**Eijun Sawamura** — His personality is the series' primary energy: loud, optimistic, frequently wrong, occasionally brilliant. His specific growth — learning to control what he can while developing the mechanical consistency his natural ability lacks — is the series' primary arc.
-
-**Satoru Furuya** — The rival within the same team; his methodical approach and raw physical ability contrast with Sawamura's chaos in ways the series uses consistently.
-
-**Kazuya Miyuki** — The catcher whose specific game-reading ability is what makes Sawamura functional; their battery relationship is the series' most important partnership.
-
-**Jun Isashiki and the Seidou upperclassmen** — The older players whose presence shapes what Sawamura is working toward and why reaching Koshien matters beyond personal ambition.
+Sawamura is a bright, enthusiastic protagonist whose development from rough talent to refined pitcher drives the series. The ensemble at Seido is extensive and well-developed — coaches, catchers, fielders, rival pitchers all receive genuine attention. Team dynamics rather than individual heroism define the series.
 
 ## Art Style
 
-Terajima's art handles baseball with genuine craft — the pitching mechanics, the batting stances, the fielding positions are drawn with the accuracy of research and experience. The character designs for the large ensemble are distinct and consistent across 47 volumes. Match sequences communicate both the game logic and the emotional stakes.
+Terajima's art handles baseball with technical precision — pitching mechanics, batting stances, fielding positions are all drawn correctly. Game sequences convey the strategy and tension of high-level baseball effectively.
 
 ## Cultural Context
 
-Seidou High School is fictional but represents a real type: the elite high school baseball program with national reputation, year-round training, and a pipeline to college and professional baseball. The Koshien aspiration that drives the series is the same cultural structure as Touch and Cross Game, but Terajima depicts the institutional side — the scouting, the coaching decisions, the team culture — more thoroughly than Adachi does.
+Koshien — the National High School Baseball Championship — is one of Japan's most emotionally significant sporting events. Getting to Koshien is the defining dream of Japanese high school baseball. Ace of Diamond is saturated with this cultural weight, which resonates strongly with Japanese readers.
 
 ## What I Love About It
 
-The catcher-pitcher relationship. Miyuki and Sawamura's battery dynamic is the series' most interesting element — Miyuki's ability to read batters and select pitches against Sawamura's ability to execute anything Miyuki calls. The trust that builds between them across 47 volumes is the series' most complete relationship arc.
+Ace of Diamond takes team seriously. Sawamura cannot carry Seido alone — the team wins and loses together, and every member's development matters. This makes the extended cast feel necessary rather than overcrowded. When Seido finally achieves something great, it's because everyone contributed, and you've seen everyone contribute.
 
 ## What English-Speaking Fans Say
 
-Western readers cite Ace of Diamond as one of the most thoroughly realized high school baseball series in manga — the team depth, the multiple seasons covered, the coaching decisions that affect the roster — give it a realistic quality that pure tournament manga often lack. Sawamura's personality is either loved or tolerated; nobody is neutral.
+Ace of Diamond is beloved in Japan as the definitive contemporary baseball manga. International readers who follow baseball and manga both enjoy it. The English release is ongoing but significantly behind the completed Japanese run. The continuation series (Act II) has also begun.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The game where Sawamura finally pitches as the acknowledged ace — not just in a spot start but as the team's first choice in the most important game — is the series' payoff for 47 volumes of building, and Terajima executes it with appropriate weight.
+**Spoiler Warning**: The first real game where Sawamura and catcher Miyuki click — where their different approaches suddenly work together rather than against each other — is the series' foundational baseball moment.
 
 ## Similar Manga
 
-- **Diamond no Ace Act II** — Sequel series continuing the story
-- **Touch** — Baseball, simpler and more emotional (Adachi)
-- **Baby Steps** — Tennis, similar long-form competitive development
-- **Haikyu!!** — Team sports at this scale and depth
+- **[Cross Game](/sports/cross-game)** — Adachi's baseball manga with more romance
+- **[Big Windup!](/sports/big-windup)** — Psychological baseball focusing on a single pitcher
+- **[Slam Dunk](/sports/slam-dunk)** — Different sport but similar team-building satisfaction
 
 ## Reading Order / Where to Start
 
-Volume 1 — the Seidou recruiting and Sawamura's first days establish the premise quickly.
+Start from Volume 1. Note: English is ongoing and behind Japanese.
 
 ## Official English Translation Status
 
-Available digitally via Kodansha USA (all 47 volumes complete). No English print edition.
+**Status**: Ongoing
+**Publisher**: Kodansha Comics
+**Volumes Available in English**: 26 of 47
 
 ## Pros & Cons
 
-**Pros**
-- 47 volumes, complete
-- Ensemble team depth is exceptional
-- The Miyuki-Sawamura battery relationship is the series' finest element
-- Multiple seasons provide natural arc structure
+**Pros:**
+- Technical baseball accuracy
+- Team ensemble is richly developed
+- Complete in Japanese
+- Koshien drama delivers
 
-**Cons**
-- 47 volumes is the largest commitment in sports manga
-- Sawamura's personality can be exhausting in extended doses
-- The pace of development can feel slow in tournament elimination arcs
+**Cons:**
+- English far behind Japanese
+- 47 volumes is massive commitment
+- Slow middle sections
 
 ## Format Comparison
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Kodansha USA; standard |
-| Digital | Available |
+| Format | Link | Notes |
+|--------|------|-------|
+| Paperback | [Amazon](https://www.amazon.com/dp/1612629172?tag=dearmanga-20) | Kodansha Comics edition — ongoing |
 
 ## Where to Buy
 
-*This title is not available in English print.*
+You can find **Ace of Diamond** on Amazon:
+
+👉 [Buy Ace of Diamond on Amazon](https://www.amazon.com/dp/1612629172?tag=dearmanga-20)
 
 ---
 

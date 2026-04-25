@@ -1,47 +1,51 @@
 ---
-title: "One Outs Review: A Gambler Pitcher Joins a Baseball Team and Turns Every Game Into a High-Stakes Psychological War"
+title: "One Outs Review"
 slug: "one-outs"
-genre: "Sports / Psychological Thriller"
+genre: "Sports / Psychological"
 genreSlug: "sports"
 mangaTitle: "One Outs"
 mangaTitleJa: "ONE OUTS"
 mangaAuthor: "Shinobu Kaitani"
-serialization: "Business Jump"
-publisher: "Shueisha / Viz Media (Digital)"
+serialization: "Weekly Shonen Sunday S"
+publisher: "Shogakukan / VIZ Media"
 volumes: 20
 status: "Completed"
 englishVolumes: 20
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["gambling psychology", "psychological manipulation", "sports competition", "high stakes contract"]
-description: "Yu's review of One Outs — Tokuchi Toua is a gambler pitcher who makes his living playing a high-stakes one-pitch game called 'One Outs'; he joins the Lycaons baseball team under a unique contract where he earns 5 million yen per out recorded and loses 50 million per run allowed."
+contentWarnings:
+  - "gambling themes"
+description: "A comprehensive review of One Outs — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/one-outs.jpg"
-amazonASIN: "B00AVFXJGE"
-publishedAt: "2026-04-24"
-tags: ["sports", "psychological-thriller", "completed", "baseball", "gambling", "psychological"]
+amazonASIN: "142155097X"
+publishedAt: "2026-04-25"
+tags:
+  - "sports"
+  - "baseball"
+  - "psychological"
+  - "strategy"
+  - "gambling"
 rating: 5
 hasAffiliate: true
 ---
 
 ## Quick Take
 
-- Baseball as psychological warfare — Tokuchi's pitching is not about physical talent but about reading and manipulating the human psychology of every batter he faces
-- The contract mechanic (5M per out, lose 50M per run) means every inning is a genuine high-stakes thriller
-- 20 volumes complete; essential reading for fans of psychological manga and sports manga both
+- A gambler pitcher joins a baseball team under a contract: money per out recorded, money lost per run
+- The most psychologically intense baseball manga ever — think Liar Game but with a baseball field
+- Toua Tokuchi is one of manga's best strategic protagonists
 
 ## Who Is This Manga For?
 
-- Readers who want psychological thriller manga in a sports context
-- Fans of Liar Game and similar psychological game manga by the same author
-- Anyone who wants sports manga where strategy and psychology dominate over raw ability
-- Readers who enjoy genius protagonists operating in an arena where their intelligence is the only relevant variable
+- Fans of psychological strategy manga (Liar Game, Kaiji)
+- Baseball readers who want mind games alongside athletic excellence
+- Anyone who wants a complete sports manga with genuine tension
+- Readers who love watching a genius protagonist outmaneuver everyone around him
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: T (Teen)
-**Content Warnings**: Psychological manipulation; high-stakes gambling contract creates financial thriller atmosphere; sports competition at professional level
-
-Accessible for the age rating; the psychological content is the series' intensity, not violence.
+**Content Warnings**: gambling themes
 
 ## Yu's Rating
 
@@ -49,84 +53,78 @@ Accessible for the age rating; the psychological content is the series' intensit
 |----------|-------|
 | Story Depth | ★★★★★ |
 | Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★★ |
+| Character Development | ★★★★★ |
+| Accessibility for Non-Japanese Readers | ★★★☆☆ |
+| Reread Value | ★★★★☆ |
 
 ## Story Overview
 
-Tokuchi Toua is found playing One Outs — a gambling game where a pitcher faces batters one at a time, money changing hands per out and per hit — in Okinawa. He has never lost. Hiromichi Kojima, the aging cleanup hitter for the Lycaons — a perpetually losing professional baseball team — seeks him out.
-
-The contract Tokuchi proposes to the Lycaons' owner: he earns 5 million yen per out recorded. He loses 50 million yen per run scored against him. The owner accepts, thinking the asymmetric contract will ruin Tokuchi. He does not understand what he is dealing with.
-
-Tokuchi is not a conventional pitcher. He does not throw hard; his physical abilities are ordinary. What he does is read batters — their psychology, their habits, their assumptions, their weaknesses — with absolute precision. Every game is a psychological competition between Tokuchi and the opposing team's lineup, conducted through the medium of baseball.
+Toua Tokuchi is a legendary gambler who also happens to be a baseball pitcher of extraordinary ability. He's recruited by the Lygyerns, a struggling team, under an unusual contract: he earns money for every out he records, but owes money for every run scored against him. The team owner, trying to prevent the high-earning clause from costing him too much, schemes against Tokuchi at every turn. Tokuchi must pitch well enough to win games while outmaneuvering corporate sabotage, rival teams, and anyone who underestimates him.
 
 ## Characters
 
-**Tokuchi Toua** — His absolute confidence is backed by genuine analytical ability. He does not bluff about his capabilities; his confidence is always a statement of what he has already figured out. The question the series circles: what does he actually want from the Lycaons?
-
-**Hiromichi Kojima** — The aging cleanup hitter whose belief in Tokuchi's potential is more complex than admiration — and whose own career history is the series' most emotionally substantive human element.
-
-**Saikawa** — The team owner whose attempts to use the contract against Tokuchi generate the series' financial-thriller subplot.
+Tokuchi is a magnificent protagonist — cold, confident, several steps ahead of everyone, with a specific code of what he considers fair. He's not exactly a hero but he is compelling in every scene. The antagonists are drawn with real intelligence — they're not stupid, they're just facing someone better.
 
 ## Art Style
 
-Kaitani's art is clean and functional — the baseball action is clearly staged and the psychological moments are communicated through expressions and internal monologue rather than visual spectacle. The pitching mechanics are accurately depicted.
+Kaitani's art serves the psychological drama effectively. Tokuchi's expressions — or deliberate lack of them — communicate his mental state with precision. The baseball sequences depict the sport accurately while serving the psychological narrative.
 
 ## Cultural Context
 
-One Outs ran in Business Jump — a manga magazine aimed at adult working men — and reflects that magazine's preference for intelligence-based competition over physical talent. Japanese professional baseball's specific cultural weight (lifetime achievement culture, veteran respect, team loyalty) gives the Lycaons' long losing streak the exact context the series needs.
+One Outs draws from the tradition of gambling manga — psychological warfare between intelligent opponents with high stakes — and applies it to baseball. The corporate ownership dynamics reflect real tensions in Japanese professional baseball between management and players.
 
 ## What I Love About It
 
-Tokuchi figuring things out mid-pitch. The series makes visible the analytical process — what Tokuchi observes about a batter, what he deduces, what he decides to throw and why — and does this fast enough to keep pace with the actual game. The experience of watching him work in real time is the most intellectually satisfying experience in sports manga.
+Tokuchi in full control of a situation he's manufactured is one of the great pleasures in manga. Watching him identify someone's scheme, develop a counter, execute it with perfect patience, and then explain why it worked to someone who can't believe they were beaten — it's endlessly satisfying. The baseball is real but the psychological game is the point.
 
 ## What English-Speaking Fans Say
 
-Western readers discover One Outs through Liar Game — same author — and find the baseball context makes the psychological competition more tangible than a card game setting. Non-baseball readers consistently note that prior baseball knowledge is not required; the psychological content is the accessible element.
+One Outs is highly regarded internationally among fans of psychological manga and sports manga who overlap. It's frequently mentioned alongside Liar Game as an exemplar of the 'genius protagonist' psychological thriller genre. Complete at 20 volumes.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The final game — and Tokuchi's reveal of what he has actually been doing for the entire series, what his real purpose in joining the Lycaons was — reframes every game before it and delivers the series' most complete statement of what the psychological game he was playing was actually about.
+**Spoiler Warning**: The sequence where Tokuchi deliberately makes his contract look like a liability while actually engineering the situation so his owner is trapped regardless of what he does — a multiple-chapter manipulation that pays off perfectly — is the series at its peak.
 
 ## Similar Manga
 
-- **Akagi** — Same psychological intensity, mahjong instead of baseball
-- **Liar Game** — Same author, psychological game competition
-- **Kaiji** — Similar psychological stakes, gambling context
-- **Hikaru no Go** — Game-as-character-study, lighter psychological register
+- **[Liar Game](/sports/liar-game)** — The definitive psychological thriller manga
+- **[Kaiji](/sports/kaiji)** — Gambling psychological thriller
+- **[Ace of Diamond](/sports/ace-of-diamond)** — Serious baseball for contrast
 
 ## Reading Order / Where to Start
 
-Volume 1 — the One Outs premise and Tokuchi's first professional game establish the series immediately.
+Start from Volume 1. Complete at 20 volumes.
 
 ## Official English Translation Status
 
-Viz Media offers digital volumes. Physical editions are limited.
+**Status**: Complete
+**Publisher**: VIZ Media
+**Volumes Available in English**: 20 of 20
 
 ## Pros & Cons
 
-**Pros**
-- The psychological competition is the most intellectually satisfying in sports manga
-- The contract mechanic creates consistent financial-thriller stakes
-- Tokuchi is one of manga's most extraordinary genius protagonists
-- Complete with full revelation of Tokuchi's actual purpose
+**Pros:**
+- Tokuchi is an exceptional character
+- Psychological strategy is genuinely brilliant
+- Complete series
+- Baseball and mind games perfectly integrated
 
-**Cons**
-- Physical editions are limited; digital is the primary format
-- Some baseball knowledge improves appreciation of the game mechanics
-- The psychological precision requires close reading
+**Cons:**
+- Less emotional than typical sports manga
+- Tokuchi being always right can feel repetitive
+- Requires enjoying 'genius wins' narratives
 
 ## Format Comparison
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Limited physical; digital primary |
-| Digital | Viz Media digital available |
+| Format | Link | Notes |
+|--------|------|-------|
+| Paperback | [Amazon](https://www.amazon.com/dp/142155097X?tag=dearmanga-20) | VIZ edition — all 20 volumes |
 
 ## Where to Buy
 
-[Get One Outs on Amazon →](https://www.amazon.com/s?k=One+Outs+manga&i=stripbooks)
+You can find **One Outs** on Amazon:
+
+👉 [Buy One Outs on Amazon](https://www.amazon.com/dp/142155097X?tag=dearmanga-20)
 
 ---
 
