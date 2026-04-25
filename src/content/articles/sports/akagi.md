@@ -10,6 +10,7 @@ englishVolumes: 36
 englishStatus: "Complete"
 ageRating: "M (Mature)"
 mangaTitle: "Akagi: The Genius Who Descended Into the Darkness"
+mangaTitleJa: "そうだ、売国しよう〜天才王子の赤字国家再生術〜"
 mangaAuthor: "Nobuyuki Fukumoto"
 serialization: "Weekly Manga Goraku"
 contentWarnings: ["gambling", "yakuza violence", "psychological manipulation", "blood", "death stakes"]
