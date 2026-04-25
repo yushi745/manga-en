@@ -50,9 +50,7 @@ export default async function ArticlePage({ params }: Props) {
   const { frontmatter, content } = article;
   const genreName = GENRES[genre] || frontmatter.genre;
 
-  const buyUrl = frontmatter.amazonASIN
-    ? generateBookPageUrl(frontmatter.amazonASIN)
-    : generateBookSearchUrl(frontmatter.mangaTitle);
+  const buyUrl = generateBookSearchUrl(frontmatter.mangaTitle);
 
   const jsonLd = {
     "@context": "https://schema.org",
