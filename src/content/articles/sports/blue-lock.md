@@ -17,7 +17,7 @@ contentWarnings: ["intense psychological competition", "themes of ego and ruthle
 description: "Yu's review of Blue Lock — after Japan's World Cup failure, the Football Association recruits 300 top high school strikers and puts them in an experimental program where only one will emerge as the best striker in Japan."
 coverImage: "/covers/blue-lock.jpg"
 amazonASIN: "1646516543"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-19"
 tags: ["sports", "soccer", "shonen", "ongoing", "psychological", "intense"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["missing child themes", "mountain climbing danger", "mystery e
 description: "Yu's review of Quest for the Missing Girl — a professional mountain guide is hired to find a teenage girl who disappeared in the Japan Alps; Jiro Taniguchi's mountain-search story, combining his exceptional landscape rendering with a character study of someone who understands mountains better than people."
 coverImage: "/covers/quest-for-the-missing-girl.jpg"
 amazonASIN: "1561637785"
-publishedAt: "2026-05-21"
+publishedAt: "2026-02-12"
 tags: ["slice-of-life", "mystery", "completed", "teen", "fanfare", "jiro-taniguchi", "mountains", "search"]
 rating: 4
 hasAffiliate: true

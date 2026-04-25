@@ -17,7 +17,7 @@ contentWarnings: ["death and reincarnation", "scissors-based comedy violence", "
 description: "Yu's review of Dog & Scissors — Kazuhito Harumi dies shielding a stranger and reincarnates as a dachshund; the stranger turns out to be his favorite mystery novelist Kirihime Natsuno; she can hear his thoughts; she also uses scissors on him constantly."
 coverImage: "/covers/dog-and-scissors.jpg"
 amazonASIN: "0316376647"
-publishedAt: "2026-05-17"
+publishedAt: "2025-12-25"
 tags: ["slice-of-life", "comedy", "completed", "teen", "yen-press", "dog", "reincarnation", "mystery"]
 rating: 3
 hasAffiliate: true

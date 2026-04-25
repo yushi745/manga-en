@@ -17,7 +17,7 @@ contentWarnings: ["Japanese mythology", "shrine maiden protagonist", "supernatur
 description: "Yu's review of Red Data Girl — Izumiko Suzuhara has grown up at a mountain shrine; she destroys electronic devices by touch; she's an endangered shrine maiden (yorishiro) for a powerful deity; she enters a school that serves as a hub for supernatural politics; manga adaptation of Noriko Ogiwara's light novel."
 coverImage: "/covers/red-data-girl.jpg"
 amazonASIN: "0316369187"
-publishedAt: "2026-05-27"
+publishedAt: "2025-01-24"
 tags: ["fantasy", "supernatural", "completed", "teen", "yen-press", "shrine-maiden", "japanese-mythology", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

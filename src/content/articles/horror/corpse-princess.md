@@ -17,7 +17,7 @@ contentWarnings: ["violence", "undead themes", "death and grief", "action combat
 description: "Yu's review of Corpse Princess (Shikabane Hime) — Makina Hoshimura was murdered along with her family and was reborn as a shikabane hime, a walking corpse who must kill 108 other undead shikabane to gain entry to heaven; partnered with a Buddhist monk's apprentice, she fights through the supernatural underworld while pursuing the cult that killed her family."
 coverImage: "/covers/corpse-princess.jpg"
 amazonASIN: "0316072575"
-publishedAt: "2026-04-26"
+publishedAt: "2025-03-12"
 tags: ["horror", "action", "undead", "completed", "teen-plus", "yen-press", "supernatural", "revenge"]
 rating: 4
 hasAffiliate: true

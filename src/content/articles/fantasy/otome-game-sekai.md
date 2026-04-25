@@ -17,7 +17,7 @@ contentWarnings: ["reincarnation premise", "reverse villainess premise", "otome 
 description: "Yu's review of Otome Game's Heroine Aims to Be a Villainess — a girl reincarnates as the heroine of an otome game but, having no memory of the game's romantic routes and only the villainess's memorable scenes, she decides to become the villainess instead; the reverse of the usual villainess-isekai premise."
 coverImage: "/covers/otome-game-sekai.jpg"
 amazonASIN: "1975352742"
-publishedAt: "2026-05-24"
+publishedAt: "2025-01-18"
 tags: ["fantasy", "isekai", "ongoing", "teen", "yen-press", "villainess-reverse", "otome-game", "comedy"]
 rating: 3
 hasAffiliate: true

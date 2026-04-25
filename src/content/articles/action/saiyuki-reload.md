@@ -21,7 +21,7 @@ contentWarnings:
 description: "Yu's review of Saiyuki Reload — the sequel series to the original Saiyuki follows Sanzo and his three companions deeper west, with heavier consequences and darker character revelations."
 coverImage: "/covers/saiyuki-reload.jpg"
 amazonASIN: "1427808384"
-publishedAt: "2026-04-26"
+publishedAt: "2024-10-15"
 tags:
   - "action"
   - "fantasy"

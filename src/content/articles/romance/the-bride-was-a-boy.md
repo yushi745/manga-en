@@ -17,7 +17,7 @@ contentWarnings: ["transgender memoir", "gender dysphoria depiction", "legal tra
 description: "Yu's review of The Bride Was a Boy — manga artist Chii tells her own story: growing up feeling wrong in her body, realizing she was a woman, transitioning in Japan, and marrying her husband who stayed with her through the entire process."
 coverImage: "/covers/the-bride-was-a-boy.jpg"
 amazonASIN: "1626925771"
-publishedAt: "2026-05-18"
+publishedAt: "2025-09-08"
 tags: ["romance", "biography", "completed", "teen-plus", "seven-seas", "transgender", "memoir", "wedding"]
 rating: 5
 hasAffiliate: true

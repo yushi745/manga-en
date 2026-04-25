@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "body horror", "gore", "existential themes
 description: "Yu's review of Parasyte — the manga where alien parasites invade human bodies and one boy must share his arm with the creature that failed to take his brain, raising questions about humanity, empathy, and what we owe each other."
 coverImage: "/covers/parasyte.jpg"
 amazonASIN: "1612621210"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-21"
 tags: ["horror", "sci-fi", "psychological", "body-horror", "classic", "philosophical"]
 rating: 5
 hasAffiliate: true

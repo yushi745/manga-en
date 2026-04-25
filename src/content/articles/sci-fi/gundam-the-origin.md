@@ -17,7 +17,7 @@ contentWarnings: ["war and military violence", "death of major characters", "the
 description: "Yu's review of Mobile Suit Gundam: The Origin — Yoshikazu Yasuhiko, the original character designer for the 1979 Gundam anime, re-adapts and expands the One Year War, giving Char Aznable the backstory the original never showed and drawing the Universal Century with 40 years of additional craft."
 coverImage: "/covers/gundam-the-origin.jpg"
 amazonASIN: "1935654876"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-31"
 tags: ["sci-fi", "military", "seinen", "completed", "Gundam", "mecha", "classic"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["body horror", "apocalyptic horror", "environmental horror", "
 description: "Yu's review of Fourteen — a mutant chicken embryo is born with a human face in a polluted food facility and grows into Chicken George, a being who has experienced human horror and decided to respond to environmental and social catastrophe; Umezu's most ambitious and strange work."
 coverImage: "/covers/fourteen.jpg"
 amazonASIN: "1421562618"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-22"
 tags: ["horror", "sci-fi", "completed", "mature", "kazuo-umezu", "viz-media", "classic", "apocalyptic"]
 rating: 4
 hasAffiliate: true

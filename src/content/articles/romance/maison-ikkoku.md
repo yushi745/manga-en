@@ -17,7 +17,7 @@ contentWarnings: ["alcohol use", "mild adult themes", "relationship drama"]
 description: "Yu's review of Maison Ikkoku — Yusaku Godai, a ronin preparing for his university entrance exams, falls in love with the new boarding house manager, Kyoko Otonashi, who is a young widow still mourning her late husband."
 coverImage: "/covers/maison-ikkoku.jpg"
 amazonASIN: "1591163781"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-25"
 tags: ["romance", "comedy", "seinen", "slice-of-life", "completed", "classic"]
 rating: 5
 hasAffiliate: true

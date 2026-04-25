@@ -17,7 +17,7 @@ contentWarnings: ["mild supernatural elements", "competitive pressure"]
 description: "Yu's review of Hikaru no Go — Hikaru Shindo discovers a haunted Go board inhabited by the spirit of a Heian-era master; the spirit possesses him during games; Hikaru gradually discovers his own passion for Go and his desire to surpass the ghost that started everything."
 coverImage: "/covers/hikaru-no-go.jpg"
 amazonASIN: "1421510685"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-31"
 tags: ["sports", "shonen", "completed", "go", "board-game", "Takeshi-Obata"]
 rating: 5
 hasAffiliate: true

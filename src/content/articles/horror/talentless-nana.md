@@ -17,7 +17,7 @@ contentWarnings: ["murder", "psychological thriller content", "death", "manipula
 description: "Yu's review of Talentless Nana — at a school for students with supernatural powers, sweet transfer student Nana Hiiragi appears to be a normal girl; the series reveals in its first volume that Nana is an assassin sent to kill the students; the manga becomes a psychological thriller about Nana's mission, her growing complications, and the students who begin to suspect her."
 coverImage: "/covers/talentless-nana.jpg"
 amazonASIN: "1975338030"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-01"
 tags: ["horror", "thriller", "ongoing", "teen", "yen-press", "mystery"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "romance", "themes of sacrifice", "histori
 description: "Yu's review of Fushigi Yugi — a middle school girl is pulled into a historical Chinese fantasy book and becomes the Priestess of Suzaku, destined to gather seven celestial warriors and summon a god."
 coverImage: "/covers/fushigi-yugi.jpg"
 amazonASIN: "156931957X"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-15"
 tags: ["fantasy", "romance", "shojo", "completed", "historical", "classic"]
 rating: 4
 hasAffiliate: true

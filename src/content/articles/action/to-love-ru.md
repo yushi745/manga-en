@@ -17,7 +17,7 @@ contentWarnings: ["ecchi content throughout", "alien harem comedy", "fanservice-
 description: "Yu's review of To Love Ru — Rito Yuuki has never been able to confess to his classmate Haruna; his situation becomes considerably more complicated when an alien princess named Lala teleports into his bathtub, decides he will be her fiancé, and brings the political complications of the galactic succession to his high school."
 coverImage: "/covers/to-love-ru.jpg"
 amazonASIN: "0316448648"
-publishedAt: "2026-05-04"
+publishedAt: "2024-11-01"
 tags: ["romance", "comedy", "ecchi", "harem", "alien", "completed", "mature", "yen-press", "shonen-jump"]
 rating: 3
 hasAffiliate: true

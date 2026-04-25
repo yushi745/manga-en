@@ -17,7 +17,7 @@ contentWarnings: ["social exclusion themes", "school setting", "mystery elements
 description: "Yu's review of Iris Zero — in a world where nearly every child is born with a special power called an Iris, Toru Mizushima has none; called an Iris Zero, he has learned to minimize his presence and avoid attention; when the most popular girl in school approaches him asking for his help, his carefully maintained invisibility begins to crack."
 coverImage: "/covers/iris-zero.jpg"
 amazonASIN: "1626921296"
-publishedAt: "2026-05-19"
+publishedAt: "2025-07-03"
 tags: ["romance", "mystery", "completed", "teen", "seven-seas", "school", "special-powers", "social-exclusion"]
 rating: 4
 hasAffiliate: true

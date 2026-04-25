@@ -17,7 +17,7 @@ contentWarnings: ["Victorian fantasy setting", "romance with power imbalance", "
 description: "Yu's review of The Earl and the Fairy — Lydia Carlton is a fairy doctor in Victorian England, one of the few people who can see and interact with fairies; Edgar Ashenbert claims to be the legendary Blue Knight Earl and needs her ability to obtain his birthright; their journey through fairy politics creates a romance across Victorian and fairy world settings."
 coverImage: "/covers/earl-and-the-fairy.jpg"
 amazonASIN: "1421545039"
-publishedAt: "2026-05-10"
+publishedAt: "2024-12-09"
 tags: ["fantasy", "romance", "completed", "teen", "viz-media", "victorian", "fairy", "historical-fantasy"]
 rating: 3
 hasAffiliate: true

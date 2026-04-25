@@ -17,7 +17,7 @@ contentWarnings: ["Japanese supernatural beings", "Taisho-era historical setting
 description: "Yu's review of Tactics — Kantarou Ichinomiya is a folklore researcher in Taisho-era Japan who can see tengu and other supernatural beings; he has spent years looking for a legendary tengu said to devour gods; when he finds and frees him, the tengu — named Haruka — becomes his partner."
 coverImage: "/covers/tactics.jpg"
 amazonASIN: "1413900151"
-publishedAt: "2026-05-12"
+publishedAt: "2025-02-09"
 tags: ["fantasy", "comedy", "completed", "teen", "adv-manga", "taisho-era", "tengu", "supernatural-mystery"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["terminal illness", "death themes", "shinigami characters", "e
 description: "Yu's review of Full Moon wo Sagashite — Mitsuki has throat cancer and is told she can never sing; her childhood love Eichi moved to America; two shinigami tell her she has one year to live; she transforms into a healthy adult and becomes an idol to find him; Arina Tanemura's shojo manga about love, death, and what you do with the time you have."
 coverImage: "/covers/full-moon-sagashite.jpg"
 amazonASIN: "1591160782"
-publishedAt: "2026-05-26"
+publishedAt: "2025-06-16"
 tags: ["romance", "fantasy", "drama", "completed", "teen", "viz-media", "idol", "terminal-illness"]
 rating: 4
 hasAffiliate: true

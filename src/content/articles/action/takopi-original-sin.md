@@ -17,7 +17,7 @@ contentWarnings: ["child abuse", "bullying", "suicidal ideation in a child", "da
 description: "Yu's review of Takopi's Original Sin — Takopi is an alien from Happy Planet sent to spread happiness on Earth; he meets Shizuka, a girl who is being bullied and whose home life is deeply troubled; the series uses Takopi's happiness abilities to examine what happiness means when suffering is real."
 coverImage: "/covers/takopi-original-sin.jpg"
 amazonASIN: "1974742458"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-27"
 tags: ["action", "drama", "shonen", "completed", "dark", "bullying", "short"]
 rating: 5
 hasAffiliate: true

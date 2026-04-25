@@ -20,7 +20,7 @@ contentWarnings:
   - "dark themes"
 description: "Yu's review of Gungrave — the manga adaptation of Nightow's acclaimed game, following a hitman's loyalty, betrayal, and supernatural resurrection for revenge."
 amazonASIN: "1593073224"
-publishedAt: "2026-04-26"
+publishedAt: "2024-09-03"
 tags:
   - "action"
   - "crime"

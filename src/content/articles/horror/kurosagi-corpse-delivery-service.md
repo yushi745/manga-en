@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of The Kurosagi Corpse Delivery Service — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/kurosagi-corpse-delivery-service.jpg"
 amazonASIN: "1593074255"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-05"
 tags:
   - "horror"
   - "supernatural"

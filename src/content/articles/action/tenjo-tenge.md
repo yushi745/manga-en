@@ -17,7 +17,7 @@ contentWarnings: ["graphic martial arts violence", "explicit fan service", "sexu
 description: "Yu's review of Tenjo Tenge — Souichiro Nagi and Bob Makihara transfer to Todo Academy intending to dominate every student; they discover a school where a martial arts executive committee controls everything and students with supernatural fighting abilities fight at a level far beyond normal — and Souichiro has a dormant power awakening inside him."
 coverImage: "/covers/tenjo-tenge.jpg"
 amazonASIN: "1401203345"
-publishedAt: "2026-05-11"
+publishedAt: "2024-10-30"
 tags: ["action", "completed", "mature", "viz-media", "martial-arts", "supernatural-powers", "school", "oh-great"]
 rating: 3
 hasAffiliate: true

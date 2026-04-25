@@ -17,7 +17,7 @@ contentWarnings: ["adult humor involving children", "crude comedy", "physical co
 description: "Yu's review of Mitsudomoe — Yabe Satoshi is a new teacher at an elementary school; his class contains the Marui triplets: Mitsuba, who is manipulative and vain; Futaba, who is incredibly strong and fixated on the physical; and Hitoha, who is terrifying to everyone around her for reasons she doesn't fully understand; the series follows his attempts to manage a classroom that manages him instead."
 coverImage: "/covers/mitsudomoe.jpg"
 amazonASIN: "1626920001"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-11"
 tags: ["sports", "comedy", "completed", "teen-plus", "seven-seas", "school-comedy"]
 rating: 4
 hasAffiliate: true

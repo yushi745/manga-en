@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "themes of sacrifice", "emotional ending"]
 description: "Yu's review of Magic Knight Rayearth — three middle school girls on a field trip to Tokyo Tower are transported to the world of Cephiro and given a mission: become Magic Knights and save the world by freeing the Pillar from the Knight who has imprisoned her."
 coverImage: "/covers/magic-knight-rayearth.jpg"
 amazonASIN: "1595825886"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-08"
 tags: ["fantasy", "adventure", "magical-girl", "shojo", "completed", "mecha", "classic"]
 rating: 5
 hasAffiliate: true

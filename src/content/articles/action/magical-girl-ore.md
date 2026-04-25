@@ -17,7 +17,7 @@ contentWarnings: ["magical girl parody", "gender transformation via transformati
 description: "Yu's review of Magical Girl Ore — Saki Uno discovers her mother was a magical girl; when she tries to transform to fight demons threatening the boy she likes, she succeeds — and transforms into a muscular man in a magical girl outfit; the demons, it turns out, are attracted to beautiful boys, which now includes her transformed self."
 coverImage: "/covers/magical-girl-ore.jpg"
 amazonASIN: "1626928916"
-publishedAt: "2026-05-14"
+publishedAt: "2024-09-20"
 tags: ["action", "comedy", "completed", "teen", "seven-seas", "magical-girl-parody", "gender-transformation", "yakuza"]
 rating: 3
 hasAffiliate: true

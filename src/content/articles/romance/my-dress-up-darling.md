@@ -17,7 +17,7 @@ contentWarnings: ["fanservice", "cosplay themes including mature game characters
 description: "Yu's review of My Dress-Up Darling — Wakana Gojo is a quiet boy learning to make traditional hina dolls who believes his interests make him weird; Marin Kitagawa is an outgoing, beautiful girl who wants to cosplay as characters from eroge games she loves; she asks Wakana to make her costumes; the series follows their collaboration and the relationship that develops."
 coverImage: "/covers/my-dress-up-darling.jpg"
 amazonASIN: "1646091213"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-31"
 tags: ["romance", "slice-of-life", "ongoing", "cosplay", "crafting", "shonen"]
 rating: 5
 hasAffiliate: true

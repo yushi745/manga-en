@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "spy themes", "family combat training theme
 description: "Yu's review of Mission: Yozakura Family — Taiyo Asano, a timid boy who relies entirely on his childhood friend Mutsumi, discovers her family is a family of elite spies; when circumstances require it, he marries into the family to protect her, and must now survive training under her various combat-specialist siblings to become a spy himself."
 coverImage: "/covers/mission-yozakura-family.jpg"
 amazonASIN: "1974728617"
-publishedAt: "2026-04-27"
+publishedAt: "2024-09-23"
 tags: ["action", "romance", "spy", "family", "ongoing", "teen", "viz", "shonen-jump", "comedy-action"]
 rating: 4
 hasAffiliate: true

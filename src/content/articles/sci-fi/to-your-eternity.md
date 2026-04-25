@@ -17,7 +17,7 @@ contentWarnings: ["death of major characters (recurring)", "themes of grief and 
 description: "Yu's review of To Your Eternity — an entity sent to Earth can take the form of anything it touches; after mimicking a dying boy, it begins an eternal journey through human lives, learning what grief, love, and connection mean across centuries."
 coverImage: "/covers/to-your-eternity.jpg"
 amazonASIN: "1632365715"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-26"
 tags: ["sci-fi", "fantasy", "shonen", "completed-in-Japan", "emotional", "immortality", "grief"]
 rating: 5
 hasAffiliate: true

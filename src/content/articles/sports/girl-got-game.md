@@ -17,7 +17,7 @@ contentWarnings: ["cross-dressing themes", "gender identity adjacent situations"
 description: "Yu's review of Girl Got Game (Power!) — Kyo Aizawa's father enrolled her as a boy in an all-boys school to fulfill his basketball dreams for her; forced to room with the team's ace player Chiharu, she tries to maintain her disguise while genuine basketball ability and complicated feelings complicate everything."
 coverImage: "/covers/girl-got-game.jpg"
 amazonASIN: "1591161223"
-publishedAt: "2026-04-29"
+publishedAt: "2026-03-27"
 tags: ["sports", "romance", "basketball", "cross-dressing", "completed", "teen", "tokyopop", "shojo"]
 rating: 4
 hasAffiliate: true

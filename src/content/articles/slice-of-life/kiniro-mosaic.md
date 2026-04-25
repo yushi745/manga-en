@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Kiniro Mosaic — Shinobu's childhood homestay in England creates a pen-pal relationship with Alice, who later transfers to Japan; the series follows their reunion and the daily school life of a Japanese-British friend group, with cross-cultural misunderstanding as its primary comedy source."
 coverImage: "/covers/kiniro-mosaic.jpg"
 amazonASIN: "0316342750"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-20"
 tags: ["slice-of-life", "comedy", "completed", "all-ages", "yen-press", "cultural-exchange", "girls"]
 rating: 3
 hasAffiliate: true

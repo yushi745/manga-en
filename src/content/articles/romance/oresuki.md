@@ -17,7 +17,7 @@ contentWarnings: ["romantic comedy misunderstandings", "scheming protagonist", "
 description: "Yu's review of Oresuki — Amatsuyu Kisaragi (Jouro) expects both girls who call him out separately to confess to him; they both confess that they like his best friend Taiyou; he smiles pleasantly and internally rages; the series is a romantic comedy about a scheming, self-aware protagonist navigating a situation that keeps getting worse for him."
 coverImage: "/covers/oresuki.jpg"
 amazonASIN: "1975388011"
-publishedAt: "2026-05-11"
+publishedAt: "2025-08-11"
 tags: ["romance", "comedy", "completed", "teen", "yen-press", "scheming-protagonist", "love-polygon", "self-aware"]
 rating: 3
 hasAffiliate: true

@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["realistic space program content", "themes of failure and perseverance"]
 description: "Yu's review of Space Brothers — a 32-year-old man who was fired from his job reapplies to become a JAXA astronaut, following the dream he abandoned when his younger brother moved forward without him."
 coverImage: "/covers/space-brothers.jpg"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-21"
 tags: ["sci-fi", "drama", "realistic", "ongoing", "space"]
 rating: 5
 hasAffiliate: false

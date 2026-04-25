@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "magical destruction comedy", "classic 90s
 description: "Yu's review of Slayers — Lina Inverse is a sorceress who is feared across the countryside for her combination of extreme magical power and extreme appetite; she travels with Gourry Gabriev, a swordsman of great physical ability and famously limited intellect, and leaves a trail of destroyed bandits and damaged architecture wherever she goes."
 coverImage: "/covers/slayers.jpg"
 amazonASIN: "1427802335"
-publishedAt: "2026-05-06"
+publishedAt: "2024-10-23"
 tags: ["fantasy", "comedy", "action", "completed", "teen", "tokyopop", "90s", "classic", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

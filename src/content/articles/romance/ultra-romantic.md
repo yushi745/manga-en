@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "comedic situations", "physical comed
 description: "Yu's review of Ultra Romantic — Tsurezure Ito is so shy his face literally overheats when flustered; Rika Yakumo is so direct she'll say anything she's thinking; together they are trying to figure out their feelings; Bolze's Jump romance comedy about two extremes finding each other."
 coverImage: "/covers/ultra-romantic.jpg"
 amazonASIN: "1974732592"
-publishedAt: "2026-05-25"
+publishedAt: "2025-09-16"
 tags: ["romance", "comedy", "completed", "teen", "viz-media", "physical-comedy", "opposites", "shonen-jump"]
 rating: 4
 hasAffiliate: true

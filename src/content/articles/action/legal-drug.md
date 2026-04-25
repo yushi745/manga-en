@@ -17,7 +17,7 @@ contentWarnings: ["boys' love subtext", "supernatural action", "mystery", "CLAMP
 description: "Yu's review of Legal Drug — Kazahaya Kudo and Rikuo Himura work at the Green Drugstore and occasionally take on unusual jobs for the owner that involve their supernatural abilities; CLAMP's supernatural mystery series with boys' love subtext and the first three volumes of a story continued in Drug & Drop."
 coverImage: "/covers/legal-drug.jpg"
 amazonASIN: "1595820051"
-publishedAt: "2026-05-17"
+publishedAt: "2024-09-18"
 tags: ["action", "mystery", "completed", "teen-plus", "dark-horse", "clamp", "supernatural", "boys-love-subtext"]
 rating: 4
 hasAffiliate: true

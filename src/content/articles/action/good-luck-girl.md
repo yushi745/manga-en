@@ -17,7 +17,7 @@ contentWarnings: ["slapstick comedy violence", "references to anime parody", "fa
 description: "Yu's review of Good Luck Girl! — Ichiko Sakura has so much luck that she unconsciously drains it from the people around her; Momiji, a Poverty God, is sent to drain Ichiko's excess luck and restore the balance; the problem is that Ichiko is extremely difficult to handle."
 coverImage: "/covers/good-luck-girl.jpg"
 amazonASIN: "1421563460"
-publishedAt: "2026-05-21"
+publishedAt: "2024-08-31"
 tags: ["action", "comedy", "completed", "teen-plus", "viz-media", "supernatural", "luck", "parody"]
 rating: 4
 hasAffiliate: true

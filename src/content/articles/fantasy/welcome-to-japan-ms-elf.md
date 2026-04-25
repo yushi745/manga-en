@@ -17,7 +17,7 @@ contentWarnings: ["fantasy comedy", "elf in modern Japan", "mild romantic themes
 description: "Yu's review of Welcome to Japan, Ms. Elf — Kazuhiro Honda has been visiting another world in his dreams for years; the elf Marie he befriended there is transported to modern-day Japan; he must help her navigate contemporary Japanese life while concealing her pointed ears and inherent magical nature from everyone around them."
 coverImage: "/covers/welcome-to-japan-ms-elf.jpg"
 amazonASIN: "1638585245"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-22"
 tags: ["fantasy", "isekai", "comedy", "ongoing", "seven-seas", "elf", "reverse-isekai"]
 rating: 4
 hasAffiliate: true

@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Pumpkin Scissors — in the aftermath of a devastating war, a military relief unit confronts the horrific weapons and experiments their own side employed."
 coverImage: "/covers/pumpkin-scissors.jpg"
 amazonASIN: "0345494105"
-publishedAt: "2026-04-26"
+publishedAt: "2025-04-24"
 tags:
   - "action"
   - "military"

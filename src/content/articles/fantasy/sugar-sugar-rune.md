@@ -17,7 +17,7 @@ contentWarnings: ["magical girl themes", "emotional manipulation as power", "com
 description: "Yu's review of Sugar Sugar Rune — best friends Chocolat and Vanilla are witch girls sent from the Magic World to the human world; they must compete to collect the most human hearts (crystallized emotions) to determine who will become the next queen; but the Magic World's rules and human emotions don't work the way either of them expected."
 coverImage: "/covers/sugar-sugar-rune.jpg"
 amazonASIN: "0345481186"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-07"
 tags: ["fantasy", "magical-girl", "completed", "friendship", "shoujo", "moyoco-anno"]
 rating: 4
 hasAffiliate: true

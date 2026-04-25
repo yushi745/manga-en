@@ -17,7 +17,7 @@ contentWarnings: ["themes of belonging and displacement", "yuri romantic content
 description: "Yu's review of A Tropical Fish Yearns for Snow — Konatsu Amano moves to a new town after her father is transferred abroad; she joins her new school's aquarium club, which has only one other member: Koyuki Honami, a capable and quietly withdrawn girl who runs it alone; their friendship becomes something more specific as they teach each other about themselves."
 coverImage: "/covers/tropical-fish-yearns-for-snow.jpg"
 amazonASIN: "1974722929"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-15"
 tags: ["romance", "yuri", "slice-of-life", "completed", "aquarium", "school", "shoujo"]
 rating: 5
 hasAffiliate: true

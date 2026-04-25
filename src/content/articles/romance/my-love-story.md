@@ -17,7 +17,7 @@ contentWarnings: ["none significant"]
 description: "Yu's review of My Love Story!! — a huge, scary-looking boy with no luck with girls saves a girl from a groper on the train, and she falls in love with him — not his handsome best friend."
 coverImage: "/covers/my-love-story.jpg"
 amazonASIN: "1421571919"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-03"
 tags: ["romance", "comedy", "shojo", "heartwarming", "completed", "subversive"]
 rating: 5
 hasAffiliate: true

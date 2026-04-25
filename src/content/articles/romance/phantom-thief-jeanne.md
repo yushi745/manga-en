@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "religious mythology themes", "rival r
 description: "Yu's review of Phantom Thief Jeanne — Maron Kusakabe is a high school gymnast who transforms into the phantom thief Jeanne d'Arc, sent by God to seal demons possessing art objects before they can corrupt human hearts; her rival is a charming thief who works against her."
 coverImage: "/covers/phantom-thief-jeanne.jpg"
 amazonASIN: "0316248207"
-publishedAt: "2026-05-05"
+publishedAt: "2025-08-15"
 tags: ["romance", "fantasy", "magical-girl", "phantom-thief", "completed", "teen", "yen-press", "religious-mythology"]
 rating: 4
 hasAffiliate: true

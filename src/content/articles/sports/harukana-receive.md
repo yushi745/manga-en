@@ -17,7 +17,7 @@ contentWarnings: ["beach setting with fanservice elements", "athletic content"]
 description: "Yu's review of Harukana Receive — Haruka Oozora arrives in Okinawa to live with her cousin Kanata; Kanata played beach volleyball until she stopped; Haruka, tall and athletic and enthusiastic, convinces her to play again; they train to compete in the beach volleyball circuit."
 coverImage: "/covers/harukana-receive.jpg"
 amazonASIN: "162692905X"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-31"
 tags: ["sports", "seinen", "completed", "beach-volleyball", "Okinawa"]
 rating: 4
 hasAffiliate: true

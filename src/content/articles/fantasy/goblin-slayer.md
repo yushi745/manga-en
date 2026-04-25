@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "sexual assault depicted (opening chapter 
 description: "Yu's review of Goblin Slayer — a manga about a warrior who kills only goblins, obsessively, methodically, because of what goblins did to him. The opening chapter is one of the most graphic in manga. What follows is a dark fantasy about trauma and obsession."
 coverImage: "/covers/goblin-slayer.jpg"
 amazonASIN: "031643972X"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-16"
 tags: ["fantasy", "dark-fantasy", "completed", "mature", "action", "psychological"]
 rating: 3
 hasAffiliate: true

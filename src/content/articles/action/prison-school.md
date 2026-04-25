@@ -17,7 +17,7 @@ contentWarnings: ["explicit fan service", "mature sexual content", "extreme phys
 description: "Yu's review of Prison School — five boys enroll at a recently co-educational girls' school and are immediately imprisoned in the on-campus detention facility by the Underground Student Council for a minor violation; the series follows their attempts to escape while serving a month's sentence."
 coverImage: "/covers/prison-school.jpg"
 amazonASIN: "0316346071"
-publishedAt: "2026-05-14"
+publishedAt: "2024-10-07"
 tags: ["action", "comedy", "completed", "mature", "yen-press", "school", "physical-comedy", "fan-service"]
 rating: 4
 hasAffiliate: true

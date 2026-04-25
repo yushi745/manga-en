@@ -17,7 +17,7 @@ contentWarnings: ["otaku culture references", "slice-of-life comedy", "mild deit
 description: "Yu's review of Otaku Elf — an elf was enshrined at a Tokyo shrine as a goddess centuries ago; she became obsessed with video games, manga, and junk food; she hasn't left the shrine in years; Koito Tiara is the young miko responsible for tending to her; Akihiko Higashide's comedy about a supernatural being who never leaves her room."
 coverImage: "/covers/edomae-elf.jpg"
 amazonASIN: "1638582890"
-publishedAt: "2026-05-28"
+publishedAt: "2025-12-27"
 tags: ["slice-of-life", "comedy", "fantasy", "ongoing", "teen", "seven-seas", "elf", "otaku-culture"]
 rating: 4
 hasAffiliate: true

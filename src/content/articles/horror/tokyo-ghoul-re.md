@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "body horror", "psychological content", "i
 description: "Yu's review of Tokyo Ghoul:re — Haise Sasaki is a half-ghoul CCG investigator with no memory of his past; he is, in fact, Ken Kaneki — the protagonist of Tokyo Ghoul — with his identity surgically suppressed; Sui Ishida's continuation of Tokyo Ghoul follows Kaneki's reconstruction through Haise as the war between humans and ghouls reaches its final scale."
 coverImage: "/covers/tokyo-ghoul-re.jpg"
 amazonASIN: "1421595443"
-publishedAt: "2026-05-28"
+publishedAt: "2025-05-03"
 tags: ["horror", "action", "completed", "mature", "viz-media", "sequel", "identity", "war-scale"]
 rating: 4
 hasAffiliate: true

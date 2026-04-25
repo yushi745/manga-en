@@ -17,7 +17,7 @@ contentWarnings: ["police corruption themes", "crime and violence", "moral ambig
 description: "Yu's review of Inspector Kurokochi — Keishi Kurokochi is a police inspector who is deeply, openly corrupt; his partner Seike is an idealist; together they solve cases that the normal police apparatus won't or can't touch; Seima Itoh's police manga about effective but morally compromised law enforcement."
 coverImage: "/covers/inspector-kurokochi.jpg"
 amazonASIN: "1421577283"
-publishedAt: "2026-05-24"
+publishedAt: "2024-09-09"
 tags: ["action", "drama", "completed", "teen-plus", "viz-media", "police", "corruption", "seinen"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["mild suggestive content", "parental abandonment themes"]
 description: "Yu's review of Horimiya — the popular girl hides her domestic home life, the quiet boy hides his piercings and tattoos, and when they accidentally discover each other's real selves, something begins."
 coverImage: "/covers/horimiya.jpg"
 amazonASIN: "0316270134"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-29"
 tags: ["romance", "slice-of-life", "school", "shonen", "completed", "warm"]
 rating: 4
 hasAffiliate: true

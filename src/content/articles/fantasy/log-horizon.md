@@ -17,7 +17,7 @@ contentWarnings: ["MMO game mechanics as plot elements", "political world-buildi
 description: "Yu's review of Log Horizon — when 30,000 Japanese players of the MMO Elder Tale are suddenly transported inside the game world, Shiroe — a legendary strategy player with no love for other people — must figure out what the new world's rules are and help build a functional society while uncovering why the Catastrophe happened."
 coverImage: "/covers/log-horizon.jpg"
 amazonASIN: "0316383066"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-05"
 tags: ["fantasy", "isekai", "MMO", "completed", "strategy", "world-building", "Yen-Press"]
 rating: 4
 hasAffiliate: true

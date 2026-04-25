@@ -17,7 +17,7 @@ contentWarnings: ["yuri themes", "supernatural content", "mild seasonal melancho
 description: "Yu's review of Konohana Kitan — Yuzu is a young fox girl who begins working at Konohanatei, a supernatural hot spring inn at the boundary between the human world and the divine; staffed entirely by fox girls and catering to guests both human and supernatural, the inn becomes the setting for gentle stories about connection, loss, and the pleasure of caring for others."
 coverImage: "/covers/konohana-kitan.jpg"
 amazonASIN: "1626924279"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-21"
 tags: ["slice-of-life", "fantasy", "completed", "teen", "seven-seas", "yuri", "cozy"]
 rating: 5
 hasAffiliate: true

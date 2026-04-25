@@ -17,7 +17,7 @@ contentWarnings: ["psychological horror", "graphic violence", "death game format
 description: "Yu's review of Life Is Money — ten strangers agree to participate in a locked-room psychological game for a prize of 100 million yen; the rule is simple but brutal: they must maintain their sanity across ten days of engineered terror; those who break lose everything."
 coverImage: "/covers/life-is-money.jpg"
 amazonASIN: "1612624787"
-publishedAt: "2026-04-29"
+publishedAt: "2025-04-07"
 tags: ["horror", "thriller", "psychological", "death-game", "completed", "mature", "seven-seas"]
 rating: 4
 hasAffiliate: true

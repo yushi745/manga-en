@@ -17,7 +17,7 @@ contentWarnings: ["school competition themes", "mild violence in magic battles",
 description: "Yu's review of Mx0 — Taiga Kuzumi fails the entrance exam for Seinagi Private High School, a secret magic academy, but is accidentally enrolled anyway; he has zero magical ability but must survive in a school full of powerful magic users by bluffing, strategy, and the help of a strange magic plate on his chest."
 coverImage: "/covers/mx0.jpg"
 amazonASIN: "1421519844"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-26"
 tags: ["action", "comedy", "completed", "magic-school", "underdog", "shounen"]
 rating: 4
 hasAffiliate: true

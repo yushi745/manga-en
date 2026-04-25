@@ -18,7 +18,7 @@ contentWarnings:
   - "sports themes"
 description: "Yu's review of Ice Revolution — a powerful but graceless judo girl discovers figure skating and finds both her calling and the partner who completes her."
 amazonASIN: "1427806519"
-publishedAt: "2026-04-26"
+publishedAt: "2025-07-02"
 tags:
   - "shojo"
   - "romance"

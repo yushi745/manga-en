@@ -17,7 +17,7 @@ contentWarnings: ["post-apocalyptic survival", "graphic violence", "death", "tra
 description: "Yu's review of 7SEEDS — seven groups of young people are cryogenically preserved and awakened in a devastated future Japan; each group navigates a changed world with no preparation; Yumi Tamura's survival manga about ordinary people in extraordinary circumstances and what they choose to become."
 coverImage: "/covers/7-seeds.jpg"
 amazonASIN: "1421578271"
-publishedAt: "2026-05-26"
+publishedAt: "2025-10-01"
 tags: ["sci-fi", "post-apocalyptic", "survival", "completed", "mature", "viz-media", "josei", "tamura"]
 rating: 5
 hasAffiliate: true

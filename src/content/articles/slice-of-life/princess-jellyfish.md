@@ -17,7 +17,7 @@ contentWarnings: ["cross-dressing themes", "mild romantic content", "urban devel
 description: "Yu's review of Princess Jellyfish — Tsukimi Kurashita is a jellyfish-obsessed otaku girl living in an all-female apartment building full of passionate nerds; when she meets Kuranosuke, a cross-dressing son of a politician who barges into her world, her quiet otaku life starts to change."
 coverImage: "/covers/princess-jellyfish.jpg"
 amazonASIN: "1612620027"
-publishedAt: "2026-04-24"
+publishedAt: "2026-02-11"
 tags: ["slice-of-life", "comedy", "completed", "otaku", "josei", "cross-dressing"]
 rating: 5
 hasAffiliate: true

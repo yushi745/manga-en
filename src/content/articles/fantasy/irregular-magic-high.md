@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "military themes", "sibling relationship t
 description: "Yu's review of The Irregular at Magic High School — at a magic high school that segregates students by exam results, a 'Weed' student turns out to be one of the most powerful magicians in the world, concealing his ability for his own reasons."
 coverImage: "/covers/irregular-magic-high.jpg"
 amazonASIN: "0316348805"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-25"
 tags: ["fantasy", "sci-fi", "magic", "completed", "school"]
 rating: 4
 hasAffiliate: true

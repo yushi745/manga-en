@@ -19,7 +19,7 @@ contentWarnings:
   - "trauma backstory"
 description: "Yu's review of Antique Bakery — four men with complicated histories run a high-end pastry shop in Tokyo; each character carries something from their past that shows up in surprising ways."
 amazonASIN: "1569709459"
-publishedAt: "2026-04-26"
+publishedAt: "2025-05-16"
 tags:
   - "josei"
   - "BL"

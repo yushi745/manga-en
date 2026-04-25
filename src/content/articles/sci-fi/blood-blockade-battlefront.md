@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "supernatural horror elements", "urban chao
 description: "Yu's review of Blood Blockade Battlefront — New York City has become Hellsalem's Lot after a dimensional barrier opened and merged the city with another world; Libra, a secret organization, works to maintain order in a city where humans and supernatural beings now coexist in constant chaos; Leonardo Watch, a young man who received the All-Seeing Eyes of the Gods at the cost of his sister's sight, becomes Libra's newest member."
 coverImage: "/covers/blood-blockade-battlefront.jpg"
 amazonASIN: "1616559071"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-14"
 tags: ["sci-fi", "action", "completed", "teen-plus", "dark-horse", "supernatural", "urban-fantasy"]
 rating: 4
 hasAffiliate: true

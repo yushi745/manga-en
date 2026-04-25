@@ -17,7 +17,7 @@ contentWarnings: ["tournament fighting", "action violence", "fantasy violence"]
 description: "Yu's review of MÄR — Ginta Toramizu, a boy who obsessively dreams about a magical world called MÄR Heaven, is pulled into it; in MÄR Heaven he is stronger than he ever was in Japan; the world is threatened by a group called Chess, and Ginta must compete in their War Games to protect it."
 coverImage: "/covers/mar.jpg"
 amazonASIN: "1421509725"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-21"
 tags: ["action", "fantasy", "completed", "tournament", "portal-fantasy", "shonen"]
 rating: 3
 hasAffiliate: true

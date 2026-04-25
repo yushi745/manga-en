@@ -19,7 +19,7 @@ contentWarnings:
 description: "A comprehensive review of School Babysitters — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/school-babysitters.jpg"
 amazonASIN: "0316471143"
-publishedAt: "2026-04-25"
+publishedAt: "2026-02-16"
 tags:
   - "slice-of-life"
   - "comedy"

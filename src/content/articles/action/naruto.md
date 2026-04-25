@@ -17,7 +17,7 @@ contentWarnings: ["violence", "themes of death and loss", "mild language"]
 description: "A heartfelt review of Naruto by Yu — a manga about a lonely outcast who never stopped believing in himself. If you've ever felt invisible, this story will hit you somewhere deep."
 coverImage: "/covers/naruto.jpg"
 amazonASIN: "B00F3HG7TS"
-publishedAt: "2026-04-23"
+publishedAt: "2024-09-29"
 tags: ["shonen", "ninja", "action", "classic", "coming-of-age"]
 rating: 5
 hasAffiliate: true

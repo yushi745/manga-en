@@ -17,7 +17,7 @@ contentWarnings: ["slice-of-life isekai", "comedy throughout", "no significant c
 description: "Yu's review of Slime Diaries — a spinoff from That Time I Got Reincarnated as a Slime following Rimuru and the people of Tempest through daily life; farming festivals, cooking competitions, seasonal celebrations, and the small situations that don't make it into the main series."
 coverImage: "/covers/tensura-nikki.jpg"
 amazonASIN: "1975337395"
-publishedAt: "2026-05-06"
+publishedAt: "2025-02-11"
 tags: ["fantasy", "comedy", "slice-of-life", "isekai", "spinoff", "completed", "teen", "yen-press"]
 rating: 4
 hasAffiliate: true

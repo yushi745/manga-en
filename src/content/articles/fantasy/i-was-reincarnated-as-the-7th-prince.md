@@ -17,7 +17,7 @@ contentWarnings: ["fantasy magic combat", "overpowered protagonist", "isekai rei
 description: "Yu's review of I Was Reincarnated as the 7th Prince — a magic researcher who died regretting he couldn't study more magic is reborn as the seventh prince of a kingdom; with royal resources and a child's unlimited time ahead of him, he dedicates his new life to the pursuit of perfect magical knowledge, incidentally becoming the most powerful person in the world along the way."
 coverImage: "/covers/i-was-reincarnated-as-the-7th-prince.jpg"
 amazonASIN: "1646519418"
-publishedAt: "2026-04-29"
+publishedAt: "2024-12-21"
 tags: ["fantasy", "isekai", "ongoing", "teen", "kodansha", "magic", "overpowered", "reincarnation"]
 rating: 4
 hasAffiliate: true

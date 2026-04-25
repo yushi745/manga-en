@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "mystery/horror elements", "body horror in 
 description: "Yu's review of Majin Tantei Nougami Neuro — Neuro Nougami is a demon who feeds on the energy of solved mysteries; having eaten all mysteries in hell, he comes to the human world where human malice generates more complex puzzles; he uses a high school girl named Yako Katsuragi as his human front while solving murder cases."
 coverImage: "/covers/neuro.jpg"
 amazonASIN: "1421513447"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-29"
 tags: ["action", "mystery", "completed", "supernatural", "dark-comedy", "detective"]
 rating: 4
 hasAffiliate: true

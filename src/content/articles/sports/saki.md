@@ -17,7 +17,7 @@ contentWarnings: ["mild fanservice", "competitive stress"]
 description: "Yu's review of Saki — a high school girl named Saki Miyanaga has an uncanny ability to always score exactly zero in mahjong, and when a mahjong club recruits her, the national high school mahjong tournament becomes the backdrop for increasingly supernatural competitive drama."
 coverImage: "/covers/saki.jpg"
 amazonASIN: "0316360716"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-17"
 tags: ["sports", "mahjong", "ongoing", "teen", "yen-press", "competitive", "girls"]
 rating: 4
 hasAffiliate: true

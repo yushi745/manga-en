@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "dungeon combat", "political themes"]
 description: "Yu's review of Magi: Adventure of Sinbad — a prequel to the main Magi series following Sinbad at sixteen, before he became King of Sindria; Sinbad is the first person to ever conquer a dungeon, and this story follows how he went from a poor boy in a dying village to the most powerful king in the world."
 coverImage: "/covers/magi-sinbad.jpg"
 amazonASIN: "1421590913"
-publishedAt: "2026-04-25"
+publishedAt: "2024-09-19"
 tags: ["fantasy", "action", "completed", "teen", "viz-media", "prequel", "magi"]
 rating: 4
 hasAffiliate: true

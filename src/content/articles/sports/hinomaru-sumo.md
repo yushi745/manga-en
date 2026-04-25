@@ -17,7 +17,7 @@ contentWarnings: ["competitive violence (sumo contact)", "intense competition se
 description: "Yu's review of Hinomaru Sumo — Ushio Hinomaru is smaller than the minimum size requirement for professional sumo but is the most gifted sumo wrestler anyone has seen; he joins his high school sumo club and aims for the title of Yokozuna through sheer talent and complete refusal to accept limits."
 coverImage: "/covers/hinomaru-sumo.jpg"
 amazonASIN: "1974714268"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-01"
 tags: ["sports", "shonen", "completed", "sumo", "martial-arts"]
 rating: 4
 hasAffiliate: true

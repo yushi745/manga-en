@@ -17,7 +17,7 @@ contentWarnings: ["school comedy", "delinquent comedy", "club activity content",
 description: "Yu's review of D-Frag! — Kazama Kenji is a delinquent who gets coerced into joining the Game Creation Club by its four very strange members; the club does not actually create games; what it does is generate comedy from the gap between Kazama's attempt to be threatening and the club members' complete indifference to this."
 coverImage: "/covers/d-frag.jpg"
 amazonASIN: "1626920079"
-publishedAt: "2026-05-09"
+publishedAt: "2025-12-22"
 tags: ["slice-of-life", "comedy", "school", "ongoing", "teen", "seven-seas", "delinquent", "club"]
 rating: 3
 hasAffiliate: true

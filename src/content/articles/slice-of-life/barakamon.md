@@ -17,7 +17,7 @@ contentWarnings: ["mild suggestive content (rare)", "themes of creative block an
 description: "Yu's review of Barakamon — a young calligrapher exiled to a rural island after punching a critic discovers that the village children, the sea air, and the ordinary chaos of island life might be what his art has been missing."
 coverImage: "/covers/barakamon.jpg"
 amazonASIN: "0316336084"
-publishedAt: "2026-04-24"
+publishedAt: "2025-12-11"
 tags: ["slice-of-life", "comedy", "art", "rural", "completed", "heartwarming"]
 rating: 5
 hasAffiliate: true

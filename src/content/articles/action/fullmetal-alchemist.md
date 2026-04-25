@@ -17,7 +17,7 @@ contentWarnings: ["violence", "war themes", "themes of death and grief", "body h
 description: "Yu's review of Fullmetal Alchemist — 27 volumes of a story about two brothers, a terrible mistake, and what it truly costs to fix it. Widely considered the best-written manga ever made, and I agree."
 coverImage: "/covers/fullmetal-alchemist.jpg"
 amazonASIN: "B00JDRKY48"
-publishedAt: "2026-04-23"
+publishedAt: "2024-08-28"
 tags: ["shonen", "alchemy", "action", "fantasy", "completed", "brothers"]
 rating: 5
 hasAffiliate: true

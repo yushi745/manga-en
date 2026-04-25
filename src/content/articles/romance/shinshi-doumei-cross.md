@@ -16,7 +16,7 @@ contentWarnings: ["sold-as-debt premise", "class system themes", "romantic jealo
 description: "Yu's review of The Gentlemen's Alliance Cross — Haine Otomiya was sold to the Otomiya family as a child to pay a debt; she's now at the elite Imperial Academy; she's devoted to Shizumasa Togu, the student council president known as the Emperor; Arina Tanemura's drama-heavy shojo about class, identity, and love in an elite school."
 coverImage: "/covers/shinshi-doumei-cross.jpg"
 amazonASIN: "1421512912"
-publishedAt: "2026-05-27"
+publishedAt: "2025-08-25"
 tags: ["romance", "drama", "completed", "teen", "viz-media", "tanemura", "elite-school", "shojo-drama"]
 rating: 3
 hasAffiliate: true

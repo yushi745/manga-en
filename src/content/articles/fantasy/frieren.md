@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "themes of death and grief", "loss of love
 description: "Yu's review of Frieren: Beyond Journey's End — an elf mage who helped defeat the Demon King but barely knew her companions because she outlives everyone. A manga about what it means to look back and finally understand what you had."
 coverImage: "/covers/frieren.jpg"
 amazonASIN: "1974725766"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-14"
 tags: ["fantasy", "slice-of-life", "ongoing", "emotional", "adventure", "elves"]
 rating: 5
 hasAffiliate: true

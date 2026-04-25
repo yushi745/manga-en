@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["sports drama", "parental loss", "intense competition", "injury content"]
 description: "Yu's review of Major — Goro Honda is the son of a professional baseball player; when loss defines his childhood, baseball becomes how he carries his father forward; the series follows Goro from little league through professional baseball across 78 volumes, one of the longest complete sports manga stories ever told."
 coverImage: "/covers/major.jpg"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-08"
 tags: ["sports", "baseball", "drama", "completed", "long-running", "VIZ"]
 rating: 5
 hasAffiliate: false

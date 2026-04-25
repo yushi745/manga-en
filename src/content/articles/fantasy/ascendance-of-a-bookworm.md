@@ -17,7 +17,7 @@ contentWarnings: ["child illness themes", "class discrimination themes", "mild p
 description: "Yu's review of Ascendance of a Bookworm — an isekai about a book-obsessed librarian reincarnated into a world with almost no books, who decides to make them from scratch. The most unique isekai premise, with exceptional world-building and character work."
 coverImage: "/covers/ascendance-of-a-bookworm.jpg"
 amazonASIN: "1718372507"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-20"
 tags: ["fantasy", "isekai", "ongoing", "slice-of-life", "books", "world-building"]
 rating: 5
 hasAffiliate: true

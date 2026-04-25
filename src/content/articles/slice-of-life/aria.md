@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of ARIA — on a terraformed Mars now called Aqua, where rising seas have recreated Venice, Akari Mizunashi trains to become an undine — a gondolier guide — in Neo-Venezia, learning to see the beauty in the slow life she has chosen."
 coverImage: "/covers/aria.jpg"
 amazonASIN: "1413902634"
-publishedAt: "2026-04-24"
+publishedAt: "2025-12-09"
 tags: ["slice-of-life", "fantasy", "shojo", "completed", "healing", "iyashikei"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["suicide themes", "grief", "depression", "loss"]
 description: "Yu's review of Orange — on the first day of high school, Naho receives a letter from herself ten years in the future, listing the regrets she has about a classmate named Kakeru, and warning her to save him before it's too late."
 coverImage: "/covers/orange.jpg"
 amazonASIN: "1626920986"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-09"
 tags: ["romance", "drama", "shojo", "completed", "mental-health", "time"]
 rating: 5
 hasAffiliate: true

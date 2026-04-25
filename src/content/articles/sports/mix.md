@@ -17,7 +17,7 @@ contentWarnings: ["blended family dynamics", "mild romance", "baseball competiti
 description: "Yu's review of Mix — set in the same world as Touch, following the Tachibana brothers (stepsiblings by a blended family) as they pursue Koshien at the same high school where the legendary Uesugi brothers once played; Adachi's most recent long-form baseball manga."
 coverImage: "/covers/mix.jpg"
 amazonASIN: "1974714047"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-11"
 tags: ["sports", "shonen", "ongoing", "baseball", "Adachi", "Touch-sequel"]
 rating: 4
 hasAffiliate: true

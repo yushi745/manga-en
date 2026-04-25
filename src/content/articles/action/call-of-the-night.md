@@ -17,7 +17,7 @@ contentWarnings: ["vampire content", "mature themes", "blood", "explicit scenes"
 description: "Yu's review of Call of the Night — Ko Yamori cannot sleep; unable to feel anything during the day, he starts sneaking out at night and discovers that he actually belongs in the night; when he meets Nazuna, a vampire who drinks blood from sleeping humans, he asks her to turn him into a vampire — but the only way to become one is to fall in love."
 coverImage: "/covers/call-of-the-night.jpg"
 amazonASIN: "1974725634"
-publishedAt: "2026-05-13"
+publishedAt: "2024-08-10"
 tags: ["action", "romance", "completed", "mature", "viz-media", "vampire", "night", "seinen"]
 rating: 5
 hasAffiliate: true

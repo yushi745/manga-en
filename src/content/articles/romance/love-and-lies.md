@@ -17,7 +17,7 @@ contentWarnings: ["government-assigned relationships", "romantic conflict", "arr
 description: "Yu's review of Love and Lies — in a Japan where the government algorithmically assigns marriage partners at age 16, Yukari Nejima has fallen for Misaki before his notice arrives; when he confesses just before the government names his official partner, he enters a triangle between the girl he chose and the girl he was assigned — and neither relationship is simple."
 coverImage: "/covers/love-and-lies.jpg"
 amazonASIN: "1632365230"
-publishedAt: "2026-04-28"
+publishedAt: "2025-07-18"
 tags: ["romance", "sci-fi", "completed", "teen", "kodansha", "dystopia", "drama"]
 rating: 4
 hasAffiliate: true

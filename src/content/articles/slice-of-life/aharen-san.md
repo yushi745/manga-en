@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Aharen-san wa Hakarenai — Reina Aharen is tiny, quiet, and has no sense of personal distance — she either sits too far away or too close, and nothing in between; her classmate Raidou Matsuboshi cannot tell what she means by anything; their comedy is the gap between intent and interpretation."
 coverImage: "/covers/aharen-san.jpg"
 amazonASIN: "B0F9N6RQZL"
-publishedAt: "2026-04-24"
+publishedAt: "2025-12-06"
 tags: ["slice-of-life", "comedy", "romance", "shonen", "completed", "wholesome"]
 rating: 4
 hasAffiliate: true

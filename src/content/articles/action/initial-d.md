@@ -17,7 +17,7 @@ contentWarnings: ["street racing", "some mild adult themes", "rivalry and compet
 description: "Yu's review of Initial D — Takumi Fujiwara has been delivering tofu for his father up and down the mountain roads of Akina since he was a child; without knowing it, he has become Japan's most technically precise drift racer; the discovery of this fact is the beginning of the story."
 coverImage: "/covers/initial-d.jpg"
 amazonASIN: "1892213699"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-08"
 tags: ["action", "sports", "seinen", "completed", "racing", "cars"]
 rating: 4
 hasAffiliate: true

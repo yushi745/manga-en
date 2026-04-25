@@ -17,7 +17,7 @@ contentWarnings: ["superhero action", "vigilante themes", "some darker character
 description: "Yu's review of My Hero Academia: Vigilantes — set in the same world as MHA but before Izuku Midoriya's story, following Koichi Haimawari (The Crawler), an unlicensed street hero who works with the underground pro hero Eraserhead and an eccentric group of vigilantes."
 coverImage: "/covers/mha-vigilantes.jpg"
 amazonASIN: "1974706079"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-23"
 tags: ["action", "superhero", "completed", "mha-spinoff", "vigilantes", "prequel"]
 rating: 5
 hasAffiliate: true

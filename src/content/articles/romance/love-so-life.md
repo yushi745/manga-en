@@ -17,7 +17,7 @@ contentWarnings: ["orphan backstory", "romantic themes", "age gap elements"]
 description: "Yu's review of Love So Life — Shiharu Nakamura is a high school girl raised in an orphanage who loves small children; when Seiji Matsunaga, a TV newscaster whose sister recently died, asks her to babysit his twin niece and nephew, she takes the job; the series follows her developing relationship with the twins and slowly with their uncle."
 coverImage: "/covers/love-so-life.jpg"
 amazonASIN: "0316226033"
-publishedAt: "2026-04-25"
+publishedAt: "2025-07-22"
 tags: ["romance", "slice-of-life", "completed", "teen", "yen-press", "babysitting"]
 rating: 4
 hasAffiliate: true

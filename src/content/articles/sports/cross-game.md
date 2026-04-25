@@ -17,7 +17,7 @@ contentWarnings: ["death of a child character early", "themes of grief and movin
 description: "Yu's review of Cross Game — a boy who grew up next door to four sisters loses one of them when they are children, and grows up playing baseball while carrying what she meant to him."
 coverImage: "/covers/cross-game.jpg"
 amazonASIN: "1421537583"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-22"
 tags: ["sports", "baseball", "romance", "completed", "classic"]
 rating: 5
 hasAffiliate: true

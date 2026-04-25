@@ -17,7 +17,7 @@ contentWarnings: ["postwar Japan", "poverty", "artistic struggle", "historical c
 description: "Yu's review of A Drifting Life — Yoshihiro Tatsumi's autobiography covering his formative years from childhood through his 20s in postwar Japan, the development of his artistic voice, and the creation of gekiga — a darker, more realistic form of manga that would influence everything that came after."
 coverImage: "/covers/a-drifting-life.jpg"
 amazonASIN: "1897299567"
-publishedAt: "2026-05-18"
+publishedAt: "2025-12-03"
 tags: ["slice-of-life", "autobiography", "completed", "teen", "drawn-and-quarterly", "gekiga", "manga-history", "postwar-japan"]
 rating: 5
 hasAffiliate: true

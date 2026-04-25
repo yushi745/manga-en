@@ -17,7 +17,7 @@ contentWarnings: ["mild violence", "science content", "themes of survival"]
 description: "Yu's review of Dr. Stone — Senku Ishigami, a scientific genius, wakes from a millennia-long stone petrification to find human civilization erased; he decides to use science to rebuild everything humanity ever created, starting from zero."
 coverImage: "/covers/dr-stone.jpg"
 amazonASIN: "1974702618"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-19"
 tags: ["action", "sci-fi", "shonen", "completed", "science", "survival", "Boichi"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["death of a significant character", "themes of creative meanin
 description: "Yu's review of Look Back — a single volume about two girls who connect through drawing, whose friendship is the manga's emotional center, and what one page of someone's art can mean to another person across time."
 coverImage: "/covers/look-back.jpg"
 amazonASIN: "1974734641"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-08"
 tags: ["sci-fi", "slice-of-life", "completed", "Fujimoto", "single-volume", "art", "grief"]
 rating: 5
 hasAffiliate: true

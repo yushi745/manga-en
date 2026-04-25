@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "dark fantasy", "goblin violence", "mature
 description: "Yu's review of Goblin Slayer: Year One — the prequel to Goblin Slayer, following the protagonist's early days as an adventurer before he became Porcelain-ranked and before he had the equipment and experience of the main series; the series shows how the Goblin Slayer built his obsessive methodology."
 coverImage: "/covers/goblin-slayer-year-one.jpg"
 amazonASIN: "1975386167"
-publishedAt: "2026-05-13"
+publishedAt: "2024-12-16"
 tags: ["fantasy", "action", "mature", "yen-press", "dark-fantasy", "prequel", "goblin-slayer"]
 rating: 3
 hasAffiliate: true

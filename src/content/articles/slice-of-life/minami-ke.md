@@ -17,7 +17,7 @@ contentWarnings: ["sibling comedy", "mild fan service", "school setting", "seine
 description: "Yu's review of Minami-ke — three sisters at different schools (eldest Haruka in high school, middle Kana in middle school, youngest Chiaki in elementary) share an apartment and their daily life generates endless comedy from their completely different personalities and the rotating cast of friends, admirers, and chaos that follows them home."
 coverImage: "/covers/minami-ke.jpg"
 amazonASIN: "0316087513"
-publishedAt: "2026-04-28"
+publishedAt: "2026-01-27"
 tags: ["slice-of-life", "comedy", "completed", "teen", "yen-press", "siblings", "school", "seinen"]
 rating: 4
 hasAffiliate: true

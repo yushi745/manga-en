@@ -17,7 +17,7 @@ contentWarnings: ["demon contract", "angel vs. demon conflict", "action violence
 description: "Yu's review of 7th Garden — Awyn Gardner is a gardener dedicated to maintaining a noble estate; when a demon sealed in the estate's cellar breaks free and makes a contract with him, he is drawn into a conflict between demons and the angels who have been governing humanity with hidden oppressive intent."
 coverImage: "/covers/7th-garden.jpg"
 amazonASIN: "1421590832"
-publishedAt: "2026-05-16"
+publishedAt: "2024-07-18"
 tags: ["action", "fantasy", "completed", "teen-plus", "viz-media", "demons", "angels", "contract"]
 rating: 3
 hasAffiliate: true

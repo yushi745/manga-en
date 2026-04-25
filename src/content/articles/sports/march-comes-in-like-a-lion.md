@@ -17,7 +17,7 @@ contentWarnings: ["depression themes", "bullying themes", "grief", "family dysfu
 description: "Yu's review of March Comes in Like a Lion — Rei Kiriyama is a seventeen-year-old professional shogi player who lives alone in an apartment; brilliant at shogi, he is emotionally isolated and struggling with depression; through his relationship with three sisters in a neighboring household, he slowly learns how to receive care and how to care for others."
 coverImage: "/covers/march-comes-in-like-a-lion.jpg"
 amazonASIN: "031631658X"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-09"
 tags: ["sports", "slice-of-life", "shogi", "ongoing", "teen", "yen-press", "drama"]
 rating: 5
 hasAffiliate: true

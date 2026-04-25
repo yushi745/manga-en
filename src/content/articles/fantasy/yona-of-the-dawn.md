@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "political themes", "themes of loss and be
 description: "Yu's review of Yona of the Dawn — a sheltered princess witnesses her father's murder, flees the palace with her bodyguard, and begins the journey to reclaim her kingdom and herself."
 coverImage: "/covers/yona-of-the-dawn.jpg"
 amazonASIN: "1421587904"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-01"
 tags: ["fantasy", "adventure", "shojo", "female-lead", "ongoing", "political"]
 rating: 5
 hasAffiliate: true

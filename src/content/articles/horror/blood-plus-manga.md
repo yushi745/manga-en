@@ -20,7 +20,7 @@ contentWarnings:
   - "dark themes"
 description: "Yu's review of Blood+ — Saya has no memories of her past, but the monsters that appear and her mysterious bodyguard Haji suggest something extraordinary and terrible."
 amazonASIN: "1593077718"
-publishedAt: "2026-04-26"
+publishedAt: "2025-03-10"
 tags:
   - "horror"
   - "action"

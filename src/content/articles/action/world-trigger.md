@@ -17,7 +17,7 @@ contentWarnings: ["tactical combat", "sci-fi violence", "themes of war and defen
 description: "Yu's review of World Trigger — a defense organization uses sci-fi weapons called Triggers to fight alien invaders called Neighbors, and a weak new recruit turns out to be connected to those invaders in unexpected ways."
 coverImage: "/covers/world-trigger.jpg"
 amazonASIN: "1421587084"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-10"
 tags: ["action", "sci-fi", "tactical", "ongoing", "school"]
 rating: 4
 hasAffiliate: true

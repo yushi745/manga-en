@@ -17,7 +17,7 @@ contentWarnings: ["psychological horror", "child protagonist under extreme distr
 description: "Yu's review of Alien Nine — Yuri Otani hates aliens; she is elected to the Alien Party, the school organization that catches the aliens that fall on the school grounds daily, because she got the most votes; she partners with a symbiotic alien called a Borg that lives on her head; she spends most of the series crying while somehow continuing."
 coverImage: "/covers/alien-nine.jpg"
 amazonASIN: "1586648594"
-publishedAt: "2026-05-09"
+publishedAt: "2025-10-06"
 tags: ["sci-fi", "horror", "psychological", "completed", "mature", "alien", "body-horror", "disturbing"]
 rating: 4
 hasAffiliate: true

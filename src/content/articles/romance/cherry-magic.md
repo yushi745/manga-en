@@ -17,7 +17,7 @@ contentWarnings: ["BL/boys love", "office romance", "mind reading premise", "wor
 description: "Yu's review of Cherry Magic! — Adachi Kiyoshi turns 30 without losing his virginity and gains the ability to read people's thoughts through touch; he accidentally learns that his popular, competent coworker Kurosawa is deeply in love with him; Yuu Toyota's BL romance about a man who suddenly knows exactly what the person in love with him is thinking."
 coverImage: "/covers/cherry-magic.jpg"
 amazonASIN: "1646091515"
-publishedAt: "2026-05-28"
+publishedAt: "2025-05-28"
 tags: ["romance", "BL", "completed", "teen", "square-enix", "office-romance", "mind-reading", "josei-bl"]
 rating: 4
 hasAffiliate: true

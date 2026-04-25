@@ -17,7 +17,7 @@ contentWarnings: ["battle violence", "sacrifice themes", "loss of mentor figures
 description: "Yu's review of Beet the Vandel Buster — the world is in a Dark Age because of Vandels, demonic beings who lead monsters and spread destruction; Beet wants to become a Vandel Buster and end the Dark Age himself; when the legendary five-man Zenon Warriors sacrifice themselves to save him, he inherits their five legendary weapons — the Saiga — and sets out to fulfill their dream."
 coverImage: "/covers/beet-the-vandel-buster.jpg"
 amazonASIN: "1591167159"
-publishedAt: "2026-04-25"
+publishedAt: "2024-07-31"
 tags: ["action", "adventure", "shonen", "hiatus", "viz", "fantasy"]
 rating: 4
 hasAffiliate: true

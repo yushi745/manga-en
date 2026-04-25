@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "historical setting", "supernatural element
 description: "Yu's review of Brave 10 — set during Japan's Warring States period, a shrine maiden on the run meets the legendary Saizou Kirigakure and ends up under the protection of Sanada Yukimura; Yukimura is gathering ten warriors — the Brave 10 — with exceptional abilities, and Saizou is one of them."
 coverImage: "/covers/brave10.jpg"
 amazonASIN: "142152476X"
-publishedAt: "2026-05-19"
+publishedAt: "2024-08-07"
 tags: ["action", "historical", "completed", "teen-plus", "viz-media", "warring-states", "samurai", "supernatural"]
 rating: 3
 hasAffiliate: true

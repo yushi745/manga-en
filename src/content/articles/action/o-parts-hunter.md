@@ -17,7 +17,7 @@ contentWarnings: ["post-apocalyptic violence", "demonic possession elements", "a
 description: "Yu's review of O-Parts Hunter — Jio Freed is a boy who wants to rule the world but carries a demon called Satan inside him that awakens when he is in danger; he travels a post-apocalyptic world with Ruby, an OPT hunter, in search of legendary O-Parts — ancient relics with extraordinary power."
 coverImage: "/covers/o-parts-hunter.jpg"
 amazonASIN: "1421502348"
-publishedAt: "2026-05-10"
+publishedAt: "2024-10-01"
 tags: ["action", "fantasy", "post-apocalyptic", "completed", "teen-plus", "viz-media", "demon", "relic-hunting"]
 rating: 3
 hasAffiliate: true

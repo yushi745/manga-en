@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "hunting/eating of fictional creatures", "
 description: "Yu's review of Toriko — a Gourmet Hunter in a world where ingredients are the most precious things alive battles fantastic creatures to capture the rarest foods and complete his dream full-course meal."
 coverImage: "/covers/toriko.jpg"
 amazonASIN: "1421535092"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-03"
 tags: ["action", "adventure", "shonen", "food", "completed"]
 rating: 4
 hasAffiliate: true

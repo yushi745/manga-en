@@ -17,7 +17,7 @@ contentWarnings: ["isekai setting", "pharmaceutical content", "healing magic", "
 description: "Yu's review of Drugstore in Another World — Reiji Kirio is reincarnated into a fantasy world with the ability to create potions and medicines; he opens a pharmacy in a small town and builds a slow life making medicines for the community; Esla's manga adaptation of Kennoji's slow-life pharmacist light novel."
 coverImage: "/covers/drugstore-in-another-world.jpg"
 amazonASIN: "1638580391"
-publishedAt: "2026-05-24"
+publishedAt: "2024-12-07"
 tags: ["fantasy", "isekai", "slow-life", "ongoing", "teen", "seven-seas", "pharmacy", "slice-of-life"]
 rating: 3
 hasAffiliate: true

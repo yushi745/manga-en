@@ -17,7 +17,7 @@ contentWarnings: ["mild violence", "dark themes", "emotional manipulation themes
 description: "Yu's review of Alice 19th — Alice Seno is a shy girl who discovers she is a Lotis Master, someone who wields the power of magical words; when her older sister becomes possessed by dark forces, Alice must master the Lotis Words to save her; a Yuu Watase shoujo with magical word system and sibling rivalry themes."
 coverImage: "/covers/alice-19th.jpg"
 amazonASIN: "1591165709"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-15"
 tags: ["romance", "fantasy", "completed", "teen", "viz", "shoujo", "magical-girl", "yuu-watase"]
 rating: 4
 hasAffiliate: true

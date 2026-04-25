@@ -17,7 +17,7 @@ contentWarnings: ["fan service", "fitness content", "mild adult humor"]
 description: "Yu's review of How Heavy Are the Dumbbells You Lift? — Hibiki Sakura, a high school gyaru worried about weight gain, joins a gym with the intention of losing some pounds; she finds the gym populated by muscle-obsessed regulars, a personal trainer with suspiciously good looks and suspicious enthusiasm, and a fellow student who turns out to be a serious competitive bodybuilder; the series is structured around actual exercise instruction embedded in comedy."
 coverImage: "/covers/how-heavy-are-the-dumbbells.jpg"
 amazonASIN: "1975383079"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-02"
 tags: ["sports", "comedy", "completed", "teen-plus", "yen-press", "fitness", "bodybuilding"]
 rating: 4
 hasAffiliate: true

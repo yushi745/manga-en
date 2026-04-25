@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence (comedic)", "gaming addiction themes (played
 description: "Yu's review of Gabriel DropOut — Gabriel White Tenma is the top student at angel school, sent to earth to learn to help humanity and become a full angel; she immediately discovers online gaming, becomes completely addicted, drops out of all responsibilities, and spends her days as a slovenly shut-in; her demon classmates are more responsible than she is."
 coverImage: "/covers/gabriel-dropout.jpg"
 amazonASIN: "0316442070"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-29"
 tags: ["slice-of-life", "comedy", "completed", "teen", "yen-press", "4-koma"]
 rating: 4
 hasAffiliate: true

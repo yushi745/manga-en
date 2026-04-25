@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "peril", "dark fantasy themes"]
 description: "Yu's review of Deltora Quest — manga adaptation of Emily Rodda's Australian fantasy novel series; young Lief and companions Barda and Jasmine journey across the land of Deltora to reclaim the seven gems of the Belt of Deltora from their guardians, each in a different dangerous region; a quest fantasy with eight distinct adventure segments."
 coverImage: "/covers/deltora-quest.jpg"
 amazonASIN: "1612620418"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-03"
 tags: ["fantasy", "adventure", "quest", "completed", "teen", "kodansha", "novel-adaptation", "classic"]
 rating: 3
 hasAffiliate: true

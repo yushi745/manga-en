@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "forced death orders", "graphic sexual con
 description: "Yu's review of King's Game — Nobuaki transfers to a new school hoping to escape his past; his entire previous class was killed when they received orders from 'the King' via text message and anyone who disobeyed died; the new class receives the same messages; Nobuaki must watch the same horror unfold again; Renda's adaptation of Kanazawa's horror novel about a game where the King's orders must be obeyed."
 coverImage: "/covers/king-game.jpg"
 amazonASIN: "1626921350"
-publishedAt: "2026-05-29"
+publishedAt: "2025-04-04"
 tags: ["horror", "thriller", "completed", "mature", "seven-seas", "death-game", "extreme-horror"]
 rating: 3
 hasAffiliate: true

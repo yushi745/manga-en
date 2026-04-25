@@ -17,7 +17,7 @@ contentWarnings: ["Edo period setting", "kidnapping themes", "morally grey chara
 description: "Yu's review of House of Five Leaves — Masanosuke Akitsu is a skilled swordsman who can't hold a job because of his timid personality; he ends up as the bodyguard of Yaichi, a charismatic and mysterious man who runs the Five Leaves, a group that kidnaps wealthy people for ransom."
 coverImage: "/covers/house-of-five-leaves.jpg"
 amazonASIN: "1421536277"
-publishedAt: "2026-05-20"
+publishedAt: "2026-01-10"
 tags: ["slice-of-life", "historical", "completed", "teen-plus", "viz-media", "edo-period", "crime", "morally-grey"]
 rating: 5
 hasAffiliate: true

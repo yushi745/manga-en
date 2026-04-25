@@ -17,7 +17,7 @@ contentWarnings: ["cringe comedy with real social anxiety", "isolation and lonel
 description: "Yu's review of WataMote — Tomoko Kuroki is convinced she will be popular in high school because she has extensive experience with otome games; she is not popular; every attempt to change this makes it worse; the manga is simultaneously the funniest and most painful depiction of teenage social isolation in manga."
 coverImage: "/covers/watamote.jpg"
 amazonASIN: "0316243167"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-05"
 tags: ["slice-of-life", "comedy", "seinen", "ongoing", "social-anxiety", "cringe"]
 rating: 4
 hasAffiliate: true

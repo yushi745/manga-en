@@ -18,7 +18,7 @@ contentWarnings:
   - "delinquency"
 description: "A comprehensive review of Ahiru no Sora — plot, characters, art style, and whether it's worth reading."
 amazonASIN: "1632365863"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-12"
 tags:
   - "sports"
   - "basketball"

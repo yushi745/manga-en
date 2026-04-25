@@ -17,7 +17,7 @@ contentWarnings: ["themes of anxiety and low self-esteem", "sports competition"]
 description: "Yu's review of Big Windup! — a pitcher with severe anxiety and compulsive apologizing joins a new high school team and learns what it means to trust the players behind him."
 coverImage: "/covers/big-windup.jpg"
 amazonASIN: "0345501152"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-19"
 tags: ["sports", "baseball", "drama", "ongoing", "anxiety"]
 rating: 4
 hasAffiliate: true

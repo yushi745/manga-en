@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Gal Gohan — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/gal-gohan.jpg"
 amazonASIN: "1626929327"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-30"
 tags:
   - "slice-of-life"
   - "cooking"

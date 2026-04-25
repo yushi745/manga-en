@@ -17,7 +17,7 @@ contentWarnings: ["psychological horror", "maternal abuse", "trauma", "violence"
 description: "Yu's review of Blood on the Tracks — Seiichi Osabe is a gentle middle school boy whose mother Seiko is devoted, attentive, and loving in a way that begins to reveal itself as something profoundly wrong; a single event during a family outing exposes the depth of Seiko's possessiveness and changes Seiichi's understanding of his entire childhood."
 coverImage: "/covers/blood-on-the-tracks.jpg"
 amazonASIN: "1974713385"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-10"
 tags: ["horror", "psychological", "completed", "mature", "viz-media", "family-drama"]
 rating: 5
 hasAffiliate: true

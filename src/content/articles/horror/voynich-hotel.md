@@ -17,7 +17,7 @@ contentWarnings: ["violence", "dark comedy", "adult themes", "occult themes", "m
 description: "Yu's review of Voynich Hotel — Taizou Kuzuki, a man with a shady past, arrives at a remote island hotel staffed by witch maids and surrounded by assassins, ghosts, and other supernatural complications; Douman Seiman's dark comedy-horror is compact, strange, and genuinely funny in ways that shouldn't work."
 coverImage: "/covers/voynich-hotel.jpg"
 amazonASIN: "1626924228"
-publishedAt: "2026-04-27"
+publishedAt: "2025-05-07"
 tags: ["horror", "comedy", "completed", "mature", "seven-seas", "supernatural", "seinen"]
 rating: 4
 hasAffiliate: true

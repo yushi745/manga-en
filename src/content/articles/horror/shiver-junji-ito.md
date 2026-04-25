@@ -17,7 +17,7 @@ contentWarnings: ["body horror", "supernatural horror", "psychological horror", 
 description: "Yu's review of Shiver — nine stories personally selected by Junji Ito himself as representative of his best work; includes Greased, Painter, The Rib Woman, Fashion Model, Hanging Blimp, Marionette Mansion, Futon, Tomio Red Turtleneck, and Back Alley; each story demonstrates a different aspect of his approach to horror."
 coverImage: "/covers/shiver-junji-ito.jpg"
 amazonASIN: "1421592517"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-29"
 tags: ["horror", "completed", "teen-plus", "viz-media", "junji-ito", "short-stories"]
 rating: 5
 hasAffiliate: true

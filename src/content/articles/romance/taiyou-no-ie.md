@@ -17,7 +17,7 @@ contentWarnings: ["family themes", "absent parent themes", "childhood friendship
 description: "Yu's review of House of the Sun (Taiyou no Ie) — Mao Motomiya, whose home life fell apart when her father remarried, finds herself staying at the house of Hiro, her cheerful childhood friend; his large, warm family gradually becomes the home she didn't know she needed, and the romance that develops is built on that foundation."
 coverImage: "/covers/taiyou-no-ie.jpg"
 amazonASIN: "1612624841"
-publishedAt: "2026-04-29"
+publishedAt: "2025-09-05"
 tags: ["romance", "slice-of-life", "completed", "teen", "kodansha", "shojo", "found-family", "childhood-friends"]
 rating: 5
 hasAffiliate: true

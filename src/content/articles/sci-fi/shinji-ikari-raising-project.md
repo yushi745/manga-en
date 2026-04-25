@@ -17,7 +17,7 @@ contentWarnings: ["alternate universe", "romantic comedy elements", "light fanse
 description: "Yu's review of Neon Genesis Evangelion: The Shinji Ikari Raising Project — an alternate universe where Shinji Ikari attends the same school as Rei and Asuka, his parents are alive and working at NERV together, and the apocalyptic weight of the original series is replaced by the concerns of a teenage romantic comedy."
 coverImage: "/covers/shinji-ikari-raising-project.jpg"
 amazonASIN: "1595823492"
-publishedAt: "2026-05-18"
+publishedAt: "2025-11-20"
 tags: ["sci-fi", "romance", "completed", "teen", "dark-horse", "evangelion", "alternate-universe", "romantic-comedy"]
 rating: 3
 hasAffiliate: true

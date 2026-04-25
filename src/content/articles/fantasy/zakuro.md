@@ -17,7 +17,7 @@ contentWarnings: ["Meiji-era historical setting", "supernatural romance", "youka
 description: "Yu's review of Otome Youkai Zakuro — in Meiji-era Japan, the Ministry of Spirit Affairs pairs human military officers with half-youkai girls to handle supernatural cases; Agemaki Kei, who is afraid of youkai, is paired with the sharp-tongued Zakuro; their partnership generates the series' central romance."
 coverImage: "/covers/zakuro.jpg"
 amazonASIN: "0316190012"
-publishedAt: "2026-05-12"
+publishedAt: "2025-03-02"
 tags: ["fantasy", "romance", "completed", "teen", "yen-press", "meiji-era", "youkai", "historical"]
 rating: 4
 hasAffiliate: true

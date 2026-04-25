@@ -17,7 +17,7 @@ contentWarnings: ["isekai setting", "food themes", "low-stakes adventure", "mons
 description: "Yu's review of Campfire Cooking in Another World — Mukohda Tsuyoshi is accidentally transported to a fantasy world with an ability that lets him access the internet to order food; rather than becoming an adventurer, he focuses on cooking, and his cooking attracts monsters who want to be his companions."
 coverImage: "/covers/campfire-cooking-another-world.jpg"
 amazonASIN: "1638582904"
-publishedAt: "2026-05-02"
+publishedAt: "2024-11-25"
 tags: ["fantasy", "isekai", "cooking", "slice-of-life", "ongoing", "teen", "seven-seas", "cozy"]
 rating: 4
 hasAffiliate: true

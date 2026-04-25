@@ -17,7 +17,7 @@ contentWarnings: ["graphic sword violence", "death in combat", "historical marti
 description: "Yu's review of Gamaran — Gama Kurogane, son of Japan's greatest swordsman, is recruited to help a young lord win a martial arts tournament; against schools representing every style of Japanese combat, Gama's natural genius and the mysterious Ogame style are tested against opponents who may be his equal."
 coverImage: "/covers/gamaran.jpg"
 amazonASIN: "1612620951"
-publishedAt: "2026-04-29"
+publishedAt: "2024-08-28"
 tags: ["action", "historical", "swordfighting", "tournament", "completed", "mature", "seven-seas", "shonen"]
 rating: 4
 hasAffiliate: true

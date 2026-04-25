@@ -17,7 +17,7 @@ contentWarnings: ["violence", "death", "dark fantasy elements", "power escalatio
 description: "Yu's review of Berserk of Gluttony — Fate Graphite was born with the Gluttony skill, which is considered useless because it only triggers when he kills something; he works as a gatekeeper, scorned for his weak skill; after he finally kills something and the Gluttony skill activates, he discovers that absorbing the killed target's stats and abilities makes Gluttony potentially the most powerful skill that exists."
 coverImage: "/covers/berserk-of-gluttony.jpg"
 amazonASIN: "1638582890"
-publishedAt: "2026-04-25"
+publishedAt: "2024-11-22"
 tags: ["fantasy", "action", "ongoing", "teen-plus", "seven-seas", "isekai-adjacent", "dark-fantasy"]
 rating: 4
 hasAffiliate: true

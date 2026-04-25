@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "demon combat", "historical fantasy violenc
 description: "Yu's review of Orient — in an alternate Japan where demons called Kishin have ruled for 150 years, the samurai who once fought them have been erased from history and remembered as criminals; Musashi and his best friend Kojiro dream of reviving the samurai band, believing the erased history contains the truth about what humans can be."
 coverImage: "/covers/orient.jpg"
 amazonASIN: "1632369346"
-publishedAt: "2026-04-28"
+publishedAt: "2024-10-03"
 tags: ["action", "fantasy", "ongoing", "teen", "kodansha", "samurai", "demons", "shonen"]
 rating: 4
 hasAffiliate: true

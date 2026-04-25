@@ -17,7 +17,7 @@ contentWarnings: ["mild fantasy violence", "slow-burn romance", "isekai themes"]
 description: "Yu's review of The Saint's Magic Power is Omnipotent — Sei is an overworked office worker who is summoned to a fantasy kingdom as a Saint; the kingdom ignores her in favor of the other woman summoned simultaneously; Sei decides she doesn't mind and spends her time making potions and learning herbalism; eventually the kingdom realizes what they overlooked."
 coverImage: "/covers/saints-magic-omnipotent.jpg"
 amazonASIN: "1646090683"
-publishedAt: "2026-04-25"
+publishedAt: "2025-01-31"
 tags: ["fantasy", "isekai", "ongoing", "teen", "kodansha", "josei-adjacent", "romance"]
 rating: 4
 hasAffiliate: true

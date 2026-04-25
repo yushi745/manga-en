@@ -17,7 +17,7 @@ contentWarnings: ["romantic comedy", "family drama", "switched at birth premise"
 description: "Yu's review of A Couple of Cuckoos — Nagi Umino, top student and dedicated cook who has been raised in a poor family since a hospital mix-up at birth, meets Erika Amano, the actual biological daughter of his wealthy birth family; their parents decide the best solution is for the two teenagers to fake-date with plans to eventually marry, which goes as well as you'd expect when both teenagers already have people they like."
 coverImage: "/covers/a-couple-of-cuckoos.jpg"
 amazonASIN: "1646518869"
-publishedAt: "2026-04-29"
+publishedAt: "2025-05-08"
 tags: ["romance", "comedy", "ongoing", "teen", "kodansha", "shonen", "fake-dating", "switched-at-birth"]
 rating: 4
 hasAffiliate: true

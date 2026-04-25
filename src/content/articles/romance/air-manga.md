@@ -17,7 +17,7 @@ contentWarnings: ["illness themes", "supernatural curse", "death", "emotional lo
 description: "Yu's review of the Air manga — Yukito Kunisaki travels searching for the girl in the sky that his mother told him about; in a small seaside town he meets Misuzu Kamio, a lonely girl with a mysterious condition; manga adaptation of Key's visual novel, the summer story that ends in winter."
 coverImage: "/covers/air-manga.jpg"
 amazonASIN: "1598163833"
-publishedAt: "2026-05-23"
+publishedAt: "2025-05-14"
 tags: ["romance", "drama", "completed", "teen", "tokyopop", "key", "visual-novel-adaptation", "summer"]
 rating: 4
 hasAffiliate: true

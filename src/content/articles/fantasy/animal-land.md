@@ -17,7 +17,7 @@ contentWarnings: ["predator-prey violence", "death of animal characters", "philo
 description: "Yu's review of Animal Land — a world where humans are extinct and animals communicate only within their own species; a raccoon dog finds a human baby she cannot understand but raises; as he grows, Taroza discovers he can speak to all animals, and begins to challenge the fundamental law that predators must eat prey."
 coverImage: "/covers/animal-land.jpg"
 amazonASIN: "1612622410"
-publishedAt: "2026-05-17"
+publishedAt: "2024-11-18"
 tags: ["fantasy", "action", "completed", "teen", "kodansha", "animals", "philosophical", "adventure"]
 rating: 4
 hasAffiliate: true

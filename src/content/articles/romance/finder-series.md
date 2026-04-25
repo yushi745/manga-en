@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "explicit sexual content", "organized cr
 description: "Yu's review of Finder Series — Akihito Takaba is a freelance photographer documenting illegal activities for evidence; when he photographs the wrong person — crime boss Ryuichi Asami — he is captured, and a complicated relationship develops from an entirely coercive beginning."
 coverImage: "/covers/finder-series.jpg"
 amazonASIN: "1421575221"
-publishedAt: "2026-05-16"
+publishedAt: "2025-06-11"
 tags: ["romance", "boys-love", "ongoing", "mature", "sublime", "crime", "photographer", "power-imbalance"]
 rating: 3
 hasAffiliate: true

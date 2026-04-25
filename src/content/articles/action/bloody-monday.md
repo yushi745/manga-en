@@ -17,7 +17,7 @@ contentWarnings: ["terrorism themes", "bioweapon threat", "violence", "some deat
 description: "Yu's review of Bloody Monday — Fujimaru Takagi is a genius high school hacker whose father works for a government intelligence organization; when a terrorist group plans to release a deadly virus on New Year's Day, Fujimaru is pulled into a race to stop them using his hacking abilities."
 coverImage: "/covers/bloody-monday.jpg"
 amazonASIN: "1935429086"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-05"
 tags: ["action", "thriller", "completed", "hacker", "terrorism", "shounen"]
 rating: 4
 hasAffiliate: true

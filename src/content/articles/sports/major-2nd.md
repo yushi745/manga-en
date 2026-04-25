@@ -17,7 +17,7 @@ contentWarnings: ["sports competition", "themes of family legacy and personal id
 description: "Yu's review of Major 2nd — Daigo Shigeno is the son of Goro Shigeno, the baseball legend from the original Major series; Daigo lacks his father's exceptional talent and must find his own relationship with baseball; a sports manga about the difficulty of living in a great person's shadow."
 coverImage: "/covers/major-2nd.jpg"
 amazonASIN: "1421596202"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-08"
 tags: ["sports", "baseball", "ongoing", "all-ages", "viz-media", "sequel"]
 rating: 4
 hasAffiliate: true

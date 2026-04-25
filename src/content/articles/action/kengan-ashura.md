@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "extreme fighting", "some gore"]
 description: "Yu's review of Kengan Ashura — since ancient times, Japanese corporations have resolved business conflicts with gladiatorial combat; Ouma Tokita, the Ashura, is the fighter hired by Nogi Hideki to fight his way through a tournament that will determine who controls the Kengan Association."
 coverImage: "/covers/kengan-ashura.jpg"
 amazonASIN: "1974709515"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-14"
 tags: ["action", "fighting", "martial-arts", "seinen", "completed"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["fanservice (moderate)", "worldbuilding involving discriminati
 description: "Yu's review of A Centaur's Life (Centaur no Nayami) — Himeno is a centaur girl attending high school in a world where centaurs, merfolk, satyrs, angels, and other mythological beings coexist as the various races of humanity; the series explores ordinary school life with the specific complications of being a four-legged person in a society built mostly around bipeds."
 coverImage: "/covers/a-centaurs-life.jpg"
 amazonASIN: "1626924880"
-publishedAt: "2026-04-26"
+publishedAt: "2025-12-01"
 tags: ["slice-of-life", "comedy", "fantasy", "completed", "teen-plus", "seven-seas", "monster-girl", "worldbuilding"]
 rating: 4
 hasAffiliate: true

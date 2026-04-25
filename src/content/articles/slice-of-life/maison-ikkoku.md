@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "alcohol use by adult characters", "c
 description: "Yu's review of Maison Ikkoku — Yusaku Godai is a ronin student living in a boarding house called Maison Ikkoku; when the new building manager Kyoko Otonashi arrives, a young widow, he falls in love; the series follows their relationship across years of misunderstandings, interference from neighbors, competing love interests, and the specific difficulty of two people who both want the same thing failing to communicate it."
 coverImage: "/covers/maison-ikkoku.jpg"
 amazonASIN: "1591162750"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-24"
 tags: ["slice-of-life", "romance", "completed", "teen", "viz-media", "classic", "rumiko-takahashi"]
 rating: 5
 hasAffiliate: true

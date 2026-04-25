@@ -17,7 +17,7 @@ contentWarnings: ["mature sexual content", "adult romance", "self-loathing prota
 description: "Yu's review of Moteki — Yukiyo Fujimoto, 25, unemployed temp worker, has never been in a relationship; his 'moteki' (a period of romantic popularity) arrives when multiple women from his past suddenly show interest; he is entirely unprepared and consistently fails to handle it well."
 coverImage: "/covers/moteki.jpg"
 amazonASIN: "1935654942"
-publishedAt: "2026-05-12"
+publishedAt: "2025-07-30"
 tags: ["romance", "comedy", "completed", "mature", "vertical-comics", "seinen", "adult", "realistic"]
 rating: 4
 hasAffiliate: true

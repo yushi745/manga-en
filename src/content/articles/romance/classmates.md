@@ -17,7 +17,7 @@ contentWarnings: ["BL/boys love", "high school romance", "mature themes between 
 description: "Yu's review of Classmates — Rihito Sajou always studies alone; Hikaru Kusakabe is the class's easy-going musician who doesn't study at all; when Kusakabe hears Sajou singing alone in a classroom, something changes; Asumiko Nakamura's delicate BL manga about two high school boys whose unlikely closeness becomes something neither anticipated."
 coverImage: "/covers/classmates.jpg"
 amazonASIN: "1626928436"
-publishedAt: "2026-05-28"
+publishedAt: "2025-05-30"
 tags: ["romance", "BL", "completed", "teen-plus", "seven-seas", "high-school", "nakamura", "short-form"]
 rating: 5
 hasAffiliate: true

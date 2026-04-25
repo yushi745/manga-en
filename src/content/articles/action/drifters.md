@@ -17,7 +17,7 @@ contentWarnings: ["graphic battle violence", "genocide themes", "dark historical
 description: "Yu's review of Drifters — great warriors from throughout human history — Shimazu Toyohisa, Oda Nobunaga, Nasu no Yoichi — are transported at the moment of their deaths to a fantasy world by mysterious bureaucrats; they are called Drifters; a parallel group called the Ends are transported figures who were killed by betrayal and seek to destroy humanity; the two sides are at war."
 coverImage: "/covers/drifters.jpg"
 amazonASIN: "1595827080"
-publishedAt: "2026-04-25"
+publishedAt: "2024-08-21"
 tags: ["action", "historical", "fantasy", "ongoing", "dark-horse", "hirano", "mature"]
 rating: 4
 hasAffiliate: true

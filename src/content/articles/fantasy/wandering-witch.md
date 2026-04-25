@@ -17,7 +17,7 @@ contentWarnings: ["dark themes in individual story arcs", "death", "tragedy alon
 description: "Yu's review of Wandering Witch: The Journey of Elaina — a young witch named Elaina travels from country to country, collecting experiences as a traveler, witnessing the beautiful and the terrible in equal measure."
 coverImage: "/covers/wandering-witch.jpg"
 amazonASIN: "1646090357"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-22"
 tags: ["fantasy", "adventure", "anthology", "ongoing", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

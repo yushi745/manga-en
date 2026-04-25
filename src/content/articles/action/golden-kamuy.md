@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "survival gore", "historical violence", "m
 description: "Yu's review of Golden Kamuy — a Russo-Japanese War veteran teams up with an Ainu girl to find tattooed skins containing the key to a fortune in hidden Ainu gold, pursued by the Imperial Army, deserters, and men who want the gold for their own reasons."
 coverImage: "/covers/golden-kamuy.jpg"
 amazonASIN: "1421594943"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-30"
 tags: ["action", "adventure", "historical", "mature", "completed", "seinen", "Ainu"]
 rating: 5
 hasAffiliate: true

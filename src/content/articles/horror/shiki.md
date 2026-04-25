@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["vampire violence", "graphic horror", "mass death", "morally complex themes"]
 description: "Yu's review of Shiki — people begin dying mysteriously in a rural Japanese village during summer, and the doctors, priests, and survivors must confront what is happening and what they are willing to do in response."
 coverImage: "/covers/shiki.jpg"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-29"
 tags: ["horror", "vampire", "supernatural", "completed", "moral-complexity"]
 rating: 5
 hasAffiliate: false

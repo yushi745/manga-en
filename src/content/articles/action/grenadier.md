@@ -17,7 +17,7 @@ contentWarnings: ["explicit fan service", "gun action comedy", "fantasy feudal J
 description: "Yu's review of Grenadier — Rushuna Tendo is an extraordinarily skilled gunslinger traveling feudal Japan with the goal of creating world peace through her Enlightenment Strategy — embracing defeated enemies so warmly they have no wish to fight; her shooting skill is matched only by her cheerful determination to hug everyone into peace."
 coverImage: "/covers/grenadier.jpg"
 amazonASIN: "141390184X"
-publishedAt: "2026-05-12"
+publishedAt: "2024-09-01"
 tags: ["action", "comedy", "completed", "mature", "adv-manga", "gunslinger", "feudal-japan", "fan-service"]
 rating: 3
 hasAffiliate: true

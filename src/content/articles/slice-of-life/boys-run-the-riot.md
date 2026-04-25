@@ -17,7 +17,7 @@ contentWarnings: ["transgender themes", "gender identity", "dysphoria", "bullyin
 description: "Yu's review of Boys Run the Riot — Ryuu is a trans boy in high school who presents as a girl at school; he meets Jin, a transfer student interested in streetwear fashion; together they start a clothing brand as a way of expressing who Ryuu is before he can express it directly; a manga about fashion, identity, and finding a language for who you are."
 coverImage: "/covers/boys-run-the-riot.jpg"
 amazonASIN: "1646512820"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-17"
 tags: ["slice-of-life", "drama", "lgbtq", "fashion", "completed", "teen", "kodansha"]
 rating: 4
 hasAffiliate: true

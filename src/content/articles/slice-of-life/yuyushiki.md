@@ -17,7 +17,7 @@ contentWarnings: ["mild yuri subtext", "school comedy"]
 description: "Yu's review of Yuyushiki — Yuzuko, Yukari, and Yui form the Data Processing Club, which processes no data; they use the club room's computer to look up random things and have conversations that go nowhere extremely well."
 coverImage: "/covers/yuyushiki.jpg"
 amazonASIN: "1626920403"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-11"
 tags: ["slice-of-life", "comedy", "ongoing", "school-life", "yuri-subtext"]
 rating: 3
 hasAffiliate: true

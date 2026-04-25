@@ -17,7 +17,7 @@ contentWarnings: ["attempted suicide (central event, first chapter)", "homophobi
 description: "Yu's review of Our Dreams at Dusk — Tasuku Kaname is outed to his classmates; he goes to a building to jump; a woman in white tells him to come to a drop-in center; the center is a community of people across the LGBTQ spectrum who have found a way to be in the world; Tasuku begins to find his own way through them."
 coverImage: "/covers/our-dreams-at-dusk.jpg"
 amazonASIN: "1626929017"
-publishedAt: "2026-04-24"
+publishedAt: "2026-02-08"
 tags: ["slice-of-life", "drama", "completed", "lgbtq", "community", "josei", "mature"]
 rating: 5
 hasAffiliate: true

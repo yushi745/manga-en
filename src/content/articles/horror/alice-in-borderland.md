@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "character death", "death game", "gore", "
 description: "Yu's review of Alice in Borderland — Ryohei Arisu wakes up in a deserted Tokyo where survival depends on playing deadly games categorized by playing card suits; the series is a masterwork of game design, psychological pressure, and what it means to want to live."
 coverImage: "/covers/alice-in-borderland.jpg"
 amazonASIN: "1974709760"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-03"
 tags: ["horror", "thriller", "completed", "mature", "viz", "death-game", "psychological"]
 rating: 5
 hasAffiliate: true

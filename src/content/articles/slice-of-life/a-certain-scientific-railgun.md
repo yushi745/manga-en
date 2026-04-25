@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "some fanservice", "dark themes in arcs"]
 description: "Yu's review of A Certain Scientific Railgun — Misaka Mikoto is a Level 5 electromaster in Academy City, a city of students with supernatural abilities; she navigates school life with her friends while confronting the darker experiments and conspiracies that run beneath the city's surface."
 coverImage: "/covers/a-certain-scientific-railgun.jpg"
 amazonASIN: "1934876429"
-publishedAt: "2026-04-24"
+publishedAt: "2025-12-01"
 tags: ["slice-of-life", "action", "sci-fi", "shonen", "ongoing", "esper"]
 rating: 4
 hasAffiliate: true

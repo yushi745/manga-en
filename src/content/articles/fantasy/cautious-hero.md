@@ -17,7 +17,7 @@ contentWarnings: ["comedy violence", "goddess-hero comedy situations", "mild fan
 description: "Yu's review of Cautious Hero — goddess Ristarte summons a hero to save a world; the hero Seiya Ryuuguuin is absurdly powerful but refuses to engage with anything without maxing his stats, buying every possible item, and training for days first; the comedy is the goddess watching him prepare endlessly for battles he could win instantly."
 coverImage: "/covers/cautious-hero.jpg"
 amazonASIN: "1975385616"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-27"
 tags: ["fantasy", "isekai", "comedy", "completed", "Yen-Press"]
 rating: 4
 hasAffiliate: true

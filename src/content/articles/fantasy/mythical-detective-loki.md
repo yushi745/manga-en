@@ -17,7 +17,7 @@ contentWarnings: ["Norse mythology", "supernatural mystery", "child protagonist 
 description: "Yu's review of Mythical Detective Loki Ragnarok — Loki, Norse god of mischief, has been exiled to the human world in the form of a child; he runs a detective agency in Japan, solving supernatural mysteries with his assistant Yamino; other Norse gods begin appearing with orders to eliminate him."
 coverImage: "/covers/mythical-detective-loki.jpg"
 amazonASIN: "141390191X"
-publishedAt: "2026-05-10"
+publishedAt: "2025-01-15"
 tags: ["fantasy", "mystery", "completed", "teen", "adv-manga", "norse-mythology", "supernatural", "detective"]
 rating: 3
 hasAffiliate: true

@@ -19,7 +19,7 @@ contentWarnings:
   - "adult themes"
 description: "Yu's review of Gravitation EX — the sequel to Gravitation picks up with Shuichi and Eiri navigating their relationship after the events of the original series."
 amazonASIN: "1427819419"
-publishedAt: "2026-04-26"
+publishedAt: "2025-06-21"
 tags:
   - "yaoi"
   - "BL"

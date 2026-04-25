@@ -17,7 +17,7 @@ contentWarnings: ["high school romance", "delinquent character", "first love", "
 description: "Yu's review of Cactus's Secret — Miku Hasegawa has a crush on her class's delinquent, Kyohei Fujioka, who is sharp and intimidating on the surface; through an accidental discovery, she learns that he's secretly kind; Nana Haruta's shojo manga about discovering the person behind the intimidating exterior."
 coverImage: "/covers/cactus-secret.jpg"
 amazonASIN: "1421534827"
-publishedAt: "2026-05-27"
+publishedAt: "2025-05-24"
 tags: ["romance", "comedy", "completed", "teen", "viz-media", "delinquent", "ribon", "first-love"]
 rating: 3
 hasAffiliate: true

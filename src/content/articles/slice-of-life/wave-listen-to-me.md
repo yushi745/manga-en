@@ -17,7 +17,7 @@ contentWarnings: ["adult humor", "alcohol", "mild sexual content", "language"]
 description: "Yu's review of Wave, Listen to Me! — Minare Koda is a restaurant worker in Sapporo who rants to a radio producer at a bar about her ex-boyfriend; the producer records it and airs it; instead of suing, she agrees to do a radio show; a fast-talking adult comedy about a woman who is genuinely funny and genuinely a mess."
 coverImage: "/covers/wave-listen-to-me.jpg"
 amazonASIN: "1632368994"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-05"
 tags: ["slice-of-life", "comedy", "ongoing", "mature", "kodansha", "sapporo", "radio"]
 rating: 5
 hasAffiliate: true

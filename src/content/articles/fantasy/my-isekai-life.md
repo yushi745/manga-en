@@ -17,7 +17,7 @@ contentWarnings: ["isekai action", "monster combat", "some violent content"]
 description: "Yu's review of My Isekai Life — Yuji Sano was transported to another world while working from home and assigned the job class Tamer; by exploiting a game mechanic he leveled multiple slimes rapidly and gained a second hidden class, Sage; he is now the most powerful person in the world and wants to go home to Japan."
 coverImage: "/covers/my-isekai-life.jpg"
 amazonASIN: "1646091450"
-publishedAt: "2026-04-25"
+publishedAt: "2025-01-14"
 tags: ["fantasy", "isekai", "action", "ongoing", "square-enix", "male-protagonist"]
 rating: 4
 hasAffiliate: true

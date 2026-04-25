@@ -17,7 +17,7 @@ contentWarnings: ["mild fanservice", "workplace scenarios", "adult themes (mild)
 description: "Yu's review of New Game! — Aoba Suzukaze joins Eagle Jump, the game company that made her favorite childhood game, as a character designer; the series follows her first year in professional game development alongside an all-female team; a workplace slice-of-life that treats game development with genuine procedural interest."
 coverImage: "/covers/new-game.jpg"
 amazonASIN: "1626926700"
-publishedAt: "2026-04-25"
+publishedAt: "2026-02-03"
 tags: ["slice-of-life", "comedy", "completed", "teen", "seven-seas", "workplace", "game-dev"]
 rating: 4
 hasAffiliate: true

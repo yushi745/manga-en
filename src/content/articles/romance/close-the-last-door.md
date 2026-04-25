@@ -19,7 +19,7 @@ contentWarnings:
   - "unrequited love themes"
 description: "Yu's review of Close the Last Door — a man watches his best friend marry a woman while carrying unrequited feelings, and stumbles into a complicating new relationship at the reception."
 amazonASIN: "1569709688"
-publishedAt: "2026-04-26"
+publishedAt: "2025-05-31"
 tags:
   - "yaoi"
   - "BL"

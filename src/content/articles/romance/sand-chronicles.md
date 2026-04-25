@@ -17,7 +17,7 @@ contentWarnings: ["maternal suicide", "depression themes", "grief", "emotionally
 description: "Yu's review of Sand Chronicles — Ann Uekusa moves from Tokyo to rural Shimane after her parents' separation; her mother's death by suicide shapes everything that follows; the series follows Ann from childhood through adulthood with unflinching attention to grief, depression, and the slow work of becoming a whole person."
 coverImage: "/covers/sand-chronicles.jpg"
 amazonASIN: "1421511754"
-publishedAt: "2026-04-25"
+publishedAt: "2025-08-22"
 tags: ["romance", "drama", "completed", "shojo", "grief", "coming-of-age", "viz-media"]
 rating: 5
 hasAffiliate: true

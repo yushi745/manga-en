@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic themes", "comedy content"]
 description: "Yu's review of Monthly Girls' Nozaki-kun — Chiyo Sakura confesses to her crush Umetaro Nozaki and he hands her his autograph; she discovers he is the author of a popular shojo manga and accidentally becomes his assistant; the series is a comedy about manga creation that uses the genre conventions of shojo manga as its comedic material."
 coverImage: "/covers/monthly-girls-nozaki-kun.jpg"
 amazonASIN: "0316259500"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-28"
 tags: ["slice-of-life", "comedy", "ongoing", "teen", "yen-press", "romance"]
 rating: 4
 hasAffiliate: true

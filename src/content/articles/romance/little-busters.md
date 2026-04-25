@@ -17,7 +17,7 @@ contentWarnings: ["death of characters", "grief", "illness themes", "the secret 
 description: "Yu's review of the Little Busters! manga — Riki Naoe and the childhood friends who saved him from despair form a baseball team; the manga adaptation of Key's visual novel, covering Riki's journey through school and the secret that changes everything he thought he knew."
 coverImage: "/covers/little-busters.jpg"
 amazonASIN: "0316321672"
-publishedAt: "2026-05-23"
+publishedAt: "2025-07-17"
 tags: ["romance", "drama", "completed", "teen", "yen-press", "key", "visual-novel-adaptation", "friendship"]
 rating: 4
 hasAffiliate: true

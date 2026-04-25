@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "themes of loss and family responsibi
 description: "Yu's review of A Galaxy Next Door — Ichirou Kuga is a young manga artist struggling to support his two younger siblings after his parents' death; when the highly skilled Shiori Goshiki arrives as his assistant, a stinger on her back accidentally creates a spiritual bond between them; he discovers she may be a supernatural being from another world."
 coverImage: "/covers/a-galaxy-next-door.jpg"
 amazonASIN: "1646519973"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-03"
 tags: ["slice-of-life", "romance", "completed", "teen", "kodansha"]
 rating: 4
 hasAffiliate: true

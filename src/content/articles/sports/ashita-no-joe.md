@@ -17,7 +17,7 @@ contentWarnings: ["boxing violence", "death", "poverty and social marginalizatio
 description: "Yu's review of Ashita no Joe — Joe Yabuki grows up in the slums of postwar Tokyo, is discovered by a washed-up trainer, and becomes a boxer; the series follows him to the title fight while asking what a life spent burning completely is worth."
 coverImage: "/covers/ashita-no-joe.jpg"
 amazonASIN: "1647293871"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-15"
 tags: ["sports", "shonen", "completed", "classic", "boxing", "postwar"]
 rating: 5
 hasAffiliate: true

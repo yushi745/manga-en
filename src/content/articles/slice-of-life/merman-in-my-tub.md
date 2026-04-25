@@ -17,7 +17,7 @@ contentWarnings: ["supernatural beings in domestic setting", "boys' love lite", 
 description: "Yu's review of Merman in My Tub — Tatsumi finds a merman named Wakasa collapsed in the river and moves him into his apartment's bathtub to recover; Wakasa refuses to leave, other sea creatures begin visiting, and Tatsumi's apartment becomes a surprisingly crowded supernatural domestic comedy."
 coverImage: "/covers/merman-in-my-tub.jpg"
 amazonASIN: "1646090365"
-publishedAt: "2026-05-15"
+publishedAt: "2026-01-26"
 tags: ["slice-of-life", "comedy", "completed", "teen", "square-enix", "merman", "supernatural-domestic", "implied-bl"]
 rating: 3
 hasAffiliate: true

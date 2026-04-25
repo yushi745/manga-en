@@ -17,7 +17,7 @@ contentWarnings: ["survival game / airsoft action", "gender disguise", "friendsh
 description: "Yu's review of Aoharu x Machinegun — Hotaru Tachibana is a justice-obsessed student council president who is accidentally recruited into a survival game team by host club owner Masamune; to stay on the team she must hide that she is a girl, as the team's rules forbid female members."
 coverImage: "/covers/aoharu-machinegun.jpg"
 amazonASIN: "0316397423"
-publishedAt: "2026-05-02"
+publishedAt: "2024-07-21"
 tags: ["action", "comedy", "survival-game", "gender-disguise", "completed", "teen", "yen-press", "sports"]
 rating: 4
 hasAffiliate: true

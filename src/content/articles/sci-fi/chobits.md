@@ -17,7 +17,7 @@ contentWarnings: ["some sexual content", "mature themes around personhood and de
 description: "Yu's review of Chobits — Hideki Motosuwa, a country boy studying in Tokyo, finds an abandoned persocom — a human-shaped personal computer — in the trash; he names her Chi; she can say nothing but his name, has no installed programs, and seems to be something unusual among persocoms; as they grow closer, the series asks whether a machine can truly feel."
 coverImage: "/covers/chobits.jpg"
 amazonASIN: "1595820213"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-18"
 tags: ["sci-fi", "romance", "completed", "clamp", "android", "mature", "seinen"]
 rating: 4
 hasAffiliate: true

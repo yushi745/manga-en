@@ -21,7 +21,7 @@ contentWarnings:
 description: "Yu's review of Trinity Blood — in a post-apocalyptic future where vampires and humans are at war, a vampire-eating priest works for the Vatican to maintain the fragile peace."
 coverImage: "/covers/trinity-blood.jpg"
 amazonASIN: "1421501481"
-publishedAt: "2026-04-26"
+publishedAt: "2024-11-05"
 tags:
   - "action"
   - "fantasy"

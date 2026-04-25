@@ -17,7 +17,7 @@ contentWarnings: ["child dragon protagonist", "school life", "gentle comedy", "s
 description: "Yu's review of Miss Kobayashi's Dragon Maid: Kanna's Daily Life — Kanna, the small dragon child who lives with Kobayashi and Tohru, goes to elementary school; this spinoff follows her daily life, her human friend Saikawa, and her gradual understanding of human childhood; coolkyousinnjya's all-ages spinoff of the original Dragon Maid."
 coverImage: "/covers/dragon-maid-kanna.jpg"
 amazonASIN: "1626924465"
-publishedAt: "2026-05-25"
+publishedAt: "2024-12-05"
 tags: ["fantasy", "comedy", "slice-of-life", "ongoing", "all-ages", "seven-seas", "dragon-maid", "spinoff"]
 rating: 4
 hasAffiliate: true

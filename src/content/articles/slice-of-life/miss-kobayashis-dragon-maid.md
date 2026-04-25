@@ -17,7 +17,7 @@ contentWarnings: ["some fanservice", "non-traditional family structure", "mild c
 description: "Yu's review of Miss Kobayashi's Dragon Maid — Kobayashi is an ordinary programmer who drunkenly invited a dragon named Tohru to stay; Tohru takes the form of a human woman in a maid uniform and lives with Kobayashi and eventually a young dragon named Kanna; the comedy is Tohru's dragon nature meeting everyday Japanese life."
 coverImage: "/covers/miss-kobayashis-dragon-maid.jpg"
 amazonASIN: "1626923485"
-publishedAt: "2026-04-24"
+publishedAt: "2026-01-28"
 tags: ["slice-of-life", "comedy", "completed", "dragons", "found-family", "Seven-Seas"]
 rating: 4
 hasAffiliate: true

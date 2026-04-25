@@ -17,7 +17,7 @@ contentWarnings: ["vampire horror", "graphic violence", "post-apocalyptic settin
 description: "Yu's review of Vampire Hunter D — set 12,000 years in the future in a world where vampires ruled humanity and have since fallen; D is a half-human half-vampire dhampir who hunts his own father's kind; stoic, nearly invincible, and accompanied by a parasitic demon in his hand, he is one of horror manga's most iconic loners."
 coverImage: "/covers/vampire-hunter-d.jpg"
 amazonASIN: "1569712646"
-publishedAt: "2026-04-30"
+publishedAt: "2025-05-06"
 tags: ["horror", "sci-fi", "vampire", "completed", "mature", "dark-horse", "seinen", "classic"]
 rating: 4
 hasAffiliate: true

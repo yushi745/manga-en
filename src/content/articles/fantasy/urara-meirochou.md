@@ -17,7 +17,7 @@ contentWarnings: ["mild fanservice", "supernatural themes", "fortune telling", "
 description: "Yu's review of Urara Meirochou — Chiya has grown up in the mountains with animals and now enters Meirochou, the City of Fortune Tellers, to become an urara and find her missing mother; Harikamo's cute fantasy manga about divination and the girls who practice it."
 coverImage: "/covers/urara-meirochou.jpg"
 amazonASIN: "0316436429"
-publishedAt: "2026-05-23"
+publishedAt: "2025-02-18"
 tags: ["fantasy", "comedy", "completed", "teen-plus", "yen-press", "fortune-telling", "school", "cute"]
 rating: 3
 hasAffiliate: true

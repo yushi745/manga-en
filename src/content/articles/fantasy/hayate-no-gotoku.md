@@ -17,7 +17,7 @@ contentWarnings: ["harem elements", "comedy violence", "parody"]
 description: "Yu's review of Hayate the Combat Butler — 16-year-old Hayate Ayasaki has been working since childhood to pay off his parents' enormous debt; when his parents sell him to the yakuza on Christmas Eve, he attempts to kidnap someone for ransom and accidentally saves the richest girl in Japan, who hires him as her butler."
 coverImage: "/covers/hayate-no-gotoku.jpg"
 amazonASIN: "1421513315"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-17"
 tags: ["fantasy", "comedy", "shonen", "completed", "butler", "harem", "parody"]
 rating: 4
 hasAffiliate: true

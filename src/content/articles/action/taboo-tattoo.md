@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Taboo Tattoo — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/taboo-tattoo.jpg"
 amazonASIN: "1626921997"
-publishedAt: "2026-04-25"
+publishedAt: "2024-10-27"
 tags:
   - "action"
   - "supernatural"

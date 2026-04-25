@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "religious themes", "devil contract", "192
 description: "Yu's review of Chrono Crusade — Sister Rosette Christopher of the Magdalene Order partners with Chrono, a devil bound to her soul, to battle demonic threats across 1920s America while searching for her missing brother Joshua."
 coverImage: "/covers/chrono-crusade.jpg"
 amazonASIN: "1591824702"
-publishedAt: "2026-05-07"
+publishedAt: "2024-08-13"
 tags: ["action", "fantasy", "completed", "teen", "historical", "supernatural", "devil", "1920s"]
 rating: 4
 hasAffiliate: true

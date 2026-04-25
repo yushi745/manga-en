@@ -17,7 +17,7 @@ contentWarnings: ["isekai setting", "overpowered protagonist", "romance elements
 description: "Yu's review of Chillin' in Another World with Level 2 Super Cheat Powers — Banaza is summoned as a hero candidate but his stats are terrible and he's discharged; he plans to return home but gets stranded; a demihuman woman named Fenris is assigned to look after him; when he reaches Level 2, his power becomes absurd; manga adaptation of Miya Kinojo's light novel about the failed hero candidate who turns out to be the most powerful."
 coverImage: "/covers/chillin-another-world.jpg"
 amazonASIN: "1638584117"
-publishedAt: "2026-05-26"
+publishedAt: "2024-11-29"
 tags: ["fantasy", "isekai", "ongoing", "teen", "seven-seas", "overpowered", "light-novel-adaptation", "romance-isekai"]
 rating: 3
 hasAffiliate: true

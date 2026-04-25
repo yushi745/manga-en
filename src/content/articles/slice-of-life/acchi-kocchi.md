@@ -17,7 +17,7 @@ contentWarnings: ["pure romance", "slow-burn oblivious protagonist", "extremely 
 description: "Yu's review of Acchi Kocchi — Tsumiki has feelings for Io that are obvious to every one of their friends; Io is warm, caring, and completely dense about the implications of his own behavior; their school comedy is one of the most affectionate and consistently sweet manga available."
 coverImage: "/covers/acchi-kocchi.jpg"
 amazonASIN: "0316215511"
-publishedAt: "2026-05-05"
+publishedAt: "2025-12-05"
 tags: ["comedy", "slice-of-life", "romance", "school", "completed", "all-ages", "yen-press", "4koma"]
 rating: 4
 hasAffiliate: true

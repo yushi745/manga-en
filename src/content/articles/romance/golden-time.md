@@ -17,7 +17,7 @@ contentWarnings: ["amnesia", "psychological elements", "adult college setting", 
 description: "Yu's review of Golden Time — Banri Tada enters law school with amnesia; he falls into the orbit of Kouko Kaga, a wealthy girl obsessively pursuing the boy she loves; the romance that develops between Banri and Kouko is complicated by Banri's lost memories and the person he was before the accident."
 coverImage: "/covers/golden-time.jpg"
 amazonASIN: "0316360201"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-20"
 tags: ["romance", "drama", "completed", "college", "amnesia", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

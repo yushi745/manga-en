@@ -21,7 +21,7 @@ contentWarnings:
 description: "A comprehensive review of Museum of Terror — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/museum-of-terror.jpg"
 amazonASIN: "1593070292"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-16"
 tags:
   - "horror"
   - "anthology"

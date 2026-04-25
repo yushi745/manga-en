@@ -17,7 +17,7 @@ contentWarnings: ["death of characters", "grief", "family loss", "emotionally de
 description: "Yu's review of the Clannad manga — Tomoya Okazaki meets Nagisa Furukawa at the top of a hill and they begin building a drama club together; the manga adaptation of Key's famous visual novel, following Tomoya's story through school and into adulthood, with the grief and loss that define the After Story."
 coverImage: "/covers/clannad.jpg"
 amazonASIN: "1616552972"
-publishedAt: "2026-05-22"
+publishedAt: "2025-05-30"
 tags: ["romance", "drama", "completed", "teen", "dark-horse", "key", "visual-novel-adaptation", "emotional"]
 rating: 4
 hasAffiliate: true

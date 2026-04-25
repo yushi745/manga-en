@@ -21,7 +21,7 @@ contentWarnings:
 description: "Yu's review of Blade of the Immortal — a swordsman cursed with immortality accepts a contract protecting a girl who wants revenge for her parents' murders."
 coverImage: "/covers/blade-of-immortal.jpg"
 amazonASIN: "1616552654"
-publishedAt: "2026-04-26"
+publishedAt: "2024-08-03"
 tags:
   - "seinen"
   - "historical"

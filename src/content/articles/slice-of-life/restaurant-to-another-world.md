@@ -17,7 +17,7 @@ contentWarnings: ["food content", "no significant warnings"]
 description: "Yu's review of Restaurant to Another World — Western Restaurant Nekoya is a small Tokyo restaurant that, every Saturday, has a door that opens from various locations in a fantasy world; fantasy world inhabitants enter and encounter Japanese Western food for the first time; each chapter follows a different customer and the dish that changes them."
 coverImage: "/covers/restaurant-to-another-world.jpg"
 amazonASIN: "1975309030"
-publishedAt: "2026-04-24"
+publishedAt: "2026-02-12"
 tags: ["slice-of-life", "fantasy", "food", "anthology", "completed", "gentle"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["sports competition", "mild language"]
 description: "Yu's review of Dear Boys (published in English as Hoop Days) — Aikawa Kazuhiko transfers to a high school whose basketball team has fallen to near-dissolution; his exceptional skill and his genuine investment in team rebuilding revive the program; a basketball manga with above-average character depth and technical depiction of the sport."
 coverImage: "/covers/dear-boys.jpg"
 amazonASIN: "1591829097"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-25"
 tags: ["sports", "basketball", "completed", "teen", "tokyopop", "shonen", "team-building"]
 rating: 4
 hasAffiliate: true

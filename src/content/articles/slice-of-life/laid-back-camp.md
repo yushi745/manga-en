@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Laid-Back Camp — a girl who loves solo camping at the foot of Mount Fuji meets enthusiastic beginners who want to start a camping club, and both kinds of camping turn out to be good."
 coverImage: "/covers/laid-back-camp.jpg"
 amazonASIN: "0316517828"
-publishedAt: "2026-04-24"
+publishedAt: "2026-01-22"
 tags: ["slice-of-life", "camping", "all-ages", "heartwarming", "ongoing", "nature"]
 rating: 5
 hasAffiliate: true

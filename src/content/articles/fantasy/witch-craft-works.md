@@ -17,7 +17,7 @@ contentWarnings: ["witch combat", "fantasy violence", "school setting", "comedy 
 description: "Yu's review of Witch Craft Works — Honoka Takamiya is an ordinary high school student who accidentally discovers that Ayaka Kagari, the school's most beautiful and admired girl, is a powerful witch who has been his secret bodyguard; the revelation upends his understanding of his entire life."
 coverImage: "/covers/witch-craft-works.jpg"
 amazonASIN: "1939130956"
-publishedAt: "2026-05-02"
+publishedAt: "2025-02-25"
 tags: ["fantasy", "romance", "witch", "ongoing", "teen", "vertical", "kodansha", "role-reversal"]
 rating: 4
 hasAffiliate: true

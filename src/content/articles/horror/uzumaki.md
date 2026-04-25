@@ -17,7 +17,7 @@ contentWarnings: ["body horror", "graphic violence", "psychological horror", "di
 description: "Yu's review of Uzumaki by Junji Ito — a small town cursed by spirals, where the obsession spreads like a disease until the geometry itself becomes monstrous."
 coverImage: "/covers/uzumaki.jpg"
 amazonASIN: "1421561328"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-05"
 tags: ["horror", "junji-ito", "psychological", "body-horror", "classic"]
 rating: 5
 hasAffiliate: true

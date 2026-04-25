@@ -17,7 +17,7 @@ contentWarnings: ["violence", "suicide ideation themes", "body horror involving 
 description: "Yu's review of Undead Unluck — Fuuko, a girl whose touch causes catastrophic misfortune to anyone around her, meets Andy, an immortal who wants to die; together they join a secret organization that fights supernatural rules governing reality."
 coverImage: "/covers/undead-unluck.jpg"
 amazonASIN: "1974719262"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-07"
 tags: ["action", "supernatural", "shonen", "completed", "power-system"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["competitive themes", "themes of identity and purpose"]
 description: "Yu's review of Ping Pong — two high school table tennis players, one a prodigy who loves the game and one who hates to lose, move toward a tournament while the manga asks what it means to devote yourself to something."
 coverImage: "/covers/ping-pong.jpg"
 amazonASIN: "1421565293"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-14"
 tags: ["sports", "drama", "completed", "philosophical", "table-tennis"]
 rating: 5
 hasAffiliate: true

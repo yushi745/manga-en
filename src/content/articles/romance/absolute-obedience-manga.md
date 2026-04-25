@@ -20,7 +20,7 @@ contentWarnings:
   - "violence"
 description: "Yu's review of Absolute Obedience — Europe's most feared spy lives by a strict code, but his latest mission involves fulfilling dangerous requests that cross every line he's drawn for himself."
 amazonASIN: "1622876563"
-publishedAt: "2026-04-26"
+publishedAt: "2025-05-11"
 tags:
   - "BL"
   - "action"

@@ -17,7 +17,7 @@ contentWarnings: ["school romance", "school merger premise", "energetic protagon
 description: "Yu's review of Happy Hustle High — Hanabi Ozora attends an all-girls school that merges with an all-boys school; the students resist the change; Hanabi, who is all energy and enthusiasm, decides to bring the two groups together — which puts her in contact with Yasuaki Garaku, the student body president of the boys' school who finds her impossible."
 coverImage: "/covers/happy-hustle-high.jpg"
 amazonASIN: "1421501848"
-publishedAt: "2026-05-08"
+publishedAt: "2025-06-23"
 tags: ["romance", "comedy", "school", "completed", "teen", "viz-media", "school-merger", "energetic-protagonist"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["severe violence", "child harm", "psychological horror", "dark
 description: "Yu's review of Narutaru — Shiina Tamai finds a star-shaped creature she names Hoshimaru; the story appears to begin as a creature-companion adventure and becomes something much darker, examining what happens when children with real grievances are given real power."
 coverImage: "/covers/narutaru.jpg"
 amazonASIN: "1593071027"
-publishedAt: "2026-05-05"
+publishedAt: "2025-04-18"
 tags: ["horror", "drama", "dark", "completed", "mature", "dark-horse", "seinen", "psychological"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["graphic execution content", "extreme violence", "historical t
 description: "Yu's review of Innocent — Charles-Henri Sanson is the son of France's royal executioner, raised with privilege and the assumption that he will inherit his father's role; his sensitive nature and artistic gifts make him unfit for execution, yet circumstances force him to become one of France's most famous executioners, operating during the period leading to the French Revolution."
 coverImage: "/covers/innocent.jpg"
 amazonASIN: "1421590948"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-02"
 tags: ["horror", "historical", "completed", "mature", "viz-media", "french-revolution"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "gore", "torture", "psychological horror",
 description: "Yu's review of Tokyo Ghoul — 14 volumes about a boy who becomes something between human and monster, and must decide what that makes him. Dark, brutal, and heartbreakingly human at its core."
 coverImage: "/covers/tokyo-ghoul.jpg"
 amazonASIN: "B00U2XO2KO"
-publishedAt: "2026-04-23"
+publishedAt: "2025-05-03"
 tags: ["seinen", "horror", "dark-fantasy", "completed", "mature", "identity"]
 rating: 4
 hasAffiliate: true

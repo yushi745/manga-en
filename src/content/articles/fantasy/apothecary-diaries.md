@@ -17,7 +17,7 @@ contentWarnings: ["period medicine themes", "court intrigue", "mild violence", "
 description: "Yu's review of The Apothecary Diaries — Maomao, a pharmacist's daughter sold into the imperial palace as a servant, cannot help but notice that the emperor's children are falling ill from causes that seem obvious to someone with her medical knowledge; her investigations draw the attention of the court's head eunuch and pull her deeper into palace intrigue."
 coverImage: "/covers/apothecary-diaries.jpg"
 amazonASIN: "1646091620"
-publishedAt: "2026-04-26"
+publishedAt: "2024-11-18"
 tags: ["fantasy", "mystery", "historical", "ongoing", "teen", "square-enix", "court-intrigue", "medicine"]
 rating: 5
 hasAffiliate: true

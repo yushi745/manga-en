@@ -17,7 +17,7 @@ contentWarnings: ["psychological themes", "dueling violence", "manipulation", "d
 description: "Yu's review of Revolutionary Girl Utena — Utena Tenjou, who decided as a child to become a prince rather than a princess, attends Ohtori Academy and becomes drawn into its secret dueling system; the winner of the duels wins possession of Anthy Himemiya, the Rose Bride; a surrealist fairy tale manga about power, freedom, and who gets to be the subject of a story."
 coverImage: "/covers/revolutionary-girl-utena.jpg"
 amazonASIN: "1569318093"
-publishedAt: "2026-04-25"
+publishedAt: "2025-01-27"
 tags: ["fantasy", "shoujo", "surrealist", "completed", "teen-plus", "viz", "dark-fairy-tale", "classic"]
 rating: 5
 hasAffiliate: true

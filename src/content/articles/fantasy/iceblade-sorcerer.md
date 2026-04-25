@@ -16,7 +16,7 @@ contentWarnings: ["magic school setting", "action combat", "hidden power premise
 description: "Yu's review of The Iceblade Sorcerer Shall Rule the World — Ray White is the legendary Iceblade Sorcerer, one of seven great mages; he enrolls at the Royal Magic Academy as an ordinary student, hiding his identity; the academy is divided between noble students who look down on commoners; Nana Mikoshiba's magic school manga about the overpowered commoner who reveals himself gradually."
 coverImage: "/covers/iceblade-sorcerer.jpg"
 amazonASIN: "1646516923"
-publishedAt: "2026-05-29"
+publishedAt: "2024-12-21"
 tags: ["fantasy", "action", "ongoing", "teen", "kodansha", "magic-school", "hidden-power", "shonen"]
 rating: 3
 hasAffiliate: true

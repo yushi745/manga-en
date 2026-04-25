@@ -17,7 +17,7 @@ contentWarnings: ["some adult themes", "mild suggestive content"]
 description: "Yu's review of Absolute Boyfriend — Riiko Izawa, repeatedly rejected in romance, accidentally activates a life-size perfect boyfriend robot named Night; the three-day trial period becomes a month, the month becomes real feelings, and the question becomes whether love with an artificial person is real."
 coverImage: "/covers/absolute-boyfriend.jpg"
 amazonASIN: "1421506572"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-10"
 tags: ["romance", "comedy", "shojo", "completed", "sci-fi", "artificial"]
 rating: 4
 hasAffiliate: true

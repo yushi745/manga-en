@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "strong language", "criminal underworld se
 description: "Yu's review of Black Lagoon — Rokuro Okajima, a Tokyo salaryman, is taken hostage by the mercenary crew of the Black Lagoon torpedo boat; when his company disavows him rather than pay the ransom, he joins the crew; the series follows their criminal operations in the fictional Southeast Asian city of Roanapur."
 coverImage: "/covers/black-lagoon.jpg"
 amazonASIN: "1421519798"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-02"
 tags: ["action", "crime", "ongoing", "mature", "seinen", "mercenary", "dark"]
 rating: 5
 hasAffiliate: true

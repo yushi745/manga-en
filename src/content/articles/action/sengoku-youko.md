@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Sengoku Youko — in Sengoku-era Japan, a powerful spirit girl travels with a timid human boy seeking to create a world where humans and youkai can live in peace."
 coverImage: "/covers/sengoku-youko.jpg"
 amazonASIN: "1638584524"
-publishedAt: "2026-04-26"
+publishedAt: "2024-10-18"
 tags:
   - "action"
   - "fantasy"

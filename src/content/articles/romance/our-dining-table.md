@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "food themes", "social anxiety", "gentle
 description: "Yu's review of Our Dining Table — Yutaka Uedera has a condition that makes eating with others impossible; when he meets the cheerful Tsubasa and his young son Minoru who keep inviting him to share meals, the shared table becomes the site of unexpected healing and connection."
 coverImage: "/covers/our-dining-table.jpg"
 amazonASIN: "1974705552"
-publishedAt: "2026-05-16"
+publishedAt: "2025-08-12"
 tags: ["romance", "boys-love", "completed", "teen", "sublime", "food", "healing", "found-family"]
 rating: 5
 hasAffiliate: true

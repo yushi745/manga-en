@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "isekai reincarnation", "noble society setting
 description: "Yu's review of I'm in Love with the Villainess — Rei Taylor, an office worker who played an otome game obsessively, reincarnates as the game's protagonist Rae Taylor; rather than pursuing the game's capture targets (the princes), she has always wanted the villainess Claire François — and Claire François is the first person she meets."
 coverImage: "/covers/im-in-love-with-the-villainess.jpg"
 amazonASIN: "1638582645"
-publishedAt: "2026-05-15"
+publishedAt: "2024-12-22"
 tags: ["fantasy", "romance", "yuri", "completed", "teen", "seven-seas", "isekai", "villainess", "otome-game"]
 rating: 4
 hasAffiliate: true

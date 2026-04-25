@@ -17,7 +17,7 @@ contentWarnings: ["mild romance", "comedy situations"]
 description: "Yu's review of Tomo-chan Is a Girl! — Tomo Aizawa confesses to her childhood best friend Junichirou Kubota; he congratulates her and keeps being her best friend because he has never thought of her as a girl; the comedy of her trying to be seen as a woman to the person who has always seen her as a buddy is the entire series."
 coverImage: "/covers/tomo-chan.jpg"
 amazonASIN: "1638585431"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-12"
 tags: ["romance", "comedy", "completed", "tomboy", "school"]
 rating: 4
 hasAffiliate: true

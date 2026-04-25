@@ -17,7 +17,7 @@ contentWarnings: ["teen romance", "height complex themes", "mild language"]
 description: "Yu's review of Lovely Complex — Risa Koizumi is the tallest girl in her class; Atsushi Ōtani is the shortest boy; their constant arguments and comedy partnership gradually shift into something neither of them planned; a romantic comedy that uses physical self-consciousness as the framework for exploring how two people recognize their feelings."
 coverImage: "/covers/love-com.jpg"
 amazonASIN: "1421503174"
-publishedAt: "2026-04-25"
+publishedAt: "2025-07-19"
 tags: ["romance", "comedy", "completed", "teen", "viz", "shoujo", "high-school"]
 rating: 5
 hasAffiliate: true

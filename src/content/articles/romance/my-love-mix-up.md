@@ -17,7 +17,7 @@ contentWarnings: ["boys-love themes", "teen romance comedy", "identity confusion
 description: "Yu's review of My Love Mix-Up! — Aoki has a crush on his classmate Hashimoto; he borrows her eraser and notices it says 'Ida' on it, which he assumes means she likes their classmate Ida; when Ida catches him looking at the eraser, he assumes Aoki likes him; Aoki, rather than correct this misunderstanding, goes along with it — and discovers his feelings are more complicated than he thought."
 coverImage: "/covers/my-love-mix-up.jpg"
 amazonASIN: "1974723992"
-publishedAt: "2026-04-25"
+publishedAt: "2025-08-02"
 tags: ["romance", "comedy", "completed", "teen", "viz-media", "boys-love", "high-school"]
 rating: 5
 hasAffiliate: true

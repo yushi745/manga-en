@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "themes of sacrifice and loss", "complex n
 description: "Yu's review of Tsubasa Reservoir Chronicle — a young excavator must travel across parallel dimensions to recover the scattered feathers containing the memories of Princess Sakura, paying an impossible price to do so."
 coverImage: "/covers/tsubasa-reservoir-chronicle.jpg"
 amazonASIN: "0345470575"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-16"
 tags: ["fantasy", "adventure", "shonen", "CLAMP", "completed", "multiverse"]
 rating: 4
 hasAffiliate: true

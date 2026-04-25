@@ -17,7 +17,7 @@ contentWarnings: ["romantic content", "hacking/technology themes", "themes of lo
 description: "Yu's review of Dengeki Daisy — a poor orphan girl is protected by a mysterious phone contact called DAISY, not knowing that the school janitor she argues with daily is DAISY himself."
 coverImage: "/covers/dengeki-daisy.jpg"
 amazonASIN: "1421537273"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-05"
 tags: ["romance", "mystery", "shojo", "completed", "technology"]
 rating: 4
 hasAffiliate: true

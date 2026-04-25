@@ -17,7 +17,7 @@ contentWarnings: ["extreme martial arts violence", "1930s Shanghai setting with 
 description: "Yu's review of Fist of the Blue Sky — set in 1930s Shanghai, Kasumi Kenshiro is the 62nd grandmaster of Hokuto Shinken — the legendary martial art that will later define Fist of the North Star; he navigates the criminal underworld of pre-war Shanghai while protecting the weak with the deadliest fighting system ever devised."
 coverImage: "/covers/fist-of-the-blue-sky.jpg"
 amazonASIN: "1421506564"
-publishedAt: "2026-05-11"
+publishedAt: "2024-08-25"
 tags: ["action", "completed", "mature", "viz-media", "hokuto-shinken", "historical", "1930s-shanghai", "prequel"]
 rating: 3
 hasAffiliate: true

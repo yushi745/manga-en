@@ -17,7 +17,7 @@ contentWarnings: ["gang violence", "supernatural elements", "urban crime", "mult
 description: "Yu's review of Durarara!! — Mikado Ryugamine moves to Ikebukuro and finds himself in a city of gangs, urban legends, an information broker who knows everything, a bartender who throws vending machines, and a headless Irish fairy riding a black motorcycle through Shinjuku traffic."
 coverImage: "/covers/durarara.jpg"
 amazonASIN: "0316120278"
-publishedAt: "2026-05-10"
+publishedAt: "2024-08-22"
 tags: ["action", "supernatural", "urban", "completed", "teen", "yen-press", "ikebukuro", "ensemble"]
 rating: 4
 hasAffiliate: true

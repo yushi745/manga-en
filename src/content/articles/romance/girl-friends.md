@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "slow-burn self-discovery", "friendship becomi
 description: "Yu's review of Girl Friends — Mari Kumakura is a quiet, bookish girl with no real friends; Akko Oohashi is pretty, popular, and inexplicably interested in her; their friendship grows into something more complicated than either of them has words for, which is the point."
 coverImage: "/covers/girl-friends.jpg"
 amazonASIN: "1626925615"
-publishedAt: "2026-05-06"
+publishedAt: "2025-06-18"
 tags: ["romance", "drama", "yuri", "school", "completed", "teen", "seven-seas", "friendship-to-romance"]
 rating: 5
 hasAffiliate: true

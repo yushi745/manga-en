@@ -17,7 +17,7 @@ contentWarnings: ["death game", "violence", "supernatural powers", "survival the
 description: "Yu's review of Darwin's Game — high school student Kaname Sudou downloads the Darwin's Game app at a friend's recommendation and discovers it is a real-world death game where participants with supernatural abilities called Sigils fight for survival and prizes; a battle royale survival manga with strategic combat and character development."
 coverImage: "/covers/darwin-game.jpg"
 amazonASIN: "1974725618"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-22"
 tags: ["sci-fi", "action", "death-game", "ongoing", "teen-plus", "viz", "battle-royale"]
 rating: 4
 hasAffiliate: true

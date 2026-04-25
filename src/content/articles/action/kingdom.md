@@ -17,7 +17,7 @@ contentWarnings: ["war violence", "historical battle content", "death", "politic
 description: "Yu's review of Kingdom — Xin is a war orphan in Warring States China who dreams of becoming the greatest general under the heavens; he encounters the young king Ying Zheng who intends to unify all of China; Yasuhisa Hara's historical epic about the birth of the Qin Empire through the eyes of soldiers and commanders who fought for it."
 coverImage: "/covers/kingdom.jpg"
 amazonASIN: "1974710440"
-publishedAt: "2026-05-28"
+publishedAt: "2024-09-16"
 tags: ["action", "historical", "ongoing", "teen-plus", "viz-media", "warring-states", "epic", "chinese-history"]
 rating: 5
 hasAffiliate: true

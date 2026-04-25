@@ -17,7 +17,7 @@ contentWarnings: ["tournament fighting", "mild violence", "supernatural powers"]
 description: "Yu's review of The Law of Ueki — Kousuke Ueki is given the power to turn trash into trees by his homeroom teacher, a god candidate competing in a divine tournament; if his teacher wins, he becomes the next ruler of the Heavenly World; if Ueki fights on his behalf and wins, he gets a blank talent."
 coverImage: "/covers/law-of-ueki.jpg"
 amazonASIN: "1421506009"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-17"
 tags: ["action", "comedy", "tournament", "supernatural", "completed", "shonen"]
 rating: 4
 hasAffiliate: true

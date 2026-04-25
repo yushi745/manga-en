@@ -17,7 +17,7 @@ contentWarnings: ["comedic violence", "suggestive humor and content", "crude com
 description: "Yu's review of KonoSuba — the isekai parody where every party member is disastrously incompetent at something crucial. A useless goddess, an explosion-obsessed mage, a masochistic crusader, and a pathetic protagonist who somehow keeps surviving. The funniest isekai ever made."
 coverImage: "/covers/konosuba.jpg"
 amazonASIN: "0316552569"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-02"
 tags: ["fantasy", "comedy", "isekai", "completed", "parody", "feel-good"]
 rating: 5
 hasAffiliate: true

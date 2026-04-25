@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "death", "post-apocalyptic content", "icon
 description: "Yu's review of Fist of the North Star — in a nuclear wasteland, Kenshiro, master of Hokuto Shinken (the assassination art that explodes bodies from within), wanders the badlands protecting survivors and confronting the martial arts rivals and enemies who shaped his past."
 coverImage: "/covers/fist-of-the-north-star.jpg"
 amazonASIN: "1569312001"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-25"
 tags: ["action", "post-apocalyptic", "classic", "mature", "completed", "shonen", "iconic"]
 rating: 5
 hasAffiliate: true

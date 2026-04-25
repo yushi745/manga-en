@@ -19,7 +19,7 @@ contentWarnings:
   - "mature romance"
 description: "Yu's review of Love Mode — an anthology-style BL series set in and around the Blue Boy host club, following multiple couples with interconnected stories."
 amazonASIN: "1569707626"
-publishedAt: "2026-04-26"
+publishedAt: "2025-07-22"
 tags:
   - "yaoi"
   - "BL"

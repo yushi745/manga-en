@@ -17,7 +17,7 @@ contentWarnings: ["horror content", "spirit possession", "disturbing imagery", "
 description: "Yu's review of Dark Gathering — Keitaro Gentoge is a shut-in with spiritual magnetism; when his childhood friend's daughter Yayoi — who has enormous spiritual power and uses it to collect evil spirits — enters his life, he is pulled into her crusade to find the spirit that took her mother."
 coverImage: "/covers/dark-gathering.jpg"
 amazonASIN: "1974738949"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-13"
 tags: ["horror", "supernatural", "shonen", "ongoing", "spirit-hunting"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["slapstick comedy", "alien invasion parody", "otaku culture re
 description: "Yu's review of Sgt. Frog — Sergeant Keroro of the Keronian alien army is supposed to be the advance scout for Earth's conquest; instead he is being kept as a pet by the Hinata family, has developed an addiction to plastic model kits, and his invasion plans consistently fail because he would rather watch anime."
 coverImage: "/covers/sergeant-frog.jpg"
 amazonASIN: "1591822688"
-publishedAt: "2026-05-05"
+publishedAt: "2025-02-01"
 tags: ["fantasy", "comedy", "alien", "parody", "completed", "teen", "tokyopop", "otaku-culture"]
 rating: 4
 hasAffiliate: true

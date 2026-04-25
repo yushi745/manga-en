@@ -17,7 +17,7 @@ contentWarnings: ["fantasy politics", "war themes", "some romantic content", "ha
 description: "Yu's review of A Realist Hero Rebuilt the Kingdom — Kazuya Souma is summoned to a fantasy kingdom on the verge of collapse; rather than leading armies, he uses his knowledge of economics, history, and governance to rebuild the kingdom from within; administrative reform as isekai."
 coverImage: "/covers/realist-hero.jpg"
 amazonASIN: "1645054004"
-publishedAt: "2026-04-25"
+publishedAt: "2025-01-23"
 tags: ["fantasy", "isekai", "ongoing", "teen", "seven-seas", "politics"]
 rating: 3
 hasAffiliate: true

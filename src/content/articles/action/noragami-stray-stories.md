@@ -17,7 +17,7 @@ contentWarnings: ["supernatural action", "Japanese mythology", "comedy side stor
 description: "Yu's review of Noragami: Stray Stories — a companion anthology to Noragami containing short stories, side stories, and bonus material featuring Yato, Yukine, Hiyori, and the gods of the main series in adventures and comedic situations outside the main narrative."
 coverImage: "/covers/noragami-stray-stories.jpg"
 amazonASIN: "1632365316"
-publishedAt: "2026-05-16"
+publishedAt: "2024-09-30"
 tags: ["action", "fantasy", "completed", "teen", "kodansha", "companion-volume", "noragami", "short-stories"]
 rating: 3
 hasAffiliate: true

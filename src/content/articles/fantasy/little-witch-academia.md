@@ -17,7 +17,7 @@ contentWarnings: ["fantasy adventure", "school rivalry"]
 description: "Yu's review of Little Witch Academia — Atsuko Kagari dreamed of being a witch after seeing a performance by the legendary Shiny Chariot; without any magical lineage or natural talent, she enrolls at Luna Nova Magical Academy through pure will; her determination to become what she dreams of is the series' complete premise."
 coverImage: "/covers/little-witch-academia.jpg"
 amazonASIN: "0316441503"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-05"
 tags: ["fantasy", "adventure", "all-ages", "completed", "magic-school", "anime-adaptation"]
 rating: 4
 hasAffiliate: true

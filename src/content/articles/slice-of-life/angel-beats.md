@@ -17,7 +17,7 @@ contentWarnings: ["death themes", "grief", "trauma backstories", "emotional cont
 description: "Yu's review of Angel Beats! — Otonashi wakes in the afterlife in the form of a high school; the Afterlife Battlefront fights against 'God' and the student council president who enforces order, claiming that accepting the afterlife and disappearing is unacceptable; Otonashi gradually learns why each member refuses to move on."
 coverImage: "/covers/angel-beats.jpg"
 amazonASIN: "0316246107"
-publishedAt: "2026-04-24"
+publishedAt: "2025-12-08"
 tags: ["slice-of-life", "fantasy", "completed", "afterlife", "emotional", "visual-novel-adaptation"]
 rating: 4
 hasAffiliate: true

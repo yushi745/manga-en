@@ -17,7 +17,7 @@ contentWarnings: ["violence", "dark themes", "body horror (limb absence)", "war 
 description: "Yu's review of Dororo — a feudal lord sacrificed his unborn son's body parts to demons to gain power. Now that son, Hyakkimaru, wanders Japan killing the 48 demons to reclaim his limbs, senses, and humanity."
 coverImage: "/covers/dororo.jpg"
 amazonASIN: "1934287164"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-18"
 tags: ["horror", "action", "historical", "classic", "osamu-tezuka", "completed"]
 rating: 5
 hasAffiliate: true

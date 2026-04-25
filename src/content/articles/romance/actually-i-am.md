@@ -17,7 +17,7 @@ contentWarnings: ["supernatural beings", "school harem comedy", "mild romantic c
 description: "Yu's review of Actually, I Am... — Asahi Kuromine has a critical flaw: he cannot keep secrets. When he discovers his beautiful classmate Youko Shiragami is actually a vampire who must keep her nature hidden, he becomes her secret-keeper despite being completely unsuited to the role."
 coverImage: "/covers/actually-i-am.jpg"
 amazonASIN: "1626924236"
-publishedAt: "2026-05-13"
+publishedAt: "2025-05-11"
 tags: ["romance", "comedy", "completed", "teen", "seven-seas", "vampire", "supernatural", "harem"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["femme fatale themes", "manipulation", "violence", "adult cont
 description: "Yu's review of Swallowing the Earth — a mysterious woman named Zephyrus is so beautiful and charismatic that every powerful man who encounters her is destroyed; Gohonmatsu Seki pursues her across decades; Tezuka's adult drama about power, beauty, and what men do to themselves in pursuit of what they desire."
 coverImage: "/covers/swallowing-the-earth.jpg"
 amazonASIN: "1934287520"
-publishedAt: "2026-05-30"
+publishedAt: "2025-11-24"
 tags: ["sci-fi", "drama", "completed", "mature", "vertical", "tezuka", "femme-fatale", "adult"]
 rating: 4
 hasAffiliate: true

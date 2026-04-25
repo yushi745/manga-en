@@ -17,7 +17,7 @@ contentWarnings: ["terminal illness", "death themes", "grief", "loss", "shinigam
 description: "Yu's review of Full Moon o Sagashite — twelve-year-old Mitsuki has throat cancer and one year to live; two shinigami arrive to escort her when the time comes, but instead grant her the ability to transform into a healthy sixteen-year-old so she can pursue her dream of becoming a singer and find the boy she promised to meet again."
 coverImage: "/covers/full-moon.jpg"
 amazonASIN: "1591168171"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-16"
 tags: ["romance", "fantasy", "shoujo", "completed", "music", "supernatural"]
 rating: 5
 hasAffiliate: true

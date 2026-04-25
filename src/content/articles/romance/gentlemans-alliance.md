@@ -16,7 +16,7 @@ contentWarnings: ["complex love geometry", "self-sacrifice themes", "class socie
 description: "Yu's review of The Gentleman's Alliance Cross — Haine Otomiya was sold to the Kamiya family as a child by her own father; she fell in love with Shizumasa Kamiya after he showed her kindness in a moment of despair; she joins her elite school's student council to get close to him, but Shizumasa does not remember her."
 coverImage: "/covers/gentlemans-alliance.jpg"
 amazonASIN: "1421511282"
-publishedAt: "2026-05-06"
+publishedAt: "2025-06-18"
 tags: ["romance", "drama", "school", "completed", "teen", "viz-media", "shoujo", "class-society"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["graphic combat violence", "martial arts extremity", "death in
 description: "Yu's review of Kengan Omega — the sequel to Kengan Ashura; two years after the Kengan Annihilation Tournament, the underground gladiator world faces a new threat from the Purgatory organization; Narushima Koga, a dedicated but outmatched young fighter, fights his way into this world as the stakes grow larger than the previous generation understood."
 coverImage: "/covers/kengan-omega.jpg"
 amazonASIN: "1646510906"
-publishedAt: "2026-05-01"
+publishedAt: "2024-09-15"
 tags: ["action", "martial-arts", "tournament", "ongoing", "mature", "kodansha", "seinen"]
 rating: 4
 hasAffiliate: true

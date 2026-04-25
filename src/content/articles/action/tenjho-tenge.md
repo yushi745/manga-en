@@ -21,7 +21,7 @@ contentWarnings:
   - "adult themes"
 description: "Yu's review of Tenjho Tenge — two street fighters who transfer to Todo Academy intending to dominate it quickly discover the school has martial arts clubs that operate by completely different rules."
 amazonASIN: "1591168023"
-publishedAt: "2026-04-26"
+publishedAt: "2024-10-29"
 tags:
   - "action"
   - "martial-arts"

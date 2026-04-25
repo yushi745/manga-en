@@ -17,7 +17,7 @@ contentWarnings: ["medieval fantasy economics", "mild romantic content", "wolf d
 description: "Yu's review of the Spice and Wolf manga — traveling merchant Kraft Lawrence finds Holo the Wise Wolf hidden in his cart; she is a wolf deity who was the harvest god of a village for centuries; she wants to go north to her homeland; Koume's adaptation of Hasekura's beloved light novel about economics, religion, and two people who are good at pretending they don't need each other."
 coverImage: "/covers/merchant-meets-wise-wolf.jpg"
 amazonASIN: "0316102326"
-publishedAt: "2026-05-30"
+publishedAt: "2025-01-11"
 tags: ["fantasy", "romance", "economics", "completed", "teen-plus", "yen-press", "spice-and-wolf", "merchant"]
 rating: 5
 hasAffiliate: true

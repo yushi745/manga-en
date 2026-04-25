@@ -17,7 +17,7 @@ contentWarnings: ["school delinquent setting", "comedy violence", "mistaken iden
 description: "Yu's review of Angel Densetsu — Seiichirou Kitano is a gentle, kind boy with the face of a demon; every act of kindness he performs is misread as terrifying intimidation; his school becomes convinced he is an unstoppable delinquent king when he is simply trying to help people and confused by why everyone keeps fighting him."
 coverImage: "/covers/angel-densetsu.jpg"
 amazonASIN: "1421510375"
-publishedAt: "2026-05-02"
+publishedAt: "2024-07-21"
 tags: ["action", "comedy", "school", "delinquent", "completed", "teen", "viz", "mistaken-identity"]
 rating: 5
 hasAffiliate: true

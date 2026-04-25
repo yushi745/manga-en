@@ -17,7 +17,7 @@ contentWarnings: ["social anxiety depicted with sensitivity", "mild comedy situa
 description: "Yu's review of Komi Can't Communicate — Shouko Komi is mistaken for the coolest, most intimidating girl in school; she actually has severe communication disorder and can barely speak; her classmate Tadano discovers the truth and commits to helping her make 100 friends."
 coverImage: "/covers/komi-cant-communicate.jpg"
 amazonASIN: "1974707920"
-publishedAt: "2026-04-24"
+publishedAt: "2026-01-20"
 tags: ["slice-of-life", "comedy", "shonen", "completed", "school", "social-anxiety"]
 rating: 4
 hasAffiliate: true

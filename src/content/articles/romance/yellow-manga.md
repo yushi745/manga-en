@@ -21,7 +21,7 @@ contentWarnings:
 description: "Yu's review of Yellow — two drug enforcement agents with completely incompatible personalities are forced to pose as a couple for an undercover mission, and slowly discover the act isn't entirely an act."
 coverImage: "/covers/yellow-manga.jpg"
 amazonASIN: "1569708347"
-publishedAt: "2026-04-26"
+publishedAt: "2025-09-27"
 tags:
   - "yaoi"
   - "BL"

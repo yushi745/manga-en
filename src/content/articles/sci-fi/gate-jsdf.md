@@ -17,7 +17,7 @@ contentWarnings: ["military action", "fantasy violence", "political themes", "so
 description: "Yu's review of Gate — a gate appears in Ginza, Tokyo; a fantasy world army pours through and attacks civilians; the Japan Self-Defense Force pushes back and enters the Special Region, a fantasy world where Rome-like legions, dragons, and magic users coexist; the manga follows JSDF officer Itami Youji's interaction with the Special Region and its inhabitants."
 coverImage: "/covers/gate-jsdf.jpg"
 amazonASIN: "1626924384"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-29"
 tags: ["sci-fi", "fantasy", "military", "isekai", "completed", "teen-plus", "seven-seas"]
 rating: 4
 hasAffiliate: true

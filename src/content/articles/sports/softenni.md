@@ -17,7 +17,7 @@ contentWarnings: ["fanservice", "adult humor", "mild ecchi content"]
 description: "Yu's review of Softenni — five high school girls join the soft tennis club in a comedy that uses sports as an excuse for increasingly absurd situations; honest about being more comedy than sports, but the tennis sequences are handled with genuine care."
 coverImage: "/covers/softenni.jpg"
 amazonASIN: "1626920036"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-19"
 tags: ["sports", "comedy", "completed", "teen-plus", "seven-seas", "tennis", "girls"]
 rating: 3
 hasAffiliate: true

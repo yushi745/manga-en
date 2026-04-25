@@ -17,7 +17,7 @@ contentWarnings: ["explicit sexual content", "non-consensual situations", "child
 description: "Yu's review of Kaze to Ki no Uta — set in a 19th century French boarding school, the relationship between Serge, a half-Japanese student with a traumatic past, and Gilbert, a beautiful and sexually promiscuous boy whose behavior conceals something devastating; the manga that essentially created the Boys' Love genre, published between 1976 and 1984."
 coverImage: "/covers/kaze-to-ki-no-uta.jpg"
 amazonASIN: "1634429079"
-publishedAt: "2026-05-20"
+publishedAt: "2025-07-11"
 tags: ["romance", "bl", "historical", "completed", "mature", "denpa-books", "classic", "19th-century", "boys-love"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["existential themes", "persecution themes", "classic manga vio
 description: "Yu's review of Toward the Terra (Terra e...) — in a distant future where humanity has left Earth and human society is controlled by a supercomputer system that eliminates psychic humans (Mu) at birth, a young man named Jomy discovers he is one of the Mu and joins their quest to return to the long-forbidden Earth; a landmark of 1970s science fiction manga by a foundational shoujo creator."
 coverImage: "/covers/toward-the-terra.jpg"
 amazonASIN: "1934287393"
-publishedAt: "2026-04-26"
+publishedAt: "2025-11-26"
 tags: ["sci-fi", "completed", "teen", "vertical", "classic", "shoujo", "psychic", "70s"]
 rating: 5
 hasAffiliate: true

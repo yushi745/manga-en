@@ -17,7 +17,7 @@ contentWarnings: ["group home setting", "family abandonment", "children's emotio
 description: "Yu's review of Sunny — at a group home for children whose families cannot take care of them, a broken-down old car called Sunny becomes a private space where the children go to be alone; Taiyo Matsumoto's meditation on childhood longing, on what it means to be left, and on how children find ways to survive what adults do to them."
 coverImage: "/covers/sunny.jpg"
 amazonASIN: "1421561212"
-publishedAt: "2026-05-20"
+publishedAt: "2026-02-24"
 tags: ["slice-of-life", "drama", "completed", "teen", "viz-media", "children", "group-home", "literary"]
 rating: 5
 hasAffiliate: true

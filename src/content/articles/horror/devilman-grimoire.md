@@ -21,7 +21,7 @@ contentWarnings:
 description: "A comprehensive review of Devilman Grimoire — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/devilman-grimoire.jpg"
 amazonASIN: "1626924473"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-15"
 tags:
   - "horror"
   - "action"

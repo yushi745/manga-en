@@ -17,7 +17,7 @@ contentWarnings: ["isekai action", "some medical/healing content", "mild violenc
 description: "Yu's review of The Great Cleric — Luciel reincarnates into a fantasy world and chooses to be a healer despite the class being considered weak and poorly regarded; he trains obsessively, drinks terrible-tasting potions for stat gains, and works to become the greatest cleric in the world through sheer stubbornness."
 coverImage: "/covers/the-great-cleric.jpg"
 amazonASIN: "1646516079"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-11"
 tags: ["fantasy", "isekai", "action", "ongoing", "kodansha", "healer", "male-protagonist"]
 rating: 4
 hasAffiliate: true

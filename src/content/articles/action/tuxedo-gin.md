@@ -17,7 +17,7 @@ contentWarnings: ["death and reincarnation", "penguin perspective comedy", "boxi
 description: "Yu's review of Tuxedo Gin — Ginji Kusanagi is a teenage boxing prodigy who dies in an accident the night before his first date with Minako; he reincarnates as a penguin and is found by Minako, who keeps him as a pet while his spirit must wait until the karmic debt is paid."
 coverImage: "/covers/tuxedo-gin.jpg"
 amazonASIN: "1569317127"
-publishedAt: "2026-05-17"
+publishedAt: "2024-11-05"
 tags: ["action", "romance", "completed", "teen", "viz-media", "penguin", "reincarnation", "boxing"]
 rating: 4
 hasAffiliate: true

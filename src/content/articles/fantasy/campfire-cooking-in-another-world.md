@@ -17,7 +17,7 @@ contentWarnings: ["isekai setting", "modern items in fantasy world", "light nove
 description: "Yu's review of Campfire Cooking in Another World — Tsuyoshi Mukouda is accidentally summoned to a fantasy world along with three chosen heroes; his Blessing allows him to order from modern Japanese online stores; he uses this to cook extraordinary food in the fantasy world; Miya's manga adaptation."
 coverImage: "/covers/campfire-cooking-in-another-world.jpg"
 amazonASIN: "1638585997"
-publishedAt: "2026-05-24"
+publishedAt: "2024-11-25"
 tags: ["fantasy", "isekai", "food", "ongoing", "teen", "seven-seas", "cooking", "modern-items"]
 rating: 4
 hasAffiliate: true

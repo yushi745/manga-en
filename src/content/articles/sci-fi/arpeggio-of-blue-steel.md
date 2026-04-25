@@ -17,7 +17,7 @@ contentWarnings: ["naval warfare", "violence", "AI themes", "military strategy"]
 description: "Yu's review of Arpeggio of Blue Steel — in a near-future where the Fleet of Fog has blockaded Earth's oceans using technology beyond human comprehension, student Gunzō Chihaya has somehow formed a contract with a Fog submarine, I-401, whose Mental Model avatar goes by Iona; the series follows their voyages and the growing questions about what the Fog fleet actually wants."
 coverImage: "/covers/arpeggio-of-blue-steel.jpg"
 amazonASIN: "1421582651"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-09"
 tags: ["sci-fi", "naval", "military", "completed", "teen-plus", "viz", "ai"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["fantasy romance", "historical fantasy setting", "tragedy elem
 description: "Yu's review of Fushigi Yugi: Genbu Kaiden — Takiko Okuda is pulled into The Universe of the Four Gods, the same book that later claimed Miaka in the original series; she becomes the Priestess of Genbu, must gather seven Celestial Warriors, and fulfill her wish — knowing from the book's frame story that this story ends in tragedy."
 coverImage: "/covers/fushigi-yugi-genbu-kaiden.jpg"
 amazonASIN: "1421513994"
-publishedAt: "2026-05-07"
+publishedAt: "2024-12-14"
 tags: ["fantasy", "romance", "completed", "teen", "viz-media", "historical", "prequel", "shojo", "tragedy"]
 rating: 4
 hasAffiliate: true

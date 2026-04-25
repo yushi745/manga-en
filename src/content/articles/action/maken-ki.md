@@ -20,7 +20,7 @@ contentWarnings:
   - "adult themes"
 description: "Yu's review of Maken-Ki — a formerly all-girls school goes co-ed and the protagonist discovers his new school trains students in supernatural weapons called Maken."
 amazonASIN: "1626921792"
-publishedAt: "2026-04-26"
+publishedAt: "2024-09-21"
 tags:
   - "ecchi"
   - "action"

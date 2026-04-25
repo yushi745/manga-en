@@ -17,7 +17,7 @@ contentWarnings: ["mild insecurity themes", "moe content", "school setting"]
 description: "Yu's review of Slow Start — Hana Ichinose started high school a year late due to illness, making her a year older than her classmates; the series follows her trying to fit in with her new friends while carrying the secret that she is different, in Tokumi Yuiko's characteristic warm and gentle 4-koma style."
 coverImage: "/covers/slow-start.jpg"
 amazonASIN: "0316442380"
-publishedAt: "2026-04-27"
+publishedAt: "2026-02-21"
 tags: ["slice-of-life", "comedy", "school", "ongoing", "teen", "yen-press", "4-koma", "moe", "kirara"]
 rating: 4
 hasAffiliate: true

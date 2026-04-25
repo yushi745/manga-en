@@ -17,7 +17,7 @@ contentWarnings: ["mild fantasy violence", "romantic themes"]
 description: "Yu's review of Snow White with the Red Hair — Shirayuki is an herbalist with distinctive red hair who flees her country when its prince demands her as his concubine; she crosses into the neighboring kingdom of Clarines and meets Prince Zen, who helps her without expecting anything in return; the series follows her life in Clarines as she trains to become a court herbalist while her relationship with Zen develops."
 coverImage: "/covers/snow-white-with-the-red-hair.jpg"
 amazonASIN: "1421580055"
-publishedAt: "2026-04-25"
+publishedAt: "2025-08-29"
 tags: ["romance", "fantasy", "completed", "teen", "viz-media", "shojo"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["betrayal and near-death scenario", "dark power development", 
 description: "Yu's review of Arifureta — Hajime Nagumo is the weakest of his class when they are summoned to another world; abandoned at the bottom of a lethal dungeon, he survives through mutation and brutal necessity and emerges as something that no longer looks like the person he was."
 coverImage: "/covers/arifureta.jpg"
 amazonASIN: "1642750530"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-19"
 tags: ["fantasy", "isekai", "completed", "dark", "survival", "betrayal", "dungeon"]
 rating: 4
 hasAffiliate: true

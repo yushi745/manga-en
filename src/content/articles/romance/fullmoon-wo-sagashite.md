@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Full Moon wo Sagashite — a 12-year-old girl with throat cancer secretly becomes a pop idol to fulfill a promise to her first love who left to study overseas."
 coverImage: "/covers/fullmoon-wo-sagashite.jpg"
 amazonASIN: "1591168252"
-publishedAt: "2026-04-26"
+publishedAt: "2025-06-17"
 tags:
   - "shojo"
   - "romance"

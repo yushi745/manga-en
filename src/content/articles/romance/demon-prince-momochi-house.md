@@ -17,7 +17,7 @@ contentWarnings: ["supernatural content", "yokai", "romance with spirit entity",
 description: "Yu's review of The Demon Prince of Momochi House — Himari inherits Momochi House on her sixteenth birthday, an old estate that serves as a border between the human world and the spirit realm; living there is Aoi, a human boy who has become the house's supernatural guardian; Aya Shouoto's supernatural romance about a girl who falls for someone who might not be able to stay human."
 coverImage: "/covers/demon-prince-momochi-house.jpg"
 amazonASIN: "1421582074"
-publishedAt: "2026-05-30"
+publishedAt: "2025-06-05"
 tags: ["romance", "supernatural", "fantasy", "completed", "teen", "viz-media", "yokai", "shouoto"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["extreme comedy violence", "crude humor", "death metal culture
 description: "Yu's review of Detroit Metal City — Soichi Negishi came to Tokyo to write sweet acoustic pop music about love in the countryside; he ends up as Krauser II, the masked death metal demon of the fictional Detroit Metal City band, whose concerts are legendary events of chaos — and he is, inexplicably, extremely good at it."
 coverImage: "/covers/detroit-metal-city.jpg"
 amazonASIN: "1421524961"
-publishedAt: "2026-05-05"
+publishedAt: "2025-12-24"
 tags: ["comedy", "slice-of-life", "music", "parody", "completed", "mature", "viz-media", "seinen"]
 rating: 4
 hasAffiliate: true

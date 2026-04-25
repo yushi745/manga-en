@@ -17,7 +17,7 @@ contentWarnings: ["death of parent (backstory)", "class inequality themes", "dan
 description: "Yu's review of Saturn Apartments — humanity lives in a ring habitat orbiting Earth; the surface is a nature preserve; Mitsu is a young window washer who cleans the outer windows of the habitat; his father was also a window washer and disappeared; Hisae Iwaoka's quiet science fiction manga about class, memory, and the view from the outside."
 coverImage: "/covers/saturn-apartments.jpg"
 amazonASIN: "1421533502"
-publishedAt: "2026-05-29"
+publishedAt: "2025-11-18"
 tags: ["sci-fi", "slice-of-life", "completed", "teen", "viz-media", "space", "class-inequality", "quiet-manga"]
 rating: 5
 hasAffiliate: true

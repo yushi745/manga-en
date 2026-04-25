@@ -17,7 +17,7 @@ contentWarnings: ["age gap romance", "demon setting", "found family themes", "Vi
 description: "Yu's review of Hana to Akuma — Vivi is a demon living in isolation in the human world who discovers an abandoned newborn he names Hana; he raises her for fourteen years; when she is old enough to feel, the relationship becomes something more complicated."
 coverImage: "/covers/hana-to-akuma.jpg"
 amazonASIN: "1421526700"
-publishedAt: "2026-05-17"
+publishedAt: "2025-06-23"
 tags: ["romance", "completed", "teen", "viz-media", "demon", "age-gap", "found-family", "victorian-fantasy"]
 rating: 4
 hasAffiliate: true

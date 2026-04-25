@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "locked-room mystery elements", "betrayal 
 description: "Yu's review of Rokka: Braves of the Six Flowers — the legends say six heroes are chosen to fight the Demon God; when the six braves gather, they discover seven of them are present; one is an impostor, possibly the Demon God's spy; the series becomes a fantasy mystery as the heroes try to identify the fake before the real enemy destroys them."
 coverImage: "/covers/rokka-braves-six-flowers.jpg"
 amazonASIN: "0316315079"
-publishedAt: "2026-05-03"
+publishedAt: "2024-10-12"
 tags: ["fantasy", "mystery", "action", "completed", "teen", "yen-press", "aztec", "locked-room"]
 rating: 4
 hasAffiliate: true

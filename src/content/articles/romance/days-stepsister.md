@@ -17,7 +17,7 @@ contentWarnings: ["step-sibling romance premise", "slice of life romance", "shar
 description: "Yu's review of Days with My Stepsister — Yuuta and Asamura Saki are strangers who become step-siblings when their parents marry; they make a pact to maintain a sibling relationship only, without romantic complications; the series follows their daily life as that pact becomes harder to maintain."
 coverImage: "/covers/days-stepsister.jpg"
 amazonASIN: "1975348451"
-publishedAt: "2026-05-03"
+publishedAt: "2025-06-03"
 tags: ["romance", "slice-of-life", "stepsiblings", "ongoing", "teen", "yen-press", "slow-burn"]
 rating: 4
 hasAffiliate: true

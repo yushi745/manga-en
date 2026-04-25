@@ -17,7 +17,7 @@ contentWarnings: ["death", "dark themes", "horror elements", "moral ambiguity"]
 description: "Yu's review of Pet Shop of Horrors — Count D runs a mysterious pet shop in Los Angeles's Chinatown that sells exotic animals; each purchase comes with a contract containing three conditions, and Detective Leon Orcot investigates the deaths that follow customers who break those conditions."
 coverImage: "/covers/pet-shop-of-horrors.jpg"
 amazonASIN: "1892213605"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-22"
 tags: ["horror", "mystery", "josei", "completed", "anthology", "dark-fantasy"]
 rating: 4
 hasAffiliate: true

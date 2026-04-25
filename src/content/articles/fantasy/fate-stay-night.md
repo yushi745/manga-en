@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "death", "supernatural combat", "mature the
 description: "Yu's review of Fate/Stay Night manga — Shirou Emiya is a teenager who accidentally enters the Holy Grail War, a secret battle between seven mages who summon Heroic Spirits — legendary figures from history and mythology — as Servants; his Servant is Saber, one of the most powerful; the manga follows the Fate route of the original visual novel."
 coverImage: "/covers/fate-stay-night.jpg"
 amazonASIN: "1595823840"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-12"
 tags: ["fantasy", "action", "completed", "teen-plus", "dark-horse", "fate", "type-moon"]
 rating: 4
 hasAffiliate: true

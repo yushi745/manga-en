@@ -17,7 +17,7 @@ contentWarnings: ["explicit fan service", "graphic martial arts violence", "Thre
 description: "Yu's review of Ikki Tousen — high school students in the Kanto region carry the fighting spirits (magatama) of Three Kingdoms warriors from Chinese history; they are compelled to fight for territorial dominance just as their historical counterparts did; Hakufu Sonsaku carries the spirit of Sun Ce and is extraordinarily powerful."
 coverImage: "/covers/ikki-tousen.jpg"
 amazonASIN: "159532009X"
-publishedAt: "2026-05-12"
+publishedAt: "2024-09-07"
 tags: ["action", "completed", "mature", "tokyopop", "three-kingdoms", "martial-arts", "historical-spirits", "fan-service"]
 rating: 3
 hasAffiliate: true

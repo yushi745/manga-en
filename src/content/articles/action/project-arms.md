@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Project ARMS — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/project-arms.jpg"
 amazonASIN: "1591168562"
-publishedAt: "2026-04-25"
+publishedAt: "2024-10-08"
 tags:
   - "action"
   - "sci-fi"

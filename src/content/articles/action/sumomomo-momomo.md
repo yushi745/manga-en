@@ -17,7 +17,7 @@ contentWarnings: ["martial arts action", "arranged marriage premise", "comedy vi
 description: "Yu's review of Sumomomo Momomo — Koushi Inuzuka wants to be a lawyer; his father's arrangement with the other top martial arts families means he is betrothed to Momoko, the cheerful and extremely powerful daughter of a rival clan who arrives determined to have his children."
 coverImage: "/covers/sumomomo-momomo.jpg"
 amazonASIN: "0759527792"
-publishedAt: "2026-05-17"
+publishedAt: "2024-10-26"
 tags: ["action", "comedy", "completed", "teen-plus", "yen-press", "martial-arts", "arranged-marriage", "reverse-damsel"]
 rating: 3
 hasAffiliate: true

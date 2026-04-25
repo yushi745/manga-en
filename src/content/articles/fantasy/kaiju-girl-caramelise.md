@@ -17,7 +17,7 @@ contentWarnings: ["kaiju transformation", "mild destruction", "romantic embarras
 description: "Yu's review of Kaiju Girl Caramelise — Kuroe Akaishi has always been alone because strong emotions cause her to transform into a giant kaiju; when a popular boy notices her, the transformations start happening at school; a comedy-romance about a girl whose heart is literally too big to contain."
 coverImage: "/covers/kaiju-girl-caramelise.jpg"
 amazonASIN: "1975319990"
-publishedAt: "2026-04-28"
+publishedAt: "2024-12-30"
 tags: ["fantasy", "romance", "comedy", "completed", "teen", "yen-press", "kaiju", "school"]
 rating: 4
 hasAffiliate: true

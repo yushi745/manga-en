@@ -17,7 +17,7 @@ contentWarnings: ["isekai comedy", "some action content", "mild romantic themes"
 description: "Yu's review of Villainess Level 99 — Eumiella Dolkness reincarnated into an otome game as the villainess destined for a bad end; to avoid this fate, she spent her childhood grinding levels in secret until she reached the maximum level 99; the problem is that the game world treats anyone at level 99 as a Demon Lord candidate, and everyone is now afraid of her."
 coverImage: "/covers/villainess-level-99.jpg"
 amazonASIN: "1646092171"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-20"
 tags: ["fantasy", "isekai", "comedy", "completed", "villainess", "otome-game", "female-protagonist"]
 rating: 4
 hasAffiliate: true

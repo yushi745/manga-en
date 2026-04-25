@@ -17,7 +17,7 @@ contentWarnings: ["war themes", "death", "discrimination themes", "state violenc
 description: "Yu's review of 86—EIGHTY-SIX manga — the Republic of San Magnolia wages war against autonomous mechs using unmanned drones; the 'unmanned' drones are actually piloted by Eighty-Sixers, people ethnically cleansed from the republic who fight and die in squadrons no one acknowledges; Vladilena Milizé is the one military officer who treats her squadron as human beings."
 coverImage: "/covers/86-eighty-six.jpg"
 amazonASIN: "1975337204"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-02"
 tags: ["sci-fi", "military", "ongoing", "teen", "yen-press", "mecha"]
 rating: 5
 hasAffiliate: true

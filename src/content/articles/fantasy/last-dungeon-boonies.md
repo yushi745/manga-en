@@ -17,7 +17,7 @@ contentWarnings: ["comedy violence", "mild fan service", "isekai action comedy"]
 description: "Yu's review of Suppose a Kid from the Last Dungeon Boonies — Lloyd Belladonna comes from a village near the deepest dungeon in the world; compared to his neighbors he is the weakest person in the village; compared to everyone in the starter city he is incomprehensibly powerful; he has no idea."
 coverImage: "/covers/last-dungeon-boonies.jpg"
 amazonASIN: "1646090349"
-publishedAt: "2026-04-25"
+publishedAt: "2025-01-04"
 tags: ["fantasy", "action", "comedy", "ongoing", "square-enix", "male-protagonist"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["supernatural beings", "devotion dynamic", "dark series turn i
 description: "Yu's review of Inu x Boku SS — Ririchiyo Shirakiin, a half-youkai girl whose sharp tongue makes connection impossible, moves into Maison de Ayakashi, an apartment for those with supernatural heritage; her Secret Service agent Soushi Miketsukami is assigned to protect her and is impossibly devoted — and his devotion is not a performance."
 coverImage: "/covers/inu-x-boku-ss.jpg"
 amazonASIN: "0316226238"
-publishedAt: "2026-05-11"
+publishedAt: "2024-12-25"
 tags: ["fantasy", "romance", "completed", "teen", "yen-press", "youkai", "supernatural", "devotion"]
 rating: 4
 hasAffiliate: true

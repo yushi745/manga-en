@@ -17,7 +17,7 @@ contentWarnings: ["street violence", "bullying", "psychological trauma", "realis
 description: "Yu's review of Holyland — bullied loner Yuu Kamishiro teaches himself boxing from a book to defend himself on the streets; he finds something he is good at, and the street fighting he enters to survive becomes a world he cannot leave."
 coverImage: "/covers/holyland.jpg"
 amazonASIN: "1421506262"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-01"
 tags: ["sports", "action", "seinen", "completed", "martial-arts", "street-fighting"]
 rating: 4
 hasAffiliate: true

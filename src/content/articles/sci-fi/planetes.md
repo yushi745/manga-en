@@ -17,7 +17,7 @@ contentWarnings: ["death", "themes of ambition and self-destruction", "political
 description: "Yu's review of Planetes — a crew of space debris collectors in the near future of 2075, where someone wants to be the first human to Jupiter and someone else just wants to survive the shift."
 coverImage: "/covers/planetes.jpg"
 amazonASIN: "1595820914"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-14"
 tags: ["sci-fi", "drama", "space", "realistic", "completed", "slice-of-life"]
 rating: 5
 hasAffiliate: true

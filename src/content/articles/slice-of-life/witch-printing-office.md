@@ -17,7 +17,7 @@ contentWarnings: ["modern knowledge in fantasy setting", "business themes", "dou
 description: "Yu's review of A Witch's Printing Office — Mika is a modern Japanese woman who worked at Comiket (the giant doujinshi convention) and wakes up in a fantasy world where magical festivals share printed pamphlets; using her knowledge of convention organization and printing logistics, she builds a business that transforms how the fantasy world shares information."
 coverImage: "/covers/witch-printing-office.jpg"
 amazonASIN: "1975311744"
-publishedAt: "2026-04-30"
+publishedAt: "2026-03-07"
 tags: ["slice-of-life", "fantasy", "isekai", "completed", "teen", "yen-press", "business", "comedy"]
 rating: 4
 hasAffiliate: true

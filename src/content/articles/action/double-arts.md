@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Double Arts — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/double-arts.jpg"
 amazonASIN: "1421527251"
-publishedAt: "2026-04-25"
+publishedAt: "2024-08-18"
 tags:
   - "action"
   - "romance"

@@ -17,7 +17,7 @@ contentWarnings: ["family themes", "gentle school romance", "sequel content"]
 description: "Yu's review of Fruits Basket Another — set in the next generation after the events of Fruits Basket, Sawa Mitoma is a girl with low self-esteem who encounters the children of the original series' characters; the story centers on Sawa finding her place and the friendships she makes with the new Sohma generation."
 coverImage: "/covers/fruits-basket-another.jpg"
 amazonASIN: "1975383575"
-publishedAt: "2026-05-13"
+publishedAt: "2025-06-15"
 tags: ["romance", "completed", "teen", "yen-press", "sequel", "shojo", "family", "school"]
 rating: 3
 hasAffiliate: true

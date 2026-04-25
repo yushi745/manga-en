@@ -17,7 +17,7 @@ contentWarnings: ["magical girl battles", "environmental themes", "light romance
 description: "Yu's review of Tokyo Mew Mew — Ichigo Momomiya goes on a date to a natural history museum and ends up infused with the DNA of the Iriomote cat; she becomes Mew Ichigo, the first of five magical girls who transform with the power of endangered animals to fight alien parasites that threaten Earth's ecosystem."
 coverImage: "/covers/tokyo-mew-mew.jpg"
 amazonASIN: "1646517105"
-publishedAt: "2026-05-05"
+publishedAt: "2025-09-12"
 tags: ["romance", "fantasy", "magical-girl", "completed", "all-ages", "kodansha", "environmental", "90s"]
 rating: 3
 hasAffiliate: true

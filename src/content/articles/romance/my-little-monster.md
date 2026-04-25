@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "comedic violence", "social anxiety t
 description: "Yu's review of My Little Monster — a studious girl focused entirely on grades is disrupted when she is asked to deliver notes to a classmate who stopped coming to school, a boy who fights constantly and has no idea how human interaction works."
 coverImage: "/covers/my-little-monster.jpg"
 amazonASIN: "1612625223"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-02"
 tags: ["romance", "comedy", "shojo", "completed", "school"]
 rating: 4
 hasAffiliate: true

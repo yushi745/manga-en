@@ -17,7 +17,7 @@ contentWarnings: ["some suggestive cosplay content", "revealing costumes", "roma
 description: "Yu's review of My Dress-Up Darling — Wakana Gojou is isolated, dedicated to mastering hina doll craftsmanship; Marin Kitagawa is popular, passionate about cosplay; she discovers his sewing skill and asks for help; Shinichi Fukuda's romance manga about craft, passion, and unlikely connection."
 coverImage: "/covers/sono-bisque.jpg"
 amazonASIN: "1646091655"
-publishedAt: "2026-05-25"
+publishedAt: "2025-08-30"
 tags: ["romance", "comedy", "ongoing", "teen-plus", "square-enix", "cosplay", "craft", "opposites"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["isekai violence", "overpowered protagonist", "comedy violence
 description: "Yu's review of Tsukimichi: Moonlit Fantasy — Makoto Misumi is transported to another world, but the goddess who was supposed to guide him finds him unattractive and banishes him to the wasteland at the world's edge; he then proceeds to build his own civilization there, befriending monsters and demi-humans while becoming absurdly powerful in ways even the gods didn't expect."
 coverImage: "/covers/tsukimichi-moonlit-fantasy.jpg"
 amazonASIN: "1975335457"
-publishedAt: "2026-04-28"
+publishedAt: "2025-02-16"
 tags: ["fantasy", "isekai", "ongoing", "teen", "yen-press", "overpowered", "comedy"]
 rating: 4
 hasAffiliate: true

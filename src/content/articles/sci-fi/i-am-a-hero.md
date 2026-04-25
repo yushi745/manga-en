@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "zombie horror", "psychological breakdown"
 description: "Yu's review of I Am a Hero — Hideo Suzuki is a 35-year-old assistant manga artist who has never succeeded at anything; when a zombie-like outbreak begins in Tokyo, his specific psychology — anxiety, failure, delusion — becomes the series' most interesting survival tool."
 coverImage: "/covers/i-am-a-hero.jpg"
 amazonASIN: "1616559209"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-02"
 tags: ["sci-fi", "horror", "seinen", "mature", "completed", "zombies", "psychological"]
 rating: 5
 hasAffiliate: true

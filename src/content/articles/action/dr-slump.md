@@ -17,7 +17,7 @@ contentWarnings: ["Toriyama-era toilet humor", "cartoon violence", "parody of su
 description: "Yu's review of Dr. Slump — Senbei Norimaki is a not-very-good inventor who creates the perfect android girl, Arale, who is stronger than any human, has perfect vision but is terribly nearsighted without her glasses, and has the complete absence of self-preservation instinct that characterizes someone who cannot be hurt."
 coverImage: "/covers/dr-slump.jpg"
 amazonASIN: "1591165105"
-publishedAt: "2026-05-04"
+publishedAt: "2024-08-19"
 tags: ["comedy", "action", "classic", "toriyama", "completed", "teen", "viz-media", "shonen-jump"]
 rating: 5
 hasAffiliate: true

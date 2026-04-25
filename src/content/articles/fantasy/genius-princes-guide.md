@@ -17,7 +17,7 @@ contentWarnings: ["political scheming", "fantasy violence", "strategic manipulat
 description: "Yu's review of The Genius Prince's Guide to Raising a Nation Out of Debt — Prince Wein Salema Arbalest has one goal: abdicate and live in peace; instead he keeps accidentally winning wars and stabilizing his kingdom's economy through incompetence disguised as genius; Tochi Aoi and Falmaro's fantasy comedy about a prince who tries to fail and keeps succeeding."
 coverImage: "/covers/genius-princes-guide.jpg"
 amazonASIN: "197581637X"
-publishedAt: "2026-05-30"
+publishedAt: "2024-12-15"
 tags: ["fantasy", "comedy", "isekai-adjacent", "teen", "yen-press", "political", "ongoing"]
 rating: 4
 hasAffiliate: true

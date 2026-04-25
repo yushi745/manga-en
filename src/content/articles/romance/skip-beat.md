@@ -17,7 +17,7 @@ contentWarnings: ["emotional manipulation themes", "toxic relationship depicted 
 description: "Yu's review of Skip Beat! — a girl who sacrificed everything to support her childhood friend's pop idol career discovers he was using her, and decides the best revenge is to break into the entertainment industry herself."
 coverImage: "/covers/skip-beat.jpg"
 amazonASIN: "1421505851"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-28"
 tags: ["romance", "drama", "shojo", "entertainment", "ongoing", "revenge"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "android themes", "some adult themes"]
 description: "Yu's review of Dimension W — in the near future, limitless energy is drawn from Dimension W through coils; illegal coils are dangerous; Kyoma Mabuchi, a coil hunter who hates coils, teams up with Mira, an advanced android girl who may be the key to the most dangerous illegal coil mystery."
 coverImage: "/covers/dimension-w.jpg"
 amazonASIN: "031631698X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-23"
 tags: ["sci-fi", "action", "completed", "android", "energy", "near-future"]
 rating: 4
 hasAffiliate: true

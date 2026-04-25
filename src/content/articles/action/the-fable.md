@@ -17,7 +17,7 @@ contentWarnings: ["assassin themes", "graphic violence", "adult content", "crime
 description: "Yu's review of The Fable — Akira (codename 'The Fable') is considered the deadliest assassin in Japan; his boss orders him to take a year off and live as an ordinary person without killing anyone; the comedy of an extraordinarily dangerous man trying and mostly succeeding at being normal while the criminal world swirls around him."
 coverImage: "/covers/the-fable.jpg"
 amazonASIN: "1632368781"
-publishedAt: "2026-04-29"
+publishedAt: "2024-10-31"
 tags: ["action", "comedy", "assassin", "completed", "mature", "kodansha", "seinen", "black-comedy"]
 rating: 5
 hasAffiliate: true

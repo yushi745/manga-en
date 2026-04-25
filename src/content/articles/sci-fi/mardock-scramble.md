@@ -17,7 +17,7 @@ contentWarnings: ["sexual violence", "murder", "body modification", "psychologic
 description: "Yu's review of Mardock Scramble — Rune Balot, a teenage prostitute, is murdered by casino mogul Shell Septinos; resurrected under Mardock Scramble 09, an emergency law that allows dead people to be brought back as cyborgs to testify, she must survive long enough to bring Shell to justice with the help of her partner Oeufcoque."
 coverImage: "/covers/mardock-scramble.jpg"
 amazonASIN: "1616551526"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-09"
 tags: ["sci-fi", "thriller", "seinen", "completed", "cyberpunk", "legal-thriller"]
 rating: 5
 hasAffiliate: true

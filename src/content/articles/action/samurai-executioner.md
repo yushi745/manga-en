@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Samurai Executioner — set in Edo-period Japan, this seinen series follows the official executioner of Edo as he navigates his role at the edge of society and justice."
 coverImage: "/covers/samurai-executioner.jpg"
 amazonASIN: "1593073615"
-publishedAt: "2026-04-26"
+publishedAt: "2024-10-17"
 tags:
   - "seinen"
   - "historical"

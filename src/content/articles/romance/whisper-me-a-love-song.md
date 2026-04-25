@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "music school setting", "misunderstanding prem
 description: "Yu's review of Whisper Me a Love Song — Himari falls in love at first sight after hearing her senpai Yori perform at a school concert; when she confesses to Yori that she loves her, Yori thinks Himari means as a fan; the series follows the slow clarification of what both of them actually feel."
 coverImage: "/covers/whisper-me-a-love-song.jpg"
 amazonASIN: "1638580863"
-publishedAt: "2026-05-03"
+publishedAt: "2025-09-24"
 tags: ["romance", "yuri", "music", "school", "ongoing", "teen", "seven-seas", "slow-burn"]
 rating: 4
 hasAffiliate: true

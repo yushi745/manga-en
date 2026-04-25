@@ -17,7 +17,7 @@ contentWarnings: ["zombie violence", "prison violence", "graphic death", "surviv
 description: "Yu's review of Fort of Apocalypse — Yoshiaki Maeda is wrongfully sent to a juvenile detention facility; on his first night, the zombie apocalypse begins; the facility becomes a survival fortress as the inmates — criminals, violent offenders, and Maeda among them — realize the prison walls are the only thing keeping the dead out."
 coverImage: "/covers/fort-of-apocalypse.jpg"
 amazonASIN: "1612628087"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-21"
 tags: ["horror", "survival", "completed", "mature", "kodansha", "zombie"]
 rating: 4
 hasAffiliate: true

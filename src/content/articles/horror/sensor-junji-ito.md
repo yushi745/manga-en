@@ -17,7 +17,7 @@ contentWarnings: ["cosmic horror", "volcanic imagery", "supernatural horror", "e
 description: "Yu's review of Sensor — Kyoko Byakuya encounters a young man on the slope of Mt. Sengoku who leads her to a village where the inhabitants' hair has become golden threads connected to the volcano; the horror expands from local to cosmic as the story develops, becoming Ito's most ambitious statement about what lies beneath ordinary reality."
 coverImage: "/covers/sensor-junji-ito.jpg"
 amazonASIN: "1974715965"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-28"
 tags: ["horror", "completed", "teen-plus", "viz-media", "junji-ito", "cosmic-horror"]
 rating: 5
 hasAffiliate: true

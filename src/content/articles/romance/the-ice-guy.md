@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of The Ice Guy and His Cool Female Colleague — Himuro-kun is a descendant of the Snow Woman and produces ice and snow when emotionally affected; Fuyutsuki-san is his cool-seeming female colleague whom he is completely in love with; Miyuki Tonogaya's office romance about emotional expression that is literally visible."
 coverImage: "/covers/the-ice-guy.jpg"
 amazonASIN: "1975347463"
-publishedAt: "2026-05-24"
+publishedAt: "2025-09-09"
 tags: ["romance", "comedy", "ongoing", "all-ages", "yen-press", "office-romance", "supernatural", "workplace"]
 rating: 4
 hasAffiliate: true

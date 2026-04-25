@@ -17,7 +17,7 @@ contentWarnings: ["young characters", "mild comedy situations", "slice-of-life s
 description: "Yu's review of Ichigo Mashimaro — Nobue Itou, her younger sister Chika, and their friends Ana, Miu, and Matsuri navigate elementary school life in suburban Hamamatsu; Barasui's long-running four-panel-adjacent comedy manga, known for Miu's relentless chaos and the gentle warmth of the group dynamic."
 coverImage: "/covers/ichigo-mashimaro.jpg"
 amazonASIN: "0759530173"
-publishedAt: "2026-05-22"
+publishedAt: "2026-01-13"
 tags: ["slice-of-life", "comedy", "ongoing", "teen", "yen-press", "school", "four-panel", "suburban"]
 rating: 4
 hasAffiliate: true

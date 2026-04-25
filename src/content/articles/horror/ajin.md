@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "torture", "body horror", "death", "govern
 description: "Yu's review of Ajin: Demi-Human — a high school student discovers he is an Ajin, an immortal being that the government has been secretly capturing and experimenting on, and must decide which side to fight for."
 coverImage: "/covers/ajin.jpg"
 amazonASIN: "1941220215"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-03"
 tags: ["horror", "thriller", "supernatural", "action", "completed"]
 rating: 4
 hasAffiliate: true

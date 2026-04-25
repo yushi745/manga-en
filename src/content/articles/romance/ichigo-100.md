@@ -17,7 +17,7 @@ contentWarnings: ["fanservice", "harem elements", "romantic confusion"]
 description: "Yu's review of Ichigo 100% — aspiring filmmaker Junpei Manaka accidentally sees a girl with strawberry-print underwear on the school rooftop; his attempt to find her leads him into a four-girl romantic entanglement that spans his entire high school life."
 coverImage: "/covers/ichigo-100.jpg"
 amazonASIN: "1421500469"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-02"
 tags: ["romance", "comedy", "shonen", "completed", "harem"]
 rating: 3
 hasAffiliate: true

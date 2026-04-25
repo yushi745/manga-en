@@ -17,7 +17,7 @@ contentWarnings: ["fanservice", "traditional arranged marriage themes", "domesti
 description: "Yu's review of Ai Yori Aoshi — college student Kaoru Hanabishi, estranged from his wealthy family, is found by Aoi Sakuraba, a young woman in a kimono who has traveled from Kyoto to honor the childhood engagement their families arranged; Aoi's love for Kaoru is real and absolute; the series follows their quiet life together as it gradually becomes an ensemble of women in Kaoru's orbit."
 coverImage: "/covers/ai-yori-aoshi.jpg"
 amazonASIN: "1591822882"
-publishedAt: "2026-04-27"
+publishedAt: "2025-05-13"
 tags: ["romance", "comedy", "completed", "teen-plus", "tokyopop", "traditional", "seinen"]
 rating: 4
 hasAffiliate: true

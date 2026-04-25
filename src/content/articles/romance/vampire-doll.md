@@ -19,7 +19,7 @@ contentWarnings:
 description: "Yu's review of Vampire Doll — a fearsome vampire lord wakes from a 100-year slumber to find he's been sealed into a cute doll body and must now serve as his enemy's maid."
 coverImage: "/covers/vampire-doll.jpg"
 amazonASIN: "142720010X"
-publishedAt: "2026-04-26"
+publishedAt: "2025-09-18"
 tags:
   - "shojo"
   - "comedy"

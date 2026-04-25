@@ -17,7 +17,7 @@ contentWarnings: ["supernatural horror", "ghost stories", "binding/exorcism them
 description: "Yu's review of Muhyo & Roji — Toru Muhyo is the youngest person in history to achieve the title of Executor in Magical Law; his assistant Roji is a fumbling junior who has not yet passed the Magical Law exams; together they run an office that takes supernatural cases involving ghosts that have crossed legal lines."
 coverImage: "/covers/muhyo-and-roji.jpg"
 amazonASIN: "1421516071"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-25"
 tags: ["action", "supernatural", "completed", "exorcism", "buddy-comedy", "shonen"]
 rating: 3
 hasAffiliate: true

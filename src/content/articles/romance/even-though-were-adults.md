@@ -17,7 +17,7 @@ contentWarnings: ["adultery", "yuri romance", "emotional infidelity", "adult rel
 description: "Yu's review of Even Though We're Adults — Akari is a schoolteacher who runs into Ayano, her first love from high school, at a bar; they reconnect; Ayano is not married, but Akari is; the series follows two adult women navigating a love that is real but has a cost."
 coverImage: "/covers/even-though-were-adults.jpg"
 amazonASIN: "1638580545"
-publishedAt: "2026-05-03"
+publishedAt: "2025-06-09"
 tags: ["romance", "yuri", "drama", "adultery", "completed", "mature", "seven-seas", "adult"]
 rating: 4
 hasAffiliate: true

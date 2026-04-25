@@ -17,7 +17,7 @@ contentWarnings: ["romance", "fashion industry themes", "teen drama", "creative 
 description: "Yu's review of Gokinjo Monogatari — Mikako Kouda and Tsutomu Yamaguchi grew up in the same apartment building and are now fashion school students; she's designing clothes; he's in a band; Ai Yazawa's early manga about fashion, creativity, and the complicated feelings between two people who have known each other too long to see clearly."
 coverImage: "/covers/gokinjo-monogatari.jpg"
 amazonASIN: "1598163337"
-publishedAt: "2026-05-27"
+publishedAt: "2026-01-02"
 tags: ["slice-of-life", "romance", "fashion", "completed", "teen", "tokyopop", "yazawa", "classic"]
 rating: 4
 hasAffiliate: true

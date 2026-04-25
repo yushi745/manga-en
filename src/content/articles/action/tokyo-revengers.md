@@ -17,7 +17,7 @@ contentWarnings: ["gang violence", "death", "themes of bullying and powerlessnes
 description: "Yu's review of Tokyo Revengers — 31 volumes about a loser who discovers he can time-travel back to his middle school years and is determined to save the girl he loved from being murdered by a gang. The most emotionally gripping gang manga in years."
 coverImage: "/covers/tokyo-revengers.jpg"
 amazonASIN: "B093H9CFVV"
-publishedAt: "2026-04-23"
+publishedAt: "2024-11-02"
 tags: ["action", "thriller", "time-travel", "gang", "completed", "drama"]
 rating: 4
 hasAffiliate: true

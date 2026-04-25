@@ -17,7 +17,7 @@ contentWarnings: ["family dysfunction themes", "eating disorder themes (mild)", 
 description: "Yu's review of Toradora! — a delinquent-looking boy and a tiny, terrifying girl make a deal to help each other confess to the other's best friend, and discover they had the wrong target all along."
 coverImage: "/covers/toradora.jpg"
 amazonASIN: "1934876941"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-13"
 tags: ["romance", "comedy", "school", "completed", "classic", "light-novel-adaptation"]
 rating: 5
 hasAffiliate: true

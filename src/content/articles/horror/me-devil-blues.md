@@ -17,7 +17,7 @@ contentWarnings: ["racism", "historical violence", "supernatural horror", "Ameri
 description: "Yu's review of Me & The Devil Blues — Robert Johnson, the legendary blues musician, makes a deal at the crossroads and suddenly can play the blues like nobody alive; the manga follows his rise alongside RJ, a friend trying to understand what Johnson has become; a horror manga set in the 1930s American South that takes its historical setting seriously."
 coverImage: "/covers/me-devil-blues.jpg"
 amazonASIN: "1421522578"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-12"
 tags: ["horror", "historical", "blues", "completed", "mature", "viz", "supernatural", "american-south"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["war and violence", "death of characters including children", 
 description: "Yu's review of Children of the Whales — The Mud Whale drifts across an endless sea of sand, carrying a community of people who use a power called thymia; Chakuro, their archivist, records everything; when another ship appears carrying a girl who has never been allowed to feel emotion, it sets in motion the end of everything Chakuro has known."
 coverImage: "/covers/children-of-the-whales.jpg"
 amazonASIN: "1421596512"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-17"
 tags: ["sci-fi", "fantasy", "completed", "dark", "world-building", "war", "seinen"]
 rating: 5
 hasAffiliate: true

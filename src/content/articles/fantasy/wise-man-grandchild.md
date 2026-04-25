@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "isekai reincarnation", "overpowered prota
 description: "Yu's review of Wise Man's Grandchild — a young man reincarnates in a fantasy world and is raised by the legendary sage Merlin Walford; he absorbs Merlin's magical knowledge and becomes obscenely powerful, but Merlin was too focused on teaching magic to teach him anything about common sense or social norms; an overpowered protagonist isekai with self-aware humor about its premise."
 coverImage: "/covers/wise-man-grandchild.jpg"
 amazonASIN: "1626928851"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-23"
 tags: ["fantasy", "isekai", "completed", "teen", "seven-seas", "overpowered", "comedy"]
 rating: 3
 hasAffiliate: true

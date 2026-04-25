@@ -17,7 +17,7 @@ contentWarnings: ["social class dynamics", "school romance", "mild comedy", "pla
 description: "Yu's review of Imadoki! — Tanpopo Yamazaki arrives from Hokkaido at Tokyo's elite Meio Academy, hoping to find the boy she met while planting dandelions; her openness and determination disrupt the rigid social hierarchies of a school where status determines everything."
 coverImage: "/covers/imadoki.jpg"
 amazonASIN: "1569319103"
-publishedAt: "2026-05-17"
+publishedAt: "2025-07-03"
 tags: ["romance", "completed", "teen", "viz-media", "school", "class-dynamics", "classic-shojo"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["ghost horror", "death", "disturbing imagery", "supernatural v
 description: "Yu's review of Mail — private detective Reiji Akiba carries a gun loaded with special bullets and a job: send the dead to where they belong; each story is a ghost encounter, a backstory, and a resolution that may or may not be comforting; procedural ghost horror with a quiet protagonist."
 coverImage: "/covers/mail.jpg"
 amazonASIN: "1593074484"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-11"
 tags: ["horror", "supernatural", "anthology", "completed", "mature", "dark-horse"]
 rating: 4
 hasAffiliate: true

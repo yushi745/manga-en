@@ -17,7 +17,7 @@ contentWarnings: ["violence", "crude humor", "adult themes", "some sexual conten
 description: "Yu's review of GTO: Great Teacher Onizuka — Eikichi Onizuka is a 22-year-old former gang leader and virgin who becomes a middle school teacher at an elite private school; what he lacks in academic credentials he compensates for with an absolute refusal to give up on any student."
 coverImage: "/covers/gto.jpg"
 amazonASIN: "1569315272"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-02"
 tags: ["action", "comedy", "seinen", "school", "completed"]
 rating: 5
 hasAffiliate: true

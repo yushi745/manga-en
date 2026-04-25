@@ -17,7 +17,7 @@ contentWarnings: ["time stop ability", "action violence", "cult organization", "
 description: "Yu's review of Kokkoku — the Yukawa family inherits a stone that can stop time, placing them in 'Stasis' — a frozen moment where they can move while everything else is still; when criminals kidnap family members, they use Stasis to rescue them, only to discover that a cult has been living in Stasis for years, and that Stasis is not as empty as they thought."
 coverImage: "/covers/kokkoku.jpg"
 amazonASIN: "1632367084"
-publishedAt: "2026-05-20"
+publishedAt: "2025-11-05"
 tags: ["sci-fi", "action", "completed", "teen-plus", "kodansha", "time-stop", "family", "mystery"]
 rating: 4
 hasAffiliate: true

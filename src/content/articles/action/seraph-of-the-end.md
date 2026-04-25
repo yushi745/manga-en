@@ -17,7 +17,7 @@ contentWarnings: ["violence", "death of children in opening", "dark themes", "va
 description: "Yu's review of Seraph of the End — a virus kills all adults; vampires emerge and enslave the surviving children as livestock; Yuichiro Hyakuya escapes and joins the Japanese Imperial Demon Army to avenge his orphan family and kill all vampires."
 coverImage: "/covers/seraph-of-the-end.jpg"
 amazonASIN: "1421571501"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-19"
 tags: ["action", "shonen", "ongoing", "vampires", "dark-fantasy", "post-apocalyptic"]
 rating: 4
 hasAffiliate: true

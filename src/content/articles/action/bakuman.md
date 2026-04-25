@@ -17,7 +17,7 @@ contentWarnings: ["industry pressure themes", "perfectionism", "competitive crea
 description: "Yu's review of Bakuman — Moritaka Mashiro wants to be a manga artist like his late uncle; Akito Takagi wants to write; together they form a duo and enter Weekly Shonen Jump's competitive artist pipeline with a promise driving them: Mashiro will propose to his crush Miho when he gets an anime based on his work, and she will voice the heroine; the most accurate and entertaining manga about making manga."
 coverImage: "/covers/bakuman.jpg"
 amazonASIN: "1421535130"
-publishedAt: "2026-04-27"
+publishedAt: "2024-07-28"
 tags: ["action", "drama", "slice-of-life", "completed", "teen", "viz", "shonen-jump", "manga-industry", "creative"]
 rating: 5
 hasAffiliate: true

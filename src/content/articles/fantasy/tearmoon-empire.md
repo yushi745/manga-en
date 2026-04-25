@@ -17,7 +17,7 @@ contentWarnings: ["execution themes (played for comedy)", "royalty and politics"
 description: "Yu's review of Tearmoon Empire — Princess Mia was guillotined by revolutionaries for her selfish, incompetent rule; she wakes up at age twelve with her diary showing her future death and the determination to avoid it; the comedy comes from her self-serving attempts to be 'better' creating a reputation for saintly wisdom she does not actually possess."
 coverImage: "/covers/tearmoon-empire.jpg"
 amazonASIN: "1638585016"
-publishedAt: "2026-04-30"
+publishedAt: "2025-02-10"
 tags: ["fantasy", "comedy", "villainess-adjacent", "ongoing", "teen", "seven-seas", "isekai-adjacent"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["isekai setting", "power fantasy elements", "harem elements", 
 description: "Yu's review of Death March to the Parallel World Rhapsody — programmer Satou falls asleep during a death march crunch period and wakes up in a fantasy world identical to the game he was debugging; he gains massive power immediately and then wanders the world helping people; manga adaptation of Hiro Ainana's light novel."
 coverImage: "/covers/death-march.jpg"
 amazonASIN: "0316468541"
-publishedAt: "2026-05-24"
+publishedAt: "2024-12-02"
 tags: ["fantasy", "isekai", "ongoing", "teen-plus", "yen-press", "programmer", "power-fantasy", "light-novel-adaptation"]
 rating: 3
 hasAffiliate: true

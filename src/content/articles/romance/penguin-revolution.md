@@ -17,7 +17,7 @@ contentWarnings: ["gender identity in performance", "idol industry themes", "rom
 description: "Yu's review of Penguin Revolution — Yukari Fujimaru can see floating wings on talented people; she spots Ryou Katou's enormous wings and ends up as his personal manager in the idol agency he belongs to, while he hides the fact that his famous persona is female."
 coverImage: "/covers/penguin-revolution.jpg"
 amazonASIN: "1421508923"
-publishedAt: "2026-05-06"
+publishedAt: "2025-08-14"
 tags: ["romance", "comedy", "idol", "completed", "teen", "viz-media", "gender-performance", "lala"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["child endangerment themes", "laboratory experimentation conte
 description: "Yu's review of Alice & Zouroku — Sana is a young girl who escaped from a research facility where she and other children with the power to materialize their imagination were studied; she encounters Kashimura Zouroku, a cantankerous elderly florist, who decides she needs food, safety, and someone to tell her firmly what is and isn't acceptable — and who is entirely unimpressed by her reality-warping powers."
 coverImage: "/covers/alice-and-zouroku.jpg"
 amazonASIN: "0316439924"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-06"
 tags: ["sci-fi", "slice-of-life", "completed", "teen", "yen-press", "found-family"]
 rating: 4
 hasAffiliate: true

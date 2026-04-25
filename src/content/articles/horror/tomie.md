@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "sexual violence (implied)", "dismembermen
 description: "Yu's review of Tomie — a beautiful girl who drives men to murder her and then regenerates, again and again, in a horror anthology that is also a deeply uncomfortable portrait of obsession and violence against women."
 coverImage: "/covers/tomie.jpg"
 amazonASIN: "1421590565"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-04"
 tags: ["horror", "junji-ito", "psychological", "body-horror", "anthology"]
 rating: 4
 hasAffiliate: true

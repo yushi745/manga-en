@@ -17,7 +17,7 @@ contentWarnings: ["single parent themes", "child neglect backstory", "the later 
 description: "Yu's review of Usagi Drop — Daikichi Kawachi is 30 and unmarried when his grandfather dies, revealing a 6-year-old illegitimate daughter named Rin; when no family member will claim her, Daikichi takes her in; the first 4 volumes depict their daily life as an unconventional family."
 coverImage: "/covers/usagi-drop.jpg"
 amazonASIN: "0316180742"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-01"
 tags: ["slice-of-life", "drama", "completed", "single-parent", "family", "josei"]
 rating: 3
 hasAffiliate: true

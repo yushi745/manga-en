@@ -17,7 +17,7 @@ contentWarnings: ["sports injuries", "physical contact sport"]
 description: "Yu's review of All Out!! — Gion Kenji is tiny and furious; Iwashimizu Sumiaki is enormous and afraid of his own strength; they both join the Kanagawa high school rugby club and discover that rugby is the sport that specifically needs both of them."
 coverImage: "/covers/all-out.jpg"
 amazonASIN: "1632363356"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-13"
 tags: ["sports", "seinen", "rugby", "school", "ongoing"]
 rating: 4
 hasAffiliate: true

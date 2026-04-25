@@ -17,7 +17,7 @@ contentWarnings: ["food content", "ramen photography-style depictions", "social 
 description: "Yu's review of Ms. Koizumi Loves Ramen Noodles — Koizumi is beautiful, cold, and unapproachable; she also has a complete and total dedication to ramen; she knows every shop, every regional style, every topping combination; Naru Narumi's food manga about a woman whose single passion is executed with absolute seriousness."
 coverImage: "/covers/ms-koizumi-loves-ramen.jpg"
 amazonASIN: "1645052060"
-publishedAt: "2026-05-29"
+publishedAt: "2026-01-30"
 tags: ["slice-of-life", "food", "ongoing", "teen", "seven-seas", "ramen", "food-manga", "comedy"]
 rating: 4
 hasAffiliate: true

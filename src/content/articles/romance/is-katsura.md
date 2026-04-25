@@ -17,7 +17,7 @@ contentWarnings: ["teen romance", "mild mature content", "aspiring actress story
 description: "Yu's review of I\"s — Ichitaka Seto has been in love with Iori Yoshizuki since they were assigned to sit next to each other; she is an aspiring actress who may be moving to America; the series is a pure romance without supernatural elements, following his attempts to tell her how he feels across 15 volumes of careful emotional honesty."
 coverImage: "/covers/is-katsura.jpg"
 amazonASIN: "1591167248"
-publishedAt: "2026-05-05"
+publishedAt: "2025-07-04"
 tags: ["romance", "drama", "completed", "teen", "viz-media", "shonen-jump", "90s", "classic"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "spirit world elements", "family oblig
 description: "Yu's review of Her Majesty's Dog — Amane Kamori comes from a family with the ability to command spirit beings; her partner is Hyoue, who appears human but is a demon dog spirit bound to her bloodline; as they navigate high school with Amane's spiritual obligations, Hyoue's feelings for her complicate the master-servant dynamic they have maintained."
 coverImage: "/covers/her-majestys-dog.jpg"
 amazonASIN: "1401205674"
-publishedAt: "2026-05-07"
+publishedAt: "2025-06-25"
 tags: ["romance", "supernatural", "completed", "teen", "cmx", "spirit-world", "demon", "school"]
 rating: 3
 hasAffiliate: true

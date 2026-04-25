@@ -17,7 +17,7 @@ contentWarnings: ["moe aesthetics", "school club comedy", "mild fan service", "g
 description: "Yu's review of Hinako Note — Hinako Sakuragi freezes in social situations and literally stands still like a scarecrow, which attracts birds; she moves to Tokyo to join a theater club and find a way to overcome her shyness; Shinzou Sentinel's school club slice-of-life comedy."
 coverImage: "/covers/hinako-note.jpg"
 amazonASIN: "1626927049"
-publishedAt: "2026-05-22"
+publishedAt: "2026-01-08"
 tags: ["slice-of-life", "comedy", "completed", "teen", "seven-seas", "school", "theater", "moe"]
 rating: 3
 hasAffiliate: true

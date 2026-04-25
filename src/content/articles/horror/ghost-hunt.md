@@ -17,7 +17,7 @@ contentWarnings: ["supernatural horror", "paranormal investigation", "some distu
 description: "Yu's review of Ghost Hunt — Mai Taniyama begins working as an assistant at Shibuya Psychic Research, a paranormal investigation firm run by the teenage Kazuya Shibuya (Naru); the firm investigates haunting cases with a team of specialists including a monk, a shrine maiden, a Catholic priest, and a spiritual medium."
 coverImage: "/covers/ghost-hunt.jpg"
 amazonASIN: "1612620477"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-24"
 tags: ["horror", "mystery", "completed", "supernatural", "paranormal", "shoujo"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["social anxiety comedy", "misunderstanding-based humor", "scho
 description: "Yu's review of Handa-kun — Sei Handa is a high school calligraphy genius who is adored by everyone at school; he is completely convinced everyone hates him; this prequel to Barakamon follows his high school years as a chain of massive misunderstandings about his social position."
 coverImage: "/covers/handa-kun.jpg"
 amazonASIN: "031624895X"
-publishedAt: "2026-05-25"
+publishedAt: "2026-01-04"
 tags: ["slice-of-life", "comedy", "school-life", "completed", "teen", "yen-press", "barakamon-prequel", "misunderstanding"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["heavy alcohol content", "nudity (played for comedy)", "adult 
 description: "Yu's review of Grand Blue Dreaming — a college freshman joins his uncle's dive shop, intends to actually dive and study, and instead finds himself drawn into extreme drinking culture with his diving club's terrifying seniors."
 coverImage: "/covers/grand-blue.jpg"
 amazonASIN: "1632366665"
-publishedAt: "2026-04-24"
+publishedAt: "2026-01-03"
 tags: ["slice-of-life", "comedy", "college", "ongoing", "diving"]
 rating: 4
 hasAffiliate: true

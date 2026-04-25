@@ -17,7 +17,7 @@ contentWarnings: ["spirit world setting", "arranged marriage premise", "supernat
 description: "Yu's review of Kakuriyo: Bed & Breakfast for Spirits — Aoi Tsubaki, who can see spirits, discovers her late grandfather left a debt to Ōdanna, master of a spirit inn in the hidden realm; Ōdanna intends for Aoi to marry him to settle the debt; Aoi refuses and instead offers to work off the debt by cooking at the inn."
 coverImage: "/covers/kakuriyo.jpg"
 amazonASIN: "1974701409"
-publishedAt: "2026-05-10"
+publishedAt: "2024-12-30"
 tags: ["fantasy", "romance", "spirit-world", "completed", "teen", "viz-media", "cooking", "supernatural"]
 rating: 3
 hasAffiliate: true

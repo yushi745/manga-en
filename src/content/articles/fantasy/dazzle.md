@@ -17,7 +17,7 @@ contentWarnings: ["fantasy comedy violence", "eccentric cast", "power imbalance 
 description: "Yu's review of Dazzle (Hatenko Yuugi) — Rahzel was thrown out of her house by her father to 'see the world'; she travels with Alzeid, a man seeking his father's killer, and Baroqueheat, his partner; her magical ability to copy any ability she has seen once makes her more dangerous than she appears in a series where the comedy and the action balance constantly."
 coverImage: "/covers/dazzle.jpg"
 amazonASIN: "1595322965"
-publishedAt: "2026-05-10"
+publishedAt: "2024-12-01"
 tags: ["fantasy", "comedy", "completed", "teen", "tokyopop", "copy-ability", "travel-fantasy", "eccentric"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["nuclear disaster themes", "radiation sickness", "survival the
 description: "Yu's review of Coppelion — 20 years after a nuclear disaster has devastated Tokyo, genetically engineered schoolgirls called Coppelion who are immune to radiation are sent into the contaminated zone to search for and rescue survivors."
 coverImage: "/covers/coppelion.jpg"
 amazonASIN: "1421591022"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-20"
 tags: ["sci-fi", "drama", "completed", "nuclear", "post-apocalyptic", "genetic-engineering"]
 rating: 3
 hasAffiliate: true

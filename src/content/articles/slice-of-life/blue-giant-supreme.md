@@ -17,7 +17,7 @@ contentWarnings: ["music performance", "jazz culture in Europe", "language barri
 description: "Yu's review of Blue Giant Supreme — Dai Miyamoto leaves Japan to take his saxophone to Europe; in Germany, he encounters musicians from across the continent and begins building toward performing in the world's top jazz venues, continuing the story from Blue Giant."
 coverImage: "/covers/blue-giant-supreme.jpg"
 amazonASIN: "1638580936"
-publishedAt: "2026-05-18"
+publishedAt: "2025-12-15"
 tags: ["slice-of-life", "music", "completed", "teen", "seven-seas", "jazz", "europe", "saxophone"]
 rating: 5
 hasAffiliate: true

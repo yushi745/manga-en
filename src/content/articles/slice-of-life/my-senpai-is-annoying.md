@@ -17,7 +17,7 @@ contentWarnings: ["workplace romance", "age difference in relationship"]
 description: "Yu's review of My Senpai Is Annoying — Futaba Igarashi is a small and serious office worker; her senpai Harumi Takeda is loud, cheerful, and treats her like a little sister in ways she finds aggravating; she is slowly falling in love with him and is annoyed about this; office romance slice of life with workplace context."
 coverImage: "/covers/my-senpai-is-annoying.jpg"
 amazonASIN: "1648275958"
-publishedAt: "2026-04-25"
+publishedAt: "2026-02-02"
 tags: ["slice-of-life", "romance", "ongoing", "teen", "seven-seas", "office", "workplace"]
 rating: 4
 hasAffiliate: true

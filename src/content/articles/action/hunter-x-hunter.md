@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "psychological horror elements", "death", "
 description: "Yu's review of Hunter x Hunter — 37 volumes of the most intelligent action manga ever written, from the creator of Yu Yu Hakusho. A series that keeps reinventing itself and never stops being the best thing it possibly can be, when it's being published."
 coverImage: "/covers/hunter-x-hunter.jpg"
 amazonASIN: "B00FPLMVJS"
-publishedAt: "2026-04-23"
+publishedAt: "2024-09-06"
 tags: ["shonen", "action", "adventure", "ongoing", "psychological", "classic"]
 rating: 5
 hasAffiliate: true

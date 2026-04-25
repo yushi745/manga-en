@@ -17,7 +17,7 @@ contentWarnings: ["death game content", "social media themes", "psychological vi
 description: "Yu's review of Real Account — users of the social media platform Real Account are sucked into a virtual world for a death game; the game's core rule: when you die in the game, all your followers die in the real world; the series becomes a thriller about social media relationships, the nature of online connection, and whether the people who follow you would risk anything for you."
 coverImage: "/covers/real-account.jpg"
 amazonASIN: "1632362724"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-16"
 tags: ["sci-fi", "thriller", "completed", "teen-plus", "kodansha", "death-game", "social-media"]
 rating: 4
 hasAffiliate: true

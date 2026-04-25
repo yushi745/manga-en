@@ -17,7 +17,7 @@ contentWarnings: ["parenting themes", "manga industry jokes", "light drama", "ti
 description: "Yu's review of Kakushigoto — Goto Kakushi draws lewd manga for a living and is desperate to keep his daughter Hime from finding out; his single-father life is structured around this secret; Koji Kumeta's comedy-drama about a father's embarrassment and love for his daughter."
 coverImage: "/covers/kakushigoto.jpg"
 amazonASIN: "1632365537"
-publishedAt: "2026-05-25"
+publishedAt: "2026-01-18"
 tags: ["slice-of-life", "comedy", "drama", "completed", "teen", "kodansha", "single-father", "manga-industry"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["isekai violence", "slavery themes in opening arc", "some batt
 description: "Yu's review of Reincarnated as a Sword — a man reincarnates in another world as a sentient magic sword with no body and no name; he is found and wielded by Fran, a young beastgirl who has been enslaved; together they travel and fight, Fran seeking strength to free her people and the sword seeking to understand his new existence."
 coverImage: "/covers/reincarnated-as-a-sword.jpg"
 amazonASIN: "1626929688"
-publishedAt: "2026-04-25"
+publishedAt: "2025-01-25"
 tags: ["fantasy", "isekai", "ongoing", "seven-seas", "non-human-protagonist"]
 rating: 4
 hasAffiliate: true

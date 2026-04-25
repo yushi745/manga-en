@@ -17,7 +17,7 @@ contentWarnings: ["comedy violence", "parody content", "gag manga style", "chara
 description: "Yu's review of My Hero Academia: Smash!! — the official comedy spin-off of My Hero Academia; Deku, All Might, Bakugo, and the entire cast of UA High reimagined as gag manga characters; Hirofumi Neda's parody of Kohei Horikoshi's hero universe that finds every possible comedy angle in the source material."
 coverImage: "/covers/my-hero-academia-smash.jpg"
 amazonASIN: "1974700356"
-publishedAt: "2026-05-29"
+publishedAt: "2024-09-26"
 tags: ["action", "comedy", "completed", "teen", "viz-media", "spin-off", "parody", "mha"]
 rating: 3
 hasAffiliate: true

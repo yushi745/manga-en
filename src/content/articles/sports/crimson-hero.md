@@ -17,7 +17,7 @@ contentWarnings: ["family conflict", "sports drama", "mild romantic content"]
 description: "Yu's review of Crimson Hero — Nobara Sumiyoshi is the eldest daughter of a traditional Japanese restaurant family and is expected to take over; she chooses volleyball instead, is cut off by her family, and must rebuild her life around the sport she loves while fighting to get her school's girls' volleyball club taken seriously."
 coverImage: "/covers/crimson-hero.jpg"
 amazonASIN: "1421504324"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-22"
 tags: ["sports", "drama", "completed", "volleyball", "shoujo", "female-lead"]
 rating: 4
 hasAffiliate: true

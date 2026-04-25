@@ -17,7 +17,7 @@ contentWarnings: ["themes of predestination and free will", "clone identity them
 description: "Yu's review of Afterschool Charisma — St. Kleio Academy is a school for the clones of history's most significant people: Beethoven, Napoleon, Florence Nightingale, Marie Curie, Hitler, Freud, Joan of Arc; Shiro Kamiya, the only non-clone student, must navigate a school where his classmates carry the weight of the greatness they were created to surpass."
 coverImage: "/covers/afterschool-charisma.jpg"
 amazonASIN: "1421533456"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-04"
 tags: ["sci-fi", "drama", "completed", "clones", "identity", "historical-figures", "josei"]
 rating: 4
 hasAffiliate: true

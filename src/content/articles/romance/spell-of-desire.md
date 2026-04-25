@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "some sensual content", "witch magic t
 description: "Yu's review of Spell of Desire — Kaoruko Mochizuki discovers she's a half-witch with uncontrolled magical powers; Kagari Sudo, a Knightguard Witch Hunter, is assigned to contain her powers; Tomu Ohmi's supernatural romance about a woman discovering her heritage and the complicated guardian assigned to her."
 coverImage: "/covers/spell-of-desire.jpg"
 amazonASIN: "1421568985"
-publishedAt: "2026-05-27"
+publishedAt: "2025-08-31"
 tags: ["romance", "fantasy", "completed", "teen-plus", "viz-media", "witch", "supernatural-romance", "shojo"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["workplace comedy", "character type humor", "mild romantic ele
 description: "Yu's review of Blend S — Maika Sakuranomiya gets a job at Café Stile, where each waitress plays a distinct character type for the customers; Maika is assigned the sadistic type because her natural face scares people, though she is actually sweet-natured; the gap between character and reality is the series' central comedy."
 coverImage: "/covers/blend-s.jpg"
 amazonASIN: "1626929327"
-publishedAt: "2026-05-13"
+publishedAt: "2025-12-14"
 tags: ["slice-of-life", "comedy", "completed", "teen", "seven-seas", "cafe", "workplace", "character-type"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["historical violence", "gender disguise", "samurai period sett
 description: "Yu's review of Kaze Hikaru — Sei Tominaga disguises herself as a boy to join the Shinsengumi and avenge her family's death; she serves under Saito Hajime, who discovers her secret but keeps it; the series follows her life in the Shinsengumi through the turbulent end of the Edo period with Watanabe's unusually thorough historical research."
 coverImage: "/covers/kaze-hikaru.jpg"
 amazonASIN: "1421500566"
-publishedAt: "2026-05-08"
+publishedAt: "2025-07-11"
 tags: ["romance", "historical", "samurai", "ongoing", "teen", "viz-media", "shinsengumi", "gender-disguise"]
 rating: 4
 hasAffiliate: true

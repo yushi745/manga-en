@@ -16,7 +16,7 @@ contentWarnings: ["teen romance", "alternate universe themes", "identity themes"
 description: "Yu's review of The Disappearance of Nagato Yuki-chan — a spin-off/alternate universe from The Melancholy of Haruhi Suzumiya; in this version, Yuki Nagato is a shy human girl who runs the Literature Club and has a quiet crush on Kyon; the series is a warm school romantic comedy that operates independently of the original series while rewarding fans of it."
 coverImage: "/covers/nagato-yuki-chan.jpg"
 amazonASIN: "0316344834"
-publishedAt: "2026-04-25"
+publishedAt: "2025-08-04"
 tags: ["romance", "comedy", "completed", "teen", "yen-press", "alternate-universe", "haruhi-spinoff"]
 rating: 4
 hasAffiliate: true

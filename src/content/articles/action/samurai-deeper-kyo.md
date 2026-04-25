@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "historical violence", "dual-personality th
 description: "Yu's review of Samurai Deeper Kyo — after the Battle of Sekigahara, the legendary demon-eyes samurai Demon Eyes Kyo's soul is sealed inside the body of Kyoshiro Mibu, a wandering medicine seller; four years later, Kyo's consciousness begins to emerge, and the search for his original body begins."
 coverImage: "/covers/samurai-deeper-kyo.jpg"
 amazonASIN: "1591825148"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-16"
 tags: ["action", "historical", "completed", "dual-personality", "samurai", "sengoku"]
 rating: 3
 hasAffiliate: true

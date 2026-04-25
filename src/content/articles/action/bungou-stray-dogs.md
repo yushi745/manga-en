@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "supernatural ability battles", "dark theme
 description: "Yu's review of Bungou Stray Dogs — Atsushi Nakajima, orphan with an unknown power, is recruited by the Armed Detective Agency whose members all have abilities named after famous authors; the agency operates in Yokohama alongside the Port Mafia and international organizations in a city where ability users shape every conflict."
 coverImage: "/covers/bungou-stray-dogs.jpg"
 amazonASIN: "0316312169"
-publishedAt: "2026-05-10"
+publishedAt: "2024-08-08"
 tags: ["action", "mystery", "ability-users", "ongoing", "teen", "yen-press", "literary-references", "yokohama"]
 rating: 4
 hasAffiliate: true

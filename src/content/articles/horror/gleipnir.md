@@ -17,7 +17,7 @@ contentWarnings: ["body horror", "sexual content", "violent action", "disturbing
 description: "Yu's review of Gleipnir — Shuichi Kagaya transforms into a monster suit — a hollow mascot-like costume — and a girl named Clair climbs inside him to use his power for her own goals; she wants to find her sister, who is involved in a violent game where participants collect coins to make a wish from an alien being; the horror of the premise deepens as the game's rules become clear."
 coverImage: "/covers/gleipnir.jpg"
 amazonASIN: "1632367157"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-25"
 tags: ["horror", "action", "completed", "mature", "kodansha", "body-horror"]
 rating: 4
 hasAffiliate: true

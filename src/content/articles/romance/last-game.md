@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Last Game — Yanagi Naoto has been trying to beat Kujou Mikoto since elementary school, when this ordinary girl showed up and outdid him in everything; now in university, he is still competing with her and still losing — and has finally realized the competition was never the point."
 coverImage: "/covers/last-game.jpg"
 amazonASIN: "1421583437"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-16"
 tags: ["romance", "comedy", "shojo", "completed", "school", "rivals"]
 rating: 4
 hasAffiliate: true

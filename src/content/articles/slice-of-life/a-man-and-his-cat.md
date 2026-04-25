@@ -17,7 +17,7 @@ contentWarnings: ["grief (widow backstory)", "mild emotional content"]
 description: "Yu's review of A Man and His Cat — an ugly, perpetually unsold cat at the pet store is finally adopted by a retired music teacher who recently lost his wife; the series is about the happiness of second chances and the specific way a pet fills a kind of loneliness nothing else touches."
 coverImage: "/covers/a-man-and-his-cat.jpg"
 amazonASIN: "1646090268"
-publishedAt: "2026-04-24"
+publishedAt: "2025-12-04"
 tags: ["slice-of-life", "cats", "seinen", "ongoing", "wholesome", "grief"]
 rating: 5
 hasAffiliate: true

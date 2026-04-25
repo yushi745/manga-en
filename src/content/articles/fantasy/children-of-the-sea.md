@@ -17,7 +17,7 @@ contentWarnings: ["philosophical and spiritual content", "abstract visual sequen
 description: "Yu's review of Children of the Sea — Ruka, a middle school girl suspended from her handball team, encounters two boys named Umi and Sora who were raised by dugongs in the ocean; fish around the world are disappearing; the ocean is holding something ancient; Daisuke Igarashi's visually extraordinary manga about the relationship between human consciousness and the sea."
 coverImage: "/covers/children-of-the-sea.jpg"
 amazonASIN: "1421529718"
-publishedAt: "2026-05-29"
+publishedAt: "2024-11-29"
 tags: ["fantasy", "mystery", "completed", "teen-plus", "viz-media", "ocean", "spiritual", "literary"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["harem fantasy", "overpowered protagonist", "lighthearted tone
 description: "Yu's review of In Another World with My Smartphone — God accidentally kills Touya Mochizuki with a lightning bolt; as compensation He reincarnates him in a fantasy world with all his memories and his smartphone, which now works in the new world; Touya is very powerful and everyone loves him."
 coverImage: "/covers/in-another-world-smartphone.jpg"
 amazonASIN: "1626926433"
-publishedAt: "2026-05-06"
+publishedAt: "2024-12-23"
 tags: ["fantasy", "romance", "harem", "isekai", "overpowered", "ongoing", "teen", "seven-seas", "smartphone"]
 rating: 3
 hasAffiliate: true

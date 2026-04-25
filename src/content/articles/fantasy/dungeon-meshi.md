@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "monster cooking (some disturbing imagery)
 description: "Yu's review of Dungeon Meshi — 14 volumes about a party of adventurers who have to eat the monsters they defeat to survive. A cooking manga, a fantasy manga, and one of the most emotionally satisfying completed series of the decade."
 coverImage: "/covers/dungeon-meshi.jpg"
 amazonASIN: "0316471852"
-publishedAt: "2026-04-23"
+publishedAt: "2024-12-07"
 tags: ["fantasy", "adventure", "comedy", "food", "completed", "world-building"]
 rating: 5
 hasAffiliate: true

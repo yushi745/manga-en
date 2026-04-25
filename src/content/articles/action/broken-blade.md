@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Broken Blade — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/broken-blade.jpg"
 amazonASIN: "1626920613"
-publishedAt: "2026-04-25"
+publishedAt: "2024-08-07"
 tags:
   - "action"
   - "mecha"

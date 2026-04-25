@@ -17,7 +17,7 @@ contentWarnings: ["vampire violence", "blood", "sexual content", "assault themes
 description: "Yu's review of Devils' Line — in a modern Japan where vampires exist but are unknown to most humans, half-vampire detective Tsukasa Taira struggles to control his predatory instincts while developing genuine feelings for Ryusei Anzai, a human college student; a romance that uses vampire mythology to explore addiction, control, and what it means to be trusted with someone's safety."
 coverImage: "/covers/devils-line.jpg"
 amazonASIN: "1941220630"
-publishedAt: "2026-04-27"
+publishedAt: "2025-03-16"
 tags: ["horror", "romance", "vampire", "completed", "mature", "vertical", "seinen"]
 rating: 4
 hasAffiliate: true

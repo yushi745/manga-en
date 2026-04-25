@@ -17,7 +17,7 @@ contentWarnings: ["dungeon survival themes", "monster combat", "death of human c
 description: "Yu's review of So I'm a Spider, So What? — the unnamed protagonist reincarnates as the weakest possible monster in a dangerous dungeon; she survives through strategy, obsessive skill development, and a determination to stay alive through whatever the dungeon throws at her."
 coverImage: "/covers/im-a-spider.jpg"
 amazonASIN: "1975302079"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-22"
 tags: ["fantasy", "isekai", "completed", "dungeon", "survival", "comedy", "rpg-mechanics"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["supernatural themes", "themes of loneliness and belonging", "
 description: "Yu's review of Natsume's Book of Friends — a teenager who can see spirits inherits a book from his deceased grandmother containing the names of spirits she had bound to her, and must return those names while navigating a world of supernatural beings and the human world he never quite fit into."
 coverImage: "/covers/natsumes-book-of-friends.jpg"
 amazonASIN: "1421532433"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-16"
 tags: ["fantasy", "supernatural", "shojo", "ongoing", "spirits", "healing", "classic"]
 rating: 5
 hasAffiliate: true

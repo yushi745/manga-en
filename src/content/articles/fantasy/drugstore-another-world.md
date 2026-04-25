@@ -17,7 +17,7 @@ contentWarnings: ["mild fantasy content", "slow life themes"]
 description: "Yu's review of Drugstore in Another World — Reiji was a corporate employee who worked himself to exhaustion before being reincarnated in a fantasy world; given exceptional skill in pharmacology and potion-making, he opens a drugstore and uses modern pharmaceutical knowledge combined with fantasy ingredients to help the local community; slow-life isekai with genuine warmth."
 coverImage: "/covers/drugstore-another-world.jpg"
 amazonASIN: "1975354990"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-06"
 tags: ["fantasy", "isekai", "slice-of-life", "ongoing", "all-ages", "yen-press", "slow-life"]
 rating: 3
 hasAffiliate: true

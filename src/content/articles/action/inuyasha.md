@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "themes of loss and death", "romance"]
 description: "Yu's review of InuYasha — a modern high school girl falls through a well into feudal Japan, meets a half-demon with dog ears, and must help collect the shards of a shattered magical jewel before an evil villain uses them to destroy everything."
 coverImage: "/covers/inuyasha.jpg"
 amazonASIN: "1569312621"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-09"
 tags: ["action", "fantasy", "romance", "historical", "completed", "classic"]
 rating: 4
 hasAffiliate: true

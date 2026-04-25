@@ -17,7 +17,7 @@ contentWarnings: ["psychic violence", "cult themes", "themes of manipulation and
 description: "Yu's review of Mob Psycho 100 — 16 volumes about the most powerful psychic in the world, who just wants to get better at talking to his crush. The best manga about emotional suppression, growing up, and what actual strength looks like."
 coverImage: "/covers/mob-psycho-100.jpg"
 amazonASIN: "B07PVF5VN4"
-publishedAt: "2026-04-23"
+publishedAt: "2024-09-24"
 tags: ["shonen", "comedy", "action", "completed", "psychological", "coming-of-age"]
 rating: 5
 hasAffiliate: true

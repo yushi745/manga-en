@@ -17,7 +17,7 @@ contentWarnings: ["fantasy dungeon action", "spinoff content", "magical violence
 description: "Yu's review of Sword Oratoria — the DanMachi spinoff following Aiz Wallenstein, the Sword Princess whose reputation bell encounters are afraid of; the series follows her and the Loki Familia in the dungeon's deeper floors, covering events that parallel and intersect the main DanMachi series from a different perspective."
 coverImage: "/covers/sword-oratoria.jpg"
 amazonASIN: "0316558338"
-publishedAt: "2026-05-14"
+publishedAt: "2025-02-08"
 tags: ["fantasy", "action", "completed", "teen", "yen-press", "danmachi", "dungeon", "spinoff"]
 rating: 3
 hasAffiliate: true

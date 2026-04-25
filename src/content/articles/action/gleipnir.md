@@ -17,7 +17,7 @@ contentWarnings: ["violence", "disturbing content", "body horror", "sexual theme
 description: "Yu's review of Gleipnir — Shuichi can transform into a large, empty monster suit; Clair discovers this and climbs inside him to control his transformed body, and together they enter a game where humans who collected alien coins can have any wish granted."
 coverImage: "/covers/gleipnir.jpg"
 amazonASIN: "1632367637"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-30"
 tags: ["action", "supernatural", "mature", "completed", "seinen", "psychological"]
 rating: 4
 hasAffiliate: true

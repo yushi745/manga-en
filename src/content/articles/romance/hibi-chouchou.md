@@ -17,7 +17,7 @@ contentWarnings: ["shojo romance", "mild martial arts content", "slow burn roman
 description: "Yu's review of Hibi Chouchou: Everyday Butterflies — Suiren Shibazeki is so beautiful and quiet that people find her unapproachable; Kawasumi is so internally focused that he barely notices others; they notice each other, and what follows is one of the most unhurried and genuinely tender slow-burn romances in shojo manga."
 coverImage: "/covers/hibi-chouchou.jpg"
 amazonASIN: "1421595907"
-publishedAt: "2026-04-28"
+publishedAt: "2025-06-26"
 tags: ["romance", "shojo", "completed", "teen", "viz", "school", "slow-burn", "martial-arts"]
 rating: 5
 hasAffiliate: true

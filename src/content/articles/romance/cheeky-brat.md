@@ -17,7 +17,7 @@ contentWarnings: ["age gap (high school / young adult)", "light romance", "workp
 description: "Yu's review of Cheeky Brat — Yuki Namito treats his older colleague Matsuri Ochiai like a younger sister despite her being his senior; when she starts to respond differently to his attention, both of them have to reckon with what they actually feel."
 coverImage: "/covers/cheeky-brat.jpg"
 amazonASIN: "1421598906"
-publishedAt: "2026-05-01"
+publishedAt: "2025-05-27"
 tags: ["romance", "comedy", "shojo", "completed", "teen", "viz", "workplace", "age-gap"]
 rating: 4
 hasAffiliate: true

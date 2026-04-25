@@ -17,7 +17,7 @@ contentWarnings: ["sexual content", "adult romance", "mature themes"]
 description: "Yu's review of Sweat and Soap — Asako Yaeshima sweats profusely and has always been ashamed of it; Kotaro Natori works in product development for a hygiene company and has an extremely sensitive nose; he encounters Asako and finds her natural scent extraordinary; what follows is an adult romance about two people whose specific qualities fit together in an unexpected way."
 coverImage: "/covers/sweat-and-soap.jpg"
 amazonASIN: "1632368137"
-publishedAt: "2026-04-25"
+publishedAt: "2026-02-25"
 tags: ["slice-of-life", "romance", "completed", "mature", "kodansha", "adult"]
 rating: 4
 hasAffiliate: true

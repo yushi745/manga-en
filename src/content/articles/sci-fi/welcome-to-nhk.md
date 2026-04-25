@@ -17,7 +17,7 @@ contentWarnings: ["depression", "social anxiety", "hikikomori lifestyle", "suici
 description: "Yu's review of Welcome to the NHK — Tatsuhiro Sato has been a hikikomori (shut-in) for four years, convinced that Japan's public broadcaster NHK is running a conspiracy to create hikikomori; a mysterious girl named Misaki begins visiting him and offers to help him rejoin society, for reasons he cannot understand."
 coverImage: "/covers/welcome-to-nhk.jpg"
 amazonASIN: "0345496027"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-28"
 tags: ["sci-fi", "psychological", "seinen", "completed", "hikikomori", "dark-comedy"]
 rating: 5
 hasAffiliate: true

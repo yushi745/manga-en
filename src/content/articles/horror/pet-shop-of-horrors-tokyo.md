@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Pet Shop of Horrors: Tokyo — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/pet-shop-of-horrors-tokyo.jpg"
 amazonASIN: "1427808228"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-22"
 tags:
   - "horror"
   - "supernatural"

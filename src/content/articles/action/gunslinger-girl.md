@@ -17,7 +17,7 @@ contentWarnings: ["child trauma", "child soldiers/assassins", "violence", "condi
 description: "Yu's review of Gunslinger Girl — the Social Welfare Agency of Italy rescues girls from terminal illness or traumatic situations and gives them cybernetic bodies and psychological conditioning; each girl is paired with a handler and used for government counter-terrorism work; the series examines what this costs them."
 coverImage: "/covers/gunslinger-girl.jpg"
 amazonASIN: "1626923914"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-03"
 tags: ["action", "drama", "completed", "cyberpunk", "psychological", "mature", "seinen"]
 rating: 4
 hasAffiliate: true

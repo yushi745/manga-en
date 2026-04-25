@@ -17,7 +17,7 @@ contentWarnings: ["fan service (mild)", "magic tricks", "club comedy", "accident
 description: "Yu's review of Magical Sempai — the assistant joins the magic club to fill a club requirement and meets his sempai: a girl who loves magic with genuine passion but suffers from stage fright severe enough that every public performance goes catastrophically wrong."
 coverImage: "/covers/magical-sempai.jpg"
 amazonASIN: "1632367254"
-publishedAt: "2026-05-16"
+publishedAt: "2026-01-23"
 tags: ["slice-of-life", "comedy", "completed", "teen", "kodansha", "magic", "club", "stage-fright"]
 rating: 3
 hasAffiliate: true

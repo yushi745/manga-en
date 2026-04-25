@@ -17,7 +17,7 @@ contentWarnings: ["explicit fanservice", "graphic violence", "mature sexual cont
 description: "Yu's review of Freezing — In a world repeatedly invaded by alien entities called Nova, specially engineered female soldiers called Pandoras and their male partners called Limiters fight humanity's defensive war; Kazuya Aoi enrolls at West Genetics academy and partners with the untouchable strongest student Satellizer el Bridget."
 coverImage: "/covers/freezing.jpg"
 amazonASIN: "1934876046"
-publishedAt: "2026-05-16"
+publishedAt: "2024-08-27"
 tags: ["action", "sci-fi", "completed", "mature", "seven-seas", "ecchi", "military", "alien-invasion"]
 rating: 3
 hasAffiliate: true

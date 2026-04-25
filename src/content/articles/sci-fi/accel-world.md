@@ -17,7 +17,7 @@ contentWarnings: ["virtual reality combat", "bullying themes", "mild violence"]
 description: "Yu's review of Accel World — Haruyuki Arita, a bullied student who escapes into online games, is recruited into Brain Burst, a secret augmented reality fighting game where time can be accelerated; the manga adaptation of Reki Kawahara's light novel series explores themes of acceleration, identity, and what it means to fight for something real."
 coverImage: "/covers/accel-world.jpg"
 amazonASIN: "0316296570"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-04"
 tags: ["sci-fi", "virtual-reality", "action", "completed", "teen", "yen-press", "light-novel-adaptation"]
 rating: 3
 hasAffiliate: true

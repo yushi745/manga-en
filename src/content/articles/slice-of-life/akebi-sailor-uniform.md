@@ -17,7 +17,7 @@ contentWarnings: ["school setting", "costume detail", "coming-of-age themes", "l
 description: "Yu's review of Akebi's Sailor Uniform — Komichi Akebi has dreamed of attending Roubai Academy specifically to wear the sailor uniform her mother wore there; when she arrives, she discovers the school has switched to blazers; the headmaster makes an exception for her, and she is the only student in a sailor uniform, which becomes both a barrier and a bridge to her classmates."
 coverImage: "/covers/akebi-sailor-uniform.jpg"
 amazonASIN: "1638581520"
-publishedAt: "2026-05-20"
+publishedAt: "2025-12-07"
 tags: ["slice-of-life", "school", "ongoing", "teen", "seven-seas", "sailor-uniform", "coming-of-age", "warm"]
 rating: 4
 hasAffiliate: true

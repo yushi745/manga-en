@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Busou Renkin — a boy is killed by a homunculus and revived by an alchemist warrior using a kakugane medallion; he joins the fight against the creatures threatening humanity."
 coverImage: "/covers/busou-renkin.jpg"
 amazonASIN: "1421510987"
-publishedAt: "2026-04-26"
+publishedAt: "2024-08-09"
 tags:
   - "shonen"
   - "action"

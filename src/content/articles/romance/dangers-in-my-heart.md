@@ -17,7 +17,7 @@ contentWarnings: ["dark humor about violent fantasies", "social anxiety and isol
 description: "Yu's review of The Dangers in My Heart — Kyotaro Ichikawa is an antisocial, dark middle schooler who fantasizes about hurting people and considers himself a dangerous person; Anna Yamada is a popular model classmate who keeps seeking out the library where he hides; his determination to dislike her keeps failing."
 coverImage: "/covers/dangers-in-my-heart.jpg"
 amazonASIN: "1975350847"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-02"
 tags: ["romance", "comedy", "completed", "middle-school", "antisocial-protagonist", "shonen"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["forced killing game", "family murder", "psychological horror"
 description: "Yu's review of Alice in Murderland — the nine children of the Kuonji family gather annually in Alice in Wonderland costumes for their mother's party; this year the mother reveals that one of them must kill all the others to survive and claim the family legacy; the youngest, Stella, has a split personality whose other side is dangerous."
 coverImage: "/covers/alice-in-murderland.jpg"
 amazonASIN: "1421597071"
-publishedAt: "2026-05-10"
+publishedAt: "2025-03-04"
 tags: ["horror", "fantasy", "completed", "mature", "viz-media", "killing-game", "kaori-yuki", "psychological"]
 rating: 3
 hasAffiliate: true

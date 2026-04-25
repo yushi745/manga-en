@@ -17,7 +17,7 @@ contentWarnings: ["brutal training sequences", "fantasy battle violence", "comed
 description: "Yu's review of The Wrong Way to Use Healing Magic — Usato is accidentally summoned to another world along with two heroes; the kingdom's healer Rose assigns herself to train him personally, using methods that include physical conditioning so extreme it would hospitalize a normal person."
 coverImage: "/covers/wrong-way-healing-magic.jpg"
 amazonASIN: "1975343468"
-publishedAt: "2026-05-03"
+publishedAt: "2025-02-27"
 tags: ["fantasy", "action", "isekai", "healing", "ongoing", "teen", "yen-press", "training"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["imprisonment", "child abuse", "postwar trauma", "family viole
 description: "Yu's review of Ayako — in the early postwar period, the Tenge family imprisons their youngest daughter Ayako to protect a wartime secret; she grows up in a cellar, cut off from the world; when she finally escapes, the world has changed but the secrets haven't; Osamu Tezuka's historical thriller about Japan's inability to face its wartime past."
 coverImage: "/covers/ayako.jpg"
 amazonASIN: "1934287539"
-publishedAt: "2026-05-29"
+publishedAt: "2024-07-27"
 tags: ["action", "drama", "historical", "completed", "mature", "vertical", "tezuka", "postwar", "classic"]
 rating: 5
 hasAffiliate: true

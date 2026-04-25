@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "war themes", "slavery depicted as a histor
 description: "Yu's review of Magi — 37 volumes of fantasy adventure inspired by One Thousand and One Nights. Aladdin, Alibaba, and Morgiana journey through a world of dungeons, djinn, and empires, in one of the most ambitious and underrated manga of its era."
 coverImage: "/covers/magi.jpg"
 amazonASIN: "142155951X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-07"
 tags: ["fantasy", "adventure", "completed", "shonen", "political", "world-building"]
 rating: 5
 hasAffiliate: true

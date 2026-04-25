@@ -17,7 +17,7 @@ contentWarnings: ["hero action", "lighter tone than main series", "team comedy",
 description: "Yu's review of My Hero Academia: Team-Up Missions — a spinoff series featuring U.A. students paired with professional heroes from different agencies for joint training missions; lighter in tone than the main series, focused on character interactions and comedy."
 coverImage: "/covers/my-hero-academia-team-up-missions.jpg"
 amazonASIN: "1974731316"
-publishedAt: "2026-05-18"
+publishedAt: "2024-09-27"
 tags: ["action", "comedy", "completed", "teen", "viz-media", "my-hero-academia", "spinoff", "character-focused"]
 rating: 3
 hasAffiliate: true

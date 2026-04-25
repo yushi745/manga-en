@@ -17,7 +17,7 @@ contentWarnings: ["extreme disaster and violence", "psychological horror", "surv
 description: "Yu's review of Dragon Head — a school trip's train emerges from a mountain tunnel to find Japan destroyed; three survivors emerge from the tunnel's wreckage into a world with no explanation and no rescue; the series follows their survival through a transformed Japan."
 coverImage: "/covers/dragon-head.jpg"
 amazonASIN: "1591827825"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-19"
 tags: ["horror", "thriller", "survival", "completed", "mature", "tokyopop", "psychological"]
 rating: 5
 hasAffiliate: true

@@ -21,7 +21,7 @@ contentWarnings:
 description: "A comprehensive review of Downfall — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/downfall.jpg"
 amazonASIN: "1974721752"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-26"
 tags:
   - "drama"
   - "literary"

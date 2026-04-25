@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "historical setting", "curse themes",
 description: "Yu's review of Mao — middle school girl Nanoka Kiba can slip between present-day Tokyo and Taisho-era Japan, where she encounters Mao, an onmyouji cursed with immortality who is searching for the source of his curse; together they investigate supernatural cases while pursuing the connection that links their lives across a century."
 coverImage: "/covers/mao.jpg"
 amazonASIN: "1974718867"
-publishedAt: "2026-04-26"
+publishedAt: "2025-01-10"
 tags: ["fantasy", "supernatural", "historical", "ongoing", "teen", "viz", "takahashi-rumiko", "yokai"]
 rating: 4
 hasAffiliate: true

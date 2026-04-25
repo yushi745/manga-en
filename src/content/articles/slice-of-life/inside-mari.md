@@ -17,7 +17,7 @@ contentWarnings: ["body swap", "stalking behavior", "hikikomori themes", "gender
 description: "Yu's review of Inside Mari — Isao Komori is a hikikomori who has been watching a high school girl named Mari from a distance; one day he wakes up inside her body; he must navigate her life while searching for what happened to his own body, to the real Mari, and to himself."
 coverImage: "/covers/inside-mari.jpg"
 amazonASIN: "1626927731"
-publishedAt: "2026-05-20"
+publishedAt: "2026-01-15"
 tags: ["slice-of-life", "drama", "completed", "mature", "seven-seas", "body-swap", "psychological", "gender-identity"]
 rating: 4
 hasAffiliate: true

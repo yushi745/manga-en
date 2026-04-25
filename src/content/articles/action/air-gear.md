@@ -17,7 +17,7 @@ contentWarnings: ["fanservice", "violent action", "mature content"]
 description: "Yu's review of Air Gear — in a world where motorized inline skates called Air Trecks allow riders to perform superhuman aerial stunts, a delinquent becomes obsessed with becoming the legendary Sky King."
 coverImage: "/covers/air-gear.jpg"
 amazonASIN: "0345492781"
-publishedAt: "2026-04-24"
+publishedAt: "2024-07-19"
 tags: ["action", "sports", "completed", "mature", "skating"]
 rating: 3
 hasAffiliate: true

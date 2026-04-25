@@ -17,7 +17,7 @@ contentWarnings: ["gym/fitness content", "mild fanservice", "exercise focused", 
 description: "Yu's review of How Heavy Are the Dumbbells You Lift? — Hibiki Sakura joins a gym to lose weight and encounters Machio-kun, an instructor whose gentle appearance conceals an extraordinary physique; the manga provides accurate fitness education through comedy; Sandrovich and MAAM's fitness manga."
 coverImage: "/covers/danberu.jpg"
 amazonASIN: "1645054845"
-publishedAt: "2026-05-23"
+publishedAt: "2026-03-23"
 tags: ["sports", "comedy", "ongoing", "teen-plus", "seven-seas", "fitness", "gym", "educational"]
 rating: 4
 hasAffiliate: true

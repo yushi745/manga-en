@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "explicit content", "philosophical complex
 description: "Yu's review of Ghost in the Shell 2: Man-Machine Interface — the sequel to Shirow's foundational cyberpunk manga, following a distributed form of Motoko's consciousness in a world where human-machine boundaries have dissolved further; more abstract and philosophical than the original, with Shirow's most complex visual design work."
 coverImage: "/covers/ghost-in-the-shell-2.jpg"
 amazonASIN: "1569714762"
-publishedAt: "2026-05-21"
+publishedAt: "2025-10-30"
 tags: ["sci-fi", "cyberpunk", "completed", "mature", "dark-horse", "masamune-shirow", "philosophical", "classic"]
 rating: 4
 hasAffiliate: true

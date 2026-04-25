@@ -17,7 +17,7 @@ contentWarnings: ["school mystery", "low stakes", "gentle romance", "everyday li
 description: "Yu's review of Hyouka — Houtarou Oreki lives by the motto 'if I don't have to do it, I won't; if I do have to do it, make it quick'; joining the Classic Literature Club reluctantly, he meets Eru Chitanda, who is compulsively curious about everything; her 'I'm curious!' draws him into solving the small mysteries of school life despite his energy-conservation philosophy."
 coverImage: "/covers/hyouka.jpg"
 amazonASIN: "1975381556"
-publishedAt: "2026-05-14"
+publishedAt: "2026-01-11"
 tags: ["slice-of-life", "mystery", "completed", "teen", "yen-press", "school", "low-stakes", "romance"]
 rating: 5
 hasAffiliate: true

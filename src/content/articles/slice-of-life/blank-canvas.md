@@ -17,7 +17,7 @@ contentWarnings: ["harsh mentorship", "emotional difficulty", "mild language"]
 description: "Yu's review of Blank Canvas — Akiko Higashimura's autobiographical manga about studying under the notoriously strict art teacher Kametaro Takeuchi in her hometown of Miyazaki; the teacher's methods are harsh, the training is grueling, and the manga is a portrait of how an artist is actually made."
 coverImage: "/covers/blank-canvas.jpg"
 amazonASIN: "1642750557"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-13"
 tags: ["slice-of-life", "memoir", "art", "completed", "teen", "seven-seas", "autobiographical"]
 rating: 5
 hasAffiliate: true

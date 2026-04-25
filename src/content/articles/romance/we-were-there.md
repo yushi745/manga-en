@@ -17,7 +17,7 @@ contentWarnings: ["grief", "emotional manipulation themes", "first love with pai
 description: "Yu's review of We Were There — Nanami Takahashi falls for Motoharu Yano, the most popular boy in class; Yano is still processing the death of his previous girlfriend and the complicated feelings that came with her; the series follows their relationship through high school and into the painful years that follow."
 coverImage: "/covers/we-were-there.jpg"
 amazonASIN: "1421513331"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-22"
 tags: ["romance", "drama", "completed", "first-love", "shoujo", "emotional"]
 rating: 4
 hasAffiliate: true

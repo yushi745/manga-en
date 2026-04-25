@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Sekirei — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/sekirei.jpg"
 amazonASIN: "0759531137"
-publishedAt: "2026-04-25"
+publishedAt: "2024-10-18"
 tags:
   - "action"
   - "harem"

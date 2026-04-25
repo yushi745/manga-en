@@ -17,7 +17,7 @@ contentWarnings: ["reincarnation themes", "past life trauma", "supernatural roma
 description: "Yu's review of Please Save My Earth — Alice Sakaguchi and six other teenagers in contemporary Tokyo discover they are the reincarnations of seven alien scientists who lived on the Moon observing Earth; their past life memories surface through shared dreams; past life emotions and relationships carry into present lives in ways that are not always welcome."
 coverImage: "/covers/please-save-my-earth.jpg"
 amazonASIN: "1591163420"
-publishedAt: "2026-05-08"
+publishedAt: "2025-11-15"
 tags: ["sci-fi", "romance", "reincarnation", "completed", "teen", "viz-media", "classic", "past-life"]
 rating: 5
 hasAffiliate: true

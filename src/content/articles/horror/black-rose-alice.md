@@ -17,7 +17,7 @@ contentWarnings: ["vampire content", "mature romance", "death and reincarnation"
 description: "Yu's review of Black Rose Alice — Dimitri, a vampire who cannot reproduce normally, places his seed in Azusa, a young woman who died in an accident; she wakes in her great-granddaughter's body in contemporary Tokyo, required to choose one of four vampires to mate with and continue the vampire bloodline; the series is a gothic romance with actual horror weight."
 coverImage: "/covers/black-rose-alice.jpg"
 amazonASIN: "1421554909"
-publishedAt: "2026-05-08"
+publishedAt: "2025-03-09"
 tags: ["horror", "romance", "vampire", "completed", "mature", "viz-media", "gothic", "historical"]
 rating: 4
 hasAffiliate: true

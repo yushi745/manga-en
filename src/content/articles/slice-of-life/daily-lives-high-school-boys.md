@@ -17,7 +17,7 @@ contentWarnings: ["mild comedic violence", "teenage boy humor"]
 description: "Yu's review of Daily Lives of High School Boys — a sketch comedy manga observing three high school boys doing nothing in particular: sitting by the river, making up embarrassing scenarios, talking about girls without understanding anything."
 coverImage: "/covers/daily-lives-high-school-boys.jpg"
 amazonASIN: "1949980219"
-publishedAt: "2026-04-24"
+publishedAt: "2025-12-23"
 tags: ["slice-of-life", "comedy", "school", "completed", "boys"]
 rating: 4
 hasAffiliate: true

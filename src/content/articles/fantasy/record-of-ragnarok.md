@@ -17,7 +17,7 @@ contentWarnings: ["intense violence", "blood", "death of major characters"]
 description: "Yu's review of Record of Ragnarok — the gods of every pantheon vote to destroy humanity, but a Valkyrie proposes one final tournament: 13 humans vs. 13 gods, with the fate of mankind as the prize."
 coverImage: "/covers/record-of-ragnarok.jpg"
 amazonASIN: "1974727866"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-24"
 tags: ["fantasy", "action", "mythology", "tournament", "mature", "ongoing"]
 rating: 4
 hasAffiliate: true

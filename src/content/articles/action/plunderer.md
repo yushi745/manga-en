@@ -17,7 +17,7 @@ contentWarnings: ["mature content", "ecchi elements", "war themes", "death", "ac
 description: "Yu's review of Plunderer — in a world where every person has a Count visible on their body representing some aspect of their life, those whose Count reaches zero are dragged into the Abyss; Hina searches for the legendary Ace who her dying mother told her about, and finds Licht Bach."
 coverImage: "/covers/plunderer.jpg"
 amazonASIN: "1974720071"
-publishedAt: "2026-05-02"
+publishedAt: "2024-10-06"
 tags: ["action", "fantasy", "completed", "mature", "viz", "war", "unique-premise"]
 rating: 3
 hasAffiliate: true

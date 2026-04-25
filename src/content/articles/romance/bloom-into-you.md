@@ -17,7 +17,7 @@ contentWarnings: ["yuri (girls' love) romance", "themes of identity and emotiona
 description: "Yu's review of Bloom Into You — Yuu Koito has never understood the romantic feelings people describe; Touko Nanami confesses to her and says she loves that Yuu does not love her back; the series follows both of them as that arrangement becomes impossible."
 coverImage: "/covers/bloom-into-you.jpg"
 amazonASIN: "1626923531"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-20"
 tags: ["romance", "yuri", "completed", "drama", "identity", "school"]
 rating: 5
 hasAffiliate: true

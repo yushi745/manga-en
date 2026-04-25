@@ -17,7 +17,7 @@ contentWarnings: ["alcohol themes", "family conflict"]
 description: "Yu's review of Drops of God — Shizuku Kanzaki's wine critic father dies and leaves his entire collection to whoever can correctly identify the twelve wines described in his will; his adopted rival Issei Tomine already knows wine; Shizuku knows almost nothing; the manga teaches wine through competition."
 coverImage: "/covers/drops-of-god.jpg"
 amazonASIN: "1934287776"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-27"
 tags: ["slice-of-life", "drama", "food", "completed", "teen", "vertical", "wine"]
 rating: 5
 hasAffiliate: true

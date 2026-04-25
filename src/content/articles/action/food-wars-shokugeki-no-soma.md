@@ -17,7 +17,7 @@ contentWarnings: ["explicit foodgasm/ecchi reactions to food", "cooking competit
 description: "Yu's review of Food Wars! — Soma Yukihira is a brash country diner cook who enrolls in the elite Totsuki Culinary Academy, where only 10% of students graduate; cooking duels (shokugeki) determine rank and survival; Soma wants to beat everyone and prove that honest home cooking can stand with the world's finest cuisine."
 coverImage: "/covers/food-wars-shokugeki-no-soma.jpg"
 amazonASIN: "1421572540"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-26"
 tags: ["action", "cooking", "shonen", "completed", "VIZ", "mature"]
 rating: 4
 hasAffiliate: true

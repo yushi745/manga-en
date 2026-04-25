@@ -17,7 +17,7 @@ contentWarnings: ["violence", "themes of death and loss", "mild language"]
 description: "Yu's review of One Piece — the manga that has been running for over 25 years and still feels alive. About freedom, friendship, and one ridiculous boy who refuses to be defined by anyone else's rules."
 coverImage: "/covers/one-piece.jpg"
 amazonASIN: "B00F3HG7ES"
-publishedAt: "2026-04-23"
+publishedAt: "2024-10-02"
 tags: ["shonen", "pirates", "action", "adventure", "classic", "ongoing"]
 rating: 5
 hasAffiliate: true

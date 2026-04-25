@@ -17,7 +17,7 @@ contentWarnings: ["boxing violence", "dystopian setting", "underdog sports story
 description: "Yu's review of Megalo Box — in a future where boxing is enhanced by mechanical exoskeletons, an undocumented fighter called Junk Dog challenges Megalonia, the world championship tournament; manga adaptation of the 50th anniversary Ashita no Joe project about a fighter with nothing to lose."
 coverImage: "/covers/megalo-box.jpg"
 amazonASIN: "1975332326"
-publishedAt: "2026-05-26"
+publishedAt: "2026-04-10"
 tags: ["sports", "action", "sci-fi", "completed", "teen", "yen-press", "boxing", "dystopian"]
 rating: 4
 hasAffiliate: true

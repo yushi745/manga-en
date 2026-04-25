@@ -17,7 +17,7 @@ contentWarnings: ["isekai comedy", "some action content", "female protagonist in
 description: "Yu's review of I Shall Survive Using Potions — Kaoru Nagase was killed in an accident involving a god's transportation error; as compensation she was offered a wish; she asked for a container that could produce any potion she imagined; she uses this to navigate a fantasy world with pragmatic resourcefulness and considerable wit."
 coverImage: "/covers/i-shall-survive-using-potions.jpg"
 amazonASIN: "1638582904"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-20"
 tags: ["fantasy", "isekai", "comedy", "ongoing", "seven-seas", "female-protagonist", "potions"]
 rating: 4
 hasAffiliate: true

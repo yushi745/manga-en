@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "body horror elements", "mecha-organic comb
 description: "Yu's review of Bio-Boosted Armor Guyver — high school student Sho Fukamachi accidentally activates an alien bio-armor unit called Guyver, which bonds to him permanently; the shadowy organization Chronos, which created the armor, wants it back — along with the knowledge of what the armor actually is and what it was designed for; a foundational mecha/bio-armor sci-fi manga."
 coverImage: "/covers/guyver.jpg"
 amazonASIN: "1569318883"
-publishedAt: "2026-04-26"
+publishedAt: "2025-11-01"
 tags: ["sci-fi", "action", "mecha", "bio-armor", "ongoing", "teen-plus", "viz", "classic"]
 rating: 4
 hasAffiliate: true

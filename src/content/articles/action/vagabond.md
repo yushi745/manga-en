@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "historical warfare", "death", "philosophi
 description: "Yu's review of Vagabond — a manga about the historical Miyamoto Musashi's journey to become the greatest swordsman alive, and his gradual understanding that invincibility is not the same as wisdom. Visually the most beautiful manga ever published."
 coverImage: "/covers/vagabond.jpg"
 amazonASIN: "B00FPLNY6U"
-publishedAt: "2026-04-23"
+publishedAt: "2024-11-09"
 tags: ["historical", "action", "mature", "hiatus", "philosophical", "samurai"]
 rating: 5
 hasAffiliate: true

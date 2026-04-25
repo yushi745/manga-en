@@ -19,7 +19,7 @@ contentWarnings:
   - "mild horror elements"
 description: "Yu's review of Night of the Beasts — a girl carries a family curse that transforms anyone who falls in love with her into a murderous beast."
 amazonASIN: "1569318573"
-publishedAt: "2026-04-26"
+publishedAt: "2025-08-06"
 tags:
   - "shojo"
   - "romance"

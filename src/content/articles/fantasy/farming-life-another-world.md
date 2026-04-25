@@ -17,7 +17,7 @@ contentWarnings: ["very mild conflict", "slice-of-life fantasy", "harem elements
 description: "Yu's review of Farming Life in Another World — Hiraku Machio spent most of his life ill and died young; granted a second life by God with restored health and a magic farming tool that can do anything, he starts a farm in an uninhabited forest; the farm grows, the community grows, and his life becomes everything illness prevented."
 coverImage: "/covers/farming-life-another-world.jpg"
 amazonASIN: "1638582963"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-12"
 tags: ["fantasy", "isekai", "slice-of-life", "ongoing", "seven-seas", "farming", "slow-life"]
 rating: 4
 hasAffiliate: true

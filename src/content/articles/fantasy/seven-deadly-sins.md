@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "some fanservice", "themes of war and sacr
 description: "Yu's review of Seven Deadly Sins — a princess secretly seeks the legendary Seven Deadly Sins, a group of powerful and disgraced knights, to save her kingdom from a corrupted Holy Knights order."
 coverImage: "/covers/seven-deadly-sins.jpg"
 amazonASIN: "1612629210"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-01"
 tags: ["fantasy", "action", "shonen", "knights", "completed"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["pursuit romance", "billionaire heir premise", "action chase e
 description: "Yu's review of Flower in a Storm — Riko Kusakabe is an ordinary girl with extraordinary reflexes; Ran Tachibana is an eccentric billionaire's heir who decides within minutes of meeting her that he wants her as his future wife and will accomplish this within a single day."
 coverImage: "/covers/flower-in-a-storm.jpg"
 amazonASIN: "1421532794"
-publishedAt: "2026-05-17"
+publishedAt: "2025-06-12"
 tags: ["romance", "completed", "teen", "viz-media", "billionaire", "pursuit", "action", "two-volume"]
 rating: 3
 hasAffiliate: true

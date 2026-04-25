@@ -17,7 +17,7 @@ contentWarnings: ["mild magical combat", "demon vs. magical girl premise", "soft
 description: "Yu's review of The Demon Girl Next Door — Yuko Yoshida wakes up one day with horns and a tail, awakened as a descendant of a demon clan; her clan's curse can only be lifted by defeating a magical girl; she confronts her school's magical girl, Momo Chiyoda; the magical girl turns out to be friendly, competent, and far stronger; Izumo Ito's comedy manga about the most gentle rivalry."
 coverImage: "/covers/machikado-mazoku.jpg"
 amazonASIN: "1645054012"
-publishedAt: "2026-05-28"
+publishedAt: "2026-01-23"
 tags: ["slice-of-life", "comedy", "magical-girl", "ongoing", "teen", "seven-seas", "iyashikei", "demon-girl"]
 rating: 4
 hasAffiliate: true

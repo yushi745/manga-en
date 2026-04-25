@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Ima Koi: Now I'm in Love — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/ima-koi.jpg"
 amazonASIN: "1974730050"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-14"
 tags:
   - "romance"
   - "slice-of-life"

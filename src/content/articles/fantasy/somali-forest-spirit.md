@@ -17,7 +17,7 @@ contentWarnings: ["themes of mortality", "danger to a child", "emotional ending"
 description: "Yu's review of Somali and the Forest Spirit — a golem assigned to maintain a forest finds a human child and raises her, traveling through a world of monsters and beasts where humans are prey, searching for other humans before his own time runs out."
 coverImage: "/covers/somali-forest-spirit.jpg"
 amazonASIN: "1787743624"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-05"
 tags: ["fantasy", "slice-of-life", "completed", "emotional", "parent-child"]
 rating: 5
 hasAffiliate: true

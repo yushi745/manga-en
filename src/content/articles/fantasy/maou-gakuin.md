@@ -16,7 +16,7 @@ contentWarnings: ["overpowered protagonist", "fantasy violence", "dark magic the
 description: "Yu's review of The Misfit of Demon King Academy — Anos Voldigoad, the legendary Demon King, reincarnates 2,000 years later and enrolls in the Demon King Academy to reclaim his title; everyone thinks he's a fake because his power exceeds what the Academy can measure; Shu's manga about an isekai-adjacent reincarnation where the protagonist is already the strongest."
 coverImage: "/covers/maou-gakuin.jpg"
 amazonASIN: "1646090020"
-publishedAt: "2026-05-26"
+publishedAt: "2025-01-11"
 tags: ["fantasy", "action", "isekai-adjacent", "ongoing", "teen", "square-enix", "overpowered", "demon-king"]
 rating: 3
 hasAffiliate: true

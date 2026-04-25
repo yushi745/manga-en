@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "age gap relationship", "half-siblings",
 description: "Yu's review of Super Lovers — Haru Kaido is sent to Canada to meet his younger half-brother Ren, a feral, untrusting child raised in the wilderness; Haru promises Ren that they will live together in Japan; years later, Ren arrives in Tokyo and the promise must be kept."
 coverImage: "/covers/super-lovers.jpg"
 amazonASIN: "1974700240"
-publishedAt: "2026-05-15"
+publishedAt: "2025-09-03"
 tags: ["romance", "boys-love", "completed", "mature", "sublime", "age-gap", "canada-setting", "found-family"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["student-teacher relationship", "fake marriage premise", "fami
 description: "Yu's review of Faster Than a Kiss — after their parents' deaths, Fumino and her little brother face placement in separate foster homes; her teacher Kazuma Ojiro proposes a secret marriage arrangement so she can keep her brother; what begins as a convenience agreement gradually becomes something genuine."
 coverImage: "/covers/faster-than-a-kiss.jpg"
 amazonASIN: "1421531186"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-11"
 tags: ["romance", "drama", "completed", "teacher-student", "family", "shoujo"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["ballet training intensity", "gender expectations in dance", "
 description: "Yu's review of Dance Dance Danseur — Jumpei Murao has loved ballet since childhood but has been hiding it under a tough-guy persona since his father died; when he encounters a serious ballet student, he chooses to pursue his love of dance against everything that makes it hard for a teenage boy to do so."
 coverImage: "/covers/dance-dance-danseur.jpg"
 amazonASIN: "1646516826"
-publishedAt: "2026-05-18"
+publishedAt: "2026-03-24"
 tags: ["sports", "slice-of-life", "ongoing", "teen", "kodansha", "ballet", "dance", "gender-expectations"]
 rating: 5
 hasAffiliate: true

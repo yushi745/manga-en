@@ -17,7 +17,7 @@ contentWarnings: ["extreme graphic violence", "death", "torture themes", "sexual
 description: "Yu's review of Dead Tube — high school student Machiya is recruited to film footage for a mysterious underground video site where the most disturbing videos win rewards and the losers face death; a horror thriller that escalates its violence and transgression progressively and is not for readers who want restraint."
 coverImage: "/covers/dead-tube.jpg"
 amazonASIN: "1626924279"
-publishedAt: "2026-04-26"
+publishedAt: "2025-03-13"
 tags: ["horror", "thriller", "completed", "mature", "seven-seas", "extreme", "survival"]
 rating: 3
 hasAffiliate: true

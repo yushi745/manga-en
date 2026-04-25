@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Wakaba*Girl — Wakaba Kohashi is from a wealthy family and has attended elite schools her whole life; entering a regular high school, she wants desperately to experience the normal gyaru life she's seen in magazines; Yui Hara's gentle four-panel comedy about friendship and what 'normal' means."
 coverImage: "/covers/wakaba-girl.jpg"
 amazonASIN: "1626921504"
-publishedAt: "2026-05-23"
+publishedAt: "2026-03-03"
 tags: ["slice-of-life", "comedy", "completed", "all-ages", "seven-seas", "school", "four-panel", "cute"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["sports violence", "intense competition themes"]
 description: "Yu's review of Kuroko's Basketball — a player with almost no athletic ability but a complete inability to be noticed joins a basketball team, becoming the shadow who makes the ace shine."
 coverImage: "/covers/kuroko-basketball.jpg"
 amazonASIN: "1421587718"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-06"
 tags: ["sports", "basketball", "shonen", "completed", "fantasy-sports"]
 rating: 4
 hasAffiliate: true

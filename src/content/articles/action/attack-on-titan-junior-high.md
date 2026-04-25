@@ -17,7 +17,7 @@ contentWarnings: ["parody content", "school comedy", "slapstick", "references to
 description: "Yu's review of Attack on Titan: Junior High — the entire cast of Attack on Titan reimagined as middle school students; Titans attend the same school as humans, Eren's lunch is stolen by a Titan, and his determination to fight them is recast as a school rivalry; every element of the main series is translated into school-life comedy."
 coverImage: "/covers/attack-on-titan-junior-high.jpg"
 amazonASIN: "1632361655"
-publishedAt: "2026-05-19"
+publishedAt: "2024-07-25"
 tags: ["action", "comedy", "completed", "teen", "kodansha", "attack-on-titan", "spinoff", "parody", "school"]
 rating: 3
 hasAffiliate: true

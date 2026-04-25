@@ -17,7 +17,7 @@ contentWarnings: ["gender transformation", "action violence", "moderate fan serv
 description: "Yu's review of Ayakashi Triangle — Matsuri Kazamaki is a ninja exorcist who can see and fight ayakashi (spirits); when a powerful spirit turns him into a girl as revenge, he must continue his work as an exorcist while navigating the transformation and his feelings for his childhood friend Suzu."
 coverImage: "/covers/ayakashi-triangle.jpg"
 amazonASIN: "1974732940"
-publishedAt: "2026-05-13"
+publishedAt: "2024-07-27"
 tags: ["action", "completed", "teen", "viz-media", "exorcist", "gender-transformation", "supernatural", "ninja"]
 rating: 3
 hasAffiliate: true

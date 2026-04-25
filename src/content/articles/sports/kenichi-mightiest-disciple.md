@@ -17,7 +17,7 @@ contentWarnings: ["martial arts violence", "fan service", "combat injuries"]
 description: "Yu's review of Kenichi: The Mightiest Disciple — Kenichi Shirahama is a timid high school student who joins a dojo called Ryouzanpaku where six grandmaster-level martial artists each teach him a different style; forced into constant dangerous fights by joining a karate club, he grows from the weakest student to a genuinely skilled fighter through sheer persistence."
 coverImage: "/covers/kenichi-mightiest-disciple.jpg"
 amazonASIN: "1421505983"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-04"
 tags: ["sports", "action", "martial-arts", "completed", "teen", "viz-media", "shonen"]
 rating: 4
 hasAffiliate: true

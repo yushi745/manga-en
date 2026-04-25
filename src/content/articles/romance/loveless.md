@@ -17,7 +17,7 @@ contentWarnings: ["mature themes", "age gap relationship", "psychological conten
 description: "Yu's review of Loveless — Ritsuka Aoyagi's older brother Seimei was murdered; a young man named Soubi appears claiming to have been Seimei's Fighter; Ritsuka and Soubi form a Sacrifice-Fighter pair and enter the world of Spell Battles, where names have power, while Ritsuka searches for who killed his brother and why."
 coverImage: "/covers/loveless.jpg"
 amazonASIN: "1421512823"
-publishedAt: "2026-05-07"
+publishedAt: "2025-07-23"
 tags: ["romance", "fantasy", "supernatural", "ongoing", "mature", "viz-media", "psychological", "identity"]
 rating: 4
 hasAffiliate: true

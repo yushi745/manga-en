@@ -17,7 +17,7 @@ contentWarnings: ["titan violence", "same universe as main series", "historical 
 description: "Yu's review of Attack on Titan: Before the Fall — set generations before the main series, this prequel follows the creation of the vertical maneuvering equipment that makes Survey Corps combat possible, centering on Kuklo, a boy born from a Titan's stomach who must prove his humanity."
 coverImage: "/covers/attack-on-titan-before-the-fall.jpg"
 amazonASIN: "1612629814"
-publishedAt: "2026-05-18"
+publishedAt: "2024-07-24"
 tags: ["action", "fantasy", "completed", "teen-plus", "kodansha", "attack-on-titan", "prequel", "titans"]
 rating: 4
 hasAffiliate: true

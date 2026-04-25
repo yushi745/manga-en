@@ -17,7 +17,7 @@ contentWarnings: ["boss-employee relationship", "mature romantic content", "clas
 description: "Yu's review of Butterflies, Flowers — Choko Kuze comes from a fallen wealthy family; she gets a job at a company; her new boss Domoto turns out to be a former servant of her family; the power dynamic has completely reversed; Yuki Yoshihara's josei romance about class, reversal, and the complicated feelings of two people with a shared past in completely different positions."
 coverImage: "/covers/butterflies-flowers.jpg"
 amazonASIN: "1421527545"
-publishedAt: "2026-05-27"
+publishedAt: "2025-05-24"
 tags: ["romance", "comedy", "completed", "mature", "viz-media", "boss-employee", "class-reversal", "josei"]
 rating: 4
 hasAffiliate: true

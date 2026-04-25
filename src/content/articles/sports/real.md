@@ -17,7 +17,7 @@ contentWarnings: ["disability themes", "medical content", "dark psychological th
 description: "Yu's review of Real — three young men connected by accident and injury find themselves in the world of wheelchair basketball, and the manga is about what it means to have a body and to lose what you thought you knew about it."
 coverImage: "/covers/real.jpg"
 amazonASIN: "1421519895"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-16"
 tags: ["sports", "drama", "mature", "ongoing", "wheelchair-basketball"]
 rating: 5
 hasAffiliate: true

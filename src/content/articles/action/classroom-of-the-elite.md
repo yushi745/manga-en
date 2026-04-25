@@ -17,7 +17,7 @@ contentWarnings: ["psychological manipulation themes", "social cruelty", "bullyi
 description: "Yu's review of Classroom of the Elite — the government's most elite school gives students full freedom and unlimited privileges, with one rule: only results matter; Class D is full of misfits and rejects; Kiyotaka Ayanokoji appears to be an ordinary student of no particular ability; he is not; the series follows the class's struggle to rise through the school's brutal social hierarchy."
 coverImage: "/covers/classroom-of-the-elite.jpg"
 amazonASIN: "1638583617"
-publishedAt: "2026-04-25"
+publishedAt: "2024-08-13"
 tags: ["action", "psychological", "school", "ongoing", "seinen", "seven-seas"]
 rating: 4
 hasAffiliate: true

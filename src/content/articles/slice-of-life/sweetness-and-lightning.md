@@ -17,7 +17,7 @@ contentWarnings: ["parental death backstory", "grief depicted gently"]
 description: "Yu's review of Sweetness and Lightning — Kouhei Inuzuka is a teacher and single father whose wife recently died; he cannot cook and his daughter Tsumugi eats convenience store food; a student named Kotori invites them to her family's empty restaurant and teaches him to cook for his daughter."
 coverImage: "/covers/sweetness-and-lightning.jpg"
 amazonASIN: "1632363690"
-publishedAt: "2026-04-24"
+publishedAt: "2026-02-25"
 tags: ["slice-of-life", "cooking", "seinen", "completed", "heartwarming", "family"]
 rating: 5
 hasAffiliate: true

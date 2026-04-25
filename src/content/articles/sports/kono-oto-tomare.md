@@ -17,7 +17,7 @@ contentWarnings: ["mild language", "emotional themes", "competitive stress"]
 description: "Yu's review of Kono Oto Tomare! — Chika Kudou joins the nearly-disbanded koto club to honor his grandfather's legacy; the club recruits unlikely members and works toward national competition; a music sports manga that treats competitive traditional instrument performance with the same structure as competitive athletics."
 coverImage: "/covers/kono-oto-tomare.jpg"
 amazonASIN: "1974710254"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-05"
 tags: ["sports", "music", "ongoing", "teen", "viz", "koto", "competition"]
 rating: 5
 hasAffiliate: true

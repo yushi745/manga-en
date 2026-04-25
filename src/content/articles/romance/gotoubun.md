@@ -16,7 +16,7 @@ contentWarnings: ["harem romance", "five identical sisters", "tutoring context",
 description: "Yu's review of The Quintessential Quintuplets — Fuutarou Uesugi becomes tutor to the Nakano quintuplets; we know from the first page that he marries one of them at the end; the manga is the mystery of which sister, and why; Negi Haruba's completed rom-com with a structural mystery as its backbone."
 coverImage: "/covers/gotoubun.jpg"
 amazonASIN: "1632367033"
-publishedAt: "2026-05-25"
+publishedAt: "2025-06-20"
 tags: ["romance", "comedy", "completed", "teen", "kodansha", "quintuplets", "mystery-romance", "shonen"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["themes of self-harm and suicidal ideation (early volumes)", "
 description: "Yu's review of The Ancient Magus' Bride — a manga about a girl who sells herself at auction, is purchased by a skull-faced sorcerer, and slowly learns what it means to have a home. Beautiful, melancholy, and unlike anything else in fantasy manga."
 coverImage: "/covers/ancient-magus-bride.jpg"
 amazonASIN: "1626921873"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-17"
 tags: ["fantasy", "romance", "ongoing", "mythology", "emotional", "magic"]
 rating: 5
 hasAffiliate: true

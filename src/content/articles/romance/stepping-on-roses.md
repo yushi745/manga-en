@@ -17,7 +17,7 @@ contentWarnings: ["historical Meiji era setting", "class disparity themes", "arr
 description: "Yu's review of Stepping on Roses — set in Meiji-era Japan, Sumi is a poor girl burdened with her brother's debts and siblings to care for; she agrees to marry a wealthy man, Soichiro Ashida, in a loveless contract marriage for the money; the marriage predictably becomes complicated."
 coverImage: "/covers/stepping-on-roses.jpg"
 amazonASIN: "1421528673"
-publishedAt: "2026-04-25"
+publishedAt: "2025-09-01"
 tags: ["romance", "drama", "completed", "shojo", "historical", "meiji", "viz-media"]
 rating: 4
 hasAffiliate: true

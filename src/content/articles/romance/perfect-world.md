@@ -17,7 +17,7 @@ contentWarnings: ["disability themes", "medical content", "emotional intensity",
 description: "Yu's review of Perfect World — Tsugumi Kawana reconnects with her high school crush Itsuki Ayukawa, now an architect who uses a wheelchair after a spinal cord injury; the manga follows their relationship with honest attention to the practical, emotional, and social dimensions of disability in a romantic relationship."
 coverImage: "/covers/perfect-world.jpg"
 amazonASIN: "1632365545"
-publishedAt: "2026-04-25"
+publishedAt: "2025-08-15"
 tags: ["romance", "drama", "completed", "josei", "disability", "kodansha"]
 rating: 5
 hasAffiliate: true

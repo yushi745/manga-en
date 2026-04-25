@@ -17,7 +17,7 @@ contentWarnings: ["mature romantic content", "fan service", "morally ambiguous p
 description: "Yu's review of Rent-a-Girlfriend — Kazuya Kinoshita is dumped, rents a girlfriend service on an app, meets Chizuru Mizuhara who is perfect at her job, and then lies to his grandmother that they are real — a lie that spirals for 30 volumes."
 coverImage: "/covers/rent-a-girlfriend.jpg"
 amazonASIN: "1646516217"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-19"
 tags: ["romance", "comedy", "seinen", "completed", "harem", "slow-burn"]
 rating: 3
 hasAffiliate: true

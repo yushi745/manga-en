@@ -17,7 +17,7 @@ contentWarnings: ["gender transformation comedy", "magical girl parody", "physic
 description: "Yu's review of Magical Girl Ore — Saki Uno wants to become an idol to get close to her crush Mohiro; her mother reveals she was a magical girl; Saki transforms into a magical girl — as a muscular man in a cute outfit; Icchokusen Michi's magical girl parody about transformation going completely sideways."
 coverImage: "/covers/mahou-shoujo-ore.jpg"
 amazonASIN: "1626929211"
-publishedAt: "2026-05-25"
+publishedAt: "2025-01-10"
 tags: ["fantasy", "comedy", "parody", "completed", "teen-plus", "seven-seas", "magical-girl", "gender-bender"]
 rating: 3
 hasAffiliate: true

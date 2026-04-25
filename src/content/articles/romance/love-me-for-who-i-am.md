@@ -17,7 +17,7 @@ contentWarnings: ["gender identity themes", "non-binary protagonist", "misgender
 description: "Yu's review of Love Me For Who I Am — Mogumo is non-binary; they're hired to work at a maid café called 'Queer Egg' that specifically employs gender-nonconforming staff; the café's owner Tetsu initially misunderstands Mogumo's identity; Kata Konayama's manga about finding the people who see you as you actually are."
 coverImage: "/covers/love-me-for-who-i-am.jpg"
 amazonASIN: "1645058654"
-publishedAt: "2026-05-28"
+publishedAt: "2025-07-21"
 tags: ["romance", "LGBTQ", "completed", "teen-plus", "seven-seas", "non-binary", "maid-cafe", "gender-identity"]
 rating: 4
 hasAffiliate: true

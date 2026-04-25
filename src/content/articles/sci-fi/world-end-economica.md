@@ -17,7 +17,7 @@ contentWarnings: ["stock market and finance content", "some adult situations", "
 description: "Yu's review of World End Economica — Hal lives in a lunar colony slum and dreams of reaching deep space; he discovers he has an exceptional gift for stock trading and uses it to pursue his dream; manga adaptation of Isuna Hasekura's visual novel about finance and ambition in a near-future lunar society."
 coverImage: "/covers/world-end-economica.jpg"
 amazonASIN: "0316441694"
-publishedAt: "2026-05-24"
+publishedAt: "2025-11-29"
 tags: ["sci-fi", "drama", "completed", "teen-plus", "yen-press", "finance", "moon", "visual-novel-adaptation"]
 rating: 4
 hasAffiliate: true

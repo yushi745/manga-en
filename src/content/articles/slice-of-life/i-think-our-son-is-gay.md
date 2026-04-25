@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of I Think Our Son Is Gay — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/i-think-our-son-is-gay.jpg"
 amazonASIN: "1646090761"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-12"
 tags:
   - "slice-of-life"
   - "comedy"

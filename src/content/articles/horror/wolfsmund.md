@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "torture", "historical setting", "politica
 description: "Yu's review of Wolfsmund — in 14th century Switzerland, the mountain pass called Wolfsmund (Wolf's Maw) is controlled by the bailiff Wolfram; every episode follows those who attempt to cross the pass, and Wolfram's inhuman ability to detect deception and his willingness to use any method to stop them."
 coverImage: "/covers/wolfsmund.jpg"
 amazonASIN: "1935654594"
-publishedAt: "2026-05-16"
+publishedAt: "2025-05-07"
 tags: ["horror", "historical", "completed", "mature", "vertical", "medieval", "switzerland", "dark-historical"]
 rating: 4
 hasAffiliate: true

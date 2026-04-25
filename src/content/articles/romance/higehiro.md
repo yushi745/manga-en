@@ -17,7 +17,7 @@ contentWarnings: ["runaway teen protagonist", "adult taking in minor", "trauma b
 description: "Yu's review of Higehiro — Yoshida is rejected by his coworker and, drunk, finds Sayu, a high school runaway on the street; he takes her home and gives her a place to stay; the manga adaptation of Shimesaba's light novel about what actually happens when an adult takes responsibility for a runaway teenager."
 coverImage: "/covers/higehiro.jpg"
 amazonASIN: "1975333462"
-publishedAt: "2026-05-25"
+publishedAt: "2025-06-27"
 tags: ["romance", "drama", "completed", "teen-plus", "yen-press", "runaway", "slice-of-life", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["death", "themes of illness and disability", "supernatural har
 description: "Yu's review of Mushishi — Ginko travels through a Japan that exists before modernity, investigating and treating afflictions caused by Mushi — ancient lifeforms that exist at the edge of perception and disturb the boundary between the living and something else."
 coverImage: "/covers/mushishi.jpg"
 amazonASIN: "0345496213"
-publishedAt: "2026-04-24"
+publishedAt: "2026-01-30"
 tags: ["slice-of-life", "fantasy", "episodic", "nature", "completed", "meditative"]
 rating: 5
 hasAffiliate: true

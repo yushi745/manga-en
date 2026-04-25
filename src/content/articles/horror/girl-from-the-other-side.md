@@ -17,7 +17,7 @@ contentWarnings: ["dark fairy tale themes", "curse", "loss", "transformation", "
 description: "Yu's review of The Girl From the Other Side — a small girl named Shiva lives with a cursed creature she calls Teacher in the forest outside the kingdom; Teacher cannot touch her or she will be cursed; their relationship across 11 volumes is one of manga's most quietly devastating stories."
 coverImage: "/covers/girl-from-the-other-side.jpg"
 amazonASIN: "1626924813"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-24"
 tags: ["horror", "fantasy", "completed", "dark-fairy-tale", "curse", "quiet-horror"]
 rating: 5
 hasAffiliate: true

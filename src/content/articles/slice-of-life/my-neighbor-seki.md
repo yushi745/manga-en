@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of My Neighbor Seki — Rumi Yokoi sits next to Seki in class; Seki never pays attention to lessons and instead constructs elaborate in-desk activities of increasing complexity; Rumi, who is trying to pay attention, keeps getting distracted; a one-joke manga that executes its joke perfectly."
 coverImage: "/covers/my-neighbor-seki.jpg"
 amazonASIN: "193581778X"
-publishedAt: "2026-04-25"
+publishedAt: "2026-02-01"
 tags: ["slice-of-life", "comedy", "completed", "all-ages", "vertical"]
 rating: 4
 hasAffiliate: true

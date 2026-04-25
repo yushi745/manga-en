@@ -17,7 +17,7 @@ contentWarnings: ["immortality themes", "philosophical fantasy action", "violenc
 description: "Yu's review of Immortal Rain — Machika Balfaltin wants to collect the bounty on Methuselah, the most wanted criminal in the world, who cannot die; when she finds him, she discovers he is gentle, melancholy, and exhausted by 600 years of existence; the series explores what immortality costs and what death means to someone who cannot experience it."
 coverImage: "/covers/immortal-rain.jpg"
 amazonASIN: "1595323554"
-publishedAt: "2026-05-07"
+publishedAt: "2024-09-08"
 tags: ["action", "fantasy", "immortality", "completed", "teen", "tokyopop", "philosophical", "melancholy"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["crossdressing", "gender identity comedy", "mild romance", "so
 description: "Yu's review of Hana-Kimi — Mizuki Ashiya, an American-Japanese girl who is a fan of high jumper Izumi Sano, disguises herself as a boy and enrolls at his all-male boarding school in Japan to be close to him; she must maintain the disguise while navigating school life and developing genuine feelings."
 coverImage: "/covers/hana-kimi.jpg"
 amazonASIN: "1421506920"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-22"
 tags: ["romance", "comedy", "completed", "crossdressing", "school", "shoujo"]
 rating: 4
 hasAffiliate: true

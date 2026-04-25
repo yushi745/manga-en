@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "very gentle", "pure shoujo romance"]
 description: "Yu's review of My Love Story!! — Takeo Gouda is large, intimidating, and has always watched his best friend Sunakawa attract girls effortlessly; when Takeo saves Rinko Yamato from a groper, she falls in love with Takeo rather than Sunakawa; the pure shoujo romance about a love story that actually works from the start."
 coverImage: "/covers/ore-monogatari.jpg"
 amazonASIN: "142157733X"
-publishedAt: "2026-05-22"
+publishedAt: "2025-08-09"
 tags: ["romance", "comedy", "completed", "teen", "viz-media", "pure-romance", "subversive", "shoujo"]
 rating: 5
 hasAffiliate: true

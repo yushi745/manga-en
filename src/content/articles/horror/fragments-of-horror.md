@@ -17,7 +17,7 @@ contentWarnings: ["body horror", "supernatural horror", "disturbing imagery", "d
 description: "Yu's review of Fragments of Horror — eight short horror stories by Junji Ito, each demonstrating a different approach to the horror short form; includes Dissection-chan, Wooden Spirit, Tomio: Red Turtleneck, Futon, Lovesickness, Bloodsucking Darkness, The Rib Woman, and Whispering Woman."
 coverImage: "/covers/fragments-of-horror.jpg"
 amazonASIN: "1421582295"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-22"
 tags: ["horror", "completed", "teen-plus", "viz-media", "junji-ito", "short-stories"]
 rating: 4
 hasAffiliate: true

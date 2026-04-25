@@ -17,7 +17,7 @@ contentWarnings: ["past relationship trauma", "death of a loved one", "complicat
 description: "Yu's review of We Were There — Nanami Takahashi falls in love with Motoharu Yano, the most popular boy in school, but Yano carries something about his past that he cannot release; Yuuki Obata's shoujo romance about what it means to love someone who is still partly somewhere else."
 coverImage: "/covers/bokura-ga-ita.jpg"
 amazonASIN: "1421513544"
-publishedAt: "2026-05-22"
+publishedAt: "2025-05-22"
 tags: ["romance", "drama", "completed", "teen", "viz-media", "high-school", "serious-romance", "shoujo"]
 rating: 4
 hasAffiliate: true

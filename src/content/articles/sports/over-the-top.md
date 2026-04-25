@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Over the Top — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/over-the-top.jpg"
 amazonASIN: "1646512332"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-14"
 tags:
   - "sports"
   - "wrestling"

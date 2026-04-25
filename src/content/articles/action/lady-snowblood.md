@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "mature adult content", "revenge premise",
 description: "Yu's review of Lady Snowblood — Yuki Kashima was born in prison to a woman who had herself imprisoned to find the men who murdered her husband and son and raped her; Yuki's sole purpose, from birth, was to be the instrument of her mother's revenge; she was trained by a Buddhist monk and became exactly what her mother needed."
 coverImage: "/covers/lady-snowblood.jpg"
 amazonASIN: "1593072325"
-publishedAt: "2026-05-09"
+publishedAt: "2024-09-17"
 tags: ["action", "historical", "completed", "mature", "dark-horse", "revenge", "classic", "koike", "meiji-era"]
 rating: 4
 hasAffiliate: true

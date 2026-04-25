@@ -17,7 +17,7 @@ contentWarnings: ["surreal content", "existential themes", "absurdism"]
 description: "Yu's review of Shimeji Simulation — by the creator of Girls' Last Tour; a girl named Shijima emerges from the ground and goes to high school; her friend Majime is eating a mushroom on her head; the world is subtly wrong in ways that accumulate; quiet surreal slice of life with existential undertone."
 coverImage: "/covers/shimeji-simulation.jpg"
 amazonASIN: "1975343352"
-publishedAt: "2026-04-25"
+publishedAt: "2026-02-18"
 tags: ["slice-of-life", "surreal", "completed", "teen", "yen-press", "tsukumizu"]
 rating: 4
 hasAffiliate: true

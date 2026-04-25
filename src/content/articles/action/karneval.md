@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "government agency setting", "fantasy creat
 description: "Yu's review of Karneval — Nai is searching for someone who left him only a bracelet; Gareki is a thief who gets caught up in Nai's search; together they encounter Circus, the government's elite agency tasked with combating the criminal organization Kafka, and their lives change completely."
 coverImage: "/covers/karneval.jpg"
 amazonASIN: "0316376982"
-publishedAt: "2026-05-19"
+publishedAt: "2024-09-13"
 tags: ["action", "fantasy", "completed", "teen-plus", "yen-press", "government-agency", "mystery"]
 rating: 4
 hasAffiliate: true

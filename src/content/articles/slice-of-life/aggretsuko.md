@@ -16,7 +16,7 @@ contentWarnings: ["workplace stress themes", "death metal karaoke humor", "workp
 description: "Yu's review of Aggretsuko — Retsuko is a 25-year-old red panda office worker who endures workplace misery all day; at karaoke, she screams death metal about her frustrations; Sanrio/Eiko Eifuku's office comedy about the gap between performed professionalism and internal reality."
 coverImage: "/covers/aggretsuko.jpg"
 amazonASIN: "1974710637"
-publishedAt: "2026-05-26"
+publishedAt: "2025-12-05"
 tags: ["slice-of-life", "comedy", "completed", "teen", "viz-media", "office-comedy", "sanrio", "karaoke"]
 rating: 4
 hasAffiliate: true

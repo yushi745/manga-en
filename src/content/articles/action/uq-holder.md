@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "immortality themes", "ecchi content"
 description: "Yu's review of UQ Holder! — a sequel to Mahou Sensei Negima!, set in a future where Touta Konoe is a young immortal who joins UQ Holder, an organization of immortal beings; the series continues the Negima universe while establishing its own identity."
 coverImage: "/covers/uq-holder.jpg"
 amazonASIN: "1632361434"
-publishedAt: "2026-05-02"
+publishedAt: "2024-11-08"
 tags: ["action", "supernatural", "immortal", "completed", "mature", "kodansha", "akamatsu", "sequel"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["violence", "death", "themes of cult manipulation", "dark them
 description: "Yu's review of 20th Century Boys — a childhood game about saving the world becomes real decades later, and a convenience store manager realizes a mysterious cult leader called 'Friend' is following a plan he wrote as a kid."
 coverImage: "/covers/20th-century-boys.jpg"
 amazonASIN: "1591169224"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-30"
 tags: ["sci-fi", "mystery", "thriller", "drama", "classic", "completed"]
 rating: 5
 hasAffiliate: true

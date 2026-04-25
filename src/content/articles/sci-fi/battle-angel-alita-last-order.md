@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "body horror elements", "cyberpunk themes",
 description: "Yu's review of Battle Angel Alita: Last Order — the direct sequel to Battle Angel Alita picks up after the original's ending and sends Alita into the Zenith of Things Tournament, a solar-system-spanning martial arts competition; Last Order expands the original's world into a genuinely cosmic scope while maintaining Alita's fighting identity as the series' center."
 coverImage: "/covers/battle-angel-alita-last-order.jpg"
 amazonASIN: "1421520265"
-publishedAt: "2026-04-26"
+publishedAt: "2025-10-11"
 tags: ["sci-fi", "action", "cyberpunk", "completed", "teen-plus", "viz", "sequel", "tournament"]
 rating: 4
 hasAffiliate: true

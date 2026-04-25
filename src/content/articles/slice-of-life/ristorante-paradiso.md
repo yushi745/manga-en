@@ -17,7 +17,7 @@ contentWarnings: ["adult romance", "family abandonment themes", "mature characte
 description: "Yu's review of Ristorante Paradiso — Nicoletta travels from her hometown to Rome to confront her mother, who left her as a child; her mother's husband doesn't know she exists; the restaurant Casetta dell'Orso, staffed entirely by older bespectacled gentlemen, becomes the setting for Nicoletta's unexpected new life."
 coverImage: "/covers/ristorante-paradiso.jpg"
 amazonASIN: "1421538024"
-publishedAt: "2026-05-20"
+publishedAt: "2026-02-13"
 tags: ["slice-of-life", "romance", "completed", "teen-plus", "viz-media", "italy", "adult-romance", "literary"]
 rating: 5
 hasAffiliate: true

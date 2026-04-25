@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Challengers — a cheerful young man falls for his cold older brother's best friend, and pursues him with zero awareness of how inconvenient this is for everyone involved."
 coverImage: "/covers/challengers-bl.jpg"
 amazonASIN: "1569708770"
-publishedAt: "2026-04-26"
+publishedAt: "2025-05-27"
 tags:
   - "yaoi"
   - "BL"

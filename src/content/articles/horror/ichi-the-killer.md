@@ -17,7 +17,7 @@ contentWarnings: ["extreme graphic violence", "sexual violence", "psychological 
 description: "Yu's review of Ichi the Killer — Kakihara, a masochistic Yakuza enforcer, searches for his missing boss while a mysterious figure named Ichi — a young man who weeps while killing with extraordinary violence — is being used by a manipulator named Jijii to eliminate criminals; the series examines violence, pain, pleasure, and complicity with unflinching and disturbing directness."
 coverImage: "/covers/ichi-the-killer.jpg"
 amazonASIN: "1591161592"
-publishedAt: "2026-05-11"
+publishedAt: "2025-04-01"
 tags: ["horror", "action", "completed", "mature", "viz-media", "yakuza", "psychological", "extreme-content"]
 rating: 3
 hasAffiliate: true

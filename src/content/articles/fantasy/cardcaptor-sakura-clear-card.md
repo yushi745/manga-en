@@ -17,7 +17,7 @@ contentWarnings: ["magical girl adventure", "mild supernatural content", "romant
 description: "Yu's review of Cardcaptor Sakura: Clear Card — Sakura Kinomoto begins middle school; all the Sakura Cards have turned clear and powerless overnight; new transparent cards are appearing; CLAMP's continuation of their classic magical girl series, returning to Sakura twenty years later with new mysteries and the same warmth."
 coverImage: "/covers/cardcaptor-sakura-clear-card.jpg"
 amazonASIN: "1632366266"
-publishedAt: "2026-05-28"
+publishedAt: "2024-11-26"
 tags: ["fantasy", "magical-girl", "ongoing", "all-ages", "kodansha", "clamp", "sequel", "classic-revival"]
 rating: 4
 hasAffiliate: true

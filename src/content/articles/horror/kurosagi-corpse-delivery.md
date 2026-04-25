@@ -16,7 +16,7 @@ contentWarnings: ["graphic depictions of corpses and death", "forensic detail", 
 description: "Yu's review of The Kurosagi Corpse Delivery Service — five Buddhist university students with unusual abilities find unclaimed bodies and deliver them to where they need to go, finishing the business the dead left undone."
 coverImage: "/covers/kurosagi-corpse-delivery.jpg"
 amazonASIN: "1593073615"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-06"
 tags: ["horror", "mystery", "seinen", "dark-comedy", "supernatural", "ongoing"]
 rating: 4
 hasAffiliate: true

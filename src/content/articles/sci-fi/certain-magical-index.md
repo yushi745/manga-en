@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "science fiction", "esper powers", "c
 description: "Yu's review of A Certain Magical Index — in Academy City, a metropolis dedicated to developing esper powers, Touma Kamijou has the weakest ability: Imagine Breaker, a right hand that nullifies any supernatural power; when a girl named Index arrives at his window claiming to have memorized 103,000 magical grimoires, his ability becomes essential."
 coverImage: "/covers/certain-magical-index.jpg"
 amazonASIN: "0316259047"
-publishedAt: "2026-05-14"
+publishedAt: "2025-10-17"
 tags: ["sci-fi", "action", "completed", "teen", "yen-press", "esper", "magic", "academy-city"]
 rating: 4
 hasAffiliate: true

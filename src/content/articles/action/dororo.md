@@ -17,7 +17,7 @@ contentWarnings: ["violence", "body horror (prosthetics and body modification)",
 description: "Yu's review of Dororo — a 4-volume Osamu Tezuka classic about a boy whose body was traded to 48 demons before birth, now fighting to reclaim his parts. Dark, strange, and essential reading from the God of Manga."
 coverImage: "/covers/dororo.jpg"
 amazonASIN: "B07RQPJH1Y"
-publishedAt: "2026-04-23"
+publishedAt: "2024-08-18"
 tags: ["classic", "historical", "action", "completed", "tezuka", "dark-fantasy"]
 rating: 4
 hasAffiliate: true

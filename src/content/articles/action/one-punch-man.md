@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "monster horror imagery", "dark humor", "ex
 description: "Yu's review of One Punch Man — a manga about the most powerful hero in the world who can't feel excited about anything anymore because he always wins in one punch. Visually the most spectacular action manga alive. Philosophically surprisingly deep."
 coverImage: "/covers/one-punch-man.jpg"
 amazonASIN: "B00UKMJVJO"
-publishedAt: "2026-04-23"
+publishedAt: "2024-10-03"
 tags: ["shonen", "comedy", "action", "ongoing", "parody", "superhero"]
 rating: 5
 hasAffiliate: true

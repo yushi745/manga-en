@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Smashed: Junji Ito Story Collection — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/smashed.jpg"
 amazonASIN: "197471055X"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-30"
 tags:
   - "horror"
   - "anthology"

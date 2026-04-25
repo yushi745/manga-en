@@ -17,7 +17,7 @@ contentWarnings: ["vampire content", "blood", "teen romance", "mild fan service"
 description: "Yu's review of Chibi Vampire (Karin) — Karin Maaka is a vampire who produces too much blood; instead of drinking blood, she must inject it into humans or suffer nosebleeds of extraordinary volume; she falls for her new classmate Kenta Usui, whose unhappy disposition triggers her blood production, which makes their relationship complicated in ways neither of them anticipated."
 coverImage: "/covers/chibi-vampire.jpg"
 amazonASIN: "1591168260"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-28"
 tags: ["romance", "fantasy", "completed", "teen-plus", "viz-media", "vampire", "supernatural"]
 rating: 4
 hasAffiliate: true

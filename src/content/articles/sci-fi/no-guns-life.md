@@ -17,7 +17,7 @@ contentWarnings: ["violence", "cyberpunk dark themes", "body horror of modified 
 description: "Yu's review of No Guns Life — Juzo Inui is an Extended — a cyborg modified for war — whose head is a giant revolver; he works as a problem fixer in a city that fears and restricts the Extended people who fought for it."
 coverImage: "/covers/no-guns-life.jpg"
 amazonASIN: "1974710629"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-12"
 tags: ["sci-fi", "noir", "cyberpunk", "seinen", "completed"]
 rating: 4
 hasAffiliate: true

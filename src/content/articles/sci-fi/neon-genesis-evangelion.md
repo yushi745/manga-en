@@ -17,7 +17,7 @@ contentWarnings: ["psychological trauma", "depression", "violence", "existential
 description: "Yu's review of the Neon Genesis Evangelion manga — Shinji Ikari is fourteen, has been abandoned by his father, and is told he must pilot a giant biomechanical weapon against beings called Angels or humanity ends."
 coverImage: "/covers/neon-genesis-evangelion.jpg"
 amazonASIN: "1421550792"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-11"
 tags: ["sci-fi", "mecha", "psychological", "classic", "completed"]
 rating: 5
 hasAffiliate: true

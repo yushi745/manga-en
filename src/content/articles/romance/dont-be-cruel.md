@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "dubious consent beginning", "blackmail 
 description: "Yu's review of Don't Be Cruel — Maya Nemugasa is caught cheating on an exam by Shiba Naoki, who offers to keep quiet in exchange for compliance; the coercive beginning of their relationship is what the series spends its length undoing as both characters develop past their initial positions."
 coverImage: "/covers/dont-be-cruel.jpg"
 amazonASIN: "1421587181"
-publishedAt: "2026-05-15"
+publishedAt: "2025-06-07"
 tags: ["romance", "boys-love", "completed", "mature", "sublime", "school", "blackmail-premise", "dubcon"]
 rating: 3
 hasAffiliate: true

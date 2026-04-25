@@ -17,7 +17,7 @@ contentWarnings: ["mild sexual content", "adult relationship themes", "LGBTQ+ th
 description: "Yu's review of What Did You Eat Yesterday? — Shiro and Kenji are a gay couple in Tokyo; Shiro is a lawyer who cooks dinner every night; the manga follows their domestic life through the meals Shiro prepares, with complete recipes; a quiet, adult slice of life about partnership and food."
 coverImage: "/covers/what-did-you-eat-yesterday.jpg"
 amazonASIN: "1941220460"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-07"
 tags: ["slice-of-life", "cooking", "ongoing", "mature", "vertical", "lgbtq", "fumi-yoshinaga"]
 rating: 5
 hasAffiliate: true

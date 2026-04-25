@@ -17,7 +17,7 @@ contentWarnings: ["graphic depictions of disease", "work stress themes", "mature
 description: "Yu's review of Cells at Work! CODE BLACK — a parallel story using the same cellular biology concept as Cells at Work!, but set in a body that is severely unhealthy; the red blood cells work in crisis conditions where the body barely supports them, and the series is a darker, more adult allegory for overwork culture."
 coverImage: "/covers/cells-at-work-code-black.jpg"
 amazonASIN: "1646512226"
-publishedAt: "2026-05-01"
+publishedAt: "2025-12-19"
 tags: ["slice-of-life", "sci-fi", "biology", "completed", "mature", "kodansha", "seinen", "workplace"]
 rating: 4
 hasAffiliate: true

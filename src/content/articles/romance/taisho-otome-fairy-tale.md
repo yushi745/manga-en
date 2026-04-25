@@ -17,7 +17,7 @@ contentWarnings: ["Taisho era setting", "arranged marriage premise", "some class
 description: "Yu's review of Taisho Otome Fairy Tale — Tamahiko Shima is a sickly, bitter young man exiled to the countryside after an accident; his father sends Yuzuki Tachibana as a bride without asking; she is cheerful, capable, and changes his life; Sana Kirioka's Taisho era romance about someone who stopped hoping being given reason to hope."
 coverImage: "/covers/taisho-otome-fairy-tale.jpg"
 amazonASIN: "1974734765"
-publishedAt: "2026-05-26"
+publishedAt: "2025-09-05"
 tags: ["romance", "historical", "completed", "teen", "viz-media", "taisho-era", "arranged-marriage", "shojo-adjacent"]
 rating: 4
 hasAffiliate: true

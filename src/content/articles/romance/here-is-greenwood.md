@@ -19,7 +19,7 @@ contentWarnings:
   - "mild BL subtext"
 description: "Yu's review of Here Is Greenwood — a high school boy moves into a school dormitory to escape his brother's wife (his first love), and finds the dormitory is populated entirely by eccentric misfits."
 amazonASIN: "1591162076"
-publishedAt: "2026-04-26"
+publishedAt: "2025-06-26"
 tags:
   - "shojo"
   - "comedy"

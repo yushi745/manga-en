@@ -17,7 +17,7 @@ contentWarnings: ["moe content", "elementary school setting", "some fanservice f
 description: "Yu's review of Ro-Kyu-Bu! — high school basketball player Subaru Hasegawa is suspended from his team and takes up coaching an elementary school girls' basketball team to pass the time; the team is talented and determined, and Subaru discovers he cares more about coaching than expected."
 coverImage: "/covers/ro-kyu-bu.jpg"
 amazonASIN: "0316225452"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-16"
 tags: ["sports", "comedy", "completed", "basketball", "light-novel-adaptation"]
 rating: 3
 hasAffiliate: true

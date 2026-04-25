@@ -17,7 +17,7 @@ contentWarnings: ["relationship drama", "memory loss themes", "adult relationshi
 description: "Yu's review of Forget Me Not — Serizawa is an ordinary man who keeps encountering women from his past who remember things about him that he has completely forgotten; each story recovers a relationship he lost track of; Mag Hsu and Nao Emoto's romance anthology about memory, connection, and the people we forget without meaning to."
 coverImage: "/covers/forget-me-not.jpg"
 amazonASIN: "1626923752"
-publishedAt: "2026-05-30"
+publishedAt: "2025-06-13"
 tags: ["romance", "drama", "completed", "teen-plus", "seven-seas", "memory", "anthology"]
 rating: 4
 hasAffiliate: true

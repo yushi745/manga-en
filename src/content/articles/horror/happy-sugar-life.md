@@ -17,7 +17,7 @@ contentWarnings: ["violence", "murder", "obsessive/yandere content", "child in d
 description: "Yu's review of Happy Sugar Life — Satou Matsuzaka has never felt love; when she finds the girl she loves — a small child named Shio — she becomes willing to do anything to protect what she calls her 'happy sugar life,' including murder."
 coverImage: "/covers/happy-sugar-life.jpg"
 amazonASIN: "197530330X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-27"
 tags: ["horror", "psychological", "completed", "mature", "yandere", "disturbing"]
 rating: 4
 hasAffiliate: true

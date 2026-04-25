@@ -17,7 +17,7 @@ contentWarnings: ["bullying", "harassment", "class conflict", "some violence"]
 description: "Yu's review of Boys Over Flowers — Tsukushi Makino attends Eitoku Academy, a school for the ultra-wealthy, on a scholarship; when she stands up to the F4 — four boys who run the school through fear — she becomes their target, then one of their world."
 coverImage: "/covers/boys-over-flowers.jpg"
 amazonASIN: "1569319014"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-23"
 tags: ["romance", "shojo", "drama", "school", "completed", "classic"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["social anxiety depicted for comedy", "mild embarrassment humo
 description: "Yu's review of Bocchi the Rock! — Hitori Gotoh is so socially anxious she has been a friendless loner throughout middle school; she taught herself guitar to eventually join a band and make friends; when a girl recruits her to an actual band, she has to perform live music while barely being able to speak."
 coverImage: "/covers/bocchi-the-rock.jpg"
 amazonASIN: "1975378008"
-publishedAt: "2026-04-24"
+publishedAt: "2025-12-16"
 tags: ["slice-of-life", "comedy", "music", "completed", "social-anxiety", "4koma"]
 rating: 4
 hasAffiliate: true

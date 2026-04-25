@@ -17,7 +17,7 @@ contentWarnings: ["entertainment industry setting", "idol worship theme", "schoo
 description: "Yu's review of Wild Act — Yuniko Sakuragi is devoted to Ryu Eba, a legendary classic actor who died before she was born; when she encounters Shunsuke Arisaka, a young actor who is the spitting image of Eba, she kidnaps him — the beginning of a relationship that is complicated by who he might actually be."
 coverImage: "/covers/wild-act.jpg"
 amazonASIN: "1892213745"
-publishedAt: "2026-05-08"
+publishedAt: "2025-09-24"
 tags: ["romance", "comedy", "entertainment-industry", "completed", "teen", "tokyopop", "idol", "school"]
 rating: 3
 hasAffiliate: true

@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["body horror", "biological horror", "grotesque imagery", "death", "disturbing content"]
 description: "Yu's review of Gyo — dead sea creatures with mechanical legs begin walking onto land; the smell is overwhelming; it escalates; Junji Ito's most viscerally disgusting work is also a meditation on what we find most fundamentally repellent about death and corruption."
 amazonASIN: "1421561875"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-26"
 tags: ["horror", "body-horror", "completed", "mature", "junji-ito", "viz-media"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["social exclusion", "bullying themes", "religious school theme
 description: "Yu's review of A Devil and Her Love Song — Maria Kawai was expelled from an elite religious academy for speaking the truth too directly; at her new school, her brutal honesty and inability to perform social niceness makes her an instant target; two boys choose to see past what everyone else reacts to."
 coverImage: "/covers/devil-and-her-love-song.jpg"
 amazonASIN: "142154164X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-06"
 tags: ["romance", "drama", "completed", "social-dynamics", "shoujo", "music"]
 rating: 4
 hasAffiliate: true

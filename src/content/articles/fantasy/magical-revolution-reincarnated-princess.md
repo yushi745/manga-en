@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "fantasy magic", "royalty themes", "light poli
 description: "Yu's review of The Magical Revolution — Anisphia, a princess reincarnated from another world who cannot use conventional magic, invents 'magicology' using her previous world's knowledge; she rescues Euphyllia, a noble genius publicly disgraced, and the two women work together — and fall in love."
 coverImage: "/covers/magical-revolution-reincarnated-princess.jpg"
 amazonASIN: "1975368916"
-publishedAt: "2026-04-30"
+publishedAt: "2025-01-08"
 tags: ["fantasy", "romance", "yuri", "isekai-adjacent", "ongoing", "teen", "yen-press", "shoujo-ai"]
 rating: 4
 hasAffiliate: true

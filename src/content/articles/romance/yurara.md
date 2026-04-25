@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "spirit exorcism", "transformation", "
 description: "Yu's review of Yurara — Yurara Tsukinowa can see spirits and has always tried to avoid them; when she encounters Mei and Yako, two boys with spiritual power who are rivals for her attention, her dormant guardian spirit begins to emerge — transforming her into a powerful spiritual protector when others are threatened."
 coverImage: "/covers/yurara.jpg"
 amazonASIN: "1421516039"
-publishedAt: "2026-05-08"
+publishedAt: "2025-09-29"
 tags: ["romance", "supernatural", "completed", "teen", "viz-media", "spirit", "transformation", "short"]
 rating: 3
 hasAffiliate: true

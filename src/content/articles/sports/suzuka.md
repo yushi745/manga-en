@@ -17,7 +17,7 @@ contentWarnings: ["teen romance", "mild fanservice", "athletic competition", "em
 description: "Yu's review of Suzuka — Yamato Akitsuki moves to Tokyo to live at his aunt's apartment complex and immediately falls for his neighbor Suzuka Asahina, a high school track prodigy who is completely closed off emotionally; the series is a romantic sports manga about the difficulty of loving someone who isn't ready to be loved."
 coverImage: "/covers/suzuka.jpg"
 amazonASIN: "0345485556"
-publishedAt: "2026-04-26"
+publishedAt: "2026-04-20"
 tags: ["sports", "romance", "track", "completed", "teen-plus", "del-rey", "kodansha", "shonen"]
 rating: 4
 hasAffiliate: true

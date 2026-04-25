@@ -17,7 +17,7 @@ contentWarnings: ["fantasy action", "living weapon concept", "sky pirate setting
 description: "Yu's review of Elemental Gelade — Coud Van Giruet, a sky pirate, discovers Ren in his ship's cargo — a girl who is actually an Edel Raid, a living weapon who bonds with a human partner called a Pledger; rather than selling her, he promises to take her to Edel Garden, a sanctuary for Edel Raids, and the journey structures the series."
 coverImage: "/covers/elemental-gelade.jpg"
 amazonASIN: "1595323317"
-publishedAt: "2026-05-07"
+publishedAt: "2024-08-22"
 tags: ["action", "fantasy", "completed", "teen", "tokyopop", "sky-pirate", "journey", "living-weapon"]
 rating: 3
 hasAffiliate: true

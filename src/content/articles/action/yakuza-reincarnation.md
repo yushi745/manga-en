@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Yakuza Reincarnation — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/yakuza-reincarnation.jpg"
 amazonASIN: "1646517636"
-publishedAt: "2026-04-25"
+publishedAt: "2024-11-11"
 tags:
   - "action"
   - "fantasy"

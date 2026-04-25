@@ -17,7 +17,7 @@ contentWarnings: ["comedy torture (no actual violence)", "found family themes", 
 description: "Yu's review of 'Tis Time for 'Torture,' Princess — the Princess is captured by the Demon King's forces; the Three Hell Executives interrogate her to get information about the kingdom's defenses; the 'torture' they use is things she actually enjoys — delicious food, comfortable beds, adorable animals — and she almost gives up information every time."
 coverImage: "/covers/tis-time-for-torture-princess.jpg"
 amazonASIN: "1638585202"
-publishedAt: "2026-05-01"
+publishedAt: "2025-09-11"
 tags: ["romance", "comedy", "fantasy", "found-family", "completed", "teen", "seven-seas", "shonen"]
 rating: 5
 hasAffiliate: true

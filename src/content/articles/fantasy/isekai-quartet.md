@@ -17,7 +17,7 @@ contentWarnings: ["comedy", "parody of multiple isekai franchises", "all charact
 description: "Yu's review of Isekai Quartet — characters from KonoSuba, Re:Zero, Overlord, and The Saga of Tanya the Evil are all sent to a school by a mysterious button; Minami Nagayama's chibi crossover comedy about what happens when four very different isekai franchises occupy the same classroom."
 coverImage: "/covers/isekai-quartet.jpg"
 amazonASIN: "1975358600"
-publishedAt: "2026-05-24"
+publishedAt: "2024-12-27"
 tags: ["fantasy", "comedy", "completed", "teen", "yen-press", "crossover", "parody", "chibi"]
 rating: 3
 hasAffiliate: true

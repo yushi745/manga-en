@@ -17,7 +17,7 @@ contentWarnings: ["explicit fan service", "nudity", "mature sexual content", "ac
 description: "Yu's review of High School DxD manga — Issei Hyodo is killed on his first date by a fallen angel; he is revived by Rias Gremory, a high-ranking devil, as her servant; he joins the occult research club (actually a devil peerage) at Kuoh Academy and develops the Sacred Gear Boosted Gear, which doubles power every ten seconds, while the war between angels, fallen angels, and devils heats up around him."
 coverImage: "/covers/high-school-dxd.jpg"
 amazonASIN: "0316401722"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-19"
 tags: ["fantasy", "action", "completed", "mature", "yen-press", "harem", "supernatural"]
 rating: 3
 hasAffiliate: true

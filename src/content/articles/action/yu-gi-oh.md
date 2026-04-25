@@ -17,7 +17,7 @@ contentWarnings: ["darker early chapters with shadow games", "card game tourname
 description: "Yu's review of Yu-Gi-Oh! — Yugi Mutou solves the Millennium Puzzle and his body becomes shared with a spirit of unknown origin; the early series follows the spirit's use of 'shadow games' to punish bullies and cheaters, eventually evolving into the card game tournament arc that the franchise became known for."
 coverImage: "/covers/yu-gi-oh.jpg"
 amazonASIN: "1569319316"
-publishedAt: "2026-05-04"
+publishedAt: "2024-11-12"
 tags: ["action", "fantasy", "card-game", "classic", "completed", "teen", "viz-media", "shonen-jump", "tournament"]
 rating: 4
 hasAffiliate: true

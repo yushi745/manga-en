@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "graphic combat injuries", "intense martia
 description: "Yu's review of Baki — Baki Hanma trains obsessively with one goal: to defeat his father Yujiro, who is called the Strongest Creature on Earth; the series stages increasingly extreme martial arts matches between specialists in different styles and escalates the violence far beyond conventional sports manga limits."
 coverImage: "/covers/baki.jpg"
 amazonASIN: "1974726207"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-16"
 tags: ["sports", "action", "martial-arts", "mature", "viz-media", "fighting"]
 rating: 4
 hasAffiliate: true

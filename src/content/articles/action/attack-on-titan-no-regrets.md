@@ -17,7 +17,7 @@ contentWarnings: ["titan violence", "underground city poverty", "criminal origin
 description: "Yu's review of Attack on Titan: No Regrets — Levi Ackermann's origin: living in the underground city beneath the walls with Isabel and Furlan, encountered by Erwin Smith who recruits them into the Survey Corps, and the events that shaped the soldier he becomes."
 coverImage: "/covers/attack-on-titan-no-regrets.jpg"
 amazonASIN: "1612629830"
-publishedAt: "2026-05-18"
+publishedAt: "2024-07-26"
 tags: ["action", "completed", "teen-plus", "kodansha", "attack-on-titan", "levi", "prequel", "two-volume"]
 rating: 5
 hasAffiliate: true

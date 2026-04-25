@@ -17,7 +17,7 @@ contentWarnings: ["magical girl action", "time travel", "divine powers", "sequel
 description: "Yu's review of Kamichama Karin Chu — the sequel to Kamichama Karin; Karin and Kazune's story continues with a mysterious boy from the future who claims to be their son, new divine power developments, and escalating conflict with forces who want to control what gods can do."
 coverImage: "/covers/kamichama-karin-chu.jpg"
 amazonASIN: "0345505212"
-publishedAt: "2026-05-17"
+publishedAt: "2024-12-31"
 tags: ["fantasy", "magical-girl", "completed", "teen", "kodansha", "sequel", "time-travel", "divine-power"]
 rating: 3
 hasAffiliate: true

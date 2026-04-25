@@ -17,7 +17,7 @@ contentWarnings: ["animal lover protagonist", "scary-looking love interest", "sh
 description: "Yu's review of Beast Master — Yuiko Kubozuka loves animals but they all hate her; Leo Aoi looks terrifying, is covered in scars, and frightens everyone — but animals love him; Yuiko befriends him and discovers he has a condition where severe stimulation causes him to go berserk; she becomes the only person who can calm him."
 coverImage: "/covers/beast-master.jpg"
 amazonASIN: "1421528819"
-publishedAt: "2026-05-11"
+publishedAt: "2025-05-18"
 tags: ["romance", "completed", "teen", "viz-media", "animals", "short", "betsucomi", "gentle-giant"]
 rating: 3
 hasAffiliate: true

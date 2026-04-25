@@ -17,7 +17,7 @@ contentWarnings: ["slapstick violence", "alien invasion comedy premise", "some r
 description: "Yu's review of Urusei Yatsura — Earth is invaded by aliens; a random lottery selects Ataru Moroboshi to compete against the alien princess Lum in a game of tag; he wins by grabbing her horns; his victory declaration is mistaken for a marriage proposal; Lum moves into his house; Ataru continues to chase every other girl he sees while Lum insists on being his wife."
 coverImage: "/covers/urusei-yatsura.jpg"
 amazonASIN: "1974718468"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-17"
 tags: ["romance", "comedy", "completed", "classic", "alien", "rumiko-takahashi", "manga-history"]
 rating: 5
 hasAffiliate: true

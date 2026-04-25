@@ -17,7 +17,7 @@ contentWarnings: ["master/slave dynamic", "explicit fan service", "action violen
 description: "Yu's review of Chained Soldier — Yuuki Wakura wanders into the demon world, Mato, and is rescued by Kyouka Uzen, the seventh unit captain of a demon-slaying organization; to escape Mato, he must become her slave, granting him a superpower that grows stronger the more he serves her needs; they form an unusual partnership."
 coverImage: "/covers/chained-soldier.jpg"
 amazonASIN: "1638584990"
-publishedAt: "2026-05-14"
+publishedAt: "2024-08-11"
 tags: ["action", "ongoing", "mature", "seven-seas", "demon-slaying", "master-slave", "fan-service"]
 rating: 3
 hasAffiliate: true

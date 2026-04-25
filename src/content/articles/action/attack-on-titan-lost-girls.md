@@ -17,7 +17,7 @@ contentWarnings: ["titan violence", "female character focus", "alternate scenari
 description: "Yu's review of Attack on Titan: Lost Girls — two stories: Mikasa's story explores an alternate timeline where she chose a different path; Annie's story fills in what the Female Titan was doing during a key period of the main series, told from her perspective."
 coverImage: "/covers/attack-on-titan-lost-girls.jpg"
 amazonASIN: "1632366800"
-publishedAt: "2026-05-18"
+publishedAt: "2024-07-25"
 tags: ["action", "completed", "teen-plus", "kodansha", "attack-on-titan", "mikasa", "annie", "side-story"]
 rating: 4
 hasAffiliate: true

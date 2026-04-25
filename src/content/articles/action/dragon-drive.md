@@ -17,7 +17,7 @@ contentWarnings: ["virtual reality game setting", "dragon combat", "adventure ac
 description: "Yu's review of Dragon Drive — Reiji Ozora is a lazy boy who quits everything; when his childhood friend drags him into a VR game where players fight with dragons, his assigned dragon looks weak and useless — but Chibi turns out to be something much more significant."
 coverImage: "/covers/dragon-drive.jpg"
 amazonASIN: "1421502305"
-publishedAt: "2026-05-17"
+publishedAt: "2024-08-21"
 tags: ["action", "fantasy", "completed", "teen", "viz-media", "dragon", "virtual-reality", "shonen"]
 rating: 3
 hasAffiliate: true

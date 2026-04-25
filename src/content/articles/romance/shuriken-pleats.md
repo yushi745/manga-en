@@ -17,7 +17,7 @@ contentWarnings: ["ninja combat", "bodyguard premise", "high school setting", "l
 description: "Yu's review of Shuriken and Pleats — Mikage is a ninja who served as a bodyguard for a noble; her master releases her from service and tells her to live a normal life; she enrolls in high school; the normal life proves difficult because people keep trying to kill her; Matsuri Hino's romance about a warrior learning a different kind of living."
 coverImage: "/covers/shuriken-pleats.jpg"
 amazonASIN: "142158649X"
-publishedAt: "2026-05-27"
+publishedAt: "2025-08-26"
 tags: ["romance", "action", "completed", "teen", "viz-media", "ninja", "hino", "fish-out-of-water"]
 rating: 3
 hasAffiliate: true

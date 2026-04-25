@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "questioning sexuality themes", "slow-bu
 description: "Yu's review of Sasaki and Miyano — Miyano is a high school boy who reads boys' love manga; Sasaki is an older student who discovers this and becomes interested in both the manga and in Miyano; the series follows Miyano working through his feelings as Sasaki waits with remarkable patience."
 coverImage: "/covers/sasaki-and-miyano.jpg"
 amazonASIN: "197539694X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-22"
 tags: ["romance", "boys-love", "ongoing", "school", "questioning", "slow-burn"]
 rating: 5
 hasAffiliate: true

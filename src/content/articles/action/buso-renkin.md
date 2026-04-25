@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "homunculus monster content", "some transfo
 description: "Yu's review of Buso Renkin — Kazuki Muto dies saving a girl from a monster; she revives him with an alchemical weapon lodged in his chest; he becomes a warrior using Buso Renkin — alchemical devices that manifest as weapons based on the user's will — to fight homunculi."
 coverImage: "/covers/buso-renkin.jpg"
 amazonASIN: "1421506157"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-09"
 tags: ["action", "shonen", "completed", "alchemy", "supernatural", "Watsuki"]
 rating: 4
 hasAffiliate: true

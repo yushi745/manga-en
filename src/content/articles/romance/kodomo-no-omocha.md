@@ -17,7 +17,7 @@ contentWarnings: ["family abandonment themes", "child actor pressures", "some dr
 description: "Yu's review of Kodocha — Sana Kurata is an energetic child actress who decides to reform Akito Hayama, the troublemaker terrorizing their class; the relationship that develops as she tries to 'fix' him leads her into territory she wasn't prepared for; the series follows them through elementary school and into junior high."
 coverImage: "/covers/kodomo-no-omocha.jpg"
 amazonASIN: "1892213524"
-publishedAt: "2026-04-25"
+publishedAt: "2025-07-13"
 tags: ["romance", "comedy", "drama", "completed", "shojo", "tokyopop", "child-protagonist"]
 rating: 5
 hasAffiliate: true

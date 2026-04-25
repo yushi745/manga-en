@@ -17,7 +17,7 @@ contentWarnings: ["body horror", "dissolution imagery", "siblings relationship h
 description: "Yu's review of Dissolving Classroom — Yuuma Azawa's excessive apologizing causes the people around him to dissolve into liquid; his sister Chizumi is worse than him; the collection follows their path through a school and a neighborhood, leaving dissolved people behind them."
 coverImage: "/covers/dissolving-classroom.jpg"
 amazonASIN: "1421592363"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-17"
 tags: ["horror", "completed", "teen-plus", "viz-media", "junji-ito", "body-horror"]
 rating: 4
 hasAffiliate: true

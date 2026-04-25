@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of The Liminal Zone — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/the-liminal-zone.jpg"
 amazonASIN: "1974726797"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-02"
 tags:
   - "horror"
   - "anthology"

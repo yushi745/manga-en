@@ -17,7 +17,7 @@ contentWarnings: ["mild school violence played for comedy", "bullying (resolved 
 description: "Yu's review of Haven't You Heard? I'm Sakamoto — Sakamoto is the coolest student at his high school; every situation, challenge, or attempt to embarrass him resolves in the coolest possible way; the manga is a pure comedic statement about the concept of cool."
 coverImage: "/covers/sakamoto-desu-ga.jpg"
 amazonASIN: "1626921601"
-publishedAt: "2026-04-24"
+publishedAt: "2026-02-14"
 tags: ["slice-of-life", "comedy", "completed", "school", "gag-manga", "short"]
 rating: 4
 hasAffiliate: true

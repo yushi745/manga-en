@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "character deaths", "dark themes", "corrup
 description: "Yu's review of Akame ga Kill! — a young man from the countryside joins Night Raid, an assassin group fighting to overthrow a corrupt empire, and discovers that fighting for justice in a corrupt world requires becoming a killer."
 coverImage: "/covers/akame-ga-kill.jpg"
 amazonASIN: "0316259462"
-publishedAt: "2026-04-24"
+publishedAt: "2024-07-20"
 tags: ["action", "dark-fantasy", "completed", "mature", "revolution"]
 rating: 4
 hasAffiliate: true

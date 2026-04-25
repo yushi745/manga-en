@@ -19,7 +19,7 @@ contentWarnings:
 description: "A comprehensive review of Akane-Banashi — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/akane-banashi.jpg"
 amazonASIN: "1974740552"
-publishedAt: "2026-04-25"
+publishedAt: "2024-07-20"
 tags:
   - "action"
   - "drama"

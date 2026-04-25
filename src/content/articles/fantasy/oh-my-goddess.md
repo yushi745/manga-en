@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "divine beings adjusting to human life
 description: "Yu's review of Oh My Goddess! — Keiichi Morisato misdials a goddess helpline and Belldandy appears in his dorm room; she grants him one wish and he wishes for her to stay with him; she does, and the series follows their life together as other goddesses and demons complicate their quiet romance."
 coverImage: "/covers/oh-my-goddess.jpg"
 amazonASIN: "1569714967"
-publishedAt: "2026-05-05"
+publishedAt: "2025-01-17"
 tags: ["fantasy", "romance", "supernatural", "comedy", "completed", "teen", "dark-horse", "seinen", "goddess"]
 rating: 4
 hasAffiliate: true

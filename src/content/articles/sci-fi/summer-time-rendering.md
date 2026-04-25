@@ -17,7 +17,7 @@ contentWarnings: ["violence including death of named characters", "body horror e
 description: "Yu's review of Summer Time Rendering — Shinpei Ajiro returns to Hitogashima island for the funeral of his childhood friend Ushio; something is wrong; the shadows of people on the island are not quite right; Shinpei discovers a supernatural threat that copies humans through their shadows and a time loop mechanic that allows him to restart from the same point when he dies."
 coverImage: "/covers/summer-time-rendering.jpg"
 amazonASIN: "1974725952"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-23"
 tags: ["sci-fi", "thriller", "completed", "time-loop", "mystery", "horror", "shonen"]
 rating: 5
 hasAffiliate: true

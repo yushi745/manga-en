@@ -17,7 +17,7 @@ contentWarnings: ["rock music themes", "mild language", "teen drama", "music ind
 description: "Yu's review of Beck: Mongolian Chop Squad — Yukio Tanaka is an average fourteen-year-old with nothing to distinguish him until he meets Ryusuke Minami, a guitarist with a strange dog named Beck, and discovers that music can be the thing that makes you into someone worth knowing."
 coverImage: "/covers/beck.jpg"
 amazonASIN: "1591823943"
-publishedAt: "2026-05-05"
+publishedAt: "2024-07-30"
 tags: ["action", "drama", "music", "rock", "completed", "teen", "tokyopop", "coming-of-age"]
 rating: 5
 hasAffiliate: true

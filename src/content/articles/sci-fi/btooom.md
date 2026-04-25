@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "survival horror", "sexual assault (attemp
 description: "Yu's review of Btooom! — Ryouta Sakamoto is unemployed and lives for the online bomb-combat game Btooom; he is abducted and dropped on a deserted island with real versions of the game's weapons, forced to fight other players who have been dropped there by people who want them dead."
 coverImage: "/covers/btooom.jpg"
 amazonASIN: "0316243426"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-15"
 tags: ["sci-fi", "survival", "action", "completed", "battle-royale", "mature"]
 rating: 3
 hasAffiliate: true

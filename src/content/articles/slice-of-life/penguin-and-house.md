@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Penguin & House — Pen-chan is a penguin who arrives at a young salaryman's apartment and decides to stay; the series follows their daily cohabitation, the small adjustments both make, and the warmth that accumulates in an otherwise solitary life."
 coverImage: "/covers/penguin-and-house.jpg"
 amazonASIN: "1646514157"
-publishedAt: "2026-05-03"
+publishedAt: "2026-02-09"
 tags: ["slice-of-life", "comedy", "penguin", "cohabitation", "ongoing", "all-ages", "kodansha", "healing"]
 rating: 4
 hasAffiliate: true

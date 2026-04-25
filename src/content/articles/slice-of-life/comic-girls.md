@@ -17,7 +17,7 @@ contentWarnings: ["manga creation content", "all-female cast", "mild cute comedy
 description: "Yu's review of Comic Girls — Kaoruko Moeta (Chaos) is a struggling manga artist who moves into a dormitory for female manga artists; her companions are a successful gag manga artist (Koyume), a wildly popular romance manga artist (Ruki), and a veteran four-panel manga artist (Tsubasa); the series follows their creative work and daily life."
 coverImage: "/covers/comic-girls.jpg"
 amazonASIN: "1626929585"
-publishedAt: "2026-05-09"
+publishedAt: "2025-12-22"
 tags: ["slice-of-life", "comedy", "manga-creation", "completed", "all-ages", "seven-seas", "all-female", "creator"]
 rating: 3
 hasAffiliate: true

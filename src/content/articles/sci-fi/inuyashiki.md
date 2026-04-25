@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "mass murder depicted in detail", "graphic
 description: "Yu's review of Inuyashiki — two people are accidentally destroyed and rebuilt as machines by aliens; a 58-year-old man no one noticed becomes a hero; a teenage boy whom everyone admired becomes a mass murderer; the series asks what the inside of a person determines when they are given absolute power."
 coverImage: "/covers/inuyashiki.jpg"
 amazonASIN: "1632361213"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-03"
 tags: ["sci-fi", "drama", "seinen", "mature", "completed", "Hiroya-Oku"]
 rating: 4
 hasAffiliate: true

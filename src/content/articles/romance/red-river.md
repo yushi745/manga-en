@@ -17,7 +17,7 @@ contentWarnings: ["historical violence", "war", "some adult themes", "forced mar
 description: "Yu's review of Red River (Anatolia Story) — 15-year-old Yuri Suzuki is summoned to the Hittite Empire in ancient Anatolia by a queen who intends to use her as a human sacrifice; she escapes with the help of Prince Kail Mursili, and what begins as an attempt to survive becomes a journey to protect an empire and the man she loves."
 coverImage: "/covers/red-river.jpg"
 amazonASIN: "1591168384"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-18"
 tags: ["romance", "historical-fantasy", "completed", "isekai", "ancient-history", "shoujo"]
 rating: 5
 hasAffiliate: true

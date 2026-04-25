@@ -17,7 +17,7 @@ contentWarnings: ["Victorian era domestic content", "mild service elements", "ge
 description: "Yu's review of Shirley — a young girl named Shirley becomes maid to a young independent woman in Victorian England; Kaoru Mori's earlier work, smaller in scope than Emma or A Bride's Story but carrying her characteristic attention to period detail and domestic life."
 coverImage: "/covers/shirley.jpg"
 amazonASIN: "1401215165"
-publishedAt: "2026-05-22"
+publishedAt: "2026-02-18"
 tags: ["slice-of-life", "historical", "completed", "teen", "cmx", "kaoru-mori", "victorian", "domestic"]
 rating: 4
 hasAffiliate: true

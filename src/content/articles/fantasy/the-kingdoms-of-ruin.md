@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "mass death", "revenge themes", "execution
 description: "Yu's review of The Kingdoms of Ruin — after technology advanced enough to make magic unnecessary, humanity systematically exterminated all witches; the sole surviving human apprentice of the greatest witch witnesses her death and swears revenge against a civilization that killed the person who gave him everything; a dark fantasy revenge narrative with genuine emotional stakes."
 coverImage: "/covers/the-kingdoms-of-ruin.jpg"
 amazonASIN: "1638583749"
-publishedAt: "2026-04-29"
+publishedAt: "2025-02-12"
 tags: ["fantasy", "action", "revenge", "ongoing", "mature", "seven-seas", "dark-fantasy"]
 rating: 4
 hasAffiliate: true

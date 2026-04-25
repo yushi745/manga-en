@@ -17,7 +17,7 @@ contentWarnings: ["mature romantic content", "arranged marriage premise", "power
 description: "Yu's review of Happy Marriage?! — Chiwa Takanashi's father has gambling debts; Hokuto Mamiya, the president of the company where she works, offers to cancel the debts in exchange for a marriage of convenience to fulfill his grandfather's wish; the series follows their gradual transition from contract to something real."
 coverImage: "/covers/happy-marriage.jpg"
 amazonASIN: "1421561662"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-24"
 tags: ["romance", "josei", "completed", "marriage-of-convenience", "office-romance", "mature"]
 rating: 4
 hasAffiliate: true

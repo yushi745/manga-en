@@ -17,7 +17,7 @@ contentWarnings: ["found family themes", "child adoption themes", "fantasy adven
 description: "Yu's review of If It's for My Daughter, I'd Even Defeat a Demon Lord — Dale, a young elite adventurer, finds an abandoned demon girl named Latina in the forest and decides to take care of her; the series follows their daily life as a found-family fantasy slice-of-life, with Dale discovering that fatherhood suits him better than he expected."
 coverImage: "/covers/if-its-for-my-daughter.jpg"
 amazonASIN: "1632368390"
-publishedAt: "2026-04-29"
+publishedAt: "2026-01-14"
 tags: ["slice-of-life", "fantasy", "found-family", "completed", "teen", "kodansha", "isekai-adjacent"]
 rating: 4
 hasAffiliate: true

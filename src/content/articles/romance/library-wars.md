@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "censorship themes", "some adult content"]
 description: "Yu's review of Library Wars: Love & War — in a Japan where the government censors books and an armed Library Defense Force protects the freedom to read, Kasahara Iku joins the LDF to find the prince who saved her favorite book — and discovers her commanding officer is more than she expected."
 coverImage: "/covers/library-wars.jpg"
 amazonASIN: "1421537079"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-16"
 tags: ["romance", "action", "shojo", "completed", "library", "censorship"]
 rating: 4
 hasAffiliate: true

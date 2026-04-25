@@ -17,7 +17,7 @@ contentWarnings: ["harem romance", "explicit ecchi content", "mature content thr
 description: "Yu's review of To Love-Ru Darkness — the sequel to To Love-Ru shifts focus to Momo Belia Deviluke's plan to build a harem for Rito by integrating more girls into his life; while Rito remains the protagonist, the series develops Yami, Mikan, and Nemesis as central characters with more serious character arcs than the original series offered."
 coverImage: "/covers/to-love-ru-darkness.jpg"
 amazonASIN: "0316263079"
-publishedAt: "2026-05-09"
+publishedAt: "2025-09-11"
 tags: ["romance", "fantasy", "harem", "completed", "mature", "yen-press", "sequel", "ecchi"]
 rating: 3
 hasAffiliate: true

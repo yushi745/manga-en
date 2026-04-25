@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Black Paradox — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/black-paradox.jpg"
 amazonASIN: "1974736458"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-09"
 tags:
   - "horror"
   - "anthology"

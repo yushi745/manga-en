@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "comedy violence", "hitman themes (comedic)
 description: "Yu's review of Sakamoto Days — Taro Sakamoto was the most feared hitman in the world; he retired when he fell in love, married, and opened a convenience store; now overweight, domestically happy, and out of practice, he must repeatedly deal with the assassin world that cannot accept his retirement; an action comedy about a legendary fighter who would rather stock shelves."
 coverImage: "/covers/sakamoto-days.jpg"
 amazonASIN: "1974727572"
-publishedAt: "2026-04-27"
+publishedAt: "2024-10-16"
 tags: ["action", "comedy", "ongoing", "teen", "viz", "shonen-jump", "hitman", "comedy-action"]
 rating: 5
 hasAffiliate: true

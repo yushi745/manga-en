@@ -17,7 +17,7 @@ contentWarnings: ["sports competition"]
 description: "Yu's review of Captain Tsubasa — the manga credited with creating Japan's soccer boom, following prodigy Tsubasa Ozora from elementary school to the world stage."
 coverImage: "/covers/captain-tsubasa.jpg"
 amazonASIN: "1974713520"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-21"
 tags: ["sports", "soccer", "shonen", "classic", "completed", "legendary"]
 rating: 4
 hasAffiliate: true

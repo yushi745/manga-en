@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "social dynamics", "school setting", "bullying
 description: "Yu's review of Failed Princesses — Nanaki Fujishiro is the beautiful, popular girl at school whose social world collapses when her boyfriend cheats on her; Kurokawa Nao is the plain, unnoticed girl who witnesses this and offers help; their unexpected friendship develops into something more as Nanaki discovers a different kind of value."
 coverImage: "/covers/failed-princesses.jpg"
 amazonASIN: "1638582009"
-publishedAt: "2026-05-15"
+publishedAt: "2025-06-10"
 tags: ["romance", "yuri", "completed", "teen", "seven-seas", "school", "friendship-to-romance", "social-dynamics"]
 rating: 4
 hasAffiliate: true

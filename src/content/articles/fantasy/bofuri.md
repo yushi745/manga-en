@@ -17,7 +17,7 @@ contentWarnings: ["game violence (consequence-free)", "none significant"]
 description: "Yu's review of Bofuri — Maple is a beginner gamer who puts all her stats into VIT (defense) to avoid pain, accidentally absorbs every overpowered ability she encounters, and becomes a walking catastrophe in the shape of a cheerful girl."
 coverImage: "/covers/bofuri.jpg"
 amazonASIN: "1975323866"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-24"
 tags: ["fantasy", "game", "isekai", "comedy", "ongoing", "all-ages"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["death as central theme", "suicide", "violent deaths", "dystop
 description: "Yu's review of Ikigami — In a near-future Japan, citizens are injected with a nanomachine capsule at age six; one in a thousand capsules is activated at a random future date, killing its recipient; the purpose is to make citizens value life; Fujimoto delivers the ikigami — the 24-hour death notices — and must witness what people do with their remaining day."
 coverImage: "/covers/ikigami.jpg"
 amazonASIN: "1421520958"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-03"
 tags: ["sci-fi", "dystopia", "completed", "thriller", "death", "moral-complexity", "seinen"]
 rating: 4
 hasAffiliate: true

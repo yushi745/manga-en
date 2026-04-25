@@ -17,7 +17,7 @@ contentWarnings: ["sci-fi comedy", "god-level protagonist", "meta comedy", "time
 description: "Yu's review of The Melancholy of Haruhi Suzumiya manga — Kyon's ordinary high school life ends when he sits in front of Haruhi Suzumiya, who announces she has no interest in ordinary humans — only aliens, time travelers, ESPers, and sliders; what he doesn't know yet is that she is an unconscious god who has attracted exactly what she wanted."
 coverImage: "/covers/haruhi-suzumiya.jpg"
 amazonASIN: "0316037869"
-publishedAt: "2026-05-08"
+publishedAt: "2025-11-01"
 tags: ["sci-fi", "comedy", "completed", "teen", "yen-press", "meta", "supernatural", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

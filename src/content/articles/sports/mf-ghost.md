@@ -19,7 +19,7 @@ contentWarnings:
 description: "A comprehensive review of MF Ghost — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/mf-ghost.jpg"
 amazonASIN: "1632366886"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-10"
 tags:
   - "sports"
   - "racing"

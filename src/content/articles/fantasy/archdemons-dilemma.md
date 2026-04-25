@@ -17,7 +17,7 @@ contentWarnings: ["slave purchase premise", "fantasy romance", "demon world cult
 description: "Yu's review of An Archdemon's Dilemma — Zagan is a powerful archdemon feared by all who live near him; when he accidentally buys an elf girl named Nephy at a slave auction, he has no idea how to talk to her or express what he feels; the series follows his catastrophically bad attempts to communicate with someone for the first time."
 coverImage: "/covers/archdemons-dilemma.jpg"
 amazonASIN: "1638581547"
-publishedAt: "2026-05-03"
+publishedAt: "2024-11-19"
 tags: ["fantasy", "romance", "demon", "elf", "ongoing", "teen", "seven-seas", "slow-burn"]
 rating: 4
 hasAffiliate: true

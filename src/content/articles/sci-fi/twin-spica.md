@@ -17,7 +17,7 @@ contentWarnings: ["death of parent", "rocket disaster themes", "grief", "mild vi
 description: "Yu's review of Twin Spica — Asumi Kamogawa wants to become an astronaut; her mother died when a rocket crashed into their town when Asumi was an infant; a ghost in a lion's mask follows her through childhood and into the competitive astronaut training program, where she discovers what it actually takes to reach space."
 coverImage: "/covers/twin-spica.jpg"
 amazonASIN: "1934287431"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-27"
 tags: ["sci-fi", "slice-of-life", "completed", "teen", "vertical", "space", "coming-of-age"]
 rating: 5
 hasAffiliate: true

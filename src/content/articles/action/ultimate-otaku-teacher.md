@@ -17,7 +17,7 @@ contentWarnings: ["school setting", "otaku culture", "teaching methods", "mild a
 description: "Yu's review of Ultimate Otaku Teacher — Junichiro Kagami is Japan's greatest physicist and also a complete shut-in otaku who only leaves his room for anime and manga; when his sister forces him to become a teacher at her school, he discovers that his otaku knowledge and online gaming skills provide unusual solutions to student problems."
 coverImage: "/covers/ultimate-otaku-teacher.jpg"
 amazonASIN: "0316336424"
-publishedAt: "2026-05-13"
+publishedAt: "2024-11-06"
 tags: ["action", "comedy", "completed", "teen", "yen-press", "school", "otaku", "teacher"]
 rating: 3
 hasAffiliate: true

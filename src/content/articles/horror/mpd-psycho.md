@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "murder", "body horror", "disturbing image
 description: "Yu's review of MPD Psycho — criminal investigator Yōsuke Kobayashi has multiple personalities, one of whom is a serial killer; the cases he investigates involve crimes that connect to a conspiracy wider than any individual murder; dark crime horror with extreme content and a writer (Eiji Otsuka) who is interested in psychology and conspiracy in equal measure."
 coverImage: "/covers/mpd-psycho.jpg"
 amazonASIN: "1593074255"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-14"
 tags: ["horror", "crime", "completed", "18-plus", "dark-horse", "psychological", "extreme"]
 rating: 4
 hasAffiliate: true

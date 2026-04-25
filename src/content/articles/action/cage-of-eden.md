@@ -17,7 +17,7 @@ contentWarnings: ["survival violence", "animal attacks", "mature themes", "some 
 description: "Yu's review of Cage of Eden — high school student Akira Sengoku survives a plane crash with his classmates and finds himself on an island populated entirely by animals that should be extinct; the survivors must find out where they are, why this is happening, and how to survive long enough to get home."
 coverImage: "/covers/cage-of-eden.jpg"
 amazonASIN: "1612620124"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-10"
 tags: ["action", "survival", "shonen", "completed", "mystery", "prehistoric"]
 rating: 3
 hasAffiliate: true

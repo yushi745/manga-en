@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence against women", "bullying depicted graphical
 description: "Yu's review of Magical Girl Site — Aya Asagiri is abused at school and at home; she is given a magical weapon by a mysterious website and discovers she is part of a network of magical girls, each broken by abuse, and that their powers are draining their life force."
 coverImage: "/covers/magical-girl-site.jpg"
 amazonASIN: "1626927944"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-11"
 tags: ["horror", "dark-magical-girl", "mature", "completed"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["intense action violence", "existential themes", "dark backsto
 description: "Yu's review of Trigun Maximum — the direct continuation of Trigun, beginning where the original ended; Vash the Stampede's confrontation with his brother Knives moves from the background to the foreground as the series takes its plant-human mythology to its full conclusion."
 coverImage: "/covers/trigun-maximum.jpg"
 amazonASIN: "159307099X"
-publishedAt: "2026-05-05"
+publishedAt: "2024-11-04"
 tags: ["action", "sci-fi", "completed", "mature", "dark-horse", "western", "philosophical"]
 rating: 5
 hasAffiliate: true

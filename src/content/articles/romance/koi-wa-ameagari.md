@@ -17,7 +17,7 @@ contentWarnings: ["age-gap romantic feelings (high school girl / middle-aged man
 description: "Yu's review of After the Rain — Akira Tachibana, a high school track star sidelined by injury, works part-time at a family restaurant and develops feelings for her 45-year-old manager Masami Kondo; the series takes both characters' inner lives seriously without romanticizing the age gap."
 coverImage: "/covers/koi-wa-ameagari.jpg"
 amazonASIN: "1945054697"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-14"
 tags: ["romance", "drama", "completed", "age-gap", "seinen", "sports-injury", "literary"]
 rating: 5
 hasAffiliate: true

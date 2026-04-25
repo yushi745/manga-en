@@ -17,7 +17,7 @@ contentWarnings: ["school romance", "very close proximity comedy", "mild embarra
 description: "Yu's review of The Girl I Like Forgot Her Glasses — Komura has a crush on his seatmate Mie; every day Mie forgets her glasses; without glasses she can barely see; she has to get extremely close to Komura to see anything; Koume Fujichika's rom-com about a boy who loves a girl who has no idea how close she keeps getting."
 coverImage: "/covers/the-girl-i-like-forgot-her-glasses.jpg"
 amazonASIN: "1638586098"
-publishedAt: "2026-05-29"
+publishedAt: "2025-09-09"
 tags: ["romance", "comedy", "ongoing", "teen", "seven-seas", "glasses", "school-romance", "close-proximity"]
 rating: 4
 hasAffiliate: true

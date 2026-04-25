@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of One Outs — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/one-outs.jpg"
 amazonASIN: "142155097X"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-13"
 tags:
   - "sports"
   - "baseball"

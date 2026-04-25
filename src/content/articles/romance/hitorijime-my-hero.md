@@ -17,7 +17,7 @@ contentWarnings: ["BL/boys love", "age gap romance", "teacher-student adjacent r
 description: "Yu's review of Hitorijime My Hero — Masahiro Setagawa was drifting toward gang life when he was rescued by Kousuke Ohshiba, a legendary street fighter; Kousuke becomes the older brother of Masahiro's best friend; years later Masahiro's feelings for his protector have become something he can't categorize; Memeco Arii's BL manga about gratitude, protection, and whether the person who saved you can become the person you love."
 coverImage: "/covers/hitorijime-my-hero.jpg"
 amazonASIN: "1632369249"
-publishedAt: "2026-05-28"
+publishedAt: "2025-06-28"
 tags: ["romance", "BL", "ongoing", "teen-plus", "kodansha", "age-gap", "street-gang", "protector-romance"]
 rating: 4
 hasAffiliate: true

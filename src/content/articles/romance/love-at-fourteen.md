@@ -17,7 +17,7 @@ contentWarnings: ["middle school romance", "themes of social isolation from matu
 description: "Yu's review of Love at Fourteen — Kanata Tanaka and Kazuki Yoshikawa are thirteen-year-olds who present as older than their classmates; their maturity makes them popular and respected, but they hide their actual selves; they find each other as the only ones who understand the isolation of seeming older than you are."
 coverImage: "/covers/love-at-fourteen.jpg"
 amazonASIN: "0316336580"
-publishedAt: "2026-05-14"
+publishedAt: "2025-07-18"
 tags: ["romance", "completed", "teen", "yen-press", "middle-school", "wholesome", "coming-of-age"]
 rating: 4
 hasAffiliate: true

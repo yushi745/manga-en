@@ -17,7 +17,7 @@ contentWarnings: ["terminal illness", "death", "grief"]
 description: "Yu's review of I Want to Eat Your Pancreas — a high school boy accidentally discovers his classmate Sakura is dying of pancreatic disease; she decides she wants him, precisely because he doesn't react with pity, to share her remaining time; the title comes from a folk belief that eating a sick organ will heal it; an adaptation of the novel by Yoru Sumino."
 coverImage: "/covers/i-want-to-eat-your-pancreas.jpg"
 amazonASIN: "1626927561"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-12"
 tags: ["slice-of-life", "drama", "romance", "completed", "teen", "seven-seas", "one-volume"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["ecchi content", "demon romance", "magic school setting", "mat
 description: "Yu's review of Vermeil in Gold — Alto Goldfilled is a student at a magic academy who cannot summon a familiar; in desperation he attempts an ancient summoning circle and produces Vermeil, a legendary demon who should be impossible to summon; Vermeil agrees to form a contract, and recovers her power through kissing Alto."
 coverImage: "/covers/vermeil-in-gold.jpg"
 amazonASIN: "1646092252"
-publishedAt: "2026-05-03"
+publishedAt: "2025-02-20"
 tags: ["fantasy", "romance", "ecchi", "demon", "magic-school", "ongoing", "mature", "square-enix"]
 rating: 3
 hasAffiliate: true

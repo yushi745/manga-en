@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "themes of sacrifice and death", "romance"
 description: "Yu's review of Sailor Moon — a clumsy, crybaby middle schooler is revealed to be the legendary Sailor Moon, guardian warrior of love and justice, and eventually the reincarnated princess of the Moon Kingdom."
 coverImage: "/covers/sailor-moon.jpg"
 amazonASIN: "1612620051"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-14"
 tags: ["action", "romance", "magical-girl", "classic", "completed", "shojo"]
 rating: 5
 hasAffiliate: true

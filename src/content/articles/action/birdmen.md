@@ -17,7 +17,7 @@ contentWarnings: ["transformation body horror elements", "identity crisis", "sci
 description: "Yu's review of Birdmen — Eishi Karasuma and his classmates survive a bus crash by transforming into winged beings; they discover they are Birdmen, a new type of human evolution; government agencies want to study or eliminate them; they must decide what being Birdmen means for who they are."
 coverImage: "/covers/birdmen.jpg"
 amazonASIN: "1421585499"
-publishedAt: "2026-05-12"
+publishedAt: "2024-08-01"
 tags: ["sci-fi", "action", "completed", "teen", "viz-media", "evolution", "transformation", "identity"]
 rating: 4
 hasAffiliate: true

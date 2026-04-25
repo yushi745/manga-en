@@ -17,7 +17,7 @@ contentWarnings: ["wish-granting at soul cost", "gothic fantasy", "beautiful sup
 description: "Yu's review of Alichino — Alichino are beautiful supernatural beings who grant wishes at the cost of the wisher's soul; Tsugiri, a young man with a mysterious power that attracts Alichino, is being pursued by them; his encounter with Myobi, an Alichino with its own unusual nature, begins a relationship that complicates the simple predator/prey dynamic."
 coverImage: "/covers/alichino.jpg"
 amazonASIN: "1591167000"
-publishedAt: "2026-05-09"
+publishedAt: "2024-11-16"
 tags: ["fantasy", "supernatural", "completed", "teen", "viz-media", "gothic", "wish-granting", "dark-fantasy"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["student death", "grief", "unrequited love", "boys' boarding s
 description: "Yu's review of The Heart of Thomas — Thomas Werner falls from a bridge at a European boarding school, leaving behind a letter declaring his love for Juli; Juli, the student Thomas adored, must now live with having rejected Thomas's love, while a new student who resembles Thomas arrives at the school."
 coverImage: "/covers/heart-of-thomas.jpg"
 amazonASIN: "1606999079"
-publishedAt: "2026-05-21"
+publishedAt: "2025-06-25"
 tags: ["romance", "drama", "completed", "teen-plus", "fantagraphics", "classic", "boarding-school", "grief"]
 rating: 5
 hasAffiliate: true

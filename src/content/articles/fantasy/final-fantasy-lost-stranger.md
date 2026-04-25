@@ -17,7 +17,7 @@ contentWarnings: ["isekai", "death of protagonist early", "Final Fantasy game me
 description: "Yu's review of Final Fantasy: Lost Stranger — Shogo Sasaki, a Square Enix employee who dreamed of working on Final Fantasy and has been assigned to an unrelated project, dies in an accident and wakes in a world that operates on Final Fantasy rules; his mission becomes finding the Raise spell to revive the dead."
 coverImage: "/covers/final-fantasy-lost-stranger.jpg"
 amazonASIN: "1646090977"
-publishedAt: "2026-05-12"
+publishedAt: "2024-12-13"
 tags: ["fantasy", "isekai", "completed", "teen", "square-enix", "final-fantasy", "game-mechanics", "grief"]
 rating: 4
 hasAffiliate: true

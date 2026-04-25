@@ -17,7 +17,7 @@ contentWarnings: ["bullying (depicted seriously)", "themes of suicide", "themes 
 description: "Yu's review of A Silent Voice — a boy who bullied a deaf girl in elementary school finds her years later, having spent those years unable to forgive himself; what follows is a difficult story about damage, apology, and the kind of connection that might be possible after."
 coverImage: "/covers/a-silent-voice.jpg"
 amazonASIN: "163236056X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-10"
 tags: ["romance", "drama", "slice-of-life", "completed", "bullying", "disability", "emotional"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["gun violence", "action themes", "dark backstory"]
 description: "Yu's review of Black Cat — Train Heartnet, Chronos's Number XIII and most feared assassin, abandons the organization to become a Sweeper (bounty hunter) after a woman shows him that freedom is possible."
 coverImage: "/covers/black-cat.jpg"
 amazonASIN: "1421506055"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-01"
 tags: ["action", "sci-fi", "shonen", "completed", "guns"]
 rating: 4
 hasAffiliate: true

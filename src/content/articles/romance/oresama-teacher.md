@@ -17,7 +17,7 @@ contentWarnings: ["comedy violence", "delinquent themes", "school chaos"]
 description: "Yu's review of Oresama Teacher — former gang leader Mafuyu Kurosaki transfers to Midorigaoka Academy determined to become a proper lady; her homeroom teacher Takaomi Saeki is her childhood friend and used to be a delinquent himself, and he immediately destroys all her plans."
 coverImage: "/covers/oresama-teacher.jpg"
 amazonASIN: "1421538652"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-10"
 tags: ["romance", "comedy", "shoujo", "completed", "delinquent", "school-life"]
 rating: 4
 hasAffiliate: true

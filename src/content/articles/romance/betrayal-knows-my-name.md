@@ -16,7 +16,7 @@ contentWarnings: ["supernatural violence", "reincarnation themes", "tragic backs
 description: "Yu's review of The Betrayal Knows My Name — Yuki Sakurai discovers he is the reincarnation of a warrior who died protecting someone called Luka; Luka has now found him again; demons called Duras threaten the world; Hotaru Odagiri's supernatural romance manga about past lives, sacrifice, and a love that survived death and rebirth."
 coverImage: "/covers/betrayal-knows-my-name.jpg"
 amazonASIN: "0316176877"
-publishedAt: "2026-05-30"
+publishedAt: "2025-05-19"
 tags: ["romance", "fantasy", "supernatural", "completed", "teen", "yen-press", "reincarnation", "bl-adjacent"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["violence", "supernatural danger", "some themes of family obli
 description: "Yu's review of Kekkaishi — Yoshimori Sumimura and Tokine Yukimura are rival kekkaishi from neighboring families, both tasked with protecting the Karasumori school grounds from demons; the land amplifies supernatural power, which means every ayakashi that enters becomes an immediate threat."
 coverImage: "/covers/kekkaishi.jpg"
 amazonASIN: "1591167809"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-13"
 tags: ["action", "supernatural", "shonen", "completed", "demons"]
 rating: 4
 hasAffiliate: true

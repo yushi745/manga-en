@@ -17,7 +17,7 @@ contentWarnings: ["psychological horror", "identity dissolution", "reality disto
 description: "Yu's review of Serial Experiments Lain manga — an adaptation of the 1998 anime that offers a different perspective on Lain Iwakura's story; Lain is a withdrawn middle school girl who becomes increasingly absorbed into the Wired, a network analogous to the internet, until the boundary between herself and the network becomes unclear."
 coverImage: "/covers/serial-experiments-lain.jpg"
 amazonASIN: "1569713642"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-18"
 tags: ["sci-fi", "psychological", "completed", "teen-plus", "dark-horse", "identity", "cyberpunk"]
 rating: 4
 hasAffiliate: true

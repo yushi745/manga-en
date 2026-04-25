@@ -17,7 +17,7 @@ contentWarnings: ["historical fantasy", "political intrigue", "gender discrimina
 description: "Yu's review of The Story of Saiunkoku — Shuurei Hong is a noblewoman in a historical Chinese-inspired kingdom who wants to become a government official, but women are barred from the civil service; the Emperor Ryuuki asks her to teach him responsibility; Sai Yukino's historical fantasy about a woman who refuses to be excluded from the world she's qualified for."
 coverImage: "/covers/story-of-saiunkoku.jpg"
 amazonASIN: "1421513498"
-publishedAt: "2026-05-29"
+publishedAt: "2025-09-01"
 tags: ["romance", "fantasy", "historical", "completed", "teen", "viz-media", "chinese-inspired", "political-intrigue"]
 rating: 4
 hasAffiliate: true

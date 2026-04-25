@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "phantom thief themes", "love triangle
 description: "Yu's review of D.N.Angel — Daisuke Niwa is fourteen and in love with Risa Harada; when he thinks of her, he transforms into the legendary phantom thief Dark Mousy, who has his own romantic interest, his own art theft agenda, and a complicated relationship with his own host."
 coverImage: "/covers/dn-angel.jpg"
 amazonASIN: "1591823331"
-publishedAt: "2026-05-05"
+publishedAt: "2025-06-06"
 tags: ["romance", "fantasy", "supernatural", "phantom-thief", "ongoing", "teen", "tokyopop"]
 rating: 3
 hasAffiliate: true

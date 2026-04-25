@@ -17,7 +17,7 @@ contentWarnings: ["food and cooking focus", "light romance", "school competition
 description: "Yu's review of Kitchen Princess — Najika Kazami grew up in an orphanage where the only warmth she knew was from a mysterious boy who saved her when she was choking and gave her flan; she has spent years learning to cook in the hope of finding him; she transfers to an elite school in Tokyo following a clue and tries to find her 'Flan Prince' while discovering the school's food culture."
 coverImage: "/covers/kitchen-princess.jpg"
 amazonASIN: "034549677X"
-publishedAt: "2026-05-08"
+publishedAt: "2025-07-13"
 tags: ["romance", "slice-of-life", "food", "completed", "all-ages", "del-rey", "school", "cooking"]
 rating: 3
 hasAffiliate: true

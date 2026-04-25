@@ -17,7 +17,7 @@ contentWarnings: ["violence", "war themes", "intersex representation", "sexual c
 description: "Yu's review of Requiem of the Rose King — a dark manga adaptation of Shakespeare's Henry VI and Richard III set during the Wars of the Roses, reimagining Richard of Gloucester as intersex; ambitious historical dark fantasy that takes the psychological portrait of one of literature's great villains and asks what made him."
 coverImage: "/covers/requiem-rose-king.jpg"
 amazonASIN: "1421581620"
-publishedAt: "2026-04-25"
+publishedAt: "2025-01-26"
 tags: ["fantasy", "historical", "completed", "mature", "viz", "shakespeare", "dark"]
 rating: 5
 hasAffiliate: true

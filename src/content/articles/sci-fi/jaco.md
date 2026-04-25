@@ -17,7 +17,7 @@ contentWarnings: ["light sci-fi comedy", "Toriyama slapstick"]
 description: "Yu's review of Jaco the Galactic Patrolman — Jaco is a Galaxy Patrolman who crashes on Earth and befriends a retired scientist; he was sent to Earth on a mission he cannot quite remember, is extremely arrogant about his skills, and the story quietly connects to a larger mythology that Dragon Ball fans will recognize."
 coverImage: "/covers/jaco.jpg"
 amazonASIN: "1421573970"
-publishedAt: "2026-05-11"
+publishedAt: "2025-11-04"
 tags: ["sci-fi", "comedy", "completed", "all-ages", "viz-media", "toriyama", "dragon-ball", "oneshot"]
 rating: 4
 hasAffiliate: true

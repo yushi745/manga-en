@@ -17,7 +17,7 @@ contentWarnings: ["yakuza setting", "explicit romantic and sexual content", "org
 description: "Yu's review of Yakuza Lover — Yuri Koda, a strong-willed college student who has never let anyone push her around, meets Oya, the heir to a yakuza empire; she refuses to be intimidated by him; he finds this extremely attractive; the romance that follows is adult, explicit, and specific about the complications of loving someone in organized crime."
 coverImage: "/covers/yakuza-lover.jpg"
 amazonASIN: "1974722201"
-publishedAt: "2026-05-19"
+publishedAt: "2025-09-26"
 tags: ["romance", "josei", "ongoing", "mature", "viz-media", "yakuza", "adult-romance", "explicit"]
 rating: 4
 hasAffiliate: true

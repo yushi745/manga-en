@@ -17,7 +17,7 @@ contentWarnings: ["otome game genre parody", "male protagonist in female-targete
 description: "Yu's review of Trapped in a Dating Sim — Leon Fou Bartfort is reincarnated into the world of an otome game he was forced to complete before his death; in this world women have all the power and men are essentially accessories; he has knowledge of all the game's events and routes, and uses this to avoid the terrible fate awaiting male mob characters in this genre."
 coverImage: "/covers/trapped-in-dating-sim.jpg"
 amazonASIN: "1638582211"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-15"
 tags: ["fantasy", "isekai", "comedy", "ongoing", "seven-seas", "otome-game", "male-protagonist"]
 rating: 4
 hasAffiliate: true

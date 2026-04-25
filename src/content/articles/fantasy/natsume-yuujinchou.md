@@ -17,7 +17,7 @@ contentWarnings: ["supernatural themes", "loneliness themes", "yokai encounters"
 description: "Yu's review of Natsume's Book of Friends — Takashi Natsume can see spirits and has always been isolated because of it; inheriting his grandmother Reiko's Book of Friends, a registry of spirits bound to her name, he begins returning their names while navigating his own loneliness; Yuki Midorikawa's ongoing supernatural slice-of-life."
 coverImage: "/covers/natsume-yuujinchou.jpg"
 amazonASIN: "1421532212"
-publishedAt: "2026-05-22"
+publishedAt: "2025-01-16"
 tags: ["fantasy", "supernatural", "ongoing", "teen", "viz-media", "yokai", "emotional", "slice-of-life"]
 rating: 5
 hasAffiliate: true

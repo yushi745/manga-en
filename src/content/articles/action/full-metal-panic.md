@@ -21,7 +21,7 @@ contentWarnings:
 description: "Yu's review of Full Metal Panic — a soldier from a paramilitary anti-terrorist organization is assigned to protect an ordinary high school girl, with predictably chaotic results."
 coverImage: "/covers/full-metal-panic.jpg"
 amazonASIN: "1413901786"
-publishedAt: "2026-04-26"
+publishedAt: "2024-08-27"
 tags:
   - "action"
   - "comedy"

@@ -17,7 +17,7 @@ contentWarnings: ["isekai combat", "overpowered protagonist", "bear-themed comed
 description: "Yu's review of Kuma Kuma Kuma Bear — Yuna is a wealthy shut-in who plays VRMMOs; when her favorite game gets updated, she receives a ridiculously overpowered bear suit as a gift item; she chooses to keep wearing it even after being transported to another world, bear hands and all."
 coverImage: "/covers/kuma-kuma-kuma-bear.jpg"
 amazonASIN: "1638582009"
-publishedAt: "2026-05-04"
+publishedAt: "2025-01-03"
 tags: ["fantasy", "comedy", "isekai", "overpowered", "ongoing", "teen", "seven-seas", "bear"]
 rating: 4
 hasAffiliate: true

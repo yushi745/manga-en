@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "explicit sexual content", "infidelity",
 description: "Yu's review of The Cornered Mouse Dreams of Cheese — Kyouichi Otomo has been cheating on his wife and has been discovered; the person who found him out is Wataru Imagase, a colleague from his past who has been in love with him for years and offers to keep quiet in exchange for a chance."
 coverImage: "/covers/cornered-mouse-dreams-of-cheese.jpg"
 amazonASIN: "1421564432"
-publishedAt: "2026-05-17"
+publishedAt: "2025-06-01"
 tags: ["romance", "boys-love", "completed", "mature", "sublime", "one-volume", "infidelity", "adult-themes"]
 rating: 5
 hasAffiliate: true

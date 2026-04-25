@@ -17,7 +17,7 @@ contentWarnings: ["psychological mind-entering", "dark inner self", "supernatura
 description: "Yu's review of Queen's Quality — Fumi Nishioka works for a family of Mind Sweepers who enter people's minds to remove supernatural bugs; the Kyutaro Horikita, her partner, knows that Fumi harbors an extremely powerful inner persona called the Black Queen who could destroy or save everything — and that his feelings for her are complicated by his role in her situation."
 coverImage: "/covers/queens-quality.jpg"
 amazonASIN: "1421595273"
-publishedAt: "2026-05-11"
+publishedAt: "2025-08-17"
 tags: ["romance", "fantasy", "completed", "teen", "viz-media", "mind-sweeper", "supernatural", "motomi"]
 rating: 4
 hasAffiliate: true

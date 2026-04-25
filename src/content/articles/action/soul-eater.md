@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "horror imagery", "themes of madness", "dar
 description: "Yu's review of Soul Eater — a manga set in a school where students are weapon-wielders, and the weapons are people. Gothic, funny, and visually unlike anything else in manga. One of the best completed action series of its era."
 coverImage: "/covers/soul-eater.jpg"
 amazonASIN: "0759530017"
-publishedAt: "2026-04-23"
+publishedAt: "2024-10-24"
 tags: ["shonen", "action", "fantasy", "horror", "completed", "gothic"]
 rating: 4
 hasAffiliate: true

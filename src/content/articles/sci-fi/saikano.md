@@ -17,7 +17,7 @@ contentWarnings: ["war", "death", "body horror", "emotional violence", "tragic t
 description: "Yu's review of Saikano — Chise is a clumsy, awkward high school girl who has recently started dating Shuji; she is also the last weapon, a girl whose body has been modified into a living weapon system for Japan's military; the series follows their relationship as the war escalates and Chise's modifications progressively replace her humanity."
 coverImage: "/covers/saikano.jpg"
 amazonASIN: "1591161460"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-17"
 tags: ["sci-fi", "romance", "completed", "teen-plus", "viz-media", "war", "tragedy"]
 rating: 5
 hasAffiliate: true

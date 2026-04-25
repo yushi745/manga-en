@@ -17,7 +17,7 @@ contentWarnings: ["ensemble comedy", "film production themes", "belonging themes
 description: "Yu's review of Behind the Scenes!! — Ranmaru Kurisu has always felt like he gets in everyone's way; at university, he accidentally falls into the Art Squad — the group that builds props, sets, and effects for the drama and film clubs — and discovers that being good at invisible work is exactly the right kind of contribution for someone who thought he had nothing to contribute."
 coverImage: "/covers/behind-the-scenes.jpg"
 amazonASIN: "1421591383"
-publishedAt: "2026-05-19"
+publishedAt: "2025-12-12"
 tags: ["slice-of-life", "comedy", "completed", "teen", "viz-media", "art-squad", "film-production", "belonging"]
 rating: 4
 hasAffiliate: true

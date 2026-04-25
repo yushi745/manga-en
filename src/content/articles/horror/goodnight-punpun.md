@@ -17,7 +17,7 @@ contentWarnings: ["severe depression", "suicide and suicidal ideation", "abuse",
 description: "Yu's review of Goodnight Punpun — Punpun is drawn as a small bird-like symbol while everyone around him is human; the manga follows him from childhood through adulthood as the world refuses to be better than it is."
 coverImage: "/covers/goodnight-punpun.jpg"
 amazonASIN: "1421586207"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-26"
 tags: ["horror", "slice-of-life", "mature", "completed", "Asano", "psychological", "devastating"]
 rating: 5
 hasAffiliate: true

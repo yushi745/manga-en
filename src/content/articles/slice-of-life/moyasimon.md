@@ -17,7 +17,7 @@ contentWarnings: ["alcohol themes", "adult humor", "some crude content"]
 description: "Yu's review of Moyasimon — Sawaki Tadayasu can see microorganisms with his naked eye; when he enters an agricultural university, the microbes become characters, the professors become mentors, and fermentation becomes the lens through which the series examines science, tradition, and growing up."
 coverImage: "/covers/moyasimon.jpg"
 amazonASIN: "1934287067"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-29"
 tags: ["slice-of-life", "comedy", "completed", "teen-plus", "vertical", "science", "agriculture"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "death", "existential themes", "dark charac
 description: "Yu's review of Lucifer and the Biscuit Hammer — Yuuhi Amamiya, a university student who doesn't care about much of anything, is told by a lizard that he is a 'Beast Knight' destined to save the world; he's more interested in the plan of Princess Samidare to save the world herself — so she can destroy it after."
 coverImage: "/covers/lucifer-and-the-biscuit-hammer.jpg"
 amazonASIN: "1626924988"
-publishedAt: "2026-04-30"
+publishedAt: "2025-01-06"
 tags: ["fantasy", "action", "completed", "teen", "seven-seas", "seinen", "team-battle"]
 rating: 5
 hasAffiliate: true

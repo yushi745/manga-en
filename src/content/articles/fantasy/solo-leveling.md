@@ -17,7 +17,7 @@ contentWarnings: ["dungeon combat", "death and resurrection", "overpowered prota
 description: "Yu's review of Solo Leveling — Sung Jinwoo is the weakest hunter in a world where gates to dungeons have opened and hunters fight the monsters within; after a near-fatal mission, he receives a mysterious system that allows only him to grow stronger — endlessly, without limit."
 coverImage: "/covers/solo-leveling.jpg"
 amazonASIN: "197531937X"
-publishedAt: "2026-05-04"
+publishedAt: "2025-02-05"
 tags: ["fantasy", "action", "dungeon", "overpowered", "completed", "teen", "yen-press", "manhwa"]
 rating: 5
 hasAffiliate: true

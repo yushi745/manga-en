@@ -17,7 +17,7 @@ contentWarnings: ["death", "zombie content", "supernatural violence", "dark them
 description: "Yu's review of Zombie-Loan — Michiru Kita has the shinigami eyes ability to see death rings around people's necks; two boys at her school, Chika Akatsuki and Shito Tachibana, have black rings indicating they should already be dead; they are alive because they made a contract with a Zombie-Loan office, exchanging their continued existence for debt repayment through zombie hunting."
 coverImage: "/covers/zombie-loan.jpg"
 amazonASIN: "0759531951"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-08"
 tags: ["horror", "action", "completed", "teen-plus", "yen-press", "supernatural", "zombie"]
 rating: 4
 hasAffiliate: true

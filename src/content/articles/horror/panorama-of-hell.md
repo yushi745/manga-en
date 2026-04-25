@@ -17,7 +17,7 @@ contentWarnings: ["extreme imagery", "body horror", "death", "disturbing content
 description: "Yu's review of Panorama of Hell — an unnamed painter who uses his own blood as paint describes the hellish visions he depicts; the work is autobiographical in structure but the autobiography is a constructed nightmare; Hideshi Hino's most complete statement on horror as a response to historical catastrophe."
 coverImage: "/covers/panorama-of-hell.jpg"
 amazonASIN: "160699692X"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-21"
 tags: ["horror", "art-manga", "completed", "18-plus", "fantagraphics", "classic", "hideshi-hino"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["blackmail as romantic premise", "intense romantic rivalry", "
 description: "Yu's review of Missions of Love — Yukina Himuro is a popular anonymous shojo manga creator who lacks real romantic experience; she discovers a classmate's secret and uses it to blackmail him into performing romantic gestures for her research; the arrangement predictably becomes something more complicated."
 coverImage: "/covers/missions-of-love.jpg"
 amazonASIN: "1612623859"
-publishedAt: "2026-04-25"
+publishedAt: "2025-07-29"
 tags: ["romance", "comedy", "completed", "shojo", "kodansha", "blackmail-premise"]
 rating: 4
 hasAffiliate: true

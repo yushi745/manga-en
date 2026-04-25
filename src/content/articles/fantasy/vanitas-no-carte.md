@@ -17,7 +17,7 @@ contentWarnings: ["violence", "dark themes", "vampire content", "psychological h
 description: "Yu's review of The Case Study of Vanitas — in a 19th-century steampunk Paris, Vanitas is a human who inherited a cursed grimoire from a vampire who hated his own kind; Noé is a vampire sent to find the grimoire; together they work to cure vampires afflicted with a curse that turns them feral; by the creator of Pandora Hearts."
 coverImage: "/covers/vanitas-no-carte.jpg"
 amazonASIN: "0316270253"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-19"
 tags: ["fantasy", "supernatural", "ongoing", "teen", "yen-press", "vampire", "steampunk"]
 rating: 4
 hasAffiliate: true

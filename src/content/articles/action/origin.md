@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Origin — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/origin.jpg"
 amazonASIN: "1646515625"
-publishedAt: "2026-04-25"
+publishedAt: "2024-10-04"
 tags:
   - "action"
   - "sci-fi"

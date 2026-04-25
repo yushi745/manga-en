@@ -17,7 +17,7 @@ contentWarnings: ["yuri themes", "school comedy", "mild romantic content between
 description: "Yu's review of YuruYuri — four middle school girls take over the tea ceremony room to create their Amusement Club; they do nothing in particular; Namori's long-running yuri comedy about the specific pleasure of doing nothing with your best friends."
 coverImage: "/covers/yuruyuri.jpg"
 amazonASIN: "0316321710"
-publishedAt: "2026-05-23"
+publishedAt: "2026-03-10"
 tags: ["slice-of-life", "comedy", "ongoing", "teen", "yen-press", "yuri", "school", "club"]
 rating: 4
 hasAffiliate: true

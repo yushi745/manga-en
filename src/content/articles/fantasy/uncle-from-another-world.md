@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence in flashback", "comedy misunderstanding", "r
 description: "Yu's review of Uncle from Another World — Takafumi's uncle Yosuke wakes from a 17-year coma having been an isekai hero in another world; Takafumi discovers his uncle has magical powers but also deeply embarrassing stories about how he was treated in the other world."
 coverImage: "/covers/uncle-from-another-world.jpg"
 amazonASIN: "1638583625"
-publishedAt: "2026-05-02"
+publishedAt: "2025-02-17"
 tags: ["fantasy", "comedy", "isekai", "ongoing", "teen", "seven-seas", "parody", "retro-gaming"]
 rating: 5
 hasAffiliate: true

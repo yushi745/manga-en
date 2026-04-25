@@ -17,7 +17,7 @@ contentWarnings: ["explicit fan service", "monster girl harem", "mature sexual c
 description: "Yu's review of Monster Musume — in a Japan where monsters have been revealed to exist and a cultural exchange program places them with human host families, Kimihito Kurusu ends up hosting a lamia, a harpy, a centaur, and more, while navigating the law that forbids human-monster relationships."
 coverImage: "/covers/monster-musume.jpg"
 amazonASIN: "1626920079"
-publishedAt: "2026-05-13"
+publishedAt: "2024-09-24"
 tags: ["action", "romance", "comedy", "completed", "mature", "seven-seas", "monster-girl", "harem"]
 rating: 3
 hasAffiliate: true

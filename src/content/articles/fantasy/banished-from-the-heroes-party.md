@@ -17,7 +17,7 @@ contentWarnings: ["mild fantasy violence", "slow life content", "some discussion
 description: "Yu's review of Banished from the Hero's Party — Red, former vanguard of a hero's party, is told his blessing is too ordinary and leaves the group; in a countryside town, he opens an apothecary and tries to build the quiet life he always wanted, while Rit — a princess-turned-adventurer who loves him — joins him; a fantasy that chooses warmth over adventure."
 coverImage: "/covers/banished-from-the-heroes-party.jpg"
 amazonASIN: "1975334779"
-publishedAt: "2026-04-28"
+publishedAt: "2024-11-21"
 tags: ["fantasy", "isekai", "slice-of-life", "ongoing", "teen", "yen-press", "slow-life", "romance"]
 rating: 4
 hasAffiliate: true

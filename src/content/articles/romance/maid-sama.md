@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "comedy scenarios"]
 description: "Yu's review of Maid Sama! — Misaki Ayuzawa is the iron-fisted student council president of a formerly all-boys school; she works secretly at a maid café to support her family; the school's most popular boy discovers her secret and holds it over her, but not in the way she expects."
 coverImage: "/covers/maid-sama.jpg"
 amazonASIN: "1421531437"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-25"
 tags: ["romance", "comedy", "shojo", "completed", "maid-café", "classic"]
 rating: 4
 hasAffiliate: true

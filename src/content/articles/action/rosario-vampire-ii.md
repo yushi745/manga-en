@@ -17,7 +17,7 @@ contentWarnings: ["fan service", "action violence", "darker themes than Season I
 description: "Yu's review of Rosario + Vampire: Season II — picking up from the end of Season I, Tsukune Aono and his monster companions return with higher stakes; the series shifts toward darker action with genuine monster-world political conflict while retaining the original's character relationships."
 coverImage: "/covers/rosario-vampire-ii.jpg"
 amazonASIN: "142153445X"
-publishedAt: "2026-05-16"
+publishedAt: "2024-10-13"
 tags: ["action", "fantasy", "completed", "teen-plus", "viz-media", "monster-school", "sequel", "tournament"]
 rating: 3
 hasAffiliate: true

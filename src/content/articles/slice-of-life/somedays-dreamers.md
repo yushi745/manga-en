@@ -17,7 +17,7 @@ contentWarnings: ["gentle fantasy", "coming-of-age themes", "wishes and their co
 description: "Yu's review of Someday's Dreamers — Yume Kikuchi comes to Tokyo from her small hometown to become a licensed mage under the guidance of Masami Oyamada; the series follows her apprenticeship and her growing understanding that granting wishes is not simple, that magic cannot solve everything, and that some things people want cannot be given."
 coverImage: "/covers/somedays-dreamers.jpg"
 amazonASIN: "159182175X"
-publishedAt: "2026-05-07"
+publishedAt: "2026-02-22"
 tags: ["slice-of-life", "fantasy", "coming-of-age", "completed", "all-ages", "tokyopop", "magic", "bittersweet"]
 rating: 4
 hasAffiliate: true

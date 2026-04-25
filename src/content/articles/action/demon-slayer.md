@@ -17,7 +17,7 @@ contentWarnings: ["violence", "gore", "themes of death and grief", "disturbing i
 description: "Yu's review of Demon Slayer — 23 volumes, breathtaking art, and a story about a boy who shows kindness even to the monsters who destroyed his family. One of the most beautiful and brutal manga ever made."
 coverImage: "/covers/demon-slayer.jpg"
 amazonASIN: "B07CTBBGZF"
-publishedAt: "2026-04-23"
+publishedAt: "2024-08-17"
 tags: ["shonen", "demons", "action", "historical", "completed", "anime"]
 rating: 5
 hasAffiliate: true

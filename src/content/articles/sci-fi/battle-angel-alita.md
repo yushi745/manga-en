@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "body horror", "cyberpunk violence", "exis
 description: "Yu's review of Battle Angel Alita — a cyborg warrior with no memory of her past is discovered in a junkyard and rebuilt, and must fight her way through a brutal cyberpunk world to discover who she is."
 coverImage: "/covers/battle-angel-alita.jpg"
 amazonASIN: "1612629245"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-12"
 tags: ["sci-fi", "cyberpunk", "action", "classic", "completed"]
 rating: 5
 hasAffiliate: true

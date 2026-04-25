@@ -17,7 +17,7 @@ contentWarnings: ["sacrificial premise", "beast kingdom setting", "fantasy roman
 description: "Yu's review of Sacrificial Princess and the King of Beasts — Sariphi is a human girl offered as a sacrifice to the Beast King Leonhart, who is expected to devour her; instead of pleading for her life, she asks to spend the remaining time as his companion; Leonhart, bewildered by her response, agrees."
 coverImage: "/covers/sacrificial-princess-beast-king.jpg"
 amazonASIN: "1974715272"
-publishedAt: "2026-05-03"
+publishedAt: "2025-01-30"
 tags: ["fantasy", "romance", "beast-kingdom", "completed", "teen", "viz-media", "shoujo", "slow-burn"]
 rating: 5
 hasAffiliate: true

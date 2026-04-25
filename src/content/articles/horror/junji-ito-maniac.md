@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Junji Ito Maniac: Japanese Tales of the Macabre — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/junji-ito-maniac.jpg"
 amazonASIN: "1974741079"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-03"
 tags:
   - "horror"
   - "anthology"

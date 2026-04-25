@@ -17,7 +17,7 @@ contentWarnings: ["war aftermath themes", "PTSD themes", "some violence", "pover
 description: "Yu's review of Pumpkin Scissors — a ceasefire has ended the war between the Empire and the Republic, but the civilian population is suffering from poverty, bandit violence, and the breakdown of social infrastructure; the Imperial Army's Section III — Pumpkin Scissors — is supposed to handle war relief; Alice L. Malvin leads the section with the conviction that soldiers have an obligation to serve civilians; Randel Oland, a massive ex-soldier with a blue lantern and a traumatic past, joins."
 coverImage: "/covers/pumpkin-scissors.jpg"
 amazonASIN: "0345495888"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-09"
 tags: ["action", "drama", "ongoing", "military", "post-war", "seinen"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "language barrier themes", "prophecy confl
 description: "Yu's review of From Far Away — Noriko Tachiba is pulled into a fantasy world through an explosion and rescued by a young man named Izark; she cannot speak the language; Izark is fated to become the 'Sky Demon' — the prophecy says the creature that awakens his power will cause the end of the world, and that creature is Noriko."
 coverImage: "/covers/from-far-away.jpg"
 amazonASIN: "1591168457"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-14"
 tags: ["romance", "fantasy", "completed", "isekai", "language-barrier", "shoujo"]
 rating: 5
 hasAffiliate: true

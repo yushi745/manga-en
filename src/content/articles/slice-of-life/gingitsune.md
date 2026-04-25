@@ -17,7 +17,7 @@ contentWarnings: ["Shinto religious practices", "supernatural elements", "gentle
 description: "Yu's review of Gingitsune — Makoto Saeki can see the fox spirit Gintaro, who serves as the herald of the shrine her family maintains; most people cannot see heralds; the series follows Makoto's life at the shrine, her relationships with Gintaro and the other spirits she encounters, and how Shinto practice shapes her daily life."
 coverImage: "/covers/gingitsune.jpg"
 amazonASIN: "1941220029"
-publishedAt: "2026-05-19"
+publishedAt: "2026-01-01"
 tags: ["slice-of-life", "supernatural", "ongoing", "teen", "vertical", "shinto", "fox-spirit", "shrine"]
 rating: 4
 hasAffiliate: true

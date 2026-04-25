@@ -17,7 +17,7 @@ contentWarnings: ["sports competition", "family separation themes"]
 description: "Yu's review of Angelic Layer — Misaki Suzuhara discovers Angelic Layer, a competition game involving small battle dolls called Angels controlled by the player's mind and movement; she creates her own Angel and enters the tournament circuit; a compact CLAMP sports manga that connects the competition arc to a personal family story."
 coverImage: "/covers/angelic-layer.jpg"
 amazonASIN: "1595327304"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-14"
 tags: ["sports", "sci-fi", "competition", "completed", "teen", "dark-horse", "clamp", "classic"]
 rating: 4
 hasAffiliate: true

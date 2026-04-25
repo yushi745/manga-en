@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "political family background themes"]
 description: "Yu's review of Monkey High — Haruna Aizawa transfers to a new school after her politician father's scandal; she expects to keep her distance from her new classmates; Masaru, the class's short, energetic leader who reminds everyone of a baby monkey, is entirely impossible to keep at a distance."
 coverImage: "/covers/monkey-high.jpg"
 amazonASIN: "1421515938"
-publishedAt: "2026-04-25"
+publishedAt: "2025-07-30"
 tags: ["romance", "comedy", "completed", "shojo", "viz-media"]
 rating: 4
 hasAffiliate: true

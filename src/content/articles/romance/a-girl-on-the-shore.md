@@ -17,7 +17,7 @@ contentWarnings: ["explicit sexual content", "teenage characters in sexual situa
 description: "Yu's review of A Girl on the Shore — Koume Sato and Isobe start a physical relationship after Koume is rejected by the boy she loved; it is not what either of them would call love, but neither of them can stop; Inio Asano's short manga about the specific way adolescents hurt each other and themselves."
 coverImage: "/covers/a-girl-on-the-shore.jpg"
 amazonASIN: "1939130476"
-publishedAt: "2026-05-21"
+publishedAt: "2025-05-09"
 tags: ["romance", "drama", "completed", "mature", "vertical", "adolescence", "complicated-relationship", "literary"]
 rating: 4
 hasAffiliate: true

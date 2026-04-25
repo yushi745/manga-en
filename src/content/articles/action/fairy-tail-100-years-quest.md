@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "fantasy combat", "Fairy Tail series knowle
 description: "Yu's review of Fairy Tail: 100 Years Quest — the direct sequel to Fairy Tail sends Natsu and Team Natsu on a quest that has gone uncompleted for 100 years, involving five Dragon Gods whose power exceeds anything they've previously faced; this is Fairy Tail continuing with the same team, same energy, and new antagonists."
 coverImage: "/covers/fairy-tail-100-years-quest.jpg"
 amazonASIN: "1646512588"
-publishedAt: "2026-04-27"
+publishedAt: "2024-08-23"
 tags: ["action", "fantasy", "ongoing", "teen", "kodansha", "fairy-tail", "sequel", "dragon"]
 rating: 4
 hasAffiliate: true

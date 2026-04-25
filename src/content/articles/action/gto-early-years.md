@@ -17,7 +17,7 @@ contentWarnings: ["delinquent content", "gang violence", "crude humor", "mature 
 description: "Yu's review of GTO: The Early Years — Eikichi Onizuka is a high school delinquent in Shonan with his best friend Ryuji Danma; they're not yet teachers, just two teenagers who want to be with beautiful women and occasionally beat up yakuza; Toru Fujisawa's prequel to GTO that follows Onizuka's wild youth before teaching made him great."
 coverImage: "/covers/gto-early-years.jpg"
 amazonASIN: "1939130743"
-publishedAt: "2026-05-30"
+publishedAt: "2024-09-01"
 tags: ["action", "comedy", "drama", "completed", "teen-plus", "vertical", "delinquent", "gto-prequel", "shonan"]
 rating: 4
 hasAffiliate: true

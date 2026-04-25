@@ -17,7 +17,7 @@ contentWarnings: ["post-apocalyptic setting", "body horror elements", "absurdist
 description: "Yu's review of Yokohama Station SF — Yokohama Station has been self-expanding for centuries and now covers all of Honshu; the world outside is called the Outside; Hiroto, who has never been inside the Station, gets in; manga adaptation of Yuba Isukari's web novel about an infrastructure apocalypse."
 coverImage: "/covers/yokohama-station-sf.jpg"
 amazonASIN: "0316532908"
-publishedAt: "2026-05-25"
+publishedAt: "2025-11-30"
 tags: ["sci-fi", "post-apocalyptic", "completed", "teen", "yen-press", "light-novel-adaptation", "absurdist", "unique-premise"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "gore", "war", "body horror", "psychologic
 description: "Yu's review of Akira — 6 massive volumes that changed what manga could be. Set in 2019 Neo-Tokyo, a teenage biker's best friend gains supernatural powers that could destroy the world. The manga that made the world take Japanese comics seriously."
 coverImage: "/covers/akira.jpg"
 amazonASIN: "1935429000"
-publishedAt: "2026-04-23"
+publishedAt: "2025-10-05"
 tags: ["sci-fi", "cyberpunk", "action", "mature", "classic", "completed"]
 rating: 5
 hasAffiliate: true

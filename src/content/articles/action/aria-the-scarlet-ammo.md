@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "gun use", "fan service elements", "harem e
 description: "Yu's review of Aria the Scarlet Ammo — Tokyo Butei High trains students to be armed private detectives; Aria H. Kanzaki, a small but terrifyingly capable student, forces Kinji Tohyama to partner with her after an attempt on her life — Kinji has a secret ability that only activates under specific circumstances."
 coverImage: "/covers/aria-the-scarlet-ammo.jpg"
 amazonASIN: "0316246255"
-publishedAt: "2026-05-18"
+publishedAt: "2024-07-23"
 tags: ["action", "completed", "teen-plus", "yen-press", "combat-school", "detective", "guns", "harem"]
 rating: 3
 hasAffiliate: true

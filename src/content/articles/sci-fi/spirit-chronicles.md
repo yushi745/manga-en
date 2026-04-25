@@ -17,7 +17,7 @@ contentWarnings: ["dual personality themes", "class disparity themes", "fantasy 
 description: "Yu's review of Spirit Chronicles — Rio is a slum boy who witnesses a brutal crime and, in the moment of his trauma, is joined by the soul of Haruto Amakawa, a Japanese high school student who died; the two share a body and memories, and Rio uses Haruto's knowledge and his own determination to build a new life."
 coverImage: "/covers/spirit-chronicles.jpg"
 amazonASIN: "1975336496"
-publishedAt: "2026-04-30"
+publishedAt: "2025-11-21"
 tags: ["fantasy", "isekai", "dual-protagonist", "ongoing", "teen", "yen-press", "action"]
 rating: 3
 hasAffiliate: true

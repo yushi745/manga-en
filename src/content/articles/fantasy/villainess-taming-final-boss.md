@@ -17,7 +17,7 @@ contentWarnings: ["villainess premise", "fantasy romance", "demon lord relations
 description: "Yu's review of I'm the Villainess, So I'm Taming the Final Boss — Aileen reincarnates as the villainess of an otome game; instead of trying to avoid the bad ending passively, she decides the best strategy is to capture the demon lord Claude — the game's final boss — and make him her ally."
 coverImage: "/covers/villainess-taming-final-boss.jpg"
 amazonASIN: "1975341929"
-publishedAt: "2026-05-03"
+publishedAt: "2025-02-21"
 tags: ["fantasy", "romance", "villainess", "demon-lord", "completed", "teen", "yen-press", "otome-game"]
 rating: 5
 hasAffiliate: true

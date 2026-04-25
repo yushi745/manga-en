@@ -17,7 +17,7 @@ contentWarnings: ["extreme fantasy violence", "mature content", "sexual humor", 
 description: "Yu's review of Rosen Garten Saga — in a dark fantasy world, all legendary warriors are women; Rin is a legendary swordswoman who discovers a man named Percival — the only man who can grant a wish to the one who possesses him; the series follows the brutal combat between legendary women competing for Percival."
 coverImage: "/covers/rosen-garten-saga.jpg"
 amazonASIN: "1638581185"
-publishedAt: "2026-05-02"
+publishedAt: "2024-10-13"
 tags: ["action", "fantasy", "dark-fantasy", "completed", "mature", "seven-seas", "female-warriors", "grail-quest"]
 rating: 3
 hasAffiliate: true

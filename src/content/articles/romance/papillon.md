@@ -17,7 +17,7 @@ contentWarnings: ["twin rivalry", "self-esteem themes", "school romance", "psych
 description: "Yu's review of Papillon — Hana Mizuki has spent her life being overshadowed by her beautiful, popular twin sister Ageha; when a school counselor named Ryusei challenges her to become who she actually is rather than who she's been hiding, a transformation and a romance begin."
 coverImage: "/covers/papillon.jpg"
 amazonASIN: "0345514416"
-publishedAt: "2026-05-18"
+publishedAt: "2025-08-13"
 tags: ["romance", "completed", "teen", "kodansha", "twins", "self-discovery", "school", "counselor"]
 rating: 4
 hasAffiliate: true

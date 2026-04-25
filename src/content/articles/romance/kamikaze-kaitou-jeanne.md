@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Kamikaze Kaitou Jeanne — a high school gymnast by day, phantom thief by night, she steals artworks possessed by demons on a divine mission as the reincarnation of Joan of Arc."
 coverImage: "/covers/kamikaze-kaitou-jeanne.jpg"
 amazonASIN: "1591166373"
-publishedAt: "2026-04-26"
+publishedAt: "2025-07-07"
 tags:
   - "shojo"
   - "romance"

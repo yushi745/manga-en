@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "death of characters", "forced execution p
 description: "Yu's review of Judge — nine people who have committed sins that went unpunished are locked in a building wearing animal masks; they must vote to execute one person every twelve hours or everyone dies."
 coverImage: "/covers/judge.jpg"
 amazonASIN: "0316252662"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-02"
 tags: ["horror", "thriller", "mystery", "completed", "survival-game", "Tonogai"]
 rating: 4
 hasAffiliate: true

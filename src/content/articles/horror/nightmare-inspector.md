@@ -17,7 +17,7 @@ contentWarnings: ["nightmares", "psychological horror", "death", "dark themes", 
 description: "Yu's review of Nightmare Inspector — set in 1920s Shanghai, Hiruko is a baku who eats nightmares at a tea house; each chapter is a client's dream that reveals their waking life; a gothic anthology horror manga with an elegant episodic structure."
 coverImage: "/covers/nightmare-inspector.jpg"
 amazonASIN: "1421518171"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-18"
 tags: ["horror", "mystery", "completed", "teen-plus", "viz", "anthology", "gothic"]
 rating: 4
 hasAffiliate: true

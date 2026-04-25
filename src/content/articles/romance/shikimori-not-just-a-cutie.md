@@ -17,7 +17,7 @@ contentWarnings: ["school romance", "mild action", "light comedy", "wholesome co
 description: "Yu's review of Shikimori's Not Just a Cutie — Izumi is a boy with the worst luck who is dating Shikimori, a girl who is sweet and feminine most of the time; but when Izumi is in danger, Shikimori shifts into a cool, intense mode that is completely different from her usual self, and which Izumi finds extremely appealing."
 coverImage: "/covers/shikimori-not-just-a-cutie.jpg"
 amazonASIN: "1646512847"
-publishedAt: "2026-05-13"
+publishedAt: "2025-08-25"
 tags: ["romance", "comedy", "completed", "teen", "kodansha", "school", "girlfriend", "wholesome"]
 rating: 4
 hasAffiliate: true

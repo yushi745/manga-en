@@ -19,7 +19,7 @@ contentWarnings:
   - "political intrigue"
 description: "Yu's review of The Queen's Knight — a Korean manhwa about a girl transported to a fantasy medieval kingdom who must train as a knight while navigating court politics and complicated feelings."
 amazonASIN: "1591828961"
-publishedAt: "2026-04-26"
+publishedAt: "2025-08-17"
 tags:
   - "manhwa"
   - "romance"

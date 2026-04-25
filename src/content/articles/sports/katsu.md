@@ -17,7 +17,7 @@ contentWarnings:
   - "mild romance"
 description: "A comprehensive review of Katsu! — plot, characters, art style, and whether it's worth reading."
 amazonASIN: "1421502429"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-03"
 tags:
   - "sports"
   - "boxing"

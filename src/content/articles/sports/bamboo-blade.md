@@ -19,7 +19,7 @@ contentWarnings:
 description: "A comprehensive review of Bamboo Blade — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/bamboo-blade.jpg"
 amazonASIN: "0759530548"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-17"
 tags:
   - "sports"
   - "kendo"

@@ -17,7 +17,7 @@ contentWarnings: ["mild suggestive content"]
 description: "Yu's review of Lovely Complex — the tallest girl in class and the shortest boy in class are constantly mistaken for a comedy duo, gradually realizing the comedy might actually be love."
 coverImage: "/covers/lovely-complex.jpg"
 amazonASIN: "1421513293"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-24"
 tags: ["romance", "comedy", "shojo", "classic", "completed", "osaka"]
 rating: 4
 hasAffiliate: true

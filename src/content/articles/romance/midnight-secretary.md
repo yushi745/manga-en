@@ -17,7 +17,7 @@ contentWarnings: ["vampire blood-drinking content", "mature romantic content", "
 description: "Yu's review of Midnight Secretary — Kaya Satozuka is a devoted, professional secretary who discovers her difficult director Kyohei Touma is a vampire; rather than leaving, she continues working for him — and gradually, inevitably, becomes more essential to him than any previous secretary."
 coverImage: "/covers/midnight-secretary.jpg"
 amazonASIN: "1421537095"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-29"
 tags: ["romance", "fantasy", "completed", "vampire", "josei", "mature", "office-romance"]
 rating: 4
 hasAffiliate: true

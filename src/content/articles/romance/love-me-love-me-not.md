@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "themes of expressing vs. suppressing
 description: "Yu's review of Love Me, Love Me Not — Yuna is reserved and has never said her feelings openly; Akari says everything she feels immediately; when they become friends and meet two boys connected to each other, the series explores the difference between those two approaches to love."
 coverImage: "/covers/love-me-love-me-not.jpg"
 amazonASIN: "1974720136"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-21"
 tags: ["romance", "shojo", "completed", "Io-Sakisaka", "friendship"]
 rating: 4
 hasAffiliate: true

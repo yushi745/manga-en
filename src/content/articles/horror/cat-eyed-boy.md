@@ -17,7 +17,7 @@ contentWarnings: ["horror violence", "death", "disturbing imagery", "monsters", 
 description: "Yu's review of Cat-Eyed Boy — a cat-eyed creature who lives in the shadows of human homes observes and sometimes intervenes in the horror that ordinary people inflict on each other and that supernatural forces inflict on ordinary people; Kazuo Umezu's anthology horror with a recurring narrator."
 coverImage: "/covers/cat-eyed-boy.jpg"
 amazonASIN: "1421530546"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-11"
 tags: ["horror", "anthology", "completed", "mature", "kazuo-umezu", "viz-media", "classic"]
 rating: 4
 hasAffiliate: true

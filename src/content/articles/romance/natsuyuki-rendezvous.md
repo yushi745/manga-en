@@ -17,7 +17,7 @@ contentWarnings: ["grief and loss", "ghost of deceased husband", "love triangle 
 description: "Yu's review of Natsuyuki Rendezvous — Hazuki becomes a part-time worker at a flower shop run by Rokka, a young widow he is in love with; the complication is that her deceased husband Shimao is still present as a ghost, invisible to everyone except Hazuki, and Shimao is not ready to let go."
 coverImage: "/covers/natsuyuki-rendezvous.jpg"
 amazonASIN: "1935654357"
-publishedAt: "2026-05-17"
+publishedAt: "2025-08-05"
 tags: ["romance", "completed", "teen", "vertical", "ghost", "grief", "flower-shop", "triangle"]
 rating: 5
 hasAffiliate: true

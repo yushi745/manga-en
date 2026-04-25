@@ -17,7 +17,7 @@ contentWarnings: ["game violence", "competitive gaming themes"]
 description: "Yu's review of Shangri-La Frontier — Rakuro Hizutome specializes in playing terrible games at maximum skill; when he enters Shangri-La Frontier, one of the world's most advanced VR games, his unconventional skills and approach produce results that the game's top players haven't achieved; a VR gaming manga with excellent boss fight design."
 coverImage: "/covers/shangri-la-frontier.jpg"
 amazonASIN: "1974739066"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-19"
 tags: ["sci-fi", "action", "ongoing", "teen", "viz-media", "gaming", "vr"]
 rating: 4
 hasAffiliate: true

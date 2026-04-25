@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "nudity", "adult themes", "cyberpunk viole
 description: "Yu's review of Ghost in the Shell — Major Motoko Kusanagi leads a counter-cyberterrorism unit in a future where the line between human and machine has dissolved, and pursues the mystery of a hacker called the Puppet Master."
 coverImage: "/covers/ghost-in-the-shell.jpg"
 amazonASIN: "1632364212"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-30"
 tags: ["sci-fi", "cyberpunk", "action", "classic", "philosophical", "completed"]
 rating: 5
 hasAffiliate: true

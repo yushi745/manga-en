@@ -17,7 +17,7 @@ contentWarnings: ["assassination themes", "violence and killing", "harem element
 description: "Yu's review of The World's Finest Assassin Gets Reincarnated — the world's greatest assassin is betrayed and killed by his organization; given a second chance by a goddess, he reincarnates as Lugh Tuatha Dé, a young nobleman in a fantasy world; he is assigned to assassinate the Hero who will destroy the world; he applies his assassin skills to this new life."
 coverImage: "/covers/worlds-finest-assassin-reincarnated.jpg"
 amazonASIN: "1975325834"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-27"
 tags: ["fantasy", "isekai", "ongoing", "yen-press", "assassin", "action"]
 rating: 4
 hasAffiliate: true

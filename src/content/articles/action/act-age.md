@@ -17,7 +17,7 @@ contentWarnings: ["method acting extremes", "psychological intensity", "acting p
 description: "Yu's review of Act-Age — Kei Yonagi is a teenager with a dangerous talent: she loses herself completely in roles, drawing on real trauma to inhabit characters; director Sumiji Kuroyama recognizes her ability and recruits her; Tatsuya Matsuki and Shiro Usazaki's acting manga about a girl whose gift is inseparable from her damage, published in 12 volumes before being discontinued."
 coverImage: "/covers/act-age.jpg"
 amazonASIN: "1974716279"
-publishedAt: "2026-05-28"
+publishedAt: "2024-07-19"
 tags: ["action", "drama", "completed", "teen", "viz-media", "acting", "method-acting", "discontinued"]
 rating: 4
 hasAffiliate: true

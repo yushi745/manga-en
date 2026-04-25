@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "mistaken identity beginning", "explicit
 description: "Yu's review of Love Stage!! — Izumi Sena is the only non-entertainer in a family of actors and musicians; when he is dragged into a commercial shoot, the popular actor Ryoma Ichijo recognizes him from a shoot years ago — when Izumi played a girl — and discovers he is a boy."
 coverImage: "/covers/love-stage.jpg"
 amazonASIN: "1421580101"
-publishedAt: "2026-05-16"
+publishedAt: "2025-07-23"
 tags: ["romance", "boys-love", "completed", "mature", "sublime", "entertainment-industry", "mistaken-identity", "comedy"]
 rating: 4
 hasAffiliate: true

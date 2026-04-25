@@ -17,7 +17,7 @@ contentWarnings: ["violence", "themes of death and loss", "mild language"]
 description: "Yu's review of Bleach — 74 volumes of the most stylish, visually stunning manga ever serialized in Shonen Jump. The story is wild and sometimes uneven, but the aesthetic, the fights, and the characters are unforgettable."
 coverImage: "/covers/bleach.jpg"
 amazonASIN: "B00F3HG5MC"
-publishedAt: "2026-04-23"
+publishedAt: "2024-08-04"
 tags: ["shonen", "soul-reaper", "action", "supernatural", "completed", "classic"]
 rating: 4
 hasAffiliate: true

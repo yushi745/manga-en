@@ -17,7 +17,7 @@ contentWarnings: ["survival in space", "mystery thriller elements", "mild violen
 description: "Yu's review of Astra: Lost in Space — eight students and one child are sent to a planet for a camp trip; an energy sphere ejects them 5,000 light-years away; they find an abandoned spaceship called the Astra and use it to navigate back home one planet at a time; the survival mystery is tighter than its premise suggests."
 coverImage: "/covers/astra-lost-in-space.jpg"
 amazonASIN: "1974704831"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-09"
 tags: ["sci-fi", "adventure", "completed", "space", "mystery", "VIZ"]
 rating: 5
 hasAffiliate: true

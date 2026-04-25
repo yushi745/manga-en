@@ -17,7 +17,7 @@ contentWarnings: ["unrequited love", "themes of artistic identity and failure", 
 description: "Yu's review of Honey and Clover — five art school students love each other in various permutations that cannot all resolve, while each navigates the question of what their talent means and who they want to become."
 coverImage: "/covers/honey-and-clover.jpg"
 amazonASIN: "1421513307"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-28"
 tags: ["romance", "slice-of-life", "josei", "completed", "art-school", "classic"]
 rating: 5
 hasAffiliate: true

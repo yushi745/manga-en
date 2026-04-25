@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "political themes", "some fanservice", "wa
 description: "Yu's review of High School Prodigies Have It Easy Even in Another World — seven high school students who are each world-class prodigies in their respective fields (politics, medicine, finance, etc.) crash-land in a fantasy world; each applies their real-world expertise to revolutionary effect in a medieval setting."
 coverImage: "/covers/high-school-prodigies.jpg"
 amazonASIN: "1626929505"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-19"
 tags: ["fantasy", "isekai", "completed", "teen", "seven-seas"]
 rating: 3
 hasAffiliate: true

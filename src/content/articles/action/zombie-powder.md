@@ -17,7 +17,7 @@ contentWarnings: ["gunfight violence", "some bloody scenes", "dark themes", "can
 description: "Yu's review of Zombie Powder — Gamma Akutabi is a wanted criminal with a massive chainsaw sword and an arm full of strange tattoos; he is hunting for the twelve Rings of the Dead, which when assembled produce Zombie Powder, a substance that grants immortality or resurrects the dead; he picks up a young boy named Elwood whose sister needs a miracle."
 coverImage: "/covers/zombie-powder.jpg"
 amazonASIN: "1421503387"
-publishedAt: "2026-04-25"
+publishedAt: "2024-11-14"
 tags: ["action", "adventure", "completed", "kubo", "cancelled", "short-series", "viz"]
 rating: 3
 hasAffiliate: true

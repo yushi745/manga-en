@@ -17,7 +17,7 @@ contentWarnings: ["mild suggestive content", "gender identity themes", "family d
 description: "Yu's review of Ouran High School Host Club — a scholarship student at an elite school accidentally breaks a vase and must join the Host Club to pay off the debt, in a manga that satirizes shojo tropes while being genuinely charming."
 coverImage: "/covers/ouran-host-club.jpg"
 amazonASIN: "1591169151"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-12"
 tags: ["romance", "comedy", "shojo", "school", "classic", "completed"]
 rating: 4
 hasAffiliate: true

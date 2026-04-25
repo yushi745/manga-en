@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "spirit/supernatural themes"]
 description: "Yu's review of Black Torch — Jiro Azuma is the grandson of a ninja master who can communicate with animals; when he rescues a cat that turns out to be a powerful spirit, the spirit fuses with him to survive, giving Jiro access to demonic power while complicating his participation in a secret organization that deals with the supernatural."
 coverImage: "/covers/black-torch.jpg"
 amazonASIN: "1974702251"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-13"
 tags: ["sci-fi", "action", "completed", "teen", "viz-media", "supernatural"]
 rating: 3
 hasAffiliate: true

@@ -22,7 +22,7 @@ contentWarnings:
 description: "Yu's review of Dusk Maiden of Amnesia — a girl's ghost has been haunting her school for 60 years with no memory of how she died; a living boy who can see her helps investigate."
 coverImage: "/covers/dusk-maiden-of-amnesia.jpg"
 amazonASIN: "0316219622"
-publishedAt: "2026-04-26"
+publishedAt: "2025-03-19"
 tags:
   - "horror"
   - "romance"

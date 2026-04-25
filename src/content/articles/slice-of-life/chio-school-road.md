@@ -17,7 +17,7 @@ contentWarnings: ["slapstick violence", "comedy involving street gangs", "mild m
 description: "Yu's review of Chio's School Road — Chio Miyamo oversleeps regularly and has to get to school by any means necessary; her experience playing stealth games has given her a specific skill set that is completely useless in normal life and occasionally useful in the absurd situations she creates for herself."
 coverImage: "/covers/chio-school-road.jpg"
 amazonASIN: "1975381203"
-publishedAt: "2026-04-24"
+publishedAt: "2025-12-21"
 tags: ["slice-of-life", "comedy", "shonen", "completed", "gaming", "school"]
 rating: 4
 hasAffiliate: true

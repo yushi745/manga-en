@@ -17,7 +17,7 @@ contentWarnings: ["horror violence", "character with death wish", "killer protag
 description: "Yu's review of Angels of Death — Rachel wakes up in a strange building with no memory of how she got there; each floor is controlled by a different killer; on the lowest floor, she meets Isaac Foster — a bandaged killer with a scythe — and they make a deal: he will kill her if she helps him escape."
 coverImage: "/covers/angels-of-death.jpg"
 amazonASIN: "1975303679"
-publishedAt: "2026-05-20"
+publishedAt: "2025-03-04"
 tags: ["horror", "action", "completed", "teen-plus", "yen-press", "game-adaptation", "psychological", "killer-protagonist"]
 rating: 4
 hasAffiliate: true

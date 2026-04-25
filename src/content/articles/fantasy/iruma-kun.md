@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "comedy school setting", "demon world cult
 description: "Yu's review of Welcome to Demon School! Iruma-kun — Iruma Suzuki is sold to a demon by his neglectful parents and becomes the grandson of the great demon Sullivan; enrolled in a demon school where humans are supposedly food, Iruma must hide his human nature while navigating the competitive and colorful demon school environment."
 coverImage: "/covers/iruma-kun.jpg"
 amazonASIN: "1647290058"
-publishedAt: "2026-05-02"
+publishedAt: "2024-12-26"
 tags: ["fantasy", "comedy", "demon-school", "ongoing", "teen", "kodansha", "shonen", "wholesome"]
 rating: 5
 hasAffiliate: true

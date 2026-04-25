@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "emotional infidelity themes", "mature
 description: "Yu's review of Video Girl Ai — Yota Moteuchi is heartbroken after the girl he loves confesses her feelings to his best friend; he rents a video from a magical shop and the girl on the tape, Ai Amano, steps out of his television — damaged by his worn VCR, with a personality different from what was intended, and developing real feelings he wasn't supposed to create."
 coverImage: "/covers/video-girl-ai.jpg"
 amazonASIN: "1569317097"
-publishedAt: "2026-05-04"
+publishedAt: "2025-09-19"
 tags: ["romance", "drama", "supernatural", "classic", "completed", "mature", "viz-media", "shonen-jump", "90s"]
 rating: 4
 hasAffiliate: true

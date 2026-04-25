@@ -19,7 +19,7 @@ contentWarnings:
 description: "Yu's review of My Heavenly Hockey Club — the world's laziest girl gets forcibly recruited into a field hockey club by a pack of handsome rich boys, and comedic mayhem follows."
 coverImage: "/covers/my-heavenly-hockey-club.jpg"
 amazonASIN: "0345496736"
-publishedAt: "2026-04-26"
+publishedAt: "2025-08-01"
 tags:
   - "shojo"
   - "romance"

@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "psychological horror", "child death", "pa
 description: "Yu's review of Higurashi: When They Cry — Keiichi Maebara moves to the small village of Hinamizawa and befriends a group of girls; every June, during the annual Watanagashi Festival, someone dies and someone disappears; the story resets and repeats from different perspectives, each time revealing more of what is actually happening."
 coverImage: "/covers/higurashi.jpg"
 amazonASIN: "0759530416"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-30"
 tags: ["horror", "mystery", "completed", "psychological-horror", "paranoia", "time-loop", "visual-novel-adaptation"]
 rating: 5
 hasAffiliate: true

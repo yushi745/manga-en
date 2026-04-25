@@ -17,7 +17,7 @@ contentWarnings: ["harem comedy", "polyamory themes", "mild fan service", "prota
 description: "Yu's review of Girlfriend, Girlfriend — Naoya Mukai, who has finally started dating his long-time crush Saki, falls in love with a second girl, Nagisa, and proposes that they all date simultaneously; his complete honesty about his feelings collides with everyone's reaction to them in this shamelessly energetic romantic comedy."
 coverImage: "/covers/girlfriend-girlfriend.jpg"
 amazonASIN: "1646512244"
-publishedAt: "2026-04-28"
+publishedAt: "2025-06-19"
 tags: ["romance", "comedy", "harem", "completed", "teen", "kodansha", "shonen", "polyamory"]
 rating: 4
 hasAffiliate: true

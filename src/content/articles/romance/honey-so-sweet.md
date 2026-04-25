@@ -17,7 +17,7 @@ contentWarnings: ["shojo romance", "family themes", "mild school conflict"]
 description: "Yu's review of Honey So Sweet — Nao Kogure is terrified of Taiga Onise, the scariest-looking boy in school, until she realizes he has been secretly looking after her because of a connection to her family; what follows is a gentle romance between a girl learning to receive care and a boy who has always expressed love through action rather than words."
 coverImage: "/covers/honey-so-sweet.jpg"
 amazonASIN: "1421586843"
-publishedAt: "2026-04-28"
+publishedAt: "2025-06-29"
 tags: ["romance", "shojo", "completed", "teen", "viz", "school", "sweet"]
 rating: 4
 hasAffiliate: true

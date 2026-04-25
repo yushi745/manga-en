@@ -19,7 +19,7 @@ contentWarnings:
 description: "Yu's review of Aishiteruze Baby — a popular high school playboy suddenly has to care for his 5-year-old cousin after her mother abandons her, and discovers something more important than dating."
 coverImage: "/covers/aishiteruze-baby.jpg"
 amazonASIN: "1421500809"
-publishedAt: "2026-04-26"
+publishedAt: "2025-05-14"
 tags:
   - "shojo"
   - "romance"

@@ -17,7 +17,7 @@ contentWarnings: ["death throughout", "historical violence", "existential themes
 description: "Yu's review of Phoenix — Tezuka Osamu's incomplete masterwork — a series of stories set throughout Japanese and universal history, connected by the Phoenix, a bird whose blood grants immortality; the Phoenix appears in each arc but cannot be caught; the arcs range from ancient Japan to the far future and examine what it means to be human across all of time."
 coverImage: "/covers/phoenix.jpg"
 amazonASIN: "1591161630"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-14"
 tags: ["sci-fi", "historical", "completed", "tezuka", "classic", "anthology", "manga-history"]
 rating: 5
 hasAffiliate: true

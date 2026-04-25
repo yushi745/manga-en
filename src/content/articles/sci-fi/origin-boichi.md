@@ -17,7 +17,7 @@ contentWarnings: ["violence", "action combat", "existential themes", "android/AI
 description: "Yu's review of Origin by Boichi — a robot built as a killing machine has been living as a human boy for years, hiding his true nature while protecting the family he has come to care for; when other robots of his kind begin appearing and killing, he must fight while continuing to conceal what he is; a sci-fi action manga about identity, purpose, and what makes life meaningful."
 coverImage: "/covers/origin-boichi.jpg"
 amazonASIN: "1632368447"
-publishedAt: "2026-04-26"
+publishedAt: "2025-11-13"
 tags: ["sci-fi", "action", "android", "completed", "teen-plus", "kodansha", "boichi"]
 rating: 4
 hasAffiliate: true

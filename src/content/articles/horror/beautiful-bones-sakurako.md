@@ -17,7 +17,7 @@ contentWarnings: ["death", "bone/remains", "crime scenes", "dark themes", "viole
 description: "Yu's review of Beautiful Bones — Sakurako Kujou is an osteologist (bone specialist) who investigates human remains; with her young companion Shotaro, she reads the stories bones tell about how people lived and died; a mystery manga structured around forensic bone analysis that treats death with scientific and humanistic seriousness."
 coverImage: "/covers/beautiful-bones-sakurako.jpg"
 amazonASIN: "0316471771"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-07"
 tags: ["horror", "mystery", "completed", "teen-plus", "yen-press", "forensics", "detective"]
 rating: 4
 hasAffiliate: true

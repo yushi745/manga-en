@@ -17,7 +17,7 @@ contentWarnings: ["martial arts", "gender transformation", "comedy violence", "f
 description: "Yu's review of Ranma ½ — Ranma Saotome fell into a cursed spring in China and now transforms into a girl when hit with cold water, returning to male form with hot water; engaged to Akane Tendo without either of their consent, the series follows their martial arts competitions, rivals, and the romantic tension neither of them will admit to; Rumiko Takahashi's comedy masterpiece."
 coverImage: "/covers/ranma-half.jpg"
 amazonASIN: "1569310181"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-15"
 tags: ["sports", "martial-arts", "comedy", "romance", "completed", "teen-plus", "viz", "classic"]
 rating: 5
 hasAffiliate: true

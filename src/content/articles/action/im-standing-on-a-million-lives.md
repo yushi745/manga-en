@@ -17,7 +17,7 @@ contentWarnings: ["death in fantasy setting", "violence", "cynical protagonist",
 description: "Yu's review of I'm Standing on a Million Lives — Yusuke Yotsuya and a group of classmates are transported to a fantasy world by a mysterious Game Master and given quests to complete; failure means death; Yotsuya is an antisocial protagonist who approaches the situation with cold analysis rather than heroism."
 coverImage: "/covers/im-standing-on-a-million-lives.jpg"
 amazonASIN: "1646510590"
-publishedAt: "2026-05-01"
+publishedAt: "2024-09-07"
 tags: ["action", "isekai", "fantasy", "survival", "completed", "mature", "kodansha", "cynical-protagonist"]
 rating: 4
 hasAffiliate: true

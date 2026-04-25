@@ -21,7 +21,7 @@ contentWarnings:
 description: "Yu's review of I Am a Hero — an unsuccessful manga artist becomes, entirely against his nature, a survivor of the Japanese zombie apocalypse."
 coverImage: "/covers/i-am-a-hero.jpg"
 amazonASIN: "1616552999"
-publishedAt: "2026-04-26"
+publishedAt: "2025-03-31"
 tags:
   - "horror"
   - "zombie"

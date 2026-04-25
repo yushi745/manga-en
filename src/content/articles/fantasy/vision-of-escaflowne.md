@@ -16,7 +16,7 @@ contentWarnings: ["fantasy violence", "war themes", "romance", "mild fanservice"
 description: "Yu's review of The Vision of Escaflowne — Hitomi Kanzaki is transported to the world of Gaea, where she becomes connected to a prophecy involving Van Fanel and his giant armor Escaflowne; the manga adaptation of the 1996 anime differs significantly from the source, emphasizing the romance more heavily while keeping the fantasy-mecha elements."
 coverImage: "/covers/vision-of-escaflowne.jpg"
 amazonASIN: "1591821282"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-21"
 tags: ["fantasy", "romance", "completed", "teen-plus", "tokyopop", "isekai", "mecha", "classic"]
 rating: 3
 hasAffiliate: true

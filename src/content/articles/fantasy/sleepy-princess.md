@@ -17,7 +17,7 @@ contentWarnings: ["mild fantasy violence (played for comedy)", "sleep deprivatio
 description: "Yu's review of Sleepy Princess in the Demon Castle — Princess Syalis has been kidnapped by Demon King Twilight and held in the demon castle while the hero prepares to rescue her; she does not care about rescue; she only wants to get a good night's sleep, and will destroy anything in her way."
 coverImage: "/covers/sleepy-princess.jpg"
 amazonASIN: "1974709752"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-04"
 tags: ["fantasy", "comedy", "completed", "4-koma-adjacent", "gag-manga", "shounen"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "gore", "sexual content (mild)", "death of
 description: "Yu's review of Chainsaw Man Part 1 — 11 volumes about a boy who just wants a normal life. Denji has the simplest dreams in the world: a warm bed, decent food, maybe a girlfriend. The universe makes this as difficult as possible. Brutal, tender, and unlike anything else."
 coverImage: "/covers/chainsaw-man.jpg"
 amazonASIN: "B08JTYRXZB"
-publishedAt: "2026-04-23"
+publishedAt: "2024-11-28"
 tags: ["shonen", "devils", "dark-fantasy", "action", "completed", "mature"]
 rating: 5
 hasAffiliate: true

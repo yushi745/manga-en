@@ -17,7 +17,7 @@ contentWarnings: ["otaku culture references", "school setting", "comedy", "cultu
 description: "Yu's review of Lucky Star — Konata Izumi, an avid anime and manga fan, and her friends Kagami, Tsukasa, and Miyuki navigate high school life while talking extensively about anime, gaming, food, and nothing in particular; the manga is pure comedy about otaku culture and daily school life."
 coverImage: "/covers/lucky-star.jpg"
 amazonASIN: "1604962380"
-publishedAt: "2026-05-02"
+publishedAt: "2026-01-22"
 tags: ["slice-of-life", "comedy", "school", "otaku", "complete-english", "teen", "4-koma", "kyoto-animation"]
 rating: 4
 hasAffiliate: true

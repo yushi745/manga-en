@@ -17,7 +17,7 @@ contentWarnings: ["predator-prey social tension", "some violence", "death in som
 description: "Yu's review of Beast Complex — a short story collection set in Beastars' world of predators and prey; each story focuses on a different pair navigating the tension of their relationship in a society built on managed coexistence; Paru Itagaki's anthology from the Beastars universe."
 coverImage: "/covers/beast-complex.jpg"
 amazonASIN: "1974722139"
-publishedAt: "2026-05-26"
+publishedAt: "2024-11-22"
 tags: ["fantasy", "anthology", "completed", "teen-plus", "viz-media", "beastars-universe", "social-commentary", "seinen"]
 rating: 4
 hasAffiliate: true

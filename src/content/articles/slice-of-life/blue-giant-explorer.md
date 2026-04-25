@@ -17,7 +17,7 @@ contentWarnings: ["music performance", "jazz culture in America", "race and jazz
 description: "Yu's review of Blue Giant Explorer — Dai Miyamoto arrives in the United States, the country where jazz was born, and faces the specific challenge of playing American jazz as a Japanese musician in the city where the music lives; the third series in the Blue Giant trilogy."
 coverImage: "/covers/blue-giant-explorer.jpg"
 amazonASIN: "1638586187"
-publishedAt: "2026-05-18"
+publishedAt: "2025-12-14"
 tags: ["slice-of-life", "music", "ongoing", "teen", "seven-seas", "jazz", "america", "saxophone"]
 rating: 5
 hasAffiliate: true

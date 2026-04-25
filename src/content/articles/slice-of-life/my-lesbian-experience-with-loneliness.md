@@ -17,7 +17,7 @@ contentWarnings: ["mental health", "depression", "eating disorder", "self-harm",
 description: "Yu's review of My Lesbian Experience with Loneliness — Nagata Kabi's autobiographical manga about her experiences with depression, an eating disorder, her difficult relationship with her parents, and her gradual understanding of her own sexuality and loneliness; one of the most honest mental health memoirs in manga form."
 coverImage: "/covers/my-lesbian-experience-with-loneliness.jpg"
 amazonASIN: "1626927464"
-publishedAt: "2026-05-15"
+publishedAt: "2026-01-31"
 tags: ["slice-of-life", "memoir", "completed", "teen", "seven-seas", "lgbtq", "mental-health", "autobiography"]
 rating: 5
 hasAffiliate: true

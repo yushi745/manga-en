@@ -17,7 +17,7 @@ contentWarnings: ["workplace healing narrative", "past workplace trauma", "gentl
 description: "Yu's review of My New Boss Is Goofy — Momose Shinya carries severe anxiety from years under a genuinely terrible boss; at his new job he is placed under Aoyama Keita, a boss whose enthusiasm, sincerity, and accidental wholesomeness begin to undo years of workplace damage."
 coverImage: "/covers/my-new-boss-is-goofy.jpg"
 amazonASIN: "1646091299"
-publishedAt: "2026-05-16"
+publishedAt: "2026-02-01"
 tags: ["slice-of-life", "comedy", "ongoing", "teen", "square-enix", "workplace", "healing", "wholesome"]
 rating: 4
 hasAffiliate: true

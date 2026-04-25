@@ -17,7 +17,7 @@ contentWarnings: ["class violence", "murder as political act", "Victorian-era so
 description: "Yu's review of Moriarty the Patriot — William James Moriarty, future nemesis of Sherlock Holmes, is presented as a young nobleman in Victorian England who wants to destroy the class system that oppresses the poor; he uses his intelligence to engineer the deaths of those who exploit others; the series follows his transformation from idealistic reformer to the criminal mastermind of legend."
 coverImage: "/covers/moriarty-the-patriot.jpg"
 amazonASIN: "1974720497"
-publishedAt: "2026-04-25"
+publishedAt: "2024-09-25"
 tags: ["action", "mystery", "historical", "completed", "viz", "sherlock-holmes", "victorian"]
 rating: 5
 hasAffiliate: true

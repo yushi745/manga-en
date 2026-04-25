@@ -17,7 +17,7 @@ contentWarnings: ["isekai setting", "otaku culture references", "mild fanservice
 description: "Yu's review of Outbreak Company — Shinichi Kanou, an extreme otaku who failed to leave his room for years, is hired by the Japanese government to spread otaku culture in an alternate fantasy world accessed through a portal; the manga adaptation of Ichiro Sakaki's light novel comedy about cultural exchange through manga and anime."
 coverImage: "/covers/outbreak-company.jpg"
 amazonASIN: "1626923434"
-publishedAt: "2026-05-23"
+publishedAt: "2026-02-08"
 tags: ["slice-of-life", "comedy", "completed", "teen-plus", "seven-seas", "isekai", "otaku", "cultural-exchange"]
 rating: 3
 hasAffiliate: true

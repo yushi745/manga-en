@@ -21,7 +21,7 @@ contentWarnings:
 description: "A comprehensive review of Basilisk: The Kouga Ninja Scrolls — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/basilisk.jpg"
 amazonASIN: "0345481658"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-06"
 tags:
   - "horror"
   - "action"

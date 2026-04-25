@@ -19,7 +19,7 @@ contentWarnings:
 description: "Yu's review of Meru Puri — a high school girl discovers a tiny boy has tumbled through a magic mirror into her home; he's actually a prince who ages rapidly when in darkness."
 coverImage: "/covers/meru-puri.jpg"
 amazonASIN: "1421505045"
-publishedAt: "2026-04-26"
+publishedAt: "2025-07-28"
 tags:
   - "shojo"
   - "romance"

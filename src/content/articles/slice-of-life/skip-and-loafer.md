@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Skip and Loafer — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/skip-and-loafer.jpg"
 amazonASIN: "1646515994"
-publishedAt: "2026-04-25"
+publishedAt: "2026-02-20"
 tags:
   - "slice-of-life"
   - "romance"

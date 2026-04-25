@@ -17,7 +17,7 @@ contentWarnings: ["historical arranged marriage including significant age gap at
 description: "Yu's review of A Bride's Story — set in 19th-century Central Asia along the Silk Road, the series follows multiple brides and their marriages across different communities; the primary story follows Amir, a 20-year-old skilled hunter and embroideress, who comes to marry Karluk, her 12-year-old husband."
 coverImage: "/covers/brides-story.jpg"
 amazonASIN: "0316180998"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-23"
 tags: ["romance", "historical", "ongoing", "central-asia", "josei", "beautiful-art"]
 rating: 5
 hasAffiliate: true

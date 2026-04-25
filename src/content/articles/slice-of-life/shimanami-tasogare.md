@@ -17,7 +17,7 @@ contentWarnings: ["LGBTQ+ themes", "suicide attempt in first chapter", "coming o
 description: "Yu's review of Our Dreams at Dusk: Shimanami Tasogare — Tasuku is about to jump from a rooftop after being outed at school; a mysterious woman leads him to a volunteer house where various adults live with questions about identity and belonging; Yuhki Kamatani's manga about LGBTQ+ community and the difficulty of living openly."
 coverImage: "/covers/shimanami-tasogare.jpg"
 amazonASIN: "1626929904"
-publishedAt: "2026-05-26"
+publishedAt: "2026-02-17"
 tags: ["slice-of-life", "lgbtq", "drama", "completed", "teen-plus", "seven-seas", "community", "coming-of-age"]
 rating: 5
 hasAffiliate: true

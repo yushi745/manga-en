@@ -20,7 +20,7 @@ contentWarnings:
   - "historical setting"
 description: "Yu's review of Doomed Megalopolis — set in early 20th century Tokyo, an occultist attempts to summon the spirit of the ancient deity Masakado to destroy the city."
 amazonASIN: "1591162025"
-publishedAt: "2026-04-26"
+publishedAt: "2025-03-17"
 tags:
   - "horror"
   - "historical"

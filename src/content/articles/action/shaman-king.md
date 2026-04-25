@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "themes of death and spiritual world", "in
 description: "Yu's review of Shaman King — a laid-back shaman who communes with spirits enters the Shaman Fight, a tournament held every 500 years to determine who becomes the Shaman King and reshapes the world."
 coverImage: "/covers/shaman-king.jpg"
 amazonASIN: "1646512006"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-21"
 tags: ["action", "fantasy", "shonen", "spirits", "tournament", "completed"]
 rating: 4
 hasAffiliate: true

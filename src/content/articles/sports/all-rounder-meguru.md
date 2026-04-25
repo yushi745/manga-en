@@ -17,7 +17,7 @@ contentWarnings: ["combat violence", "MMA fighting", "blood", "adult themes"]
 description: "Yu's review of All-Rounder Meguru — Meguru Takayanagi trains in shooto, a Japanese form of MMA, attempting to turn professional; a technically detailed and emotionally serious sports manga about mixed martial arts that treats the sport and its practitioners with genuine respect."
 coverImage: "/covers/all-rounder-meguru.jpg"
 amazonASIN: "1612624510"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-14"
 tags: ["sports", "MMA", "completed", "teen-plus", "kodansha", "martial-arts", "realistic"]
 rating: 4
 hasAffiliate: true

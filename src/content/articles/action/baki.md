@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "graphic fighting", "body horror elements"
 description: "Yu's review of Baki the Grappler — Baki Hanma trains obsessively to surpass his father Yujiro, the most powerful creature alive, and fights every martial artist and monster that crosses his path on the way there."
 coverImage: "/covers/baki.jpg"
 amazonASIN: "1974709523"
-publishedAt: "2026-04-24"
+publishedAt: "2024-07-28"
 tags: ["action", "fighting", "martial-arts", "shonen", "completed"]
 rating: 4
 hasAffiliate: true

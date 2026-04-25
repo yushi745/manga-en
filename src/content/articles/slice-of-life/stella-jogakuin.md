@@ -17,7 +17,7 @@ contentWarnings: ["airsoft/survival game content", "mild competition themes", "c
 description: "Yu's review of Stella Women's Academy — Yura Yamamoto transfers to Stella Women's Academy and joins the C³ Club, a survival game (airsoft) club; Millitarko's manga about a shy girl finding her place through competitive gaming, with character development that turns darker before finding resolution."
 coverImage: "/covers/stella-jogakuin.jpg"
 amazonASIN: "0316300039"
-publishedAt: "2026-05-23"
+publishedAt: "2026-02-24"
 tags: ["slice-of-life", "sports", "completed", "teen-plus", "yen-press", "airsoft", "school-club", "character-development"]
 rating: 3
 hasAffiliate: true

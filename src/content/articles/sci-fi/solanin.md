@@ -17,7 +17,7 @@ contentWarnings: ["themes of purposelessness and depression", "death of a signif
 description: "Yu's review of Solanin — Meiko works a job she hates; her boyfriend Taneda plays in a band that goes nowhere; together they ask what their lives are for in the specific way that only your mid-twenties allows."
 coverImage: "/covers/solanin.jpg"
 amazonASIN: "142152321X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-20"
 tags: ["sci-fi", "slice-of-life", "music", "completed", "Asano", "youth", "bittersweet"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "explicit romantic and sexual content", "colle
 description: "Yu's review of How Do We Relationship? — Miwa and Saeko are college freshmen; Miwa has a crush on her friend; Saeko is gay and has decided she wants a girlfriend before graduation; they agree to date, neither of them has done this before, and they have to figure out what being in a relationship actually requires."
 coverImage: "/covers/how-do-we-relationship.jpg"
 amazonASIN: "1974718468"
-publishedAt: "2026-05-18"
+publishedAt: "2025-06-30"
 tags: ["romance", "yuri", "ongoing", "mature", "viz-media", "college", "communication", "lgbtq"]
 rating: 5
 hasAffiliate: true

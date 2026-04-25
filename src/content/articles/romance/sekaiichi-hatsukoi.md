@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "mature sexual content", "first love rec
 description: "Yu's review of Sekaiichi Hatsukoi — Ritsu Onodera transfers from his family's literary publishing company to manga editorial to escape comparisons; his new boss Masamune Takano is demanding and difficult — and is also the person who was Ritsu's first love years ago, a relationship that ended badly."
 coverImage: "/covers/sekaiichi-hatsukoi.jpg"
 amazonASIN: "1421560089"
-publishedAt: "2026-05-15"
+publishedAt: "2025-08-24"
 tags: ["romance", "boys-love", "completed", "mature", "sublime", "workplace", "first-love", "reconnection"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["classic children's content", "slapstick comedy", "time travel
 description: "Yu's review of Doraemon — a robotic cat named Doraemon travels from the 22nd century to help an underachieving boy named Nobita; from his four-dimensional pocket, he produces amazing gadgets that Nobita invariably uses incorrectly; Japan's most beloved children's manga and one of the foundational works of Japanese popular culture."
 coverImage: "/covers/doraemon.jpg"
 amazonASIN: "1421561891"
-publishedAt: "2026-04-29"
+publishedAt: "2025-12-26"
 tags: ["slice-of-life", "comedy", "children", "completed", "all-ages", "viz", "classic", "tezuka-era"]
 rating: 5
 hasAffiliate: true

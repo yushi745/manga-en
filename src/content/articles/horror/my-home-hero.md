@@ -17,7 +17,7 @@ contentWarnings: ["domestic violence", "murder", "organized crime", "cover-up th
 description: "Yu's review of My Home Hero — Tetsuo Tosu, an ordinary salaryman, discovers that his daughter's boyfriend is an abusive criminal; when he acts to protect her, he kills the man; what follows is a crime thriller about a completely ordinary person trying to conceal a murder while the dead man's yakuza connections start asking questions."
 coverImage: "/covers/my-home-hero.jpg"
 amazonASIN: "1646519558"
-publishedAt: "2026-05-01"
+publishedAt: "2025-04-17"
 tags: ["horror", "thriller", "crime", "seinen", "ongoing", "mature", "kodansha", "parental-love"]
 rating: 4
 hasAffiliate: true

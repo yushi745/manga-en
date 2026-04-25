@@ -17,7 +17,7 @@ contentWarnings: ["yuri/girls' love themes", "mild suggestive humor"]
 description: "Yu's review of Yuru Yuri — Akari Akaza, Kyoko Toshinou, Yui Funami, and Chinatsu Yoshida take over their school's former tea ceremony room after the Tea Club disbanded, form the Amusement Club, and spend their time doing very little of anything."
 coverImage: "/covers/yuru-yuri.jpg"
 amazonASIN: "1944937056"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-10"
 tags: ["slice-of-life", "comedy", "yuri", "school", "ongoing"]
 rating: 4
 hasAffiliate: true

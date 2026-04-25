@@ -17,7 +17,7 @@ contentWarnings: ["supernatural action", "moderate fan service", "harem elements
 description: "Yu's review of Omamori Himari — Yuuto Amakawa is a normal high school boy who forgot he comes from a demon-slaying clan; when his protective charm expires on his sixteenth birthday, demons can now sense and target him; Himari, a cat demon (ayakashi) bound by oath to his family, appears to protect him."
 coverImage: "/covers/omamori-himari.jpg"
 amazonASIN: "1626922225"
-publishedAt: "2026-05-14"
+publishedAt: "2025-08-07"
 tags: ["romance", "action", "completed", "teen", "seven-seas", "cat-demon", "supernatural", "harem"]
 rating: 3
 hasAffiliate: true

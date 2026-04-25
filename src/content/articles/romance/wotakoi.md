@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "otaku culture references"]
 description: "Yu's review of Wotakoi — two coworkers who are secretly otaku start dating and discover that being in a relationship is hard when both people would honestly prefer to be playing video games."
 coverImage: "/covers/wotakoi.jpg"
 amazonASIN: "1632367041"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-26"
 tags: ["romance", "comedy", "office", "completed", "otaku"]
 rating: 4
 hasAffiliate: true

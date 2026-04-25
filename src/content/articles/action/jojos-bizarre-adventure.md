@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "some horror elements", "creative body hor
 description: "Yu's review of JoJo's Bizarre Adventure — a generational saga following the Joestar bloodline across centuries and continents, each story featuring a new JoJo facing supernatural evil with increasingly creative and bizarre combat abilities."
 coverImage: "/covers/jojos-bizarre-adventure.jpg"
 amazonASIN: "1421578451"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-11"
 tags: ["action", "fantasy", "shonen", "ongoing", "classic", "iconic"]
 rating: 5
 hasAffiliate: true

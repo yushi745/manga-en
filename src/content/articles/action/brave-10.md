@@ -17,7 +17,7 @@ contentWarnings: ["historical action violence", "ninja combat", "Sengoku era bat
 description: "Yu's review of Brave 10 — Saizo Kirigakure is a wandering ninja who encounters Isanami, a shrine maiden, in Sengoku-era Japan; he brings her to Yukimura Sanada; Yukimura is assembling ten legendary warriors called the Sanada Ten Braves; Kairi Shimotsuki's historical action manga about the legendary Sengoku warrior collection."
 coverImage: "/covers/brave-10.jpg"
 amazonASIN: "1594140456"
-publishedAt: "2026-05-27"
+publishedAt: "2024-08-06"
 tags: ["action", "historical", "completed", "teen", "media-blasters", "sengoku", "ninja", "warrior-collection"]
 rating: 3
 hasAffiliate: true

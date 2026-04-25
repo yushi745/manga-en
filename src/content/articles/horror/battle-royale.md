@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "graphic death", "sexual content", "tortur
 description: "Yu's review of Battle Royale — in an alternate Japan controlled by a fascist republic, a class of junior high school students is taken to an island and forced to participate in the Battle Royale Program; they must kill each other until one survivor remains; the manga follows all 42 students across three days."
 coverImage: "/covers/battle-royale.jpg"
 amazonASIN: "1591821045"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-06"
 tags: ["horror", "thriller", "completed", "mature", "survival", "dystopian", "classic"]
 rating: 4
 hasAffiliate: true

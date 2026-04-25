@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Museum — a detective investigates The Frog Man, a serial killer who punishes ordinary human cruelty with elaborate, theatrical murders."
 coverImage: "/covers/museum-manga.jpg"
 amazonASIN: "1632363203"
-publishedAt: "2026-04-26"
+publishedAt: "2025-04-15"
 tags:
   - "horror"
   - "thriller"

@@ -17,7 +17,7 @@ contentWarnings: ["persistent pursuit dynamic", "dismissive love interest", "cla
 description: "Yu's review of Itazura na Kiss — Kotoko Aihara confesses to Naoki Irie, the school genius who has rejected every confession; he rejects her too; her house is destroyed and she moves in with Naoki's family while her father rebuilds; proximity forces them together across years of school, college, and work."
 coverImage: "/covers/itazura-na-kiss.jpg"
 amazonASIN: "1935654985"
-publishedAt: "2026-05-12"
+publishedAt: "2025-07-04"
 tags: ["romance", "completed", "teen", "vertical-comics", "classic", "shojo", "margaret", "long-term-pursuit"]
 rating: 4
 hasAffiliate: true

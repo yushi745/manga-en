@@ -17,7 +17,7 @@ contentWarnings: ["body swapping", "mild romantic content", "natural disaster th
 description: "Yu's review of Your Name — Taki and Mitsuha swap bodies unpredictably while sleeping; a Tokyo high school boy and a rural shrine maiden from a small mountain town; Ranmaru Kotone's manga adaptation of Makoto Shinkai's film about two people connected across distance, time, and the limits of what they can reach."
 coverImage: "/covers/your-name.jpg"
 amazonASIN: "0316471569"
-publishedAt: "2026-05-28"
+publishedAt: "2025-09-28"
 tags: ["romance", "drama", "completed", "teen", "yen-press", "shinkai", "body-swap", "film-adaptation"]
 rating: 4
 hasAffiliate: true

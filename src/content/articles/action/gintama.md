@@ -17,7 +17,7 @@ contentWarnings: ["crude humor", "parody violence", "mature comedy themes", "occ
 description: "Yu's review of Gintama — 77 volumes of the most insane, absurdist, laugh-until-you-cry comedy in manga history, with a handful of the most emotionally devastating arcs hidden inside. The series that rewarded readers who stuck around."
 coverImage: "/covers/gintama.jpg"
 amazonASIN: "B00FPLNVQE"
-publishedAt: "2026-04-23"
+publishedAt: "2024-08-29"
 tags: ["shonen", "comedy", "action", "parody", "completed", "classic"]
 rating: 5
 hasAffiliate: true

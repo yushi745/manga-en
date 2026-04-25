@@ -17,7 +17,7 @@ contentWarnings: ["music industry content", "night club setting", "mild alcohol 
 description: "Yu's review of Ya Boy Kongming! — Zhuge Liang, the legendary strategist of the Three Kingdoms era, reincarnates in modern Tokyo; he arrives at a Shibuya club and hears a singer named Eiko whose talent is undeniable; he becomes her manager; Yoichi Takahashi's comedy manga about military strategy applied to the music industry."
 coverImage: "/covers/ya-boy-kongming.jpg"
 amazonASIN: "1646517849"
-publishedAt: "2026-05-28"
+publishedAt: "2024-11-11"
 tags: ["action", "comedy", "music", "ongoing", "teen", "kodansha", "three-kingdoms", "reincarnation", "music-industry"]
 rating: 4
 hasAffiliate: true

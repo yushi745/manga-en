@@ -18,7 +18,7 @@ contentWarnings:
   - "mature romance"
 description: "Yu's review of Only the Ring Finger Knows — at a school where matching rings signal couples, two boys accidentally end up with identical rings and the wrong impressions of each other."
 amazonASIN: "1569709254"
-publishedAt: "2026-04-26"
+publishedAt: "2025-08-08"
 tags:
   - "yaoi"
   - "BL"

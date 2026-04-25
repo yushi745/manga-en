@@ -17,7 +17,7 @@ contentWarnings: ["mystery around character true nature", "themes of control and
 description: "Yu's review of Shadows' House — Kate is a shadow noble whose face is obscured by soot; Emilico is her 'Living Doll' — a human servant who functions as Kate's face and emotional expression; together they navigate the mysterious house and begin to understand what it truly is."
 coverImage: "/covers/shadows-house.jpg"
 amazonASIN: "1975345924"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-28"
 tags: ["horror", "mystery", "ongoing", "gothic", "identity", "seinen"]
 rating: 5
 hasAffiliate: true

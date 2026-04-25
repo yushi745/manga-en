@@ -17,7 +17,7 @@ contentWarnings: ["family trauma", "emotional manipulation themes", "some mature
 description: "Yu's review of Kare Kano — Yukino Miyazawa is the top student, beloved by everyone, with a perfect exterior; Soichiro Arima is the same; they discover each other's real selves and fall in love; the series follows their relationship through high school with increasing depth and seriousness."
 coverImage: "/covers/kare-kano.jpg"
 amazonASIN: "1591823900"
-publishedAt: "2026-04-25"
+publishedAt: "2025-07-09"
 tags: ["romance", "drama", "completed", "shojo", "high-school", "tokyopop"]
 rating: 5
 hasAffiliate: true

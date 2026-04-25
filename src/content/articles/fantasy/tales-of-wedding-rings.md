@@ -17,7 +17,7 @@ contentWarnings: ["harem fantasy", "ecchi content", "multiple marriage premise",
 description: "Yu's review of Tales of Wedding Rings — Satou's childhood friend Hime disappears into another world to marry a prince; he follows, discovers she is the Ring Princess who must collect Ring Rulers by marrying them, and ends up as the one she marries, beginning a quest to collect four more Ring Rulers who become his additional wives."
 coverImage: "/covers/tales-of-wedding-rings.jpg"
 amazonASIN: "1975305027"
-publishedAt: "2026-05-06"
+publishedAt: "2025-02-09"
 tags: ["fantasy", "romance", "harem", "completed", "mature", "yen-press", "isekai-adjacent", "ring-magic"]
 rating: 3
 hasAffiliate: true

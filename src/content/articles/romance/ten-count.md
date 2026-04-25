@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "OCD representation", "therapy relations
 description: "Yu's review of Ten Count — Tadaomi Shirotani, a corporate secretary with mysophobia and OCD, meets Riku Kurose, a therapist who recognizes his condition and offers to help him through a ten-step desensitization process; what develops between them is the series' central moral complication."
 coverImage: "/covers/ten-count.jpg"
 amazonASIN: "1421586630"
-publishedAt: "2026-05-15"
+publishedAt: "2025-09-06"
 tags: ["romance", "boys-love", "completed", "mature", "sublime", "therapy", "ocd", "psychological"]
 rating: 4
 hasAffiliate: true

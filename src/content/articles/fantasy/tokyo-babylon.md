@@ -17,7 +17,7 @@ contentWarnings: ["supernatural horror elements", "social commentary", "tragedy"
 description: "Yu's review of Tokyo Babylon — Subaru Sumeragi is the 13th head of Japan's most powerful onmyoji clan, sixteen years old and gentle, who uses his spiritual ability to take on cases involving Tokyo's supernatural problems; his twin sister Hokuto accompanies him, as does Seishirou Sakurazuka, who claims to be his friend."
 coverImage: "/covers/tokyo-babylon.jpg"
 amazonASIN: "1427807523"
-publishedAt: "2026-05-07"
+publishedAt: "2025-02-14"
 tags: ["fantasy", "supernatural", "completed", "teen", "yen-press", "clamp", "tragedy", "1990s-tokyo"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "dark magic themes", "death", "horror elem
 description: "Yu's review of The Witch and the Beast — Guideau is a woman cursed into the body of a beast; she travels with Phanora, a man who carries a coffin, hunting the witch responsible; witches in this world are immensely powerful and largely above human law; the series follows their encounters with witches and the magic system that makes each encounter unique."
 coverImage: "/covers/witch-and-the-beast.jpg"
 amazonASIN: "1646516303"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-24"
 tags: ["fantasy", "action", "ongoing", "dark", "magic", "seinen", "mature"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["fantasy peril", "themes of forbidden knowledge", "mild body h
 description: "Yu's review of Witch Hat Atelier — a girl born without magic witnesses the forbidden secret of how magic actually works, and must now become a witch to undo what she accidentally caused."
 coverImage: "/covers/witch-hat-atelier.jpg"
 amazonASIN: "1632367700"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-25"
 tags: ["fantasy", "seinen", "magic", "art", "ongoing", "award-winning"]
 rating: 5
 hasAffiliate: true

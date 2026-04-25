@@ -17,7 +17,7 @@ contentWarnings: ["childhood sexual abuse", "violence", "parallel timelines", "p
 description: "Yu's review of Nijigahara Holograph — two timelines, childhood and adulthood, converge around a group of children who threw a girl into a tunnel; what lives at the bottom of the tunnel, and what the act of throwing her in did to everyone involved; Inio Asano's most formally complex and disturbing work."
 coverImage: "/covers/nijigahara-holograph.jpg"
 amazonASIN: "1606997726"
-publishedAt: "2026-05-21"
+publishedAt: "2025-04-19"
 tags: ["horror", "drama", "completed", "mature", "fantagraphics", "psychological", "parallel-timelines", "trauma"]
 rating: 4
 hasAffiliate: true

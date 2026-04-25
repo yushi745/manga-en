@@ -17,7 +17,7 @@ contentWarnings: ["war violence", "significant character deaths", "mature themes
 description: "Yu's review of Hinowa ga CRUSH! — set in a feudal Japan-inspired world, young warrior Hinowa fights alongside the skilled fighter Akame — yes, that Akame — in a land divided between the nation of Soukai and the conquering empire of Tenrou; the series chronicles the resistance against occupation with the same willingness to kill its characters that defined Akame ga Kill."
 coverImage: "/covers/hinowa-ga-crush.jpg"
 amazonASIN: "1975359038"
-publishedAt: "2026-05-10"
+publishedAt: "2024-09-05"
 tags: ["action", "fantasy", "completed", "mature", "yen-press", "akame-ga-kill", "feudal-japan", "war"]
 rating: 3
 hasAffiliate: true

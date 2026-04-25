@@ -17,7 +17,7 @@ contentWarnings: ["violence", "death of children", "psychological horror", "dark
 description: "Yu's review of The Promised Neverland — orphan children living a perfect life discover their farm is raising them as food for demons. A survival thriller that starts as one of the best manga ever made."
 coverImage: "/covers/promised-neverland.jpg"
 amazonASIN: "1421597144"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-23"
 tags: ["horror", "thriller", "shonen", "survival", "psychological"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "stepsister relationship", "unwanted kisses (e
 description: "Yu's review of Citrus — Yuzu, a fashionable gyaru, transfers to a strict all-girls school and discovers her new stepsister Mei is the school's student council president; what begins as a hostile dynamic develops into complicated romantic feelings; the defining yuri manga of its era."
 coverImage: "/covers/citrus.jpg"
 amazonASIN: "1626922322"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-29"
 tags: ["romance", "yuri", "completed", "teen-plus", "seven-seas", "shoujo-ai", "stepsister"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["death of children", "themes of social control and suppression
 description: "Yu's review of From the New World — a millennium from now, a small society of psychic humans lives in apparent peace; Saki and her friends begin to notice the gaps between what they are taught and what is real, and what they discover rewrites everything they thought their world was."
 coverImage: "/covers/from-the-new-world.jpg"
 amazonASIN: "1939130549"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-28"
 tags: ["sci-fi", "mystery", "seinen", "completed", "dystopia", "psychic"]
 rating: 5
 hasAffiliate: true

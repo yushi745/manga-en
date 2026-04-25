@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content"]
 description: "Yu's review of Shortcake Cake — Ten Serizawa moves into a boarding house to avoid the long commute to school, finds herself living alongside four boys, and falls into a story about two of them who are opposites and what that means for who she becomes."
 coverImage: "/covers/shortcake-cake.jpg"
 amazonASIN: "1974707938"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-26"
 tags: ["romance", "shojo", "completed", "boarding-house"]
 rating: 4
 hasAffiliate: true

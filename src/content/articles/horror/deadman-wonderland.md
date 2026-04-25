@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "torture", "dark themes", "body horror"]
 description: "Yu's review of Deadman Wonderland — a middle schooler is framed for massacring his classmates and sent to a privatized prison that doubles as a theme park, where inmates fight for their lives as entertainment."
 coverImage: "/covers/deadman-wonderland.jpg"
 amazonASIN: "1421555484"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-14"
 tags: ["horror", "action", "dark", "completed", "prison"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "sexual assault", "torture", "psychologica
 description: "Yu's review of Berserk — the story of Guts, a warrior born from the corpse of his hanged mother, who fights demons with a sword the size of a car door in a world where God is real and malevolent."
 coverImage: "/covers/berserk.jpg"
 amazonASIN: "1593070209"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-07"
 tags: ["dark-fantasy", "horror", "action", "classic", "mature", "tragedy"]
 rating: 5
 hasAffiliate: true

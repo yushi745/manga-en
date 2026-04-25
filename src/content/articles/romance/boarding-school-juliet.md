@@ -17,7 +17,7 @@ contentWarnings: ["school rivalry violence", "secret relationship", "light roman
 description: "Yu's review of Boarding School Juliet — Dahlia Academy has two dormitories: the Black Dog house for the Principality of West students and the White Cat house for the Touwa Empire students; Romio Inuzuka (Black Dogs leader) and Juliet Persia (White Cats leader) are secretly in love, and the series follows their attempt to maintain a secret relationship while their houses are at war."
 coverImage: "/covers/boarding-school-juliet.jpg"
 amazonASIN: "1632366428"
-publishedAt: "2026-05-10"
+publishedAt: "2025-05-21"
 tags: ["romance", "comedy", "school", "completed", "teen", "kodansha", "secret-relationship", "rivals"]
 rating: 4
 hasAffiliate: true

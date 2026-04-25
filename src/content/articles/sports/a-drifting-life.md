@@ -19,7 +19,7 @@ contentWarnings:
 description: "A comprehensive review of A Drifting Life — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/a-drifting-life.jpg"
 amazonASIN: "1897299354"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-11"
 tags:
   - "biography"
   - "manga-history"

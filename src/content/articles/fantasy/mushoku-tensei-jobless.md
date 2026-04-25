@@ -17,7 +17,7 @@ contentWarnings: ["protagonist starts with problematic traits", "some adult situ
 description: "Yu's review of Mushoku Tensei: Jobless Reincarnation manga — a 34-year-old shut-in NEET dies and reincarnates as Rudeus Greyrat in a fantasy world, retaining his memories; he resolves to live a full life this time; manga adaptation of Rifujin na Magonote's web novel, the foundational modern isekai work."
 coverImage: "/covers/mushoku-tensei-jobless.jpg"
 amazonASIN: "1626923418"
-publishedAt: "2026-05-24"
+publishedAt: "2025-01-13"
 tags: ["fantasy", "isekai", "completed", "mature", "seven-seas", "protagonist-growth", "light-novel-adaptation", "foundational"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["sports competition intensity", "mild rivalry themes"]
 description: "Yu's review of Yowamushi Pedal — an anime otaku who rides his mama-chari to Akihabara every week is discovered by competitive cyclists who realize he has elite climbing ability without knowing it."
 coverImage: "/covers/yowamushi-pedal.jpg"
 amazonASIN: "0316306010"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-25"
 tags: ["sports", "cycling", "school", "ongoing", "underdog"]
 rating: 4
 hasAffiliate: true

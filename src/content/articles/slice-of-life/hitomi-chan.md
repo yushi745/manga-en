@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Hitomi-chan Is Shy With Strangers — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/hitomi-chan.jpg"
 amazonASIN: "1975340841"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-09"
 tags:
   - "romance"
   - "comedy"

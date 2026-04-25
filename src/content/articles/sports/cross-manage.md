@@ -17,7 +17,7 @@ contentWarnings: ["mild language", "mild fanservice", "sports competition"]
 description: "Yu's review of Cross Manage — Takasugi Misora was a champion lacrosse player until injury ended his career; he reluctantly becomes manager of his school's girls lacrosse team; a sports manga about the strategic and supportive role of management, the rehabilitation of someone who lost their path, and what it means to contribute from behind the scenes."
 coverImage: "/covers/cross-manage.jpg"
 amazonASIN: "1421567024"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-23"
 tags: ["sports", "completed", "teen", "viz", "lacrosse", "management", "shonen"]
 rating: 4
 hasAffiliate: true

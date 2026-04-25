@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "body horror", "death of characters", "mat
 description: "Yu's review of Brynhildr in the Darkness — Ryouta Murakami is haunted by the childhood death of a girl named Kuroneko; years later, a girl with the same face and impossible powers appears at his school; she has escaped from a laboratory where girls are implanted with harness devices that grant them supernatural abilities — and kill them when removed."
 coverImage: "/covers/brynhildr-darkness.jpg"
 amazonASIN: "1626920311"
-publishedAt: "2026-05-13"
+publishedAt: "2025-10-15"
 tags: ["sci-fi", "horror", "action", "completed", "mature", "seven-seas", "espers", "survival"]
 rating: 4
 hasAffiliate: true

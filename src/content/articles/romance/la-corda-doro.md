@@ -17,7 +17,7 @@ contentWarnings: ["reverse harem romance", "classical music setting", "school co
 description: "Yu's review of La Corda d'Oro — Kahoko Hino is a non-music student at a school that takes music seriously; a fairy named Lili gives her a magical violin and enters her in the school's concours alongside the elite music students; what develops is both a musical competition and a reverse harem romance."
 coverImage: "/covers/la-corda-doro.jpg"
 amazonASIN: "1421506742"
-publishedAt: "2026-05-16"
+publishedAt: "2025-07-15"
 tags: ["romance", "reverse-harem", "completed", "teen", "viz-media", "music", "violin", "school-competition"]
 rating: 4
 hasAffiliate: true

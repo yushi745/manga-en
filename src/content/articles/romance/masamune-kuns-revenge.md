@@ -17,7 +17,7 @@ contentWarnings: ["revenge themes", "teen romantic comedy", "mild fan service"]
 description: "Yu's review of Masamune-kun's Revenge — Masamune Makabe was a chubby child who was cruelly rejected by the beautiful Adagaki Aki with the nickname 'Piggy'; he spent years transforming himself into a handsome, fit boy; now they are in the same high school, and his plan is to make her fall in love with him and then reject her; the plan does not survive contact with actual feelings."
 coverImage: "/covers/masamune-kuns-revenge.jpg"
 amazonASIN: "0316432628"
-publishedAt: "2026-04-25"
+publishedAt: "2025-07-27"
 tags: ["romance", "comedy", "completed", "teen", "yen-press", "high-school"]
 rating: 4
 hasAffiliate: true

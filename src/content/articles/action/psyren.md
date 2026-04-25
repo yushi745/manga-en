@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "post-apocalyptic survival sequences", "som
 description: "Yu's review of Psyren — Ageha Yoshina finds a phone card called Psyren; using it transports him to a devastated future Japan where monsters called Taboo hunt humans; players who survive the game develop psychic powers; together with others, he tries to prevent this future from happening."
 coverImage: "/covers/psyren.jpg"
 amazonASIN: "1421559153"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-08"
 tags: ["action", "shonen", "completed", "sci-fi", "psychic", "time-travel"]
 rating: 4
 hasAffiliate: true

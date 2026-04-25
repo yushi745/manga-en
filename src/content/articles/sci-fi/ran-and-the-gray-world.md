@@ -17,7 +17,7 @@ contentWarnings: ["adult themes", "age-gap relationship", "magical violence", "f
 description: "Yu's review of Ran and the Gray World — Ran Uruma has extraordinary magical power inherited from her mother, a sorceress who has been away for years; Ran's magic is tied to a pair of sneakers that, when worn, transform her into an adult woman; navigating her family, her power, and the adult world she keeps accidentally entering, she develops a complicated relationship with an older man who meets her only in her adult form."
 coverImage: "/covers/ran-and-the-gray-world.jpg"
 amazonASIN: "1421593238"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-16"
 tags: ["sci-fi", "fantasy", "completed", "teen-plus", "viz-media", "magical-girl", "josei"]
 rating: 4
 hasAffiliate: true

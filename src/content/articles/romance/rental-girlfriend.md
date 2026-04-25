@@ -17,7 +17,7 @@ contentWarnings: ["rental girlfriend service premise", "romantic comedy misunder
 description: "Yu's review of Rent-A-Girlfriend — Kazuya Kinoshita gets dumped and rents Chizuru Mizuhara through a rental girlfriend app; a chain of lies forces them to pretend they're dating for real; Reiji Miyajima's long-running romantic comedy about artificial romance becoming genuine feeling."
 coverImage: "/covers/rental-girlfriend.jpg"
 amazonASIN: "1646510240"
-publishedAt: "2026-05-25"
+publishedAt: "2025-08-19"
 tags: ["romance", "comedy", "ongoing", "teen-plus", "kodansha", "rental-girlfriend", "love-triangle", "shonen"]
 rating: 3
 hasAffiliate: true

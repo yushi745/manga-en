@@ -17,7 +17,7 @@ contentWarnings: ["school sports romance", "family circumstances", "wholesome co
 description: "Yu's review of Blue Box — Taiki Inomata is a badminton player who practices at school every morning; Chinatsu Kano is a basketball player who uses the gym at the same time; Taiki has a crush on Chinatsu; when a family situation causes Chinatsu to move into Taiki's house, their relationship is forced into a new context."
 coverImage: "/covers/blue-box.jpg"
 amazonASIN: "1974736202"
-publishedAt: "2026-05-15"
+publishedAt: "2025-05-20"
 tags: ["romance", "sports", "ongoing", "teen", "viz-media", "school", "badminton", "wholesome"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "slavery themes", "dark world-building", "
 description: "Yu's review of Reincarnated as a Sword — a man reincarnates as a sword in a fantasy world, gains intelligence and magical abilities through monster killing, and bonds with Fran, a beastgirl slave-child who becomes his wielder; the isekai twist of a non-human protagonist creates an unusual dynamic where the sword is the thinker and the girl is the fighter."
 coverImage: "/covers/reincarnated-as-sword.jpg"
 amazonASIN: "1638582041"
-publishedAt: "2026-04-25"
+publishedAt: "2025-01-26"
 tags: ["fantasy", "isekai", "ongoing", "teen-plus", "seven-seas", "reincarnation", "action"]
 rating: 4
 hasAffiliate: true

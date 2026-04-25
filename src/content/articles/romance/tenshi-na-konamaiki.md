@@ -19,7 +19,7 @@ contentWarnings:
   - "comedy"
 description: "Yu's review of Tenshi Na Konamaiki — a boy who was transformed into a girl by a genie as a child has grown up strong, fierce, and determined to find a way to transform back, but life keeps getting complicated."
 amazonASIN: "1421506270"
-publishedAt: "2026-04-26"
+publishedAt: "2025-09-07"
 tags:
   - "shojo"
   - "romance"

@@ -17,7 +17,7 @@ contentWarnings: ["atomic bomb effects depicted graphically", "mass death", "rad
 description: "Yu's review of Barefoot Gen — Keiji Nakazawa's autobiographical manga about surviving the Hiroshima atomic bombing as a child; Gen Nakaoka survives the blast but must immediately try to save his family; the series follows his survival in the months and years after the bomb, rendered with the graphic honesty of someone who was actually there."
 coverImage: "/covers/barefoot-gen.jpg"
 amazonASIN: "0867196025"
-publishedAt: "2026-05-20"
+publishedAt: "2025-12-12"
 tags: ["slice-of-life", "war", "history", "autobiography", "completed", "mature", "last-gasp", "hiroshima", "atomic-bomb"]
 rating: 5
 hasAffiliate: true

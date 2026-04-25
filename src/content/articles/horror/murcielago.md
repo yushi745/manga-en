@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "sexual content", "serial killer content",
 description: "Yu's review of Murcielago — Kuroko Koumori is a serial killer with over 700 victims who was spared execution on the condition that she work for the government hunting killers too dangerous or too bizarre for conventional law enforcement; each case involves a different extreme criminal; the series balances extreme violence with dark comedy."
 coverImage: "/covers/murcielago.jpg"
 amazonASIN: "0316473960"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-15"
 tags: ["horror", "action", "ongoing", "mature", "yen-press", "serial-killer"]
 rating: 3
 hasAffiliate: true

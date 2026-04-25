@@ -17,7 +17,7 @@ contentWarnings: ["alcohol", "nudity (non-sexual)", "adult themes", "crude humor
 description: "Yu's review of Grand Blue Dreaming — Iori Kitahara moves to a coastal town to attend college and takes a room above his uncle's dive shop; what he expected was diving; what he found was a college diving club that spends more time drinking naked than in the ocean; the funniest college comedy manga in the genre with genuine diving content alongside the chaos."
 coverImage: "/covers/grand-blue-dreaming.jpg"
 amazonASIN: "1632366592"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-02"
 tags: ["slice-of-life", "comedy", "college", "ongoing", "mature", "kodansha", "diving", "adult-comedy"]
 rating: 5
 hasAffiliate: true

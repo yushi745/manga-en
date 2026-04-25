@@ -17,7 +17,7 @@ contentWarnings: ["child abuse", "neglect", "complex family trauma", "difficult 
 description: "Yu's review of not simple — Ian is an English young man whose life has been defined by loss, abuse, neglect, and a desperate search for his sister; the manga tells his story in non-linear fragments, assembled by a journalist writing a novel about Ian's life, asking what it means to witness someone's suffering and what fiction can do with it."
 coverImage: "/covers/not-simple.jpg"
 amazonASIN: "1421527529"
-publishedAt: "2026-05-18"
+publishedAt: "2026-02-05"
 tags: ["slice-of-life", "drama", "completed", "mature", "viz-media", "tragedy", "nonlinear", "literary"]
 rating: 5
 hasAffiliate: true

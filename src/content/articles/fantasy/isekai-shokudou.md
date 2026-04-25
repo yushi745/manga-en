@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Restaurant to Another World — a Western restaurant in Tokyo has a back door that opens to different locations in a fantasy world every Saturday; fantasy world inhabitants discover it and become regulars; manga adaptation of Junpei Inuzuka's light novel about food as connection across worlds."
 coverImage: "/covers/isekai-shokudou.jpg"
 amazonASIN: "1626925429"
-publishedAt: "2026-05-24"
+publishedAt: "2024-12-28"
 tags: ["fantasy", "food", "completed", "all-ages", "seven-seas", "restaurant", "anthology", "warm"]
 rating: 4
 hasAffiliate: true

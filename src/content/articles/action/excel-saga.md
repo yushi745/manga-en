@@ -17,7 +17,7 @@ contentWarnings: ["absurdist comedy", "extreme violence played for laughs", "adu
 description: "Yu's review of Excel Saga — Excel is a fanatically devoted agent of ACROSS, an organization led by the magnificently incompetent Lord Il Palazzo whose goal is world domination; she is paired with Hyatt, who dies regularly; together they fail to conquer their assigned sector of Japan with maximum enthusiasm."
 coverImage: "/covers/excel-saga.jpg"
 amazonASIN: "1591164664"
-publishedAt: "2026-05-07"
+publishedAt: "2024-08-23"
 tags: ["action", "comedy", "parody", "completed", "mature", "viz-media", "absurdist"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["slapstick violence", "love triangle and polygon themes", "som
 description: "Yu's review of School Rumble — Kenji Harima is a delinquent who has fallen desperately in love with Tenma Tsukamoto; Tenma is completely oblivious to Harima and completely focused on confessing to Karasuma, who has no romantic feelings for anyone and is focused on curry; the series follows this triangle and its many complications across a cast of dozens."
 coverImage: "/covers/school-rumble.jpg"
 amazonASIN: "0345480201"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-23"
 tags: ["romance", "comedy", "completed", "school", "love-triangle", "shonen"]
 rating: 4
 hasAffiliate: true

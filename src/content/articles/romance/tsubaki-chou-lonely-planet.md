@@ -17,7 +17,7 @@ contentWarnings: ["unusual living arrangement", "age gap (slight)", "shojo roman
 description: "Yu's review of Tsubaki-chou Lonely Planet — Fumi Ohara's father's gambling debts leave her without a home; she takes a job as a live-in housekeeper for Akatsuki Kibikino, a young novelist who works from home, has no patience for people, and is completely unprepared for someone like Fumi."
 coverImage: "/covers/tsubaki-chou-lonely-planet.jpg"
 amazonASIN: "1646512553"
-publishedAt: "2026-05-04"
+publishedAt: "2025-09-15"
 tags: ["romance", "slice-of-life", "shojo", "completed", "teen", "kodansha", "slow-burn", "cohabitation"]
 rating: 4
 hasAffiliate: true

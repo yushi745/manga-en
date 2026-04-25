@@ -17,7 +17,7 @@ contentWarnings: ["medical themes", "some illness and death depictions", "mild f
 description: "Yu's review of Isekai Pharmacy — Kanji Yakutani was a pharmaceutical researcher who died from overwork; reincarnated as Falma de Medicis, the son of a pharmacist noble in a medieval fantasy world, he brings modern pharmaceutical knowledge to a world with no germ theory; he works to cure diseases that medieval medicine cannot."
 coverImage: "/covers/isekai-pharmacy.jpg"
 amazonASIN: "1646091183"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-27"
 tags: ["fantasy", "isekai", "ongoing", "square-enix", "medical", "male-protagonist"]
 rating: 4
 hasAffiliate: true

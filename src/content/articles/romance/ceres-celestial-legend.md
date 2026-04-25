@@ -17,7 +17,7 @@ contentWarnings: ["violence and death", "sexual assault themes", "family horror 
 description: "Yu's review of Ceres: Celestial Legend — Aya Mikage discovers on her 16th birthday that she is the reincarnation of a celestial maiden whose heavenly robe was stolen; her family has been suppressing this power for generations; the discovery triggers a conflict that will destroy her family as she knew it."
 coverImage: "/covers/ceres-celestial-legend.jpg"
 amazonASIN: "1569315477"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-26"
 tags: ["romance", "fantasy", "drama", "completed", "shojo", "mature", "viz-media"]
 rating: 5
 hasAffiliate: true

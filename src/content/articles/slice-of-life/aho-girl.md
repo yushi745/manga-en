@@ -17,7 +17,7 @@ contentWarnings: ["slapstick violence (comedic)", "inappropriate behavior played
 description: "Yu's review of Aho-Girl — Yoshiko Hanabatake is so spectacularly stupid that she represents a category of person rather than a character; her childhood friend A-kun is a serious student who has spent his entire life trying to maintain distance from her chaos; she is incapable of taking any hint and follows him everywhere; slapstick comedy manga."
 coverImage: "/covers/aho-girl.jpg"
 amazonASIN: "1632365197"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-07"
 tags: ["slice-of-life", "comedy", "completed", "teen", "kodansha", "4-koma"]
 rating: 4
 hasAffiliate: true

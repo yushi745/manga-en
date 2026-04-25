@@ -17,7 +17,7 @@ contentWarnings: ["mecha violence", "dystopian society themes", "romantic conten
 description: "Yu's review of Darling in the FranXX — in a future where humanity lives in mobile cities and children are trained from birth to pilot giant mechs called FranXX in male-female pairs, Hiro and Zero Two find each other and something neither was supposed to feel; the manga adaptation of the Studio Trigger/A-1 Pictures anime."
 coverImage: "/covers/darling-in-the-franxx.jpg"
 amazonASIN: "1974710882"
-publishedAt: "2026-04-28"
+publishedAt: "2025-10-21"
 tags: ["sci-fi", "mecha", "romance", "completed", "teen", "viz", "dystopia", "shonen-jump-plus"]
 rating: 4
 hasAffiliate: true

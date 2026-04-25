@@ -17,7 +17,7 @@ contentWarnings: ["monster violence", "body horror elements", "mature themes", "
 description: "Yu's review of Zetman — Jin Kanzaki is a boy who can transform into ZET, a living weapon created by a corporation's experiment; his story is intertwined with Kouga Amagi, heir to a company that creates its own superhero armor — two different ideas of what a hero means, in conflict and occasional partnership."
 coverImage: "/covers/zetman.jpg"
 amazonASIN: "1421563940"
-publishedAt: "2026-05-05"
+publishedAt: "2024-11-13"
 tags: ["action", "sci-fi", "superhero", "completed", "mature", "viz-media", "seinen"]
 rating: 4
 hasAffiliate: true

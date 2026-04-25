@@ -17,7 +17,7 @@ contentWarnings: ["virtual reality death game", "survival themes", "mild action 
 description: "Yu's review of Sword Art Online: Progressive — the manga adaptation of Kawahara's revisit to the original SAO story, told floor-by-floor through Aincrad; the Progressive version provides more detail on floors 1-10 that the original rushed past, with Asuna taking a more central role from the beginning; a more complete telling of the Aincrad arc."
 coverImage: "/covers/sword-art-online-progressive.jpg"
 amazonASIN: "1975387945"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-24"
 tags: ["sci-fi", "virtual-reality", "action", "ongoing", "teen", "viz", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

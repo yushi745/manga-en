@@ -17,7 +17,7 @@ contentWarnings: ["arranged sacrifice themes", "historical fantasy setting", "sl
 description: "Yu's review of The Water Dragon's Bride — Asahi falls into a well as a child and emerges in an ancient world where a water god takes her as his bride offering; the god is powerful and cold, viewing her as a necessary sacrifice; what develops across years of her life in this world is the series' central transformation."
 coverImage: "/covers/the-water-dragons-bride.jpg"
 amazonASIN: "142158873X"
-publishedAt: "2026-05-15"
+publishedAt: "2025-02-12"
 tags: ["fantasy", "romance", "completed", "teen", "viz-media", "water-god", "historical-fantasy", "time-slip"]
 rating: 4
 hasAffiliate: true

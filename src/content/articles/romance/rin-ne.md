@@ -17,7 +17,7 @@ contentWarnings: ["supernatural comedy", "shinigami content", "romantic comedy o
 description: "Yu's review of Rin-ne — Sakura Mamiya has seen ghosts since childhood; at her new school she notices a classmate, Rinne Rokudo, who appears and disappears mysteriously and who she eventually learns is a half-human, half-shinigami boy desperately short on money."
 coverImage: "/covers/rin-ne.jpg"
 amazonASIN: "1421538679"
-publishedAt: "2026-05-06"
+publishedAt: "2025-08-20"
 tags: ["romance", "comedy", "supernatural", "shinigami", "completed", "teen", "viz-media", "shonen-sunday", "takahashi"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "police procedural setting", "mature sex
 description: "Yu's review of FAKE — NYPD detectives Dee Laytner and Randy 'Ryo' McLean are partners who work cases together, parent a runaway child named Bikky who attaches to Ryo, and navigate Dee's persistent pursuit of Ryo across seven volumes of police procedural boys' love."
 coverImage: "/covers/fake.jpg"
 amazonASIN: "1591820421"
-publishedAt: "2026-05-15"
+publishedAt: "2025-06-10"
 tags: ["romance", "boys-love", "completed", "mature", "tokyopop", "police", "nypd", "found-family", "classic-bl"]
 rating: 4
 hasAffiliate: true

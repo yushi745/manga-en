@@ -17,7 +17,7 @@ contentWarnings: ["mild fan service", "candy obsession content"]
 description: "Yu's review of Dagashi Kashi — Shikada Kokonotsu wants to become a manga artist; his father runs a rural dagashi shop (cheap Japanese candy and snack store) and wants Kokonotsu to inherit it; Hotaru Shidare, daughter of a major candy company executive, appears to recruit his father and becomes obsessed with converting Kokonotsu to the dagashi way through sheer enthusiasm and encyclopedic candy knowledge."
 coverImage: "/covers/dagashi-kashi.jpg"
 amazonASIN: "0316312983"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-23"
 tags: ["slice-of-life", "comedy", "completed", "teen", "yen-press", "food", "culture"]
 rating: 4
 hasAffiliate: true

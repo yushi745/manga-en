@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "mob violence", "mass death", "cosmic horr
 description: "Yu's review of Remina — a scientist names a mysterious planet after his daughter, and when that planet turns out to be heading toward Earth to consume it, the terrified public turns on the girl."
 coverImage: "/covers/remina.jpg"
 amazonASIN: "1974717476"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-25"
 tags: ["horror", "junji-ito", "cosmic-horror", "sci-fi", "completed", "one-shot"]
 rating: 4
 hasAffiliate: true

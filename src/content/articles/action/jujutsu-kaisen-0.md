@@ -17,7 +17,7 @@ contentWarnings: ["cursed spirit action violence", "tragedy", "loss of a loved o
 description: "Yu's review of Jujutsu Kaisen 0 — the prequel to Jujutsu Kaisen following Yuta Okkotsu, a high school boy haunted by a powerful cursed spirit that was once his childhood friend Rika; Satoru Gojo recruits him into Jujutsu High; Yuta's story precedes and connects to the main JJK series."
 coverImage: "/covers/jujutsu-kaisen-0.jpg"
 amazonASIN: "1974722767"
-publishedAt: "2026-05-15"
+publishedAt: "2024-09-11"
 tags: ["action", "horror", "completed", "teen", "viz-media", "jujutsu-kaisen", "prequel", "tragedy"]
 rating: 5
 hasAffiliate: true

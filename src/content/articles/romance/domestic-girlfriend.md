@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["mature sexual content", "teacher-student relationship (central premise)", "stepsibling relationships", "mature themes throughout"]
 description: "Yu's review of Domestic Girlfriend — Natsuo falls for his teacher, sleeps with a stranger at a party, then discovers both the stranger and his teacher are now his stepsisters after his father remarries."
 coverImage: "/covers/domestic-girlfriend.jpg"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-07"
 tags: ["romance", "drama", "seinen", "mature", "completed"]
 rating: 3
 hasAffiliate: false

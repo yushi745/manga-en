@@ -17,7 +17,7 @@ contentWarnings: ["comedy violence", "extreme facial expressions", "absurd humor
 description: "Yu's review of Asobi Asobase — Hanako Honda and Olivia (raised in Japan, speaks no English despite looking foreign) convince Kasumi Nomura to join their Pastimers Club; the club's purpose is to play old-fashioned games; the series follows the three girls playing games and having exaggerated reactions to everything while a cast of increasingly strange side characters accumulates around them."
 coverImage: "/covers/asobi-asobase.jpg"
 amazonASIN: "1975383796"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-10"
 tags: ["slice-of-life", "comedy", "completed", "teen", "yen-press", "school-comedy"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["terminal illness", "death", "grief", "parental abuse themes",
 description: "Yu's review of Your Lie in April — a piano prodigy who lost his ability to hear his own music after his mother's death meets a violinist who plays like she is throwing everything she has at the sky."
 coverImage: "/covers/your-lie-in-april.jpg"
 amazonASIN: "1632361714"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-28"
 tags: ["romance", "drama", "music", "tragedy", "emotional", "completed"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "beauty industry themes"]
 description: "Yu's review of Beauty Pop — Kiri Koshiba has extraordinary talent as a hairdresser and zero interest in using it publicly; the school's Scissors Project, led by the overbearing Narumi, performs beauty makeovers on girls they select; Kiri repeatedly and accidentally upstages them with superior results while wanting nothing to do with the competition."
 coverImage: "/covers/beauty-pop.jpg"
 amazonASIN: "1421506912"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-18"
 tags: ["romance", "comedy", "completed", "shojo", "beauty", "viz-media"]
 rating: 4
 hasAffiliate: true

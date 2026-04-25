@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "horror imagery", "blood", "mature themes"
 description: "Yu's review of Kurozuka — Minamoto no Kuro, a 12th century samurai, meets the immortal Kuromitsu and drinks her blood; he wakes up in a post-apocalyptic future with fragmented memories and the certainty that Kuromitsu still exists somewhere; a violent horror manga spanning historical Japan and dystopian future."
 coverImage: "/covers/kurozuka.jpg"
 amazonASIN: "1421522403"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-06"
 tags: ["horror", "sci-fi", "historical", "completed", "mature", "viz", "vampire", "dystopian"]
 rating: 4
 hasAffiliate: true

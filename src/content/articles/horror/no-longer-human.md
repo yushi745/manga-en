@@ -17,7 +17,7 @@ contentWarnings: ["addiction", "suicide themes", "depression", "substance abuse"
 description: "Yu's review of No Longer Human manga adaptation — Usamaru Furuya adapts Osamu Dazai's 1948 autobiographical novel into a contemporary setting; the protagonist Yozo Oba is a young man who cannot believe himself to be a human being in the same sense as the people around him; the manga follows his descent through addiction, relationships, and the inability to exist in the world."
 coverImage: "/covers/no-longer-human.jpg"
 amazonASIN: "1421533030"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-19"
 tags: ["horror", "literary", "completed", "mature", "viz-media", "psychological", "classic-adaptation"]
 rating: 5
 hasAffiliate: true

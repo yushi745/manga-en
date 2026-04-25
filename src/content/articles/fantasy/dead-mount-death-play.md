@@ -17,7 +17,7 @@ contentWarnings: ["violence and death", "crime underworld themes", "body-swap pr
 description: "Yu's review of Dead Mount Death Play — the Corpse God, a powerful necromancer in a fantasy world, is slain and reincarnates in modern-day Tokyo in the body of a teenage boy named Polka Shinoyama; he navigates the modern world while concealing his identity; the people searching for Polka are deeply embedded in Tokyo's criminal underworld."
 coverImage: "/covers/dead-mount-death-play.jpg"
 amazonASIN: "1646091035"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-01"
 tags: ["fantasy", "isekai", "action", "ongoing", "square-enix", "crime", "mystery"]
 rating: 5
 hasAffiliate: true

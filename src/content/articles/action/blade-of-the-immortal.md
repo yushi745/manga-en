@@ -17,7 +17,7 @@ contentWarnings: ["extreme graphic violence", "dismemberment", "sexual violence"
 description: "Yu's review of Blade of the Immortal — Manji is a swordsman cursed with immortality through bloodworms that heal any wound; he has killed a hundred innocent people and must now kill a thousand evil men to lift the curse; he agrees to protect Rin Asano, a sixteen-year-old girl whose parents were slaughtered by the Itto-ryu sword school; the series follows their pursuit across feudal Japan."
 coverImage: "/covers/blade-of-the-immortal.jpg"
 amazonASIN: "1616551003"
-publishedAt: "2026-04-25"
+publishedAt: "2024-08-03"
 tags: ["action", "historical", "samurai", "completed", "mature", "dark-horse", "classic"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["political themes", "some mild violence", "scheming noble vill
 description: "Yu's review of Accomplishments of the Duke's Daughter — a corporate worker reincarnates as Iris, the villainess of an otome game she played, who is supposed to be exiled; rather than agonize over the game's plot, she immediately focuses on what she can do: using her knowledge of economics and administration from her previous life to build the fief she's sent to into something worth having."
 coverImage: "/covers/accomplishments-of-the-dukes-daughter.jpg"
 amazonASIN: "1626929378"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-15"
 tags: ["fantasy", "isekai", "completed", "villainess", "political", "josei"]
 rating: 4
 hasAffiliate: true

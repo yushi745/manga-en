@@ -17,7 +17,7 @@ contentWarnings: ["fan service", "cyborg content", "comedy violence", "mild adul
 description: "Yu's review of Pandora in the Crimson Shell — Nene Nanakorobi is a full-body cyborg girl who arrives on the artificial island of Cenancle with her android companion Clarion; Nene has the ability to access Clarion's special capabilities through a direct physical interface; the series is a comedic near-future adventure involving a cyborg cat girl, conspiracy, and the island's unusual politics."
 coverImage: "/covers/pandora-crimson-shell.jpg"
 amazonASIN: "1626922330"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-13"
 tags: ["sci-fi", "comedy", "ongoing", "teen-plus", "seven-seas", "cyborg", "shirow"]
 rating: 4
 hasAffiliate: true

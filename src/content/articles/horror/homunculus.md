@@ -21,7 +21,7 @@ contentWarnings:
 description: "A comprehensive review of Homunculus — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/homunculus.jpg"
 amazonASIN: "1638589429"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-31"
 tags:
   - "horror"
   - "psychological"

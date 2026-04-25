@@ -17,7 +17,7 @@ contentWarnings: ["fan service and suggestive content (significant)", "incestuou
 description: "Yu's review of No Game No Life — two genius shut-in siblings transported to a world where all conflict is resolved through games. The game mechanics are inventive, the visual style is distinctive, and the content warnings are real."
 coverImage: "/covers/no-game-no-life.jpg"
 amazonASIN: "1626920796"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-17"
 tags: ["fantasy", "isekai", "ongoing", "comedy", "games", "strategy"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "body horror", "dark themes", "black comed
 description: "Yu's review of Dorohedoro — a man with a lizard head and amnesia searches for the sorcerer who transformed him in a brutal city where sorcerers use humans as test subjects."
 coverImage: "/covers/dorohedoro.jpg"
 amazonASIN: "1421533634"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-25"
 tags: ["sci-fi", "dark-fantasy", "completed", "unique", "black-comedy"]
 rating: 5
 hasAffiliate: true

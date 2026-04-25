@@ -17,7 +17,7 @@ contentWarnings: ["boys' love romance", "explicit sexual content", "fantasy viol
 description: "Yu's review of Crimson Spell — Prince Vald has been cursed by a demonic sword that causes him to transform into a monster at night; he seeks out the sorcerer Halvi to remove the curse; Halvi can suppress the transformation, but uses the prince's vulnerable nightly state for his own interests."
 coverImage: "/covers/crimson-spell.jpg"
 amazonASIN: "1421574438"
-publishedAt: "2026-05-16"
+publishedAt: "2025-06-01"
 tags: ["romance", "boys-love", "completed", "mature", "sublime", "fantasy", "curse", "sorcerer"]
 rating: 4
 hasAffiliate: true

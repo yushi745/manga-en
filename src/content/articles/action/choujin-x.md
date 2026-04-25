@@ -17,7 +17,7 @@ contentWarnings: ["violence", "body horror", "psychological content", "themes of
 description: "Yu's review of Choujin X — Tokyo Ghoul creator Sui Ishida's new series: in a world where some humans transform into 'Choujin' — superhuman beings with terrifying abilities — Tokio injects himself with a Choujin syringe to save his best friend, and both of them enter a new world."
 coverImage: "/covers/choujin-x.jpg"
 amazonASIN: "1974741991"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-12"
 tags: ["action", "supernatural", "shonen", "ongoing", "Tokyo-Ghoul-author", "identity"]
 rating: 4
 hasAffiliate: true

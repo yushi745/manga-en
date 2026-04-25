@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "incubus themes", "mild sexual tension
 description: "Yu's review of Demon Love Spell — Miko Hashimoto is a shrine maiden who cannot see spirits; when she performs a ritual meant to seal an incubus named Kagura, she accidentally seals his powers rather than him; now the incubus whose power comes from collecting love must live with her to regain his strength."
 coverImage: "/covers/demon-love-spell.jpg"
 amazonASIN: "1421554267"
-publishedAt: "2026-05-15"
+publishedAt: "2025-06-04"
 tags: ["romance", "fantasy", "completed", "teen", "viz-media", "incubus", "shrine-maiden", "supernatural"]
 rating: 3
 hasAffiliate: true

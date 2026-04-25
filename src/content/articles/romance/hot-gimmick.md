@@ -17,7 +17,7 @@ contentWarnings: ["coercive relationship dynamics", "blackmail themes", "emotion
 description: "Yu's review of Hot Gimmick — Hatsumi Narita lives in company housing where her neighbor Ryoki holds a secret over her; what begins as coercive leverage develops into one of shoujo manga's most discussed and debated romantic triangles, with Hatsumi caught between childhood friend Shinogu, first love Azusa, and the controlling Ryoki; a romance that is controversial precisely because it depicts what it depicts without editorial distance."
 coverImage: "/covers/hot-gimmick.jpg"
 amazonASIN: "1591161754"
-publishedAt: "2026-04-27"
+publishedAt: "2025-06-30"
 tags: ["romance", "drama", "completed", "teen-plus", "viz", "shoujo", "controversial", "triangle"]
 rating: 3
 hasAffiliate: true

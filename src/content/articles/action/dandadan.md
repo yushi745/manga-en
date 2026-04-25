@@ -17,7 +17,7 @@ contentWarnings: ["supernatural content", "comedy violence", "body horror elemen
 description: "Yu's review of Dandadan — Momo believes in ghosts, Ken believes in aliens, and they make a deal to test each other's beliefs; both get immediately proven wrong and right simultaneously, and a bizarre supernatural romance begins."
 coverImage: "/covers/dandadan.jpg"
 amazonASIN: "1974741885"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-16"
 tags: ["action", "supernatural", "comedy", "romance", "shonen", "ongoing"]
 rating: 5
 hasAffiliate: true

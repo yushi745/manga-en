@@ -17,7 +17,7 @@ contentWarnings: ["mild fanservice", "harem elements", "romantic comedy"]
 description: "Yu's review of We Never Learn — a scholarship student agrees to tutor three geniuses, each brilliant in one field but failing in the subjects they want to pursue, while navigating the increasingly complicated feelings everyone develops."
 coverImage: "/covers/we-never-learn.jpg"
 amazonASIN: "1974700917"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-22"
 tags: ["romance", "comedy", "shonen", "harem", "completed", "school"]
 rating: 4
 hasAffiliate: true

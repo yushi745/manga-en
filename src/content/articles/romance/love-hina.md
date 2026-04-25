@@ -17,7 +17,7 @@ contentWarnings: ["fanservice", "slapstick violence against male protagonist", "
 description: "Yu's review of Love Hina — Keitaro Urashima made a childhood promise with a girl to get into Tokyo University together; twenty years later, he has failed the entrance exams twice; he manages his grandmother's all-girl dormitory Hinata House; one of the residents, Naru Narusegawa, may be the girl from his childhood promise — but she's also the one most likely to punch him."
 coverImage: "/covers/love-hina.jpg"
 amazonASIN: "1591820375"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-20"
 tags: ["romance", "comedy", "completed", "classic", "harem", "shonen"]
 rating: 4
 hasAffiliate: true

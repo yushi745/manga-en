@@ -17,7 +17,7 @@ contentWarnings: ["past-life violence", "supernatural themes", "reincarnation", 
 description: "Yu's review of Spirit Circle — Fuuta Okeya has the ability to see spirits; when a new classmate, Kouko Ishigami, arrives and announces she is his enemy from a past life, their conflict forces both to revisit six shared past lives and understand what connected them across time."
 coverImage: "/covers/spirit-circle.jpg"
 amazonASIN: "1626924236"
-publishedAt: "2026-05-01"
+publishedAt: "2024-10-25"
 tags: ["action", "supernatural", "reincarnation", "completed", "teen", "seven-seas", "short-series", "mizukami"]
 rating: 5
 hasAffiliate: true

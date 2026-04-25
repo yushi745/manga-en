@@ -17,7 +17,7 @@ contentWarnings: ["fanservice", "dragon mythology", "adult themes (mild)", "non-
 description: "Yu's review of Miss Kobayashi's Dragon Maid — programmer Kobayashi drunkenly invited a dragon named Tohru to live with her; Tohru, who has transformed into a maid form and fallen in love with Kobayashi, has appeared at her door; the series follows their cohabitation and the expanding cast of dragons and humans navigating an unusual living situation; warm comedy about non-traditional family."
 coverImage: "/covers/miss-kobayashi-dragon-maid.jpg"
 amazonASIN: "1626923329"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-27"
 tags: ["slice-of-life", "comedy", "fantasy", "completed", "teen-plus", "seven-seas", "dragons", "family"]
 rating: 4
 hasAffiliate: true

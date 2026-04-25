@@ -17,7 +17,7 @@ contentWarnings: ["adult themes", "substance use", "sexual content", "mental hea
 description: "Yu's review of Nana — two young women named Nana meet on a train to Tokyo and become inseparable, even as their lives move in opposite directions through love, music, and loss."
 coverImage: "/covers/nana.jpg"
 amazonASIN: "1421501082"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-05"
 tags: ["romance", "drama", "josei", "music", "adult", "incomplete"]
 rating: 5
 hasAffiliate: true

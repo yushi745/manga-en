@@ -17,7 +17,7 @@ contentWarnings: ["street violence", "organized crime", "childhood trauma", "psy
 description: "Yu's review of Tekkon Kinkreet — Black and White are two orphaned street kids who rule Treasure Town from the rooftops; when organized crime moves in to develop the city, Black and White must fight to keep what they consider theirs; a visually revolutionary manga about the psychic cost of violence and the specific love between two people who only have each other."
 coverImage: "/covers/tekkon-kinkreet.jpg"
 amazonASIN: "1421530406"
-publishedAt: "2026-05-20"
+publishedAt: "2024-10-29"
 tags: ["action", "drama", "completed", "mature", "viz-media", "street-kids", "crime", "literary"]
 rating: 5
 hasAffiliate: true

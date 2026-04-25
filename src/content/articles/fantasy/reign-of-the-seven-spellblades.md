@@ -17,7 +17,7 @@ contentWarnings: ["dark fantasy violence", "death of students", "magic combat", 
 description: "Yu's review of Reign of the Seven Spellblades — Oliver Horn enters Kimberly Magic Academy with a secret agenda of revenge; the academy is a dark institution where students die regularly and the curriculum includes learning to survive dangerous magical environments; Oliver navigates this world with hidden purpose."
 coverImage: "/covers/reign-of-the-seven-spellblades.jpg"
 amazonASIN: "1975348346"
-publishedAt: "2026-05-01"
+publishedAt: "2025-01-25"
 tags: ["fantasy", "dark-fantasy", "magic-school", "ongoing", "mature", "yen-press", "seinen", "revenge"]
 rating: 4
 hasAffiliate: true

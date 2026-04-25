@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "comedy based on appearance contrast"
 description: "Yu's review of Switch Girl — Nika Tamiya is perfectly put-together at school and a lazy slob at home; her neighbor Arata Kamiyama accidentally discovers her real self; he has his own switch — impressive at school, feral at home — and they become an unlikely pair built on mutual knowledge of each other's real selves."
 coverImage: "/covers/switch-girl.jpg"
 amazonASIN: "1421549433"
-publishedAt: "2026-04-25"
+publishedAt: "2025-09-04"
 tags: ["romance", "comedy", "completed", "shojo", "viz-media"]
 rating: 4
 hasAffiliate: true

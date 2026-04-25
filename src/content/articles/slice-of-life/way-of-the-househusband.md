@@ -17,7 +17,7 @@ contentWarnings: ["former yakuza themes played for comedy", "mild language", "do
 description: "Yu's review of The Way of the Househusband — Tatsu, once the most feared yakuza boss in Japan, has retired to become a stay-at-home husband for his career-focused wife Miku; he applies the intensity, dedication, and specific vocabulary of organized crime to grocery shopping, cooking, and housework."
 coverImage: "/covers/way-of-the-househusband.jpg"
 amazonASIN: "197471089X"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-06"
 tags: ["slice-of-life", "comedy", "completed", "yakuza", "domestic", "4-koma-adjacent"]
 rating: 5
 hasAffiliate: true

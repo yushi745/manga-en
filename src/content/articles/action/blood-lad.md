@@ -17,7 +17,7 @@ contentWarnings: ["demon world action", "moderate violence", "otaku comedy", "su
 description: "Yu's review of Blood Lad — Staz Charlie Blood is a vampire territory boss in the demon world who is obsessed with Japanese anime, manga, and games; when a human girl named Fuyumi accidentally wanders into his territory and is killed by a plant monster, he promises to resurrect her — partly out of guilt, mostly because she's from Japan."
 coverImage: "/covers/blood-lad.jpg"
 amazonASIN: "0316226777"
-publishedAt: "2026-05-14"
+publishedAt: "2024-08-04"
 tags: ["action", "comedy", "completed", "teen", "yen-press", "vampire", "otaku", "demon-world"]
 rating: 4
 hasAffiliate: true

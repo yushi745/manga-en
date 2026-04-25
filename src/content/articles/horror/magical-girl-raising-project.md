@@ -17,7 +17,7 @@ contentWarnings: ["character death", "psychological horror", "dark deconstructio
 description: "Yu's review of Magical Girl Raising Project — sixteen girls are selected by a mobile game to become real magical girls with real powers; then the game announces that only eight can remain, and the magical girl who collects the fewest candies each week will be eliminated — not deselected, eliminated."
 coverImage: "/covers/magical-girl-raising-project.jpg"
 amazonASIN: "0316558079"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-10"
 tags: ["horror", "dark-fantasy", "magical-girl", "completed", "psychological", "deconstruction"]
 rating: 4
 hasAffiliate: true

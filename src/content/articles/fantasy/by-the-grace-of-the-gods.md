@@ -17,7 +17,7 @@ contentWarnings: ["no significant content warnings — very gentle"]
 description: "Yu's review of By the Grace of the Gods — a salaryman dies and is reincarnated as an 8-year-old boy in a fantasy world; the three gods who sent him there give him magical abilities and let him live peacefully; he spends his early years raising slimes in a forest; the series is about a person who had a hard life finally being allowed to rest and do what he loves."
 coverImage: "/covers/by-the-grace-of-the-gods.jpg"
 amazonASIN: "1646090802"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-24"
 tags: ["fantasy", "isekai", "slice-of-life", "ongoing", "gentle", "Square-Enix"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "school setting", "supernatural content", "
 description: "Yu's review of Soul Eater NOT! — a spinoff set in the same Death Weapon Meister Academy as Soul Eater, following Tsugumi Harudori, a new student who is a weapon but not yet a skilled one; she must choose between two potential meisters — the calm Meme and the earnest Anya — while navigating first-year academy life."
 coverImage: "/covers/soul-eater-not.jpg"
 amazonASIN: "0316245445"
-publishedAt: "2026-05-13"
+publishedAt: "2024-10-23"
 tags: ["action", "comedy", "completed", "teen", "yen-press", "soul-eater", "spinoff", "school"]
 rating: 3
 hasAffiliate: true

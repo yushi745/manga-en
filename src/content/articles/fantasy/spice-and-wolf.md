@@ -17,7 +17,7 @@ contentWarnings: ["mild fanservice", "themes of loneliness and mortality"]
 description: "Yu's review of Spice and Wolf — a traveling merchant forms an unlikely partnership with Holo, an ancient wolf harvest deity, as they journey together through medieval trade routes toward her distant homeland."
 coverImage: "/covers/spice-and-wolf.jpg"
 amazonASIN: "0316073393"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-06"
 tags: ["fantasy", "romance", "completed", "unique", "economics"]
 rating: 5
 hasAffiliate: true

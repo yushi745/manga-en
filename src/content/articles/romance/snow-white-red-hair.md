@@ -17,7 +17,7 @@ contentWarnings: ["fantasy kingdom setting", "political elements", "gentle roman
 description: "Yu's review of Snow White with the Red Hair — Shirayuki has distinctive red hair that attracts a prince's unwanted attention; she flees to another kingdom, where she meets Prince Zen; she wants to become a court herbalist; Sorata Akizuki's fantasy romance about a woman building her own life and a prince who respects it."
 coverImage: "/covers/snow-white-red-hair.jpg"
 amazonASIN: "1421591626"
-publishedAt: "2026-05-27"
+publishedAt: "2025-08-28"
 tags: ["romance", "fantasy", "completed", "teen", "viz-media", "herbalist", "princess-adjacent", "shojo"]
 rating: 5
 hasAffiliate: true

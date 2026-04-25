@@ -17,7 +17,7 @@ contentWarnings: ["emotional themes", "loss", "action violence", "dark world-bui
 description: "Yu's review of Tegami Bachi — in a land of perpetual night called AmberGround, Letter Bees risk their lives to deliver correspondence across insect-haunted wastelands; Lag Seeing, the child who was once delivered as a letter, grows up to become a Letter Bee and searches for the mentor who first carried him."
 coverImage: "/covers/tegami-bachi.jpg"
 amazonASIN: "1421529769"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-28"
 tags: ["action", "adventure", "shonen", "completed", "fantasy-world"]
 rating: 4
 hasAffiliate: true

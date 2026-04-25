@@ -17,7 +17,7 @@ contentWarnings: ["religious persecution themes", "graphic violence", "historica
 description: "Yu's review of Dawn of the Witch — a spinoff of Grimoire of Zero set in the same world; Saybil, a magic student with no memories before entering the academy, is sent to a remote village on a special field course with a mysterious teacher; the village's history and the world's ongoing religious conflict force him to confront who he actually is."
 coverImage: "/covers/dawn-of-the-witch.jpg"
 amazonASIN: "1646512324"
-publishedAt: "2026-04-30"
+publishedAt: "2025-10-22"
 tags: ["fantasy", "magic", "ongoing", "mature", "kodansha", "seinen", "witch", "historical-adjacent"]
 rating: 4
 hasAffiliate: true

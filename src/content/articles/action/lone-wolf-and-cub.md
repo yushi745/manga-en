@@ -17,7 +17,7 @@ contentWarnings: ["graphic samurai violence", "historical feudal Japan content",
 description: "Yu's review of Lone Wolf and Cub — Ogami Ittō was the Shogunate's official executioner; framed for treason by the Yagyū clan, stripped of his position, his wife murdered; he chose the Meifumadō — the road to hell — placing his infant son Daigorō before a ball and a sword, and the child chose the sword; they travel as assassins for hire, seeking vengeance."
 coverImage: "/covers/lone-wolf-and-cub.jpg"
 amazonASIN: "0929279522"
-publishedAt: "2026-05-09"
+publishedAt: "2024-09-19"
 tags: ["action", "historical", "samurai", "completed", "mature", "dark-horse", "classic", "koike", "epic"]
 rating: 5
 hasAffiliate: true

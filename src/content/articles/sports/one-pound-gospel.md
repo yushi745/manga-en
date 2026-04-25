@@ -17,7 +17,7 @@ contentWarnings: ["boxing", "overeating played for comedy", "religious themes (m
 description: "Yu's review of One Pound Gospel — Kōsaku Hatanaka is a genuinely talented featherweight boxer with one catastrophic flaw: he can't stop eating, constantly missing weight for his fights; Sister Angela, a young nun, becomes his most unlikely source of encouragement; Rumiko Takahashi's compact boxing comedy with a warm central relationship."
 coverImage: "/covers/one-pound-gospel.jpg"
 amazonASIN: "1421517027"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-13"
 tags: ["sports", "boxing", "comedy", "romance", "completed", "teen", "viz", "classic"]
 rating: 4
 hasAffiliate: true

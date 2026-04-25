@@ -17,7 +17,7 @@ contentWarnings: ["dungeon action violence", "harem elements", "some mature situ
 description: "Yu's review of Is It Wrong to Try to Pick Up Girls in a Dungeon? — Bell Cranel is a young adventurer in Orario, a city built around a massive dungeon; his goddess Hestia watches over his growth from weakest adventurer to someone who can stand with the best; manga adaptation of Fujino Omori's light novel."
 coverImage: "/covers/dungeon-ni-deai.jpg"
 amazonASIN: "0316315532"
-publishedAt: "2026-05-24"
+publishedAt: "2024-12-08"
 tags: ["fantasy", "action", "ongoing", "teen-plus", "yen-press", "dungeon", "adventurer", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

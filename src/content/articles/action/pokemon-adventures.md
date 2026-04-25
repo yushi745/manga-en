@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Pokémon Adventures — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/pokemon-adventures.jpg"
 amazonASIN: "1591167523"
-publishedAt: "2026-04-25"
+publishedAt: "2024-10-07"
 tags:
   - "action"
   - "adventure"

@@ -17,7 +17,7 @@ contentWarnings: ["sports contact violence", "competitive intensity"]
 description: "Yu's review of Burning Kabaddi — Tatsuya Yoigoshi was a soccer prodigy who burned out and swore off sports; he discovers kabaddi, the ancient South Asian contact sport where one player holds their breath and raids the opposing team, and is drawn back into competition by the sport's pure physical ferocity."
 coverImage: "/covers/burning-kabaddi.jpg"
 amazonASIN: "1974721809"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-20"
 tags: ["sports", "completed", "teen", "viz-media", "kabaddi"]
 rating: 4
 hasAffiliate: true

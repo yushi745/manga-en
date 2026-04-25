@@ -17,7 +17,7 @@ contentWarnings: ["explicit fan service", "mature sexual content", "science fict
 description: "Yu's review of Heaven's Lost Property — Tomoki Sakurai is a boy who just wants to live a peaceful life; when an Angeloid named Ikaros falls from the sky and pledges absolute loyalty to him as her master, his peaceful life ends; the series develops from harem comedy into genuine science fiction about the nature of Angeloids and the world they come from."
 coverImage: "/covers/sora-no-otoshimono.jpg"
 amazonASIN: "0316073407"
-publishedAt: "2026-05-13"
+publishedAt: "2025-08-30"
 tags: ["romance", "sci-fi", "completed", "mature", "yen-press", "angeloid", "harem", "action"]
 rating: 4
 hasAffiliate: true

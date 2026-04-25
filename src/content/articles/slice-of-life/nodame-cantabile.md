@@ -19,7 +19,7 @@ contentWarnings:
 description: "A comprehensive review of Nodame Cantabile — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/nodame-cantabile.jpg"
 amazonASIN: "034548172X"
-publishedAt: "2026-04-25"
+publishedAt: "2026-02-04"
 tags:
   - "slice-of-life"
   - "romance"

@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "themes of social isolation"]
 description: "Yu's review of Kimi ni Todoke — Sawako Kuronuma is avoided by her classmates because she resembles the horror movie character Sadako, but when the most popular boy in class actually speaks to her, her world begins to change."
 coverImage: "/covers/kimi-ni-todoke.jpg"
 amazonASIN: "1421527553"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-12"
 tags: ["romance", "shojo", "school", "completed", "friendship"]
 rating: 5
 hasAffiliate: true

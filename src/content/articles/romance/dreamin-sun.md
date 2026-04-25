@@ -17,7 +17,7 @@ contentWarnings: ["family conflict themes", "running away from home", "romantic 
 description: "Yu's review of Dreamin' Sun — Shimana Kameko runs away from home after her father remarries and she feels replaced; she ends up in a large old house where three men live, and the house's owner allows her to stay in exchange for performing household duties; the series follows her slow development through found family, romantic feelings, and the eventual resolution of her family relationships."
 coverImage: "/covers/dreamin-sun.jpg"
 amazonASIN: "1626923264"
-publishedAt: "2026-04-25"
+publishedAt: "2025-06-08"
 tags: ["romance", "slice-of-life", "completed", "teen", "seven-seas", "found-family"]
 rating: 4
 hasAffiliate: true

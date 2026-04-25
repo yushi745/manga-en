@@ -22,7 +22,7 @@ contentWarnings:
 description: "A comprehensive review of My Broken Mariko — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/my-broken-mariko.jpg"
 amazonASIN: "1975339185"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-17"
 tags:
   - "drama"
   - "grief"

@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Play It Cool, Guys — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/play-it-cool-guys.jpg"
 amazonASIN: "1646091469"
-publishedAt: "2026-04-25"
+publishedAt: "2026-02-11"
 tags:
   - "slice-of-life"
   - "comedy"

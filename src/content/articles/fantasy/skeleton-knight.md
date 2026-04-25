@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "mild adult themes", "isekai tropes"]
 description: "Yu's review of Skeleton Knight in Another World — a gamer wakes up in his game as his maxed-out character, except his avatar is a skeleton in full armor; Arc cannot show his face to anyone without revealing he is undead, which complicates his attempts to simply enjoy adventuring in peace."
 coverImage: "/covers/skeleton-knight.jpg"
 amazonASIN: "1626929289"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-03"
 tags: ["fantasy", "isekai", "action", "ongoing", "comedy", "skeleton"]
 rating: 3
 hasAffiliate: true

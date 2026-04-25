@@ -17,7 +17,7 @@ contentWarnings: ["post-apocalyptic setting", "themes of loneliness and mortalit
 description: "Yu's review of Girls' Last Tour — two girls travel through a massive post-apocalyptic city on a kettenrad, eating whatever they find, watching it snow, and thinking about what it means to be alive when almost nothing is left."
 coverImage: "/covers/girls-last-tour.jpg"
 amazonASIN: "0316470627"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-31"
 tags: ["sci-fi", "slice-of-life", "post-apocalyptic", "completed", "philosophical"]
 rating: 5
 hasAffiliate: true

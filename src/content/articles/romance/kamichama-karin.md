@@ -17,7 +17,7 @@ contentWarnings: ["magical girl action", "light romance", "school comedy", "godd
 description: "Yu's review of Kamichama Karin — Karin Hanazono is an ordinary girl with poor grades and no special qualities; her deceased mother's ring turns out to be capable of transforming her into a goddess-vessel; she meets Kazune Kujyou, who has a similar ability, and the two become entangled in a conflict over divine power."
 coverImage: "/covers/kamichama-karin.jpg"
 amazonASIN: "1598163523"
-publishedAt: "2026-05-07"
+publishedAt: "2025-07-07"
 tags: ["romance", "magical-girl", "fantasy", "completed", "all-ages", "tokyopop", "goddess", "school"]
 rating: 3
 hasAffiliate: true

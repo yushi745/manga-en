@@ -17,7 +17,7 @@ contentWarnings: ["mild language", "competitive stress", "absurd humor"]
 description: "Yu's review of Yakitate!! Japan — Kazuma Azuma has supernatural hands warm enough to activate yeast perfectly, and his dream is to create a national bread for Japan; the series applies shonen battle manga structure to competitive bread-baking with completely committed absurdist comedy."
 coverImage: "/covers/yakitate-japan.jpg"
 amazonASIN: "1421501058"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-24"
 tags: ["sports", "comedy", "completed", "teen", "viz", "cooking", "baking"]
 rating: 4
 hasAffiliate: true

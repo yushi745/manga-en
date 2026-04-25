@@ -17,7 +17,7 @@ contentWarnings: ["romantic content", "themes of social anxiety and trust issues
 description: "Yu's review of Say I Love You — Mei Tachibana has had no friends for years after a childhood betrayal, but when she accidentally kicks the most popular boy in school, he inexplicably decides she is worth knowing."
 coverImage: "/covers/say-i-love-you.jpg"
 amazonASIN: "1612626025"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-23"
 tags: ["romance", "shojo", "school", "completed", "trust"]
 rating: 4
 hasAffiliate: true

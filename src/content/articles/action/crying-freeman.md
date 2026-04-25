@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "sexual content", "crime organization cont
 description: "Yu's review of Crying Freeman — Yo Hinomura is a Japanese potter brainwashed into becoming the world's greatest assassin for the Chinese crime syndicate 108 Dragons; he cannot resist the compulsion to kill, but weeps after each killing because he retains his soul; a woman who witnesses his first assassination and falls in love with him changes his life within the organization."
 coverImage: "/covers/crying-freeman.jpg"
 amazonASIN: "1569719713"
-publishedAt: "2026-05-09"
+publishedAt: "2024-08-15"
 tags: ["action", "crime", "completed", "mature", "dark-horse", "assassin", "classic", "koike"]
 rating: 4
 hasAffiliate: true

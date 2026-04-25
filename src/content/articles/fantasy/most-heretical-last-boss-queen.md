@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "villainess redemption themes", "reincarna
 description: "Yu's review of The Most Heretical Last Boss Queen — Pride Royal Ivy, a princess and the destined last boss of an otome game, reincarnates with knowledge of her fate and decides to use her position to become good rather than fall into villainy; her efforts to undermine her own bad ending while protecting everyone around her."
 coverImage: "/covers/most-heretical-last-boss-queen.jpg"
 amazonASIN: "1638589054"
-publishedAt: "2026-05-01"
+publishedAt: "2025-01-13"
 tags: ["fantasy", "isekai", "villainess", "romance", "ongoing", "teen", "seven-seas", "otome-game"]
 rating: 4
 hasAffiliate: true

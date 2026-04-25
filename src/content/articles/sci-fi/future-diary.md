@@ -17,7 +17,7 @@ contentWarnings: ["violence", "death game", "psychological manipulation", "obses
 description: "Yu's review of Future Diary (Mirai Nikki) — Yukiteru Amano is chosen as one of twelve participants in a death game where each person receives a diary that predicts their own future; the last survivor becomes God; the series is a thriller structured around information asymmetry and the uniquely disturbing character of Yuno Gasai."
 coverImage: "/covers/future-diary.jpg"
 amazonASIN: "0316038369"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-29"
 tags: ["sci-fi", "thriller", "completed", "teen-plus", "yen-press", "death-game", "survival"]
 rating: 4
 hasAffiliate: true

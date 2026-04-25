@@ -17,7 +17,7 @@ contentWarnings: ["monster violence", "action combat", "some body horror element
 description: "Yu's review of Kaiju No. 8 — Kafka Hibino is 32 years old, working in kaiju corpse cleanup while his childhood dream of joining the Defense Force has become an embarrassment; after accidentally ingesting a small kaiju, he gains the ability to transform into a powerful kaiju form and can finally pursue what he gave up on; the series balances his dual identity with the Defense Force he is simultaneously serving in and hiding from."
 coverImage: "/covers/kaiju-no-8.jpg"
 amazonASIN: "1974732037"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-04"
 tags: ["sci-fi", "action", "completed", "teen", "viz-media", "kaiju", "shonen"]
 rating: 4
 hasAffiliate: true

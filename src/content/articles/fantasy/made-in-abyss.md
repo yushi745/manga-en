@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "body horror", "child endangerment", "grap
 description: "Yu's review of Made in Abyss — a manga that looks like a children's adventure story and contains some of the most disturbing content in modern manga. A girl descends into a bottomless pit to find her mother. The pit does not want her to return."
 coverImage: "/covers/made-in-abyss.jpg"
 amazonASIN: "1626927731"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-06"
 tags: ["fantasy", "adventure", "mature", "ongoing", "dark", "world-building"]
 rating: 5
 hasAffiliate: true

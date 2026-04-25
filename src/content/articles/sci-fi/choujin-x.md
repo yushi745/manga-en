@@ -17,7 +17,7 @@ contentWarnings: ["violence", "body horror", "dark themes", "trauma", "psycholog
 description: "Yu's review of Choujin X — by the creator of Tokyo Ghoul; Tokio Kurohara and Azuma Higashi are childhood friends who become Choujin — humans who manifest extraordinary abilities through trauma or desire; Azuma becomes a powerful Choujin immediately while Tokio's abilities remain unstable, and the series follows their diverging paths through a world where Choujin exist alongside and sometimes against humanity."
 coverImage: "/covers/choujin-x.jpg"
 amazonASIN: "1974737020"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-18"
 tags: ["sci-fi", "action", "ongoing", "teen-plus", "viz-media", "supernatural"]
 rating: 4
 hasAffiliate: true

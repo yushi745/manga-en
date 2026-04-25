@@ -17,7 +17,7 @@ contentWarnings: ["intense themes", "physical dedication to the point of harm"]
 description: "Yu's review of Blue Giant — Dai Miyamoto grows up in Sendai, encounters jazz, and decides with complete conviction that he will become the greatest jazz saxophonist in the world; he does not know how to play; the manga follows his dedication from zero to professional level through physical and emotional commitment that most manga about artistic aspiration do not achieve."
 coverImage: "/covers/blue-giant.jpg"
 amazonASIN: "1638589631"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-15"
 tags: ["slice-of-life", "music", "jazz", "completed", "teen", "seven-seas", "sports-adjacent"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["fantasy combat", "goddess comedy", "extreme caution as premis
 description: "Yu's review of The Hero Is Overpowered but Overly Cautious — the goddess Listarte summons Seiya Ryuuguuin as her hero; he is statistically the most powerful hero ever summoned; he also will not leave the safety of the divine realm to fight anything until he has trained for weeks and is prepared for every conceivable outcome."
 coverImage: "/covers/hero-is-overpowered-cautious.jpg"
 amazonASIN: "1975357655"
-publishedAt: "2026-05-04"
+publishedAt: "2024-12-17"
 tags: ["fantasy", "comedy", "isekai", "hero", "completed", "teen", "yen-press", "cautious"]
 rating: 4
 hasAffiliate: true

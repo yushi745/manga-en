@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Princess Princess — at an elite all-boys school, the most beautiful students are chosen to dress as girls and serve as morale boosters for the student body."
 coverImage: "/covers/princess-princess.jpg"
 amazonASIN: "1569707596"
-publishedAt: "2026-04-26"
+publishedAt: "2025-08-16"
 tags:
   - "comedy"
   - "BL-subtext"

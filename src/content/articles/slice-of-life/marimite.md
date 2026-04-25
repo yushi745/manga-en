@@ -17,7 +17,7 @@ contentWarnings: ["yuri-adjacent themes", "religious school setting", "class hie
 description: "Yu's review of Maria Watches Over Us — Yumi is a first-year student at the Lillian Girls' Academy, a Catholic school with a tradition of 'soeur' relationships between older and younger students; she is noticed by the beautiful third-year Sachiko; Nagasawa's adaptation of Konno's beloved light novel about ritual, belonging, and the specific intensity of all-girls school friendships."
 coverImage: "/covers/marimite.jpg"
 amazonASIN: "1626926441"
-publishedAt: "2026-05-30"
+publishedAt: "2026-01-25"
 tags: ["slice-of-life", "romance", "yuri-adjacent", "completed", "teen", "seven-seas", "school", "catholic", "marimite"]
 rating: 4
 hasAffiliate: true

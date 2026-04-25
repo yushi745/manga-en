@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Ace of Diamond — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/ace-of-diamond.jpg"
 amazonASIN: "1612629172"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-12"
 tags:
   - "sports"
   - "baseball"

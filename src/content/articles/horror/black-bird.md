@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "possessive relationship dynamics", "m
 description: "Yu's review of Black Bird — Misao Harada has always been able to see spirits; she learns on her 16th birthday that she is the Senka Maiden, a being whose blood heals, flesh grants immortality, and marriage grants immense power; every demon wants her; her childhood friend Kyo is a demon clan leader who wants to protect — and marry — her."
 coverImage: "/covers/black-bird.jpg"
 amazonASIN: "1421527413"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-08"
 tags: ["horror", "romance", "completed", "supernatural", "mature", "shoujo", "problematic-tropes"]
 rating: 3
 hasAffiliate: true

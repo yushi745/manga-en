@@ -17,7 +17,7 @@ contentWarnings: ["fantasy comedy violence", "isekai-adjacent setting", "Megumin
 description: "Yu's review of KonoSuba: An Explosion on This Wonderful World! — Megumin's story before she joined Kazuma's party, following her time at magic school and her complete devotion to learning explosion magic at the expense of all other magic; Kasumi Morino's spinoff focusing on the most popular KonoSuba character."
 coverImage: "/covers/konosuba-explosion.jpg"
 amazonASIN: "0316561843"
-publishedAt: "2026-05-23"
+publishedAt: "2025-01-02"
 tags: ["fantasy", "comedy", "completed", "teen", "yen-press", "konosuba", "spinoff", "explosion"]
 rating: 4
 hasAffiliate: true

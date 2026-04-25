@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "undead themes", "religious themes", "deat
 description: "Yu's review of Faraway Paladin — Will was raised in a ruined city by three undead: a skeletal warrior, a mummified sorcerer, and a ghost priestess; having learned everything from them, he must eventually leave to find his own purpose in a world that doesn't know he exists."
 coverImage: "/covers/faraway-paladin.jpg"
 amazonASIN: "1975321251"
-publishedAt: "2026-04-30"
+publishedAt: "2024-12-11"
 tags: ["fantasy", "isekai", "paladin", "ongoing", "teen", "yen-press", "seinen", "adventure"]
 rating: 4
 hasAffiliate: true

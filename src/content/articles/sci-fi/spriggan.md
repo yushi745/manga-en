@@ -17,7 +17,7 @@ contentWarnings: ["combat violence", "military themes", "some gore", "weapons of
 description: "Yu's review of Spriggan — Yu Ominae is a Spriggan agent for ARCAM, a secret organization that locates ancient artifacts of catastrophic power and prevents governments and criminal organizations from weaponizing them; a 90s action sci-fi manga with excellent set-piece design and geopolitical scope."
 coverImage: "/covers/spriggan.jpg"
 amazonASIN: "1569319197"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-22"
 tags: ["sci-fi", "action", "completed", "teen-plus", "viz", "ancient-artifacts", "spy"]
 rating: 4
 hasAffiliate: true

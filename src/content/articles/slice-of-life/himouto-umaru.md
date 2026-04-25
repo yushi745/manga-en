@@ -17,7 +17,7 @@ contentWarnings: ["otaku culture content", "mild fan service", "gaming and anime
 description: "Yu's review of Himouto! Umaru-chan — Umaru Doma is perfect at school: beautiful, brilliant, graceful; at home, she transforms into a tiny chibi who does nothing but eat snacks, play games, and watch anime while her older brother Taihei takes care of everything; Sankaku Head's comedy about the gap between public and private selves."
 coverImage: "/covers/himouto-umaru.jpg"
 amazonASIN: "0316311650"
-publishedAt: "2026-05-24"
+publishedAt: "2026-01-08"
 tags: ["slice-of-life", "comedy", "completed", "teen", "yen-press", "otaku", "school", "home"]
 rating: 4
 hasAffiliate: true

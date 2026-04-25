@@ -17,7 +17,7 @@ contentWarnings: ["shojo romance", "self-esteem themes", "jealousy", "school set
 description: "Yu's review of Kare First Love — Karin Karino believes she is too plain to be seen — until Kiriya Aoi, the most popular boy at a nearby school, begins pursuing her with genuine interest; a shojo romance about a girl who has to learn to believe she's worth being chosen."
 coverImage: "/covers/kare-first-love.jpg"
 amazonASIN: "1591162637"
-publishedAt: "2026-04-29"
+publishedAt: "2025-07-09"
 tags: ["romance", "shojo", "completed", "teen", "viz", "school", "first-love"]
 rating: 4
 hasAffiliate: true

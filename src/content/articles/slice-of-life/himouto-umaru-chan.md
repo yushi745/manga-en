@@ -17,7 +17,7 @@ contentWarnings: ["otaku lifestyle content", "sibling comedy", "gamer culture co
 description: "Yu's review of Himouto! Umaru-chan — Umaru Doma is the school's perfect student: beautiful, athletic, graceful, and socially ideal; at home, she collapses into a chibi version of herself who eats chips, plays games, watches anime, and makes unreasonable demands of her older brother Taihei; the comedy of the gap between her two selves drives 12 volumes of warm sibling comedy."
 coverImage: "/covers/himouto-umaru-chan.jpg"
 amazonASIN: "1626924600"
-publishedAt: "2026-04-28"
+publishedAt: "2026-01-07"
 tags: ["slice-of-life", "comedy", "completed", "teen", "seven-seas", "otaku", "siblings", "seinen"]
 rating: 4
 hasAffiliate: true

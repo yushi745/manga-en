@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "mild romantic content", "awkward social s
 description: "Yu's review of An Archdemon's Dilemma: How to Love Your Elf Bride — Zagan is a powerful and socially awkward sorcerer who accidentally buys an elf slave girl named Nephy at auction; he doesn't know how to talk to her; she thinks he's terrifying; both of them are trying; Teshima and Shindou's fantasy romance about a powerful man who doesn't know how feelings work."
 coverImage: "/covers/aristocrat-otherworldly-adventure.jpg"
 amazonASIN: "1975302931"
-publishedAt: "2026-05-30"
+publishedAt: "2024-11-20"
 tags: ["fantasy", "romance", "comedy", "teen", "yen-press", "elf", "sorcerer", "ongoing"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["dark humor", "suicide as comedy premise", "social satire", "r
 description: "Yu's review of Sayonara, Zetsubou-Sensei — Nozomu Itoshiki is a Japanese teacher whose name, written horizontally, reads 'despair'; his approach to life matches; he is constantly in despair about modern society; his student Kafuka Fuura is pathologically optimistic and refuses to accept any negative interpretation of anything."
 coverImage: "/covers/sayonara-zetsubou-sensei.jpg"
 amazonASIN: "0345502167"
-publishedAt: "2026-05-19"
+publishedAt: "2026-02-15"
 tags: ["slice-of-life", "comedy", "satire", "completed", "teen-plus", "kodansha", "dark-humor", "school"]
 rating: 4
 hasAffiliate: true

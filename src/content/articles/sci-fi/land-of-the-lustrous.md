@@ -17,7 +17,7 @@ contentWarnings: ["violence", "body horror elements", "philosophical themes", "e
 description: "Yu's review of Land of the Lustrous — in a far future where humanity no longer exists, gem beings called Lustrous fight against Lunarians who wish to capture them for decoration; Phosphophyllite, the youngest and most fragile gem, wants to fight but is unfit for combat; the series follows Phos's transformation into something unrecognizable as their body is replaced piece by piece and their original self becomes inaccessible."
 coverImage: "/covers/land-of-the-lustrous.jpg"
 amazonASIN: "1632362449"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-06"
 tags: ["sci-fi", "fantasy", "completed", "teen", "kodansha", "philosophical"]
 rating: 5
 hasAffiliate: true

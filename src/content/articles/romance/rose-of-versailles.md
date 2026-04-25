@@ -17,7 +17,7 @@ contentWarnings: ["historical violence", "French Revolution themes including exe
 description: "Yu's review of The Rose of Versailles — Oscar François de Jarjayes is raised by her father as a son and commander of the royal guard; she navigates the court of Louis XVI and Marie Antoinette, torn between duty to the aristocracy and growing awareness of what the common people suffer; as the French Revolution approaches, the world she has served is ending."
 coverImage: "/covers/rose-of-versailles.jpg"
 amazonASIN: "1772940879"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-21"
 tags: ["romance", "historical", "completed", "classic", "french-revolution", "gender", "tragedy"]
 rating: 5
 hasAffiliate: true

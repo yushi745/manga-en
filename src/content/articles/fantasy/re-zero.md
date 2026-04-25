@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence including repeated protagonist death", "psyc
 description: "Yu's review of Re:Zero — an isekai where the protagonist can return from death, but every death costs him psychologically. Not a power fantasy. A story about someone being broken by circumstances and trying to put himself back together."
 coverImage: "/covers/re-zero.jpg"
 amazonASIN: "0316315311"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-22"
 tags: ["fantasy", "isekai", "ongoing", "psychological", "thriller", "dark"]
 rating: 4
 hasAffiliate: true

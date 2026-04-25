@@ -17,7 +17,7 @@ contentWarnings: ["adult comedy", "teacher protagonist", "gang violence", "matur
 description: "Yu's review of GTO: Paradise Lost — Eikichi Onizuka, the Great Teacher, returns in a new setting: Morinomiya Academy, an elite preparatory school where the students include children of politicians, celebrities, and organized crime — a different kind of problem classroom for Onizuka to bulldoze through."
 coverImage: "/covers/gto-paradise-lost.jpg"
 amazonASIN: "1945054352"
-publishedAt: "2026-05-12"
+publishedAt: "2024-09-02"
 tags: ["action", "comedy", "completed", "mature", "vertical", "gto", "teacher", "sequel"]
 rating: 3
 hasAffiliate: true

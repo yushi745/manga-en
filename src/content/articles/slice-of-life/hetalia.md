@@ -17,7 +17,7 @@ contentWarnings: ["historical stereotyping played for comedy", "WWII era content
 description: "Yu's review of Hetalia: Axis Powers — countries are personified as young men with national stereotypes as personality traits; Italy forgets to fight, Germany is exasperated, Japan is polite at all times; Hidekaz Himaruya's webcomic-turned-manga about world history as extended interpersonal comedy."
 coverImage: "/covers/hetalia.jpg"
 amazonASIN: "1934205079"
-publishedAt: "2026-05-22"
+publishedAt: "2026-01-05"
 tags: ["slice-of-life", "comedy", "completed", "teen", "yen-press", "historical-comedy", "webcomic", "personification"]
 rating: 3
 hasAffiliate: true

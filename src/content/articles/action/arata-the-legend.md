@@ -19,7 +19,7 @@ contentWarnings:
 description: "A comprehensive review of Arata: The Legend — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/arata-the-legend.jpg"
 amazonASIN: "1421537907"
-publishedAt: "2026-04-25"
+publishedAt: "2024-07-22"
 tags:
   - "action"
   - "fantasy"

@@ -17,7 +17,7 @@ contentWarnings: ["normalized apocalypse setting", "themes of death and meaning"
 description: "Yu's review of Dead Dead Demon's Dededede Destruction — giant alien motherships have hovered over Tokyo for three years; Kadode and Ouran go to high school underneath them, play games, take photos, and try to stay friends while the world ends slowly around them."
 coverImage: "/covers/dead-dead-demons.jpg"
 amazonASIN: "1974707555"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-23"
 tags: ["sci-fi", "slice-of-life", "completed", "Asano", "alien-invasion", "friendship"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["mild fantasy peril", "gentle romance themes"]
 description: "Yu's review of Cardcaptor Sakura — a ten-year-old girl accidentally releases a set of magical cards and must capture them all before they cause harm, becoming a Card Captor with a magical staff and her best friend filming everything."
 coverImage: "/covers/cardcaptor-sakura.jpg"
 amazonASIN: "1595825223"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-26"
 tags: ["fantasy", "magical-girl", "shojo", "completed", "classic", "CLAMP"]
 rating: 5
 hasAffiliate: true

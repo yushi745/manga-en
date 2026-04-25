@@ -17,7 +17,7 @@ contentWarnings: ["cross-dressing themes", "gender identity themes", "mild langu
 description: "Yu's review of W Juliet — Makoto Amano is a beautiful boy who has been living as a girl named Ito to fulfill a bet with his father; when he joins the drama club, the tomboy Ito Miura discovers his secret and becomes his protector; a shoujo romance about performance, identity, and two people who understand each other's hidden selves."
 coverImage: "/covers/w-juliet.jpg"
 amazonASIN: "1591164079"
-publishedAt: "2026-04-25"
+publishedAt: "2025-09-20"
 tags: ["romance", "comedy", "completed", "teen", "viz", "shoujo", "cross-dressing"]
 rating: 4
 hasAffiliate: true

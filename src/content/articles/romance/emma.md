@@ -17,7 +17,7 @@ contentWarnings: ["class divide themes", "Victorian era social restrictions", "m
 description: "Yu's review of Emma — Emma is a maid in Victorian England working for a retired governess; William Jones, a young gentleman from an upper-class family, falls in love with her; Victorian class structure stands between them as both an obstacle and a presence in every scene."
 coverImage: "/covers/emma.jpg"
 amazonASIN: "0759526079"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-09"
 tags: ["romance", "historical", "completed", "victorian", "class-divide", "mori-kaoru"]
 rating: 5
 hasAffiliate: true

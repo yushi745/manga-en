@@ -17,7 +17,7 @@ contentWarnings: ["dog breeding industry issues", "mild romantic content", "anim
 description: "Yu's review of Inubaka: Crazy for Dogs — Suguri Miyauchi has an uncanny ability to communicate with dogs; she moves to Tokyo and ends up working at a pet shop; the series follows her developing expertise, the dogs in her care, and her relationships with the people who come to the shop."
 coverImage: "/covers/inubaka.jpg"
 amazonASIN: "1421511924"
-publishedAt: "2026-05-19"
+publishedAt: "2026-01-16"
 tags: ["slice-of-life", "comedy", "completed", "teen-plus", "viz-media", "dogs", "pet-shop", "animals"]
 rating: 4
 hasAffiliate: true

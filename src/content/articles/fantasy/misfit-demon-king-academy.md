@@ -16,7 +16,7 @@ contentWarnings: ["overpowered protagonist", "magic combat", "fantasy school set
 description: "Yu's review of The Misfit of Demon King Academy — Anos Voldigoad is the legendary Demon King reincarnated, who attends the academy for demons to find his descendants; the academy, however, has misidentified his history and tells him his power scores are too low to be the real Demon King."
 coverImage: "/covers/misfit-demon-king-academy.jpg"
 amazonASIN: "1646090373"
-publishedAt: "2026-05-02"
+publishedAt: "2025-01-12"
 tags: ["fantasy", "action", "isekai", "overpowered", "ongoing", "teen", "square-enix", "demon-king"]
 rating: 4
 hasAffiliate: true

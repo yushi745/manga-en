@@ -17,7 +17,7 @@ contentWarnings: ["LGBTQ+ themes", "unrequited love", "identity and sexuality qu
 description: "Yu's review of Blue Flag — Taichi Ichinose is asked by the popular Futaba Kuze to help her get closer to his childhood friend Touma Mita; the situation is more complicated than it appears; KAITO's Jump+ romance manga about what it means to love someone and what feelings you're allowed to have."
 coverImage: "/covers/ao-no-flag.jpg"
 amazonASIN: "1974718492"
-publishedAt: "2026-05-25"
+publishedAt: "2025-05-17"
 tags: ["romance", "drama", "completed", "teen-plus", "viz-media", "lgbtq", "identity", "jump-plus"]
 rating: 5
 hasAffiliate: true

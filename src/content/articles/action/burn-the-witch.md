@@ -19,7 +19,7 @@ contentWarnings:
   - "supernatural themes"
 description: "Yu's review of Burn the Witch — Tite Kubo's Bleach spinoff set in Western Branch, where two witch agents hunt dragons in a hidden version of London."
 amazonASIN: "1974726096"
-publishedAt: "2026-04-26"
+publishedAt: "2024-08-08"
 tags:
   - "action"
   - "fantasy"

@@ -17,7 +17,7 @@ contentWarnings: ["child death", "suicide themes", "existential horror", "dark p
 description: "Yu's review of Bokurano — fifteen children at summer camp discover a game and sign a contract to pilot a giant mech called Zearth; the contract terms, which they did not understand, require each pilot's life as the cost of each battle won; the series follows each child's final story."
 coverImage: "/covers/bokurano.jpg"
 amazonASIN: "142152304X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-14"
 tags: ["sci-fi", "drama", "completed", "psychological", "dark", "mecha", "mature"]
 rating: 5
 hasAffiliate: true

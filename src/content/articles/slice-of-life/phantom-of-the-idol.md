@@ -17,7 +17,7 @@ contentWarnings: ["ghost possession", "idol industry themes", "comedy elements"]
 description: "Yu's review of Phantom of the Idol — Yuuya Niyodo is an idol who hates performing and tries to be fired; Asahi Mogami is the ghost of an idol who died before she could reach her dreams; when she possesses Yuuya during a performance, they strike a deal — she performs through his body, he reaps the rewards."
 coverImage: "/covers/phantom-of-the-idol.jpg"
 amazonASIN: "1646515765"
-publishedAt: "2026-05-02"
+publishedAt: "2026-02-09"
 tags: ["slice-of-life", "comedy", "idol", "supernatural", "completed", "teen", "kodansha", "short-series"]
 rating: 4
 hasAffiliate: true

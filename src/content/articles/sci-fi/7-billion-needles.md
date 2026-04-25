@@ -17,7 +17,7 @@ contentWarnings: ["alien possession", "body horror elements", "high school setti
 description: "Yu's review of 7 Billion Needles — Hikaru Takabe is a high school girl who has fused with an alien entity called Horizon after being struck by it in space; Horizon needs Hikaru's help to hunt Maelstrom, another alien that has infiltrated human society and is causing deaths; the series adapts Hal Clement's classic sci-fi novel 'Needle' into a contemporary Japanese high school setting."
 coverImage: "/covers/7-billion-needles.jpg"
 amazonASIN: "1934287555"
-publishedAt: "2026-05-20"
+publishedAt: "2025-10-01"
 tags: ["sci-fi", "action", "completed", "teen-plus", "vertical", "alien", "body-fusion", "high-school"]
 rating: 4
 hasAffiliate: true

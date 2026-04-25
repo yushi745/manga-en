@@ -17,7 +17,7 @@ contentWarnings: ["psychological manipulation", "gambling", "sexualized content"
 description: "Yu's review of Kakegurui — Hyakkaou Private Academy determines student hierarchy through gambling; transfer student Yumeko Jabami arrives and reveals she is not playing for money or status but for the pure pleasure of risking everything, which systematically dismantles everyone who thought they were in control."
 coverImage: "/covers/kakegurui.jpg"
 amazonASIN: "1975327985"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-03"
 tags: ["sports", "psychological", "seinen", "ongoing", "gambling", "thriller"]
 rating: 4
 hasAffiliate: true

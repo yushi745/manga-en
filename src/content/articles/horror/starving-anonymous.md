@@ -20,7 +20,7 @@ contentWarnings:
   - "intense survival horror"
 description: "Yu's review of Starving Anonymous — passengers on a bus wake up in a facility where they discover the horrifying truth about what they're being used for."
 amazonASIN: "1632369079"
-publishedAt: "2026-04-26"
+publishedAt: "2025-04-30"
 tags:
   - "horror"
   - "thriller"

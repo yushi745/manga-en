@@ -17,7 +17,7 @@ contentWarnings: ["magic combat", "tournament arc elements", "some intense actio
 description: "Yu's review of Wistoria: Wand and Sword — Will Serfort enrolled in a magical academy despite being unable to use magic; he compensates with sword training at inhuman intensity; he carries a vow to become a Magia Vander and reach the top of the magical world by sheer physical effort where everyone else uses spells."
 coverImage: "/covers/wistoria-wand-and-sword.jpg"
 amazonASIN: "1646517520"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-24"
 tags: ["fantasy", "action", "ongoing", "kodansha", "magic-school", "male-protagonist"]
 rating: 4
 hasAffiliate: true

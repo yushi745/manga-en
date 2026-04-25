@@ -17,7 +17,7 @@ contentWarnings: ["war violence", "ecological catastrophe themes", "mature philo
 description: "Yu's review of Nausicaa of the Valley of Wind — the manga Hayao Miyazaki serialized over twelve years, extending far beyond the film's scope: a post-catastrophic world where toxic forests cover Earth, and a princess who understands the insects that everyone else fears."
 coverImage: "/covers/nausicaa.jpg"
 amazonASIN: "1591164087"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-10"
 tags: ["sci-fi", "fantasy", "completed", "Miyazaki", "post-apocalyptic", "ecological"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["romantic themes", "first relationship exploration"]
 description: "Yu's review of A Condition Called Love — Hotaru Hinase has never experienced romantic feelings and does not understand what it means to like someone; when her classmate Hananoi-kun asks her out after she helps him during a snowstorm, she agrees to date him, treating the relationship as an experiment to understand what love actually is while genuinely caring about him."
 coverImage: "/covers/condition-called-love.jpg"
 amazonASIN: "1646514270"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-31"
 tags: ["romance", "ongoing", "teen", "kodansha", "slice-of-life"]
 rating: 4
 hasAffiliate: true

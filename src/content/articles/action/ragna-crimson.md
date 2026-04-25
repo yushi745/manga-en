@@ -19,7 +19,7 @@ contentWarnings:
 description: "A comprehensive review of Ragna Crimson — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/ragna-crimson.jpg"
 amazonASIN: "1646091795"
-publishedAt: "2026-04-25"
+publishedAt: "2024-10-10"
 tags:
   - "action"
   - "dark-fantasy"

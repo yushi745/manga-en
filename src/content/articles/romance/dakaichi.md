@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Dakaichi — the actor who held the 'sexiest man' title for five years is displaced by a newcomer, and proceeds to make that newcomer's life very complicated."
 coverImage: "/covers/dakaichi.jpg"
 amazonASIN: "1975327969"
-publishedAt: "2026-04-26"
+publishedAt: "2025-06-02"
 tags:
   - "yaoi"
   - "BL"

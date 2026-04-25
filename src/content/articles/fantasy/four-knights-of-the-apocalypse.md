@@ -17,7 +17,7 @@ contentWarnings: ["action fantasy violence", "prophecy-driven plot", "sequel to 
 description: "Yu's review of Four Knights of the Apocalypse — Percival has grown up on a mountain kept from the outside world by his grandfather; a stranger with power kills his grandfather and sets him on a journey; a prophecy identifies him as one of the Four Knights of the Apocalypse whose arrival will destroy Camelot — or perhaps save it."
 coverImage: "/covers/four-knights-of-the-apocalypse.jpg"
 amazonASIN: "1646516176"
-publishedAt: "2026-05-10"
+publishedAt: "2024-12-13"
 tags: ["fantasy", "action", "ongoing", "teen", "kodansha", "seven-deadly-sins", "arthurian", "sequel"]
 rating: 4
 hasAffiliate: true

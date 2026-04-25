@@ -17,7 +17,7 @@ contentWarnings: ["memory and identity themes", "evolutionary time scale content
 description: "Yu's review of Emanon — a young man on an overnight ferry meets a mysterious woman who claims to remember every life she has lived since the first single-celled organism; she carries within her the memories of three billion years of evolution; he doesn't know whether to believe her."
 coverImage: "/covers/emanon.jpg"
 amazonASIN: "1506700454"
-publishedAt: "2026-05-04"
+publishedAt: "2025-10-26"
 tags: ["sci-fi", "drama", "mystery", "completed", "teen", "dark-horse", "philosophical", "memory"]
 rating: 5
 hasAffiliate: true

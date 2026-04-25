@@ -17,7 +17,7 @@ contentWarnings: ["grief and loneliness themes", "older adult protagonist", "gen
 description: "Yu's review of An Old Man and His Cat — a widower named Fuku-san adopts Mofu-chan, a large flat-faced cat that nobody wanted; the series follows their daily life together; Nekomaki's manga about loneliness, companionship, and what a cat can give to someone who needs them."
 coverImage: "/covers/ojisama-to-neko.jpg"
 amazonASIN: "1646091570"
-publishedAt: "2026-05-25"
+publishedAt: "2026-02-06"
 tags: ["slice-of-life", "cats", "elderly-protagonist", "ongoing", "all-ages", "square-enix", "healing", "twitter-manga"]
 rating: 5
 hasAffiliate: true

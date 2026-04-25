@@ -17,7 +17,7 @@ contentWarnings: ["internet folklore horror", "psychological horror elements", "
 description: "Yu's review of Otherside Picnic — Sorawo Kamikoshi encounters the Otherside, a strange dimension accessible through certain locations, and meets Toriko Nishina, who explores it searching for a missing person; together they explore the Otherside, which manifests dangerous versions of Japanese internet urban legends and creepypasta."
 coverImage: "/covers/otherside-picnic.jpg"
 amazonASIN: "1638583579"
-publishedAt: "2026-05-01"
+publishedAt: "2025-01-18"
 tags: ["fantasy", "horror", "yuri", "ongoing", "teen", "seven-seas", "internet-folklore", "exploration"]
 rating: 4
 hasAffiliate: true

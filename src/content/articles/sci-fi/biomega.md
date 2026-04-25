@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "body horror", "post-apocalyptic themes", 
 description: "Yu's review of Biomega — in a future where a virus is turning humanity into zombie-like drones, a synthetic human named Zoichi Kanoe travels a dying Earth on a motorcycle with his AI bear partner, searching for immune humans."
 coverImage: "/covers/biomega.jpg"
 amazonASIN: "1421531844"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-12"
 tags: ["sci-fi", "post-apocalyptic", "action", "completed", "unique"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["isekai dark fantasy", "revenge themes", "graphic violence", "
 description: "Yu's review of Failure Frame — Touka Mimori is summoned to another world along with his class; while classmates receive powerful gifts, Touka receives only 'Failure,' an ability the goddess deems worthless; she discards him in a dungeon; using his unique interpretation of his ability, he survives and begins building toward revenge against the goddess herself."
 coverImage: "/covers/failure-frame.jpg"
 amazonASIN: "1638583854"
-publishedAt: "2026-05-01"
+publishedAt: "2024-12-10"
 tags: ["fantasy", "isekai", "dark", "revenge", "ongoing", "mature", "seven-seas", "seinen"]
 rating: 3
 hasAffiliate: true

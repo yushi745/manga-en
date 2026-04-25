@@ -17,7 +17,7 @@ contentWarnings: ["workplace romance", "mild supernatural elements"]
 description: "Yu's review of The Ice Guy and His Cool Female Colleague — Himuro-kun is a descendant of a snow spirit who involuntarily manifests snow, ice, and blizzards when he experiences strong emotions; when he falls in love with his seemingly cool and expressionless colleague Fuyutsuki-san, his supernatural reactions are an involuntary emotional thermometer."
 coverImage: "/covers/ice-guy-cool-female-colleague.jpg"
 amazonASIN: "1975357531"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-13"
 tags: ["slice-of-life", "romance", "ongoing", "teen", "yen-press", "office", "supernatural"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings:
   - "mild fantasy violence"
 description: "Yu's review of Wedding Peach — a classic 90s magical girl manga where three girls transform using wedding accessories to battle demons who want to destroy all love."
 amazonASIN: "1569319057"
-publishedAt: "2026-04-26"
+publishedAt: "2025-09-23"
 tags:
   - "shojo"
   - "magical-girl"

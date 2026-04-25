@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "some horror elements", "themes of de
 description: "Yu's review of Toilet-Bound Hanako-kun — Nene Yashiro summons Hanako-kun, the most famous of her school's Seven Wonders, the ghost rumored to grant wishes; when she accidentally becomes bound to him as his helper, she enters a world of supernatural politics, competing spirits, and the mystery of who Hanako actually was."
 coverImage: "/covers/toilet-bound-hanako-kun.jpg"
 amazonASIN: "1975344715"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-14"
 tags: ["fantasy", "supernatural", "ongoing", "school", "mystery", "comedy", "shounen"]
 rating: 5
 hasAffiliate: true

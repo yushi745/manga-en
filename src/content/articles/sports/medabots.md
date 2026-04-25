@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Medabots — Ikki Tenryo competes in Robattle tournaments using his Medabot Metabee, a customizable robot built from medal-powered parts; the manga that launched the Medabots franchise is a tight competitive action series structured around robot customization and tournament battles."
 coverImage: "/covers/medabots.jpg"
 amazonASIN: "1569317917"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-09"
 tags: ["sports", "action", "completed", "all-ages", "viz", "robots", "tournament"]
 rating: 3
 hasAffiliate: true

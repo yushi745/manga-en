@@ -17,7 +17,7 @@ contentWarnings: ["romantic content", "unrequited love themes"]
 description: "Yu's review of Strobe Edge — a girl who doesn't understand what love is falls for the most popular and unattainable boy in school, who is already in a relationship, and learns that loving someone is more complicated than she expected."
 coverImage: "/covers/strobe-edge.jpg"
 amazonASIN: "1421552027"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-02"
 tags: ["romance", "shojo", "school", "completed", "unrequited-love"]
 rating: 4
 hasAffiliate: true

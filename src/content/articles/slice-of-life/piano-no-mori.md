@@ -17,7 +17,7 @@ contentWarnings: ["class and poverty themes", "musical competition", "family com
 description: "Yu's review of Piano Forest — Kai Ichinose grows up poor in a forest community and has been playing an abandoned piano in the woods since childhood; when the talented but pressured Shuhei Amamiya moves to his town, their friendship and their different relationships with music begin a story about what playing truly means."
 coverImage: "/covers/piano-no-mori.jpg"
 amazonASIN: "1612629121"
-publishedAt: "2026-05-18"
+publishedAt: "2026-02-10"
 tags: ["slice-of-life", "music", "completed", "teen", "kodansha", "piano", "classical-music", "competition"]
 rating: 5
 hasAffiliate: true

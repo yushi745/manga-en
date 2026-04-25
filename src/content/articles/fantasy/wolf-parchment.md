@@ -17,7 +17,7 @@ contentWarnings: ["religious themes", "medieval trade dynamics", "fantasy advent
 description: "Yu's review of Wolf & Parchment — Col is a young man who wants to spread a new interpretation of scripture across the world; he is accompanied by Myuri, the daughter of Holo and Lawrence from Spice & Wolf, a wolf deity who has inherited her mother's spirit and her father's love of adventure."
 coverImage: "/covers/wolf-parchment.jpg"
 amazonASIN: "1975309545"
-publishedAt: "2026-05-03"
+publishedAt: "2025-02-26"
 tags: ["fantasy", "adventure", "spice-and-wolf", "sequel", "ongoing", "teen", "yen-press", "medieval"]
 rating: 4
 hasAffiliate: true

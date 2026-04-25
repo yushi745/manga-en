@@ -17,7 +17,7 @@ contentWarnings: ["death", "time loop themes", "psychological distress", "themes
 description: "Yu's review of the Steins;Gate manga — a self-proclaimed mad scientist accidentally invents a way to send text messages to the past, and discovers that every change to the timeline costs someone something."
 coverImage: "/covers/steins-gate.jpg"
 amazonASIN: "1927925509"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-22"
 tags: ["sci-fi", "thriller", "time-travel", "mystery", "completed"]
 rating: 4
 hasAffiliate: true

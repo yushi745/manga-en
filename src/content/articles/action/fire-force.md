@@ -17,7 +17,7 @@ contentWarnings: ["fire violence", "death", "body horror in Infernal sequences",
 description: "Yu's review of Fire Force — Shinra Kusakabe, a pyrokinetic firefighter with devil feet who can ignite flames from his feet, joins Special Fire Force Company 8 to find the truth behind his mother's death and the phenomenon that turns humans into living flames."
 coverImage: "/covers/fire-force.jpg"
 amazonASIN: "1632363305"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-24"
 tags: ["action", "supernatural", "shonen", "completed", "fire", "Soul-Eater-author"]
 rating: 4
 hasAffiliate: true

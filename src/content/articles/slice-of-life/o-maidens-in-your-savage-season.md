@@ -17,7 +17,7 @@ contentWarnings: ["sexuality themes", "coming-of-age sexuality", "age-gap relati
 description: "Yu's review of O Maidens in Your Savage Season — five high school girls in a literature club encounter adult themes through their reading and must suddenly reckon with their own desires, confusion, and the specific terror of not knowing what you want or whether what you feel is acceptable."
 coverImage: "/covers/o-maidens-in-your-savage-season.jpg"
 amazonASIN: "1632367882"
-publishedAt: "2026-05-01"
+publishedAt: "2026-02-06"
 tags: ["slice-of-life", "romance", "coming-of-age", "completed", "mature", "kodansha", "shojo", "sexuality"]
 rating: 5
 hasAffiliate: true

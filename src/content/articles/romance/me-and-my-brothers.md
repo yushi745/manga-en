@@ -17,7 +17,7 @@ contentWarnings: ["family comedy", "overprotective brothers", "romance with age 
 description: "Yu's review of Me and My Brothers — Sakura Miyata, fourteen, lived with her grandmother after losing her parents; after her grandmother's death, four stepbrothers she didn't know existed claim her; the oldest is protective, the second is cheerful, the third is tsundere, the fourth is childlike — and the story follows their developing family dynamics."
 coverImage: "/covers/me-and-my-brothers.jpg"
 amazonASIN: "1598163493"
-publishedAt: "2026-05-09"
+publishedAt: "2025-07-28"
 tags: ["romance", "comedy", "family", "completed", "teen", "tokyopop", "brothers", "overprotective"]
 rating: 3
 hasAffiliate: true

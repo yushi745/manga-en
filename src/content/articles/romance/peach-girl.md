@@ -17,7 +17,7 @@ contentWarnings: ["manipulation (central character Sae)", "romantic rivalry", "a
 description: "Yu's review of Peach Girl — Momo Adachi's tan skin from swimming makes others assume she's a gyaru; her best friend Sae is actually her manipulative enemy; she is caught between two boys while Sae engineers situations against her."
 coverImage: "/covers/peach-girl.jpg"
 amazonASIN: "1595321713"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-14"
 tags: ["romance", "drama", "shojo", "completed", "classic", "1990s"]
 rating: 4
 hasAffiliate: true

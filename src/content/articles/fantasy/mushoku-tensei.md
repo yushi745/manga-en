@@ -17,7 +17,7 @@ contentWarnings: ["sexual content (mild-explicit)", "sexual humor involving mino
 description: "Yu's review of Mushoku Tensei — the web novel that started the modern isekai genre, now in manga form. The most influential isekai ever written, with serious content warnings that matter. Rudy's redemption arc is genuinely good; his starting point is genuinely difficult."
 coverImage: "/covers/mushoku-tensei.jpg"
 amazonASIN: "1626922357"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-14"
 tags: ["fantasy", "isekai", "completed", "adult", "redemption", "world-building"]
 rating: 3
 hasAffiliate: true

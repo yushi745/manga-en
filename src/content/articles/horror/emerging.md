@@ -17,7 +17,7 @@ contentWarnings: ["biological horror", "graphic death", "pandemic themes", "medi
 description: "Yu's review of Emerging — a hemorrhagic fever virus escapes containment in Shinjuku; the story follows the doctors and health officials trying to stop an outbreak while the Japanese government and public response creates additional obstacles; it is realistic medical horror published before COVID made this scenario feel prophetic."
 coverImage: "/covers/emerging.jpg"
 amazonASIN: "1421535327"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-20"
 tags: ["horror", "thriller", "completed", "mature", "medical", "pandemic", "viz-media"]
 rating: 5
 hasAffiliate: true

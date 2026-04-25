@@ -17,7 +17,7 @@ contentWarnings: ["child characters in extreme danger", "death of children", "ps
 description: "Yu's review of The Drifting Classroom — a Japanese elementary school and all its students and teachers are suddenly transported to a desolate future Earth; the children must survive without adult leadership as food runs out and monsters appear."
 coverImage: "/covers/the-drifting-classroom.jpg"
 amazonASIN: "1421507226"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-01"
 tags: ["horror", "survival", "classic", "completed", "Umezu", "children-in-danger"]
 rating: 5
 hasAffiliate: true

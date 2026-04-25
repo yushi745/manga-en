@@ -17,7 +17,7 @@ contentWarnings: ["vampire themes", "immortality and loss", "historical European
 description: "Yu's review of Poe Clan — Edgar is a vampire child, eternally young, moving through European history across several centuries; his vampire existence means watching everyone he cares for age and die while he remains unchanged; Moto Hagio's foundational vampire manga, originally published in 1972."
 coverImage: "/covers/poe-clan.jpg"
 amazonASIN: "1683961218"
-publishedAt: "2026-05-21"
+publishedAt: "2025-01-20"
 tags: ["fantasy", "drama", "completed", "teen-plus", "fantagraphics", "vampire", "classic", "immortality"]
 rating: 5
 hasAffiliate: true

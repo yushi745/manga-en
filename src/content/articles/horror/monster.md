@@ -17,7 +17,7 @@ contentWarnings: ["serial murder", "psychological horror", "dark historical them
 description: "Yu's review of Monster — a brilliant surgeon saves a boy's life over a hospital director's, ruins his career, and ten years later discovers the boy he saved has become a serial killer who is now hunting him."
 coverImage: "/covers/monster.jpg"
 amazonASIN: "142156906X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-14"
 tags: ["horror", "thriller", "psychological", "completed", "mature"]
 rating: 5
 hasAffiliate: true

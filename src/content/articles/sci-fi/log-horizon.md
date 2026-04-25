@@ -17,7 +17,7 @@ contentWarnings: ["isekai themes", "virtual world politics", "mild action violen
 description: "Yu's review of Log Horizon — when thirty thousand Japanese players are trapped inside the Elder Tale MMORPG following a mysterious update called the Apocalypse, strategist Shiroe must figure out not just how to survive but how to build a functional society inside a game world that is suddenly real; a political isekai about governance and community rather than combat."
 coverImage: "/covers/log-horizon.jpg"
 amazonASIN: "0316383589"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-07"
 tags: ["sci-fi", "isekai", "fantasy", "completed", "teen", "yen-press", "strategy", "game-world"]
 rating: 4
 hasAffiliate: true

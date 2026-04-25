@@ -17,7 +17,7 @@ contentWarnings: ["ninja combat", "historical setting", "some mature romantic co
 description: "Yu's review of Tail of the Moon — Usagi is the granddaughter of the leader of Iga and is supposed to be an elite kunoichi, but she keeps failing her ninja exams; she falls for the cold, competent Hanzo; Rinko Ueda's historical ninja romance about an underachieving heroine's determination to improve."
 coverImage: "/covers/tail-of-the-moon.jpg"
 amazonASIN: "1591167728"
-publishedAt: "2026-05-27"
+publishedAt: "2025-09-04"
 tags: ["romance", "historical", "comedy", "completed", "teen-plus", "viz-media", "ninja", "shojo"]
 rating: 3
 hasAffiliate: true

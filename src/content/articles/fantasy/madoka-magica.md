@@ -17,7 +17,7 @@ contentWarnings: ["psychological horror", "death of characters", "dark deconstru
 description: "Yu's review of Puella Magi Madoka Magica — Madoka Kaname is invited to become a magical girl by a small creature named Kyubey; she hesitates, and across three volumes discovers why hesitating was the only reasonable thing to do."
 coverImage: "/covers/madoka-magica.jpg"
 amazonASIN: "0316232319"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-07"
 tags: ["fantasy", "horror", "magical-girl", "completed", "psychological", "deconstruction"]
 rating: 5
 hasAffiliate: true

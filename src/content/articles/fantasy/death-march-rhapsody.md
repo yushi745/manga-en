@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "harem elements", "slavery themes in fanta
 description: "Yu's review of Death March to the Parallel World Rhapsody — Satou is a game developer who falls asleep working on a death-march crunch and wakes up in a fantasy world that resembles the game he's been developing; he immediately gains an absurd amount of experience from a lucky initial attack and becomes effectively invincible; he decides to explore and see what this world has to offer."
 coverImage: "/covers/death-march-rhapsody.jpg"
 amazonASIN: "0316553913"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-02"
 tags: ["fantasy", "isekai", "ongoing", "teen", "yen-press"]
 rating: 3
 hasAffiliate: true

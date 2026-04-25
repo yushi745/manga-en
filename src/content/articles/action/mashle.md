@@ -17,7 +17,7 @@ contentWarnings: ["comedy violence", "parody content"]
 description: "Yu's review of Mashle: Magic and Muscles — in a world where magic determines social status, Mash Burnedead has no magic at all; he compensates entirely through physical strength so absurd it defeats every magical opponent he encounters."
 coverImage: "/covers/mashle.jpg"
 amazonASIN: "1974719294"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-22"
 tags: ["action", "comedy", "shonen", "completed", "parody", "Harry-Potter-parody"]
 rating: 4
 hasAffiliate: true

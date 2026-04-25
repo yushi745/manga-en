@@ -17,7 +17,7 @@ contentWarnings: ["adult themes", "working-class struggle", "sexual content", "v
 description: "Yu's review of Abandon the Old in Tokyo — Yoshihiro Tatsumi's short story collection depicting working-class lives in postwar Tokyo; the gekiga pioneer's dark view of urban life, rendered with moral ambiguity and without sentimentality; essential to understanding the mature manga tradition."
 coverImage: "/covers/abandon-the-old-in-tokyo.jpg"
 amazonASIN: "1894937856"
-publishedAt: "2026-05-21"
+publishedAt: "2025-12-04"
 tags: ["slice-of-life", "drama", "completed", "mature", "drawn-and-quarterly", "yoshihiro-tatsumi", "gekiga", "working-class"]
 rating: 5
 hasAffiliate: true

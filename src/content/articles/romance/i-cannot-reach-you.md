@@ -17,7 +17,7 @@ contentWarnings: ["BL romance", "unrequited love premise", "high school setting"
 description: "Yu's review of I Cannot Reach You — Kakeru is perfect: good at everything, well-liked, seemingly without needs; his best friend Yamato has been in love with him since childhood but has convinced himself that someone like Kakeru is beyond his reach; the series is about the gap between who Yamato thinks Kakeru is and who Kakeru actually is."
 coverImage: "/covers/i-cannot-reach-you.jpg"
 amazonASIN: "1975339894"
-publishedAt: "2026-05-03"
+publishedAt: "2025-07-01"
 tags: ["romance", "BL", "boys-love", "high-school", "completed", "teen", "yen-press", "slow-burn"]
 rating: 5
 hasAffiliate: true

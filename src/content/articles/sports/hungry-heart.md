@@ -17,7 +17,7 @@ contentWarnings: ["sports competition", "mild language", "sibling rivalry themes
 description: "Yu's review of Hungry Heart Wild Striker — Kyōsuke Kanou is a soccer prodigy who quit the sport because of his older brother's overwhelming talent; when he joins a struggling team and meets a dedicated coach, he rediscovers his hunger for the game; a return to pure soccer manga from the Captain Tsubasa creator."
 coverImage: "/covers/hungry-heart.jpg"
 amazonASIN: "1591822238"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-02"
 tags: ["sports", "soccer", "completed", "teen", "viz", "shonen", "classic"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["magical healing premise", "lonely characters", "emotional con
 description: "Yu's review of Kobato. — Kobato Hanato has arrived in the human world with a mission: fill a bottle with the pain she heals from people's wounded hearts; the bottle will grant a wish she cannot yet remember; CLAMP's manga about an innocent girl who helps people while slowly uncovering who she is and what she wants."
 coverImage: "/covers/kobato.jpg"
 amazonASIN: "0316073733"
-publishedAt: "2026-05-29"
+publishedAt: "2025-01-01"
 tags: ["fantasy", "romance", "completed", "teen", "yen-press", "clamp", "healing", "magical-girl"]
 rating: 4
 hasAffiliate: true

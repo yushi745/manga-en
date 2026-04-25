@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Kubo Won't Let Me Be Invisible — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/kubo-wont-let-me-be-invisible.jpg"
 amazonASIN: "1974734447"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-21"
 tags:
   - "slice-of-life"
   - "romance"

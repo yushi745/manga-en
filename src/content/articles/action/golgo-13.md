@@ -17,7 +17,7 @@ contentWarnings: ["assassin violence", "explicit combat", "adult content", "mora
 description: "Yu's review of Golgo 13 — Duke Togo, codenamed Golgo 13, is the world's most professional and most feared assassin; the series follows individual contracts across international locations, with Golgo as an almost supernatural constant in a world of political intrigue, corporate corruption, and Cold War geopolitics; manga's longest-running action series and one of its most influential."
 coverImage: "/covers/golgo-13.jpg"
 amazonASIN: "1591161282"
-publishedAt: "2026-04-27"
+publishedAt: "2024-08-31"
 tags: ["action", "thriller", "spy", "mature", "viz", "classic", "ongoing", "seinen", "assassin"]
 rating: 4
 hasAffiliate: true

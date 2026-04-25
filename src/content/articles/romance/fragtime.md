@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "time-stop power", "voyeurism themes", "mature
 description: "Yu's review of Fragtime — Moritani can stop time for three minutes per day; she uses this ability to observe Murakami Haruka, the class representative, without being noticed; on the day she stops time, Murakami is still moving — and she has seen everything Moritani has been watching."
 coverImage: "/covers/fragtime.jpg"
 amazonASIN: "1626929726"
-publishedAt: "2026-05-16"
+publishedAt: "2025-06-13"
 tags: ["romance", "yuri", "completed", "teen-plus", "seven-seas", "time-stop", "one-shot", "school"]
 rating: 4
 hasAffiliate: true

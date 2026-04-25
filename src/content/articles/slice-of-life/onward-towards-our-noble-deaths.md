@@ -17,7 +17,7 @@ contentWarnings: ["war violence", "military culture", "mass death", "Japanese Im
 description: "Yu's review of Onward Towards Our Noble Deaths — Shigeru Mizuki's autobiographical war manga, depicting the Japanese Imperial Army unit that survived a suicidal charge order through the Pacific Theater; the survivors were punished for failing to die; Mizuki survived; most of his unit did not."
 coverImage: "/covers/onward-towards-our-noble-deaths.jpg"
 amazonASIN: "1770460012"
-publishedAt: "2026-05-19"
+publishedAt: "2026-02-07"
 tags: ["slice-of-life", "war", "history", "autobiography", "completed", "mature", "drawn-and-quarterly", "world-war-ii"]
 rating: 5
 hasAffiliate: true

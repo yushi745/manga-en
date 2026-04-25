@@ -17,7 +17,7 @@ contentWarnings: ["martial arts violence", "some fanservice"]
 description: "Yu's review of History's Strongest Disciple Kenichi — Kenichi Shirahama is the weakest student at his school until he joins Ryōzanpaku dojo, where six masters of different martial arts disciplines agree to train him simultaneously."
 coverImage: "/covers/history-strongest-disciple-kenichi.jpg"
 amazonASIN: "1421513560"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-06"
 tags: ["action", "comedy", "shonen", "martial-arts", "completed"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["extreme graphic violence", "racial imagery controversies", "b
 description: "Yu's review of Terra Formars — humanity seeded Mars with cockroaches to begin terraforming; centuries later, the cockroaches have evolved into humanoid giants with extreme strength, and human soldiers with insect-based genetic modifications are sent to exterminate them."
 coverImage: "/covers/terra-formars.jpg"
 amazonASIN: "1421571544"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-25"
 tags: ["sci-fi", "action", "mature", "completed", "military"]
 rating: 3
 hasAffiliate: true

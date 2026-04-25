@@ -21,7 +21,7 @@ contentWarnings:
 description: "A comprehensive review of Hell's Paradise: Jigokuraku — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/jigokuraku.jpg"
 amazonASIN: "1974720977"
-publishedAt: "2026-04-25"
+publishedAt: "2024-09-10"
 tags:
   - "action"
   - "dark-fantasy"

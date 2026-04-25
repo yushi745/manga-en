@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "human experimentation", "trauma backstori
 description: "Yu's review of Dogs: Bullets & Carnage — four individuals with violent pasts navigate an underground city built on human experimentation; Heine is a modified human who heals from anything; Badou is a chain-smoking information broker; their paths converge in the depths below the city; Shirow Miwa's action manga about the price of survival."
 coverImage: "/covers/dogs-bullets-carnage.jpg"
 amazonASIN: "1421527294"
-publishedAt: "2026-05-26"
+publishedAt: "2024-08-17"
 tags: ["action", "dark-fantasy", "completed", "mature", "viz-media", "underground", "human-experimentation", "seinen"]
 rating: 4
 hasAffiliate: true

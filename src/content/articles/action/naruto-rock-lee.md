@@ -19,7 +19,7 @@ contentWarnings:
 description: "A comprehensive review of Rock Lee's Springtime of Youth Full Power Ninja Chronicles — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/naruto-rock-lee.jpg"
 amazonASIN: "1421558564"
-publishedAt: "2026-04-25"
+publishedAt: "2024-09-28"
 tags:
   - "comedy"
   - "action"

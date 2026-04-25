@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "racial hatred themes", "dark villain prot
 description: "Yu's review of Alabaster — a Black man named Rock Holmes is so consumed by racial hatred toward white society that he gains a device allowing him to turn himself and others invisible; he becomes a destructive villain; Tezuka's controversial dark manga that explores what hatred does to a person, and why Tezuka chose to write it."
 coverImage: "/covers/alabaster.jpg"
 amazonASIN: "1934287547"
-publishedAt: "2026-05-30"
+publishedAt: "2025-10-05"
 tags: ["sci-fi", "thriller", "completed", "mature", "vertical", "tezuka", "villain-protagonist", "dark"]
 rating: 4
 hasAffiliate: true

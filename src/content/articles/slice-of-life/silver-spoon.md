@@ -17,7 +17,7 @@ contentWarnings: ["animal death (farm context)", "themes of parental pressure an
 description: "Yu's review of Silver Spoon — a city kid escapes to an agricultural high school to avoid his family, and discovers that farming, animal husbandry, and the people who feed the country have lessons no classroom ever taught him."
 coverImage: "/covers/silver-spoon.jpg"
 amazonASIN: "0316416193"
-publishedAt: "2026-04-24"
+publishedAt: "2026-02-20"
 tags: ["slice-of-life", "school", "drama", "food", "completed", "fullmetal-alchemist-author"]
 rating: 5
 hasAffiliate: true

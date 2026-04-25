@@ -17,7 +17,7 @@ contentWarnings: ["emotionally manipulative relationship dynamics", "possessive 
 description: "Yu's review of Wolf Girl and Black Prince — Erika Shinohara lied to her friends about having a boyfriend and used a stranger's photo as proof; that stranger turns out to be the most popular boy in school, Kyoya Sata; he agrees to play her boyfriend in exchange for her acting as his dog — a romance that starts from a deeply uncomfortable power imbalance."
 coverImage: "/covers/wolf-girl-and-black-prince.jpg"
 amazonASIN: "1974737527"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-25"
 tags: ["romance", "shojo", "completed", "high-school", "VIZ"]
 rating: 3
 hasAffiliate: true

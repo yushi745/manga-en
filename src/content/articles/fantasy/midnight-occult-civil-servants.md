@@ -17,7 +17,7 @@ contentWarnings: ["supernatural content", "bureaucratic violence", "ancient bein
 description: "Yu's review of Midnight Occult Civil Servants — Miyako Arata starts his new job in Tokyo's Shinjuku Ward Office and discovers his department handles supernatural beings called Anothers; he's the first person in generations who can understand their speech; Aoi Kakitsubata's fantasy manga about a civil servant navigating between human bureaucracy and supernatural entities."
 coverImage: "/covers/midnight-occult-civil-servants.jpg"
 amazonASIN: "1975383168"
-publishedAt: "2026-05-30"
+publishedAt: "2025-01-12"
 tags: ["fantasy", "supernatural", "completed", "teen", "yen-press", "civil-servants", "tokyo", "yokai"]
 rating: 4
 hasAffiliate: true

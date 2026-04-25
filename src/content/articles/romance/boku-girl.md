@@ -17,7 +17,7 @@ contentWarnings: ["gender transformation", "identity themes", "romantic comedy",
 description: "Yu's review of Boku Girl — Mizuki Suzushiro is a high school boy who is often mistaken for a girl; the Norse god Loki, bored, turns him into an actual girl to see what happens; Mizuki must now navigate high school while female, including the complicated feelings of his childhood friend Takeru."
 coverImage: "/covers/boku-girl.jpg"
 amazonASIN: "1626924708"
-publishedAt: "2026-05-14"
+publishedAt: "2025-05-22"
 tags: ["romance", "comedy", "completed", "teen", "seven-seas", "gender-transformation", "identity", "mythology"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["food content", "adult characters with busy lives", "mild wine
 description: "Yu's review of Not Love But Delicious Foods Make Me So Happy! — the protagonist is a manga artist who won't date but will eat anything; she navigates Tokyo restaurants with friends, colleagues, and editors; Fumi Yoshinaga's semi-autobiographical restaurant guide manga that doubles as character comedy about a woman who prioritizes food over romance."
 coverImage: "/covers/not-love-but-delicious-foods.jpg"
 amazonASIN: "0759533075"
-publishedAt: "2026-05-30"
+publishedAt: "2026-02-05"
 tags: ["slice-of-life", "food", "completed", "teen", "yen-press", "yoshinaga", "restaurant-guide", "single-volume"]
 rating: 4
 hasAffiliate: true

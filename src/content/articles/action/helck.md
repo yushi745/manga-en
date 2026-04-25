@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "dark themes in second half", "genocide and
 description: "Yu's review of Helck — a tournament is being held to find the next Demon King after the previous one's death; Helck, the most powerful human hero who should be the demons' greatest enemy, shows up and enters the tournament claiming he wants to destroy humanity; the demon captain Vermilio tries to expose him as a spy while he proves consistently, genuinely, alarmingly helpful."
 coverImage: "/covers/helck.jpg"
 amazonASIN: "1974740919"
-publishedAt: "2026-04-25"
+publishedAt: "2024-09-05"
 tags: ["action", "comedy", "fantasy", "completed", "viz", "demons"]
 rating: 5
 hasAffiliate: true

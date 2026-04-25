@@ -21,7 +21,7 @@ contentWarnings:
   - "prison"
 description: "Yu's review of Shamo — a model student who murders his parents learns karate in juvenile detention and emerges as a dangerous, broken prodigy with nowhere to put his violence."
 amazonASIN: "1586649914"
-publishedAt: "2026-04-26"
+publishedAt: "2024-10-21"
 tags:
   - "action"
   - "martial-arts"

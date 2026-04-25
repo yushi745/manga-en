@@ -17,7 +17,7 @@ contentWarnings: ["village cult-like tradition", "psychological horror elements"
 description: "Yu's review of Kamisama Dolls — Kyohei Kuga left his rural village and its tradition of Seki (Doll masters who control ancient wooden god-machines called Kakashi) to start a new life in Tokyo; when a murder occurs connected to his village, his sister Utao arrives with her Kakashi Kukuri, and the village's dark history follows him."
 coverImage: "/covers/kamisama-dolls.jpg"
 amazonASIN: "142154126X"
-publishedAt: "2026-05-10"
+publishedAt: "2024-09-12"
 tags: ["action", "supernatural", "completed", "mature", "viz-media", "village-horror", "mecha-adjacent", "psychological"]
 rating: 3
 hasAffiliate: true

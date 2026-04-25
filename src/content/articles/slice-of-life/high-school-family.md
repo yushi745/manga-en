@@ -17,7 +17,7 @@ contentWarnings: ["absurdist family comedy", "school setting", "deadpan reaction
 description: "Yu's review of High School Family — the entire Kokosei family has returned to high school simultaneously: the father Takashi, the mother Saya, and their first-year son Ichiro; the series follows their attempt to navigate high school as a unit while the school responds to this situation as if it is completely normal."
 coverImage: "/covers/high-school-family.jpg"
 amazonASIN: "1646512971"
-publishedAt: "2026-05-04"
+publishedAt: "2026-01-07"
 tags: ["slice-of-life", "comedy", "family", "school", "ongoing", "teen", "kodansha", "absurdist"]
 rating: 4
 hasAffiliate: true

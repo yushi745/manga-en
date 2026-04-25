@@ -17,7 +17,7 @@ contentWarnings: ["bullying backstory", "overpowered protagonist", "fantasy viol
 description: "Yu's review of I Got a Cheat Skill in Another World — Yuuya Tenjou was bullied for being overweight; he discovers a door in his grandfather's house that leads to a fantasy world; gaining overpowered abilities from the fantasy world, he returns to the real world as a completely different person in both worlds."
 coverImage: "/covers/cheat-skill-another-world.jpg"
 amazonASIN: "1975344618"
-publishedAt: "2026-05-02"
+publishedAt: "2024-11-28"
 tags: ["fantasy", "isekai", "overpowered", "ongoing", "teen", "yen-press", "dual-world", "transformation"]
 rating: 3
 hasAffiliate: true

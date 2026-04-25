@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "monster attacks", "body horror", "sexual 
 description: "Yu's review of Heavenly Delusion (Tengoku Daimakyou) — two teenagers travel through a destroyed Japan searching for 'heaven,' while inside a mysterious sealed facility, children are raised with no knowledge of the outside world; the two storylines converge toward answers neither group fully understands yet."
 coverImage: "/covers/heavenly-delusion.jpg"
 amazonASIN: "1638585326"
-publishedAt: "2026-04-27"
+publishedAt: "2025-11-02"
 tags: ["sci-fi", "mystery", "post-apocalyptic", "ongoing", "mature", "seven-seas", "thriller"]
 rating: 5
 hasAffiliate: true

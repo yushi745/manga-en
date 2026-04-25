@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Cat and Gamer — Riko is an office worker who spends all her free time playing video games; she adopts a stray cat named Musubi; the cat's behavior is observed through both realistic cat logic and gaming metaphor; a gentle comedy about introversion, companionship, and cats."
 coverImage: "/covers/cat-and-gamer.jpg"
 amazonASIN: "1506725201"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-18"
 tags: ["slice-of-life", "comedy", "cats", "completed", "all-ages", "dark-horse"]
 rating: 4
 hasAffiliate: true

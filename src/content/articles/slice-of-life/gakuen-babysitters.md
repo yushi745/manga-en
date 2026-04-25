@@ -17,7 +17,7 @@ contentWarnings: ["orphaned siblings", "grief themes played gently", "childcare 
 description: "Yu's review of Gakuen Babysitters — Ryuichi Kashima and his baby brother Kotarou survive a plane crash that kills their parents; Morinomiya Academy's chairwoman takes them in on the condition that Ryuichi runs the school's babysitter club, caring for the children of faculty members."
 coverImage: "/covers/gakuen-babysitters.jpg"
 amazonASIN: "0316471054"
-publishedAt: "2026-05-10"
+publishedAt: "2025-12-30"
 tags: ["slice-of-life", "comedy", "family", "completed", "teen", "yen-press", "babysitting", "heartwarming"]
 rating: 4
 hasAffiliate: true

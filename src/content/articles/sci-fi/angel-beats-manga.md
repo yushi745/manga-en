@@ -17,7 +17,7 @@ contentWarnings: ["death of characters", "grief", "afterlife themes", "action", 
 description: "Yu's review of the Angel Beats! manga — Otonashi wakes up in an afterlife high school and joins a group of dead teenagers who are fighting against Angel, the student council president, in rebellion against the rules of their existence; Key/Jun Maeda's afterlife story adapted to manga."
 coverImage: "/covers/angel-beats-manga.jpg"
 amazonASIN: "0316321680"
-publishedAt: "2026-05-23"
+publishedAt: "2025-10-07"
 tags: ["sci-fi", "drama", "completed", "teen", "yen-press", "key", "afterlife", "action"]
 rating: 4
 hasAffiliate: true

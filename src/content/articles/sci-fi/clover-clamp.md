@@ -17,7 +17,7 @@ contentWarnings: ["melancholy themes", "isolation", "experimental narrative stru
 description: "Yu's review of Clover — in a futuristic world, humans with magical ability are rated with clover leaves; Suo is a four-leaf clover, the most powerful and the only one; she has been isolated her whole life and has one wish: to visit a place called Fairy Park; she is escorted there by soldier Kazuhiko in a story told in CLAMP's most experimental visual style."
 coverImage: "/covers/clover-clamp.jpg"
 amazonASIN: "1892213087"
-publishedAt: "2026-05-14"
+publishedAt: "2025-10-19"
 tags: ["sci-fi", "completed", "teen", "tokyopop", "clamp", "experimental", "melancholy", "isolation"]
 rating: 4
 hasAffiliate: true

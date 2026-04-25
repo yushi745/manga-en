@@ -17,7 +17,7 @@ contentWarnings: ["harem elements", "some romantic content", "game otaku protago
 description: "Yu's review of The World God Only Knows — Keima Katsuragi is the God of Conquest, a dating sim master who can conquer any virtual heroine; when he accidentally contracts with a demon to capture runaway spirits that hide in girls' hearts, he must apply his dating sim knowledge to real people; the series follows his methodical approach to real romance and the unexpected way it changes him."
 coverImage: "/covers/world-god-only-knows.jpg"
 amazonASIN: "1421536544"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-25"
 tags: ["romance", "comedy", "completed", "otaku", "supernatural", "shonen"]
 rating: 5
 hasAffiliate: true

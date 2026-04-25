@@ -17,7 +17,7 @@ contentWarnings: ["otaku culture", "BL content within story", "gender identity t
 description: "Yu's review of Genshiken: Second Season — the university otaku club Genshiken has a new membership mostly consisting of female fujoshi and one crossdressing male member who may be more than just crossdressing; the sequel explores how the club changes when its demographics shift and how it grapples with questions the original series didn't have to face."
 coverImage: "/covers/genshiken-nidaime.jpg"
 amazonASIN: "1612624618"
-publishedAt: "2026-05-19"
+publishedAt: "2025-12-31"
 tags: ["slice-of-life", "comedy", "completed", "teen-plus", "kodansha", "otaku-culture", "fujoshi", "sequel"]
 rating: 4
 hasAffiliate: true

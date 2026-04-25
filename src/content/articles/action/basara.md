@@ -17,7 +17,7 @@ contentWarnings: ["war", "violence", "death", "romance with political complicati
 description: "Yu's review of Basara — in a post-apocalyptic Japan ruled by a cruel king and four princes, a prophecy names Tatara as the child of destiny; when Tatara's twin brother is killed before he can fulfill the prophecy, his twin sister Sarasa disguises herself as Tatara and leads the rebellion in his place."
 coverImage: "/covers/basara.jpg"
 amazonASIN: "1591163927"
-publishedAt: "2026-04-24"
+publishedAt: "2024-07-29"
 tags: ["action", "fantasy", "completed", "female-protagonist", "revolution", "post-apocalyptic", "shoujo"]
 rating: 5
 hasAffiliate: true

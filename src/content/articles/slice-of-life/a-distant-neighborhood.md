@@ -17,7 +17,7 @@ contentWarnings: ["time travel", "family loss themes", "middle-aged regret", "fa
 description: "Yu's review of A Distant Neighborhood — Hiroshi Nakahara, a middle-aged salaryman, falls asleep at his father's grave and wakes up as himself at fourteen; with adult memories in a teenage body, he must relive his past, including the period before his father disappeared; Jiro Taniguchi's gentle meditation on regret and what we'd change."
 coverImage: "/covers/a-distant-neighborhood.jpg"
 amazonASIN: "1561637890"
-publishedAt: "2026-05-21"
+publishedAt: "2025-12-02"
 tags: ["slice-of-life", "drama", "completed", "teen", "fanfare", "time-travel", "nostalgia", "family"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "war", "slavery", "death", "historical bru
 description: "Yu's review of Vinland Saga — a Viking manga that starts as a brutal revenge story and becomes a profound examination of what violence costs the people who use it. One of the greatest manga being published today."
 coverImage: "/covers/vinland-saga.jpg"
 amazonASIN: "B00PZ7JQIG"
-publishedAt: "2026-04-23"
+publishedAt: "2024-11-09"
 tags: ["historical", "action", "mature", "ongoing", "war", "philosophical"]
 rating: 5
 hasAffiliate: true

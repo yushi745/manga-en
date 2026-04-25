@@ -19,7 +19,7 @@ contentWarnings:
   - "romance"
 description: "Yu's review of Love Attack — Hiyo is the most feared delinquent at her school, but Chiemi is the only person she's ever met who refuses to be afraid of her."
 amazonASIN: "1427808988"
-publishedAt: "2026-04-26"
+publishedAt: "2025-07-19"
 tags:
   - "shojo"
   - "romance"

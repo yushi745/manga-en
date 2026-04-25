@@ -17,7 +17,7 @@ contentWarnings: ["discrimination themes", "child endangerment", "violence towar
 description: "Yu's review of +Anima — in a world where some children develop +Anima, the ability to partially transform into animals and gain their characteristics, Cooro is a crow +Anima who travels through a world that treats +Anima as freaks or weapons; he is joined by Husky, a fish +Anima forced to perform as a mermaid; Senri, a bear +Anima with a traumatic past; and Nana, a bat +Anima searching for acceptance."
 coverImage: "/covers/plus-anima.jpg"
 amazonASIN: "1598163213"
-publishedAt: "2026-04-25"
+publishedAt: "2024-10-06"
 tags: ["action", "fantasy", "adventure", "completed", "tokyopop", "discrimination", "children"]
 rating: 4
 hasAffiliate: true

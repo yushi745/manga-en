@@ -17,7 +17,7 @@ contentWarnings: ["married couple romantic content", "some physical comedy", "my
 description: "Yu's review of Fly Me to the Moon (Tonikaku Kawaii) — Nasa Yuzaki saves a girl from a traffic accident; she agrees to marry him on the spot if he can find her; when they reunite, they marry immediately; the series follows their married life as Nasa gradually learns who his wife Tsukasa actually is and why she proposed so quickly."
 coverImage: "/covers/fly-me-to-the-moon.jpg"
 amazonASIN: "1974715981"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-12"
 tags: ["romance", "comedy", "completed", "married-couple", "mystery", "shonen"]
 rating: 5
 hasAffiliate: true

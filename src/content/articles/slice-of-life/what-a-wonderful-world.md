@@ -17,7 +17,7 @@ contentWarnings: ["adult themes", "existential content", "loose anthology struct
 description: "Yu's review of What a Wonderful World! — Inio Asano's short story collection, loosely connected stories about ordinary people in contemporary Japan finding their way through ordinary circumstances; Asano in his most accessible register, before the extended darkness of Goodnight Punpun."
 coverImage: "/covers/what-a-wonderful-world.jpg"
 amazonASIN: "1421548429"
-publishedAt: "2026-05-21"
+publishedAt: "2026-03-06"
 tags: ["slice-of-life", "anthology", "completed", "teen-plus", "viz-media", "inio-asano", "short-stories", "contemporary"]
 rating: 4
 hasAffiliate: true

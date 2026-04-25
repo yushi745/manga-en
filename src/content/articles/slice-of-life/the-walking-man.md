@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of The Walking Man — a man takes walks through his neighborhood and surrounding areas; Jiro Taniguchi's single-volume manga about the specific quality of attention paid to ordinary things, rendered with exceptional visual detail; perhaps the most peaceful manga in existence."
 coverImage: "/covers/the-walking-man.jpg"
 amazonASIN: "1561637858"
-publishedAt: "2026-05-21"
+publishedAt: "2026-02-27"
 tags: ["slice-of-life", "completed", "all-ages", "fanfare", "jiro-taniguchi", "meditative", "nature"]
 rating: 5
 hasAffiliate: true

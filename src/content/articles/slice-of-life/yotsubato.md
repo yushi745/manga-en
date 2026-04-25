@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Yotsuba&! — Yotsuba Koiwai is a five-year-old with green hair and no social filter who has just moved to a new neighborhood with her father; every chapter is about her discovering something ordinary for the first time — cicadas, air conditioning, delivery trucks, the concept of homework — and finding it extraordinary; the most successful depiction of childhood wonder in manga."
 coverImage: "/covers/yotsubato.jpg"
 amazonASIN: "0316073873"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-09"
 tags: ["slice-of-life", "comedy", "all-ages", "ongoing", "yen-press", "childhood", "classic"]
 rating: 5
 hasAffiliate: true

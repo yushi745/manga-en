@@ -17,7 +17,7 @@ contentWarnings: ["cultural exchange content", "Islamic culture representation",
 description: "Yu's review of Satoko and Nada — Satoko is a Japanese student at an American university; Nada is her Saudi Arabian roommate; neither knows much about the other's culture; Yupechika's slice-of-life manga about two women sharing an apartment, sharing their lives, and learning that the gap between their worlds is smaller than they assumed."
 coverImage: "/covers/satoko-and-nada.jpg"
 amazonASIN: "1626928460"
-publishedAt: "2026-05-28"
+publishedAt: "2026-02-15"
 tags: ["slice-of-life", "completed", "teen", "seven-seas", "cultural-exchange", "friendship", "international"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["competitive pressure", "physical exhaustion depicted"]
 description: "Yu's review of Welcome to the Ballroom — Tatara Fujita has no goals and no passions until he stumbles into a ballroom dance studio, sees what competitive dance actually looks like, and decides this is the thing he has been missing."
 coverImage: "/covers/welcome-to-the-ballroom.jpg"
 amazonASIN: "163236745X"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-22"
 tags: ["sports", "seinen", "dance", "competitive", "ongoing"]
 rating: 4
 hasAffiliate: true

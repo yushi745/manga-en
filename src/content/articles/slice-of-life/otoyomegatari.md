@@ -17,7 +17,7 @@ contentWarnings: ["historical context including arranged marriages", "adult rela
 description: "Yu's review of A Bride's Story — Amira Halgal is a twenty-year-old woman married to a twelve-year-old boy in 19th century Central Asia; Kaoru Mori's ongoing historical manga, known for its exceptional fabric and textile rendering and its focus on women's lives across the Silk Road region."
 coverImage: "/covers/otoyomegatari.jpg"
 amazonASIN: "0316180998"
-publishedAt: "2026-05-22"
+publishedAt: "2026-02-07"
 tags: ["slice-of-life", "historical", "ongoing", "teen-plus", "yen-press", "kaoru-mori", "central-asia", "women"]
 rating: 5
 hasAffiliate: true

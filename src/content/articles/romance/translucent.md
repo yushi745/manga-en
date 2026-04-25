@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["body horror lite", "themes of invisibility and social isolation", "middle school setting", "light romance"]
 description: "Yu's review of Translucent — Shizuka Shiroyama has a condition called Translucent Syndrome, which is slowly making her body invisible; as she navigates middle school while becoming literally harder to see, she forms connections with classmates who want her to be visible to them."
 amazonASIN: "1593077556"
-publishedAt: "2026-05-12"
+publishedAt: "2025-09-14"
 tags: ["romance", "completed", "teen", "dark-horse", "middle-school", "supernatural-condition", "slice-of-life"]
 rating: 4
 hasAffiliate: true

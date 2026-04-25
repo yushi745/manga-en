@@ -17,7 +17,7 @@ contentWarnings: ["traditional culture depiction", "coming-of-age themes", "food
 description: "Yu's review of The Makanai: Cooking for the Maiko House — Kiyo comes to Kyoto with her best friend Sumire to train as maiko, but lacks the aptitude; instead of giving up, she becomes the house's makanai — the cook who feeds the maiko — and finds that her real gift was always in the kitchen."
 coverImage: "/covers/makanai.jpg"
 amazonASIN: "1646519752"
-publishedAt: "2026-05-01"
+publishedAt: "2026-01-24"
 tags: ["slice-of-life", "cooking", "maiko", "kyoto", "ongoing", "teen", "viz", "shonen"]
 rating: 5
 hasAffiliate: true

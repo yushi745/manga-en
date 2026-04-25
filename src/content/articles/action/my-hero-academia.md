@@ -17,7 +17,7 @@ contentWarnings: ["violence", "themes of trauma and mental health", "mild langua
 description: "Yu's review of My Hero Academia — a superhero manga that asks a genuinely hard question: what does it cost to be the kind of person who saves others? Complete at 40 volumes, and one of the most emotionally layered shonen series of its generation."
 coverImage: "/covers/my-hero-academia.jpg"
 amazonASIN: "B012EM80FS"
-publishedAt: "2026-04-23"
+publishedAt: "2024-09-27"
 tags: ["shonen", "superhero", "action", "school", "completed"]
 rating: 4
 hasAffiliate: true

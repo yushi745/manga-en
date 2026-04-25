@@ -17,7 +17,7 @@ contentWarnings: ["fan service", "magic violence", "harem elements", "world dest
 description: "Yu's review of Trinity Seven — Arata Kasuga's town is destroyed by a Breakdown Phenomenon, his cousin Hijiri disappears, and he ends up at Royal Biblia Academy, a school that trains mages in the seven sins-based magic system; he meets the seven most powerful female mages at the academy and his inherited Archive magic, which works differently from conventional magic, makes him both their problem and their potential key."
 coverImage: "/covers/trinity-seven.jpg"
 amazonASIN: "0316383538"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-15"
 tags: ["fantasy", "action", "ongoing", "teen-plus", "yen-press", "magic", "harem"]
 rating: 4
 hasAffiliate: true

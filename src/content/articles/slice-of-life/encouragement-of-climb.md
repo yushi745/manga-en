@@ -17,7 +17,7 @@ contentWarnings: ["mild outdoor adventure content"]
 description: "Yu's review of Encouragement of Climb — Aoi is a shy high school girl who is afraid of heights; her childhood friend Hinata reappears and suggests they climb mountains together; Aoi gradually develops both her physical ability and her confidence through hiking and mountaineering; a gentle sports-adjacent slice of life that doubles as a hiking guide."
 coverImage: "/covers/encouragement-of-climb.jpg"
 amazonASIN: "163236412X"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-28"
 tags: ["slice-of-life", "sports", "completed", "all-ages", "kodansha", "hiking", "mountains"]
 rating: 4
 hasAffiliate: true

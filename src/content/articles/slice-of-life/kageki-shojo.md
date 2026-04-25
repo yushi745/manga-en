@@ -17,7 +17,7 @@ contentWarnings: ["sexual assault (past, discussed explicitly)", "eating disorde
 description: "Yu's review of Kageki Shojo!! — Sarasa Watanabe is a tall, unconventional girl who enters the Kouka School of Musical and Theatrical Arts with the dream of playing the male lead; her roommate is Ai Narata, a former idol group member who has her own reasons for joining and a deep mistrust of men; the series follows both through the world's most demanding performing arts school."
 coverImage: "/covers/kageki-shojo.jpg"
 amazonASIN: "177101519X"
-publishedAt: "2026-04-24"
+publishedAt: "2026-01-17"
 tags: ["slice-of-life", "drama", "ongoing", "performing-arts", "josei", "dark", "shoujo"]
 rating: 5
 hasAffiliate: true

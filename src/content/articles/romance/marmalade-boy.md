@@ -17,7 +17,7 @@ contentWarnings: ["unconventional family structure", "romantic jealousy", "some 
 description: "Yu's review of Marmalade Boy — Miki Koishikawa's parents announce they are divorcing and remarrying other people; the other couple happens to have a son, Yuu, who moves into the same house; the series follows Miki's developing feelings for Yuu in this extremely unusual living situation."
 coverImage: "/covers/marmalade-boy.jpg"
 amazonASIN: "1592349722"
-publishedAt: "2026-04-25"
+publishedAt: "2025-07-26"
 tags: ["romance", "drama", "completed", "shojo", "high-school", "tokyopop", "classic"]
 rating: 4
 hasAffiliate: true

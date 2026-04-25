@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "gore", "genocide", "war crimes", "body ho
 description: "Yu's review of Attack on Titan — a manga that starts as a monster story and becomes something far more disturbing: a story about what hatred and cycles of violence do to people and nations. Brilliant, brutal, and unforgettable."
 coverImage: "/covers/attack-on-titan.jpg"
 amazonASIN: "B00CCOO1HA"
-publishedAt: "2026-04-23"
+publishedAt: "2024-07-26"
 tags: ["seinen", "dark-fantasy", "action", "political", "completed", "mature"]
 rating: 5
 hasAffiliate: true

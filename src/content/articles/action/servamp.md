@@ -17,7 +17,7 @@ contentWarnings: ["vampire action", "supernatural violence", "dark themes", "fou
 description: "Yu's review of Servamp — Mahiru Shirota picks up a stray black cat and names it Kuro; the cat is actually Sleepy Ash, one of seven Servamps — ancient vampires who form contracts with human Eves and serve them; Mahiru's simple desire to not leave problems unresolved pulls him into conflict with Servamps who have abandoned their Eves."
 coverImage: "/covers/servamp.jpg"
 amazonASIN: "1626925763"
-publishedAt: "2026-05-14"
+publishedAt: "2024-10-19"
 tags: ["action", "completed", "teen", "seven-seas", "vampire", "supernatural", "found-family"]
 rating: 3
 hasAffiliate: true

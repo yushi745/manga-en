@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "some romantic content"]
 description: "Yu's review of Wise Man's Grandchild — an ordinary man is reincarnated in a fantasy world and raised by Merlin Walford, the legendary sage who saved the kingdom; he grows up with extraordinary magical power but completely lacking common sense about the normal world; the combination creates a hero who is absurdly powerful but genuinely humble about it."
 coverImage: "/covers/wise-mans-grandchild.jpg"
 amazonASIN: "1626929513"
-publishedAt: "2026-04-25"
+publishedAt: "2025-02-23"
 tags: ["fantasy", "isekai", "completed", "teen", "seven-seas"]
 rating: 3
 hasAffiliate: true

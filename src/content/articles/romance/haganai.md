@@ -17,7 +17,7 @@ contentWarnings: ["ecchi content", "harem situations", "some mature themes"]
 description: "Yu's review of Haganai: I Don't Have Many Friends — Kodaka Hasegawa is a loner because his blond hair makes him look like a delinquent; Yozora Mikazuki is a loner who lost her childhood friend; they accidentally form the Neighbors Club — a club for people who have no friends, to practice friendship; the comedy and eventual romance come from a group of social misfits figuring out what connection means."
 coverImage: "/covers/haganai.jpg"
 amazonASIN: "1937867129"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-22"
 tags: ["romance", "comedy", "mature", "harem", "completed", "Seven-Seas"]
 rating: 3
 hasAffiliate: true

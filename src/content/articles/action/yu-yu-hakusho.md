@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "death", "supernatural themes", "tournament
 description: "Yu's review of Yu Yu Hakusho — 19 volumes about a delinquent who dies heroically and is recruited as a Spirit Detective to investigate supernatural cases. The series Togashi made before Hunter x Hunter, and the DNA is visible in everything he'd write after."
 coverImage: "/covers/yu-yu-hakusho.jpg"
 amazonASIN: "1569319049"
-publishedAt: "2026-04-23"
+publishedAt: "2024-11-12"
 tags: ["shonen", "action", "supernatural", "completed", "classic", "tournament"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["violence (comedic and serious)", "assassination themes played
 description: "Yu's review of Assassination Classroom — 21 volumes about a class of underachievers assigned to kill their alien teacher before he destroys the Earth. The funniest manga about murder and the most moving manga about education."
 coverImage: "/covers/assassination-classroom.jpg"
 amazonASIN: "B00UKMJVJ0"
-publishedAt: "2026-04-23"
+publishedAt: "2024-07-24"
 tags: ["shonen", "comedy", "action", "completed", "school", "feel-good"]
 rating: 5
 hasAffiliate: true

@@ -20,7 +20,7 @@ contentWarnings:
   - "transformation horror"
 description: "Yu's review of APOSIMZ — Tsutomu Nihei's vision of a frozen artificial world where humans slowly transform into crystalline automata, and a few fight to hold onto their humanity."
 amazonASIN: "1945054581"
-publishedAt: "2026-04-26"
+publishedAt: "2025-03-05"
 tags:
   - "sci-fi"
   - "horror"

@@ -17,7 +17,7 @@ contentWarnings: ["otaku culture references", "married couple comedy", "mild adu
 description: "Yu's review of I Can't Understand What My Husband Is Saying — Kaoru is a normal woman who drinks too much and has a job; she is married to Hajime, who is a dedicated otaku who communicates primarily through anime and manga references; their marriage is functional and happy despite the communication gap."
 coverImage: "/covers/i-cant-understand-husband.jpg"
 amazonASIN: "1626920478"
-publishedAt: "2026-05-06"
+publishedAt: "2026-01-11"
 tags: ["comedy", "slice-of-life", "married-couple", "otaku-culture", "completed", "teen", "seven-seas", "4koma"]
 rating: 4
 hasAffiliate: true

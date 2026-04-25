@@ -17,7 +17,7 @@ contentWarnings: ["gender subversion romance", "mature romantic content", "gang-
 description: "Yu's review of Ai Ore! — Akira is beautiful, delicate, and fronts a band; he looks like the kind of boy that girls write songs about. Mizuki is tall, fierce, and runs the student delinquent population at her school. Their relationship inverts the conventional romance dynamic in ways the series is entirely aware of."
 coverImage: "/covers/ai-ore.jpg"
 amazonASIN: "142153892X"
-publishedAt: "2026-05-06"
+publishedAt: "2025-05-13"
 tags: ["romance", "comedy", "gender-subversion", "completed", "mature", "viz-media", "school", "band"]
 rating: 3
 hasAffiliate: true

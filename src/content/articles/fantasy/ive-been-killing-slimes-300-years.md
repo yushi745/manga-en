@@ -17,7 +17,7 @@ contentWarnings: ["isekai comedy", "very mild conflict", "slice-of-life fantasy"
 description: "Yu's review of I've Been Killing Slimes for 300 Years — Azusa Aizawa died from overwork and reincarnated in a fantasy world; she decided to live a slow, peaceful life killing only low-level slimes each day; after 300 years of this she hit the maximum level and is now accidentally the strongest person in the world."
 coverImage: "/covers/ive-been-killing-slimes-300-years.jpg"
 amazonASIN: "1975312376"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-28"
 tags: ["fantasy", "isekai", "comedy", "ongoing", "yen-press", "female-protagonist", "slow-life"]
 rating: 4
 hasAffiliate: true

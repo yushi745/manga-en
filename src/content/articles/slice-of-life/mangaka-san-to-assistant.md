@@ -17,7 +17,7 @@ contentWarnings: ["adult humor", "sexual references", "ecchi content", "workplac
 description: "Yu's review of Mangaka-san to Assistant-san — manga artist Aito Yuuki draws romance manga but has never had a girlfriend; his assistant Ashisu Sahoto helps him understand women so he can write them authentically, which leads to increasingly absurd 'research' situations."
 coverImage: "/covers/mangaka-san-to-assistant.jpg"
 amazonASIN: "0316336068"
-publishedAt: "2026-04-24"
+publishedAt: "2026-01-25"
 tags: ["slice-of-life", "comedy", "seinen", "completed", "workplace", "manga-industry"]
 rating: 3
 hasAffiliate: true

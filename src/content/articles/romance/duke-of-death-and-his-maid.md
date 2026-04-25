@@ -17,7 +17,7 @@ contentWarnings: ["curse themes", "skin-contact restriction", "flirtatious conte
 description: "Yu's review of The Duke of Death and His Maid — the young Duke Caladbolg was cursed as a child: any living thing he touches dies; exiled to a manor and avoided by everyone, his only companion is Alice the maid, who delights in flirting with him as close to the edge of his curse as she can get."
 coverImage: "/covers/duke-of-death-and-his-maid.jpg"
 amazonASIN: "1638581873"
-publishedAt: "2026-04-30"
+publishedAt: "2025-06-08"
 tags: ["romance", "comedy", "supernatural", "completed", "teen", "seven-seas", "shonen"]
 rating: 4
 hasAffiliate: true

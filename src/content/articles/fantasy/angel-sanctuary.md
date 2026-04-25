@@ -17,7 +17,7 @@ contentWarnings: ["incest themes (main pairing is siblings)", "religious themes 
 description: "Yu's review of Angel Sanctuary — Setsuna Mudou is a troubled high school student in love with his sister Sara; he is also the reincarnation of Alexiel, the most powerful angel who was sealed for rebelling against God; when his angel nature awakens, he is drawn into the war between Heaven and the rebel angels that his original self began."
 coverImage: "/covers/angel-sanctuary.jpg"
 amazonASIN: "1591160685"
-publishedAt: "2026-05-08"
+publishedAt: "2024-11-17"
 tags: ["fantasy", "romance", "completed", "mature", "viz-media", "angel", "gothic", "kaori-yuki"]
 rating: 4
 hasAffiliate: true

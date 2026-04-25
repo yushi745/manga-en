@@ -17,7 +17,7 @@ contentWarnings: ["intense battle sequences", "mythological violence", "classic 
 description: "Yu's review of Saint Seiya — five Bronze Saints in legendary constellation armor fight to protect the reincarnated goddess Athena from divine enemies; Seiya and his companions push past human limits with their Cosmo energy in battles that defined 1980s action manga."
 coverImage: "/covers/saint-seiya.jpg"
 amazonASIN: "1591163005"
-publishedAt: "2026-05-05"
+publishedAt: "2024-10-15"
 tags: ["action", "fantasy", "classic", "completed", "teen", "viz-media", "shonen-jump", "80s", "mythology"]
 rating: 4
 hasAffiliate: true

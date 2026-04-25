@@ -17,7 +17,7 @@ contentWarnings: ["yuri (girls' love) romance", "slow emotional development", "t
 description: "Yu's review of Adachi and Shimamura — Adachi and Shimamura meet in a gym loft where both are skipping class; they spend time together without agenda; Adachi realizes she is in love; Shimamura does not process her own feelings for a long time; the manga is about the specific space between people who matter to each other before either acknowledges it."
 coverImage: "/covers/adachi-and-shimamura.jpg"
 amazonASIN: "1975320034"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-12"
 tags: ["romance", "yuri", "completed", "drama", "slow-burn", "Yen-Press"]
 rating: 4
 hasAffiliate: true

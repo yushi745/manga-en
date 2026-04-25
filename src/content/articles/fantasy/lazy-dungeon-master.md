@@ -17,7 +17,7 @@ contentWarnings: ["dungeon management comedy", "lazy protagonist", "isekai fanta
 description: "Yu's review of Lazy Dungeon Master — Keima Masuda values sleep above all things; he is accidentally reincarnated in a fantasy world and bonded to a dungeon core who needs him to manage their dungeon; he agrees to help only because it will allow him to sleep more, and approaches all dungeon management problems with the specific ingenuity of someone trying to minimize effort."
 coverImage: "/covers/lazy-dungeon-master.jpg"
 amazonASIN: "1718357079"
-publishedAt: "2026-05-06"
+publishedAt: "2025-01-04"
 tags: ["fantasy", "comedy", "dungeon", "isekai", "lazy-protagonist", "ongoing", "teen", "j-novel-club"]
 rating: 3
 hasAffiliate: true

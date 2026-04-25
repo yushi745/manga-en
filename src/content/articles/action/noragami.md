@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "supernatural horror elements", "themes of 
 description: "Yu's review of Noragami — a manga about a minor god with a broken phone number, one divine weapon, and a desperate wish to be remembered. Funny and warm early, genuinely affecting as it deepens. One of the most underrated supernatural manga running."
 coverImage: "/covers/noragami.jpg"
 amazonASIN: "B00PZMIKN8"
-publishedAt: "2026-04-23"
+publishedAt: "2024-09-30"
 tags: ["supernatural", "action", "comedy", "ongoing", "mythology", "gods"]
 rating: 4
 hasAffiliate: true

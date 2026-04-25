@@ -17,7 +17,7 @@ contentWarnings: ["gender-swap isekai", "fantasy combat", "magic sequences", "mi
 description: "Yu's review of She Professed Herself Pupil of the Wise Man — Sakimori Kagami was a top-ranked player in an MMORPG who played as the elderly sage Dunbalf; he falls asleep at his computer and wakes up inside the game as a young girl bearing a resemblance to a character he once customized as a test."
 coverImage: "/covers/she-professed-herself-pupil.jpg"
 amazonASIN: "1638582548"
-publishedAt: "2026-05-03"
+publishedAt: "2025-02-02"
 tags: ["fantasy", "action", "isekai", "gender-swap", "ongoing", "teen", "seven-seas", "mmorpg"]
 rating: 3
 hasAffiliate: true

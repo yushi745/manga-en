@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "death of multiple characters", "psychic v
 description: "Yu's review of DOMU — Over several years, residents of the Tsutsumi housing complex have been dying or going mad at an inexplicable rate; a detective investigating the deaths suspects something supernatural; an old man with psychic abilities has been killing residents for entertainment; when a young girl moves into the complex with her own abilities, a confrontation becomes inevitable."
 coverImage: "/covers/domu.jpg"
 amazonASIN: "1616559861"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-24"
 tags: ["sci-fi", "horror", "completed", "otomo", "psychic", "mature", "classic"]
 rating: 5
 hasAffiliate: true

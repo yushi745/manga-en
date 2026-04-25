@@ -17,7 +17,7 @@ contentWarnings: ["gambling addiction themes", "debt and poverty", "psychologica
 description: "Yu's review of Gambling Apocalypse Kaiji — Kaiji Itou is deep in debt with no prospects; a loan shark representative offers him a chance: board a ship with other debtors and play a card game; if he wins, his debt is cleared; if he loses, he works on a forced labor ship; this is the beginning of Kaiji's series of increasingly extreme gambling situations."
 coverImage: "/covers/kaiji.jpg"
 amazonASIN: "1634429303"
-publishedAt: "2026-05-20"
+publishedAt: "2026-01-18"
 tags: ["slice-of-life", "gambling", "thriller", "ongoing", "teen-plus", "denpa-books", "psychological", "debt"]
 rating: 5
 hasAffiliate: true

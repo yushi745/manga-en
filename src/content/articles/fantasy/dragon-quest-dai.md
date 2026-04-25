@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "themes of sacrifice", "battle deaths"]
 description: "Yu's review of Dragon Quest: The Adventure of Dai — a boy raised on a monster island who always dreamed of being a hero discovers he may be the descendant of a legendary warrior, and sets out to defeat the demon lord threatening the world."
 coverImage: "/covers/dragon-quest-dai.jpg"
 amazonASIN: "1974728935"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-06"
 tags: ["fantasy", "adventure", "shonen", "classic", "completed", "RPG"]
 rating: 5
 hasAffiliate: true

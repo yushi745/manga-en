@@ -17,7 +17,7 @@ contentWarnings: ["time skip with controversial content", "adult relationship wi
 description: "Yu's review of Bunny Drop — Daikichi discovers his late grandfather had an illegitimate young daughter, Rin; he adopts her on impulse and learns to parent while working full time; Yumi Unita's josei manga about the specific adjustments of unexpected parenthood, with a controversial time skip in later volumes."
 coverImage: "/covers/bunny-drop.jpg"
 amazonASIN: "0316180297"
-publishedAt: "2026-05-22"
+publishedAt: "2025-12-18"
 tags: ["slice-of-life", "drama", "completed", "teen-plus", "yen-press", "parenting", "family", "josei"]
 rating: 4
 hasAffiliate: true

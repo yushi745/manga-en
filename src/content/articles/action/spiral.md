@@ -17,7 +17,7 @@ contentWarnings: ["mystery violence", "philosophical thriller content", "death i
 description: "Yu's review of Spiral: Bonds of Reasoning — Ayumu Narumi's brother Kiyotaka, a genius detective, disappeared two years ago leaving only the words 'Blade Children'; Ayumu, a high school student with exceptional deductive ability, begins encountering the Blade Children — cursed individuals with exceptional abilities — and the mystery his brother left behind."
 coverImage: "/covers/spiral.jpg"
 amazonASIN: "0759514895"
-publishedAt: "2026-05-08"
+publishedAt: "2024-10-24"
 tags: ["action", "mystery", "thriller", "completed", "teen", "yen-press", "deductive", "philosophical"]
 rating: 4
 hasAffiliate: true

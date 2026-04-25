@@ -17,7 +17,7 @@ contentWarnings: ["psychological elements", "school violence", "mystery thriller
 description: "Yu's review of Arisa — Tsubasa and Arisa are twins who haven't seen each other for three years; when they switch lives for a day, Arisa attempts suicide; Tsubasa takes Arisa's place at school to uncover what happened; Natsumi Ando's mystery-thriller shojo about a seemingly perfect class with a dark secret."
 coverImage: "/covers/arisa.jpg"
 amazonASIN: "1612620078"
-publishedAt: "2026-05-27"
+publishedAt: "2025-05-17"
 tags: ["romance", "mystery", "thriller", "completed", "teen-plus", "kodansha", "twin-switch", "psychological"]
 rating: 4
 hasAffiliate: true

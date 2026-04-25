@@ -17,7 +17,7 @@ contentWarnings: ["fan service", "adult humor", "mild sexual comedy"]
 description: "Yu's review of Uzaki-chan Wants to Hang Out! — Hana Uzaki decides that her college senpai Shinichi Sakurai is too much of a loner and takes it upon herself to insert herself into his life constantly; Sakurai wants to be left alone; the series follows their evolving relationship from workplace annoyance through something neither of them initially wanted to admit."
 coverImage: "/covers/uzaki-chan-wants-to-hang-out.jpg"
 amazonASIN: "1645058603"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-02"
 tags: ["slice-of-life", "romance", "completed", "teen-plus", "seven-seas", "college-life"]
 rating: 4
 hasAffiliate: true

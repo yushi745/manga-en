@@ -17,7 +17,7 @@ contentWarnings: ["graphic death", "horror violence", "mystery around death", "c
 description: "Yu's review of Another — a transfer student arrives at a middle school and discovers that his class has been dealing with a curse for decades: an extra student appears every year, and people connected to the class die."
 coverImage: "/covers/another.jpg"
 amazonASIN: "0316245917"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-05"
 tags: ["horror", "mystery", "school", "completed", "curse"]
 rating: 4
 hasAffiliate: true

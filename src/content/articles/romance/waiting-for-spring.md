@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "school drama"]
 description: "Yu's review of Waiting for Spring — shy, socially withdrawn Mizuki Haruno becomes friends with the school's popular basketball players after a chance meeting; she falls for one of them while another falls for her, and managing friendships and feelings in high school is harder than she expected."
 coverImage: "/covers/waiting-for-spring.jpg"
 amazonASIN: "1632364395"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-20"
 tags: ["romance", "sports", "shoujo", "completed", "basketball", "school-life"]
 rating: 3
 hasAffiliate: true

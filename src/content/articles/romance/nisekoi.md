@@ -17,7 +17,7 @@ contentWarnings: ["mild violence (yakuza comedy)", "harem romance content"]
 description: "Yu's review of Nisekoi — Raku Ichijo's yakuza family and Chitoge Kirisaki's gang-boss family form a truce that requires Raku and Chitoge to fake a relationship; they hate each other; there is also a locket with a promise from childhood that connects to multiple girls; the comedy of the situation is the series."
 coverImage: "/covers/nisekoi.jpg"
 amazonASIN: "1421556723"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-06"
 tags: ["romance", "shonen", "completed", "harem", "comedy", "VIZ"]
 rating: 4
 hasAffiliate: true

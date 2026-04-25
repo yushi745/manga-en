@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "child mistreatment in backstory", "s
 description: "Yu's review of Kemono Jihen — Kabane is a half-Kemono (supernatural monster-human) boy who was mistreated by his relatives; he is discovered by Kohachi Inugami, who runs a Tokyo detective agency investigating supernatural Kemono cases; Kabane joins and learns what he is."
 coverImage: "/covers/kemono-jihen.jpg"
 amazonASIN: "1638585393"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-14"
 tags: ["action", "shonen", "ongoing", "yokai", "supernatural", "found-family"]
 rating: 4
 hasAffiliate: true

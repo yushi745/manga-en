@@ -17,7 +17,7 @@ contentWarnings: ["curse and death deadline", "supernatural romance", "spirit ex
 description: "Yu's review of Rasetsu — Rasetsu Hyō works at a spirit consultation agency after being cursed by a powerful demon at age 15: unless she finds true love before her 20th birthday, the demon will claim her; she is 18 when the series begins; the countdown creates the tension that structures the supernatural romance."
 coverImage: "/covers/rasetsu.jpg"
 amazonASIN: "1421524767"
-publishedAt: "2026-05-09"
+publishedAt: "2025-08-18"
 tags: ["romance", "supernatural", "completed", "teen", "viz-media", "curse", "exorcism", "countdown"]
 rating: 3
 hasAffiliate: true

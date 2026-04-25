@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "horror elements in some arcs", "disc
 description: "Yu's review of In/Spectre — Kotoko Iwanaga gave an eye and a leg to the youkai of her village when she was a child; in exchange, she became their Goddess of Wisdom, mediating disputes and solving the problems of the spirit world; she enlists the help of Kurou Sakuragawa, a man with a strange relationship to death, and together they maintain peace between humans and spirits."
 coverImage: "/covers/in-spectre.jpg"
 amazonASIN: "1632364379"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-23"
 tags: ["fantasy", "mystery", "ongoing", "supernatural", "youkai", "mystery", "romance"]
 rating: 4
 hasAffiliate: true

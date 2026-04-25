@@ -17,7 +17,7 @@ contentWarnings: ["violence", "body horror elements", "war themes", "darker them
 description: "Yu's review of Levius/est — the sequel to Levius; Levius Cromwell continues competing in Mechanical Martial Arts as the sport's underground and political dimensions become unavoidable; Nakata expands the world-building and deepens the character work while maintaining the exceptional European-influenced art style."
 coverImage: "/covers/levius-est.jpg"
 amazonASIN: "1421598213"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-07"
 tags: ["sports", "action", "steampunk", "completed", "teen", "viz-media", "sequel"]
 rating: 4
 hasAffiliate: true

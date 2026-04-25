@@ -17,7 +17,7 @@ contentWarnings: ["isekai setting", "spider monster protagonist", "action violen
 description: "Yu's review of So I'm a Spider, So What? — a Japanese high school class is killed and reincarnated in a fantasy world; the protagonist becomes the weakest type of spider monster in the deepest dungeon level and must use her gamer instincts to survive; Okina Baba's isekai light novel manga adaptation."
 coverImage: "/covers/kumo-desu-ga.jpg"
 amazonASIN: "0316412821"
-publishedAt: "2026-05-23"
+publishedAt: "2025-01-03"
 tags: ["fantasy", "isekai", "action", "ongoing", "teen", "yen-press", "spider", "dungeon-survival"]
 rating: 4
 hasAffiliate: true

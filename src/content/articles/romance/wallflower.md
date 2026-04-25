@@ -16,7 +16,7 @@ contentWarnings: ["horror imagery (comedic)", "dark comedy", "gothic obsessions"
 description: "Yu's review of The Wallflower — four outrageously handsome boys agree to turn their landlady's niece Sunako into a proper lady in exchange for free rent; Sunako is a horror-obsessed, light-phobic, anatomy-model-collecting girl who has no intention of changing, and the series is about what happens when they all stop trying."
 coverImage: "/covers/wallflower.jpg"
 amazonASIN: "0345481577"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-21"
 tags: ["romance", "comedy", "shoujo", "completed", "reverse-harem", "gothic"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["monster horror", "body horror", "survival horror", "death", "
 description: "Yu's review of King of Thorn — 160 people with a terminal virus are cryogenically frozen in a castle; they wake up to find the castle overgrown with massive thorns and filled with monsters; the six survivors who wake must escape while uncovering what happened during the time they were unconscious."
 coverImage: "/covers/king-of-thorn.jpg"
 amazonASIN: "1598163523"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-04"
 tags: ["horror", "sci-fi", "survival", "completed", "mature", "tokyopop", "mystery"]
 rating: 4
 hasAffiliate: true

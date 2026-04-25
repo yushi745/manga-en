@@ -17,7 +17,7 @@ contentWarnings: ["blood drinking", "gothic horror themes", "self-harm adjacent"
 description: "Yu's review of Lament of the Lamb — Kazuna Takashiro discovers he has inherited his family's vampiric curse: an overwhelming thirst for blood; when he finds his estranged sister Chizuna, who has been living with the curse alone, the series becomes a gothic study of two people trying not to become what they are."
 coverImage: "/covers/lament-of-the-lamb.jpg"
 amazonASIN: "1591822823"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-07"
 tags: ["horror", "gothic", "completed", "teen-plus", "tokyopop", "vampire", "psychological"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "angel and vampire mythology", "betra
 description: "Yu's review of Bloody Cross — Tsukimiya is a half-blood angel/vampire cursed because of her mixed heritage; Hinata is a full-blooded angel after the same divine inheritance she seeks; they form a mutually exploitative partnership to collect God's Books that grant divine power, neither trusting the other but both needing what the other can provide."
 coverImage: "/covers/bloody-cross.jpg"
 amazonASIN: "0316335797"
-publishedAt: "2026-05-07"
+publishedAt: "2024-11-23"
 tags: ["fantasy", "action", "supernatural", "completed", "teen", "yen-press", "angel", "vampire"]
 rating: 3
 hasAffiliate: true

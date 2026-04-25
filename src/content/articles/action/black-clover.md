@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "intense combat"]
 description: "Yu's review of Black Clover — in a world where everyone has magic, Asta was born with none. He compensates with a five-leaf clover grimoire, anti-magic swords, and a volume of enthusiasm that is physically painful to be near."
 coverImage: "/covers/black-clover.jpg"
 amazonASIN: "1421587181"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-02"
 tags: ["action", "fantasy", "shonen", "magic", "ongoing"]
 rating: 4
 hasAffiliate: true

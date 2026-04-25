@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "body horror elements", "scientific experim
 description: "Yu's review of ARMS — four teenagers discover that nanomachine weapons technology called ARMS has been grafted into their bodies without their knowledge; they have superhuman abilities but no control; the technology originated with a secret organization called Egrigori; they must fight to survive, understand what they are, and resist an organization that created them."
 coverImage: "/covers/arms.jpg"
 amazonASIN: "1569317313"
-publishedAt: "2026-04-25"
+publishedAt: "2024-07-23"
 tags: ["action", "sci-fi", "completed", "viz", "nanomachines", "shonen"]
 rating: 4
 hasAffiliate: true

@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Slow Loop — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/slow-loop.jpg"
 amazonASIN: "1975348036"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-19"
 tags:
   - "slice-of-life"
   - "sports"

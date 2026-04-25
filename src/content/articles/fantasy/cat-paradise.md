@@ -17,7 +17,7 @@ contentWarnings: ["supernatural action", "cat spirit powers", "school setting", 
 description: "Yu's review of Cat Paradise — Yumi Hayakawa transfers to Matabi Academy because students can keep their cats on campus; her cat Kansuke is not an ordinary cat — when demons appear, the school's cat-and-owner pairs activate supernatural powers to defend against them."
 coverImage: "/covers/cat-paradise.jpg"
 amazonASIN: "0759530599"
-publishedAt: "2026-05-17"
+publishedAt: "2024-11-27"
 tags: ["fantasy", "action", "completed", "teen", "yen-press", "cats", "supernatural", "school"]
 rating: 3
 hasAffiliate: true

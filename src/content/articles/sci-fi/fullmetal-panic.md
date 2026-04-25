@@ -17,7 +17,7 @@ contentWarnings: ["military themes", "mecha combat", "comedy violence", "weapons
 description: "Yu's review of Full Metal Panic! — Sōsuke Sagara, a teenage military specialist from a private military organization, is assigned to protect high school girl Kaname Chidori who doesn't know why she needs protection; he attends her school undercover, treats every situation as a military operation, and creates chaos wherever he goes; military action comedy with genuine mecha sequences."
 coverImage: "/covers/fullmetal-panic.jpg"
 amazonASIN: "1593070489"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-28"
 tags: ["sci-fi", "comedy", "action", "mecha", "completed", "teen-plus", "seven-seas", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

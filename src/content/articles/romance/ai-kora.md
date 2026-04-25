@@ -17,7 +17,7 @@ contentWarnings: ["harem comedy", "physical attraction comedy", "school dormitor
 description: "Yu's review of Ai Kora — Hachibe Maeda has an impossibly specific physical ideal made up of distinct features: one girl's eyes, another's voice, another's legs, another's figure; when he moves to Tokyo for high school and finds himself in a co-ed dormitory, he discovers that all his ideal components exist — in four different girls."
 coverImage: "/covers/ai-kora.jpg"
 amazonASIN: "1421519704"
-publishedAt: "2026-05-09"
+publishedAt: "2025-05-12"
 tags: ["romance", "comedy", "harem", "completed", "teen", "viz-media", "dormitory", "school"]
 rating: 3
 hasAffiliate: true

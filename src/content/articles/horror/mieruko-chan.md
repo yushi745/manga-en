@@ -17,7 +17,7 @@ contentWarnings: ["horror imagery (spirits are genuinely disturbing)", "fan serv
 description: "Yu's review of Mieruko-chan — Miko Yotsuya woke up one day able to see grotesque spirits; her strategy for survival is to ignore them completely and pretend she cannot see them, while navigating high school and increasingly complicated supernatural situations."
 coverImage: "/covers/mieruko-chan.jpg"
 amazonASIN: "1975323026"
-publishedAt: "2026-04-24"
+publishedAt: "2025-04-13"
 tags: ["horror", "comedy", "slice-of-life", "ongoing"]
 rating: 4
 hasAffiliate: true

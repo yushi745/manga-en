@@ -17,7 +17,7 @@ contentWarnings: ["parody of Lovecraftian mythology", "comedic violence", "mild 
 description: "Yu's review of Nyaruko: Crawling With Love — Nyarlathotep, the Crawling Chaos of Lovecraftian mythology, has manifested as a cheerful silver-haired girl to protect high school student Mahiro from alien threats; Aisora and Koin's parody comedy that turns cosmic horror into harem slice-of-life."
 coverImage: "/covers/haiyore-nyaruko.jpg"
 amazonASIN: "1626922942"
-publishedAt: "2026-05-23"
+publishedAt: "2026-01-04"
 tags: ["slice-of-life", "comedy", "completed", "teen-plus", "seven-seas", "parody", "lovecraft", "harem"]
 rating: 3
 hasAffiliate: true

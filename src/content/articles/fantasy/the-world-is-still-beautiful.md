@@ -17,7 +17,7 @@ contentWarnings: ["age-gap romance", "mild political violence", "arranged marria
 description: "Yu's review of The World Is Still Beautiful — Nike, the youngest princess of the Rain Dukedom, travels to the Sun Kingdom to fulfill her political marriage contract with Livius, the boy-king who conquered the world, and finds something neither of them expected."
 coverImage: "/covers/the-world-is-still-beautiful.jpg"
 amazonASIN: "1421568411"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-13"
 tags: ["fantasy", "romance", "shojo", "completed", "political-fantasy"]
 rating: 4
 hasAffiliate: true

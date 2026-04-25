@@ -17,7 +17,7 @@ contentWarnings: ["reincarnation in fantasy world", "light novel adaptation", "v
 description: "Yu's review of Accomplishments of the Duke of Magics — a woman reincarnates as Perfectia, the villainess of a romance game, and decides not to avoid her fate but to maximize her enjoyment of the fantasy world's food, crafts, and magic; Rena Kuroda's manga adaptation of the villainess-isekai light novel focused on daily life over romantic conflict."
 coverImage: "/covers/accomplishments-of-duke.jpg"
 amazonASIN: "1975337131"
-publishedAt: "2026-05-24"
+publishedAt: "2024-11-15"
 tags: ["fantasy", "isekai", "ongoing", "teen", "yen-press", "villainess", "daily-life", "food"]
 rating: 4
 hasAffiliate: true

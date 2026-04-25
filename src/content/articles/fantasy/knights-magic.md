@@ -17,7 +17,7 @@ contentWarnings: ["isekai reincarnation", "mecha fantasy", "combat violence", "e
 description: "Yu's review of Knights & Magic — a Japanese engineer and mecha otaku dies and is reincarnated into a fantasy world where giant robots called Silhouette Knights exist; his engineering knowledge and intense passion for mecha design drive him to redesign these machines from first principles."
 coverImage: "/covers/knights-magic.jpg"
 amazonASIN: "0316484695"
-publishedAt: "2026-05-16"
+publishedAt: "2025-01-01"
 tags: ["fantasy", "isekai", "ongoing", "teen", "yen-press", "mecha", "reincarnation", "engineering"]
 rating: 4
 hasAffiliate: true

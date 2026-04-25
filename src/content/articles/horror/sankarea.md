@@ -17,7 +17,7 @@ contentWarnings: ["zombie themes", "death", "family abuse themes", "romantic rel
 description: "Yu's review of Sankarea: Undying Love — Chihiro Furuya is obsessed with zombies and wishes his girlfriend would be a zombie; Rea Sanka is a beautiful rich girl with an abusive father who wants to die rather than continue living; when Chihiro experiments with a resurrection potion, Rea drinks it and actually dies and comes back; the zombie romance that asks what it means to stay with someone after everything changes."
 coverImage: "/covers/sankarea.jpg"
 amazonASIN: "0345543556"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-26"
 tags: ["horror", "romance", "completed", "teen", "kodansha", "zombie"]
 rating: 4
 hasAffiliate: true

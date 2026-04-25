@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "dungeon adventure", "some fanservice", "l
 description: "Yu's review of Is It Wrong to Try to Pick Up Girls in a Dungeon? — Bell Cranel, the youngest member of a tiny goddess's familia, wants to become a great adventurer partly to impress girls; he is saved by the swordgirl Aiz Wallenstein and his ability grows rapidly through his feelings; a fantasy RPG-world manga about growth, heroism, and what it means to be the weakest person in the dungeon."
 coverImage: "/covers/is-it-wrong-pick-up-girls.jpg"
 amazonASIN: "0316340065"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-26"
 tags: ["fantasy", "adventure", "isekai-adjacent", "completed", "teen-plus", "yen-press", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

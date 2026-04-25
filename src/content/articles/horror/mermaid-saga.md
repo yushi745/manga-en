@@ -17,7 +17,7 @@ contentWarnings: ["violence", "body horror", "immortality horror", "character de
 description: "Yu's review of Mermaid Saga — Yuta ate mermaid flesh 500 years ago and became immortal; now he searches for a way to die; each arc is a horror story about what immortality actually looks like when the people around you keep dying and the mermaid flesh keeps producing monsters; Rumiko Takahashi's horror masterwork."
 coverImage: "/covers/mermaid-saga.jpg"
 amazonASIN: "1591165423"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-13"
 tags: ["horror", "action", "completed", "teen-plus", "viz", "immortality", "rumiko-takahashi"]
 rating: 5
 hasAffiliate: true

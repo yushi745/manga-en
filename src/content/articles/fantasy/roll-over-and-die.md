@@ -17,7 +17,7 @@ contentWarnings: ["dark fantasy violence", "trauma and recovery themes", "yuri r
 description: "Yu's review of Roll Over and Die — Flum Apricot is the only member of her party without a special ability; her party abandons her to die in a dungeon; she survives through a cursed sword that works by inflicting permanent injuries on her and by using the Reversal ability that turns her weakness into something else entirely."
 coverImage: "/covers/roll-over-and-die.jpg"
 amazonASIN: "1648279244"
-publishedAt: "2026-05-06"
+publishedAt: "2025-01-29"
 tags: ["fantasy", "action", "dark", "yuri", "completed", "mature", "seven-seas", "isekai-adjacent", "cursed-weapon"]
 rating: 4
 hasAffiliate: true

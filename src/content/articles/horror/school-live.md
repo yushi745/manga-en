@@ -17,7 +17,7 @@ contentWarnings: ["zombie horror", "psychological horror", "grief", "trauma", "l
 description: "Yu's review of School-Live! — Yuki Takeya is a cheerful high school girl who loves her school and her friends in the School Living Club; the reality of their situation becomes clear in the first chapter and changes everything about how the series reads from that point forward; zombie horror structured as moe with psychological horror as its primary instrument."
 coverImage: "/covers/school-live.jpg"
 amazonASIN: "0316345121"
-publishedAt: "2026-04-25"
+publishedAt: "2025-04-27"
 tags: ["horror", "zombie", "psychological", "completed", "teen", "yen-press", "moe-horror"]
 rating: 5
 hasAffiliate: true

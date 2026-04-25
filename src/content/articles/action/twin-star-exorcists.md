@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "disturbing monster imagery", "trauma
 description: "Yu's review of Twin Star Exorcists — Rokuro Enmado abandoned being an exorcist after a catastrophe that killed his friends; Benio Adashino is a dedicated exorcist from Kyoto determined to surpass her own limits; they are declared the Twin Star Exorcists, prophesied to give birth to the Miko who will destroy all Kegare; they must work together despite Rokuro's refusal to accept the prophecy."
 coverImage: "/covers/twin-star-exorcists.jpg"
 amazonASIN: "1421581809"
-publishedAt: "2026-04-25"
+publishedAt: "2024-11-06"
 tags: ["action", "supernatural", "exorcist", "shonen", "completed", "viz", "romance"]
 rating: 4
 hasAffiliate: true

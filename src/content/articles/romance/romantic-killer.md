@@ -17,7 +17,7 @@ contentWarnings: ["genre deconstruction", "reverse isekai premise", "meta romanc
 description: "Yu's review of Romantic Killer — Anzu Hoshino wants games, her cat, and chocolate; a wizard named Riri strips these from her and gives her an otome-game reality where handsome men are introduced into her life; she has no interest in any of them, which the series plays as comedy while developing genuine romantic content through Anzu's resistance."
 coverImage: "/covers/romantic-killer.jpg"
 amazonASIN: "1974740099"
-publishedAt: "2026-05-09"
+publishedAt: "2025-08-20"
 tags: ["romance", "comedy", "completed", "teen", "viz-media", "meta", "deconstruction", "short"]
 rating: 4
 hasAffiliate: true

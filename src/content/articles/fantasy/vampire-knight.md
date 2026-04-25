@@ -17,7 +17,7 @@ contentWarnings: ["vampire violence", "blood", "dark romance themes", "family tr
 description: "Yu's review of Vampire Knight — Cross Academy has a Day Class of humans and a Night Class of vampires; Yuki Cross, who guards the secret, was rescued from a vampire attack as a child by Kaname Kuran, a pureblood who she has idolized since."
 coverImage: "/covers/vampire-knight.jpg"
 amazonASIN: "1421513722"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-19"
 tags: ["fantasy", "romance", "shojo", "vampire", "completed", "gothic"]
 rating: 4
 hasAffiliate: true

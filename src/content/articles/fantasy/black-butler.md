@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "dark themes", "themes of death and reveng
 description: "Yu's review of Black Butler — a twelve-year-old earl serves as the Queen of England's secret watchdog, with a demon butler who is absolutely perfect at his job and will eventually devour his master's soul."
 coverImage: "/covers/black-butler.jpg"
 amazonASIN: "0316084298"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-23"
 tags: ["fantasy", "mystery", "gothic", "ongoing", "historical"]
 rating: 4
 hasAffiliate: true

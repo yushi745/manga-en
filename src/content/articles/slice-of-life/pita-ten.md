@@ -17,7 +17,7 @@ contentWarnings: ["supernatural comedy", "angel and demon elements", "bitterswee
 description: "Yu's review of Pita-Ten — Kotaro Higuchi, a quiet boy trying to live simply after his mother's death, finds Misha next door — an angel-in-training of incandescent cheerfulness who has decided to make him happy; also involved is Shia, a polite demon who cannot quite bring herself to be evil."
 coverImage: "/covers/pita-ten.jpg"
 amazonASIN: "1591826756"
-publishedAt: "2026-05-08"
+publishedAt: "2026-02-10"
 tags: ["slice-of-life", "supernatural", "comedy", "completed", "all-ages", "tokyopop", "angel", "koge-donbo"]
 rating: 3
 hasAffiliate: true

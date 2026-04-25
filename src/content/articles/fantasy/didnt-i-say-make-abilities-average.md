@@ -17,7 +17,7 @@ contentWarnings: ["isekai comedy violence", "some battle content", "mild fan ser
 description: "Yu's review of Didn't I Say to Make My Abilities Average? — Misato Kurihara died and was reincarnated as Adele von Ascham after being granted one wish; she asked for average abilities so she could live a normal, unremarkable life; she received abilities averaged between the weakest creature alive and the most powerful — making her incomprehensibly strong; she tries to hide this and live quietly."
 coverImage: "/covers/didnt-i-say-make-abilities-average.jpg"
 amazonASIN: "1626929440"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-04"
 tags: ["fantasy", "isekai", "comedy", "ongoing", "seven-seas", "female-protagonist"]
 rating: 4
 hasAffiliate: true

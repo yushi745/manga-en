@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "comedic situations"]
 description: "Yu's review of High School Debut — a sporty, enthusiastic girl who has never had a boyfriend asks the school's most popular and romantically experienced boy to coach her on how to get a boyfriend, but he falls for her instead."
 coverImage: "/covers/high-school-debut.jpg"
 amazonASIN: "1421514818"
-publishedAt: "2026-04-24"
+publishedAt: "2025-06-27"
 tags: ["romance", "comedy", "shojo", "school", "completed"]
 rating: 4
 hasAffiliate: true

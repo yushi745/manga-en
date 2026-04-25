@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "mild fanservice", "dungeon combat"]
 description: "Yu's review of DanMachi — a rookie adventurer in a city built around a massive dungeon dreams of becoming a hero worthy of the girl who saved him, while belonging to the smallest and least prestigious divine familia in the city."
 coverImage: "/covers/danmachi.jpg"
 amazonASIN: "0316340146"
-publishedAt: "2026-04-24"
+publishedAt: "2024-11-30"
 tags: ["fantasy", "adventure", "isekai-adjacent", "ongoing", "dungeon"]
 rating: 4
 hasAffiliate: true

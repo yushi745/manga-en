@@ -17,7 +17,7 @@ contentWarnings: ["psychological manipulation", "debt pressure", "trust themes",
 description: "Yu's review of Tomodachi Game — Yuichi and his four close friends suddenly find themselves participating in the 'Tomodachi Game,' a debt-resolution game run by a mysterious organization; one of them enrolled everyone to pay off a debt, and the games are specifically designed to strain and destroy friendships."
 coverImage: "/covers/tomodachi-game.jpg"
 amazonASIN: "1646518875"
-publishedAt: "2026-04-30"
+publishedAt: "2024-11-03"
 tags: ["action", "psychological", "game", "ongoing", "teen", "kodansha", "shonen", "thriller"]
 rating: 4
 hasAffiliate: true

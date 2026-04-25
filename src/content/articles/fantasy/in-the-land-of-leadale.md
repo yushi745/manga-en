@@ -17,7 +17,7 @@ contentWarnings: ["isekai themes", "disability backstory", "found family", "ligh
 description: "Yu's review of In the Land of Leadale — Cayna, bedridden in reality due to illness and connected to a VR game as her only escape, wakes up inside Leadale 200 years after the game's timeline; her game-created children have grown into full people, and she must navigate a world that has changed around her in-game self."
 coverImage: "/covers/in-the-land-of-leadale.jpg"
 amazonASIN: "1975324471"
-publishedAt: "2026-04-30"
+publishedAt: "2024-12-24"
 tags: ["fantasy", "isekai", "slice-of-life", "ongoing", "teen", "yen-press", "found-family"]
 rating: 3
 hasAffiliate: true

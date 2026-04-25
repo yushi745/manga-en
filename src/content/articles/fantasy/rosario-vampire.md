@@ -17,7 +17,7 @@ contentWarnings: ["fanservice", "monster violence", "adult humor", "harem elemen
 description: "Yu's review of Rosario + Vampire — Tsukune Aono accidentally enrolls in Yokai Academy, a school for monsters, where he meets Moka Akashiya, a vampire who wears a rosario that suppresses her true power; a monster school harem manga with genuine comedy and escalating supernatural action."
 coverImage: "/covers/rosario-vampire.jpg"
 amazonASIN: "1421519038"
-publishedAt: "2026-04-25"
+publishedAt: "2025-01-29"
 tags: ["fantasy", "romance", "completed", "teen-plus", "viz", "monsters", "school", "harem"]
 rating: 3
 hasAffiliate: true

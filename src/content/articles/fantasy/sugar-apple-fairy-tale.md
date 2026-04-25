@@ -17,7 +17,7 @@ contentWarnings: ["fantasy world", "human-fairy power dynamics", "mild violence"
 description: "Yu's review of Sugar Apple Fairy Tale — Anne Halford is training to become a Silver Sugar Master, the highest rank of candy crafter in a world where fairies are bought and sold as bodyguards; she purchases Challe, a proud and resentful one-winged fairy, to protect her on the dangerous road to the royal capital."
 coverImage: "/covers/sugar-apple-fairy-tale.jpg"
 amazonASIN: "1646092244"
-publishedAt: "2026-05-15"
+publishedAt: "2025-02-07"
 tags: ["fantasy", "romance", "completed", "teen", "square-enix", "fairy", "candy-crafting", "slow-burn"]
 rating: 4
 hasAffiliate: true

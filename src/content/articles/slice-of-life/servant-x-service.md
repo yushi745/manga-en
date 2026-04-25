@@ -17,7 +17,7 @@ contentWarnings: ["workplace comedy", "mild romantic content", "eccentric charac
 description: "Yu's review of Servant x Service — Lucy, Yutaka, and Saya are new civil servants at a municipal welfare office; Lucy joined the civil service specifically to find and punish the bureaucrat who approved her absurdly long birth name; what follows is workplace comedy about government office life and the people who work there."
 coverImage: "/covers/servant-x-service.jpg"
 amazonASIN: "0316322792"
-publishedAt: "2026-04-24"
+publishedAt: "2026-02-17"
 tags: ["slice-of-life", "comedy", "completed", "workplace", "government"]
 rating: 4
 hasAffiliate: true

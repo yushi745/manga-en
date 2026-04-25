@@ -19,7 +19,7 @@ contentWarnings:
   - "supernatural powers"
 description: "Yu's review of Darker Than Black — in a world where individuals called Contractors gain supernatural abilities at the cost of their emotions, a mysterious agent known as BK-201 navigates corporate espionage and geopolitical conflict."
 amazonASIN: "1595823247"
-publishedAt: "2026-04-26"
+publishedAt: "2024-08-16"
 tags:
   - "action"
   - "sci-fi"

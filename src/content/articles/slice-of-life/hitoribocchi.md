@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Hitoribocchi no Marumaru Seikatsu — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/hitoribocchi.jpg"
 amazonASIN: "1975388038"
-publishedAt: "2026-04-25"
+publishedAt: "2026-01-10"
 tags:
   - "slice-of-life"
   - "comedy"

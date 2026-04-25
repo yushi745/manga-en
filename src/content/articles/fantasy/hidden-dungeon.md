@@ -17,7 +17,7 @@ contentWarnings: ["dungeon combat", "harem elements", "overpowered skills", "ecc
 description: "Yu's review of The Hidden Dungeon Only I Can Enter — Noir discovers a hidden dungeon accessible only to him; inside he finds a Great Sage who grants him the ability to create, edit, and bestow skills; but using these powers costs him Life Points, which can only be restored by experiencing pleasure."
 coverImage: "/covers/hidden-dungeon.jpg"
 amazonASIN: "1975341643"
-publishedAt: "2026-05-03"
+publishedAt: "2024-12-18"
 tags: ["fantasy", "action", "dungeon", "overpowered", "ongoing", "teen", "yen-press", "harem"]
 rating: 3
 hasAffiliate: true

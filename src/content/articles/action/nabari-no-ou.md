@@ -17,7 +17,7 @@ contentWarnings: ["violence", "death of characters", "manipulation", "emotional 
 description: "Yu's review of Nabari no Ou — apathetic middle schooler Rokujou Miharu hosts within him the Shinrabanshou — the ultimate power of the ninja world — that every faction of the hidden world wants to control; Rokujou doesn't care about any of this, which makes him the most dangerous person in every room."
 coverImage: "/covers/nabari-no-ou.jpg"
 amazonASIN: "0759528071"
-publishedAt: "2026-04-24"
+publishedAt: "2024-09-28"
 tags: ["action", "fantasy", "shonen", "completed", "ninja", "supernatural"]
 rating: 4
 hasAffiliate: true

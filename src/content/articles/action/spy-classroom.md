@@ -17,7 +17,7 @@ contentWarnings: ["spy action", "violence", "some suggestive content", "ensemble
 description: "Yu's review of Spy Classroom — Klaus, the world's greatest spy, assembles a team of failed spy trainees for an impossible mission; each girl has failed the standard spy program but has unusual potential; Takemachi's light novel adaptation about unconventional spies and their world-class handler."
 coverImage: "/covers/spy-classroom.jpg"
 amazonASIN: "1975338804"
-publishedAt: "2026-05-26"
+publishedAt: "2024-10-25"
 tags: ["action", "spy", "ongoing", "teen-plus", "yen-press", "ensemble", "light-novel-adaptation", "seinen"]
 rating: 4
 hasAffiliate: true

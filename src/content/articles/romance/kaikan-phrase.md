@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Kaikan Phrase — a high school girl who secretly writes poems gets discovered by the lead vocalist of Japan's hottest rock band, and is swept into a passionate and intense love story."
 coverImage: "/covers/kaikan-phrase.jpg"
 amazonASIN: "1435256050"
-publishedAt: "2026-04-26"
+publishedAt: "2025-07-06"
 tags:
   - "shojo"
   - "romance"

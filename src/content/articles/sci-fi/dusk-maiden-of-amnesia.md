@@ -17,7 +17,7 @@ contentWarnings: ["ghost/death themes", "horror elements", "romance with ghost c
 description: "Yu's review of Dusk Maiden of Amnesia — Yuuko is a ghost haunting the old building of Seikyou Academy, dead for over sixty years with no memory of how she died or who she was; Teiichi Niiya can see her; together they form a club to investigate the school's supernatural legends, each of which connects to Yuuko's own forgotten history."
 coverImage: "/covers/dusk-maiden-of-amnesia.jpg"
 amazonASIN: "0316254169"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-25"
 tags: ["sci-fi", "mystery", "completed", "teen", "yen-press", "supernatural", "romance"]
 rating: 4
 hasAffiliate: true

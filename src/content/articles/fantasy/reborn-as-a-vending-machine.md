@@ -17,7 +17,7 @@ contentWarnings: ["dungeon fantasy", "isekai reincarnation", "limited communicat
 description: "Yu's review of Reborn as a Vending Machine, I Now Wander the Dungeon — a vending machine enthusiast who dies in a vending machine accident is reborn as an actual vending machine in a dungeon-layered fantasy world; unable to speak except through vending machine phrases, he must survive, help those who find him, and slowly build a new life from the most absurd starting position in isekai fiction."
 coverImage: "/covers/reborn-as-a-vending-machine.jpg"
 amazonASIN: "1975360645"
-publishedAt: "2026-04-29"
+publishedAt: "2025-01-23"
 tags: ["fantasy", "isekai", "comedy", "completed", "teen", "yen-press", "dungeon"]
 rating: 4
 hasAffiliate: true

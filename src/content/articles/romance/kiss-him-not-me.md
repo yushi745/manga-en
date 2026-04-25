@@ -17,7 +17,7 @@ contentWarnings: ["BL (boys' love) references", "reverse harem situations", "mil
 description: "Yu's review of Kiss Him, Not Me! — Kae Serinuma is a passionate fujoshi who fantasizes about the boys around her dating each other; when she loses weight after a traumatic event, four boys suddenly notice her and want to date her; she wants them to fall in love with each other so she can watch."
 coverImage: "/covers/kiss-him-not-me.jpg"
 amazonASIN: "1632362643"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-12"
 tags: ["romance", "comedy", "completed", "reverse-harem", "fujoshi", "Kodansha"]
 rating: 4
 hasAffiliate: true

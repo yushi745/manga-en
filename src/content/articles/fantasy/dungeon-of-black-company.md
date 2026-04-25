@@ -17,7 +17,7 @@ contentWarnings: ["labor exploitation themes (satirical)", "comedy violence", "f
 description: "Yu's review of The Dungeon of Black Company — a lazy NEET who built an enormous passive income empire wakes up in another world and is immediately enslaved into a mining operation; rather than accepting his fate or becoming a hero, he applies his business sense and ruthless self-interest to climbing the corporate hierarchy of his exploiters and eventually turning the system against itself."
 coverImage: "/covers/dungeon-of-black-company.jpg"
 amazonASIN: "1638581657"
-publishedAt: "2026-04-26"
+publishedAt: "2024-12-08"
 tags: ["fantasy", "comedy", "isekai", "completed", "teen", "seven-seas", "satire", "capitalism"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["teacher-student tension (not romantic)", "ethics and philosop
 description: "Yu's review of From Now On We Begin Ethics — Takayanagi Ayumu is a high school ethics teacher who delivers textbook morality without personal investment; Skye is a half-Japanese transfer student who challenges him to engage honestly with the subjects he teaches; the relationship is academic and then something more complicated."
 coverImage: "/covers/from-now-on-we-begin-ethics.jpg"
 amazonASIN: "1646512707"
-publishedAt: "2026-05-04"
+publishedAt: "2025-06-14"
 tags: ["romance", "drama", "school", "philosophy", "completed", "teen", "kodansha", "teacher-student"]
 rating: 4
 hasAffiliate: true

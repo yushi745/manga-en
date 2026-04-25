@@ -17,7 +17,7 @@ contentWarnings: ["mild language", "mild suggestive content", "themes of family 
 description: "Yu's review of Kaguya-sama: Love Is War — 28 volumes about two geniuses who are in love but won't admit it. Funnier than it has any right to be, smarter than it looks, and one of the most satisfying romance arcs in manga history."
 coverImage: "/covers/kaguya-sama.jpg"
 amazonASIN: "1974700305"
-publishedAt: "2026-04-23"
+publishedAt: "2025-07-06"
 tags: ["romance", "comedy", "school", "completed", "psychological"]
 rating: 5
 hasAffiliate: true

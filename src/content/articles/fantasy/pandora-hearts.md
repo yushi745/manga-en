@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "dark themes", "psychological themes", "th
 description: "Yu's review of Pandora Hearts — a nobleman's son is cast into a prison dimension called the Abyss on his fifteenth birthday, returns with a powerful chain partner, and unravels a conspiracy that rewrote the history of his world."
 coverImage: "/covers/pandora-hearts.jpg"
 amazonASIN: "0316076074"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-19"
 tags: ["fantasy", "mystery", "dark", "completed", "psychological"]
 rating: 5
 hasAffiliate: true

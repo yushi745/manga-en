@@ -17,7 +17,7 @@ contentWarnings: ["teasing and light bullying", "romance", "fan service elements
 description: "Yu's review of Don't Toy With Me, Miss Nagatoro — Nagatoro is a first-year girl who discovers the art club room where a shy, isolated second-year boy (Senpai) retreats; she begins teasing him mercilessly, returns every day to do more of it, and it gradually becomes clear to everyone except possibly both of them that this is entirely how she expresses that she likes him."
 coverImage: "/covers/nagatoro.jpg"
 amazonASIN: "1645050297"
-publishedAt: "2026-04-30"
+publishedAt: "2025-08-04"
 tags: ["romance", "comedy", "teasing", "school", "ongoing", "teen", "kodansha", "seinen"]
 rating: 4
 hasAffiliate: true

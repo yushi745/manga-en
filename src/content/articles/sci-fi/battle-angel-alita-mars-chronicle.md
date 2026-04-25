@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "body horror", "trauma themes", "child abu
 description: "Yu's review of Battle Angel Alita: Mars Chronicle — the third series in Kishiro's Battle Angel saga returns to Mars to reveal what happened to young Yoko (Alita) before she ended up as a disembodied head in the Scrapyard; a brutal and emotionally devastating origin story that answers questions fans have carried for decades."
 coverImage: "/covers/battle-angel-alita-mars-chronicle.jpg"
 amazonASIN: "1632365987"
-publishedAt: "2026-04-27"
+publishedAt: "2025-10-11"
 tags: ["sci-fi", "action", "ongoing", "mature", "viz", "cyberpunk", "alita", "sequel", "origin"]
 rating: 4
 hasAffiliate: true

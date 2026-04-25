@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "injury"]
 description: "Yu's review of Baby Steps — Eiichiro Maruo is a straight-A student who takes perfect notes about everything; when he joins a tennis club, he applies the same systematic analysis to the sport and discovers that data and discipline can compete with natural talent."
 coverImage: "/covers/baby-steps.jpg"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-16"
 tags: ["sports", "shonen", "completed", "tennis", "academic"]
 rating: 4
 hasAffiliate: false

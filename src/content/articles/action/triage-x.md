@@ -21,7 +21,7 @@ contentWarnings:
 description: "Yu's review of Triage X — a covert medical organization using a 'black label' system targets criminals who are beyond the reach of law, using a team of beautiful assassins."
 coverImage: "/covers/triage-x.jpg"
 amazonASIN: "0316340251"
-publishedAt: "2026-04-26"
+publishedAt: "2024-11-04"
 tags:
   - "action"
   - "ecchi"

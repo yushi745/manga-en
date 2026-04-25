@@ -17,7 +17,7 @@ contentWarnings: ["vampire violence", "mature content", "gore", "political theme
 description: "Yu's review of Dance in the Vampire Bund — Mina Tepes, true queen of all vampires, announces the existence of vampires to the world and establishes the Bund, a vampire-controlled territory in Tokyo Bay; werewolf Akira Kagemori is her protector as she navigates the political and violent consequences of her declaration; political vampire manga with serious world-building."
 coverImage: "/covers/dance-vampire-bund.jpg"
 amazonASIN: "1934876747"
-publishedAt: "2026-04-25"
+publishedAt: "2025-03-12"
 tags: ["horror", "fantasy", "vampire", "completed", "mature", "seven-seas", "political", "supernatural"]
 rating: 4
 hasAffiliate: true

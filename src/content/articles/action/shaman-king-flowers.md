@@ -17,7 +17,7 @@ contentWarnings: ["shaman battles", "supernatural combat", "some violence", "seq
 description: "Yu's review of Shaman King: Flowers — Hana Asakura, son of Yoh and Anna, is the protagonist of this sequel set in 2020; the shaman world has changed but the fights continue; Hiroyuki Takei's continuation of the Shaman King world through the next generation."
 coverImage: "/covers/shaman-king-flowers.jpg"
 amazonASIN: "1632366460"
-publishedAt: "2026-05-25"
+publishedAt: "2024-10-20"
 tags: ["action", "fantasy", "supernatural", "completed", "teen", "kodansha", "shaman-king", "sequel"]
 rating: 3
 hasAffiliate: true

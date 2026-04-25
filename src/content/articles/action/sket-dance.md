@@ -17,7 +17,7 @@ contentWarnings: ["mild violence", "comedy", "some emotional backstory"]
 description: "Yu's review of SKET Dance — Bossun, Himeko, and Switch form the SKET-dan, a school club that helps anyone who asks with any problem; what starts as episodic comedy gradually reveals the serious backstories behind three students who understand what it means to need help."
 coverImage: "/covers/sket-dance.jpg"
 amazonASIN: "1421554445"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-22"
 tags: ["action", "comedy", "shonen", "completed", "school-life"]
 rating: 4
 hasAffiliate: true

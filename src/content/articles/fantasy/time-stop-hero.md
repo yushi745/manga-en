@@ -17,7 +17,7 @@ contentWarnings: ["time-stop ecchi content", "fantasy adventure", "adult humor",
 description: "Yu's review of Time Stop Hero — Sekai Kamino is summoned to another world and finds a watch that can stop time; rather than using it heroically, he uses it to look at things he shouldn't and avoid danger while pretending to be braver than he is; the comedy comes from his cowardly-but-oddly-effective approach and what the time-stop reveals about the world."
 coverImage: "/covers/time-stop-hero.jpg"
 amazonASIN: "1638585911"
-publishedAt: "2026-05-01"
+publishedAt: "2025-02-13"
 tags: ["fantasy", "isekai", "comedy", "completed", "mature", "seven-seas", "ecchi", "time-stop"]
 rating: 3
 hasAffiliate: true

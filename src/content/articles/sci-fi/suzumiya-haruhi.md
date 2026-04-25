@@ -17,7 +17,7 @@ contentWarnings: ["mild fan service", "sci-fi reality manipulation", "time trave
 description: "Yu's review of The Melancholy of Haruhi Suzumiya manga — Haruhi Suzumiya wants aliens, time travelers, and espers; she has unknowingly created them by being an entity who can reshape reality; Kyon narrates his involuntary involvement in the SOS Brigade; Gaku Tsugano's manga adaptation of the famous light novel."
 coverImage: "/covers/suzumiya-haruhi.jpg"
 amazonASIN: "0759526737"
-publishedAt: "2026-05-22"
+publishedAt: "2025-11-23"
 tags: ["sci-fi", "comedy", "completed", "teen", "yen-press", "haruhi", "time-travel", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

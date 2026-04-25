@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "serial killer themes", "body horror 
 description: "Yu's review of Arago — Arago is a young man living in London whose twin brother Seth was killed by the supernatural serial killer Patchman; when Arago encounters Patchman, his dead brother's right arm attaches itself to Arago's body and gives him supernatural abilities; he joins the police to hunt Patchman and the supernatural criminals who follow him."
 coverImage: "/covers/arago.jpg"
 amazonASIN: "1421535696"
-publishedAt: "2026-04-25"
+publishedAt: "2024-07-22"
 tags: ["action", "supernatural", "mystery", "completed", "viz", "london"]
 rating: 3
 hasAffiliate: true

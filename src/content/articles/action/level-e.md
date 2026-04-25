@@ -17,7 +17,7 @@ contentWarnings: ["some violence", "alien horror elements in specific arcs", "da
 description: "Yu's review of Level E — a self-declared alien prince has crashed his ship on Earth and has conveniently developed amnesia; he moves in with Yukitaka Tsutsui, a freshman baseball prospect in rural Yamagata; the prince turns out to be the most intelligent and least cooperative being in the galaxy, and he treats everything around him as a long-running game designed for his own amusement."
 coverImage: "/covers/level-e.jpg"
 amazonASIN: "1421554259"
-publishedAt: "2026-04-25"
+publishedAt: "2024-09-18"
 tags: ["action", "comedy", "sci-fi", "completed", "togashi", "short-series", "viz"]
 rating: 5
 hasAffiliate: true

@@ -16,7 +16,7 @@ contentWarnings: ["fanservice", "tsundere dynamics", "harem elements", "fantasy 
 description: "Yu's review of The Familiar of Zero — Louise Françoise le Blanc de la Vallière is called 'Louise the Zero' for her inability to cast spells correctly; in the summoning ceremony where every student calls their familiar, she summons a Japanese high school boy named Saito."
 coverImage: "/covers/familiar-of-zero.jpg"
 amazonASIN: "0316073423"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-11"
 tags: ["fantasy", "romance", "completed", "isekai", "tsundere", "magic-school"]
 rating: 3
 hasAffiliate: true

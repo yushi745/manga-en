@@ -17,7 +17,7 @@ contentWarnings: ["family abuse themes", "psychological cruelty", "historical-fa
 description: "Yu's review of My Happy Marriage — Miyo Saimori has no spirit abilities in a family defined by them; treated as a servant by her father and step-family after her mother's death, she is sent as a bride to Kiyoka Kudou, a military commander whose reputation for dismissing servants has led others to refuse him; he treats her with quiet care, and she begins, slowly, to believe she might deserve to be treated well."
 coverImage: "/covers/my-happy-marriage.jpg"
 amazonASIN: "1975375009"
-publishedAt: "2026-04-25"
+publishedAt: "2025-08-01"
 tags: ["romance", "fantasy", "ongoing", "teen", "yen-press", "historical-fantasy"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["melancholy fantasy", "death themes treated gently", "bittersw
 description: "Yu's review of Shoulder-a-Coffin Kuro — Kuro travels through a fantasy world carrying a large coffin, accompanied by a bat named Sen; she is searching for the witch who cursed her, which gave her a witch's appearance and is killing her slowly; along the way she meets travelers, looks after two strange twins, and experiences kindness she doesn't expect."
 coverImage: "/covers/shoulder-a-coffin-kuro.jpg"
 amazonASIN: "1626920168"
-publishedAt: "2026-05-07"
+publishedAt: "2025-02-02"
 tags: ["fantasy", "slice-of-life", "melancholy", "completed", "all-ages", "yen-press", "journey", "bittersweet"]
 rating: 4
 hasAffiliate: true

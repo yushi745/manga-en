@@ -17,7 +17,7 @@ contentWarnings: ["war violence", "aerial combat", "death of characters", "betra
 description: "Yu's review of Area 88 — Shin Kazama, a Japanese airline trainee, is tricked by a friend into signing a contract with a Middle Eastern desert nation's air force; trapped in a war mercenary squadron at Area 88, he can only leave by earning enough money through combat or surviving three years; a 1979 classic about the cost of war and the people who fight in one they didn't choose."
 coverImage: "/covers/area-88.jpg"
 amazonASIN: "1591161657"
-publishedAt: "2026-04-28"
+publishedAt: "2025-10-08"
 tags: ["sci-fi", "action", "military", "completed", "teen", "viz", "classic", "aviation", "seinen"]
 rating: 4
 hasAffiliate: true

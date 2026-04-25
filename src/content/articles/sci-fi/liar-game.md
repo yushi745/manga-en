@@ -17,7 +17,7 @@ contentWarnings: ["psychological manipulation", "financial stakes", "deception",
 description: "Yu's review of Liar Game — Nao Kanzaki, an honest person to the point of being a liability, receives a package with 100 million yen and instructions for the Liar Game: she must deceive and be deceived; the last person holding the most money wins; she enlists the help of a recently released con man named Shinichi Akiyama."
 coverImage: "/covers/liar-game.jpg"
 amazonASIN: "B008PMXJIQ"
-publishedAt: "2026-04-24"
+publishedAt: "2025-11-07"
 tags: ["sci-fi", "psychological-thriller", "completed", "deception", "game", "psychological"]
 rating: 5
 hasAffiliate: true

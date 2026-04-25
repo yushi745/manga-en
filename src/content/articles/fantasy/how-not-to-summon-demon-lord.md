@@ -17,7 +17,7 @@ contentWarnings: ["ecchi content", "sexual humor", "fantasy violence", "mature t
 description: "Yu's review of How NOT to Summon a Demon Lord — Takuma Sakamoto was a socially isolated gamer who played the MMORPG Cross Reverie as the unbeatable Demon Lord Diablo; summoned into the game world in Diablo's form and bound to two summoners via an enslavement spell, he must navigate his character's overwhelming power while dealing with social situations his real-world self never managed."
 coverImage: "/covers/how-not-to-summon-demon-lord.jpg"
 amazonASIN: "1626927491"
-publishedAt: "2026-04-25"
+publishedAt: "2024-12-20"
 tags: ["fantasy", "isekai", "completed", "mature", "seven-seas", "ecchi"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["space action", "themes of civilizational decline", "some viol
 description: "Yu's review of Captain Harlock — in a future where humanity has given up its freedom in exchange for comfort, Harlock is the space pirate who still fights; aboard his ship the Arcadia, he battles the alien Mazone who have come to reclaim the Earth they seeded long ago."
 coverImage: "/covers/captain-harlock.jpg"
 amazonASIN: "159116530X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-16"
 tags: ["sci-fi", "adventure", "completed", "classic", "space-opera", "matsumoto"]
 rating: 4
 hasAffiliate: true

@@ -20,7 +20,7 @@ contentWarnings:
 description: "Yu's review of Venus Versus Virus — a girl who can see supernatural Viruses teams up with a brooding monster-hunter in a boutique that doubles as ghost-extermination headquarters."
 coverImage: "/covers/venus-versus-virus.jpg"
 amazonASIN: "1934876003"
-publishedAt: "2026-04-26"
+publishedAt: "2025-09-18"
 tags:
   - "shojo"
   - "action"

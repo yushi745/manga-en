@@ -17,7 +17,7 @@ contentWarnings: ["action violence (mild)", "spy thriller themes"]
 description: "Yu's review of Spy x Family — a manga about a spy, an assassin, and a telepath pretending to be a family, who accidentally become one. Genuinely funny, genuinely warm, and one of the most joyful ongoing series in manga right now."
 coverImage: "/covers/spy-x-family.jpg"
 amazonASIN: "1974715469"
-publishedAt: "2026-04-23"
+publishedAt: "2026-02-22"
 tags: ["comedy", "action", "slice-of-life", "family", "ongoing", "feel-good"]
 rating: 5
 hasAffiliate: true

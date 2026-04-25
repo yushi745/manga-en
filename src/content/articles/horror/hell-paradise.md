@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "gore", "body horror", "death", "disturbin
 description: "Yu's review of Hell's Paradise: Jigokuraku — a convicted ninja is sent to a supernatural island of horrors to find the elixir of immortality, paired with the executioner assigned to kill him."
 coverImage: "/covers/hell-paradise.jpg"
 amazonASIN: "1974713202"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-28"
 tags: ["horror", "action", "historical", "supernatural", "completed"]
 rating: 4
 hasAffiliate: true

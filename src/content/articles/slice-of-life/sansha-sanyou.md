@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Sansha Sanyou — Youko Nishikawa (formerly wealthy), Futaba Odagiri (enthusiastic eater), and Teru Hayama (smiling sadist) are three incompatible high school girls who end up eating lunch together and become friends; Cherry Arai's gentle comedy about the friendships that form despite personality differences."
 coverImage: "/covers/sansha-sanyou.jpg"
 amazonASIN: "0316272361"
-publishedAt: "2026-05-23"
+publishedAt: "2026-02-14"
 tags: ["slice-of-life", "comedy", "completed", "all-ages", "yen-press", "school", "friendship", "kirara"]
 rating: 3
 hasAffiliate: true

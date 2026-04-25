@@ -17,7 +17,7 @@ contentWarnings: ["supernatural possession", "fairy mythology", "gothic fantasy"
 description: "Yu's review of Fairy Cube — Ian Hasumi can see fairies; his shadow Tokage also sees them and has his own agenda; when Tokage takes possession of Ian's body, Ian must navigate the fairy world as a spirit while Tokage inhabits his life — including his relationship with Rin, who loves Ian but cannot tell the difference."
 coverImage: "/covers/fairy-cube.jpg"
 amazonASIN: "1421506785"
-publishedAt: "2026-05-10"
+publishedAt: "2024-12-10"
 tags: ["fantasy", "supernatural", "completed", "teen", "viz-media", "gothic", "fairies", "possession"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "court intrigue", "some dark backstory ele
 description: "Yu's review of Ranking of Kings — Prince Bojji cannot speak, cannot hear, and is considered the weakest person in the kingdom; when he makes an unlikely friend named Kage, a shadow assassin, he begins a journey to become the greatest king in the world despite everything working against him."
 coverImage: "/covers/ranking-of-kings.jpg"
 amazonASIN: "197471534X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-22"
 tags: ["fantasy", "adventure", "ongoing", "underdog", "friendship", "original-webtoon-style"]
 rating: 5
 hasAffiliate: true

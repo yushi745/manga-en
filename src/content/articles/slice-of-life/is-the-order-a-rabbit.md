@@ -17,7 +17,7 @@ contentWarnings: ["none"]
 description: "Yu's review of Is the Order a Rabbit? (Gochuumon wa Usagi Desu Ka?) — Cocoa Hoto moves to a new town and stays at the Rabbit House café while attending school; the café is run by the Kafuu family and home to Chino, a quiet girl whose grandfather appears to have become the café's rabbit; a CGDCT (cute girls doing cute things) manga about coffee, rabbits, and girls who become each other's family."
 coverImage: "/covers/is-the-order-a-rabbit.jpg"
 amazonASIN: "0316560332"
-publishedAt: "2026-04-26"
+publishedAt: "2026-01-16"
 tags: ["slice-of-life", "comedy", "all-ages", "ongoing", "yen-press", "cafe", "cgdct", "warmth"]
 rating: 4
 hasAffiliate: true

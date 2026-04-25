@@ -17,7 +17,7 @@ contentWarnings: ["age-gap romance (high school girl, adult man)", "boarding hou
 description: "Yu's review of Living-Room Matsunaga-san — Meeko moves into a unique boarding house run by her uncle where multiple adults live together; the cool resident Matsunaga becomes the person she falls for, despite the age difference."
 coverImage: "/covers/living-room-matsunaga-san.jpg"
 amazonASIN: "1632368137"
-publishedAt: "2026-04-24"
+publishedAt: "2025-07-17"
 tags: ["romance", "shojo", "completed", "boarding-house", "age-gap"]
 rating: 4
 hasAffiliate: true

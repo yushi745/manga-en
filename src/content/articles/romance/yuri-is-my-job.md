@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "performance vs genuine feeling", "workplace c
 description: "Yu's review of Yuri Is My Job! — Hime Shiraki's entire identity is performing perfect femininity for public approval; working at Liebe Girls Academy café requires her to act out romantic yuri relationships with her coworkers for customers; her assigned partner Mitsuki hates her genuinely, and Hime begins to develop feelings that are not performance."
 coverImage: "/covers/yuri-is-my-job.jpg"
 amazonASIN: "1646511190"
-publishedAt: "2026-05-06"
+publishedAt: "2025-09-29"
 tags: ["romance", "comedy", "yuri", "school", "workplace", "completed", "teen", "kodansha"]
 rating: 4
 hasAffiliate: true

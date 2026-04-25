@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "sexual abuse themes", "drug trafficking",
 description: "Yu's review of Banana Fish — Ash Lynx is a teenage gang boss in New York City; his path crosses with Eiji Okumura, a Japanese journalist's assistant; the words 'Banana Fish' connect to a drug conspiracy that reaches from the streets to the highest levels of power; Akimi Yoshida's manga about violence, power, and one pure connection in the middle of it."
 coverImage: "/covers/banana-fish.jpg"
 amazonASIN: "1421591529"
-publishedAt: "2026-05-27"
+publishedAt: "2024-07-29"
 tags: ["action", "drama", "completed", "mature", "viz-media", "classic", "crime", "yoshida"]
 rating: 5
 hasAffiliate: true

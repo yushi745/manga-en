@@ -17,7 +17,7 @@ contentWarnings: ["mild fantasy violence", "comedy romantic situations", "supern
 description: "Yu's review of Witch Watch — Nico is a witch who sees disaster visions; Morihito is her childhood friend and an ogre who has sworn to protect her; they live together in modern Japan, where Nico's disaster visions lead to increasingly absurd comedic situations."
 coverImage: "/covers/witch-watch.jpg"
 amazonASIN: "1974743802"
-publishedAt: "2026-04-24"
+publishedAt: "2025-02-26"
 tags: ["fantasy", "comedy", "ongoing", "romance", "supernatural", "shounen"]
 rating: 4
 hasAffiliate: true

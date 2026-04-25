@@ -17,7 +17,7 @@ contentWarnings: ["unconventional relationship premise", "mature romance", "gend
 description: "Yu's review of Tramps Like Us (Kimi wa Pet) — Sumire Iwaya is a successful career woman whose life is going exactly wrong: demoted, broken up with, alone; she finds a young man in a cardboard box and takes him in as her 'pet' Momo; the relationship explores power dynamics, vulnerability, and what people need from each other through a deliberately unconventional frame."
 coverImage: "/covers/tramps-like-us.jpg"
 amazonASIN: "1591827396"
-publishedAt: "2026-05-08"
+publishedAt: "2025-09-14"
 tags: ["romance", "comedy", "josei", "completed", "mature", "tokyopop", "career-woman", "unconventional"]
 rating: 4
 hasAffiliate: true

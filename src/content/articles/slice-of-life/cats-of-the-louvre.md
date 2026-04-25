@@ -17,7 +17,7 @@ contentWarnings: ["gentle fantasy", "art world setting", "child characters", "lo
 description: "Yu's review of The Cats of the Louvre — the cats who live in the Louvre at night can walk into the paintings; Taiyo Matsumoto's gentle fantasy about the secret life of a famous museum, a girl who can see the cats, and what happens inside the art when nobody human is looking."
 coverImage: "/covers/cats-of-the-louvre.jpg"
 amazonASIN: "1524743445"
-publishedAt: "2026-05-20"
+publishedAt: "2025-12-19"
 tags: ["slice-of-life", "fantasy", "completed", "teen", "pantheon", "louvre", "art", "cats"]
 rating: 4
 hasAffiliate: true

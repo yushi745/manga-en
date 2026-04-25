@@ -17,7 +17,7 @@ contentWarnings: ["sexual content", "political violence", "mature themes", "gend
 description: "Yu's review of Ōoku: The Inner Chambers — an alternate Japan where a mysterious plague killed 75% of men over a century, women rose to political power, and the Shogunate is run by women while men are rare and precious; a historical alternate-universe manga that examines power, gender, and what history would look like if it went differently."
 coverImage: "/covers/ooku.jpg"
 amazonASIN: "142152441X"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-12"
 tags: ["sci-fi", "historical", "completed", "mature", "viz", "alternate-history", "gender"]
 rating: 5
 hasAffiliate: true

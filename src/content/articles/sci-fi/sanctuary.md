@@ -17,7 +17,7 @@ contentWarnings: ["political violence", "sexual content", "yakuza themes", "matu
 description: "Yu's review of Sanctuary — two survivors of the Cambodian killing fields make a pact to change Japan from the inside: one through legitimate politics, one through the yakuza; a politically serious manga by the creators of Crying Freeman and Mai the Psychic Girl about power, ambition, and what it costs to change a corrupt system."
 coverImage: "/covers/sanctuary.jpg"
 amazonASIN: "1569312400"
-publishedAt: "2026-04-25"
+publishedAt: "2025-11-17"
 tags: ["sci-fi", "political", "completed", "mature", "viz", "yakuza", "classic"]
 rating: 5
 hasAffiliate: true

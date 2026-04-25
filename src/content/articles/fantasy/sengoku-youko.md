@@ -17,7 +17,7 @@ contentWarnings: ["period fantasy violence", "war themes", "death", "youkai comb
 description: "Yu's review of Sengoku Youko — Youko is a half-demon who has decided to love and protect humans; her brother Jinka despises humans but travels with her; their journey through warring-states Japan involves battles with demons and humans alike, and raises serious questions about what it means to be human, demon, or something between."
 coverImage: "/covers/sengoku-youko.jpg"
 amazonASIN: "1638581762"
-publishedAt: "2026-05-02"
+publishedAt: "2025-01-31"
 tags: ["fantasy", "action", "historical", "youkai", "completed", "teen", "seven-seas", "mizukami"]
 rating: 5
 hasAffiliate: true

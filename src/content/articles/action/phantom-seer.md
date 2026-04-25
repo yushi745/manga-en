@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "spirit combat", "horror elements", "
 description: "Yu's review of Phantom Seer — Iori Katanagi has always been able to see spirits and has learned to ignore them; Riku Aibetsu cannot stop attracting powerful spirits; their partnership, initially reluctant, becomes the series' central dynamic as they face increasingly dangerous supernatural encounters."
 coverImage: "/covers/phantom-seer.jpg"
 amazonASIN: "1974734633"
-publishedAt: "2026-05-01"
+publishedAt: "2024-10-05"
 tags: ["action", "supernatural", "shonen", "completed", "teen", "viz", "spirits", "short-series"]
 rating: 3
 hasAffiliate: true

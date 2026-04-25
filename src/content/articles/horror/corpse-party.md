@@ -17,7 +17,7 @@ contentWarnings: ["graphic death", "body horror", "psychological horror", "child
 description: "Yu's review of Corpse Party: Blood Covered — a group of high school students perform a friendship charm called Sachiko Ever After before a student transfers away; they are transported to the demolished Heavenly Host Elementary School, where the spirits of murdered children trap the living and repeat the cycle of their own deaths."
 coverImage: "/covers/corpse-party.jpg"
 amazonASIN: "0316385786"
-publishedAt: "2026-04-24"
+publishedAt: "2025-03-11"
 tags: ["horror", "supernatural", "completed", "game-adaptation", "psychological-horror", "mature"]
 rating: 4
 hasAffiliate: true

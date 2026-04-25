@@ -17,7 +17,7 @@ contentWarnings: ["sports competition", "soccer/football content", "management d
 description: "Yu's review of Giant Killing — Takeshi Tatsumi, a player who disappeared from Japanese professional soccer and became a legend coaching a small English team, is hired to rescue East Tokyo United from the bottom of the J-League; a soccer management drama that treats the tactical and human sides of sports organization with equal seriousness."
 coverImage: "/covers/giant-killing.jpg"
 amazonASIN: "1612622283"
-publishedAt: "2026-04-28"
+publishedAt: "2026-03-27"
 tags: ["sports", "soccer", "football", "ongoing", "teen", "kodansha", "management", "seinen"]
 rating: 5
 hasAffiliate: true

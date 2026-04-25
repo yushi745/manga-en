@@ -17,7 +17,7 @@ contentWarnings: ["explicit fan service", "mature sexual content", "supernatural
 description: "Yu's review of Yuuna and the Haunted Hot Springs — Kogarashi Fuyuzora is a young psychic who has spent his life being possessed by spirits; when he moves into a cheap hot springs inn, he discovers it is full of supernatural tenants; the ghost Yuuna, whose unresolved feelings keep her tied to the inn, becomes his central concern."
 coverImage: "/covers/yuuna-haunted-hot-springs.jpg"
 amazonASIN: "1626929955"
-publishedAt: "2026-05-13"
+publishedAt: "2025-09-30"
 tags: ["romance", "comedy", "completed", "mature", "seven-seas", "supernatural", "harem", "hot-springs"]
 rating: 3
 hasAffiliate: true

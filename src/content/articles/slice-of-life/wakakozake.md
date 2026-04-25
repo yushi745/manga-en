@@ -17,7 +17,7 @@ contentWarnings: ["alcohol consumption", "food appreciation", "quiet adult slice
 description: "Yu's review of Wakakozake — Murasaki Wakako, a young office worker, spends her evenings alone at izakayas, carefully selecting food and sake pairings; each short chapter follows one evening, one food, one drink, and her quiet appreciation; the series is a celebration of eating alone as a specific pleasure."
 coverImage: "/covers/wakakozake.jpg"
 amazonASIN: "0316399574"
-publishedAt: "2026-05-12"
+publishedAt: "2026-03-04"
 tags: ["slice-of-life", "completed", "teen", "yen-press", "food", "sake", "izakaya", "adult-life"]
 rating: 4
 hasAffiliate: true

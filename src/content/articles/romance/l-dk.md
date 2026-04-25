@@ -17,7 +17,7 @@ contentWarnings: ["cohabitation premise", "some mature romantic content", "roman
 description: "Yu's review of LDK — Aoi Nishimori's apartment floods and she ends up temporarily sharing her neighbor Shusei Kugayama's apartment; Shusei is the school's most unapproachable boy who has never shown interest in anyone; the cohabitation produces a relationship that neither expected."
 coverImage: "/covers/l-dk.jpg"
 amazonASIN: "1612623948"
-publishedAt: "2026-04-25"
+publishedAt: "2025-07-14"
 tags: ["romance", "comedy", "completed", "shojo", "cohabitation", "kodansha"]
 rating: 4
 hasAffiliate: true

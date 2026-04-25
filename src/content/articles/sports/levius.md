@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Levius — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/levius.jpg"
 amazonASIN: "1421591855"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-07"
 tags:
   - "sports"
   - "sci-fi"

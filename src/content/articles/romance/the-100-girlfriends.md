@@ -17,7 +17,7 @@ contentWarnings: ["harem comedy", "mild fan service", "exaggerated romantic situ
 description: "Yu's review of The 100 Girlfriends Who Really Really Really Really Really Love You — after 100 failed confessions, a god tells Rentaro that he is destined to fall in love with 100 soulmates; refusing to let any of them down, he commits to loving all 100 equally and completely — which results in an expanding group of extremely devoted girlfriends and increasingly absurd situations."
 coverImage: "/covers/the-100-girlfriends.jpg"
 amazonASIN: "1638582424"
-publishedAt: "2026-04-28"
+publishedAt: "2025-09-08"
 tags: ["romance", "comedy", "harem", "ongoing", "teen", "seven-seas", "shonen", "absurdist"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["creature horror", "graphic violence", "mass death", "survival
 description: "Yu's review of Bio-Meat: Nectar — BM-01, a genetically engineered organism designed to eat garbage and provide protein, escapes from a containment facility; the creatures eat everything organic and reproduce rapidly; a group of middle school survivors must escape Tokyo as the city falls; survival horror with genuine stakes and sharp political commentary on government negligence."
 coverImage: "/covers/bio-meat-nectar.jpg"
 amazonASIN: "1591162726"
-publishedAt: "2026-04-26"
+publishedAt: "2025-03-08"
 tags: ["horror", "sci-fi", "survival", "creature", "completed", "teen-plus", "viz", "disaster"]
 rating: 4
 hasAffiliate: true

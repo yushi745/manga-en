@@ -17,7 +17,7 @@ contentWarnings: ["gun violence", "mature content", "drug references", "sexual c
 description: "Yu's review of Gunsmith Cats — Rally Vincent and Minnie-May Hopkins run a gun shop in Chicago and work as bounty hunters; Rally is a firearms expert; Minnie-May specializes in explosives; Kenichi Sonoda's action manga about two women operating in the criminal underworld with serious gun research behind every page."
 coverImage: "/covers/gunsmith-cats.jpg"
 amazonASIN: "1593079591"
-publishedAt: "2026-05-30"
+publishedAt: "2024-09-04"
 tags: ["action", "completed", "mature", "dark-horse", "sonoda", "guns", "bounty-hunters", "chicago"]
 rating: 4
 hasAffiliate: true

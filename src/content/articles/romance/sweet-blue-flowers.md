@@ -17,7 +17,7 @@ contentWarnings: ["yuri (girls' love) romance", "gentle emotional complexity", "
 description: "Yu's review of Sweet Blue Flowers — Fumi Manjoume and Akira Okudaira were childhood best friends who lost contact; they meet again in high school; Fumi is going through a heartbreak and beginning a new relationship with a senior girl while discovering who she is; Akira watches, loves, and cannot yet name it."
 coverImage: "/covers/sweet-blue-flowers.jpg"
 amazonASIN: "1421592983"
-publishedAt: "2026-04-24"
+publishedAt: "2025-09-03"
 tags: ["romance", "yuri", "completed", "drama", "school", "foundational", "VIZ"]
 rating: 5
 hasAffiliate: true

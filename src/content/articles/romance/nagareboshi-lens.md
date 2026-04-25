@@ -17,7 +17,7 @@ contentWarnings: ["photography themes", "first love", "high school romance", "ge
 description: "Yu's review of Nagareboshi Lens — Risa Hoshino has never had close friends; she sees the world through metaphorical glass; she meets Touga Okamoto through a lens at school; Yayoi Ogawa's romance manga about seeing someone clearly for the first time and being seen in return."
 coverImage: "/covers/nagareboshi-lens.jpg"
 amazonASIN: "142158063X"
-publishedAt: "2026-05-27"
+publishedAt: "2025-08-03"
 tags: ["romance", "photography", "completed", "teen", "viz-media", "first-love", "shojo", "gentle"]
 rating: 4
 hasAffiliate: true

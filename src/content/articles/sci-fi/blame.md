@@ -17,7 +17,7 @@ contentWarnings: ["graphic violence", "body horror", "existential themes", "dark
 description: "Yu's review of Blame! — in a city that has grown to planetary scale and is controlled by murderous AI, a silent man named Killy walks through the infinite architecture searching for humans with the Net Terminal Gene."
 coverImage: "/covers/blame.jpg"
 amazonASIN: "1942993766"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-13"
 tags: ["sci-fi", "dark-fantasy", "completed", "unique", "architecture"]
 rating: 5
 hasAffiliate: true

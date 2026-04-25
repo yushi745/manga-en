@@ -17,7 +17,7 @@ contentWarnings: ["VRMMO setting", "combat with consequences", "NPC personhood t
 description: "Yu's review of Infinite Dendrogram — Reiji Mukudori enters a VRMMO where NPCs have genuine personalities and lives, in-game death matters to people beyond the player, and his partner Nemesis is an Embryo — a living weapon that grows alongside him and has her own agenda."
 coverImage: "/covers/infinite-dendrogram.jpg"
 amazonASIN: "1718382685"
-publishedAt: "2026-05-04"
+publishedAt: "2024-12-24"
 tags: ["fantasy", "action", "VRMMO", "isekai-adjacent", "ongoing", "teen", "j-novel-club", "NPC-personhood"]
 rating: 4
 hasAffiliate: true

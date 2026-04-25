@@ -17,7 +17,7 @@ contentWarnings: ["fanservice", "harem elements", "some adult themes"]
 description: "Yu's review of Negima! Magister Negi Magi — ten-year-old Welsh wizard Negi Springfield becomes the homeroom teacher of a class of 31 middle school girls in Japan; what begins as harem comedy transforms into a serious fantasy epic about his search for his lost father and the magical world beneath everyday Japan."
 coverImage: "/covers/mahou-sensei-negima.jpg"
 amazonASIN: "0345470230"
-publishedAt: "2026-04-24"
+publishedAt: "2025-01-09"
 tags: ["fantasy", "comedy", "shonen", "completed", "harem", "magic"]
 rating: 4
 hasAffiliate: true

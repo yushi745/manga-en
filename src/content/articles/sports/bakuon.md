@@ -17,7 +17,7 @@ contentWarnings: ["motorcycle content", "mild fanservice", "motorcycle safety th
 description: "Yu's review of Bakuon!! — Hane Sakura notices a girl on a motorcycle during her commute and is immediately drawn to two-wheel transportation; she joins her school's motorcycle club, acquires a vintage bike, and enters a world of very specific brand loyalties, riding culture, and the peculiar freedom of motorcycle riding; a comedy manga about motorcycle enthusiasm with genuine affection for its subject."
 coverImage: "/covers/bakuon.jpg"
 amazonASIN: "1626924697"
-publishedAt: "2026-04-27"
+publishedAt: "2026-03-17"
 tags: ["sports", "comedy", "motorcycle", "completed", "teen-plus", "seven-seas", "cgdct", "slice-of-life"]
 rating: 4
 hasAffiliate: true

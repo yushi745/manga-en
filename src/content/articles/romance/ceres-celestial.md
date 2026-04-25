@@ -17,7 +17,7 @@ contentWarnings: ["violence", "mature romantic content", "family betrayal themes
 description: "Yu's review of Ceres: Celestial Legend — sixteen-year-old Aya Mikage discovers on her birthday that she is the reincarnation of the celestial being Ceres, whose feather robe was stolen by her ancestor; her family, which benefits from Ceres's power and fears her return, wants Aya dead; a dark romantic fantasy with genuine dramatic stakes and Yuu Watase's most mature storytelling."
 coverImage: "/covers/ceres-celestial.jpg"
 amazonASIN: "1569317429"
-publishedAt: "2026-04-25"
+publishedAt: "2025-05-26"
 tags: ["romance", "fantasy", "completed", "teen-plus", "viz", "shoujo", "dark-fantasy", "classic"]
 rating: 4
 hasAffiliate: true

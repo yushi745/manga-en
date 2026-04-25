@@ -17,7 +17,7 @@ contentWarnings: ["isekai-adjacent time travel", "historical Heian setting", "su
 description: "Yu's review of Haruka: Beyond the Stream of Time — Akane Motomiya is transported to Heian-era Kyoto along with two classmates; she is the Ryujin no Miko (Dragon God Priestess) who must save this world from demons; eight Hachiyou warriors are assigned to her protection; Tohko Mizuno's historical fantasy reverse harem romance."
 coverImage: "/covers/harukanaru.jpg"
 amazonASIN: "1591165342"
-publishedAt: "2026-05-27"
+publishedAt: "2025-06-24"
 tags: ["romance", "fantasy", "historical", "completed", "teen", "viz-media", "reverse-harem", "heian-era"]
 rating: 3
 hasAffiliate: true

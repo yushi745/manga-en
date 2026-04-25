@@ -17,7 +17,7 @@ contentWarnings: ["yakuza violence", "drug content", "body horror elements", "ma
 description: "Yu's review of Wild Adapter — Makoto Kubota is a Yakuza boy genius who gets drawn into investigating Wild Adapter, a drug that turns users into monsters; he finds Tokito, a boy with no memory and a monster's hand, and takes him home; Kazuya Minekura's crime manga about an unlikely pair and the mystery of a transforming drug."
 coverImage: "/covers/wild-adapter.jpg"
 amazonASIN: "1421502364"
-publishedAt: "2026-05-26"
+publishedAt: "2024-11-10"
 tags: ["action", "drama", "mystery", "completed", "teen-plus", "viz-media", "yakuza", "minekura"]
 rating: 4
 hasAffiliate: true

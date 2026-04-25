@@ -17,7 +17,7 @@ contentWarnings: ["chuunibyou fantasy behavior", "cringe comedy", "gentle romanc
 description: "Yu's review of Chuunibyou Demo Koi ga Shitai! — Yuuta Togashi is trying to escape his embarrassing chuunibyou past; Rikka Takanashi is currently deep in chuunibyou delusions; he can't stay away; manga adaptation of the Kyoto Animation light novel about the embarrassment and affection of accepting who someone actually is."
 coverImage: "/covers/chunibyo.jpg"
 amazonASIN: "0316393371"
-publishedAt: "2026-05-26"
+publishedAt: "2025-05-29"
 tags: ["romance", "comedy", "completed", "teen", "yen-press", "chuunibyou", "light-novel-adaptation", "kyoani"]
 rating: 4
 hasAffiliate: true

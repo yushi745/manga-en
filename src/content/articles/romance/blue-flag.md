@@ -17,7 +17,7 @@ contentWarnings: ["LGBTQ+ themes (central to the story)", "unrequited love", "id
 description: "Yu's review of Blue Flag — four high school students navigate overlapping feelings: Taichi likes Futaba, Futaba likes Touma, Touma's best friend Masumi likes Touma, and the feelings all connect in ways none of them can fully see."
 coverImage: "/covers/blue-flag.jpg"
 amazonASIN: "197433181X"
-publishedAt: "2026-04-24"
+publishedAt: "2025-05-21"
 tags: ["romance", "drama", "LGBTQ", "shonen", "completed", "high-school"]
 rating: 5
 hasAffiliate: true

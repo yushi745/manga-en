@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["action violence", "destruction on large scale", "some romantic content", "mild fan service"]
 description: "Yu's review of Magico — Shion is one of the most powerful mages in the world; Emma carries a cursed power called Echidna inside her that will eventually destroy everything; the only way to suppress it is to complete the Magico ritual, which requires the two to act as husband and wife while performing increasingly elaborate magical ceremonies."
 amazonASIN: "1421564882"
-publishedAt: "2026-04-25"
+publishedAt: "2024-09-20"
 tags: ["action", "fantasy", "romance", "completed", "shonen", "viz"]
 rating: 4
 hasAffiliate: true

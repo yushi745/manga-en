@@ -17,7 +17,7 @@ contentWarnings: ["psychopathic protagonist", "mass murder", "sexual content", "
 description: "Yu's review of MW — Yuki Michio is a beautiful, charming, amoral man who survived exposure to a chemical weapon as a child; the event destroyed his conscience; he works toward mass destruction while maintaining the appearance of a successful society member; a priest who loves him tries to hold him back; Osamu Tezuka's 1976 thriller about a man without conscience."
 coverImage: "/covers/mw.jpg"
 amazonASIN: "1934287490"
-publishedAt: "2026-05-29"
+publishedAt: "2025-04-16"
 tags: ["horror", "thriller", "completed", "mature", "vertical", "tezuka", "psychological", "classic"]
 rating: 5
 hasAffiliate: true

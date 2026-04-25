@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "mild suggestive content (early volumes)", 
 description: "Yu's review of Dragon Ball — 42 volumes that started as a silly adventure and became the template for every shounen manga that followed. Goku's journey from child to the strongest being in the universe. Essential."
 coverImage: "/covers/dragon-ball.jpg"
 amazonASIN: "B00FPLNYUU"
-publishedAt: "2026-04-23"
+publishedAt: "2024-08-20"
 tags: ["shonen", "action", "classic", "completed", "martial-arts", "adventure"]
 rating: 5
 hasAffiliate: true

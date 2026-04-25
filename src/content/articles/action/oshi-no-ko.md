@@ -17,7 +17,7 @@ contentWarnings: ["idol industry darkness", "murder", "themes of obsession and s
 description: "Yu's review of Oshi no Ko — a doctor reincarnates as the son of the idol he worshipped, retaining his adult memories; he enters the entertainment industry to find his mother's killer while his twin sister becomes an idol herself."
 coverImage: "/covers/oshi-no-ko.jpg"
 amazonASIN: "1975337751"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-04"
 tags: ["action", "drama", "mystery", "seinen", "idol", "completed-in-Japan", "reincarnation"]
 rating: 5
 hasAffiliate: true

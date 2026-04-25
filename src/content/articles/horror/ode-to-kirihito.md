@@ -17,7 +17,7 @@ contentWarnings: ["body horror", "medical experimentation", "violence", "mature 
 description: "Yu's review of Ode to Kirihito — Dr. Osanai Kirihito investigates Monmow disease, a mysterious illness that transforms its victims into dog-like creatures; the medical establishment suppresses his findings; Osamu Tezuka's 1970 medical horror manga about a doctor reduced to subhuman status while searching for a scientific truth powerful people want hidden."
 coverImage: "/covers/ode-to-kirihito.jpg"
 amazonASIN: "1932234993"
-publishedAt: "2026-05-29"
+publishedAt: "2025-04-20"
 tags: ["horror", "drama", "completed", "mature", "vertical", "tezuka", "medical", "classic"]
 rating: 5
 hasAffiliate: true

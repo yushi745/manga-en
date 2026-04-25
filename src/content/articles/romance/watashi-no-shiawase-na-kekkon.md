@@ -17,7 +17,7 @@ contentWarnings: ["family abuse depicted", "arranged marriage", "supernatural po
 description: "Yu's review of My Happy Marriage — Miyo Saimori has been treated as a servant in her own home since her mother died; she is sent to be betrothed to Kiyoka Kudou, a man so fearsome that previous brides fled immediately; what she finds there surprises her; Rito Kohsaka's historical fantasy romance about someone being treated kindly for the first time."
 coverImage: "/covers/watashi-no-shiawase-na-kekkon.jpg"
 amazonASIN: "1975336917"
-publishedAt: "2026-05-24"
+publishedAt: "2025-09-21"
 tags: ["romance", "fantasy", "ongoing", "teen", "yen-press", "historical-japan", "arranged-marriage", "kindness"]
 rating: 5
 hasAffiliate: true

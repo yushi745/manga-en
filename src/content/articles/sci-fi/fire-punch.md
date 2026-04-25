@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "body horror", "cannibalism", "psychologic
 description: "Yu's review of Fire Punch — Agni has a regeneration blessing; someone with a flame blessing sets him on fire; he cannot die and cannot stop burning; he crosses a frozen post-apocalyptic world looking for revenge while a man with a camera follows him."
 coverImage: "/covers/fire-punch.jpg"
 amazonASIN: "1974701158"
-publishedAt: "2026-04-24"
+publishedAt: "2025-10-27"
 tags: ["sci-fi", "dark-fantasy", "mature", "completed", "Fujimoto", "Chainsaw-Man-author"]
 rating: 4
 hasAffiliate: true

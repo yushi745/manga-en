@@ -17,7 +17,7 @@ contentWarnings: ["villain protagonist", "combat between magical girls and villa
 description: "Yu's review of Gushing over Magical Girls — Hiiragi Utena is obsessed with magical girls; she is recruited by Enorme, a dark organization, and given a magical form — but her power manifests as villainy rather than heroism; she discovers she genuinely enjoys defeating and dominating the magical girls she used to idolize."
 coverImage: "/covers/gushing-over-magical-girls.jpg"
 amazonASIN: "1975363523"
-publishedAt: "2026-05-10"
+publishedAt: "2024-09-04"
 tags: ["action", "fantasy", "completed", "mature", "yen-press", "magical-girl", "villain-protagonist", "subversive"]
 rating: 3
 hasAffiliate: true

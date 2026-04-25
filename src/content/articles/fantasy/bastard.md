@@ -17,7 +17,7 @@ contentWarnings: ["adult fantasy content", "explicit themes", "heavy metal cultu
 description: "Yu's review of Bastard!! — Dark Schneider, the most powerful wizard in history, was sealed inside a boy named Rushe; released to fight invading monsters, he immediately becomes the most arrogant, destructive, and surprisingly effective force in a fantasy world where every character and spell is named after a heavy metal band."
 coverImage: "/covers/bastard.jpg"
 amazonASIN: "1569319901"
-publishedAt: "2026-05-05"
+publishedAt: "2024-11-21"
 tags: ["fantasy", "action", "comedy", "completed", "mature", "viz-media", "shonen-jump", "heavy-metal", "80s"]
 rating: 3
 hasAffiliate: true

@@ -22,7 +22,7 @@ contentWarnings:
 description: "Yu's review of Cantarella — a dark historical fantasy reimagining of Cesare Borgia's life, where he strikes a pact with demons in exchange for power and lives between human warmth and darkness."
 coverImage: "/covers/cantarella.jpg"
 amazonASIN: "1933617276"
-publishedAt: "2026-04-26"
+publishedAt: "2025-05-25"
 tags:
   - "historical"
   - "fantasy"

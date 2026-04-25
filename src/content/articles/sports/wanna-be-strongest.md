@@ -17,7 +17,7 @@ contentWarnings: ["fan service", "wrestling violence", "mature themes", "pain de
 description: "Yu's review of Wanna Be the Strongest in the World! — Sakura Hagiwara is a member of the idol group Sweet Diva; after an altercation with a professional wrestler, she decides to enter women's professional wrestling herself; the series follows her training and career through the sport she is entirely unprepared for."
 coverImage: "/covers/wanna-be-strongest.jpg"
 amazonASIN: "1626920036"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-22"
 tags: ["sports", "action", "completed", "mature", "seven-seas", "wrestling", "idol"]
 rating: 3
 hasAffiliate: true

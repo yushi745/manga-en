@@ -17,7 +17,7 @@ contentWarnings: ["video game setting", "light action", "character-focused", "fe
 description: "Yu's review of Sword Art Online: Girls' Ops — a spinoff following Lisbeth, Silica, and Leafa — three of the main SAO series' female characters — as they adventure in ALfheim Online together, dealing with challenges that don't involve Kirito; a character-focused spinoff for readers who wanted more from the original series' supporting cast."
 coverImage: "/covers/sword-art-online-girls-ops.jpg"
 amazonASIN: "0316336947"
-publishedAt: "2026-05-19"
+publishedAt: "2024-10-26"
 tags: ["action", "completed", "teen", "yen-press", "sword-art-online", "spinoff", "female-ensemble", "vrmmo"]
 rating: 3
 hasAffiliate: true

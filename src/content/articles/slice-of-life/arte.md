@@ -17,7 +17,7 @@ contentWarnings: ["historical gender discrimination", "mild violence", "period-a
 description: "Yu's review of Arte — Arte is a Florentine noblewoman who, after her father's death, refuses to marry and instead pursues apprenticeship as an artist despite the era's absolute prohibition on women in craftsmen's workshops; set in Renaissance Florence with historical accuracy about the art world of the period."
 coverImage: "/covers/arte.jpg"
 amazonASIN: "1645059561"
-publishedAt: "2026-04-25"
+publishedAt: "2025-12-09"
 tags: ["slice-of-life", "historical", "completed", "teen", "seven-seas", "feminism", "art"]
 rating: 4
 hasAffiliate: true

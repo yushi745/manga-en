@@ -17,7 +17,7 @@ contentWarnings: ["historical war content", "militarism", "prewar Japan", "pover
 description: "Yu's review of Showa 1926-1939 — Shigeru Mizuki's four-volume graphic history of the Showa era, covering Japan's path from the Emperor's ascension through the beginning of World War II, interweaving historical events with autobiographical memory and cultural context."
 coverImage: "/covers/showa.jpg"
 amazonASIN: "1770460071"
-publishedAt: "2026-05-19"
+publishedAt: "2026-02-19"
 tags: ["slice-of-life", "history", "autobiography", "completed", "teen-plus", "drawn-and-quarterly", "showa-era", "world-war-ii"]
 rating: 5
 hasAffiliate: true

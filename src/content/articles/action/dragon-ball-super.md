@@ -17,7 +17,7 @@ contentWarnings: ["martial arts violence", "universe-level threats", "power esca
 description: "Yu's review of Dragon Ball Super — the official sequel to Dragon Ball Z, with story by Akira Toriyama and art by Toyotaro; following the defeat of Majin Buu, Goku and Vegeta face new threats including the God of Destruction Beerus, the multiverse tournament, and villains from other universes."
 coverImage: "/covers/dragon-ball-super.jpg"
 amazonASIN: "1974700429"
-publishedAt: "2026-05-14"
+publishedAt: "2024-08-20"
 tags: ["action", "ongoing", "teen", "viz-media", "dragon-ball", "sequel", "tournament", "gods"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["magical girl comedy", "very mild romantic themes"]
 description: "Yu's review of Ultra Maniac — Nina is a witch from the Magic Kingdom studying abroad at a regular Japanese middle school; she is terrible at concealing her magic; Ayu, her only friend who knows her secret, tries to manage the chaos while pursuing her own low-key romance."
 coverImage: "/covers/ultra-maniac.jpg"
 amazonASIN: "1591167566"
-publishedAt: "2026-04-25"
+publishedAt: "2025-09-16"
 tags: ["romance", "comedy", "completed", "shojo", "magical-girl", "viz-media"]
 rating: 4
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["homelessness", "alcoholism", "autobiographical trauma", "ment
 description: "Yu's review of Disappearance Diary — Hideo Azuma is a professional manga artist who voluntarily disappeared into homelessness twice and then developed severe alcoholism requiring hospitalization; he drew it as a comedy; the most unusual and honest autobiography in manga form, winner of the Osamu Tezuka Cultural Prize."
 coverImage: "/covers/disappearance-diary.jpg"
 amazonASIN: "190842837X"
-publishedAt: "2026-05-30"
+publishedAt: "2025-12-25"
 tags: ["slice-of-life", "memoir", "autobiography", "completed", "teen-plus", "ponent-mon", "azuma", "dark-comedy"]
 rating: 5
 hasAffiliate: true

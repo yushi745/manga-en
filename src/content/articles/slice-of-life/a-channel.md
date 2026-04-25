@@ -17,7 +17,7 @@ contentWarnings: ["school slice-of-life", "light comedy", "gentle friendship dra
 description: "Yu's review of A-Channel — four high school girls with distinct personalities share daily school life; Run is cheerful and easygoing, Tooru is fiercely protective of her, Yuuko is anxious and easily flustered, and Nagi is calm and reliable; the 4-koma format captures small moments of friendship in gentle comedic form."
 coverImage: "/covers/a-channel.jpg"
 amazonASIN: "0316232335"
-publishedAt: "2026-05-12"
+publishedAt: "2025-12-02"
 tags: ["slice-of-life", "completed", "teen", "yen-press", "4-koma", "school", "friendship", "comedy"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["game violence", "boss fight content"]
 description: "Yu's review of Shangri-La Frontier — Rakuro Hizutome's hobby is playing terrible, broken games; when he tries Shangri-La Frontier, the world's most popular and technically perfect VR RPG, his experience with game-breaking strategies makes him approach it in ways no other player would."
 coverImage: "/covers/shangri-la-frontier.jpg"
 amazonASIN: "1646514823"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-22"
 tags: ["action", "game", "isekai", "shonen", "ongoing", "boss-fights"]
 rating: 4
 hasAffiliate: true

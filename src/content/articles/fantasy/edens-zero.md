@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "fan service", "themes of loneliness and g
 description: "Yu's review of Edens Zero — a boy who grew up on a planet of machines sets out into space with newfound human friends aboard a legendary warship to find the goddess Mother and discover what friendship means."
 coverImage: "/covers/edens-zero.jpg"
 amazonASIN: "1632367564"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-09"
 tags: ["fantasy", "sci-fi", "shonen", "space", "completed", "Mashima"]
 rating: 4
 hasAffiliate: true

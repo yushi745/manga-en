@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "mild fanservice", "themes of friendship a
 description: "Yu's review of Fairy Tail — a celestial spirit mage joins the most destructive (and most tight-knit) guild in the kingdom, and together they save the world repeatedly through the power of friendship and overwhelming magic."
 coverImage: "/covers/fairy-tail.jpg"
 amazonASIN: "1612622763"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-24"
 tags: ["action", "fantasy", "shonen", "magic", "completed", "guild"]
 rating: 4
 hasAffiliate: true

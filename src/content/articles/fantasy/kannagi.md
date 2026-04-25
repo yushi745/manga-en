@@ -17,7 +17,7 @@ contentWarnings: ["supernatural beings", "impurity monsters", "romantic comedy",
 description: "Yu's review of Kannagi — Mikuriya Jin carves a wooden figure from a sacred tree and it comes to life as Nagi, the local land god in the form of a shrine maiden; Nagi has lost much of her power and must rely on Jin while fighting 'impurity' creatures that have appeared in the area."
 coverImage: "/covers/kannagi.jpg"
 amazonASIN: "0759531862"
-publishedAt: "2026-05-12"
+publishedAt: "2024-12-31"
 tags: ["fantasy", "comedy", "romance", "completed", "teen", "yen-press", "shrine-maiden", "supernatural"]
 rating: 4
 hasAffiliate: true

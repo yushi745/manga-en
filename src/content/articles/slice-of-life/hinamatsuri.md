@@ -17,7 +17,7 @@ contentWarnings: ["yakuza content", "mild violence", "a child living on the stre
 description: "Yu's review of Hinamatsuri — a girl with psychic powers falls from the sky into a yakuza man's apartment; he reluctantly takes her in; she destroys things when she is not allowed to use her powers; together they navigate life in a way that makes no sense and is somehow very funny."
 coverImage: "/covers/hinamatsuri.jpg"
 amazonASIN: "164273005X"
-publishedAt: "2026-04-24"
+publishedAt: "2026-01-09"
 tags: ["slice-of-life", "comedy", "seinen", "completed", "yakuza", "psychic"]
 rating: 5
 hasAffiliate: true

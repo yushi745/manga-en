@@ -17,7 +17,7 @@ contentWarnings: ["gender transformation", "yuri/girls' love", "sci-fi premise",
 description: "Yu's review of Kashimashi: Girl Meets Girl — Hazumu Osaragi is a shy, feminine boy who is killed by an alien spacecraft and revived as a girl; now navigating life with a new body and gender, Hazumu finds herself at the center of a love triangle between childhood friend Yasuna and old friend Tomari."
 coverImage: "/covers/kashimashi.jpg"
 amazonASIN: "1933164867"
-publishedAt: "2026-05-12"
+publishedAt: "2025-07-10"
 tags: ["romance", "sci-fi", "completed", "teen", "seven-seas", "yuri", "gender-transformation", "love-triangle"]
 rating: 3
 hasAffiliate: true

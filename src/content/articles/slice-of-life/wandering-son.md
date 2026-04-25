@@ -17,7 +17,7 @@ contentWarnings: ["gender identity themes", "bullying", "emotional difficulty", 
 description: "Yu's review of Wandering Son — Shuichi Nitori is a boy who wants to be a girl; his new friend Yoshino Takatsuki is a girl who wants to be a boy; the manga follows both of them from elementary school through adolescence as they navigate gender identity, friendship, and growing up; a gentle, serious work about transgender experience."
 coverImage: "/covers/wandering-son.jpg"
 amazonASIN: "1606994166"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-04"
 tags: ["slice-of-life", "drama", "lgbtq", "completed", "teen", "fantagraphics", "gender-identity"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["yuri romance", "school setting", "academic rivalry", "multipl
 description: "Yu's review of A Kiss and a White Lily — Ayaka Shiramine is the top student at her new school until she discovers Yurine Kurosawa, who surpasses her effortlessly; this infuriating discovery becomes something more complicated; the series follows Ayaka and Yurine alongside other couples at the same school."
 coverImage: "/covers/a-kiss-and-a-white-lily.jpg"
 amazonASIN: "0316441988"
-publishedAt: "2026-05-19"
+publishedAt: "2025-05-09"
 tags: ["romance", "yuri", "completed", "teen", "yen-press", "school", "rivalry", "multiple-couples"]
 rating: 4
 hasAffiliate: true

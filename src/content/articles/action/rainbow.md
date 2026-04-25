@@ -17,7 +17,7 @@ contentWarnings: ["extreme violence", "sexual abuse", "torture", "death", "graph
 description: "Yu's review of Rainbow — six juvenile delinquents are sent to a brutal reformatory in 1955 Japan and placed in Cell 6, where they bond with their cellmate Rokurouta Sakuragi, a former boxer who teaches them what it means to survive with dignity."
 coverImage: "/covers/rainbow.jpg"
 amazonASIN: "1421532638"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-10"
 tags: ["action", "drama", "seinen", "historical", "completed", "postwar"]
 rating: 5
 hasAffiliate: true

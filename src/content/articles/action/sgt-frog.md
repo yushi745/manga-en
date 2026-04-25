@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Sgt. Frog — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/sgt-frog.jpg"
 amazonASIN: "1591827167"
-publishedAt: "2026-04-25"
+publishedAt: "2024-10-20"
 tags:
   - "comedy"
   - "action"

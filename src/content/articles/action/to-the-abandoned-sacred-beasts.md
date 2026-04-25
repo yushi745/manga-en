@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "monster combat", "war themes", "mercy kill
 description: "Yu's review of To the Abandoned Sacred Beasts — during a civil war, soldiers of the Northern Army were transformed into Incarnates — humans with the ability to become powerful monsters — to win; now the war is over, and the Incarnates cannot return to human society; the man who led them has become their hunter, and the daughter of one who died follows him."
 coverImage: "/covers/to-the-abandoned-sacred-beasts.jpg"
 amazonASIN: "1626929610"
-publishedAt: "2026-04-28"
+publishedAt: "2024-11-01"
 tags: ["action", "drama", "fantasy", "completed", "teen", "seven-seas", "war", "seinen"]
 rating: 4
 hasAffiliate: true

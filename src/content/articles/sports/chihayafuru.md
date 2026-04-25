@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "themes of ambition and friendship strain"]
 description: "Yu's review of Chihayafuru — Chihaya Ayase discovered competitive karuta as a child; she builds a karuta club in high school and pursues the title of Queen while her teammates pursue their own reasons for playing; the series is as much about the poem in the card game as about the competition."
 coverImage: "/covers/chihayafuru.jpg"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-21"
 tags: ["sports", "josei", "completed-in-Japan", "karuta", "poetry", "competitive"]
 rating: 5
 hasAffiliate: false

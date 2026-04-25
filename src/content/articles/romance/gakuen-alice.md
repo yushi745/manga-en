@@ -17,7 +17,7 @@ contentWarnings: ["dark themes within school setting", "child welfare concerns",
 description: "Yu's review of Gakuen Alice — Mikan Sakura follows her best friend Hotaru to Alice Academy, a prestigious school for children with supernatural abilities called Alices; the school's gleaming surface conceals a system that exploits children with exceptional abilities for organizational purposes."
 coverImage: "/covers/gakuen-alice.jpg"
 amazonASIN: "1598162993"
-publishedAt: "2026-05-06"
+publishedAt: "2025-06-17"
 tags: ["romance", "fantasy", "school", "dark-themes", "completed", "teen", "tokyopop", "supernatural-abilities"]
 rating: 4
 hasAffiliate: true

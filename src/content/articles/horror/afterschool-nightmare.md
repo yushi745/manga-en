@@ -21,7 +21,7 @@ contentWarnings:
   - "mature themes"
 description: "Yu's review of Afterschool Nightmare — students are forced into a dream world where their innermost secrets manifest and they must find a key from another student to graduate."
 amazonASIN: "1933617292"
-publishedAt: "2026-04-26"
+publishedAt: "2025-03-02"
 tags:
   - "horror"
   - "psychological"

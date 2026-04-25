@@ -17,7 +17,7 @@ contentWarnings: ["political marriage", "fantasy violence", "racial discriminati
 description: "Yu's review of Dawn of the Arcana — Princess Nakaba of Senan is married to Prince Caesar of the rival kingdom Belquat as a political settlement; Caesar despises her for her red hair, which marks her people as inferior; she possesses the Arcana of Time, a power that shows her moments of other people's lives; Rei Toma's fantasy romance about power and genuine connection across political enmity."
 coverImage: "/covers/dawn-of-the-arcana.jpg"
 amazonASIN: "1421541424"
-publishedAt: "2026-05-27"
+publishedAt: "2025-06-03"
 tags: ["romance", "fantasy", "completed", "teen", "viz-media", "political-marriage", "shojo", "arcana"]
 rating: 4
 hasAffiliate: true

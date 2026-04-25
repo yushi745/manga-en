@@ -19,7 +19,7 @@ contentWarnings:
   - "adult themes"
 description: "Yu's review of Gravitation — an aspiring pop musician's dream of stardom collides with a cold, dismissive novelist who somehow becomes both his harshest critic and the center of his world."
 amazonASIN: "1591824079"
-publishedAt: "2026-04-26"
+publishedAt: "2025-06-21"
 tags:
   - "yaoi"
   - "BL"

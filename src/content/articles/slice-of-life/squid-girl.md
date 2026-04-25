@@ -17,7 +17,7 @@ contentWarnings: ["slapstick comedy", "failed world conquest premise", "squid-re
 description: "Yu's review of Squid Girl — Ika Musume (Squid Girl) emerges from the sea to conquer humanity as revenge for ocean pollution; she is immediately defeated by the Aizawa sisters who run a beach house and ends up working there to pay for property damage; world conquest is repeatedly delayed."
 coverImage: "/covers/squid-girl.jpg"
 amazonASIN: "1569700869"
-publishedAt: "2026-05-12"
+publishedAt: "2026-02-23"
 tags: ["slice-of-life", "comedy", "completed", "all-ages", "media-blasters", "squid", "beach", "failed-conquest"]
 rating: 4
 hasAffiliate: true

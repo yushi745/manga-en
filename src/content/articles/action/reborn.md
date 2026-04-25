@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence", "mafia themes", "time travel elements"]
 description: "Yu's review of Katekyo Hitman Reborn! — an infant hitman named Reborn arrives to tutor the world's unluckiest middle schooler into becoming the Tenth Boss of the Vongola Mafia Family."
 coverImage: "/covers/reborn.jpg"
 amazonASIN: "1421513374"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-12"
 tags: ["action", "comedy", "shonen", "mafia", "completed", "friendship"]
 rating: 4
 hasAffiliate: true

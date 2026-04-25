@@ -17,7 +17,7 @@ contentWarnings: ["ninja action violence", "some dark story turns in later volum
 description: "Yu's review of Boruto — Boruto Uzumaki is the son of the Seventh Hokage; he resents the attention his father gets as a legend; his generation faces threats the previous one could not have imagined, including enemies from outside the world the Ninja War established."
 coverImage: "/covers/boruto.jpg"
 amazonASIN: "1974714470"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-06"
 tags: ["action", "shonen", "ongoing", "ninja", "Naruto-sequel"]
 rating: 3
 hasAffiliate: true

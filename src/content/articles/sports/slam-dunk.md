@@ -17,7 +17,7 @@ contentWarnings: ["sports violence", "mild delinquent themes"]
 description: "Yu's review of Slam Dunk — a delinquent who has never played basketball joins the school team to impress a girl, and discovers that he might actually be a natural genius at the game."
 coverImage: "/covers/slam-dunk.jpg"
 amazonASIN: "1974713717"
-publishedAt: "2026-04-24"
+publishedAt: "2026-04-18"
 tags: ["sports", "basketball", "shonen", "classic", "completed", "comedy"]
 rating: 5
 hasAffiliate: true

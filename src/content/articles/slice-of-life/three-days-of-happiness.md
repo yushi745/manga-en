@@ -17,7 +17,7 @@ contentWarnings: ["selling lifespan themes", "death and limited time", "regret t
 description: "Yu's review of Three Days of Happiness — in a world where you can sell your remaining lifespan for money, Kusunoki sells most of his and discovers he has only three months left; manga adaptation of Sugaru Miaki's novel about what matters when time is finite."
 coverImage: "/covers/three-days-of-happiness.jpg"
 amazonASIN: "0316561908"
-publishedAt: "2026-05-24"
+publishedAt: "2026-02-28"
 tags: ["slice-of-life", "drama", "completed", "teen-plus", "yen-press", "lifespan", "regret", "literary"]
 rating: 5
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["gender transformation themes", "martial arts violence played 
 description: "Yu's review of Ranma ½ — Ranma Saotome is a martial arts prodigy; after falling into a cursed spring in China, he transforms into a girl when splashed with cold water and back into a boy with hot water; his father has arranged him to be engaged to Akane Tendo, who hates boys; the series follows their chaotic not-quite-relationship and the increasingly bizarre martial arts challenges that find them."
 coverImage: "/covers/ranma-1-2.jpg"
 amazonASIN: "1974709760"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-11"
 tags: ["action", "comedy", "completed", "classic", "martial-arts", "gender", "rumiko-takahashi"]
 rating: 5
 hasAffiliate: true

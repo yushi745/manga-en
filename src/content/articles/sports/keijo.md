@@ -20,7 +20,7 @@ contentWarnings:
 description: "A comprehensive review of Keijo!!!!!!!! — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/keijo.jpg"
 amazonASIN: "1421590786"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-04"
 tags:
   - "sports"
   - "comedy"

@@ -17,7 +17,7 @@ contentWarnings: ["boxing violence", "depictions of brain injury risk", "intense
 description: "Yu's review of Hajime no Ippo — a bullied high school boy is saved by a professional boxer, discovers he has a natural gift for the sport, and begins the long road to becoming a champion."
 coverImage: "/covers/hajime-no-ippo.jpg"
 amazonASIN: "1612629229"
-publishedAt: "2026-04-24"
+publishedAt: "2026-03-29"
 tags: ["sports", "boxing", "shonen", "ongoing", "classic", "long-running"]
 rating: 5
 hasAffiliate: true

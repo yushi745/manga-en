@@ -17,7 +17,7 @@ contentWarnings: ["fantasy violence played for comedy", "mild peril", "property 
 description: "Yu's review of Dragon Goes House-Hunting — Letty is a dragon who failed to guard a hero's egg; his father throws him out of the family nest; he must find a new place to live, but every cave, ruin, and lair in the fantasy world has problems ranging from adventurer invasions to incompatible neighbors; he hires Dearia, a dark elf architect, to help."
 coverImage: "/covers/dragon-goes-house-hunting.jpg"
 amazonASIN: "1638582718"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-05"
 tags: ["fantasy", "comedy", "completed", "dragon", "slice-of-life", "isekai-adjacent"]
 rating: 4
 hasAffiliate: true

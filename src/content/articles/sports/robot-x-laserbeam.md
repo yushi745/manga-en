@@ -18,7 +18,7 @@ contentWarnings:
 description: "A comprehensive review of Robot x Laserbeam — plot, characters, art style, and whether it's worth reading."
 coverImage: "/covers/robot-x-laserbeam.jpg"
 amazonASIN: "1974700009"
-publishedAt: "2026-04-25"
+publishedAt: "2026-04-17"
 tags:
   - "sports"
   - "golf"

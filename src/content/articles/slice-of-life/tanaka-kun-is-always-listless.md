@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["very mild content — this is extremely gentle manga"]
 description: "Yu's review of Tanaka-kun Is Always Listless — Tanaka is a high school boy whose entire being is devoted to doing as little as possible; his best friend Ohta carries him when necessary; the series follows Tanaka's profound listlessness encountering the energetic, enthusiastic people around him without disturbing his fundamental peace."
 coverImage: "/covers/tanaka-kun-is-always-listless.jpg"
-publishedAt: "2026-04-24"
+publishedAt: "2026-02-26"
 tags: ["slice-of-life", "comedy", "completed", "gentle", "school", "Yen-Press"]
 rating: 4
 hasAffiliate: false

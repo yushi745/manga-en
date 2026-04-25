@@ -17,7 +17,7 @@ contentWarnings: ["mild violence", "themes of discrimination", "emotional themes
 description: "Yu's review of Astro Boy — Dr. Tenma creates a robot child in the image of his deceased son; when the robot fails to satisfy his grief, he abandons it; the robot, Astro, is bought by a circus and eventually freed and becomes a defender of both humans and robots in a world that is learning to coexist with artificial life; Osamu Tezuka's foundational manga."
 coverImage: "/covers/astro-boy.jpg"
 amazonASIN: "1569715548"
-publishedAt: "2026-04-25"
+publishedAt: "2025-10-10"
 tags: ["sci-fi", "classic", "completed", "all-ages", "dark-horse", "osamu-tezuka", "robots"]
 rating: 5
 hasAffiliate: true

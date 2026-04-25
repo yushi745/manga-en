@@ -17,7 +17,7 @@ contentWarnings: ["mild romantic content", "elite school setting"]
 description: "Yu's review of Special A — Hikari Hanazono has been second to Kei Takishima since childhood; she is completely dedicated to surpassing him and completely unaware that he has loved her for years."
 coverImage: "/covers/special-a.jpg"
 amazonASIN: "1421513757"
-publishedAt: "2026-04-24"
+publishedAt: "2025-08-31"
 tags: ["romance", "comedy", "shojo", "completed", "elite-school", "oblivious-heroine"]
 rating: 4
 hasAffiliate: true

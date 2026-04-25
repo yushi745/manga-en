@@ -17,7 +17,7 @@ contentWarnings: []
 description: "Yu's review of Beyblade — Tyson Granger and his team compete in spinning top tournaments with Beyblades that have bit-beasts, spiritual creatures living in the tops; the manga that launched the global Beyblade franchise is a compact competitive action series for younger readers."
 coverImage: "/covers/beyblade.jpg"
 amazonASIN: "1591162963"
-publishedAt: "2026-04-25"
+publishedAt: "2026-03-18"
 tags: ["sports", "action", "completed", "all-ages", "viz", "tournament", "kids"]
 rating: 3
 hasAffiliate: true

@@ -17,7 +17,7 @@ contentWarnings: ["magic combat", "school tournament arc", "romance elements", "
 description: "Yu's review of Chivalry of a Failed Knight — Ikki Kurogane is ranked F, the lowest grade for a Blazer; his ability to generate a magic weapon is weak by any measurable metric; Stella Vermillion is an A-Ranked princess from a foreign nation, the strongest new student at the academy; Ikki challenges her to a duel and beats her."
 coverImage: "/covers/chivalry-failed-knight.jpg"
 amazonASIN: "1975303725"
-publishedAt: "2026-05-04"
+publishedAt: "2024-11-30"
 tags: ["fantasy", "action", "magic-school", "tournament", "ongoing", "teen", "yen-press", "underdog"]
 rating: 4
 hasAffiliate: true

@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["death of characters including apparent protagonists", "psychological manipulation", "thriller violence", "major twist in chapter 1"]
 description: "Yu's review of Talentless Nana — a school for the Talented has a new transfer student who presents as optimistic and Talentless; within the first chapter the entire premise is revealed to be something else entirely, and the series becomes a cat-and-mouse thriller."
 coverImage: "/covers/talentless-nana.jpg"
-publishedAt: "2026-04-24"
+publishedAt: "2024-10-28"
 tags: ["action", "thriller", "mystery", "shonen", "completed", "twist"]
 rating: 5
 hasAffiliate: false

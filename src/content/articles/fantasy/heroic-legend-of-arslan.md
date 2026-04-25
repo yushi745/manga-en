@@ -17,7 +17,7 @@ contentWarnings: ["war", "historical violence", "slavery themes", "political int
 description: "Yu's review of The Heroic Legend of Arslan — Prince Arslan of Pars watches his kingdom fall to an invading force; his father is betrayed by a trusted general; Arslan must gather allies and rebuild an army to retake his throne, while learning what kind of king he wants to be."
 coverImage: "/covers/heroic-legend-of-arslan.jpg"
 amazonASIN: "163236085X"
-publishedAt: "2026-04-24"
+publishedAt: "2024-12-18"
 tags: ["fantasy", "historical", "ongoing", "war", "political-intrigue", "arakawa"]
 rating: 5
 hasAffiliate: true

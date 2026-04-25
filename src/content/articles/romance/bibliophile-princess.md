@@ -17,7 +17,7 @@ contentWarnings: ["court politics", "light romance", "historical fantasy setting
 description: "Yu's review of Bibliophile Princess — Lady Elianna Bernstein has agreed to be Crown Prince Christopher's fiancée in name only so he can avoid other matchmaking; the arrangement is perfect because she just wants to read in the royal library; but what she has been taking for granted may be more complicated than she assumed."
 coverImage: "/covers/bibliophile-princess.jpg"
 amazonASIN: "1638584028"
-publishedAt: "2026-05-02"
+publishedAt: "2025-05-19"
 tags: ["romance", "fantasy", "historical", "ongoing", "teen", "seven-seas", "otome", "slow-burn"]
 rating: 4
 hasAffiliate: true

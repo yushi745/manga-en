@@ -17,7 +17,7 @@ contentWarnings: ["supernatural violence", "yokai horror elements", "battle sequ
 description: "Yu's review of Nura: Rise of the Yokai Clan — Rikuo Nana is one-quarter yokai and grandson of Nurarihyon, the Supreme Commander of all yokai; during the day he lives as an ordinary middle schooler who wants nothing to do with the supernatural; at night his yokai blood awakens and he becomes something else entirely; as rival yokai clans threaten his grandfather's domain, Rikuo must decide whether to embrace his heritage."
 coverImage: "/covers/nura-rise-of-the-yokai-clan.jpg"
 amazonASIN: "1421538199"
-publishedAt: "2026-04-25"
+publishedAt: "2024-10-01"
 tags: ["action", "supernatural", "yokai", "shonen", "completed", "viz"]
 rating: 4
 hasAffiliate: true

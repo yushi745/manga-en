@@ -17,7 +17,7 @@ contentWarnings: ["supernatural romance", "twin boys as guardians", "demon hunti
 description: "Yu's review of Jiu Jiu — Takamichi Night is a young female demon hunter who lost her twin brother; she is assigned two half-werewolf familiars, twin boys named Snow and Night, who follow her everywhere in both wolf and human form; Touya Tobina's supernatural romance about a girl who doesn't want protection and the beings who exist to protect her."
 coverImage: "/covers/jiu-jiu.jpg"
 amazonASIN: "1421549433"
-publishedAt: "2026-05-29"
+publishedAt: "2025-07-05"
 tags: ["romance", "supernatural", "completed", "teen-plus", "viz-media", "werewolf", "demon-hunter", "hana-to-yume"]
 rating: 3
 hasAffiliate: true

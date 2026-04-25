@@ -17,7 +17,7 @@ contentWarnings: ["action violence", "supernatural powers", "some adult themes",
 description: "Yu's review of GetBackers — Ban Mido and Ginji Amano run a recovery service out of a rundown car; they retrieve anything that has been taken; their 100% success rate is maintained through supernatural abilities including Ban's Evil Eye and Ginji's lightning generation."
 coverImage: "/covers/getbackers.jpg"
 amazonASIN: "1591825539"
-publishedAt: "2026-04-24"
+publishedAt: "2024-08-29"
 tags: ["action", "supernatural", "completed", "duo-protagonists", "recovery"]
 rating: 4
 hasAffiliate: true

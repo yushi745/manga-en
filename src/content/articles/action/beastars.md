@@ -17,7 +17,7 @@ contentWarnings: ["predator/prey violence", "identity and desire themes", "murde
 description: "Yu's review of Beastars — In a society of anthropomorphic animals where carnivores and herbivores coexist under strict laws, Legoshi is a large wolf who tries to suppress his predatory nature; after a fellow student is murdered, he finds himself drawn to Haru, a small white dwarf rabbit, and must confront what he really is."
 coverImage: "/covers/beastars.jpg"
 amazonASIN: "1974714721"
-publishedAt: "2026-04-24"
+publishedAt: "2024-07-30"
 tags: ["action", "drama", "completed", "anthropomorphic", "mystery", "seinen", "mature"]
 rating: 5
 hasAffiliate: true
