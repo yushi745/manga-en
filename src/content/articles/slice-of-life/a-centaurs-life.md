@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 18 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get A Centaur's Life Vol. 1 on Amazon →](https://www.amazon.com/dp/1626924880)
+[Get A Centaur's Life Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Centaur%27s+Life+manga)
 
 ---
 

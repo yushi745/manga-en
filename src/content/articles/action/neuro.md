@@ -125,7 +125,7 @@ Viz Media published the complete 23-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Neuro Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513447)
+[Get Neuro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Majin+Tantei+Nougami+Neuro+manga)
 
 ---
 

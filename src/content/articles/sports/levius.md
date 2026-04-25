@@ -121,7 +121,7 @@ VIZ Media published all 3 volumes. Complete and available. Levius/est (sequel) a
 
 ## Where to Buy
 
-[Get Levius Vol. 1 on Amazon →](https://www.amazon.com/dp/1421594269)
+[Get Levius Vol. 1 on Amazon →](https://www.amazon.com/s?k=Levius+manga)
 
 ---
 

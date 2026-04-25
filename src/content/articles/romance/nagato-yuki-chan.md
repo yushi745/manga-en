@@ -125,7 +125,7 @@ Yen Press published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get The Disappearance of Nagato Yuki-chan Vol. 1 on Amazon →](https://www.amazon.com/dp/0316344834)
+[Get The Disappearance of Nagato Yuki-chan Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Disappearance+of+Nagato+Yuki-chan+manga)
 
 ---
 

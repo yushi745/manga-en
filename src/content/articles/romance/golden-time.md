@@ -125,7 +125,7 @@ Yen Press published the complete 9-volume manga. All volumes available.
 
 ## Where to Buy
 
-[Get Golden Time Vol. 1 on Amazon →](https://www.amazon.com/dp/0316360201)
+[Get Golden Time Vol. 1 on Amazon →](https://www.amazon.com/s?k=Golden+Time+manga)
 
 ---
 

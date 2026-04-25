@@ -125,7 +125,7 @@ VIZ Media published the complete English series. All 3 volumes available.
 
 ## Where to Buy
 
-[Get Fairy Cube Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506785)
+[Get Fairy Cube Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fairy+Cube+manga)
 
 ---
 

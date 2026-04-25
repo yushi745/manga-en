@@ -125,7 +125,7 @@ Kodansha USA published the complete 14-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Blue Period Vol. 1 on Amazon →](https://www.amazon.com/dp/1646511123)
+[Get Blue Period Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Period+manga)
 
 ---
 

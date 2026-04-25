@@ -123,7 +123,7 @@ Kodansha published the complete English series with translation notes. All 14 vo
 
 ## Where to Buy
 
-[Get Sayonara, Zetsubou-Sensei Vol. 1 on Amazon →](https://www.amazon.com/dp/0345502167)
+[Get Sayonara, Zetsubou-Sensei Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sayonara%2C+Zetsubou-Sensei+manga)
 
 ---
 

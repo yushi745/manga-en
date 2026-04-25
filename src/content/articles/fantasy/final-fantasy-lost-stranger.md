@@ -127,7 +127,7 @@ Square Enix Manga published the complete English series. All 9 volumes available
 
 ## Where to Buy
 
-[Get Final Fantasy: Lost Stranger Vol. 1 on Amazon →](https://www.amazon.com/dp/1646090977)
+[Get Final Fantasy: Lost Stranger Vol. 1 on Amazon →](https://www.amazon.com/s?k=Final+Fantasy%3A+Lost+Stranger+manga)
 
 ---
 

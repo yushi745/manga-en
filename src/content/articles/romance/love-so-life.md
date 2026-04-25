@@ -123,7 +123,7 @@ Yen Press published all 17 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Love So Life Vol. 1 on Amazon →](https://www.amazon.com/dp/0316226033)
+[Get Love So Life Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+So+Life+manga)
 
 ---
 

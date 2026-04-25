@@ -125,7 +125,7 @@ VIZ Media published all 10 volumes of Season 1. Complete and available. Season 2
 
 ## Where to Buy
 
-[Get Rosario + Vampire Vol. 1 on Amazon →](https://www.amazon.com/dp/1421519038)
+[Get Rosario + Vampire Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rosario+%2B+Vampire+manga)
 
 ---
 

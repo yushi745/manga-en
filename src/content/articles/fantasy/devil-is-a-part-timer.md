@@ -128,7 +128,7 @@ Yen Press published the complete 15-volume manga adaptation. The light novel ser
 
 ## Where to Buy
 
-[Get The Devil Is a Part-Timer! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316383139)
+[Get The Devil Is a Part-Timer! Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Devil+Is+a+Part-Timer%21+manga)
 
 ---
 

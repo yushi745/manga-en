@@ -125,7 +125,7 @@ Square Enix Manga is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get By the Grace of the Gods Vol. 1 on Amazon →](https://www.amazon.com/dp/1646090802)
+[Get By the Grace of the Gods Vol. 1 on Amazon →](https://www.amazon.com/s?k=By+the+Grace+of+the+Gods+manga)
 
 ---
 

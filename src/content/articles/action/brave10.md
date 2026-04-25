@@ -123,7 +123,7 @@ Viz Media published the complete English series. All 10 volumes available.
 
 ## Where to Buy
 
-[Get Brave 10 Vol. 1 on Amazon →](https://www.amazon.com/dp/142152476X)
+[Get Brave 10 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Brave+10+manga)
 
 ---
 

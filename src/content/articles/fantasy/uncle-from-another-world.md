@@ -125,7 +125,7 @@ Seven Seas Entertainment publishes the ongoing English series. 9+ volumes curren
 
 ## Where to Buy
 
-[Get Uncle from Another World Vol. 1 on Amazon →](https://www.amazon.com/dp/1638583625)
+[Get Uncle from Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Uncle+from+Another+World+manga)
 
 ---
 

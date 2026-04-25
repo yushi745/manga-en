@@ -123,7 +123,7 @@ VIZ Media published all 4 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Phantom Seer Vol. 1 on Amazon →](https://www.amazon.com/dp/1974734633)
+[Get Phantom Seer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Phantom+Seer+manga)
 
 ---
 

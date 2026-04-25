@@ -127,7 +127,7 @@ SuBLime (VIZ's BL imprint) published the complete 8-volume series. All volumes a
 
 ## Where to Buy
 
-[Get Given Vol. 1 on Amazon →](https://www.amazon.com/dp/197470980X)
+[Get Given Vol. 1 on Amazon →](https://www.amazon.com/s?k=Given+manga)
 
 ---
 

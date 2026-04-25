@@ -122,7 +122,7 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Medabots Vol. 1 on Amazon →](https://www.amazon.com/dp/1569317917)
+[Get Medabots Vol. 1 on Amazon →](https://www.amazon.com/s?k=Medabots+manga)
 
 ---
 

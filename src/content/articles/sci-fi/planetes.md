@@ -132,7 +132,7 @@ Dark Horse Comics published the complete English edition. The omnibus is availab
 
 ## Where to Buy
 
-[Get Planetes Omnibus on Amazon →](https://www.amazon.com/dp/1595820914)
+[Get Planetes Omnibus on Amazon →](https://www.amazon.com/s?k=Planetes+manga)
 
 ---
 

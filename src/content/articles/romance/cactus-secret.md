@@ -123,7 +123,7 @@ Viz Media published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get Cactus's Secret Vol. 1 on Amazon →](https://www.amazon.com/dp/1421534827)
+[Get Cactus's Secret Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cactus%27s+Secret+manga)
 
 ---
 

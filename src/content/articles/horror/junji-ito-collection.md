@@ -138,7 +138,7 @@ VIZ Media published the English edition. Available in print and digital. The pro
 
 ## Where to Buy
 
-[Get Shiver: Junji Ito Selected Stories on Amazon →](https://www.amazon.com/dp/1421596938)
+[Get Shiver: Junji Ito Selected Stories on Amazon →](https://www.amazon.com/s?k=Shiver%3A+Junji+Ito+Selected+Stories+manga)
 
 ---
 

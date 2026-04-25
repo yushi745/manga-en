@@ -126,7 +126,7 @@ VIZ Media published the English edition as a single volume. Available in print a
 
 ## Where to Buy
 
-[Get Remina on Amazon →](https://www.amazon.com/dp/1974717476)
+[Get Remina on Amazon →](https://www.amazon.com/s?k=Remina+manga)
 
 ---
 

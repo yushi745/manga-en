@@ -126,7 +126,7 @@ Kodansha USA published the complete 20-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Ashita no Joe Vol. 1 on Amazon →](https://www.amazon.com/dp/1647293871)
+[Get Ashita no Joe Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ashita+no+Joe+manga)
 
 ---
 

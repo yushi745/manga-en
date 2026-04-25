@@ -123,7 +123,7 @@ Viz Media published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get Ultra Romantic Vol. 1 on Amazon →](https://www.amazon.com/dp/1974732592)
+[Get Ultra Romantic Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ultra+Romantic+manga)
 
 ---
 

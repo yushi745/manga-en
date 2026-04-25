@@ -127,7 +127,7 @@ VIZ Media published the complete 31-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Golden Kamuy Vol. 1 on Amazon →](https://www.amazon.com/dp/1421594943)
+[Get Golden Kamuy Vol. 1 on Amazon →](https://www.amazon.com/s?k=Golden+Kamuy+manga)
 
 ---
 

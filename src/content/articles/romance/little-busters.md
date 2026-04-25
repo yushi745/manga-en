@@ -125,7 +125,7 @@ Yen Press published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get Little Busters! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316321672)
+[Get Little Busters! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Little+Busters%21+manga)
 
 ---
 

@@ -121,7 +121,7 @@ Yen Press published the complete 8-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Mangaka-san to Assistant-san Vol. 1 on Amazon →](https://www.amazon.com/dp/0316336068)
+[Get Mangaka-san to Assistant-san Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mangaka-san+to+Assistant-san+to+manga)
 
 ---
 

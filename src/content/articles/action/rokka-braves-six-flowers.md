@@ -127,7 +127,7 @@ Yen Press has published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Rokka: Braves of the Six Flowers Vol. 1 on Amazon →](https://www.amazon.com/dp/0316315079)
+[Get Rokka: Braves of the Six Flowers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rokka%3A+Braves+of+the+Six+Flowers+manga)
 
 ---
 

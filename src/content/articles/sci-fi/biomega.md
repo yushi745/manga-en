@@ -120,7 +120,7 @@ VIZ Media published the complete 6-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Biomega Vol. 1 on Amazon →](https://www.amazon.com/dp/1421531844)
+[Get Biomega Vol. 1 on Amazon →](https://www.amazon.com/s?k=Biomega+manga)
 
 ---
 

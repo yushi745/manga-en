@@ -131,7 +131,7 @@ VIZ Media published the complete 18-volume series, plus a side story volume. All
 
 ## Where to Buy
 
-[Get Ouran High School Host Club Vol. 1 on Amazon →](https://www.amazon.com/dp/1591169151)
+[Get Ouran High School Host Club Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ouran+High+School+Host+Club+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Dark Horse Comics published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Blood Blockade Battlefront Vol. 1 on Amazon →](https://www.amazon.com/dp/1616559071)
+[Get Blood Blockade Battlefront Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blood+Blockade+Battlefront+manga)
 
 ---
 

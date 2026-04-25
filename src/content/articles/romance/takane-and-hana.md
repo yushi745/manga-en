@@ -127,7 +127,7 @@ VIZ Media published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Takane & Hana Vol. 1 on Amazon →](https://www.amazon.com/dp/1421599031)
+[Get Takane & Hana Vol. 1 on Amazon →](https://www.amazon.com/s?k=Takane+%26+Hana+manga)
 
 ---
 

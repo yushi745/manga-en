@@ -128,7 +128,7 @@ Del Rey / Kodansha USA published the complete 19-volume series. All volumes avai
 
 ## Where to Buy
 
-[Get xxxHOLiC Vol. 1 on Amazon →](https://www.amazon.com/dp/0345470583)
+[Get xxxHOLiC Vol. 1 on Amazon →](https://www.amazon.com/s?k=xxxHOLiC+manga)
 
 ---
 

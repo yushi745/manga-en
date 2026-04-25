@@ -127,7 +127,7 @@ Dark Horse Comics published the complete 25-volume run. Also available digitally
 
 ## Where to Buy
 
-[Get GTO: Great Teacher Onizuka Vol. 1 on Amazon →](https://www.amazon.com/dp/1569315272)
+[Get GTO: Great Teacher Onizuka Vol. 1 on Amazon →](https://www.amazon.com/s?k=GTO%3A+Great+Teacher+Onizuka+manga)
 
 ---
 

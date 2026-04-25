@@ -123,7 +123,7 @@ Yen Press published the complete English series. All 5 volumes available.
 
 ## Where to Buy
 
-[Get Cat Paradise Vol. 1 on Amazon →](https://www.amazon.com/dp/0759530599)
+[Get Cat Paradise Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cat+Paradise+manga)
 
 ---
 

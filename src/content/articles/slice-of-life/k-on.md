@@ -128,7 +128,7 @@ Yen Press published the complete 4-volume series (plus K-On! College and K-On! H
 
 ## Where to Buy
 
-[Get K-On! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316189561)
+[Get K-On! Vol. 1 on Amazon →](https://www.amazon.com/s?k=K-On%21+manga)
 
 ---
 

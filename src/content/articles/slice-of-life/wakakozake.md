@@ -123,7 +123,7 @@ Yen Press published the complete English series. All 10 volumes available.
 
 ## Where to Buy
 
-[Get Wakakozake Vol. 1 on Amazon →](https://www.amazon.com/dp/0316399574)
+[Get Wakakozake Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wakakozake+manga)
 
 ---
 

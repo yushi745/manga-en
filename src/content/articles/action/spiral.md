@@ -127,7 +127,7 @@ Yen Press has published the complete English series. All 15 volumes available.
 
 ## Where to Buy
 
-[Get Spiral: Bonds of Reasoning Vol. 1 on Amazon →](https://www.amazon.com/dp/0759514895)
+[Get Spiral: Bonds of Reasoning Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spiral%3A+Bonds+of+Reasoning+manga)
 
 ---
 

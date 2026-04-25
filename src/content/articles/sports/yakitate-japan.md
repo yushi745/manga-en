@@ -127,7 +127,7 @@ VIZ Media published all 26 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Yakitate!! Japan Vol. 1 on Amazon →](https://www.amazon.com/dp/1421501058)
+[Get Yakitate!! Japan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yakitate%21%21+Japan+manga)
 
 ---
 

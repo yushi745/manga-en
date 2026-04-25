@@ -127,7 +127,7 @@ Yen Press published the complete English series. All 11 volumes available.
 
 ## Where to Buy
 
-[Get Love at Fourteen Vol. 1 on Amazon →](https://www.amazon.com/dp/0316336580)
+[Get Love at Fourteen Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+at+Fourteen+manga)
 
 ---
 

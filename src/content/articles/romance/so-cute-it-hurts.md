@@ -123,7 +123,7 @@ VIZ Media published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get So Cute It Hurts!! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421580357)
+[Get So Cute It Hurts!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=So+Cute+It+Hurts%21%21+manga)
 
 ---
 

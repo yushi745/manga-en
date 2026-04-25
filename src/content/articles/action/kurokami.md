@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 22 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Kurokami Vol. 1 on Amazon →](https://www.amazon.com/dp/1626921512)
+[Get Kurokami Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kurokami%3A+The+Animation+%28Black+God%29+manga)
 
 ---
 

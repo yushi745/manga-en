@@ -125,7 +125,7 @@ VIZ Media published 26 volumes. The English run covers a substantial portion of 
 
 ## Where to Buy
 
-[Get Doraemon Vol. 1 on Amazon →](https://www.amazon.com/dp/1421561891)
+[Get Doraemon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Doraemon+manga)
 
 ---
 

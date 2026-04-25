@@ -124,7 +124,7 @@ Kodansha Comics published a complete English edition in 9 omnibus volumes. All v
 
 ## Where to Buy
 
-[Get Princess Jellyfish Vol. 1 on Amazon →](https://www.amazon.com/dp/1612620027)
+[Get Princess Jellyfish Vol. 1 on Amazon →](https://www.amazon.com/s?k=Princess+Jellyfish+manga)
 
 ---
 

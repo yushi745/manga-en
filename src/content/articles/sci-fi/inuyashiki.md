@@ -129,7 +129,7 @@ Kodansha USA published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Inuyashiki Vol. 1 on Amazon →](https://www.amazon.com/dp/1632361213)
+[Get Inuyashiki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Inuyashiki+manga)
 
 ---
 

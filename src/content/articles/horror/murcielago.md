@@ -123,7 +123,7 @@ Yen Press publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get Murcielago Vol. 1 on Amazon →](https://www.amazon.com/dp/0316473960)
+[Get Murcielago Vol. 1 on Amazon →](https://www.amazon.com/s?k=Murcielago+manga)
 
 ---
 

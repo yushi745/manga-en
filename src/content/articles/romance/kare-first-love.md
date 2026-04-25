@@ -125,7 +125,7 @@ VIZ Media published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Kare First Love Vol. 1 on Amazon →](https://www.amazon.com/dp/1591162637)
+[Get Kare First Love Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kare+First+Love+manga)
 
 ---
 

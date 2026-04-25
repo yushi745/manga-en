@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Hyouka Vol. 1 on Amazon →](https://www.amazon.com/dp/1975381556)
+[Get Hyouka Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hyouka+manga)
 
 ---
 

@@ -121,7 +121,7 @@ Kodansha Comics published the complete 14-volume English series.
 
 ## Where to Buy
 
-[Get The Quintessential Quintuplets Vol. 1 on Amazon →](https://www.amazon.com/dp/1632367033)
+[Get The Quintessential Quintuplets Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Quintessential+Quintuplets+manga)
 
 ---
 

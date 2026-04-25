@@ -125,7 +125,7 @@ Kodansha Comics publishes the ongoing series. 18+ volumes currently available in
 
 ## Where to Buy
 
-[Get Grand Blue Dreaming Vol. 1 on Amazon →](https://www.amazon.com/dp/1632366592)
+[Get Grand Blue Dreaming Vol. 1 on Amazon →](https://www.amazon.com/s?k=Grand+Blue+Dreaming+manga)
 
 ---
 

@@ -127,7 +127,7 @@ VIZ Media is publishing the ongoing English series. 20+ volumes currently availa
 
 ## Where to Buy
 
-[Get Kaze Hikaru Vol. 1 on Amazon →](https://www.amazon.com/dp/1421500566)
+[Get Kaze Hikaru Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kaze+Hikaru+manga)
 
 ---
 

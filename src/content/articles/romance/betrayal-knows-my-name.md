@@ -123,7 +123,7 @@ Yen Press published the complete 14-volume English series.
 
 ## Where to Buy
 
-[Get The Betrayal Knows My Name Vol. 1 on Amazon →](https://www.amazon.com/dp/0316176877)
+[Get The Betrayal Knows My Name Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Betrayal+Knows+My+Name+manga)
 
 ---
 

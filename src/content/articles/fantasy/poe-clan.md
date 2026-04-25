@@ -123,7 +123,7 @@ Fantagraphics published the complete English series. Both volumes available.
 
 ## Where to Buy
 
-[Get Poe Clan Vol. 1 on Amazon →](https://www.amazon.com/dp/1683961218)
+[Get Poe Clan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Poe+Clan+manga)
 
 ---
 

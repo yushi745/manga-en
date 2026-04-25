@@ -123,7 +123,7 @@ VIZ Media has published the complete English series. Both volumes available.
 
 ## Where to Buy
 
-[Get Sugar Princess Vol. 1 on Amazon →](https://www.amazon.com/dp/1421510782)
+[Get Sugar Princess Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sugar+Princess%3A+Skating+to+Win+manga)
 
 ---
 

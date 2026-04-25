@@ -123,7 +123,7 @@ Kodansha Comics published all 22 volumes in English. Complete and available.
 
 ## Where to Buy
 
-[Get LDK Vol. 1 on Amazon →](https://www.amazon.com/dp/1612623948)
+[Get LDK Vol. 1 on Amazon →](https://www.amazon.com/s?k=LDK+manga)
 
 ---
 

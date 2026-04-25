@@ -125,7 +125,7 @@ Yen Press has published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Phantom Thief Jeanne Vol. 1 on Amazon →](https://www.amazon.com/dp/0316248207)
+[Get Phantom Thief Jeanne Vol. 1 on Amazon →](https://www.amazon.com/s?k=Phantom+Thief+Jeanne+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Viz Media published the complete 11-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Bokurano Vol. 1 on Amazon →](https://www.amazon.com/dp/142152304X)
+[Get Bokurano Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bokurano+manga)
 
 ---
 

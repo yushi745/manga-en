@@ -123,7 +123,7 @@ Yen Press published the complete 10-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Hidamari Sketch Vol. 1 on Amazon →](https://www.amazon.com/dp/0316073202)
+[Get Hidamari Sketch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hidamari+Sketch+manga)
 
 ---
 

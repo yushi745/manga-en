@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 8-volume series. All volumes ava
 
 ## Where to Buy
 
-[Get Tomo-chan Is a Girl! Vol. 1 on Amazon →](https://www.amazon.com/dp/1638585431)
+[Get Tomo-chan Is a Girl! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tomo-chan+Is+a+Girl%21+manga)
 
 ---
 

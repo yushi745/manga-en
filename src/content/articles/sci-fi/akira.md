@@ -205,7 +205,7 @@ Note: The original Japanese release was 120+ individual chapters collected into 
 
 ## Where to Buy
 
-- [📚 Akira Vol. 1 — Paperback](https://www.amazon.com/dp/1935429000)
+- [📚 Akira Vol. 1 — Paperback](https://www.amazon.com/s?k=Akira+manga)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Honey So Sweet Vol. 1 on Amazon →](https://www.amazon.com/dp/1421586843)
+[Get Honey So Sweet Vol. 1 on Amazon →](https://www.amazon.com/s?k=Honey+So+Sweet+manga)
 
 ---
 

@@ -131,7 +131,7 @@ Denpa Books is publishing the ongoing series. 15 volumes available in English.
 
 ## Where to Buy
 
-[Get March Comes in Like a Lion Vol. 1 on Amazon →](https://www.amazon.com/dp/1634428129)
+[Get March Comes in Like a Lion Vol. 1 on Amazon →](https://www.amazon.com/s?k=March+Comes+in+Like+a+Lion+manga)
 
 ---
 

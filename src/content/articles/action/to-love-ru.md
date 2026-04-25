@@ -125,7 +125,7 @@ Yen Press has published the complete English series. All 18 volumes available.
 
 ## Where to Buy
 
-[Get To Love Ru Vol. 1 on Amazon →](https://www.amazon.com/dp/0316448648)
+[Get To Love Ru Vol. 1 on Amazon →](https://www.amazon.com/s?k=To+Love+Ru+manga)
 
 ---
 

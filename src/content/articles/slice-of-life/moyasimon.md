@@ -129,7 +129,7 @@ Vertical published all 13 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Moyasimon Vol. 1 on Amazon →](https://www.amazon.com/dp/1934287067)
+[Get Moyasimon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Moyasimon%3A+Tales+of+Agriculture+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Vertical Comics published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Clockwork Planet Vol. 1 on Amazon →](https://www.amazon.com/dp/1945054085)
+[Get Clockwork Planet Vol. 1 on Amazon →](https://www.amazon.com/s?k=Clockwork+Planet+manga)
 
 ---
 

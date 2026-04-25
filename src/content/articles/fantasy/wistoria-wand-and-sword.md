@@ -123,7 +123,7 @@ Kodansha Comics is publishing the English edition, currently at 9 volumes. Ongoi
 
 ## Where to Buy
 
-[Get Wistoria: Wand and Sword Vol. 1 on Amazon →](https://www.amazon.com/dp/1646517520)
+[Get Wistoria: Wand and Sword Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wistoria%3A+Wand+and+Sword+manga)
 
 ---
 

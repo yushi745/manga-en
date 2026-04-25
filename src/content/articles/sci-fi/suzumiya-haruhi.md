@@ -125,7 +125,7 @@ Yen Press published the complete 21-volume English series.
 
 ## Where to Buy
 
-[Get The Melancholy of Haruhi Suzumiya Vol. 1 on Amazon →](https://www.amazon.com/dp/0759526737)
+[Get The Melancholy of Haruhi Suzumiya Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Melancholy+of+Haruhi+Suzumiya+manga)
 
 ---
 

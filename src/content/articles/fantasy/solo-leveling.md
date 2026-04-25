@@ -127,7 +127,7 @@ Yen Press has published the complete English manhwa adaptation. All 8 volumes av
 
 ## Where to Buy
 
-[Get Solo Leveling Vol. 1 on Amazon →](https://www.amazon.com/dp/197531937X)
+[Get Solo Leveling Vol. 1 on Amazon →](https://www.amazon.com/s?k=Solo+Leveling+manga)
 
 ---
 

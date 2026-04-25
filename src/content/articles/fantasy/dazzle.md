@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 12 volumes available (may re
 
 ## Where to Buy
 
-[Get Dazzle Vol. 1 on Amazon →](https://www.amazon.com/dp/1595322965)
+[Get Dazzle Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dazzle+manga)
 
 ---
 

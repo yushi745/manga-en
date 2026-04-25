@@ -121,7 +121,7 @@ Yen Press published the complete English series. All 8 volumes available.
 
 ## Where to Buy
 
-[Get Sword Art Online: Girls' Ops Vol. 1 on Amazon →](https://www.amazon.com/dp/0316336947)
+[Get Sword Art Online: Girls' Ops Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sword+Art+Online%3A+Girls%27+Ops+manga)
 
 ---
 

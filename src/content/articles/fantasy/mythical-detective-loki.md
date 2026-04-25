@@ -127,7 +127,7 @@ ADV Manga published the complete English series. All 7 volumes available (second
 
 ## Where to Buy
 
-[Get Mythical Detective Loki Ragnarok Vol. 1 on Amazon →](https://www.amazon.com/dp/141390191X)
+[Get Mythical Detective Loki Ragnarok Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mythical+Detective+Loki+Ragnarok+manga)
 
 ---
 

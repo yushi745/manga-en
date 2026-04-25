@@ -123,7 +123,7 @@ VIZ Media published the single complete volume. Available.
 
 ## Where to Buy
 
-[Get Sand Land on Amazon →](https://www.amazon.com/dp/1591161819)
+[Get Sand Land on Amazon →](https://www.amazon.com/s?k=Sand+Land+manga)
 
 ---
 

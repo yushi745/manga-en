@@ -121,7 +121,7 @@ Vertical published the English edition. Ongoing; multiple volumes available.
 
 ## Where to Buy
 
-[Get What Did You Eat Yesterday? Vol. 1 on Amazon →](https://www.amazon.com/dp/1941220460)
+[Get What Did You Eat Yesterday? Vol. 1 on Amazon →](https://www.amazon.com/s?k=What+Did+You+Eat+Yesterday%3F+manga)
 
 ---
 

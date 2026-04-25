@@ -125,7 +125,7 @@ Viz Media is publishing the ongoing English series. 18 volumes available.
 
 ## Where to Buy
 
-[Get Blue Box Vol. 1 on Amazon →](https://www.amazon.com/dp/1974736202)
+[Get Blue Box Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Box+manga)
 
 ---
 

@@ -130,7 +130,7 @@ Yen Press published the complete English manga series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Durarara!! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316120278)
+[Get Durarara!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Durarara%21%21+manga)
 
 ---
 

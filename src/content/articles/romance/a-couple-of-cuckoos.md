@@ -127,7 +127,7 @@ Kodansha Comics publishes the ongoing series. 16+ volumes currently available in
 
 ## Where to Buy
 
-[Get A Couple of Cuckoos Vol. 1 on Amazon →](https://www.amazon.com/dp/1646518869)
+[Get A Couple of Cuckoos Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Couple+of+Cuckoos+manga)
 
 ---
 

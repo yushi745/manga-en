@@ -125,7 +125,7 @@ Yen Press published the complete 14-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Nabari no Ou Vol. 1 on Amazon →](https://www.amazon.com/dp/0759528071)
+[Get Nabari no Ou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nabari+no+Ou+manga)
 
 ---
 

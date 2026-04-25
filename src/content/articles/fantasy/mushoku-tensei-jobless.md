@@ -125,7 +125,7 @@ Seven Seas published the complete 26-volume English series.
 
 ## Where to Buy
 
-[Get Mushoku Tensei Vol. 1 on Amazon →](https://www.amazon.com/dp/1626923418)
+[Get Mushoku Tensei Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mushoku+Tensei%3A+Jobless+Reincarnation+manga)
 
 ---
 

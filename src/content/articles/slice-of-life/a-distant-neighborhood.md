@@ -125,7 +125,7 @@ Fanfare Ponent Mon published the English translation. Both volumes available.
 
 ## Where to Buy
 
-[Get A Distant Neighborhood on Amazon →](https://www.amazon.com/dp/1561637890)
+[Get A Distant Neighborhood on Amazon →](https://www.amazon.com/s?k=A+Distant+Neighborhood+manga)
 
 ---
 

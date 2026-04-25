@@ -123,7 +123,7 @@ Seven Seas published the complete English series. All 6 volumes available.
 
 ## Where to Buy
 
-[Get Iris Zero Vol. 1 on Amazon →](https://www.amazon.com/dp/1626921296)
+[Get Iris Zero Vol. 1 on Amazon →](https://www.amazon.com/s?k=Iris+Zero+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Kodansha published the complete English series. All 13 volumes available.
 
 ## Where to Buy
 
-[Get Those Snow White Notes Vol. 1 on Amazon →](https://www.amazon.com/dp/1646516079)
+[Get Those Snow White Notes Vol. 1 on Amazon →](https://www.amazon.com/s?k=Those+Snow+White+Notes+manga)
 
 ---
 

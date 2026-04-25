@@ -125,7 +125,7 @@ Seven Seas Entertainment is publishing the ongoing English release.
 
 ## Where to Buy
 
-[Get A Certain Scientific Railgun Vol. 1 on Amazon →](https://www.amazon.com/dp/1934876429)
+[Get A Certain Scientific Railgun Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Certain+Scientific+Railgun+manga)
 
 ---
 

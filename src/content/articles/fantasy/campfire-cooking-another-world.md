@@ -125,7 +125,7 @@ Seven Seas Entertainment publishes the ongoing English series. 9+ volumes curren
 
 ## Where to Buy
 
-[Get Campfire Cooking in Another World Vol. 1 on Amazon →](https://www.amazon.com/dp/1638582904)
+[Get Campfire Cooking in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Campfire+Cooking+in+Another+World+with+My+Absurd+Skill+manga)
 
 ---
 

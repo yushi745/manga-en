@@ -127,7 +127,7 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Nightmare Inspector Vol. 1 on Amazon →](https://www.amazon.com/dp/1421518171)
+[Get Nightmare Inspector Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nightmare+Inspector%3A+Yumekui+Kenbun+manga)
 
 ---
 

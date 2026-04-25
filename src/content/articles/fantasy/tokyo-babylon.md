@@ -129,7 +129,7 @@ Yen Press currently has the complete English series available. All 7 volumes ava
 
 ## Where to Buy
 
-[Get Tokyo Babylon Vol. 1 on Amazon →](https://www.amazon.com/dp/1427807523)
+[Get Tokyo Babylon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tokyo+Babylon+manga)
 
 ---
 

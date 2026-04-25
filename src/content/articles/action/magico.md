@@ -123,7 +123,7 @@ Viz Media published the complete 9-volume English edition. All volumes available
 
 ## Where to Buy
 
-[Get Magico Vol. 1 on Amazon →](https://www.amazon.com/dp/1421564882)
+[Get Magico Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magico+manga)
 
 ---
 

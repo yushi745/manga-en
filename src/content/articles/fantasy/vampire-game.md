@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 15 volumes available (may re
 
 ## Where to Buy
 
-[Get Vampire Game Vol. 1 on Amazon →](https://www.amazon.com/dp/1892213443)
+[Get Vampire Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Vampire+Game+manga)
 
 ---
 

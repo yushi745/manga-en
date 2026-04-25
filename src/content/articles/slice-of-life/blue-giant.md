@@ -123,7 +123,7 @@ Seven Seas published all 10 volumes. Complete and available. The sequel Blue Gia
 
 ## Where to Buy
 
-[Get Blue Giant Vol. 1 on Amazon →](https://www.amazon.com/dp/1638589631)
+[Get Blue Giant Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Giant+manga)
 
 ---
 

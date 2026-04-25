@@ -123,7 +123,7 @@ Kodansha Comics published all 17 volumes in English. Complete and available.
 
 ## Where to Buy
 
-[Get Missions of Love Vol. 1 on Amazon →](https://www.amazon.com/dp/1612623859)
+[Get Missions of Love Vol. 1 on Amazon →](https://www.amazon.com/s?k=Missions+of+Love+manga)
 
 ---
 

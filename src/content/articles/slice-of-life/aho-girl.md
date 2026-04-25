@@ -126,7 +126,7 @@ Kodansha Comics published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Aho-Girl Vol. 1 on Amazon →](https://www.amazon.com/dp/1632365197)
+[Get Aho-Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Aho-Girl+manga)
 
 ---
 

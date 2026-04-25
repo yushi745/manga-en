@@ -123,7 +123,7 @@ VIZ Media published this single volume. Complete and available.
 
 ## Where to Buy
 
-[Get Sensor on Amazon →](https://www.amazon.com/dp/1974715965)
+[Get Sensor on Amazon →](https://www.amazon.com/s?k=Sensor+manga)
 
 ---
 

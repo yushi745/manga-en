@@ -125,7 +125,7 @@ Yen Press published the complete 27-volume English series.
 
 ## Where to Buy
 
-[Get A Certain Magical Index Vol. 1 on Amazon →](https://www.amazon.com/dp/0316221848)
+[Get A Certain Magical Index Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Certain+Magical+Index+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Kodansha Comics published all 16 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Real Account Vol. 1 on Amazon →](https://www.amazon.com/dp/1632362724)
+[Get Real Account Vol. 1 on Amazon →](https://www.amazon.com/s?k=Real+Account+manga)
 
 ---
 

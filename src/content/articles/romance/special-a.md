@@ -125,7 +125,7 @@ VIZ Media published the complete 17-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Special A Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513757)
+[Get Special A Vol. 1 on Amazon →](https://www.amazon.com/s?k=Special+A+manga)
 
 ---
 

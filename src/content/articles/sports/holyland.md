@@ -125,7 +125,7 @@ Viz Media published the complete 18-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Holyland Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506262)
+[Get Holyland Vol. 1 on Amazon →](https://www.amazon.com/s?k=Holyland+manga)
 
 ---
 

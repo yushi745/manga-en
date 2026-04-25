@@ -122,7 +122,7 @@ Kodansha USA published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Say I Love You Vol. 1 on Amazon →](https://www.amazon.com/dp/1612626025)
+[Get Say I Love You Vol. 1 on Amazon →](https://www.amazon.com/s?k=Say+I+Love+You+manga)
 
 ---
 

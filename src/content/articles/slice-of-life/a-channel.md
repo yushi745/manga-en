@@ -127,7 +127,7 @@ Yen Press published the complete English series. All 8 volumes available.
 
 ## Where to Buy
 
-[Get A-Channel Vol. 1 on Amazon →](https://www.amazon.com/dp/0316232335)
+[Get A-Channel Vol. 1 on Amazon →](https://www.amazon.com/s?k=A-Channel+manga)
 
 ---
 

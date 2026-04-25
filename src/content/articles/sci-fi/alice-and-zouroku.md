@@ -123,7 +123,7 @@ Yen Press published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Alice & Zouroku Vol. 1 on Amazon →](https://www.amazon.com/dp/0316439924)
+[Get Alice & Zouroku Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alice+%26+Zouroku+manga)
 
 ---
 

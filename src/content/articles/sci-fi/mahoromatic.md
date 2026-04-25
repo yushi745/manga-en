@@ -125,7 +125,7 @@ Tokyopop published all 8 volumes. Complete; older release, available in the seco
 
 ## Where to Buy
 
-[Get Mahoromatic Vol. 1 on Amazon →](https://www.amazon.com/dp/1591823420)
+[Get Mahoromatic Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mahoromatic%3A+Automatic+Maiden+manga)
 
 ---
 

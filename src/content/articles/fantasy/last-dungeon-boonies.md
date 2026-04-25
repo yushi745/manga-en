@@ -121,7 +121,7 @@ Square Enix Manga is publishing the English edition, currently at 11 volumes. On
 
 ## Where to Buy
 
-[Get Suppose a Kid from the Last Dungeon Boonies Vol. 1 on Amazon →](https://www.amazon.com/dp/1646090349)
+[Get Suppose a Kid from the Last Dungeon Boonies Vol. 1 on Amazon →](https://www.amazon.com/s?k=Suppose+a+Kid+from+the+Last+Dungeon+Boonies+Moved+to+a+Starter+Town+manga)
 
 ---
 

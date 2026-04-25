@@ -124,7 +124,7 @@ SuBLime (Viz Media imprint) published the complete English series. Both volumes 
 
 ## Where to Buy
 
-[Get Our Dining Table Vol. 1 on Amazon →](https://www.amazon.com/dp/1974705552)
+[Get Our Dining Table Vol. 1 on Amazon →](https://www.amazon.com/s?k=Our+Dining+Table+manga)
 
 ---
 

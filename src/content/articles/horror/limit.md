@@ -123,7 +123,7 @@ Kodansha Comics published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Limit Vol. 1 on Amazon →](https://www.amazon.com/dp/1612620426)
+[Get Limit Vol. 1 on Amazon →](https://www.amazon.com/s?k=Limit+manga)
 
 ---
 

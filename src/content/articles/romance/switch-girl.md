@@ -123,7 +123,7 @@ VIZ Media published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Switch Girl!! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421549433)
+[Get Switch Girl!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Switch+Girl%21%21+manga)
 
 ---
 

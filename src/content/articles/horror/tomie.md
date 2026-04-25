@@ -129,7 +129,7 @@ VIZ Media published a complete deluxe edition containing all Tomie stories. This
 
 ## Where to Buy
 
-[Get Tomie (Complete Deluxe Edition) on Amazon →](https://www.amazon.com/dp/1421590565)
+[Get Tomie (Complete Deluxe Edition) on Amazon →](https://www.amazon.com/s?k=Tomie+manga)
 
 ---
 

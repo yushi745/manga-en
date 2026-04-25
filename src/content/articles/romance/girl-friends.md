@@ -126,7 +126,7 @@ Seven Seas Entertainment has published the complete English series. All 5 volume
 
 ## Where to Buy
 
-[Get Girl Friends Vol. 1 on Amazon →](https://www.amazon.com/dp/1626925615)
+[Get Girl Friends Vol. 1 on Amazon →](https://www.amazon.com/s?k=Girl+Friends+manga)
 
 ---
 

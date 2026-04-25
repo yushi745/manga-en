@@ -121,7 +121,7 @@ Yen Press published the complete 6-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get WWW.Working!! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316477079)
+[Get WWW.Working!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=WWW.Working%21%21+manga)
 
 ---
 

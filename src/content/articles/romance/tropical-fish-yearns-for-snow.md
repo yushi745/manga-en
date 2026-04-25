@@ -127,7 +127,7 @@ Viz Media published the complete 9-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get A Tropical Fish Yearns for Snow Vol. 1 on Amazon →](https://www.amazon.com/dp/1974722929)
+[Get A Tropical Fish Yearns for Snow Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Tropical+Fish+Yearns+for+Snow+manga)
 
 ---
 

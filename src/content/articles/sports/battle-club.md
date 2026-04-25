@@ -121,7 +121,7 @@ Tokyopop published all 10 volumes. Complete; older publication, available in sec
 
 ## Where to Buy
 
-[Get Battle Club Vol. 1 on Amazon →](https://www.amazon.com/dp/1591824796)
+[Get Battle Club Vol. 1 on Amazon →](https://www.amazon.com/s?k=Battle+Club+manga)
 
 ---
 

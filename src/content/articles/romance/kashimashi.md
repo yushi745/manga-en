@@ -125,7 +125,7 @@ Seven Seas published the complete English series. All 5 volumes available.
 
 ## Where to Buy
 
-[Get Kashimashi Vol. 1 on Amazon →](https://www.amazon.com/dp/1933164867)
+[Get Kashimashi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kashimashi%3A+Girl+Meets+Girl+manga)
 
 ---
 

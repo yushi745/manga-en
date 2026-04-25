@@ -127,7 +127,7 @@ Viz Media published the complete 6-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Absolute Boyfriend Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506572)
+[Get Absolute Boyfriend Vol. 1 on Amazon →](https://www.amazon.com/s?k=Absolute+Boyfriend+manga)
 
 ---
 

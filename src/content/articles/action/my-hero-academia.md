@@ -209,8 +209,8 @@ The complete series is available in English. The whole 40-volume story is there 
 
 ## Where to Buy
 
-- [📱 My Hero Academia Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B012EM80FS)
-- [📚 My Hero Academia Vol. 1 — Paperback](https://www.amazon.com/dp/1421582694)
+- [📱 My Hero Academia Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=My+Hero+Academia+manga)
+- [📚 My Hero Academia Vol. 1 — Paperback](https://www.amazon.com/s?k=My+Hero+Academia+manga)
 
 ---
 

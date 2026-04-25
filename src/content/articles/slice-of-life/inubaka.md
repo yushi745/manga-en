@@ -123,7 +123,7 @@ Viz Media published the complete English series. All 20 volumes available.
 
 ## Where to Buy
 
-[Get Inubaka: Crazy for Dogs Vol. 1 on Amazon →](https://www.amazon.com/dp/1421511924)
+[Get Inubaka: Crazy for Dogs Vol. 1 on Amazon →](https://www.amazon.com/s?k=Inubaka%3A+Crazy+for+Dogs+manga)
 
 ---
 

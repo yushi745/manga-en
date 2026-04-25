@@ -127,7 +127,7 @@ Yen Press published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Future Diary Vol. 1 on Amazon →](https://www.amazon.com/dp/0316038369)
+[Get Future Diary Vol. 1 on Amazon →](https://www.amazon.com/s?k=Future+Diary+manga)
 
 ---
 

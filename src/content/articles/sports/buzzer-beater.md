@@ -123,7 +123,7 @@ Viz Media published the complete 8-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Buzzer Beater Vol. 1 on Amazon →](https://www.amazon.com/dp/1591167337)
+[Get Buzzer Beater Vol. 1 on Amazon →](https://www.amazon.com/s?k=Buzzer+Beater+manga)
 
 ---
 

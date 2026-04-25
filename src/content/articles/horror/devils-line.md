@@ -125,7 +125,7 @@ Vertical published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Devils' Line Vol. 1 on Amazon →](https://www.amazon.com/dp/1941220630)
+[Get Devils' Line Vol. 1 on Amazon →](https://www.amazon.com/s?k=Devils%27+Line+manga)
 
 ---
 

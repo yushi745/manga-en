@@ -125,7 +125,7 @@ Yen Press published all 8 volumes of the manga adaptation. Complete and availabl
 
 ## Where to Buy
 
-[Get Log Horizon Vol. 1 on Amazon →](https://www.amazon.com/dp/0316383589)
+[Get Log Horizon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Log+Horizon+manga)
 
 ---
 

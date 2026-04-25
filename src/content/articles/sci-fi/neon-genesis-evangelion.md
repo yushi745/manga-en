@@ -136,7 +136,7 @@ VIZ Media published the complete 14-volume series, including omnibus editions. A
 
 ## Where to Buy
 
-[Get Neon Genesis Evangelion Omnibus Vol. 1 on Amazon →](https://www.amazon.com/dp/1421550792)
+[Get Neon Genesis Evangelion Omnibus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Neon+Genesis+Evangelion+manga)
 
 ---
 

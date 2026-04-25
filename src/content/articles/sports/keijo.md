@@ -125,7 +125,7 @@ Viz Media published the complete 18-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Keijo!!!!!!!! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421596415)
+[Get Keijo!!!!!!!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Keijo%21%21%21%21%21%21%21%21+manga)
 
 ---
 

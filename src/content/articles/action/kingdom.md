@@ -126,7 +126,7 @@ Viz Media is publishing the English edition. 69+ volumes available.
 
 ## Where to Buy
 
-[Get Kingdom Vol. 1 on Amazon →](https://www.amazon.com/dp/1974710440)
+[Get Kingdom Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kingdom+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Yen Press published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Gabriel DropOut Vol. 1 on Amazon →](https://www.amazon.com/dp/0316442070)
+[Get Gabriel DropOut Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gabriel+DropOut+manga)
 
 ---
 

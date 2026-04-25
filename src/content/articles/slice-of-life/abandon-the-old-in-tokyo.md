@@ -121,7 +121,7 @@ Drawn & Quarterly published the English collection. Single volume, complete.
 
 ## Where to Buy
 
-[Get Abandon the Old in Tokyo on Amazon →](https://www.amazon.com/dp/1894937856)
+[Get Abandon the Old in Tokyo on Amazon →](https://www.amazon.com/s?k=Abandon+the+Old+in+Tokyo+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Del Rey Manga published the complete English series. All 10 volumes available.
 
 ## Where to Buy
 
-[Get Kitchen Princess Vol. 1 on Amazon →](https://www.amazon.com/dp/034549677X)
+[Get Kitchen Princess Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kitchen+Princess+manga)
 
 ---
 

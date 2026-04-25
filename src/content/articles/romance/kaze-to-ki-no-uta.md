@@ -123,7 +123,7 @@ Denpa Books published the complete English series. All 5 volumes available.
 
 ## Where to Buy
 
-[Get Kaze to Ki no Uta Vol. 1 on Amazon →](https://www.amazon.com/dp/1634429079)
+[Get Kaze to Ki no Uta Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kaze+to+Ki+no+Uta+manga)
 
 ---
 

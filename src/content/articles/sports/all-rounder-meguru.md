@@ -127,7 +127,7 @@ Kodansha Comics published all 17 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get All-Rounder Meguru Vol. 1 on Amazon →](https://www.amazon.com/dp/1612624510)
+[Get All-Rounder Meguru Vol. 1 on Amazon →](https://www.amazon.com/s?k=All-Rounder+Meguru+manga)
 
 ---
 

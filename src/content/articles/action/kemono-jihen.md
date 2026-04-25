@@ -125,7 +125,7 @@ Square Enix Manga is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get Kemono Jihen Vol. 1 on Amazon →](https://www.amazon.com/dp/1638585393)
+[Get Kemono Jihen Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kemono+Jihen+manga)
 
 ---
 

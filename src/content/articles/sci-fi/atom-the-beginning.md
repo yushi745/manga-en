@@ -125,7 +125,7 @@ VIZ Media publishes the ongoing series. 12+ volumes currently available in Engli
 
 ## Where to Buy
 
-[Get Atom: The Beginning Vol. 1 on Amazon →](https://www.amazon.com/dp/1421594536)
+[Get Atom: The Beginning Vol. 1 on Amazon →](https://www.amazon.com/s?k=Atom%3A+The+Beginning+manga)
 
 ---
 

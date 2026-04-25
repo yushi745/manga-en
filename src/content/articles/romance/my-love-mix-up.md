@@ -125,7 +125,7 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get My Love Mix-Up! Vol. 1 on Amazon →](https://www.amazon.com/dp/1974723992)
+[Get My Love Mix-Up! Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Love+Mix-Up%21+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Vertical is publishing the ongoing English series. 8 volumes available.
 
 ## Where to Buy
 
-[Get Gingitsune Vol. 1 on Amazon →](https://www.amazon.com/dp/1941220029)
+[Get Gingitsune Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gingitsune+manga)
 
 ---
 

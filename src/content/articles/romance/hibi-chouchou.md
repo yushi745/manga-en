@@ -125,7 +125,7 @@ VIZ Media published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Hibi Chouchou Vol. 1 on Amazon →](https://www.amazon.com/dp/1421595907)
+[Get Hibi Chouchou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hibi+Chouchou%3A+Everyday+Butterflies+manga)
 
 ---
 

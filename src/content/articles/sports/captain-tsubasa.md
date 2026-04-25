@@ -131,7 +131,7 @@ VIZ Media published the complete series in English, with newer editions availabl
 
 ## Where to Buy
 
-[Get Captain Tsubasa Vol. 1 on Amazon →](https://www.amazon.com/dp/1974713520)
+[Get Captain Tsubasa Vol. 1 on Amazon →](https://www.amazon.com/s?k=Captain+Tsubasa+manga)
 
 ---
 

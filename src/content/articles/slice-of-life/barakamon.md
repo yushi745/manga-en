@@ -132,7 +132,7 @@ Yen Press published the complete 18-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get Barakamon Vol. 1 on Amazon →](https://www.amazon.com/dp/0316336084)
+[Get Barakamon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Barakamon+manga)
 
 ---
 

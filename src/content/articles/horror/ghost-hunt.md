@@ -125,7 +125,7 @@ Kodansha Comics published the complete 12-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Ghost Hunt Vol. 1 on Amazon →](https://www.amazon.com/dp/1612620477)
+[Get Ghost Hunt Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ghost+Hunt+manga)
 
 ---
 

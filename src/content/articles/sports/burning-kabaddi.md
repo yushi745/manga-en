@@ -123,7 +123,7 @@ VIZ Media is publishing the English edition. Ongoing; check current volume count
 
 ## Where to Buy
 
-[Get Burning Kabaddi Vol. 1 on Amazon →](https://www.amazon.com/dp/1974721809)
+[Get Burning Kabaddi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Burning+Kabaddi+manga)
 
 ---
 

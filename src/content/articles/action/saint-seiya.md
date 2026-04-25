@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 28 volumes available.
 
 ## Where to Buy
 
-[Get Saint Seiya Vol. 1 on Amazon →](https://www.amazon.com/dp/1591163005)
+[Get Saint Seiya Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saint+Seiya+manga)
 
 ---
 

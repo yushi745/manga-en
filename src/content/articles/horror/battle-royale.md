@@ -127,7 +127,7 @@ Tokyopop published the complete 15-volume run. All volumes available (check used
 
 ## Where to Buy
 
-[Get Battle Royale Vol. 1 on Amazon →](https://www.amazon.com/dp/1591821045)
+[Get Battle Royale Vol. 1 on Amazon →](https://www.amazon.com/s?k=Battle+Royale+manga)
 
 ---
 

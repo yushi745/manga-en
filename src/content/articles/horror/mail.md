@@ -119,7 +119,7 @@ Dark Horse published all 3 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Mail Vol. 1 on Amazon →](https://www.amazon.com/dp/1593074484)
+[Get Mail Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mail+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Yen Press published the complete 10-volume series in English.
 
 ## Where to Buy
 
-[Get Bunny Drop Vol. 1 on Amazon →](https://www.amazon.com/dp/0316180297)
+[Get Bunny Drop Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bunny+Drop+manga)
 
 ---
 

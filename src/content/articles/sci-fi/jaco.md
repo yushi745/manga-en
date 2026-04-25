@@ -127,7 +127,7 @@ VIZ Media published the single-volume English edition including the Dragon Ball 
 
 ## Where to Buy
 
-[Get Jaco the Galactic Patrolman on Amazon →](https://www.amazon.com/dp/1421573970)
+[Get Jaco the Galactic Patrolman on Amazon →](https://www.amazon.com/s?k=Jaco+the+Galactic+Patrolman+manga)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get No Guns Life Vol. 1 on Amazon →](https://www.amazon.com/dp/1974710629)
+[Get No Guns Life Vol. 1 on Amazon →](https://www.amazon.com/s?k=No+Guns+Life+manga)
 
 ---
 

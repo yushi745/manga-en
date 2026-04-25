@@ -124,7 +124,7 @@ Vertical published the English omnibus edition.
 
 ## Where to Buy
 
-[Get Ayako on Amazon →](https://www.amazon.com/dp/1934287539)
+[Get Ayako on Amazon →](https://www.amazon.com/s?k=Ayako+manga)
 
 ---
 

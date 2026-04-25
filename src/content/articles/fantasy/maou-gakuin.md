@@ -124,7 +124,7 @@ Square Enix Manga is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get The Misfit of Demon King Academy Vol. 1 on Amazon →](https://www.amazon.com/dp/1646090020)
+[Get The Misfit of Demon King Academy Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Misfit+of+Demon+King+Academy+manga)
 
 ---
 

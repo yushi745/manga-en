@@ -125,7 +125,7 @@ NBM Publishing published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get Stargazing Dog on Amazon →](https://www.amazon.com/dp/1561636517)
+[Get Stargazing Dog on Amazon →](https://www.amazon.com/s?k=Stargazing+Dog+manga)
 
 ---
 

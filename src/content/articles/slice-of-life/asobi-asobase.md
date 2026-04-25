@@ -125,7 +125,7 @@ Yen Press published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Asobi Asobase Vol. 1 on Amazon →](https://www.amazon.com/dp/1975383796)
+[Get Asobi Asobase Vol. 1 on Amazon →](https://www.amazon.com/s?k=Asobi+Asobase+manga)
 
 ---
 

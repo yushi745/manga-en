@@ -125,7 +125,7 @@ VIZ Media is publishing the ongoing series. 8 volumes available in English.
 
 ## Where to Buy
 
-[Get Dark Gathering Vol. 1 on Amazon →](https://www.amazon.com/dp/1974738949)
+[Get Dark Gathering Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dark+Gathering+manga)
 
 ---
 

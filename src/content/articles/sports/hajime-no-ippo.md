@@ -132,7 +132,7 @@ Kodansha USA published 30 volumes in English before the publication was disconti
 
 ## Where to Buy
 
-[Get Hajime no Ippo Vol. 1 on Amazon →](https://www.amazon.com/dp/1612629229)
+[Get Hajime no Ippo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hajime+no+Ippo+manga)
 
 ---
 

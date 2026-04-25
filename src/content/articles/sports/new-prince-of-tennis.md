@@ -122,7 +122,7 @@ VIZ Media publishes the English edition. Ongoing.
 
 ## Where to Buy
 
-[Get New Prince of Tennis Vol. 1 on Amazon →](https://www.amazon.com/dp/1421566621)
+[Get New Prince of Tennis Vol. 1 on Amazon →](https://www.amazon.com/s?k=New+Prince+of+Tennis+manga)
 
 ---
 

@@ -122,7 +122,7 @@ Kodansha USA published the complete 26-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Code:Breaker Vol. 1 on Amazon →](https://www.amazon.com/dp/0345520998)
+[Get Code:Breaker Vol. 1 on Amazon →](https://www.amazon.com/s?k=Code%3ABreaker+manga)
 
 ---
 

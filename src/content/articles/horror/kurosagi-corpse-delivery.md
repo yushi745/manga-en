@@ -129,7 +129,7 @@ Dark Horse Comics has published 15 volumes. The series is ongoing in Japan.
 
 ## Where to Buy
 
-[Get The Kurosagi Corpse Delivery Service Vol. 1 on Amazon →](https://www.amazon.com/dp/1593073615)
+[Get The Kurosagi Corpse Delivery Service Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Kurosagi+Corpse+Delivery+Service+manga)
 
 ---
 

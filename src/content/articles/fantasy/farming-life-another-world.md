@@ -124,7 +124,7 @@ Seven Seas Entertainment is publishing the English edition, currently at 15 volu
 
 ## Where to Buy
 
-[Get Farming Life in Another World Vol. 1 on Amazon →](https://www.amazon.com/dp/1638582963)
+[Get Farming Life in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Farming+Life+in+Another+World+manga)
 
 ---
 

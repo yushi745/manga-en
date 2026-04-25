@@ -123,7 +123,7 @@ Seven Seas published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Failed Princesses Vol. 1 on Amazon →](https://www.amazon.com/dp/1638582009)
+[Get Failed Princesses Vol. 1 on Amazon →](https://www.amazon.com/s?k=Failed+Princesses+manga)
 
 ---
 

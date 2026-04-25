@@ -123,7 +123,7 @@ Yen Press published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Alice in the Country of Hearts Vol. 1 on Amazon →](https://www.amazon.com/dp/0316076996)
+[Get Alice in the Country of Hearts Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alice+in+the+Country+of+Hearts+manga)
 
 ---
 

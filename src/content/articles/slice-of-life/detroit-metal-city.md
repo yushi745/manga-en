@@ -127,7 +127,7 @@ VIZ Media has published the complete English series. All 10 volumes available.
 
 ## Where to Buy
 
-[Get Detroit Metal City Vol. 1 on Amazon →](https://www.amazon.com/dp/1421524961)
+[Get Detroit Metal City Vol. 1 on Amazon →](https://www.amazon.com/s?k=Detroit+Metal+City+manga)
 
 ---
 

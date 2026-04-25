@@ -125,7 +125,7 @@ Viz Media is actively publishing the ongoing English edition. Check for the late
 
 ## Where to Buy
 
-[Get Ranking of Kings Vol. 1 on Amazon →](https://www.amazon.com/dp/197471534X)
+[Get Ranking of Kings Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ranking+of+Kings+manga)
 
 ---
 

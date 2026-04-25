@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Spirit Circle Vol. 1 on Amazon →](https://www.amazon.com/dp/1626924236)
+[Get Spirit Circle Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spirit+Circle+manga)
 
 ---
 

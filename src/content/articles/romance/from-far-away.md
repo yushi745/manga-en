@@ -127,7 +127,7 @@ Viz Media published the complete 14-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get From Far Away Vol. 1 on Amazon →](https://www.amazon.com/dp/1591168457)
+[Get From Far Away Vol. 1 on Amazon →](https://www.amazon.com/s?k=From+Far+Away+%28Kanata+Kara%29+manga)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Ran and the Gray World Vol. 1 on Amazon →](https://www.amazon.com/dp/1421593238)
+[Get Ran and the Gray World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ran+and+the+Gray+World+manga)
 
 ---
 

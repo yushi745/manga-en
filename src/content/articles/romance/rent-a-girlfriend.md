@@ -125,7 +125,7 @@ Kodansha USA published the complete 30-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Rent-a-Girlfriend Vol. 1 on Amazon →](https://www.amazon.com/dp/1646516217)
+[Get Rent-a-Girlfriend Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rent-a-Girlfriend+manga)
 
 ---
 

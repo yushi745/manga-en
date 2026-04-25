@@ -127,7 +127,7 @@ Seven Seas Entertainment publishes the ongoing English series. 9+ volumes curren
 
 ## Where to Buy
 
-[Get She Professed Herself Pupil of the Wise Man Vol. 1 on Amazon →](https://www.amazon.com/dp/1638582548)
+[Get She Professed Herself Pupil of the Wise Man Vol. 1 on Amazon →](https://www.amazon.com/s?k=She+Professed+Herself+Pupil+of+the+Wise+Man+manga)
 
 ---
 

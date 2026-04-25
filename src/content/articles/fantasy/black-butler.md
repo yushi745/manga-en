@@ -126,7 +126,7 @@ Yen Press is publishing the ongoing series. Currently 34 volumes available in En
 
 ## Where to Buy
 
-[Get Black Butler Vol. 1 on Amazon →](https://www.amazon.com/dp/0316084298)
+[Get Black Butler Vol. 1 on Amazon →](https://www.amazon.com/s?k=Black+Butler+manga)
 
 ---
 

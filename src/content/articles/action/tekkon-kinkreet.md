@@ -123,7 +123,7 @@ Viz Media published the English omnibus. Single volume, complete.
 
 ## Where to Buy
 
-[Get Tekkon Kinkreet on Amazon →](https://www.amazon.com/dp/1421530406)
+[Get Tekkon Kinkreet on Amazon →](https://www.amazon.com/s?k=Tekkon+Kinkreet+manga)
 
 ---
 

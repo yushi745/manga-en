@@ -123,7 +123,7 @@ Vertical published the complete English edition as a single omnibus.
 
 ## Where to Buy
 
-[Get Swallowing the Earth on Amazon →](https://www.amazon.com/dp/1934287520)
+[Get Swallowing the Earth on Amazon →](https://www.amazon.com/s?k=Swallowing+the+Earth+manga)
 
 ---
 

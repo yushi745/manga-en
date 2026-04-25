@@ -125,7 +125,7 @@ Viz Media published the complete 7-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Full Moon o Sagashite Vol. 1 on Amazon →](https://www.amazon.com/dp/1591168171)
+[Get Full Moon o Sagashite Vol. 1 on Amazon →](https://www.amazon.com/s?k=Full+Moon+o+Sagashite+manga)
 
 ---
 

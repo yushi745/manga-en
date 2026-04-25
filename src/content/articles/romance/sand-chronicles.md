@@ -123,7 +123,7 @@ VIZ Media published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Sand Chronicles Vol. 1 on Amazon →](https://www.amazon.com/dp/1421511754)
+[Get Sand Chronicles Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sand+Chronicles+manga)
 
 ---
 

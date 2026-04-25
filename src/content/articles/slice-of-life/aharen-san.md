@@ -122,7 +122,7 @@ Kodansha USA published the complete 16-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Aharen-san wa Hakarenai Vol. 1 on Amazon →](https://www.amazon.com/dp/B0F9N6RQZL)
+[Get Aharen-san wa Hakarenai Vol. 1 on Amazon →](https://www.amazon.com/s?k=Aharen-san+wa+Hakarenai+manga)
 
 ---
 

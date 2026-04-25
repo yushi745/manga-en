@@ -121,7 +121,7 @@ Yen Press publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get Otome Game's Heroine Aims to Be a Villainess Vol. 1 on Amazon →](https://www.amazon.com/dp/1975352742)
+[Get Otome Game's Heroine Aims to Be a Villainess Vol. 1 on Amazon →](https://www.amazon.com/s?k=Otome+Game%27s+Heroine+Aims+to+Be+a+Villainess+manga)
 
 ---
 

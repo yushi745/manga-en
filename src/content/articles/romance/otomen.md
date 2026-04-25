@@ -125,7 +125,7 @@ Viz Media published the complete 18-volume run in their Shojo Beat imprint. All 
 
 ## Where to Buy
 
-[Get Otomen Vol. 1 on Amazon →](https://www.amazon.com/dp/1421521687)
+[Get Otomen Vol. 1 on Amazon →](https://www.amazon.com/s?k=Otomen+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Yen Press published the complete 8-volume English series.
 
 ## Where to Buy
 
-[Get Higehiro Vol. 1 on Amazon →](https://www.amazon.com/dp/1975333462)
+[Get Higehiro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Higehiro%3A+After+Being+Rejected%2C+I+Shaved+and+Took+In+a+High+School+Runaway+manga)
 
 ---
 

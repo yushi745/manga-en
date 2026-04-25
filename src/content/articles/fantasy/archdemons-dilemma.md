@@ -129,7 +129,7 @@ Seven Seas Entertainment publishes the ongoing English series. 12+ volumes curre
 
 ## Where to Buy
 
-[Get An Archdemon's Dilemma Vol. 1 on Amazon →](https://www.amazon.com/dp/1638581547)
+[Get An Archdemon's Dilemma Vol. 1 on Amazon →](https://www.amazon.com/s?k=An+Archdemon%27s+Dilemma%3A+How+to+Love+Your+Elf+Bride+manga)
 
 ---
 

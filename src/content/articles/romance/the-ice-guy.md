@@ -123,7 +123,7 @@ Yen Press publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get The Ice Guy and His Cool Female Colleague Vol. 1 on Amazon →](https://www.amazon.com/dp/1975347463)
+[Get The Ice Guy and His Cool Female Colleague Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Ice+Guy+and+His+Cool+Female+Colleague+manga)
 
 ---
 

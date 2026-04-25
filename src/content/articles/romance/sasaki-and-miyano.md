@@ -123,7 +123,7 @@ Yen Press is actively publishing the ongoing English edition. Check for the late
 
 ## Where to Buy
 
-[Get Sasaki and Miyano Vol. 1 on Amazon →](https://www.amazon.com/dp/197539694X)
+[Get Sasaki and Miyano Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sasaki+and+Miyano+manga)
 
 ---
 

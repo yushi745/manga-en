@@ -125,7 +125,7 @@ Viz Media published the complete 61-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get History's Strongest Disciple Kenichi Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513560)
+[Get History's Strongest Disciple Kenichi Vol. 1 on Amazon →](https://www.amazon.com/s?k=History%27s+Strongest+Disciple+Kenichi+manga)
 
 ---
 

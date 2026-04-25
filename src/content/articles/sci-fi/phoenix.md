@@ -121,7 +121,7 @@ Viz Media published the complete English edition of the existing 12 volumes. All
 
 ## Where to Buy
 
-[Get Phoenix Vol. 1 on Amazon →](https://www.amazon.com/dp/1591161630)
+[Get Phoenix Vol. 1 on Amazon →](https://www.amazon.com/s?k=Phoenix+manga)
 
 ---
 

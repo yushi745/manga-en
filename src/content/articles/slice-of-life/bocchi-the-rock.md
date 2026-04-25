@@ -127,7 +127,7 @@ Yen Press published the complete 7-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Bocchi the Rock! Vol. 1 on Amazon →](https://www.amazon.com/dp/1975378008)
+[Get Bocchi the Rock! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bocchi+the+Rock%21+manga)
 
 ---
 

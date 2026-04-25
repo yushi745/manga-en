@@ -123,7 +123,7 @@ Yen Press published the complete English series. All 19 volumes available.
 
 ## Where to Buy
 
-[Get Aria the Scarlet Ammo Vol. 1 on Amazon →](https://www.amazon.com/dp/0316246255)
+[Get Aria the Scarlet Ammo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Aria+the+Scarlet+Ammo+manga)
 
 ---
 

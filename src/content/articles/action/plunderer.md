@@ -125,7 +125,7 @@ VIZ Media published all 16 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Plunderer Vol. 1 on Amazon →](https://www.amazon.com/dp/1974720071)
+[Get Plunderer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Plunderer+manga)
 
 ---
 

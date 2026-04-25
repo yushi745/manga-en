@@ -122,7 +122,7 @@ Seven Seas publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get A Realist Hero Rebuilt the Kingdom Vol. 1 on Amazon →](https://www.amazon.com/dp/1645054004)
+[Get A Realist Hero Rebuilt the Kingdom Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Realist+Hero+Rebuilt+the+Kingdom+manga)
 
 ---
 

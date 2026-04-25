@@ -125,7 +125,7 @@ Seven Seas published the complete English series. All 14 volumes available.
 
 ## Where to Buy
 
-[Get Servamp Vol. 1 on Amazon →](https://www.amazon.com/dp/1626925763)
+[Get Servamp Vol. 1 on Amazon →](https://www.amazon.com/s?k=Servamp+manga)
 
 ---
 

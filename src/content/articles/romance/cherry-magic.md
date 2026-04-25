@@ -123,7 +123,7 @@ Square Enix Manga published the complete 12-volume English series.
 
 ## Where to Buy
 
-[Get Cherry Magic! Vol. 1 on Amazon →](https://www.amazon.com/dp/1646091515)
+[Get Cherry Magic! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cherry+Magic%21+Thirty+Years+of+Virginity+Can+Make+You+a+Wizard%3F%21+manga)
 
 ---
 

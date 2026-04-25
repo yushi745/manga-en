@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 10-volume run. All volumes avail
 
 ## Where to Buy
 
-[Get Accomplishments of the Duke's Daughter Vol. 1 on Amazon →](https://www.amazon.com/dp/1626929378)
+[Get Accomplishments of the Duke's Daughter Vol. 1 on Amazon →](https://www.amazon.com/s?k=Accomplishments+of+the+Duke%27s+Daughter+manga)
 
 ---
 

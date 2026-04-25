@@ -125,7 +125,7 @@ Viz Media published the complete 25-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Fly Me to the Moon Vol. 1 on Amazon →](https://www.amazon.com/dp/1974715981)
+[Get Fly Me to the Moon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fly+Me+to+the+Moon+manga)
 
 ---
 

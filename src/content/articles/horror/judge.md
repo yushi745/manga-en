@@ -124,7 +124,7 @@ Yen Press published the complete 6-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Judge Vol. 1 on Amazon →](https://www.amazon.com/dp/0316252662)
+[Get Judge Vol. 1 on Amazon →](https://www.amazon.com/s?k=Judge+manga)
 
 ---
 

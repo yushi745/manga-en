@@ -119,7 +119,7 @@ Dark Horse Comics published this single volume. Complete and available.
 
 ## Where to Buy
 
-[Get Serial Experiments Lain on Amazon →](https://www.amazon.com/dp/1569713642)
+[Get Serial Experiments Lain on Amazon →](https://www.amazon.com/s?k=Serial+Experiments+Lain+manga)
 
 ---
 

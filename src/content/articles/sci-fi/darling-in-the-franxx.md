@@ -125,7 +125,7 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Darling in the FranXX Vol. 1 on Amazon →](https://www.amazon.com/dp/1974710882)
+[Get Darling in the FranXX Vol. 1 on Amazon →](https://www.amazon.com/s?k=Darling+in+the+FranXX+manga)
 
 ---
 

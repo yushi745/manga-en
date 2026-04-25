@@ -124,7 +124,7 @@ VIZ Media published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Cross Manage Vol. 1 on Amazon →](https://www.amazon.com/dp/1421567024)
+[Get Cross Manage Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cross+Manage+manga)
 
 ---
 

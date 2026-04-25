@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Rosen Garten Saga Vol. 1 on Amazon →](https://www.amazon.com/dp/1638581185)
+[Get Rosen Garten Saga Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rosen+Garten+Saga+manga)
 
 ---
 

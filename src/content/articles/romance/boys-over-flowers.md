@@ -124,7 +124,7 @@ Viz Media published the complete 36-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Boys Over Flowers Vol. 1 on Amazon →](https://www.amazon.com/dp/1569319014)
+[Get Boys Over Flowers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Boys+Over+Flowers+%28Hana+Yori+Dango%29+manga)
 
 ---
 

@@ -128,7 +128,7 @@ Digital Manga Publishing released the complete 14-volume series. All volumes ava
 
 ## Where to Buy
 
-[Get Yokohama Kaidashi Kikou Vol. 1 on Amazon →](https://www.amazon.com/dp/1569709629)
+[Get Yokohama Kaidashi Kikou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yokohama+Kaidashi+Kikou+manga)
 
 ---
 

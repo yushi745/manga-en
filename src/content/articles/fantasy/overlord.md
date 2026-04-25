@@ -188,8 +188,8 @@ Start from Volume 1.
 
 ## Where to Buy
 
-- [📱 Overlord Vol. 1 — Kindle Edition](https://www.amazon.com/dp/0316272272)
-- [📚 Overlord Vol. 1 — Paperback](https://www.amazon.com/dp/0316272272)
+- [📱 Overlord Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Overlord+manga)
+- [📚 Overlord Vol. 1 — Paperback](https://www.amazon.com/s?k=Overlord+manga)
 
 ---
 

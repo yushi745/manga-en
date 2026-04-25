@@ -127,7 +127,7 @@ Seven Seas Entertainment has published the complete English series. All 7 volume
 
 ## Where to Buy
 
-[Get Even Though We're Adults Vol. 1 on Amazon →](https://www.amazon.com/dp/1638580545)
+[Get Even Though We're Adults Vol. 1 on Amazon →](https://www.amazon.com/s?k=Even+Though+We%27re+Adults+manga)
 
 ---
 

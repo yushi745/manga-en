@@ -124,7 +124,7 @@ Kodansha Comics is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get Rent-A-Girlfriend Vol. 1 on Amazon →](https://www.amazon.com/dp/1646510240)
+[Get Rent-A-Girlfriend Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rent-A-Girlfriend+manga)
 
 ---
 

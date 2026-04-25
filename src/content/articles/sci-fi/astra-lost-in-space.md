@@ -126,7 +126,7 @@ VIZ Media published the complete 5-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Astra: Lost in Space Vol. 1 on Amazon →](https://www.amazon.com/dp/1974704831)
+[Get Astra: Lost in Space Vol. 1 on Amazon →](https://www.amazon.com/s?k=Astra%3A+Lost+in+Space+manga)
 
 ---
 

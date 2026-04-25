@@ -124,7 +124,7 @@ Viz Media published the complete 10-volume English series.
 
 ## Where to Buy
 
-[Get Dogs: Bullets & Carnage Vol. 1 on Amazon →](https://www.amazon.com/dp/1421527294)
+[Get Dogs: Bullets & Carnage Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dogs%3A+Bullets+%26+Carnage+manga)
 
 ---
 

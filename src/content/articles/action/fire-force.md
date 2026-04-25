@@ -127,7 +127,7 @@ Kodansha USA published the complete 34-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Fire Force Vol. 1 on Amazon →](https://www.amazon.com/dp/1632363305)
+[Get Fire Force Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fire+Force+manga)
 
 ---
 

@@ -124,7 +124,7 @@ VIZ Media published all 14 volumes in the Perfect Collection omnibus format. Com
 
 ## Where to Buy
 
-[Get Ceres: Celestial Legend Vol. 1 on Amazon →](https://www.amazon.com/dp/1569315477)
+[Get Ceres: Celestial Legend Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ceres%3A+Celestial+Legend+manga)
 
 ---
 

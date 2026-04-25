@@ -121,7 +121,7 @@ Seven Seas Entertainment published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Dance in the Vampire Bund Vol. 1 on Amazon →](https://www.amazon.com/dp/1934876747)
+[Get Dance in the Vampire Bund Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dance+in+the+Vampire+Bund+manga)
 
 ---
 

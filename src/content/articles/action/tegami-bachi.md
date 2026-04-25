@@ -125,7 +125,7 @@ Viz Media published the complete 20-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Tegami Bachi Vol. 1 on Amazon →](https://www.amazon.com/dp/1421529769)
+[Get Tegami Bachi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tegami+Bachi%3A+Letter+Bee+manga)
 
 ---
 

@@ -121,7 +121,7 @@ Seven Seas Entertainment published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Dreamin' Sun Vol. 1 on Amazon →](https://www.amazon.com/dp/1626923264)
+[Get Dreamin' Sun Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dreamin%27+Sun+manga)
 
 ---
 

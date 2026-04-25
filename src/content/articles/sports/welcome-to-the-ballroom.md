@@ -127,7 +127,7 @@ Kodansha Comics is publishing the ongoing English release.
 
 ## Where to Buy
 
-[Get Welcome to the Ballroom Vol. 1 on Amazon →](https://www.amazon.com/dp/163236745X)
+[Get Welcome to the Ballroom Vol. 1 on Amazon →](https://www.amazon.com/s?k=Welcome+to+the+Ballroom+manga)
 
 ---
 

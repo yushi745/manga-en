@@ -130,7 +130,7 @@ Vertical published the complete English edition in four volumes. All volumes ava
 
 ## Where to Buy
 
-[Get Dororo Vol. 1 on Amazon →](https://www.amazon.com/dp/1934287164)
+[Get Dororo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dororo+manga)
 
 ---
 

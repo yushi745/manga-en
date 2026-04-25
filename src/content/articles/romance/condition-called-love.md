@@ -121,7 +121,7 @@ Kodansha Comics publishes the English edition. Ongoing; check current volume cou
 
 ## Where to Buy
 
-[Get A Condition Called Love Vol. 1 on Amazon →](https://www.amazon.com/dp/1646514270)
+[Get A Condition Called Love Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Condition+Called+Love+manga)
 
 ---
 

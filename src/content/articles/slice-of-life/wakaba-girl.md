@@ -121,7 +121,7 @@ Seven Seas published the complete 2-volume English series.
 
 ## Where to Buy
 
-[Get Wakaba*Girl Vol. 1 on Amazon →](https://www.amazon.com/dp/1626921504)
+[Get Wakaba*Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wakaba%2AGirl+manga)
 
 ---
 

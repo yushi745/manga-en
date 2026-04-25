@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 3 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Voynich Hotel Vol. 1 on Amazon →](https://www.amazon.com/dp/1626924228)
+[Get Voynich Hotel Vol. 1 on Amazon →](https://www.amazon.com/s?k=Voynich+Hotel+manga)
 
 ---
 

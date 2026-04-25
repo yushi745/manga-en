@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 15 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Dead Tube Vol. 1 on Amazon →](https://www.amazon.com/dp/1626924279)
+[Get Dead Tube Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dead+Tube+manga)
 
 ---
 

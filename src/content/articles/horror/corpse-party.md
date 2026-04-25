@@ -125,7 +125,7 @@ Yen Press published the complete 9-volume Blood Covered manga. All volumes avail
 
 ## Where to Buy
 
-[Get Corpse Party Vol. 1 on Amazon →](https://www.amazon.com/dp/0316385786)
+[Get Corpse Party Vol. 1 on Amazon →](https://www.amazon.com/s?k=Corpse+Party%3A+Blood+Covered+manga)
 
 ---
 

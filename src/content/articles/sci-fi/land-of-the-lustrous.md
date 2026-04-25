@@ -125,7 +125,7 @@ Kodansha Comics published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Land of the Lustrous Vol. 1 on Amazon →](https://www.amazon.com/dp/1632362449)
+[Get Land of the Lustrous Vol. 1 on Amazon →](https://www.amazon.com/s?k=Land+of+the+Lustrous+manga)
 
 ---
 

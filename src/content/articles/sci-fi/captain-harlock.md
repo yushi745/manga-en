@@ -127,7 +127,7 @@ Viz Media published the complete 6-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Captain Harlock Vol. 1 on Amazon →](https://www.amazon.com/dp/159116530X)
+[Get Captain Harlock Vol. 1 on Amazon →](https://www.amazon.com/s?k=Captain+Harlock+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Konohana Kitan Vol. 1 on Amazon →](https://www.amazon.com/dp/1626924279)
+[Get Konohana Kitan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Konohana+Kitan+manga)
 
 ---
 

@@ -127,7 +127,7 @@ Yen Press published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Godchild Vol. 1 on Amazon →](https://www.amazon.com/dp/0759530394)
+[Get Godchild Vol. 1 on Amazon →](https://www.amazon.com/s?k=Godchild+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Del Rey published all 18 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Suzuka Vol. 1 on Amazon →](https://www.amazon.com/dp/0345485556)
+[Get Suzuka Vol. 1 on Amazon →](https://www.amazon.com/s?k=Suzuka+manga)
 
 ---
 

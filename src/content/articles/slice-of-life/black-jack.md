@@ -118,7 +118,7 @@ Vertical Inc. published the complete English edition. All volumes available.
 
 ## Where to Buy
 
-[Get Black Jack Vol. 1 on Amazon →](https://www.amazon.com/dp/1934287253)
+[Get Black Jack Vol. 1 on Amazon →](https://www.amazon.com/s?k=Black+Jack+manga)
 
 ---
 

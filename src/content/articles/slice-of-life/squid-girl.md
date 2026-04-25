@@ -127,7 +127,7 @@ Media Blasters published the complete English series. All 17 volumes available (
 
 ## Where to Buy
 
-[Get Squid Girl Vol. 1 on Amazon →](https://www.amazon.com/dp/1569700869)
+[Get Squid Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Squid+Girl+manga)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published the complete series in a single omnibus volume. Available.
 
 ## Where to Buy
 
-[Get Solanin on Amazon →](https://www.amazon.com/dp/142152321X)
+[Get Solanin on Amazon →](https://www.amazon.com/s?k=Solanin+manga)
 
 ---
 

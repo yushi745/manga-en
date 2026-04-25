@@ -125,7 +125,7 @@ Kodansha Comics published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Fort of Apocalypse Vol. 1 on Amazon →](https://www.amazon.com/dp/1612628087)
+[Get Fort of Apocalypse Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fort+of+Apocalypse+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Viz Media published the complete 35-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Kekkaishi Vol. 1 on Amazon →](https://www.amazon.com/dp/1591167809)
+[Get Kekkaishi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kekkaishi+manga)
 
 ---
 

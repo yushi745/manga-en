@@ -125,7 +125,7 @@ Kodansha Comics is actively publishing the ongoing English edition. Check for th
 
 ## Where to Buy
 
-[Get The Witch and the Beast Vol. 1 on Amazon →](https://www.amazon.com/dp/1646516303)
+[Get The Witch and the Beast Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Witch+and+the+Beast+manga)
 
 ---
 

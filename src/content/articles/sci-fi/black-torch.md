@@ -121,7 +121,7 @@ VIZ Media published all 5 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Black Torch Vol. 1 on Amazon →](https://www.amazon.com/dp/1974702251)
+[Get Black Torch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Black+Torch+manga)
 
 ---
 

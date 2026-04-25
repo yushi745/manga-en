@@ -121,7 +121,7 @@ VIZ Media publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get Shangri-La Frontier Vol. 1 on Amazon →](https://www.amazon.com/dp/1974739066)
+[Get Shangri-La Frontier Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shangri-La+Frontier+manga)
 
 ---
 

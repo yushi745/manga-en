@@ -125,7 +125,7 @@ Square Enix Manga is publishing the ongoing English series. 6 volumes available.
 
 ## Where to Buy
 
-[Get My New Boss Is Goofy Vol. 1 on Amazon →](https://www.amazon.com/dp/1646091299)
+[Get My New Boss Is Goofy Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+New+Boss+Is+Goofy+manga)
 
 ---
 

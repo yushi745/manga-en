@@ -124,7 +124,7 @@ Yen Press published the complete 11-volume manga. The light novel series is also
 
 ## Where to Buy
 
-[Get Cautious Hero Vol. 1 on Amazon →](https://www.amazon.com/dp/1975385616)
+[Get Cautious Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cautious+Hero%3A+The+Hero+Is+Overpowered+but+Overly+Cautious+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Dark Horse Comics published the complete 37-volume series. All volumes available
 
 ## Where to Buy
 
-[Get Gantz Vol. 1 on Amazon →](https://www.amazon.com/dp/1593079494)
+[Get Gantz Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gantz+manga)
 
 ---
 

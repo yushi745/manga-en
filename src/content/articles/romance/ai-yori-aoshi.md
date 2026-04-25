@@ -127,7 +127,7 @@ Tokyopop published all 17 volumes. Complete and available (check used/digital av
 
 ## Where to Buy
 
-[Get Ai Yori Aoshi Vol. 1 on Amazon →](https://www.amazon.com/dp/1591822882)
+[Get Ai Yori Aoshi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ai+Yori+Aoshi+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Kodansha Comics published all 18 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get UQ Holder! Vol. 1 on Amazon →](https://www.amazon.com/dp/1632361434)
+[Get UQ Holder! Vol. 1 on Amazon →](https://www.amazon.com/s?k=UQ+Holder%21%3A+Magister+Negi+Magi%21+2+manga)
 
 ---
 

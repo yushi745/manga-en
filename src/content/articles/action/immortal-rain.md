@@ -125,7 +125,7 @@ Tokyopop published 8 volumes of the English series (9 volumes complete in Japane
 
 ## Where to Buy
 
-[Get Immortal Rain Vol. 1 on Amazon →](https://www.amazon.com/dp/1595323554)
+[Get Immortal Rain Vol. 1 on Amazon →](https://www.amazon.com/s?k=Immortal+Rain+manga)
 
 ---
 

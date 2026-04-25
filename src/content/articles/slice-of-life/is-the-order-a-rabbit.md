@@ -125,7 +125,7 @@ Yen Press publishes the ongoing series. 9+ volumes currently available in Englis
 
 ## Where to Buy
 
-[Get Is the Order a Rabbit? Vol. 1 on Amazon →](https://www.amazon.com/dp/0316560332)
+[Get Is the Order a Rabbit? Vol. 1 on Amazon →](https://www.amazon.com/s?k=Is+the+Order+a+Rabbit%3F+manga)
 
 ---
 

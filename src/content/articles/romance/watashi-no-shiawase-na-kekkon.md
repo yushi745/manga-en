@@ -123,7 +123,7 @@ Yen Press publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get My Happy Marriage Vol. 1 on Amazon →](https://www.amazon.com/dp/1975336917)
+[Get My Happy Marriage Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Happy+Marriage+manga)
 
 ---
 

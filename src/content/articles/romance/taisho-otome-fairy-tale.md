@@ -123,7 +123,7 @@ Viz Media published the complete 3-volume English series.
 
 ## Where to Buy
 
-[Get Taisho Otome Fairy Tale Vol. 1 on Amazon →](https://www.amazon.com/dp/1974734765)
+[Get Taisho Otome Fairy Tale Vol. 1 on Amazon →](https://www.amazon.com/s?k=Taisho+Otome+Fairy+Tale+manga)
 
 ---
 

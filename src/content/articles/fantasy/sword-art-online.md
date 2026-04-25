@@ -174,8 +174,8 @@ Start from Volume 1. Eight volumes for the complete Aincrad arc.
 
 ## Where to Buy
 
-- [📱 Sword Art Online Vol. 1 — Kindle Edition](https://www.amazon.com/dp/0316371238)
-- [📚 Sword Art Online Vol. 1 — Paperback](https://www.amazon.com/dp/0316371238)
+- [📱 Sword Art Online Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Sword+Art+Online+manga)
+- [📚 Sword Art Online Vol. 1 — Paperback](https://www.amazon.com/s?k=Sword+Art+Online+manga)
 
 ---
 

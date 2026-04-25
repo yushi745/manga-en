@@ -124,7 +124,7 @@ VIZ Media published all 4 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Mermaid Saga Vol. 1 on Amazon →](https://www.amazon.com/dp/1591165423)
+[Get Mermaid Saga Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mermaid+Saga+manga)
 
 ---
 

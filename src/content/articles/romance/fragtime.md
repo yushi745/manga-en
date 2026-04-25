@@ -123,7 +123,7 @@ Seven Seas published the complete English edition. 1 volume available.
 
 ## Where to Buy
 
-[Get Fragtime on Amazon →](https://www.amazon.com/dp/1626929726)
+[Get Fragtime on Amazon →](https://www.amazon.com/s?k=Fragtime+manga)
 
 ---
 

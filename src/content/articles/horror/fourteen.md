@@ -120,7 +120,7 @@ VIZ Media published both volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Fourteen on Amazon →](https://www.amazon.com/dp/1421562618)
+[Get Fourteen on Amazon →](https://www.amazon.com/s?k=Fourteen+manga)
 
 ---
 

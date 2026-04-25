@@ -123,7 +123,7 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Monkey High! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421515938)
+[Get Monkey High! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Monkey+High%21+manga)
 
 ---
 

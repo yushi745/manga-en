@@ -196,8 +196,8 @@ Start from Volume 1. The premise is established in chapter one and never gets ol
 
 ## Where to Buy
 
-- [📱 One Punch Man Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00UKMJVJO)
-- [📚 One Punch Man Vol. 1 — Paperback](https://www.amazon.com/dp/1421585642)
+- [📱 One Punch Man Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=One+Punch+Man+manga)
+- [📚 One Punch Man Vol. 1 — Paperback](https://www.amazon.com/s?k=One+Punch+Man+manga)
 
 ---
 

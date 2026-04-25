@@ -123,7 +123,7 @@ Yen Press published the English edition.
 
 ## Where to Buy
 
-[Get Not Love But Delicious Foods on Amazon →](https://www.amazon.com/dp/0759533075)
+[Get Not Love But Delicious Foods on Amazon →](https://www.amazon.com/s?k=Not+Love+But+Delicious+Foods+Make+Me+So+Happy%21+manga)
 
 ---
 

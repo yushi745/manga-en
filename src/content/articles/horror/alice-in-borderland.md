@@ -132,7 +132,7 @@ VIZ Media published all 18 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Alice in Borderland Vol. 1 on Amazon →](https://www.amazon.com/dp/1974709760)
+[Get Alice in Borderland Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alice+in+Borderland+manga)
 
 ---
 

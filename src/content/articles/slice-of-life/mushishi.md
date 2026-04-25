@@ -132,7 +132,7 @@ Kodansha USA published the complete 10-volume series in English. All volumes ava
 
 ## Where to Buy
 
-[Get Mushishi Vol. 1 on Amazon →](https://www.amazon.com/dp/0345496213)
+[Get Mushishi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mushishi+manga)
 
 ---
 

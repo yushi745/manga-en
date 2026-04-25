@@ -125,7 +125,7 @@ SuBLime (Viz Media imprint) published the complete English series. All 14 volume
 
 ## Where to Buy
 
-[Get Super Lovers Vol. 1 on Amazon →](https://www.amazon.com/dp/1974700240)
+[Get Super Lovers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Super+Lovers+manga)
 
 ---
 

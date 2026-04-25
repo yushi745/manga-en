@@ -123,7 +123,7 @@ Dark Horse published the complete English series. Both volumes available.
 
 ## Where to Buy
 
-[Get Dominion Tank Police on Amazon →](https://www.amazon.com/dp/1593073569)
+[Get Dominion Tank Police on Amazon →](https://www.amazon.com/s?k=Dominion+Tank+Police+manga)
 
 ---
 

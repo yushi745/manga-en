@@ -119,7 +119,7 @@ VIZ Media published both volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Orochi: Blood on Amazon →](https://www.amazon.com/dp/1421532166)
+[Get Orochi: Blood on Amazon →](https://www.amazon.com/s?k=Orochi%3A+Blood+manga)
 
 ---
 

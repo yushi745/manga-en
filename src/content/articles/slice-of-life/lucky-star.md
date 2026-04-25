@@ -125,7 +125,7 @@ Bandai Entertainment published 8 English volumes (2009-2012). The English public
 
 ## Where to Buy
 
-[Get Lucky Star Vol. 1 on Amazon →](https://www.amazon.com/dp/1604962380)
+[Get Lucky Star Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lucky+Star+manga)
 
 ---
 

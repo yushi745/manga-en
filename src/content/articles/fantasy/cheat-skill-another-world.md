@@ -125,7 +125,7 @@ Yen Press publishes the ongoing English series. 7+ volumes currently available.
 
 ## Where to Buy
 
-[Get I Got a Cheat Skill in Another World Vol. 1 on Amazon →](https://www.amazon.com/dp/1975344618)
+[Get I Got a Cheat Skill in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=I+Got+a+Cheat+Skill+in+Another+World+and+Became+Unrivaled+in+The+Real+World%2C+Too+manga)
 
 ---
 

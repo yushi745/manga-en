@@ -121,7 +121,7 @@ Fanfare/Ponent Mon published the complete 5-volume series. All volumes available
 
 ## Where to Buy
 
-[Get The Summit of the Gods on Amazon →](https://www.amazon.com/dp/8492444339)
+[Get The Summit of the Gods on Amazon →](https://www.amazon.com/s?k=The+Summit+of+the+Gods+manga)
 
 ---
 

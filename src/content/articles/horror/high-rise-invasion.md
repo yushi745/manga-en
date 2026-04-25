@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 21 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get High-Rise Invasion Vol. 1 on Amazon →](https://www.amazon.com/dp/1626929246)
+[Get High-Rise Invasion Vol. 1 on Amazon →](https://www.amazon.com/s?k=High-Rise+Invasion+manga)
 
 ---
 

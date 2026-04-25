@@ -123,7 +123,7 @@ Drawn & Quarterly published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get Onward Towards Our Noble Deaths on Amazon →](https://www.amazon.com/dp/1770460012)
+[Get Onward Towards Our Noble Deaths on Amazon →](https://www.amazon.com/s?k=Onward+Towards+Our+Noble+Deaths+manga)
 
 ---
 

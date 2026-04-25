@@ -123,7 +123,7 @@ Yen Press published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get KonoSuba: Explosion on This Wonderful World! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316561843)
+[Get KonoSuba: Explosion on This Wonderful World! Vol. 1 on Amazon →](https://www.amazon.com/s?k=KonoSuba%3A+An+Explosion+on+This+Wonderful+World%21+manga)
 
 ---
 

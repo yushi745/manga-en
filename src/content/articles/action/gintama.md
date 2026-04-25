@@ -195,8 +195,8 @@ Start from Volume 1. The comedy takes time to establish before the series can su
 
 ## Where to Buy
 
-- [📱 Gintama Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00FPLNVQE)
-- [📚 Gintama Vol. 1 — Paperback](https://www.amazon.com/dp/1421513579)
+- [📱 Gintama Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Gintama+manga)
+- [📚 Gintama Vol. 1 — Paperback](https://www.amazon.com/s?k=Gintama+manga)
 
 ---
 

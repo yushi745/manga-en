@@ -125,7 +125,7 @@ Media Blasters published the complete 10-volume English series.
 
 ## Where to Buy
 
-[Get Brave 10 Vol. 1 on Amazon →](https://www.amazon.com/dp/1594140456)
+[Get Brave 10 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Brave+10+manga)
 
 ---
 

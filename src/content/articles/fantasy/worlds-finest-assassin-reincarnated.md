@@ -123,7 +123,7 @@ Yen Press is publishing the English edition, currently at 9 volumes. Ongoing.
 
 ## Where to Buy
 
-[Get The World's Finest Assassin Gets Reincarnated Vol. 1 on Amazon →](https://www.amazon.com/dp/1975325834)
+[Get The World's Finest Assassin Gets Reincarnated Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+World%27s+Finest+Assassin+Gets+Reincarnated+in+Another+World+as+an+Aristocrat+manga)
 
 ---
 

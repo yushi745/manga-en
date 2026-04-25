@@ -130,7 +130,7 @@ Dark Horse Comics published the complete English series. All volumes available.
 
 ## Where to Buy
 
-[Get Trigun Maximum Vol. 1 on Amazon →](https://www.amazon.com/dp/1593071965)
+[Get Trigun Maximum Vol. 1 on Amazon →](https://www.amazon.com/s?k=Trigun+Maximum+manga)
 
 ---
 

@@ -121,7 +121,7 @@ Kodansha Comics published all 4 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Boys Run the Riot Vol. 1 on Amazon →](https://www.amazon.com/dp/1646512820)
+[Get Boys Run the Riot Vol. 1 on Amazon →](https://www.amazon.com/s?k=Boys+Run+the+Riot+manga)
 
 ---
 

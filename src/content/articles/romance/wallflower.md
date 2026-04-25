@@ -123,7 +123,7 @@ Del Rey (later Kodansha Comics) published the complete 36-volume run. All volume
 
 ## Where to Buy
 
-[Get The Wallflower Vol. 1 on Amazon →](https://www.amazon.com/dp/0345481577)
+[Get The Wallflower Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Wallflower+%28Yamato+Nadeshiko+Shichihenge%29+manga)
 
 ---
 

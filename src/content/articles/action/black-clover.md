@@ -124,7 +124,7 @@ VIZ Media is publishing the ongoing series. Currently 35 volumes available in En
 
 ## Where to Buy
 
-[Get Black Clover Vol. 1 on Amazon →](https://www.amazon.com/dp/1421587181)
+[Get Black Clover Vol. 1 on Amazon →](https://www.amazon.com/s?k=Black+Clover+manga)
 
 ---
 

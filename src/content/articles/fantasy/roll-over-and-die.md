@@ -125,7 +125,7 @@ Seven Seas Entertainment has published the complete English series. All 7 volume
 
 ## Where to Buy
 
-[Get Roll Over and Die Vol. 1 on Amazon →](https://www.amazon.com/dp/1648279244)
+[Get Roll Over and Die Vol. 1 on Amazon →](https://www.amazon.com/s?k=Roll+Over+and+Die%3A+I+Will+Fight+for+an+Ordinary+Life+with+My+Love+and+Cursed+Sword%21+manga)
 
 ---
 

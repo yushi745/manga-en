@@ -125,7 +125,7 @@ VIZ Media published the complete English series. All 12 volumes available.
 
 ## Where to Buy
 
-[Get Ultimo Vol. 1 on Amazon →](https://www.amazon.com/dp/1421538156)
+[Get Ultimo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ultimo+manga)
 
 ---
 

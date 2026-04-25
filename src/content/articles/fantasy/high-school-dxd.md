@@ -125,7 +125,7 @@ Yen Press published all 25 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get High School DxD Vol. 1 on Amazon →](https://www.amazon.com/dp/0316401722)
+[Get High School DxD Vol. 1 on Amazon →](https://www.amazon.com/s?k=High+School+DxD+manga)
 
 ---
 

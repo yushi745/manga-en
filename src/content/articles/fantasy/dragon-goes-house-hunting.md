@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 9-volume run. All volumes availa
 
 ## Where to Buy
 
-[Get Dragon Goes House-Hunting Vol. 1 on Amazon →](https://www.amazon.com/dp/1638582718)
+[Get Dragon Goes House-Hunting Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dragon+Goes+House-Hunting+manga)
 
 ---
 

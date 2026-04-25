@@ -123,7 +123,7 @@ Viz Media published the complete English series. All 5 volumes available.
 
 ## Where to Buy
 
-[Get Imadoki! Vol. 1 on Amazon →](https://www.amazon.com/dp/1569319103)
+[Get Imadoki! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Imadoki%21+manga)
 
 ---
 

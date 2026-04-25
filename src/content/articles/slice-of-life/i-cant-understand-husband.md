@@ -125,7 +125,7 @@ Seven Seas Entertainment has published the complete English series. All 4 volume
 
 ## Where to Buy
 
-[Get I Can't Understand What My Husband Is Saying Vol. 1 on Amazon →](https://www.amazon.com/dp/1626920478)
+[Get I Can't Understand What My Husband Is Saying Vol. 1 on Amazon →](https://www.amazon.com/s?k=I+Can%27t+Understand+What+My+Husband+Is+Saying+manga)
 
 ---
 

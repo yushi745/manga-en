@@ -125,7 +125,7 @@ Dark Horse Comics published the complete 6-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Mardock Scramble Vol. 1 on Amazon →](https://www.amazon.com/dp/1616551526)
+[Get Mardock Scramble Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mardock+Scramble+manga)
 
 ---
 

@@ -127,7 +127,7 @@ Viz Media published the complete 13-volume English series.
 
 ## Where to Buy
 
-[Get My Love Story!! Vol. 1 on Amazon →](https://www.amazon.com/dp/142157733X)
+[Get My Love Story!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Love+Story%21%21+manga)
 
 ---
 

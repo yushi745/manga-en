@@ -125,7 +125,7 @@ Vertical published all 3 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Toward the Terra Vol. 1 on Amazon →](https://www.amazon.com/dp/1934287393)
+[Get Toward the Terra Vol. 1 on Amazon →](https://www.amazon.com/s?k=Toward+the+Terra+manga)
 
 ---
 

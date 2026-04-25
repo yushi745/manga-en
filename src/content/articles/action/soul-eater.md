@@ -192,8 +192,8 @@ Start from Volume 1. The world-building is established across the early volumes 
 
 ## Where to Buy
 
-- [📱 Soul Eater Vol. 1 — Kindle Edition](https://www.amazon.com/dp/0759530017)
-- [📚 Soul Eater Vol. 1 — Paperback](https://www.amazon.com/dp/0759530017)
+- [📱 Soul Eater Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Soul+Eater+manga)
+- [📚 Soul Eater Vol. 1 — Paperback](https://www.amazon.com/s?k=Soul+Eater+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Kodansha Comics published the complete 23-volume English series.
 
 ## Where to Buy
 
-[Get Smile Down the Runway Vol. 1 on Amazon →](https://www.amazon.com/dp/1632367440)
+[Get Smile Down the Runway Vol. 1 on Amazon →](https://www.amazon.com/s?k=Smile+Down+the+Runway+manga)
 
 ---
 

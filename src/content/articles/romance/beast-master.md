@@ -123,7 +123,7 @@ VIZ Media published the complete English series. Both volumes available.
 
 ## Where to Buy
 
-[Get Beast Master Vol. 1 on Amazon →](https://www.amazon.com/dp/1421528819)
+[Get Beast Master Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beast+Master+manga)
 
 ---
 

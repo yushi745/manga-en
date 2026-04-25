@@ -125,7 +125,7 @@ Viz Media published the complete 13-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Summer Time Rendering Vol. 1 on Amazon →](https://www.amazon.com/dp/1974725952)
+[Get Summer Time Rendering Vol. 1 on Amazon →](https://www.amazon.com/s?k=Summer+Time+Rendering+manga)
 
 ---
 

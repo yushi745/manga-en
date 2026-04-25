@@ -123,7 +123,7 @@ VIZ Media published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Beauty Pop Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506912)
+[Get Beauty Pop Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beauty+Pop+manga)
 
 ---
 

@@ -124,7 +124,7 @@ VIZ Media published the complete 5-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Ping Pong Vol. 1 on Amazon →](https://www.amazon.com/dp/1421565293)
+[Get Ping Pong Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ping+Pong+manga)
 
 ---
 

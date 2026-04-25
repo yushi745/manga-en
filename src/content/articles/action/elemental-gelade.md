@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 17 volumes available (may re
 
 ## Where to Buy
 
-[Get Elemental Gelade Vol. 1 on Amazon →](https://www.amazon.com/dp/1595323317)
+[Get Elemental Gelade Vol. 1 on Amazon →](https://www.amazon.com/s?k=Elemental+Gelade+manga)
 
 ---
 

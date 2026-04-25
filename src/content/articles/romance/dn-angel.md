@@ -125,7 +125,7 @@ Tokyopop published 15 volumes in English. Publication has been extremely sporadi
 
 ## Where to Buy
 
-[Get D.N.Angel Vol. 1 on Amazon →](https://www.amazon.com/dp/1591823331)
+[Get D.N.Angel Vol. 1 on Amazon →](https://www.amazon.com/s?k=D.N.Angel+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Viz Media offers digital volumes. Physical editions are limited.
 
 ## Where to Buy
 
-[Get One Outs on Amazon →](https://www.amazon.com/dp/B00AVFXJGE)
+[Get One Outs on Amazon →](https://www.amazon.com/s?k=One+Outs+manga)
 
 ---
 

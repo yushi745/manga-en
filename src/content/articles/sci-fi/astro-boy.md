@@ -121,7 +121,7 @@ Dark Horse published all 23 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Astro Boy Vol. 1 on Amazon →](https://www.amazon.com/dp/1569715548)
+[Get Astro Boy Vol. 1 on Amazon →](https://www.amazon.com/s?k=Astro+Boy+manga)
 
 ---
 

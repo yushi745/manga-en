@@ -125,7 +125,7 @@ Viz Media published the complete 14-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get My Hero Academia: Vigilantes Vol. 1 on Amazon →](https://www.amazon.com/dp/1974706079)
+[Get My Hero Academia: Vigilantes Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Hero+Academia%3A+Vigilantes+manga)
 
 ---
 

@@ -128,7 +128,7 @@ Seven Seas Entertainment published the complete series. Volumes 1-2 are availabl
 
 ## Where to Buy
 
-[Get Orange Vol. 1 on Amazon →](https://www.amazon.com/dp/1626920986)
+[Get Orange Vol. 1 on Amazon →](https://www.amazon.com/s?k=Orange+manga)
 
 ---
 

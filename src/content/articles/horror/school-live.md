@@ -126,7 +126,7 @@ Yen Press published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get School-Live! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316345121)
+[Get School-Live! Vol. 1 on Amazon →](https://www.amazon.com/s?k=School-Live%21+manga)
 
 ---
 

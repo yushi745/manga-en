@@ -128,7 +128,7 @@ VIZ Media published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Fushigi Yugi Vol. 1 on Amazon →](https://www.amazon.com/dp/156931957X)
+[Get Fushigi Yugi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fushigi+Yugi%3A+The+Mysterious+Play+manga)
 
 ---
 

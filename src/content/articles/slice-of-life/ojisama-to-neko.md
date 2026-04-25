@@ -123,7 +123,7 @@ Square Enix Manga is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get An Old Man and His Cat Vol. 1 on Amazon →](https://www.amazon.com/dp/1646091570)
+[Get An Old Man and His Cat Vol. 1 on Amazon →](https://www.amazon.com/s?k=An+Old+Man+and+His+Cat+manga)
 
 ---
 

@@ -121,7 +121,7 @@ Kodansha Comics published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get It's Not Meguro-san's First Time Vol. 1 on Amazon →](https://www.amazon.com/dp/1646512995)
+[Get It's Not Meguro-san's First Time Vol. 1 on Amazon →](https://www.amazon.com/s?k=It%27s+Not+Meguro-san%27s+First+Time+manga)
 
 ---
 

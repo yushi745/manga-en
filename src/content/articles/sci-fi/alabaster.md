@@ -123,7 +123,7 @@ Vertical published the English edition as a single omnibus.
 
 ## Where to Buy
 
-[Get Alabaster on Amazon →](https://www.amazon.com/dp/1934287547)
+[Get Alabaster on Amazon →](https://www.amazon.com/s?k=Alabaster+manga)
 
 ---
 

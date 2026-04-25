@@ -125,7 +125,7 @@ Kodansha Comics is publishing the ongoing English series. 11 volumes available.
 
 ## Where to Buy
 
-[Get The Iceblade Sorcerer Vol. 1 on Amazon →](https://www.amazon.com/dp/1646516923)
+[Get The Iceblade Sorcerer Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Iceblade+Sorcerer+Shall+Rule+the+World+manga)
 
 ---
 

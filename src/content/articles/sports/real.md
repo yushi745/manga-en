@@ -122,7 +122,7 @@ VIZ Media is publishing the ongoing series. Currently 15 volumes available in En
 
 ## Where to Buy
 
-[Get Real Vol. 1 on Amazon →](https://www.amazon.com/dp/1421519895)
+[Get Real Vol. 1 on Amazon →](https://www.amazon.com/s?k=Real+manga)
 
 ---
 

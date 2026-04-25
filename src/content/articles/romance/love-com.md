@@ -123,7 +123,7 @@ VIZ Media published all 17 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Lovely Complex Vol. 1 on Amazon →](https://www.amazon.com/dp/1421503174)
+[Get Lovely Complex Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lovely+Complex+manga)
 
 ---
 

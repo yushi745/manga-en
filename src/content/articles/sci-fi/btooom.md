@@ -125,7 +125,7 @@ Yen Press published the complete 26-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Btooom! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316243426)
+[Get Btooom! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Btooom%21+manga)
 
 ---
 

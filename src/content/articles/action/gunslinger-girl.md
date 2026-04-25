@@ -123,7 +123,7 @@ Seven Seas Entertainment published the complete 15-volume run. All volumes avail
 
 ## Where to Buy
 
-[Get Gunslinger Girl Vol. 1 on Amazon →](https://www.amazon.com/dp/1626923914)
+[Get Gunslinger Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gunslinger+Girl+manga)
 
 ---
 

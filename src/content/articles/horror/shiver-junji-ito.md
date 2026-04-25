@@ -129,7 +129,7 @@ VIZ Media published this single volume. Complete and available.
 
 ## Where to Buy
 
-[Get Shiver on Amazon →](https://www.amazon.com/dp/1421592517)
+[Get Shiver on Amazon →](https://www.amazon.com/s?k=Shiver%3A+Junji+Ito+Selected+Stories+manga)
 
 ---
 

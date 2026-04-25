@@ -127,7 +127,7 @@ Seven Seas Entertainment published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get The Dungeon of Black Company Vol. 1 on Amazon →](https://www.amazon.com/dp/1638581657)
+[Get The Dungeon of Black Company Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Dungeon+of+Black+Company+manga)
 
 ---
 

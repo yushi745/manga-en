@@ -115,7 +115,7 @@ Vertical published the English edition. Complete; available.
 
 ## Where to Buy
 
-[Get Litchi Hikari Club on Amazon →](https://www.amazon.com/dp/1934287741)
+[Get Litchi Hikari Club on Amazon →](https://www.amazon.com/s?k=Litchi+Hikari+Club+manga)
 
 ---
 

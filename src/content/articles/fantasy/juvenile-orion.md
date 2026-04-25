@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 5 volumes available (may req
 
 ## Where to Buy
 
-[Get Juvenile Orion Vol. 1 on Amazon →](https://www.amazon.com/dp/1591824540)
+[Get Juvenile Orion Vol. 1 on Amazon →](https://www.amazon.com/s?k=Juvenile+Orion+manga)
 
 ---
 

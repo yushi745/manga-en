@@ -123,7 +123,7 @@ Dark Horse published the complete 4-volume English series.
 
 ## Where to Buy
 
-[Get Clannad Vol. 1 on Amazon →](https://www.amazon.com/dp/1616552972)
+[Get Clannad Vol. 1 on Amazon →](https://www.amazon.com/s?k=Clannad+manga)
 
 ---
 

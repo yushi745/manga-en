@@ -123,7 +123,7 @@ Kodansha Comics published the complete 10-volume English series.
 
 ## Where to Buy
 
-[Get Arisa Vol. 1 on Amazon →](https://www.amazon.com/dp/1612620078)
+[Get Arisa Vol. 1 on Amazon →](https://www.amazon.com/s?k=Arisa+manga)
 
 ---
 

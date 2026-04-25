@@ -125,7 +125,7 @@ VIZ Media published the complete 18-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Master Keaton Vol. 1 on Amazon →](https://www.amazon.com/dp/1421575892)
+[Get Master Keaton Vol. 1 on Amazon →](https://www.amazon.com/s?k=Master+Keaton+manga)
 
 ---
 

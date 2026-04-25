@@ -125,7 +125,7 @@ VIZ Media published 9 volumes. The English run covers the series' first and best
 
 ## Where to Buy
 
-[Get Area 88 Vol. 1 on Amazon →](https://www.amazon.com/dp/1591161657)
+[Get Area 88 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Area+88+manga)
 
 ---
 

@@ -124,7 +124,7 @@ SuBLime (Viz Media imprint) is publishing the ongoing English series. 9 volumes 
 
 ## Where to Buy
 
-[Get Finder Series Vol. 1 on Amazon →](https://www.amazon.com/dp/1421575221)
+[Get Finder Series Vol. 1 on Amazon →](https://www.amazon.com/s?k=Finder+Series+manga)
 
 ---
 

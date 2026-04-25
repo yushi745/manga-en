@@ -123,7 +123,7 @@ Viz Media published the complete 7-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Midnight Secretary Vol. 1 on Amazon →](https://www.amazon.com/dp/1421537095)
+[Get Midnight Secretary Vol. 1 on Amazon →](https://www.amazon.com/s?k=Midnight+Secretary+manga)
 
 ---
 

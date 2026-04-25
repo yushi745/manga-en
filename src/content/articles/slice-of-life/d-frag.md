@@ -123,7 +123,7 @@ Seven Seas is publishing the ongoing English series. 14+ volumes currently avail
 
 ## Where to Buy
 
-[Get D-Frag! Vol. 1 on Amazon →](https://www.amazon.com/dp/1626920079)
+[Get D-Frag! Vol. 1 on Amazon →](https://www.amazon.com/s?k=D-Frag%21+manga)
 
 ---
 

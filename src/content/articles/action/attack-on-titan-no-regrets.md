@@ -125,7 +125,7 @@ Kodansha published the complete English series. Both volumes available.
 
 ## Where to Buy
 
-[Get Attack on Titan: No Regrets Vol. 1 on Amazon →](https://www.amazon.com/dp/1612629830)
+[Get Attack on Titan: No Regrets Vol. 1 on Amazon →](https://www.amazon.com/s?k=Attack+on+Titan%3A+No+Regrets+manga)
 
 ---
 

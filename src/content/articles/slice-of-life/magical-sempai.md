@@ -123,7 +123,7 @@ Kodansha published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Magical Sempai Vol. 1 on Amazon →](https://www.amazon.com/dp/1632367254)
+[Get Magical Sempai Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magical+Sempai+manga)
 
 ---
 

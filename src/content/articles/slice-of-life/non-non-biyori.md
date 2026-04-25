@@ -130,7 +130,7 @@ Seven Seas Entertainment published the complete 15-volume series. All volumes av
 
 ## Where to Buy
 
-[Get Non Non Biyori Vol. 1 on Amazon →](https://www.amazon.com/dp/1626921482)
+[Get Non Non Biyori Vol. 1 on Amazon →](https://www.amazon.com/s?k=Non+Non+Biyori+manga)
 
 ---
 

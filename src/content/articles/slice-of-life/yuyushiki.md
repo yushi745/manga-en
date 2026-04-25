@@ -125,7 +125,7 @@ Seven Seas Entertainment is publishing the ongoing series. Available as volumes 
 
 ## Where to Buy
 
-[Get Yuyushiki Vol. 1 on Amazon →](https://www.amazon.com/dp/1626920403)
+[Get Yuyushiki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yuyushiki+manga)
 
 ---
 

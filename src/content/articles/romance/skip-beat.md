@@ -130,7 +130,7 @@ VIZ Media is publishing the ongoing series in English. Currently 49 volumes rele
 
 ## Where to Buy
 
-[Get Skip Beat! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421505851)
+[Get Skip Beat! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Skip+Beat%21+manga)
 
 ---
 

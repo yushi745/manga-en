@@ -123,7 +123,7 @@ Viz Media published the complete 10-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Happy Marriage?! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421561662)
+[Get Happy Marriage?! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Happy+Marriage%3F%21+manga)
 
 ---
 

@@ -121,7 +121,7 @@ Kodansha Comics published all 12 volumes in English. Complete and in print.
 
 ## Where to Buy
 
-[Get Perfect World Vol. 1 on Amazon →](https://www.amazon.com/dp/1632365545)
+[Get Perfect World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Perfect+World+manga)
 
 ---
 

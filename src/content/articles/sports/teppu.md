@@ -123,7 +123,7 @@ Dark Horse Comics published the complete 8-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Teppu Vol. 1 on Amazon →](https://www.amazon.com/dp/B0DPJWQFCD)
+[Get Teppu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Teppu+manga)
 
 ---
 

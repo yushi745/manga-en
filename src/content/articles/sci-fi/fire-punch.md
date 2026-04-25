@@ -125,7 +125,7 @@ VIZ Media published the complete 8-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Fire Punch Vol. 1 on Amazon →](https://www.amazon.com/dp/1974701158)
+[Get Fire Punch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fire+Punch+manga)
 
 ---
 

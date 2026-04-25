@@ -121,7 +121,7 @@ Kodansha Comics published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Cells at Work! Vol. 1 on Amazon →](https://www.amazon.com/dp/1632363496)
+[Get Cells at Work! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cells+at+Work%21+manga)
 
 ---
 

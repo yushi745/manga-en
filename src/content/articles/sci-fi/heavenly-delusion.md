@@ -127,7 +127,7 @@ Seven Seas Entertainment publishes the ongoing series. 8+ volumes currently avai
 
 ## Where to Buy
 
-[Get Heavenly Delusion Vol. 1 on Amazon →](https://www.amazon.com/dp/1638585326)
+[Get Heavenly Delusion Vol. 1 on Amazon →](https://www.amazon.com/s?k=Heavenly+Delusion+manga)
 
 ---
 

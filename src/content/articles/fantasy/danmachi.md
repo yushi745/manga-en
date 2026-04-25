@@ -128,7 +128,7 @@ Yen Press is publishing the ongoing manga series. Currently 15 volumes available
 
 ## Where to Buy
 
-[Get Is It Wrong to Try to Pick Up Girls in a Dungeon? Vol. 1 on Amazon →](https://www.amazon.com/dp/0316340146)
+[Get Is It Wrong to Try to Pick Up Girls in a Dungeon? Vol. 1 on Amazon →](https://www.amazon.com/s?k=Is+It+Wrong+to+Try+to+Pick+Up+Girls+in+a+Dungeon%3F+manga)
 
 ---
 

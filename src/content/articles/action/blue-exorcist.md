@@ -188,8 +188,8 @@ Start from Volume 1. The series is continuous and the early arc is essential for
 
 ## Where to Buy
 
-- [📱 Blue Exorcist Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00CKN5WYS)
-- [📚 Blue Exorcist Vol. 1 — Paperback](https://www.amazon.com/dp/1421540320)
+- [📱 Blue Exorcist Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Blue+Exorcist+manga)
+- [📚 Blue Exorcist Vol. 1 — Paperback](https://www.amazon.com/s?k=Blue+Exorcist+manga)
 
 ---
 

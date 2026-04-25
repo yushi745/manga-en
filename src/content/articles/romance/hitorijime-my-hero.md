@@ -123,7 +123,7 @@ Kodansha Comics is publishing the ongoing English series. 11 volumes available.
 
 ## Where to Buy
 
-[Get Hitorijime My Hero Vol. 1 on Amazon →](https://www.amazon.com/dp/1632369249)
+[Get Hitorijime My Hero Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hitorijime+My+Hero+manga)
 
 ---
 

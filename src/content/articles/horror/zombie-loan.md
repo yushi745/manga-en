@@ -125,7 +125,7 @@ Yen Press published all 13 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Zombie-Loan Vol. 1 on Amazon →](https://www.amazon.com/dp/0759531951)
+[Get Zombie-Loan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Zombie-Loan+manga)
 
 ---
 

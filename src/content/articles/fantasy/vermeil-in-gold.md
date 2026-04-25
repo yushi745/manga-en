@@ -125,7 +125,7 @@ Square Enix Manga publishes the ongoing English series. 8+ volumes currently ava
 
 ## Where to Buy
 
-[Get Vermeil in Gold Vol. 1 on Amazon →](https://www.amazon.com/dp/1646092252)
+[Get Vermeil in Gold Vol. 1 on Amazon →](https://www.amazon.com/s?k=Vermeil+in+Gold+manga)
 
 ---
 

@@ -121,7 +121,7 @@ Kodansha published the complete English series. All 3 volumes available.
 
 ## Where to Buy
 
-[Get Attack on Titan: Lost Girls Vol. 1 on Amazon →](https://www.amazon.com/dp/1632366800)
+[Get Attack on Titan: Lost Girls Vol. 1 on Amazon →](https://www.amazon.com/s?k=Attack+on+Titan%3A+Lost+Girls+manga)
 
 ---
 

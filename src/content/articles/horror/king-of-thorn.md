@@ -123,7 +123,7 @@ TOKYOPOP published all 6 volumes. Out of print but available used; some digital 
 
 ## Where to Buy
 
-[Get King of Thorn Vol. 1 on Amazon →](https://www.amazon.com/dp/1598163523)
+[Get King of Thorn Vol. 1 on Amazon →](https://www.amazon.com/s?k=King+of+Thorn+manga)
 
 ---
 

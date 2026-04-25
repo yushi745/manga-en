@@ -125,7 +125,7 @@ Viz Media is publishing the ongoing English series. 21+ volumes available.
 
 ## Where to Buy
 
-[Get Dragon Ball Super Vol. 1 on Amazon →](https://www.amazon.com/dp/1974700429)
+[Get Dragon Ball Super Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dragon+Ball+Super+manga)
 
 ---
 

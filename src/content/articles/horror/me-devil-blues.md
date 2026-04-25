@@ -125,7 +125,7 @@ VIZ Media published 2 volumes. Complete as published; the series was not continu
 
 ## Where to Buy
 
-[Get Me & The Devil Blues Vol. 1 on Amazon →](https://www.amazon.com/dp/1421522578)
+[Get Me & The Devil Blues Vol. 1 on Amazon →](https://www.amazon.com/s?k=Me+%26+The+Devil+Blues+manga)
 
 ---
 

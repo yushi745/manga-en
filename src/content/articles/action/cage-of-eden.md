@@ -125,7 +125,7 @@ Kodansha Comics published the complete 21-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Cage of Eden Vol. 1 on Amazon →](https://www.amazon.com/dp/1612620124)
+[Get Cage of Eden Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cage+of+Eden+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Viz Media published the complete 12-volume English series.
 
 ## Where to Buy
 
-[Get Haruka: Beyond the Stream of Time Vol. 1 on Amazon →](https://www.amazon.com/dp/1591165342)
+[Get Haruka: Beyond the Stream of Time Vol. 1 on Amazon →](https://www.amazon.com/s?k=Haruka%3A+Beyond+the+Stream+of+Time+manga)
 
 ---
 

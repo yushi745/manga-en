@@ -123,7 +123,7 @@ Vertical Comics published the complete English series. All 23 volumes available.
 
 ## Where to Buy
 
-[Get Itazura na Kiss Vol. 1 on Amazon →](https://www.amazon.com/dp/1935654985)
+[Get Itazura na Kiss Vol. 1 on Amazon →](https://www.amazon.com/s?k=Itazura+na+Kiss+manga)
 
 ---
 

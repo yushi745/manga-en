@@ -125,7 +125,7 @@ Kodansha USA published the complete 25-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Yamada-kun and the Seven Witches Vol. 1 on Amazon →](https://www.amazon.com/dp/1632360900)
+[Get Yamada-kun and the Seven Witches Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yamada-kun+and+the+Seven+Witches+manga)
 
 ---
 

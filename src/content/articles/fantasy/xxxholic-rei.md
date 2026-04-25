@@ -123,7 +123,7 @@ Kodansha Comics published all 4 volumes in English. Complete series available.
 
 ## Where to Buy
 
-[Get xxxHOLiC: Rei on Amazon →](https://www.amazon.com/dp/1632361820)
+[Get xxxHOLiC: Rei on Amazon →](https://www.amazon.com/s?k=xxxHOLiC%3A+Rei+manga)
 
 ---
 

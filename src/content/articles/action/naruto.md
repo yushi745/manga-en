@@ -211,9 +211,9 @@ You can find all Naruto volumes on Amazon — Kindle, paperback, and omnibus edi
 
 **Start here:**
 
-- [📱 Naruto Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00F3HG7TS) — Best way to try it first
-- [📚 Naruto Vol. 1 — Paperback](https://www.amazon.com/dp/1569319006) — Classic physical edition
-- [📦 Naruto 3-in-1 Omnibus Vol. 1 (vols. 1–3)](https://www.amazon.com/dp/1421539896) — Best value for physical readers
+- [📱 Naruto Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Naruto+manga) — Best way to try it first
+- [📚 Naruto Vol. 1 — Paperback](https://www.amazon.com/s?k=Naruto+manga) — Classic physical edition
+- [📦 Naruto 3-in-1 Omnibus Vol. 1 (vols. 1–3)](https://www.amazon.com/s?k=Naruto+manga) — Best value for physical readers
 
 ---
 

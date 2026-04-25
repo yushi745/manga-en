@@ -125,7 +125,7 @@ Yen Press publishes the ongoing English series. 6+ volumes currently available.
 
 ## Where to Buy
 
-[Get In the Land of Leadale Vol. 1 on Amazon →](https://www.amazon.com/dp/1975324471)
+[Get In the Land of Leadale Vol. 1 on Amazon →](https://www.amazon.com/s?k=In+the+Land+of+Leadale+manga)
 
 ---
 

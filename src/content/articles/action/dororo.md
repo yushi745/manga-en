@@ -192,8 +192,8 @@ Start from Volume 1. Four volumes, complete. Read it in a weekend.
 
 ## Where to Buy
 
-- [📱 Dororo Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B07RQPJH1Y)
-- [📚 Dororo Omnibus — Paperback](https://www.amazon.com/dp/1935654764)
+- [📱 Dororo Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Dororo+manga)
+- [📚 Dororo Omnibus — Paperback](https://www.amazon.com/s?k=Dororo+manga)
 
 ---
 

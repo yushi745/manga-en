@@ -124,7 +124,7 @@ Viz Media published the complete 35-volume English series.
 
 ## Where to Buy
 
-[Get 7SEEDS Vol. 1 on Amazon →](https://www.amazon.com/dp/1421578271)
+[Get 7SEEDS Vol. 1 on Amazon →](https://www.amazon.com/s?k=7SEEDS+manga)
 
 ---
 

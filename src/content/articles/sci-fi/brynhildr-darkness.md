@@ -125,7 +125,7 @@ Seven Seas published the complete English series. All 18 volumes available.
 
 ## Where to Buy
 
-[Get Brynhildr in the Darkness Vol. 1 on Amazon →](https://www.amazon.com/dp/1626920311)
+[Get Brynhildr in the Darkness Vol. 1 on Amazon →](https://www.amazon.com/s?k=Brynhildr+in+the+Darkness+manga)
 
 ---
 

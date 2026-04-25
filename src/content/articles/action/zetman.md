@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 20 volumes available.
 
 ## Where to Buy
 
-[Get Zetman Vol. 1 on Amazon →](https://www.amazon.com/dp/1421563940)
+[Get Zetman Vol. 1 on Amazon →](https://www.amazon.com/s?k=Zetman+manga)
 
 ---
 

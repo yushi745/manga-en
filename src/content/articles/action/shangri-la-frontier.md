@@ -127,7 +127,7 @@ Kodansha USA is publishing the ongoing series. 16 volumes available in English.
 
 ## Where to Buy
 
-[Get Shangri-La Frontier Vol. 1 on Amazon →](https://www.amazon.com/dp/1646514823)
+[Get Shangri-La Frontier Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shangri-La+Frontier+manga)
 
 ---
 

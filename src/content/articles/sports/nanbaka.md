@@ -123,7 +123,7 @@ Seven Seas Entertainment published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Nanbaka Vol. 1 on Amazon →](https://www.amazon.com/dp/1626927278)
+[Get Nanbaka Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nanbaka+manga)
 
 ---
 

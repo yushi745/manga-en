@@ -132,7 +132,7 @@ VIZ Media published the complete 37-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get Eyeshield 21 Vol. 1 on Amazon →](https://www.amazon.com/dp/1591167523)
+[Get Eyeshield 21 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Eyeshield+21+manga)
 
 ---
 

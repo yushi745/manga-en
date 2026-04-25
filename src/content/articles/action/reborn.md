@@ -124,7 +124,7 @@ VIZ Media published the complete 42-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Katekyo Hitman Reborn! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513374)
+[Get Katekyo Hitman Reborn! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Katekyo+Hitman+Reborn%21+manga)
 
 ---
 

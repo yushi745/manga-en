@@ -125,7 +125,7 @@ Viz Media published the complete 25-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Kamisama Kiss Vol. 1 on Amazon →](https://www.amazon.com/dp/1421542218)
+[Get Kamisama Kiss Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kamisama+Kiss+%28Kamisama+Hajimemashita%29+manga)
 
 ---
 

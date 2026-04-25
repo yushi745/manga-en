@@ -125,7 +125,7 @@ ADV Manga published the complete English series. All 4 volumes available (may re
 
 ## Where to Buy
 
-[Get Pretear Vol. 1 on Amazon →](https://www.amazon.com/dp/1413900321)
+[Get Pretear Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pretear%3A+New+Legend+of+Snow+White+manga)
 
 ---
 

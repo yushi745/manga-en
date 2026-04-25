@@ -123,7 +123,7 @@ Viz Media published the complete 7-volume English series.
 
 ## Where to Buy
 
-[Get Full Moon wo Sagashite Vol. 1 on Amazon →](https://www.amazon.com/dp/1591160782)
+[Get Full Moon wo Sagashite Vol. 1 on Amazon →](https://www.amazon.com/s?k=Full+Moon+wo+Sagashite+manga)
 
 ---
 

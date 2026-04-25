@@ -123,7 +123,7 @@ Seven Seas is publishing the English series. All 10 volumes available.
 
 ## Where to Buy
 
-[Get Blue Giant Supreme Vol. 1 on Amazon →](https://www.amazon.com/dp/1638580936)
+[Get Blue Giant Supreme Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Giant+Supreme+manga)
 
 ---
 

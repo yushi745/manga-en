@@ -124,7 +124,7 @@ Seven Seas is publishing the ongoing English series. 10 volumes available.
 
 ## Where to Buy
 
-[Get Blue Giant Explorer Vol. 1 on Amazon →](https://www.amazon.com/dp/1638586187)
+[Get Blue Giant Explorer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Giant+Explorer+manga)
 
 ---
 

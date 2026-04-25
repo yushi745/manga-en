@@ -124,7 +124,7 @@ VIZ Media is publishing the ongoing series. Currently 27 volumes available in En
 
 ## Where to Buy
 
-[Get D.Gray-man Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506238)
+[Get D.Gray-man Vol. 1 on Amazon →](https://www.amazon.com/s?k=D.Gray-man+manga)
 
 ---
 

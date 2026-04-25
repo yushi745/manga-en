@@ -126,7 +126,7 @@ Kodansha USA published the complete 41-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Seven Deadly Sins Vol. 1 on Amazon →](https://www.amazon.com/dp/1612629210)
+[Get Seven Deadly Sins Vol. 1 on Amazon →](https://www.amazon.com/s?k=Seven+Deadly+Sins+manga)
 
 ---
 

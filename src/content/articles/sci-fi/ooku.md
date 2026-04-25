@@ -127,7 +127,7 @@ VIZ Media Signature published all 19 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Ōoku Vol. 1 on Amazon →](https://www.amazon.com/dp/142152441X)
+[Get Ōoku Vol. 1 on Amazon →](https://www.amazon.com/s?k=%C5%8Coku%3A+The+Inner+Chambers+manga)
 
 ---
 

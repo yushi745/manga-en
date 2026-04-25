@@ -127,7 +127,7 @@ Seven Seas published the complete English series. All 16 volumes available.
 
 ## Where to Buy
 
-[Get A Certain Scientific Accelerator Vol. 1 on Amazon →](https://www.amazon.com/dp/1626925690)
+[Get A Certain Scientific Accelerator Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Certain+Scientific+Accelerator+manga)
 
 ---
 

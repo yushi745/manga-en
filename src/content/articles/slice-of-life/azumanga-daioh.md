@@ -130,7 +130,7 @@ Yen Press published the complete omnibus edition (all four volumes in one book).
 
 ## Where to Buy
 
-[Get Azumanga Daioh Omnibus on Amazon →](https://www.amazon.com/dp/0316077380)
+[Get Azumanga Daioh Omnibus on Amazon →](https://www.amazon.com/s?k=Azumanga+Daioh+manga)
 
 ---
 

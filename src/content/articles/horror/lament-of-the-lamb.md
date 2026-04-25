@@ -125,7 +125,7 @@ Tokyopop published all 7 volumes. Complete; older publication, available in seco
 
 ## Where to Buy
 
-[Get Lament of the Lamb Vol. 1 on Amazon →](https://www.amazon.com/dp/1591822823)
+[Get Lament of the Lamb Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lament+of+the+Lamb+manga)
 
 ---
 

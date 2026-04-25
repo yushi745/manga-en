@@ -125,7 +125,7 @@ VIZ Media published all 15 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Angel Densetsu Vol. 1 on Amazon →](https://www.amazon.com/dp/1421510375)
+[Get Angel Densetsu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Angel+Densetsu+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 14 volumes available (may re
 
 ## Where to Buy
 
-[Get Tokyo Underground Vol. 1 on Amazon →](https://www.amazon.com/dp/1591825172)
+[Get Tokyo Underground Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tokyo+Underground+manga)
 
 ---
 

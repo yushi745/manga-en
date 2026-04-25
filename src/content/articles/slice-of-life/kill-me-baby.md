@@ -121,7 +121,7 @@ Yen Press published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Kill Me Baby Vol. 1 on Amazon →](https://www.amazon.com/dp/0316245860)
+[Get Kill Me Baby Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kill+Me+Baby+manga)
 
 ---
 

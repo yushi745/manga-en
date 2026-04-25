@@ -214,9 +214,9 @@ The full 74-volume series is available in English in both digital and physical f
 
 ## Where to Buy
 
-- [📱 Bleach Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00F3HG5MC)
-- [📚 Bleach Vol. 1 — Paperback](https://www.amazon.com/dp/1591164419)
-- [📦 Bleach 3-in-1 Omnibus Vol. 1](https://www.amazon.com/dp/1421539926)
+- [📱 Bleach Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Bleach+manga)
+- [📚 Bleach Vol. 1 — Paperback](https://www.amazon.com/s?k=Bleach+manga)
+- [📦 Bleach 3-in-1 Omnibus Vol. 1](https://www.amazon.com/s?k=Bleach+manga)
 
 ---
 

@@ -122,7 +122,7 @@ Vertical published the English omnibus edition.
 
 ## Where to Buy
 
-[Get Ode to Kirihito on Amazon →](https://www.amazon.com/dp/1932234993)
+[Get Ode to Kirihito on Amazon →](https://www.amazon.com/s?k=Ode+to+Kirihito+manga)
 
 ---
 

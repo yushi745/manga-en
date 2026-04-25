@@ -125,7 +125,7 @@ VIZ Media published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Buso Renkin Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506157)
+[Get Buso Renkin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Buso+Renkin+manga)
 
 ---
 

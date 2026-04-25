@@ -123,7 +123,7 @@ Viz Media published the complete English series. All 14 volumes available.
 
 ## Where to Buy
 
-[Get Dragon Drive Vol. 1 on Amazon →](https://www.amazon.com/dp/1421502305)
+[Get Dragon Drive Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dragon+Drive+manga)
 
 ---
 

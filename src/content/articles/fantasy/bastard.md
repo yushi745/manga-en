@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. All 27 volumes available.
 
 ## Where to Buy
 
-[Get Bastard!! Vol. 1 on Amazon →](https://www.amazon.com/dp/1569319901)
+[Get Bastard!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bastard%21%21+manga)
 
 ---
 

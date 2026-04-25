@@ -129,7 +129,7 @@ Yen Press published the complete 8-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get GA: Geijutsuka Art Design Class Vol. 1 on Amazon →](https://www.amazon.com/dp/0316073202)
+[Get GA: Geijutsuka Art Design Class Vol. 1 on Amazon →](https://www.amazon.com/s?k=GA%3A+Geijutsuka+Art+Design+Class+manga)
 
 ---
 

@@ -122,7 +122,7 @@ Yen Press published all 5 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Pupa Vol. 1 on Amazon →](https://www.amazon.com/dp/0316344907)
+[Get Pupa Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pupa+manga)
 
 ---
 

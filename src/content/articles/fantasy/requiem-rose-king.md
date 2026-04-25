@@ -127,7 +127,7 @@ VIZ Media published all 17 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Requiem of the Rose King Vol. 1 on Amazon →](https://www.amazon.com/dp/1421581620)
+[Get Requiem of the Rose King Vol. 1 on Amazon →](https://www.amazon.com/s?k=Requiem+of+the+Rose+King+manga)
 
 ---
 

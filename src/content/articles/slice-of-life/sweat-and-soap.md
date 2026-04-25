@@ -123,7 +123,7 @@ Kodansha Comics published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Sweat and Soap Vol. 1 on Amazon →](https://www.amazon.com/dp/1632368137)
+[Get Sweat and Soap Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sweat+and+Soap+manga)
 
 ---
 

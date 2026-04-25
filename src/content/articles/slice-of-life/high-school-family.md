@@ -125,7 +125,7 @@ Kodansha Comics publishes the ongoing English series. 8+ volumes currently avail
 
 ## Where to Buy
 
-[Get High School Family Vol. 1 on Amazon →](https://www.amazon.com/dp/1646512971)
+[Get High School Family Vol. 1 on Amazon →](https://www.amazon.com/s?k=High+School+Family%3A+Kokosei+Kazoku+manga)
 
 ---
 

@@ -127,7 +127,7 @@ Seven Seas Entertainment published the complete 10-volume run. All volumes avail
 
 ## Where to Buy
 
-[Get Scorching Ping Pong Girls Vol. 1 on Amazon →](https://www.amazon.com/dp/1626926832)
+[Get Scorching Ping Pong Girls Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shakunetsu+no+Takkyuu+Musume+%28Scorching+Ping+Pong+Girls%29+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 3 volumes available.
 
 ## Where to Buy
 
-[Get Fruits Basket Another Vol. 1 on Amazon →](https://www.amazon.com/dp/1975383575)
+[Get Fruits Basket Another Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fruits+Basket+Another+manga)
 
 ---
 

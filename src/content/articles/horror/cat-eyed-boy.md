@@ -119,7 +119,7 @@ VIZ Media published both volumes in their Signature imprint. Complete and availa
 
 ## Where to Buy
 
-[Get Cat-Eyed Boy on Amazon →](https://www.amazon.com/dp/1421530546)
+[Get Cat-Eyed Boy on Amazon →](https://www.amazon.com/s?k=Cat-Eyed+Boy+manga)
 
 ---
 

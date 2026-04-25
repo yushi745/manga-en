@@ -123,7 +123,7 @@ Seven Seas published the complete English series. All 5 volumes available.
 
 ## Where to Buy
 
-[Get Inside Mari Vol. 1 on Amazon →](https://www.amazon.com/dp/1626927731)
+[Get Inside Mari Vol. 1 on Amazon →](https://www.amazon.com/s?k=Inside+Mari+manga)
 
 ---
 

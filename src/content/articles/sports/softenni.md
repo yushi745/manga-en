@@ -123,7 +123,7 @@ Seven Seas Entertainment published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Softenni Vol. 1 on Amazon →](https://www.amazon.com/dp/1626920036)
+[Get Softenni Vol. 1 on Amazon →](https://www.amazon.com/s?k=Softenni+manga)
 
 ---
 

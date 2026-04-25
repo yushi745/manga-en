@@ -123,7 +123,7 @@ VIZ Media published the complete English series. All 3 volumes available.
 
 ## Where to Buy
 
-[Get Alichino Vol. 1 on Amazon →](https://www.amazon.com/dp/1591167000)
+[Get Alichino Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alichino+manga)
 
 ---
 

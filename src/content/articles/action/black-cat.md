@@ -124,7 +124,7 @@ VIZ Media published the complete 20-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Black Cat Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506055)
+[Get Black Cat Vol. 1 on Amazon →](https://www.amazon.com/s?k=Black+Cat+manga)
 
 ---
 

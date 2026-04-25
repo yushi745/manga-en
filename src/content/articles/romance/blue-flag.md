@@ -129,7 +129,7 @@ VIZ Media published the complete 8-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Blue Flag Vol. 1 on Amazon →](https://www.amazon.com/dp/197433181X)
+[Get Blue Flag Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Flag+manga)
 
 ---
 

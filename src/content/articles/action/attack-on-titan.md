@@ -208,9 +208,9 @@ The complete series is available in English including omnibus editions that coll
 
 ## Where to Buy
 
-- [📱 Attack on Titan Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00CCOO1HA)
-- [📚 Attack on Titan Vol. 1 — Paperback](https://www.amazon.com/dp/1612620248)
-- [📦 Attack on Titan Omnibus Vol. 1 (vols. 1–3)](https://www.amazon.com/dp/1646513746)
+- [📱 Attack on Titan Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Attack+on+Titan+manga)
+- [📚 Attack on Titan Vol. 1 — Paperback](https://www.amazon.com/s?k=Attack+on+Titan+manga)
+- [📦 Attack on Titan Omnibus Vol. 1 (vols. 1–3)](https://www.amazon.com/s?k=Attack+on+Titan+manga)
 
 ---
 

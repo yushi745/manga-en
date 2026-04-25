@@ -125,7 +125,7 @@ Seven Seas Entertainment is publishing the ongoing English series. 8 volumes ava
 
 ## Where to Buy
 
-[Get The Demon Girl Next Door Vol. 1 on Amazon →](https://www.amazon.com/dp/1645054012)
+[Get The Demon Girl Next Door Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Demon+Girl+Next+Door+%28Machikado+Mazoku%29+manga)
 
 ---
 

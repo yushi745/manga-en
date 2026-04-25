@@ -129,7 +129,7 @@ VIZ Media published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Honey and Clover Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513307)
+[Get Honey and Clover Vol. 1 on Amazon →](https://www.amazon.com/s?k=Honey+and+Clover+manga)
 
 ---
 

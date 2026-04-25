@@ -121,7 +121,7 @@ Seven Seas publishes the English edition. Ongoing; multiple volumes available.
 
 ## Where to Buy
 
-[Get My Senpai Is Annoying Vol. 1 on Amazon →](https://www.amazon.com/dp/1648275958)
+[Get My Senpai Is Annoying Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Senpai+Is+Annoying+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Viz Media published the complete 26-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Coppelion Vol. 1 on Amazon →](https://www.amazon.com/dp/1421591022)
+[Get Coppelion Vol. 1 on Amazon →](https://www.amazon.com/s?k=Coppelion+manga)
 
 ---
 

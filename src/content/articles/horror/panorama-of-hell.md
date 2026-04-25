@@ -120,7 +120,7 @@ Fantagraphics published the English edition. Complete and available.
 
 ## Where to Buy
 
-[Get Panorama of Hell on Amazon →](https://www.amazon.com/dp/160699692X)
+[Get Panorama of Hell on Amazon →](https://www.amazon.com/s?k=Panorama+of+Hell+manga)
 
 ---
 

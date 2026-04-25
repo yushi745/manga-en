@@ -125,7 +125,7 @@ VIZ Media published the complete English series. All 11 volumes available.
 
 ## Where to Buy
 
-[Get Birdmen Vol. 1 on Amazon →](https://www.amazon.com/dp/1421585499)
+[Get Birdmen Vol. 1 on Amazon →](https://www.amazon.com/s?k=Birdmen+manga)
 
 ---
 

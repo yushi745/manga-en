@@ -125,7 +125,7 @@ VIZ Media published all 15 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Maison Ikkoku Vol. 1 on Amazon →](https://www.amazon.com/dp/1591162750)
+[Get Maison Ikkoku Vol. 1 on Amazon →](https://www.amazon.com/s?k=Maison+Ikkoku+manga)
 
 ---
 

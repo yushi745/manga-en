@@ -125,7 +125,7 @@ ADV Manga published the complete English series. All 10 volumes available (may r
 
 ## Where to Buy
 
-[Get Tactics Vol. 1 on Amazon →](https://www.amazon.com/dp/1413900151)
+[Get Tactics Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tactics+manga)
 
 ---
 

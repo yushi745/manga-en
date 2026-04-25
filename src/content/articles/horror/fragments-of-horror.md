@@ -127,7 +127,7 @@ VIZ Media published this single volume. Complete and available.
 
 ## Where to Buy
 
-[Get Fragments of Horror on Amazon →](https://www.amazon.com/dp/1421582295)
+[Get Fragments of Horror on Amazon →](https://www.amazon.com/s?k=Fragments+of+Horror+manga)
 
 ---
 

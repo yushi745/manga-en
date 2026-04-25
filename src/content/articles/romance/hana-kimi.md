@@ -125,7 +125,7 @@ Viz Media published the complete 23-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Hana-Kimi Vol. 1 on Amazon →](https://www.amazon.com/dp/1421506920)
+[Get Hana-Kimi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hana-Kimi+%28Hanazakari+no+Kimitachi+e%29+manga)
 
 ---
 

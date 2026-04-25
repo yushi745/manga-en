@@ -123,7 +123,7 @@ Yen Press published the complete 12-volume English series.
 
 ## Where to Buy
 
-[Get Himouto! Umaru-chan Vol. 1 on Amazon →](https://www.amazon.com/dp/0316311650)
+[Get Himouto! Umaru-chan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Himouto%21+Umaru-chan+manga)
 
 ---
 

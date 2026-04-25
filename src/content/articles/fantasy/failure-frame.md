@@ -125,7 +125,7 @@ Seven Seas Entertainment publishes the ongoing English series. 7+ volumes curren
 
 ## Where to Buy
 
-[Get Failure Frame Vol. 1 on Amazon →](https://www.amazon.com/dp/1638583854)
+[Get Failure Frame Vol. 1 on Amazon →](https://www.amazon.com/s?k=Failure+Frame%3A+I+Became+the+Strongest+and+Annihilated+Everything+With+Low-Level+Spells+manga)
 
 ---
 

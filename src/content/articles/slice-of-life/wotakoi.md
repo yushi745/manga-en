@@ -127,7 +127,7 @@ Kodansha USA published the complete 11-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Wotakoi Vol. 1 on Amazon →](https://www.amazon.com/dp/1632367041)
+[Get Wotakoi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wotakoi%3A+Love+Is+Hard+for+Otaku+manga)
 
 ---
 

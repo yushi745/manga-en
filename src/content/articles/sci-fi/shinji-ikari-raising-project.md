@@ -122,7 +122,7 @@ Dark Horse Comics published the complete English series. All 17 volumes availabl
 
 ## Where to Buy
 
-[Get NGE: The Shinji Ikari Raising Project Vol. 1 on Amazon →](https://www.amazon.com/dp/1595823492)
+[Get NGE: The Shinji Ikari Raising Project Vol. 1 on Amazon →](https://www.amazon.com/s?k=Neon+Genesis+Evangelion%3A+The+Shinji+Ikari+Raising+Project+manga)
 
 ---
 

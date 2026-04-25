@@ -125,7 +125,7 @@ Viz Media published the complete English edition. All volumes available.
 
 ## Where to Buy
 
-[Get Urusei Yatsura Vol. 1 on Amazon →](https://www.amazon.com/dp/1974718468)
+[Get Urusei Yatsura Vol. 1 on Amazon →](https://www.amazon.com/s?k=Urusei+Yatsura+manga)
 
 ---
 

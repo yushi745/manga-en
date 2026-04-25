@@ -127,7 +127,7 @@ Tokyopop published 4 volumes in English. The series is incomplete and likely wil
 
 ## Where to Buy
 
-[Get Clover by CLAMP on Amazon →](https://www.amazon.com/dp/1892213087)
+[Get Clover by CLAMP on Amazon →](https://www.amazon.com/s?k=Clover+manga)
 
 ---
 

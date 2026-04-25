@@ -123,7 +123,7 @@ Viz Media published the complete 10-volume English edition. All volumes availabl
 
 ## Where to Buy
 
-[Get Arago Vol. 1 on Amazon →](https://www.amazon.com/dp/1421535696)
+[Get Arago Vol. 1 on Amazon →](https://www.amazon.com/s?k=Arago+manga)
 
 ---
 

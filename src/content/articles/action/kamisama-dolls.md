@@ -125,7 +125,7 @@ VIZ Media published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Kamisama Dolls Vol. 1 on Amazon →](https://www.amazon.com/dp/142154126X)
+[Get Kamisama Dolls Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kamisama+Dolls+manga)
 
 ---
 

@@ -121,7 +121,7 @@ Yen Press publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get Death March Vol. 1 on Amazon →](https://www.amazon.com/dp/0316468541)
+[Get Death March Vol. 1 on Amazon →](https://www.amazon.com/s?k=Death+March+to+the+Parallel+World+Rhapsody+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Seven Seas published the complete English series. All 11 volumes available.
 
 ## Where to Buy
 
-[Get Peach Boy Riverside Vol. 1 on Amazon →](https://www.amazon.com/dp/1646517261)
+[Get Peach Boy Riverside Vol. 1 on Amazon →](https://www.amazon.com/s?k=Peach+Boy+Riverside+manga)
 
 ---
 

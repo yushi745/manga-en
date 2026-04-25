@@ -123,7 +123,7 @@ Fantagraphics published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get The Heart of Thomas on Amazon →](https://www.amazon.com/dp/1606999079)
+[Get The Heart of Thomas on Amazon →](https://www.amazon.com/s?k=The+Heart+of+Thomas+manga)
 
 ---
 

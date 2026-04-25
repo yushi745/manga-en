@@ -123,7 +123,7 @@ Drawn & Quarterly published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get A Drifting Life on Amazon →](https://www.amazon.com/dp/1897299567)
+[Get A Drifting Life on Amazon →](https://www.amazon.com/s?k=A+Drifting+Life+manga)
 
 ---
 

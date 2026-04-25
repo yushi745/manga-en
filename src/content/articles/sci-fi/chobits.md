@@ -128,7 +128,7 @@ Dark Horse Comics published the complete 8-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Chobits Omnibus on Amazon →](https://www.amazon.com/dp/1595820213)
+[Get Chobits Omnibus on Amazon →](https://www.amazon.com/s?k=Chobits+manga)
 
 ---
 

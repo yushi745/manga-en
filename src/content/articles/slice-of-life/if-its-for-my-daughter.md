@@ -125,7 +125,7 @@ Kodansha Comics publishes the series. 8+ volumes currently available in English.
 
 ## Where to Buy
 
-[Get If It's for My Daughter Vol. 1 on Amazon →](https://www.amazon.com/dp/1632368390)
+[Get If It's for My Daughter Vol. 1 on Amazon →](https://www.amazon.com/s?k=If+It%27s+for+My+Daughter%2C+I%27d+Even+Defeat+a+Demon+Lord+manga)
 
 ---
 

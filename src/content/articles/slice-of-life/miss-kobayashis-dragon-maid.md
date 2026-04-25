@@ -126,7 +126,7 @@ Seven Seas Entertainment published the complete 12-volume series. Multiple spin-
 
 ## Where to Buy
 
-[Get Miss Kobayashi's Dragon Maid Vol. 1 on Amazon →](https://www.amazon.com/dp/1626923485)
+[Get Miss Kobayashi's Dragon Maid Vol. 1 on Amazon →](https://www.amazon.com/s?k=Miss+Kobayashi%27s+Dragon+Maid+manga)
 
 ---
 

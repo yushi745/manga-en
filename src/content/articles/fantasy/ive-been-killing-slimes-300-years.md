@@ -123,7 +123,7 @@ Yen Press is publishing the English edition, currently at 16 volumes. Ongoing.
 
 ## Where to Buy
 
-[Get I've Been Killing Slimes for 300 Years Vol. 1 on Amazon →](https://www.amazon.com/dp/1975312376)
+[Get I've Been Killing Slimes for 300 Years Vol. 1 on Amazon →](https://www.amazon.com/s?k=I%27ve+Been+Killing+Slimes+for+300+Years+and+Maxed+Out+My+Level+manga)
 
 ---
 

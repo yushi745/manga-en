@@ -125,7 +125,7 @@ Seven Seas Entertainment published the complete 8-volume series. All volumes ava
 
 ## Where to Buy
 
-[Get Harukana Receive Vol. 1 on Amazon →](https://www.amazon.com/dp/162692905X)
+[Get Harukana Receive Vol. 1 on Amazon →](https://www.amazon.com/s?k=Harukana+Receive+manga)
 
 ---
 

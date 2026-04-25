@@ -126,7 +126,7 @@ Viz Media published the complete 19-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Vampire Knight Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513722)
+[Get Vampire Knight Vol. 1 on Amazon →](https://www.amazon.com/s?k=Vampire+Knight+manga)
 
 ---
 

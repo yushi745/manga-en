@@ -125,7 +125,7 @@ Kodansha Comics publishes the ongoing English series. 18+ volumes currently avai
 
 ## Where to Buy
 
-[Get Tomodachi Game Vol. 1 on Amazon →](https://www.amazon.com/dp/1646518875)
+[Get Tomodachi Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tomodachi+Game+manga)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published the complete 24-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Hinomaru Sumo Vol. 1 on Amazon →](https://www.amazon.com/dp/1974714268)
+[Get Hinomaru Sumo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hinomaru+Sumo+manga)
 
 ---
 

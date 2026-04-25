@@ -131,7 +131,7 @@ Dark Horse Comics published the complete 10-volume series in English. All volume
 
 ## Where to Buy
 
-[Get Hellsing Vol. 1 on Amazon →](https://www.amazon.com/dp/1593070564)
+[Get Hellsing Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hellsing+manga)
 
 ---
 

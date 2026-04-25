@@ -119,7 +119,7 @@ Viz Media published the complete 5-volume English series.
 
 ## Where to Buy
 
-[Get My Hero Academia: Smash!! Vol. 1 on Amazon →](https://www.amazon.com/dp/1974700356)
+[Get My Hero Academia: Smash!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Hero+Academia%3A+Smash%21%21+manga)
 
 ---
 

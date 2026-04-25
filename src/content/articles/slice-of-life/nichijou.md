@@ -124,7 +124,7 @@ Vertical published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Nichijou Vol. 1 on Amazon →](https://www.amazon.com/dp/1942993307)
+[Get Nichijou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nichijou%3A+My+Ordinary+Life+manga)
 
 ---
 

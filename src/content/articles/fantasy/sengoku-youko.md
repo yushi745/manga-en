@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 17 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Sengoku Youko Vol. 1 on Amazon →](https://www.amazon.com/dp/1638581762)
+[Get Sengoku Youko Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sengoku+Youko+manga)
 
 ---
 

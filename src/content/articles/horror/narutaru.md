@@ -127,7 +127,7 @@ Dark Horse Comics has published the complete English series. All 12 volumes avai
 
 ## Where to Buy
 
-[Get Narutaru Vol. 1 on Amazon →](https://www.amazon.com/dp/1593071027)
+[Get Narutaru Vol. 1 on Amazon →](https://www.amazon.com/s?k=Narutaru+manga)
 
 ---
 

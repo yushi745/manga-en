@@ -125,7 +125,7 @@ Yen Press published the complete 2-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Wolf Children Vol. 1 on Amazon →](https://www.amazon.com/dp/0316401595)
+[Get Wolf Children Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wolf+Children+manga)
 
 ---
 

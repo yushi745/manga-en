@@ -125,7 +125,7 @@ VIZ Media publishes the ongoing English series. 15+ volumes currently available.
 
 ## Where to Buy
 
-[Get The Makanai Vol. 1 on Amazon →](https://www.amazon.com/dp/1646519752)
+[Get The Makanai Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Makanai%3A+Cooking+for+the+Maiko+House+manga)
 
 ---
 

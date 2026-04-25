@@ -126,7 +126,7 @@ Yen Press publishes the English edition. Ongoing; check current volume count. Th
 
 ## Where to Buy
 
-[Get 86—EIGHTY-SIX Manga Vol. 1 on Amazon →](https://www.amazon.com/dp/1975337204)
+[Get 86—EIGHTY-SIX Manga Vol. 1 on Amazon →](https://www.amazon.com/s?k=86%E2%80%94EIGHTY-SIX+manga)
 
 ---
 

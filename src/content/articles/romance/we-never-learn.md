@@ -120,7 +120,7 @@ VIZ Media published the complete 21-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get We Never Learn Vol. 1 on Amazon →](https://www.amazon.com/dp/1974700917)
+[Get We Never Learn Vol. 1 on Amazon →](https://www.amazon.com/s?k=We+Never+Learn+manga)
 
 ---
 

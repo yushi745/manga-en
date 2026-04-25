@@ -123,7 +123,7 @@ Yen Press publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get The Case Study of Vanitas Vol. 1 on Amazon →](https://www.amazon.com/dp/0316270253)
+[Get The Case Study of Vanitas Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Case+Study+of+Vanitas+manga)
 
 ---
 

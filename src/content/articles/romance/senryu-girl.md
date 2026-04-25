@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 13 volumes available in pri
 
 ## Where to Buy
 
-[Get Senryu Girl Vol. 1 on Amazon →](https://www.amazon.com/dp/1975352815)
+[Get Senryu Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Senryu+Girl+manga)
 
 ---
 

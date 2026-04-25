@@ -125,7 +125,7 @@ VIZ Media published all 19 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Battle Angel Alita: Last Order Vol. 1 on Amazon →](https://www.amazon.com/dp/1421520265)
+[Get Battle Angel Alita: Last Order Vol. 1 on Amazon →](https://www.amazon.com/s?k=Battle+Angel+Alita%3A+Last+Order+manga)
 
 ---
 

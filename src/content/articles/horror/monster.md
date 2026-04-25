@@ -126,7 +126,7 @@ VIZ Media published the complete 18-volume series. All volumes available, includ
 
 ## Where to Buy
 
-[Get Monster Vol. 1 on Amazon →](https://www.amazon.com/dp/142156906X)
+[Get Monster Vol. 1 on Amazon →](https://www.amazon.com/s?k=Monster+manga)
 
 ---
 

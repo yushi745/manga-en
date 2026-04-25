@@ -127,7 +127,7 @@ VIZ Media published all 38 volumes. Complete and available. A new VIZ edition is
 
 ## Where to Buy
 
-[Get Ranma ½ Vol. 1 on Amazon →](https://www.amazon.com/dp/1569310181)
+[Get Ranma ½ Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ranma+%C2%BD+manga)
 
 ---
 

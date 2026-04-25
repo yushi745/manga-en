@@ -123,7 +123,7 @@ Dark Horse Comics has published the complete English series. All 4 volumes avail
 
 ## Where to Buy
 
-[Get Emanon Vol. 1 on Amazon →](https://www.amazon.com/dp/1506700454)
+[Get Emanon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Emanon+manga)
 
 ---
 

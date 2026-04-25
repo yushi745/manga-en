@@ -127,7 +127,7 @@ VIZ Media is publishing the ongoing series. 8 volumes available.
 
 ## Where to Buy
 
-[Get Choujin X Vol. 1 on Amazon →](https://www.amazon.com/dp/1974741991)
+[Get Choujin X Vol. 1 on Amazon →](https://www.amazon.com/s?k=Choujin+X+manga)
 
 ---
 

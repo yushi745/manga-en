@@ -123,7 +123,7 @@ Seven Seas Entertainment is publishing the English edition, currently at 14 volu
 
 ## Where to Buy
 
-[Get Reincarnated as a Sword Vol. 1 on Amazon →](https://www.amazon.com/dp/1626929688)
+[Get Reincarnated as a Sword Vol. 1 on Amazon →](https://www.amazon.com/s?k=Reincarnated+as+a+Sword+manga)
 
 ---
 

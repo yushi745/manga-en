@@ -125,7 +125,7 @@ Yen Press publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get Monthly Girls' Nozaki-kun Vol. 1 on Amazon →](https://www.amazon.com/dp/0316259500)
+[Get Monthly Girls' Nozaki-kun Vol. 1 on Amazon →](https://www.amazon.com/s?k=Monthly+Girls%27+Nozaki-kun+manga)
 
 ---
 

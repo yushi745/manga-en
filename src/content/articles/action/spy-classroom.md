@@ -124,7 +124,7 @@ Yen Press is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get Spy Classroom Vol. 1 on Amazon →](https://www.amazon.com/dp/1975338804)
+[Get Spy Classroom Vol. 1 on Amazon →](https://www.amazon.com/s?k=Spy+Classroom+manga)
 
 ---
 

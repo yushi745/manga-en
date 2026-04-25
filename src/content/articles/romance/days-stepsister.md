@@ -125,7 +125,7 @@ Yen Press publishes the ongoing English series. 3+ volumes currently available.
 
 ## Where to Buy
 
-[Get Days with My Stepsister Vol. 1 on Amazon →](https://www.amazon.com/dp/1975348451)
+[Get Days with My Stepsister Vol. 1 on Amazon →](https://www.amazon.com/s?k=Days+with+My+Stepsister+manga)
 
 ---
 

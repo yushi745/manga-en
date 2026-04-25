@@ -125,7 +125,7 @@ Yen Press published the complete 12-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Happy Sugar Life Vol. 1 on Amazon →](https://www.amazon.com/dp/197530330X)
+[Get Happy Sugar Life Vol. 1 on Amazon →](https://www.amazon.com/s?k=Happy+Sugar+Life+manga)
 
 ---
 

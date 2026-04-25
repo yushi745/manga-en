@@ -127,7 +127,7 @@ VIZ Media is publishing the ongoing series. 29 volumes available in English.
 
 ## Where to Buy
 
-[Get Natsume's Book of Friends Vol. 1 on Amazon →](https://www.amazon.com/dp/1421532433)
+[Get Natsume's Book of Friends Vol. 1 on Amazon →](https://www.amazon.com/s?k=Natsume%27s+Book+of+Friends+manga)
 
 ---
 

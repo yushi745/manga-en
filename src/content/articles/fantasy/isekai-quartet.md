@@ -119,7 +119,7 @@ Yen Press published the complete 4-volume English series.
 
 ## Where to Buy
 
-[Get Isekai Quartet Vol. 1 on Amazon →](https://www.amazon.com/dp/1975358600)
+[Get Isekai Quartet Vol. 1 on Amazon →](https://www.amazon.com/s?k=Isekai+Quartet+manga)
 
 ---
 

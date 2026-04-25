@@ -190,8 +190,8 @@ Start from Volume 1. The series is continuous and character development builds a
 
 ## Where to Buy
 
-- [📱 Assassination Classroom Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00UKMJVJ0)
-- [📚 Assassination Classroom Vol. 1 — Paperback](https://www.amazon.com/dp/1421576104)
+- [📱 Assassination Classroom Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Assassination+Classroom+manga)
+- [📚 Assassination Classroom Vol. 1 — Paperback](https://www.amazon.com/s?k=Assassination+Classroom+manga)
 
 ---
 

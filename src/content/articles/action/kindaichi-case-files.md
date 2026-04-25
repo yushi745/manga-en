@@ -125,7 +125,7 @@ Tokyopop published the English series. All 27 volumes available (though some may
 
 ## Where to Buy
 
-[Get The Kindaichi Case Files Vol. 1 on Amazon →](https://www.amazon.com/dp/1595321071)
+[Get The Kindaichi Case Files Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Kindaichi+Case+Files+manga)
 
 ---
 

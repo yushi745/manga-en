@@ -126,7 +126,7 @@ Vertical published the complete 12-volume series. All volumes available, includi
 
 ## Where to Buy
 
-[Get Chi's Sweet Home Vol. 1 on Amazon →](https://www.amazon.com/dp/1934287814)
+[Get Chi's Sweet Home Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chi%27s+Sweet+Home+manga)
 
 ---
 

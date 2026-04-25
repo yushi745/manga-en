@@ -127,7 +127,7 @@ Seven Seas Entertainment published all 13 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get New Game! Vol. 1 on Amazon →](https://www.amazon.com/dp/1626926700)
+[Get New Game! Vol. 1 on Amazon →](https://www.amazon.com/s?k=New+Game%21+manga)
 
 ---
 

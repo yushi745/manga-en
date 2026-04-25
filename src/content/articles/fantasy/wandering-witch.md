@@ -126,7 +126,7 @@ Yen Press is publishing the ongoing manga adaptation. Multiple volumes available
 
 ## Where to Buy
 
-[Get Wandering Witch Vol. 1 on Amazon →](https://www.amazon.com/dp/1646090357)
+[Get Wandering Witch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wandering+Witch%3A+The+Journey+of+Elaina+manga)
 
 ---
 

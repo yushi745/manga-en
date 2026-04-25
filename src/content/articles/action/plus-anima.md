@@ -127,7 +127,7 @@ Tokyopop published the complete 10-volume English edition. Available through sec
 
 ## Where to Buy
 
-[Get +Anima Vol. 1 on Amazon →](https://www.amazon.com/dp/1598163213)
+[Get +Anima Vol. 1 on Amazon →](https://www.amazon.com/s?k=%2BAnima+manga)
 
 ---
 

@@ -128,7 +128,7 @@ Yen Press publishes the ongoing English series. Current volumes available in pri
 
 ## Where to Buy
 
-[Get Bungou Stray Dogs Vol. 1 on Amazon →](https://www.amazon.com/dp/0316312169)
+[Get Bungou Stray Dogs Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bungou+Stray+Dogs+manga)
 
 ---
 

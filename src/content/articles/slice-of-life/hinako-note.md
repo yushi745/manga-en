@@ -121,7 +121,7 @@ Seven Seas published the complete 7-volume English series.
 
 ## Where to Buy
 
-[Get Hinako Note Vol. 1 on Amazon →](https://www.amazon.com/dp/1626927049)
+[Get Hinako Note Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hinako+Note+manga)
 
 ---
 

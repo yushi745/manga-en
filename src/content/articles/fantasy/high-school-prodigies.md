@@ -121,7 +121,7 @@ Seven Seas published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get High School Prodigies Have It Easy Vol. 1 on Amazon →](https://www.amazon.com/dp/1626929505)
+[Get High School Prodigies Have It Easy Vol. 1 on Amazon →](https://www.amazon.com/s?k=High+School+Prodigies+Have+It+Easy+Even+in+Another+World+manga)
 
 ---
 

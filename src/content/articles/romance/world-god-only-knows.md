@@ -125,7 +125,7 @@ Viz Media published the complete 26-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get The World God Only Knows Vol. 1 on Amazon →](https://www.amazon.com/dp/1421536544)
+[Get The World God Only Knows Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+World+God+Only+Knows+manga)
 
 ---
 

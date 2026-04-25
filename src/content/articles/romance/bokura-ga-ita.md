@@ -123,7 +123,7 @@ Viz Media published the complete 16-volume English series.
 
 ## Where to Buy
 
-[Get We Were There Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513544)
+[Get We Were There Vol. 1 on Amazon →](https://www.amazon.com/s?k=We+Were+There+manga)
 
 ---
 

@@ -127,7 +127,7 @@ Kodansha Comics is actively publishing the ongoing English edition. Check for th
 
 ## Where to Buy
 
-[Get Skip and Loafer Vol. 1 on Amazon →](https://www.amazon.com/dp/1646516729)
+[Get Skip and Loafer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Skip+and+Loafer+manga)
 
 ---
 

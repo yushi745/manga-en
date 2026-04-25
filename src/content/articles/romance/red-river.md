@@ -125,7 +125,7 @@ Viz Media published the complete 28-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Red River Vol. 1 on Amazon →](https://www.amazon.com/dp/1591168384)
+[Get Red River Vol. 1 on Amazon →](https://www.amazon.com/s?k=Red+River+%28Anatolia+Story%29+manga)
 
 ---
 

@@ -123,7 +123,7 @@ Viz Media published the complete 12-volume English series (all volumes published
 
 ## Where to Buy
 
-[Get Act-Age Vol. 1 on Amazon →](https://www.amazon.com/dp/1974716279)
+[Get Act-Age Vol. 1 on Amazon →](https://www.amazon.com/s?k=Act-Age+manga)
 
 ---
 

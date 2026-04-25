@@ -125,7 +125,7 @@ VIZ Media has published the complete English series. Both volumes available.
 
 ## Where to Buy
 
-[Get Abara Vol. 1 on Amazon →](https://www.amazon.com/dp/1421532085)
+[Get Abara Vol. 1 on Amazon →](https://www.amazon.com/s?k=Abara+manga)
 
 ---
 

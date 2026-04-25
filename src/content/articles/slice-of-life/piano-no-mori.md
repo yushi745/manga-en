@@ -123,7 +123,7 @@ Kodansha published the complete English series. All 26 volumes available.
 
 ## Where to Buy
 
-[Get Piano Forest Vol. 1 on Amazon →](https://www.amazon.com/dp/1612629121)
+[Get Piano Forest Vol. 1 on Amazon →](https://www.amazon.com/s?k=Piano+Forest+manga)
 
 ---
 

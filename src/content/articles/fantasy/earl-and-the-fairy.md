@@ -125,7 +125,7 @@ VIZ Media published the complete English series. All 4 volumes available.
 
 ## Where to Buy
 
-[Get The Earl and the Fairy Vol. 1 on Amazon →](https://www.amazon.com/dp/1421545039)
+[Get The Earl and the Fairy Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Earl+and+the+Fairy+manga)
 
 ---
 

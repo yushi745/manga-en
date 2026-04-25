@@ -122,7 +122,7 @@ Yen Press published the complete 15-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Akame ga Kill! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316259462)
+[Get Akame ga Kill! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Akame+ga+Kill%21+manga)
 
 ---
 

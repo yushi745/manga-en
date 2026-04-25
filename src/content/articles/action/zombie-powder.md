@@ -125,7 +125,7 @@ Viz Media published the complete 4-volume English edition. All volumes available
 
 ## Where to Buy
 
-[Get Zombie Powder Vol. 1 on Amazon →](https://www.amazon.com/dp/1421503387)
+[Get Zombie Powder Vol. 1 on Amazon →](https://www.amazon.com/s?k=Zombie+Powder+manga)
 
 ---
 

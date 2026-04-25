@@ -126,7 +126,7 @@ VIZ Media published the complete 2-volume series. Both volumes available.
 
 ## Where to Buy
 
-[Get All You Need Is Kill Vol. 1 on Amazon →](https://www.amazon.com/dp/1421565048)
+[Get All You Need Is Kill Vol. 1 on Amazon →](https://www.amazon.com/s?k=All+You+Need+Is+Kill+manga)
 
 ---
 

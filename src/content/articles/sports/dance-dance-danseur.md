@@ -123,7 +123,7 @@ Kodansha is publishing the ongoing English series. 18 volumes available.
 
 ## Where to Buy
 
-[Get Dance Dance Danseur Vol. 1 on Amazon →](https://www.amazon.com/dp/1646516826)
+[Get Dance Dance Danseur Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dance+Dance+Danseur+manga)
 
 ---
 

@@ -125,7 +125,7 @@ Yen Press is actively publishing the ongoing English edition. Check for the late
 
 ## Where to Buy
 
-[Get A Bride's Story Vol. 1 on Amazon →](https://www.amazon.com/dp/0316180998)
+[Get A Bride's Story Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Bride%27s+Story+manga)
 
 ---
 

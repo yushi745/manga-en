@@ -202,8 +202,8 @@ Also available as a single all-in-one omnibus edition if you prefer one volume.
 
 ## Where to Buy
 
-- [📱 Death Note Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00FDZERXI)
-- [📚 Death Note Vol. 1 — Paperback](https://www.amazon.com/dp/1421501686)
+- [📱 Death Note Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Death+Note+manga)
+- [📚 Death Note Vol. 1 — Paperback](https://www.amazon.com/s?k=Death+Note+manga)
 
 ---
 

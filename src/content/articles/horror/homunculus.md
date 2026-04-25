@@ -124,7 +124,7 @@ VIZ Media published the complete 15-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Homunculus Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513420)
+[Get Homunculus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Homunculus+manga)
 
 ---
 

@@ -127,7 +127,7 @@ VIZ Media has published the complete English series. All 12 volumes available.
 
 ## Where to Buy
 
-[Get Fushigi Yugi: Genbu Kaiden Vol. 1 on Amazon →](https://www.amazon.com/dp/1421513994)
+[Get Fushigi Yugi: Genbu Kaiden Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fushigi+Yugi%3A+Genbu+Kaiden+manga)
 
 ---
 

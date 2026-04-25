@@ -122,7 +122,7 @@ Kodansha USA published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get My Little Monster Vol. 1 on Amazon →](https://www.amazon.com/dp/1612625223)
+[Get My Little Monster Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Little+Monster+manga)
 
 ---
 

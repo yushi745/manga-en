@@ -123,7 +123,7 @@ Seven Seas published the complete English series. All 30 volumes available.
 
 ## Where to Buy
 
-[Get Freezing Vol. 1 on Amazon →](https://www.amazon.com/dp/1934876046)
+[Get Freezing Vol. 1 on Amazon →](https://www.amazon.com/s?k=Freezing+manga)
 
 ---
 

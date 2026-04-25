@@ -125,7 +125,7 @@ Seven Seas Entertainment is publishing the English edition, currently at 13+ vol
 
 ## Where to Buy
 
-[Get Classroom of the Elite Vol. 1 on Amazon →](https://www.amazon.com/dp/1638583617)
+[Get Classroom of the Elite Vol. 1 on Amazon →](https://www.amazon.com/s?k=Classroom+of+the+Elite+manga)
 
 ---
 

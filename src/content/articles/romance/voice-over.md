@@ -123,7 +123,7 @@ Viz Media published the complete 12-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Voice Over! Vol. 1 on Amazon →](https://www.amazon.com/dp/1421558327)
+[Get Voice Over! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Voice+Over%21+Seiyu+Academy+manga)
 
 ---
 

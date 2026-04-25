@@ -123,7 +123,7 @@ Kodansha Comics has published the complete English series. All 4 volumes availab
 
 ## Where to Buy
 
-[Get Love in Focus Vol. 1 on Amazon →](https://www.amazon.com/dp/1646510453)
+[Get Love in Focus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+in+Focus+manga)
 
 ---
 

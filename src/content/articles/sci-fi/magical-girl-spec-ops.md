@@ -123,7 +123,7 @@ Seven Seas Entertainment published the complete 14-volume run. All volumes avail
 
 ## Where to Buy
 
-[Get Magical Girl Spec-Ops Asuka Vol. 1 on Amazon →](https://www.amazon.com/dp/1626929033)
+[Get Magical Girl Spec-Ops Asuka Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magical+Girl+Spec-Ops+Asuka+manga)
 
 ---
 

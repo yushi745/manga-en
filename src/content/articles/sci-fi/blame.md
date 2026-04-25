@@ -126,7 +126,7 @@ Vertical published the complete series in a 2-volume omnibus format. All content
 
 ## Where to Buy
 
-[Get Blame! Master Edition Vol. 1 on Amazon →](https://www.amazon.com/dp/1942993766)
+[Get Blame! Master Edition Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blame%21+manga)
 
 ---
 

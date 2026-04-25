@@ -125,7 +125,7 @@ Kodansha Comics is publishing the ongoing English release.
 
 ## Where to Buy
 
-[Get Wind Breaker Vol. 1 on Amazon →](https://www.amazon.com/dp/1646518527)
+[Get Wind Breaker Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wind+Breaker+manga)
 
 ---
 

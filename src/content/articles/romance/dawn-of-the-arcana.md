@@ -123,7 +123,7 @@ Viz Media published the complete 13-volume English series.
 
 ## Where to Buy
 
-[Get Dawn of the Arcana Vol. 1 on Amazon →](https://www.amazon.com/dp/1421541424)
+[Get Dawn of the Arcana Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dawn+of+the+Arcana+manga)
 
 ---
 

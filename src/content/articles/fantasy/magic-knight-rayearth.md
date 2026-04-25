@@ -124,7 +124,7 @@ Dark Horse Comics published the complete series. All volumes available in recent
 
 ## Where to Buy
 
-[Get Magic Knight Rayearth Vol. 1 on Amazon →](https://www.amazon.com/dp/1595825886)
+[Get Magic Knight Rayearth Vol. 1 on Amazon →](https://www.amazon.com/s?k=Magic+Knight+Rayearth+manga)
 
 ---
 

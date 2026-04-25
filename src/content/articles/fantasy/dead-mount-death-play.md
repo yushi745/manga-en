@@ -123,7 +123,7 @@ Square Enix Manga is publishing the English edition, currently at 15 volumes. On
 
 ## Where to Buy
 
-[Get Dead Mount Death Play Vol. 1 on Amazon →](https://www.amazon.com/dp/1646091035)
+[Get Dead Mount Death Play Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dead+Mount+Death+Play+manga)
 
 ---
 

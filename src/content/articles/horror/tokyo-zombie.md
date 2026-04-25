@@ -119,7 +119,7 @@ Last Gasp published the English edition. Complete; available.
 
 ## Where to Buy
 
-[Get Tokyo Zombie on Amazon →](https://www.amazon.com/dp/0867196068)
+[Get Tokyo Zombie on Amazon →](https://www.amazon.com/s?k=Tokyo+Zombie+manga)
 
 ---
 

@@ -125,7 +125,7 @@ VIZ Media published the complete 12-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Dead Dead Demon's Vol. 1 on Amazon →](https://www.amazon.com/dp/1974707555)
+[Get Dead Dead Demon's Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dead+Dead+Demon%27s+Dededede+Destruction+manga)
 
 ---
 

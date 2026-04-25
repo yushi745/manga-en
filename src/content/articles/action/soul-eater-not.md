@@ -125,7 +125,7 @@ Yen Press published the complete English series. All 5 volumes available.
 
 ## Where to Buy
 
-[Get Soul Eater NOT! Vol. 1 on Amazon →](https://www.amazon.com/dp/0316245445)
+[Get Soul Eater NOT! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Soul+Eater+NOT%21+manga)
 
 ---
 

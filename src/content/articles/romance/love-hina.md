@@ -123,7 +123,7 @@ Tokyopop's original English edition is no longer in print; check for digital ava
 
 ## Where to Buy
 
-[Get Love Hina Vol. 1 on Amazon →](https://www.amazon.com/dp/1591820375)
+[Get Love Hina Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+Hina+manga)
 
 ---
 

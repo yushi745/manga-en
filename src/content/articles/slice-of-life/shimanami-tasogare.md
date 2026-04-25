@@ -123,7 +123,7 @@ Seven Seas published the complete 4-volume English series.
 
 ## Where to Buy
 
-[Get Our Dreams at Dusk Vol. 1 on Amazon →](https://www.amazon.com/dp/1626929904)
+[Get Our Dreams at Dusk Vol. 1 on Amazon →](https://www.amazon.com/s?k=Our+Dreams+at+Dusk%3A+Shimanami+Tasogare+manga)
 
 ---
 

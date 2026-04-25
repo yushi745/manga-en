@@ -125,7 +125,7 @@ Tokyopop published the complete English series. All 7 volumes available (may req
 
 ## Where to Buy
 
-[Get FAKE Vol. 1 on Amazon →](https://www.amazon.com/dp/1591820421)
+[Get FAKE Vol. 1 on Amazon →](https://www.amazon.com/s?k=FAKE+manga)
 
 ---
 

@@ -196,8 +196,8 @@ Reading order: Tokyo Ghoul (vols. 1–14) → Tokyo Ghoul :re (vols. 1–16) if 
 
 ## Where to Buy
 
-- [📱 Tokyo Ghoul Vol. 1 — Kindle Edition](https://www.amazon.com/dp/B00U2XO2KO)
-- [📚 Tokyo Ghoul Vol. 1 — Paperback](https://www.amazon.com/dp/1421580365)
+- [📱 Tokyo Ghoul Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Tokyo+Ghoul+manga)
+- [📚 Tokyo Ghoul Vol. 1 — Paperback](https://www.amazon.com/s?k=Tokyo+Ghoul+manga)
 
 ---
 

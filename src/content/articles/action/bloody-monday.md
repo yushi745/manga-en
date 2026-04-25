@@ -125,7 +125,7 @@ Kodansha Comics published the complete 11-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Bloody Monday Vol. 1 on Amazon →](https://www.amazon.com/dp/1935429086)
+[Get Bloody Monday Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bloody+Monday+manga)
 
 ---
 

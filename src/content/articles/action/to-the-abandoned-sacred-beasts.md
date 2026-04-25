@@ -127,7 +127,7 @@ Seven Seas Entertainment published all 13 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get To the Abandoned Sacred Beasts Vol. 1 on Amazon →](https://www.amazon.com/dp/1626929610)
+[Get To the Abandoned Sacred Beasts Vol. 1 on Amazon →](https://www.amazon.com/s?k=To+the+Abandoned+Sacred+Beasts+manga)
 
 ---
 

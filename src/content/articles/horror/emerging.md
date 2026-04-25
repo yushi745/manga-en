@@ -121,7 +121,7 @@ VIZ Media published both volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Emerging Vol. 1 on Amazon →](https://www.amazon.com/dp/1421535327)
+[Get Emerging Vol. 1 on Amazon →](https://www.amazon.com/s?k=Emerging+manga)
 
 ---
 

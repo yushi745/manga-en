@@ -125,7 +125,7 @@ Seven Seas published the complete English series. All 4 volumes available.
 
 ## Where to Buy
 
-[Get Blend S Vol. 1 on Amazon →](https://www.amazon.com/dp/1626929327)
+[Get Blend S Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blend+S+manga)
 
 ---
 

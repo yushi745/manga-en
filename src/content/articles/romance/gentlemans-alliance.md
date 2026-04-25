@@ -127,7 +127,7 @@ VIZ Media has published the complete English series. All 11 volumes available.
 
 ## Where to Buy
 
-[Get The Gentleman's Alliance Cross Vol. 1 on Amazon →](https://www.amazon.com/dp/1421511282)
+[Get The Gentleman's Alliance Cross Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Gentleman%27s+Alliance+Cross+manga)
 
 ---
 

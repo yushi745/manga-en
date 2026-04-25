@@ -121,7 +121,7 @@ Viz Media published the complete 3-volume English series.
 
 ## Where to Buy
 
-[Get Beast Complex Vol. 1 on Amazon →](https://www.amazon.com/dp/1974722139)
+[Get Beast Complex Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beast+Complex+manga)
 
 ---
 

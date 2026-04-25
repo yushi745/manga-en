@@ -125,7 +125,7 @@ Viz Media published the complete 15-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get MÄR Vol. 1 on Amazon →](https://www.amazon.com/dp/1421509725)
+[Get MÄR Vol. 1 on Amazon →](https://www.amazon.com/s?k=M%C3%84R%3A+M%C3%A4rchen+Awakens+Romance+manga)
 
 ---
 

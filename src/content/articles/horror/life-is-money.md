@@ -125,7 +125,7 @@ Seven Seas Entertainment published all 4 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Life Is Money Vol. 1 on Amazon →](https://www.amazon.com/dp/1612624787)
+[Get Life Is Money Vol. 1 on Amazon →](https://www.amazon.com/s?k=Life+Is+Money+manga)
 
 ---
 

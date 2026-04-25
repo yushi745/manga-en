@@ -127,7 +127,7 @@ Kodansha USA has published the complete English series. All 11 volumes available
 
 ## Where to Buy
 
-[Get Yuri Is My Job! Vol. 1 on Amazon →](https://www.amazon.com/dp/1646511190)
+[Get Yuri Is My Job! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yuri+Is+My+Job%21+manga)
 
 ---
 

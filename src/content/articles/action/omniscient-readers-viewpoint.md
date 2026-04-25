@@ -127,7 +127,7 @@ Yen Press publishes the ongoing English manhwa adaptation. 7+ volumes currently 
 
 ## Where to Buy
 
-[Get Omniscient Reader's Viewpoint Vol. 1 on Amazon →](https://www.amazon.com/dp/1975347242)
+[Get Omniscient Reader's Viewpoint Vol. 1 on Amazon →](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manga)
 
 ---
 

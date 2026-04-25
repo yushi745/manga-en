@@ -123,7 +123,7 @@ Fanfare Ponent Mon published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get Quest for the Missing Girl on Amazon →](https://www.amazon.com/dp/1561637785)
+[Get Quest for the Missing Girl on Amazon →](https://www.amazon.com/s?k=Quest+for+the+Missing+Girl+manga)
 
 ---
 

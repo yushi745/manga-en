@@ -127,7 +127,7 @@ Tokyopop published the complete 35-volume run. Out of print in physical format b
 
 ## Where to Buy
 
-[Get Rave Master Vol. 1 on Amazon →](https://www.amazon.com/dp/1591824745)
+[Get Rave Master Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rave+Master+%28Groove+Adventure+Rave%29+manga)
 
 ---
 
