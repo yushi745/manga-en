@@ -6,17 +6,25 @@ Includes coverImage in frontmatter, downloads covers, commits and pushes.
 """
 import os, re, json, time, urllib.request, urllib.parse, subprocess
 
-ARTICLES_DIR = os.path.expanduser("~/Documents/manga-en/src/content/articles")
-COVERS_DIR = os.path.expanduser("~/Documents/manga-en/public/covers")
+try:
+    REPO_ROOT = subprocess.check_output(['git', 'rev-parse', '--show-toplevel'], text=True).strip()
+except Exception:
+    REPO_ROOT = os.path.expanduser("~/Documents/manga-en")
+
+ARTICLES_DIR = os.path.join(REPO_ROOT, "src/content/articles")
+COVERS_DIR = os.path.join(REPO_ROOT, "public/covers")
 RAKUTEN_API_URL = 'https://openapi.rakuten.co.jp/services/api/BooksBook/Search/20170404'
 SITE_URL = 'https://www.dearmanga.com'
 
 env = {}
-for line in open(os.path.expanduser("~/Documents/manga-en/.env.local")):
-    line = line.strip()
-    if '=' in line and not line.startswith('#'):
-        k, v = line.split('=', 1)
-        env[k.strip()] = v.strip()
+try:
+    for line in open(os.path.join(REPO_ROOT, ".env.local")):
+        line = line.strip()
+        if '=' in line and not line.startswith('#'):
+            k, v = line.split('=', 1)
+            env[k.strip()] = v.strip()
+except FileNotFoundError:
+    pass
 APP_ID = env.get('RAKUTEN_APP_ID', '')
 ACCESS_KEY = env.get('RAKUTEN_ACCESS_KEY', '')
 
