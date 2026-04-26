@@ -35,7 +35,8 @@ def check_file(path):
         if not m:
             continue
         field_name, field_value = m.group(1), m.group(2)
-        if '"' in field_value:
+        # Only flag unescaped " — \" is a valid YAML escape and is fine
+        if re.search(r'(?<!\\)"', field_value):
             issues.append((lineno, field_name, line.strip()))
 
     return issues
