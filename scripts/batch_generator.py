@@ -4,7 +4,7 @@ Reusable batch article generator.
 Usage: Define ARTICLES list and call generate_batch(ARTICLES).
 Includes coverImage in frontmatter, downloads covers, commits and pushes.
 """
-import os, re, json, time, urllib.request, urllib.parse, subprocess
+import os, re, json, time, urllib.request, urllib.parse, subprocess, yaml
 
 try:
     REPO_ROOT = subprocess.check_output(['git', 'rev-parse', '--show-toplevel'], text=True).strip()
@@ -127,6 +127,10 @@ def download_cover(slug, ja_title, en_query):
         return True
     return False
 
+def esc(s):
+    """Escape double quotes for YAML double-quoted strings."""
+    return str(s).replace('"', '\\"')
+
 def stars(n, max_n=5):
     return '★' * n + '☆' * (max_n - n)
 
@@ -157,23 +161,23 @@ def generate_article(a):
     char_stars = stars(min(rating + (1 if rating < 5 else 0), 5))
 
     content = f"""---
-title: "{a['title']}"
+title: "{esc(a['title'])}"
 slug: "{slug}"
-genre: "{a['genre']}"
+genre: "{esc(a['genre'])}"
 genreSlug: "{a['genreSlug']}"
-mangaTitle: "{a['mangaTitle']}"
-mangaTitleJa: "{a.get('mangaTitleJa', a['mangaTitle'])}"
-mangaAuthor: "{a['mangaAuthor']}"
-serialization: "{a.get('serialization', 'Unknown')}"
-publisher: "{a['publisher']}"
+mangaTitle: "{esc(a['mangaTitle'])}"
+mangaTitleJa: "{esc(a.get('mangaTitleJa', a['mangaTitle']))}"
+mangaAuthor: "{esc(a['mangaAuthor'])}"
+serialization: "{esc(a.get('serialization', 'Unknown'))}"
+publisher: "{esc(a['publisher'])}"
 volumes: {a.get('volumes', 1)}
 status: "{a.get('status', 'Completed')}"
 englishVolumes: {a.get('englishVolumes', a.get('volumes', 1))}
 englishStatus: "{a.get('englishStatus', 'Complete')}"
-ageRating: "{a.get('ageRating', 'T (Teen)')}"
+ageRating: "{esc(a.get('ageRating', 'T (Teen)'))}"
 contentWarnings:
 {content_warnings_list}
-description: "{a['description']}"
+description: "{esc(a['description'])}"
 {cover_line}amazonASIN: "{a.get('amazonASIN', '')}"
 publishedAt: "{a.get('publishedAt', '2026-04-26')}"
 tags:
@@ -287,6 +291,15 @@ Find *{a['mangaTitle']}* on Amazon:
     os.makedirs(f"{ARTICLES_DIR}/{a['genreSlug']}", exist_ok=True)
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(content)
+
+    # Validate YAML frontmatter before returning success
+    parts = content.split('---', 2)
+    try:
+        yaml.safe_load(parts[1])
+    except yaml.YAMLError as e:
+        os.remove(filepath)
+        return False, f"YAML error: {e}"
+
     return True, "created"
 
 
