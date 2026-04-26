@@ -15,7 +15,7 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings:
 
-description: "A review of Oishinbo: A la Carte, the legendary food manga that has documented Japanese culinary culture since 1983 through the story of creating the "Ultimate Menu.""
+description: "A review of Oishinbo: A la Carte, the legendary food manga that has documented Japanese culinary culture since 1983 through the story of creating the Ultimate Menu."
 coverImage: "/covers/oishinbo.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-30"
