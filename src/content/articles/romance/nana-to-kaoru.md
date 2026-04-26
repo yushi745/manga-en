@@ -17,7 +17,7 @@ contentWarnings:
   - "BDSM themes"
   - "mature content"
   - "adult situations"
-description: "A review of Nana to Kaoru, the mature romance manga that uses BDSM "breathers" as a framework for exploring trust and vulnerability between two people."
+description: "A review of Nana to Kaoru, the mature romance manga that uses BDSM breathers as a framework for exploring trust and vulnerability between two people."
 amazonASIN: ""
 publishedAt: "2026-04-27"
 tags:
