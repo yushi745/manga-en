@@ -1,9 +1,9 @@
 ---
-title: "I\"s Review: A High School Boy Caught Between His Longtime Crush and the Actress Who Changes Everything"
+title: "I's Review: A High School Boy Caught Between His Longtime Crush and the Actress Who Changes Everything"
 slug: "i-s"
 genre: "Romance"
 genreSlug: "romance"
-mangaTitle: "I\"s"
+mangaTitle: "I's"
 mangaTitleJa: "I【アイ】s"
 mangaAuthor: "Masakazu Katsura"
 serialization: "Weekly Shonen Jump"
@@ -14,7 +14,7 @@ englishVolumes: 15
 englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["fan service", "love triangle", "high school romance", "ecchi elements"]
-description: "Yu's review of I\"s — Ichitaka Seto is in love with his classmate Iori Yoshizuki but cannot confess; when Itsuki Akiba, a childhood friend he believed to be dead, reappears as a rising actress, his feelings become complicated; the series follows the love triangle and Ichitaka's growth over 15 volumes."
+description: "Yu's review of I's — Ichitaka Seto is in love with his classmate Iori Yoshizuki but cannot confess; when Itsuki Akiba, a childhood friend he believed to be dead, reappears as a rising actress, his feelings become complicated; the series follows the love triangle and Ichitaka's growth over 15 volumes."
 coverImage: "/covers/i-s.jpg"
 amazonASIN: "1421506009"
 publishedAt: "2025-07-01"

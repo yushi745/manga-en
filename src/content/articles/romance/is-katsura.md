@@ -1,9 +1,9 @@
 ---
-title: "I\"s Review: A High School Boy in Love with an Aspiring Actress Navigates the Purest and Most Sincere Romance Manga of Its Era"
+title: "I's Review: A High School Boy in Love with an Aspiring Actress Navigates the Purest and Most Sincere Romance Manga of Its Era"
 slug: "is-katsura"
 genre: "Romance / Drama"
 genreSlug: "romance"
-mangaTitle: "I\"s"
+mangaTitle: "I's"
 mangaTitleJa: "I【アイ】s"
 mangaAuthor: "Masakazu Katsura"
 serialization: "Weekly Shonen Jump"
@@ -14,7 +14,7 @@ englishVolumes: 15
 englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["teen romance", "mild mature content", "aspiring actress storyline", "love triangle"]
-description: "Yu's review of I\"s — Ichitaka Seto has been in love with Iori Yoshizuki since they were assigned to sit next to each other; she is an aspiring actress who may be moving to America; the series is a pure romance without supernatural elements, following his attempts to tell her how he feels across 15 volumes of careful emotional honesty."
+description: "Yu's review of I's — Ichitaka Seto has been in love with Iori Yoshizuki since they were assigned to sit next to each other; she is an aspiring actress who may be moving to America; the series is a pure romance without supernatural elements, following his attempts to tell her how he feels across 15 volumes of careful emotional honesty."
 coverImage: "/covers/is-katsura.jpg"
 amazonASIN: "1591167248"
 publishedAt: "2025-07-04"
