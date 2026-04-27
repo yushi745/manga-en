@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "apocalyptic themes", "alternate universe", "teen protagonists"]
 description: "Yu's review of Evangelion: Campus Apocalypse — an alternate universe NGE spinoff where Shinji Ikari is a new student at a school hiding a secret connected to the Angels; Mingming's reimagining moves the Eva mythology into a school setting while keeping the core emotional relationships."
-coverImage: "/covers/evangelion-campus-apocalypse.jpg"
 amazonASIN: "1595827803"
 publishedAt: "2025-10-27"
 tags: ["sci-fi", "action", "completed", "teen", "dark-horse", "evangelion", "alternate-universe", "school"]

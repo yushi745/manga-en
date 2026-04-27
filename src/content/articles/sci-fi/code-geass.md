@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["war themes", "political violence", "psychological themes", "death", "mecha combat"]
 description: "Yu's review of Code Geass: Lelouch of the Rebellion — the manga adaptation of the Sunrise anime; Lelouch vi Britannia, an exiled prince, is granted Geass by the mysterious C.C., the power of absolute obedience; he uses it to lead a resistance against the empire that exiled him, creating the masked identity Zero; political mecha with a morally complex protagonist."
-coverImage: "/covers/code-geass.jpg"
 amazonASIN: "1594099251"
 publishedAt: "2025-10-20"
 tags: ["sci-fi", "mecha", "action", "completed", "teen-plus", "viz", "political", "anime-adaptation"]

@@ -18,7 +18,6 @@ contentWarnings:
   - "dystopian themes"
   - "psychological horror"
 description: "A review of the Psycho-Pass manga adaptation of the sci-fi anime about a future where criminality can be measured before crimes are committed."
-coverImage: "/covers/psycho-pass.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-28"
 tags:

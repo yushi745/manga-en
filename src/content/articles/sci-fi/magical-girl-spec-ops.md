@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["PTSD themes", "graphic violence and torture", "psychological trauma", "dark military content", "mature content throughout"]
 description: "Yu's review of Magical Girl Spec-Ops Asuka — three years after magical girls saved the world from an invasion of magical creatures, Asuka Otori is trying to live a normal high school life; she has PTSD; her allies need her back; she doesn't want to go back."
-coverImage: "/covers/magical-girl-spec-ops.jpg"
 amazonASIN: "1626929033"
 publishedAt: "2025-11-08"
 tags: ["sci-fi", "action", "completed", "magical-girl-deconstruction", "military", "psychological", "mature"]

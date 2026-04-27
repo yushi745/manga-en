@@ -18,7 +18,6 @@ contentWarnings:
   - "war themes"
   - "sacrifice"
 description: "A review of Gundam Wing, the classic mecha manga adaptation about five teenage Gundam pilots fighting for peace in space colonies."
-coverImage: "/covers/gundam-wing.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-28"
 tags:

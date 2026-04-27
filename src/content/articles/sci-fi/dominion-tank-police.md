@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["comedic violence", "police action", "mature humor", "sci-fi setting", "tank combat"]
 description: "Yu's review of Dominion Tank Police — in a future city where crime requires a Tank Police division, officer Leona Ozaki is assigned to the unit and falls deeply in love with her miniature tank Bonaparte; Masamune Shirow's comedic sci-fi action, lighter than Ghost in the Shell but with the same worldbuilding attention."
-coverImage: "/covers/dominion-tank-police.jpg"
 amazonASIN: "1593073569"
 publishedAt: "2025-10-24"
 tags: ["sci-fi", "action", "comedy", "completed", "teen-plus", "dark-horse", "masamune-shirow", "classic"]

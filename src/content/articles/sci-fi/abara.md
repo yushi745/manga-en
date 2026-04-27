@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme sci-fi violence", "body horror", "biological weapon themes", "near-wordless storytelling"]
 description: "Yu's review of Abara — a short but dense Nihei work about Gauna, white biological weapons, and the city infrastructure they shatter; told almost entirely through visual storytelling with minimal dialogue, Abara is Nihei's most purely visual work."
-coverImage: "/covers/abara.jpg"
 amazonASIN: "1421532085"
 publishedAt: "2025-10-03"
 tags: ["sci-fi", "action", "completed", "mature", "viz-media", "nihei", "body-horror", "wordless"]

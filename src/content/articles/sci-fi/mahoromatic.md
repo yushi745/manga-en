@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["fanservice", "combat violence", "themes of mortality", "adult humor"]
 description: "Yu's review of Mahoromatic — Mahoro is the most powerful combat android in existence, but when she chooses to retire and work as a maid for a teenage boy rather than fight on, the series becomes a comedy about domesticity mixed with action sequences and an unexpectedly moving meditation on limited time."
-coverImage: "/covers/mahoromatic.jpg"
 amazonASIN: "1591823420"
 publishedAt: "2025-11-09"
 tags: ["sci-fi", "comedy", "completed", "teen-plus", "tokyopop", "android", "maid"]

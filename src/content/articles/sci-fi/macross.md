@@ -18,7 +18,6 @@ contentWarnings:
   - "alien invasion"
   - "love triangle"
 description: "A review of the original Macross manga, the classic that introduced the idea that pop music could end a war between species."
-coverImage: "/covers/macross.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-28"
 tags:

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["historical content", "mild nudity in bath settings", "comedy of cultural misunderstanding"]
 description: "Yu's review of Thermae Romae — Lucius Modestus is a Roman bath architect in the 2nd century CE who keeps accidentally slipping through drain holes and emerging in modern Japanese public baths; he returns to Rome with innovations borrowed from Japanese bath culture that make him the most sought-after bath designer in the Empire."
-coverImage: "/covers/thermae-romae.jpg"
 amazonASIN: "0316373079"
 publishedAt: "2025-11-25"
 tags: ["sci-fi", "comedy", "completed", "historical", "time-travel", "cultural-comedy"]

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["violence", "adult themes", "technical density"]
 description: "Yu's review of Appleseed — Deunan Knute and her partner Briareos are rescued from the ruins of the world war and brought to Olympus, an ideal city governed by bioroids and human cooperation; the city's peace requires constant maintenance that involves violence, conspiracy, and the question of what humanity actually is."
-coverImage: "/covers/appleseed.jpg"
 amazonASIN: "1593072287"
 publishedAt: "2025-10-08"
 tags: ["sci-fi", "action", "cyberpunk", "completed", "political"]

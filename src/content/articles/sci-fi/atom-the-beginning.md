@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["robot combat", "science ethics themes", "disaster themes", "AI development themes"]
 description: "Yu's review of Atom: The Beginning — a prequel to Astro Boy set in the near future after a disaster, following two young scientists Umataro Tenma and Hiroshi Ochanomizu as they build A106, a robot of unprecedented capability who eventually becomes the prototype for Astro Boy; a thoughtful sci-fi prequel that expands Tezuka's world with genuine care."
-coverImage: "/covers/atom-the-beginning.jpg"
 amazonASIN: "1421594536"
 publishedAt: "2025-10-10"
 tags: ["sci-fi", "ongoing", "teen", "viz", "astro-boy", "prequel", "robots", "tezuka"]

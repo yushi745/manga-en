@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["sexual content", "mature themes", "post-apocalyptic setting", "explicit content"]
 description: "Yu's review of World's End Harem — Reito Mizushima was cryogenically frozen to await a cure for his illness; when he wakes, a plague called the MK Virus has killed 99.9% of the world's male population; he is one of a small number of surviving men tasked with repopulating humanity while navigating a society radically transformed by the near-absence of men."
-coverImage: "/covers/worlds-end-harem.jpg"
 amazonASIN: "1638588414"
 publishedAt: "2025-11-30"
 tags: ["sci-fi", "completed", "mature", "seven-seas", "post-apocalyptic"]

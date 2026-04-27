@@ -18,7 +18,6 @@ contentWarnings:
   - "genetic discrimination"
   - "mecha violence"
 description: "A review of Gundam SEED, the manga about a war between genetically enhanced Coordinators and natural humans, seen through two childhood friends on opposite sides."
-coverImage: "/covers/gundam-seed.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-28"
 tags:

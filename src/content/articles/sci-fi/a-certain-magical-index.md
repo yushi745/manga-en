@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "esper powers", "magical systems", "large cast", "light novel adaptation"]
 description: "Yu's review of A Certain Magical Index manga — Touma Kamijou's right hand nullifies all supernatural powers; when a girl named Index who has memorized 103,000 grimoires appears on his balcony, he is drawn into the conflict between Academy City's science-based espers and the church's magic users; manga adaptation of the light novel."
-coverImage: "/covers/a-certain-magical-index.jpg"
 amazonASIN: "0316221848"
 publishedAt: "2025-10-02"
 tags: ["sci-fi", "action", "completed", "teen", "yen-press", "light-novel-adaptation", "espers", "magic"]

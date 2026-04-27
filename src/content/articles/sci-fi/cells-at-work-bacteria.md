@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["biology content", "bacterial characters", "mild comedic violence", "educational content"]
 description: "Yu's review of Cells at Work! Bacteria — the bacteria living in the human gut have their own lives and their own work to do; this spinoff follows gut bacteria characters as they maintain the microbiome; Haruyama Moto's educational spinoff focusing on the bacteria that live inside us."
-coverImage: "/covers/cells-at-work-bacteria.jpg"
 amazonASIN: "1632368668"
 publishedAt: "2025-10-16"
 tags: ["sci-fi", "educational", "comedy", "completed", "all-ages", "kodansha", "cells-at-work", "spinoff"]

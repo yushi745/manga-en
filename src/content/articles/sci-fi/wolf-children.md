@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death of a parent character", "child-raising difficulties", "transformation themes", "some wildlife violence"]
 description: "Yu's review of Wolf Children — Hana falls in love with a man who is the last wolf-human; they have two children, Ame and Yuki, who can transform between human and wolf form; when their father dies suddenly, Hana must raise two wolf-children alone in a society that cannot know what they are."
-coverImage: "/covers/wolf-children.jpg"
 amazonASIN: "0316401595"
 publishedAt: "2025-11-29"
 tags: ["sci-fi", "drama", "completed", "film-adaptation", "parenting", "fantasy", "hosoda"]

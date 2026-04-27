@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["combat violence", "fanservice", "adult humor", "gore"]
 description: "Yu's review of Needless — set in a post-apocalyptic Japan where mutants called Needless have superpowers derived from fragments of forbidden knowledge; a deliberately over-the-top action comedy that parodies shonen conventions while executing them with genuine craft."
-coverImage: "/covers/needless.jpg"
 amazonASIN: "0316123455"
 publishedAt: "2025-11-10"
 tags: ["sci-fi", "action", "completed", "teen-plus", "yen-press", "post-apocalyptic", "superpowers"]

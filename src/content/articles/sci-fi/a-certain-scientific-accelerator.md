@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["graphic action violence", "dark Academy City organizations", "psychological themes", "esper powers"]
 description: "Yu's review of A Certain Scientific Accelerator — Accelerator, the most powerful esper in Academy City, is recovering from brain damage when he encounters Last Order, a young girl connected to the MISAKA network; her fragile existence becomes the focus of his protection and the target of dark organizations operating in Academy City."
-coverImage: "/covers/a-certain-scientific-accelerator.jpg"
 amazonASIN: "1626925690"
 publishedAt: "2025-10-03"
 tags: ["sci-fi", "action", "completed", "teen", "seven-seas", "accelerator", "esper", "academy-city"]

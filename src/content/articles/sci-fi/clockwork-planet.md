@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["mature fan service", "action violence", "mechatronic beings", "ecchi content"]
 description: "Yu's review of Clockwork Planet — in a world where the entire planet was rebuilt from gears a thousand years ago by a clockwork god, Naoto Miura, a gearhead with superhuman hearing, discovers a legendary automaton named RyuZU in a falling case; together with Marie Bell Breguet, a genius clocksmith, they work to maintain the world's massive geared infrastructure."
-coverImage: "/covers/clockwork-planet.jpg"
 amazonASIN: "1945054085"
 publishedAt: "2025-10-19"
 tags: ["sci-fi", "action", "completed", "mature", "vertical-comics", "steampunk", "automaton", "no-game-no-life"]
