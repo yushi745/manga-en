@@ -112,19 +112,68 @@ I earn from qualifying purchases.
 
 ---
 
+## スラッグ命名ルール（厳守）
+
+- `-manga` サフィックスは**付けない**（`basara`、`mashle`、`bleach`）
+- ローマ字は**ヘボン式**で統一（`busou-renkin`、`fullmetal-alchemist`）
+- 英題がある場合は英題ベース（`blade-of-the-immortal`、`classroom-of-the-elite`）
+- 冠詞 `the-` は**含める**（`blade-of-the-immortal` ○、`blade-of-immortal` ✗）
+- スピンオフ・外伝は本編スラッグ + `-spinoff` 等で区別する
+
+---
+
+## 重複チェック（バッチ実行前に必須）
+
+**記事を作る前に必ず以下で既存の `mangaTitleJa` と `mangaTitle` を照合する：**
+
+```python
+import re, glob
+
+def load_existing(articles_dir="src/content/articles"):
+    titles_ja, titles_en, slugs = set(), set(), set()
+    for f in glob.glob(f"{articles_dir}/**/*.md", recursive=True):
+        slugs.add(f.split("/")[-1].replace(".md", ""))
+        for line in open(f, encoding="utf-8"):
+            if line.startswith("mangaTitleJa:"):
+                t = re.sub(r'^mangaTitleJa:\s*"?|"?\s*$', "", line).strip()
+                titles_ja.add(t)
+            elif line.startswith("mangaTitle:"):
+                t = re.sub(r'^mangaTitle:\s*"?|"?\s*$', "", line).strip().lower()
+                titles_en.add(t)
+    return titles_ja, titles_en, slugs
+
+# 使い方：バッチ対象リストを絞り込む前に実行
+titles_ja, titles_en, slugs = load_existing()
+# planned_ja = "鬼滅の刃" などと比較して既存なら SKIP
+```
+
+照合ルール：
+- `mangaTitleJa` が一致 → 確実に重複、スキップ
+- `mangaTitle`（小文字）が一致 → 重複、スキップ
+- スラッグが一致 → ファイル上書きになるため必ずスキップ
+
+---
+
 ## 記事生成ワークフロー
 
-1. **WebFetch** で日本語ネタバレ・あらすじサイトを参照して情報収集
-2. 収集した情報をYuのペルソナで書き直す（コピーペーストではなく自分の言葉で）
-3. `mangaTitleJa`（日本語タイトル）を frontmatter に追加する（Jikan APIで取得）
-4. `src/content/articles/<genre>/<slug>.md` に保存
-5. **カバー画像取得**（下記フロー参照）
-6. git commit & push → Vercel自動デプロイ
-7. **スプレッドシート更新**（3バッチ完了ごとに実行）
+1. **重複チェック**（上記スクリプトで既存タイトルと照合してから作業開始）
+2. **WebFetch** で日本語ネタバレ・あらすじサイトを参照して情報収集
+3. 収集した情報をYuのペルソナで書き直す（コピーペーストではなく自分の言葉で）
+4. `mangaTitleJa`（日本語タイトル）を frontmatter に追加する（Jikan APIで取得）
+5. `src/content/articles/<genre>/<slug>.md` に保存（`coverImage` フィールドは**書かない**）
+6. **カバー画像取得**（下記フロー参照）— MDファイル保存後に別途実行
+7. git commit & push → Vercel自動デプロイ
+8. **スプレッドシート更新**（3バッチ完了ごとに実行）
    ```bash
    python3 scripts/sync_sheets.py
    ```
    - `/batch-manga` スキルの3バッチ完了後に毎回実行する。
+
+### バッチスクリプトの絶対ルール
+
+- **`coverImage` フィールドをMDに書いてはならない**（OpenLibraryは画像が不正確なため全面禁止）
+- カバー画像は必ず `python3 scripts/download_covers_rakuten.py` で別途取得する
+- OpenLibrary・MangaDex・ハードコードISBNによる画像取得は禁止
 
 ---
 
