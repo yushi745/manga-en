@@ -19,7 +19,6 @@ contentWarnings:
   - "philosophical content about truth and fantasy"
   - "murder mystery"
 description: "Yu's review of Umineko When They Cry — on Rokkenjima island, the wealthy Ushiromiya family's reunion is interrupted by a typhoon; then people start dying in patterns consistent with witch's magic; the series is structured as a mystery debate between a believer in magic and a skeptic, asking which framework explains the murders and whether the answer changes anything."
-coverImage: "/covers/umineko-manga.jpg"
 amazonASIN: "0316123285"
 publishedAt: "2026-04-29"
 tags:

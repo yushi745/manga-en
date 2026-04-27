@@ -18,7 +18,6 @@ contentWarnings:
   - "family dynamics"
   - "romantic rivalry"
 description: "Yu's review of Crossroad — Kajitsu's mother has remarried, bringing Kajitsu into a new household with two stepbrothers: cold Natsu and warm Ao; as she navigates her new family life, she finds herself unexpectedly drawn to both and uncertain which feelings are real across 5 volumes."
-coverImage: "/covers/crossroad.jpg"
 amazonASIN: "1591169488"
 publishedAt: "2026-04-28"
 tags:

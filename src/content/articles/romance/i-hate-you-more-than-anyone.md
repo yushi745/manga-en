@@ -18,7 +18,6 @@ contentWarnings:
   - "childhood rivals"
   - "large family dynamics"
 description: "Yu's review of I Hate You More Than Anyone — Kazuha Yoshida is the eldest of seven siblings and has been fighting with next-door neighbor Seiichi Tennozu since childhood; the series follows how their determined hatred gradually reveals itself as something more complicated and more honest across 9 volumes."
-coverImage: "/covers/i-hate-you-more-than-anyone.jpg"
 amazonASIN: "1591169607"
 publishedAt: "2026-04-28"
 tags:

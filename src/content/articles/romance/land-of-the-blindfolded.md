@@ -18,7 +18,6 @@ contentWarnings:
   - "supernatural themes"
   - "romance"
 description: "Yu's review of Land of the Blindfolded — Kanade Outsuki can see glimpses of the future when she touches people; she meets Arou Nougami, who can see the past; their complementary abilities and developing feelings for each other create a quiet, thoughtful romance across 9 volumes."
-coverImage: "/covers/land-of-the-blindfolded.jpg"
 amazonASIN: "1591166527"
 publishedAt: "2026-04-28"
 tags:

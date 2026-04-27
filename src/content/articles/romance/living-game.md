@@ -18,7 +18,6 @@ contentWarnings:
   - "age-gap romance"
   - "adult relationship"
 description: "Yu's review of Living Game — Fuwa Raizo is a 29-year-old salaryman whose fiancee left him; he ends up sharing his apartment with Kou Asahi, a cheerful 18-year-old new employee at his company; the series follows how their cohabitation becomes something genuine over 10 volumes."
-coverImage: "/covers/living-game.jpg"
 amazonASIN: "1591164737"
 publishedAt: "2026-04-28"
 tags:

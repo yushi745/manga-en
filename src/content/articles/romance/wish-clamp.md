@@ -18,7 +18,6 @@ contentWarnings:
   - "angel and demon mythology"
   - "gentle romance"
 description: "Yu's review of Wish — Kokuhaku Kohaku is a small angel who gets stuck in a tree and is rescued by a human doctor named Shuichiro Kudo; she offers him any wish as repayment and he cannot think of one; the series follows their cohabitation and the complications from heaven and hell that her presence attracts across 4 volumes."
-coverImage: "/covers/wish-clamp.jpg"
 amazonASIN: "1595327053"
 publishedAt: "2026-04-29"
 tags:

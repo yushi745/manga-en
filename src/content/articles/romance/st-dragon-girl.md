@@ -18,7 +18,6 @@ contentWarnings:
   - "mild romance"
   - "supernatural themes"
 description: "Yu's review of St. Dragon Girl — Momoka Sendou is the best martial arts student at her school; when her childhood friend Ryuga calls on a dragon god for help with an exorcism, the spirit takes up residence in Momoka instead; the series follows her adventures with increased power, supernatural threats, and complicated feelings for Ryuga across 8 volumes."
-coverImage: "/covers/st-dragon-girl.jpg"
 amazonASIN: "1421510243"
 publishedAt: "2026-04-28"
 tags:

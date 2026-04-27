@@ -19,7 +19,6 @@ contentWarnings:
   - "dark romance"
   - "death"
 description: "Yu's review of Phantom Dream — Tamaki Otoya is the last in a line of spirit summoners tasked with exorcising evil; his childhood friend Asahi loves him and fears the duty that is consuming him; the series is Natsuki Takaya's darker early work, full of sacrifice and the cost of supernatural obligation."
-coverImage: "/covers/phantom-dream.jpg"
 amazonASIN: "0759530866"
 publishedAt: "2026-04-28"
 tags:

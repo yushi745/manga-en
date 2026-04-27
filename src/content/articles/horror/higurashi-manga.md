@@ -20,7 +20,6 @@ contentWarnings:
   - "child characters in violent situations"
   - "psychological horror"
 description: "Yu's review of Higurashi When They Cry — Keiichi Maebara moves to the rural village of Hinamizawa and discovers that every year, during the village festival, someone dies and someone disappears; the story resets across multiple arcs, each showing different versions of the same events as Keiichi and his friends try to understand and survive what the village is doing to them."
-coverImage: "/covers/higurashi-manga.jpg"
 amazonASIN: "0759528314"
 publishedAt: "2026-04-29"
 tags:

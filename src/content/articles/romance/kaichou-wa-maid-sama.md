@@ -18,7 +18,6 @@ contentWarnings:
   - "comedy"
   - "workplace setting"
 description: "Yu's review of Kaichou wa Maid-sama! — Misaki Ayuzawa is the strict student council president of a recently co-ed school; she secretly works at a maid cafe to support her family; when the most popular boy at school, Usui Takumi, discovers her secret, he keeps it — and keeps showing up at her workplace across 18 volumes."
-coverImage: "/covers/kaichou-wa-maid-sama.jpg"
 amazonASIN: "0316180750"
 publishedAt: "2026-04-28"
 tags:

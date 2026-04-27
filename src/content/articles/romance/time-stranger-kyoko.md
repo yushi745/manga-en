@@ -18,7 +18,6 @@ contentWarnings:
   - "romance"
   - "royal duty themes"
 description: "Yu's review of Time Stranger Kyoko — Kyoko is a princess in the 30th century who disguises herself as a commoner to avoid royal duties; to wake her sleeping twin sister, she must gather twelve god-stones and twelve strangers with the power to use them, including a cold classmate named Hizuki who may be more than he appears."
-coverImage: "/covers/time-stranger-kyoko.jpg"
 amazonASIN: "1421502607"
 publishedAt: "2026-04-28"
 tags:

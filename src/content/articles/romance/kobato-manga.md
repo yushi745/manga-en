@@ -19,7 +19,6 @@ contentWarnings:
   - "gentle fantasy"
   - "romance"
 description: "Yu's review of Kobato — Kobato Hanato has a mysterious wish she must fulfill by healing wounded hearts and collecting them in a bottle; she must not fall in love in the process; the series follows her gentle interactions with the people around her and her developing feelings for Fujimoto Kiyokazu across 6 volumes."
-coverImage: "/covers/kobato-manga.jpg"
 amazonASIN: "0316180769"
 publishedAt: "2026-04-28"
 tags:
