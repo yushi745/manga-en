@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["supernatural content", "parody of magical girl genre", "violence", "moderate fan service", "harem elements"]
 description: "Yu's review of Is This a Zombie? — Ayumu Aikawa was murdered and resurrected as a zombie by a necromancer named Eucliwood; when he accidentally absorbs the powers of a magical garment girl (masou shoujo) named Haruna, he finds himself fighting monsters in her place — in her outfit."
-coverImage: "/covers/is-this-a-zombie.jpg"
 amazonASIN: "0316209651"
 publishedAt: "2024-09-10"
 tags: ["action", "comedy", "completed", "teen", "yen-press", "zombie", "magical-girl-parody", "harem"]

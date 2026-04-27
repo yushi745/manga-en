@@ -17,7 +17,6 @@ contentWarnings:
   - "sports competition"
   - "friendship drama"
 description: "A review of the Free! manga adaptation of the KyoAni swimming anime about competitive swimmers reconnecting after a falling-out."
-coverImage: "/covers/free-manga.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-30"
 tags:

@@ -17,7 +17,6 @@ contentWarnings:
   - "sports competition"
   - "mild drama"
 description: "A review of Attack No. 1 — the 1968 volleyball manga that launched the sports shoujo genre and captured a Japan electrified by women's volleyball at the 1964 Tokyo Olympics."
-coverImage: "/covers/attack-no-1.jpg"
 amazonASIN: ""
 publishedAt: "2026-05-03"
 tags:

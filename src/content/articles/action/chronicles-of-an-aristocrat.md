@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["isekai fantasy", "political management themes", "combat", "harem elements (light)"]
 description: "Yu's review of Chronicles of an Aristocrat Reborn in Another World — Cain von Silford is reborn as the third son of a count in a fantasy world; unlike most reincarnated nobles who get complacent, Cain works to actually understand his world, master both magic and swordfighting, and build something his family and territory can be proud of."
-coverImage: "/covers/chronicles-of-an-aristocrat.jpg"
 amazonASIN: "1638584095"
 publishedAt: "2024-08-12"
 tags: ["fantasy", "isekai", "noble", "ongoing", "teen", "seven-seas", "action", "management"]

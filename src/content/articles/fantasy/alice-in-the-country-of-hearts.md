@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "otome game adaptation", "gun violence", "mild romantic content", "fantasy violence"]
 description: "Yu's review of Alice in the Country of Hearts — Alice falls into Wonderland but this version is armed, dangerous, and full of attractive men competing for her attention; adapted from an otome game, the series puts Alice in a position between the various factions of a war-prone Wonderland where every character is potentially dangerous and potentially in love with her."
-coverImage: "/covers/alice-in-the-country-of-hearts.jpg"
 amazonASIN: "0316076996"
 publishedAt: "2024-11-16"
 tags: ["fantasy", "romance", "otome", "completed", "teen", "yen-press", "alice-in-wonderland", "reverse-harem"]

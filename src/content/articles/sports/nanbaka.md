@@ -17,7 +17,6 @@ contentWarnings:
   - "mild violence"
   - "comedy violence"
 description: "A comprehensive review of Nanbaka — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/nanbaka.jpg"
 amazonASIN: "1604729546"
 publishedAt: "2026-04-12"
 tags:

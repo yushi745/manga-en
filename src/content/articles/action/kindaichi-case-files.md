@@ -14,7 +14,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["murder mystery content", "locked room puzzle scenarios", "some graphic crime scenes", "complex mystery plotting"]
 description: "Yu's review of The Kindaichi Case Files — Hajime Kindaichi is a lazy underachiever who is also a genius detective when murder presents itself; his grandmother's rival's grandson pursues him; the series follows his investigations through elaborate locked-room mysteries and impossible crime scenarios."
-coverImage: "/covers/kindaichi-case-files.jpg"
 amazonASIN: "1595321071"
 publishedAt: "2024-09-15"
 tags: ["mystery", "action", "detective", "completed", "teen", "tokyopop", "kodansha", "locked-room"]

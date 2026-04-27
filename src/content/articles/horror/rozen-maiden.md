@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["doll horror", "psychological content", "existential themes", "battle violence", "social withdrawal themes"]
 description: "Yu's review of Rozen Maiden — Jun Sakurada is a socially withdrawn boy who refused to attend school; a doll named Shinku arrives and he winds her key, forming a contract that makes him her medium; she is one of the Rozen Maidens, dolls crafted by the legendary dollmaker Rozen who must fight each other until one remains to become Alice."
-coverImage: "/covers/rozen-maiden.jpg"
 amazonASIN: "1598162985"
 publishedAt: "2025-04-26"
 tags: ["horror", "fantasy", "supernatural", "completed", "teen", "tokyopop", "doll", "psychological"]

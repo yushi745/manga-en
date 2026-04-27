@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["tank warfare (portrayed as sport)", "competitive violence (non-lethal by premise)"]
 description: "Yu's review of Girls und Panzer — in a world where operating tanks in competitive combat is a traditional martial art for girls (called Sensha-do), Miho Nishizumi transfers to Ooarai Girls High School and finds the school has restarted its long-dormant Sensha-do club; she must lead a team using tanks from a dozen different nations against schools with much stronger programs."
-coverImage: "/covers/girls-und-panzer.jpg"
 amazonASIN: "1626921660"
 publishedAt: "2026-03-28"
 tags: ["sports", "action", "completed", "teen", "seven-seas", "tanks"]

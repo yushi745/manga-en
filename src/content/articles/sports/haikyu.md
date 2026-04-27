@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild language", "sports injury (minor)"]
 description: "Yu's review of Haikyu!! — 45 volumes of the best sports manga ever made. You don't need to know volleyball. You don't need to like sports. You just need to care about people trying with everything they have."
-coverImage: "/covers/haikyu.jpg"
 amazonASIN: "B01F4IYNX2"
 publishedAt: "2026-03-29"
 tags: ["sports", "volleyball", "school", "friendship", "completed", "feel-good"]

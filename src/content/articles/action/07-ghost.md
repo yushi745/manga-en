@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "slavery themes (backstory)", "religious themes", "character death", "dark historical backstory"]
 description: "Yu's review of 07-Ghost — Teito Klein is a military slave who escapes after attacking a superior who murdered his only friend; fleeing to a church sanctuary, he discovers that he carries power connected to the god Verloren and is connected to a kingdom's lost heir — and that the military pursuing him is not his greatest problem."
-coverImage: "/covers/07-ghost.jpg"
 amazonASIN: "1421541963"
 publishedAt: "2024-07-18"
 tags: ["action", "fantasy", "supernatural", "completed", "teen", "viz", "josei", "religion-themes"]

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "murder", "psychological horror", "marital conflict and abuse", "graphic content"]
 description: "Yu's review of Hideout — Seiichi Kirishima takes his wife to a deserted island intending to kill her and stage it as an accident; before he can act, they encounter something on the island that alters the situation entirely; what follows is survival horror with a protagonist whose hands are already guilty."
-coverImage: "/covers/hideout.jpg"
 amazonASIN: "1616551429"
 publishedAt: "2025-03-29"
 tags: ["horror", "thriller", "completed", "mature", "dark-horse", "psychological", "survival"]

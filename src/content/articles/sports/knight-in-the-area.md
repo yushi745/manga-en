@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["sports competition", "themes of loss", "sibling rivalry"]
 description: "Yu's review of Knight in the Area (Area no Kishi) — Kakeru Aizawa is a timid soccer boy who manages his school's soccer team while his older brother Suguru is a genuine prodigy; after a life-changing accident, Kakeru discovers that the potential his brother always believed in was real; a long-running soccer manga with genuine emotional stakes and technical depth."
-coverImage: "/covers/knight-in-the-area.jpg"
 amazonASIN: "1612626556"
 publishedAt: "2026-04-05"
 tags: ["sports", "soccer", "completed", "teen", "kodansha", "sibling", "shonen"]

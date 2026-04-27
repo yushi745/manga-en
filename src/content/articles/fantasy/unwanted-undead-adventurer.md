@@ -14,7 +14,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["undead protagonist", "dungeon exploration", "fantasy violence", "evolution mechanics"]
 description: "Yu's review of The Unwanted Undead Adventurer — Rentt Faina has spent ten years as a Bronze-rank adventurer without advancement; in a dungeon, he is killed and eaten by a dragon and awakens as a skeleton; rather than lamenting his situation, he sets out to evolve his undead form, eventually working toward regaining a human appearance while hiding his nature."
-coverImage: "/covers/unwanted-undead-adventurer.jpg"
 amazonASIN: "1718372515"
 publishedAt: "2025-02-17"
 tags: ["fantasy", "action", "ongoing", "teen", "j-novel-club", "undead", "skeleton", "dungeon"]

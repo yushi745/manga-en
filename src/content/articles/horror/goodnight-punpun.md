@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["severe depression", "suicide and suicidal ideation", "abuse", "sexual content", "violence", "psychological horror", "the most disturbing content in any manga covered on this site"]
 description: "Yu's review of Goodnight Punpun — Punpun is drawn as a small bird-like symbol while everyone around him is human; the manga follows him from childhood through adulthood as the world refuses to be better than it is."
-coverImage: "/covers/goodnight-punpun.jpg"
 amazonASIN: "1421586207"
 publishedAt: "2025-03-26"
 tags: ["horror", "slice-of-life", "mature", "completed", "Asano", "psychological", "devastating"]

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["slapstick comedy", "cartoon violence", "dark premise played for laughs"]
 description: "Yu's review of Kill Me Baby — Sonya is a trained assassin attending high school; her best friend Yasuna is an extremely normal girl who keeps accidentally triggering Sonya's reflexive combat responses; the manga is a series of short sketches about this fundamental incompatibility, played for comedy."
-coverImage: "/covers/kill-me-baby.jpg"
 amazonASIN: "0316245860"
 publishedAt: "2026-01-19"
 tags: ["slice-of-life", "comedy", "completed", "teen", "yen-press", "4-koma", "school", "slapstick"]

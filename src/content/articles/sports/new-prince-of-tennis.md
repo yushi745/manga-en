@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy sports violence", "increasingly supernatural content"]
 description: "Yu's review of New Prince of Tennis — the sequel to The Prince of Tennis; Ryoma Echizen and Japan's top middle school tennis players are invited to a U-17 national training camp where the high school players are even more powerful and the tennis becomes increasingly divorced from physical reality; the sequel escalates the original's supernatural sports to maximum extremes."
-coverImage: "/covers/new-prince-of-tennis.jpg"
 amazonASIN: "1421566621"
 publishedAt: "2026-04-12"
 tags: ["sports", "tennis", "ongoing", "teen", "viz-media", "sequel"]

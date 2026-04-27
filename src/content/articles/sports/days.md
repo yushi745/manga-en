@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["sports competition", "themes of inadequacy and perseverance"]
 description: "Yu's review of Days — Tsukushi Tsukamoto has no athletic ability, no soccer experience, and no particular physical gifts; his only quality is an absolute refusal to give up; through sheer determination he joins a competitive high school soccer team and begins a years-long process of becoming genuinely capable."
-coverImage: "/covers/days.jpg"
 amazonASIN: "1632363216"
 publishedAt: "2026-03-24"
 tags: ["sports", "soccer", "completed", "teen", "kodansha"]

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["elemental power battles", "action fantasy", "underground city setting", "rescue mission structure"]
 description: "Yu's review of Tokyo Underground — Rumina Asagi and his friend Ginnosuke fall into the Underground — a city beneath Tokyo where the population has elemental ability users called Elemental Users; they encounter Chelsea Rihikawa, an Elemental User who can control fire, and become involved in rescuing her companion Ruri from the powerful organization that controls the Underground."
-coverImage: "/covers/tokyo-underground.jpg"
 amazonASIN: "1591825172"
 publishedAt: "2024-11-02"
 tags: ["action", "fantasy", "elemental-powers", "completed", "teen", "tokyopop", "underground-city", "rescue"]

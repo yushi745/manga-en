@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["sports competition", "themes of failure and perseverance"]
 description: "Yu's review of Ao Ashi — Ashito Aoi is a talented high school soccer player from a small town who is recruited by the FC Tokyo youth academy; gifted with the rare ability to see the entire field, he must learn what professional soccer requires beyond individual talent — the intelligence, discipline, and positional understanding that separate players who make it from those who don't."
-coverImage: "/covers/ao-ashi.jpg"
 amazonASIN: "1974747859"
 publishedAt: "2026-03-15"
 tags: ["sports", "soccer", "completed", "teen", "viz-media", "big-comic-spirits"]

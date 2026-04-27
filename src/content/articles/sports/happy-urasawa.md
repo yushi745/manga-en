@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["family debt crisis", "yakuza involvement", "sports pressure", "mature themes", "some fanservice"]
 description: "Yu's review of Happy! — Umino Miyuki had no interest in tennis until her brother Yuuichi's gambling debt threatened the entire family; to pay it off she must reach the top of the professional tennis circuit; Naoki Urasawa's tennis manga about a woman who becomes a professional athlete not out of passion but out of necessity."
-coverImage: "/covers/happy-urasawa.jpg"
 amazonASIN: "1591162432"
 publishedAt: "2026-03-30"
 tags: ["sports", "drama", "completed", "teen-plus", "viz-media", "tennis", "urasawa", "yakuza"]

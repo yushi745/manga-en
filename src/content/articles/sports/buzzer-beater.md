@@ -16,7 +16,6 @@ ageRating: "T (Teen)"
 contentWarnings:
   - "mild sci-fi violence"
 description: "A comprehensive review of Buzzer Beater — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/buzzer-beater.jpg"
 amazonASIN: "1591169887"
 publishedAt: "2026-03-20"
 tags:

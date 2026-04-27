@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["magical transformation", "fantasy battle", "romance with age difference", "dark fantasy elements"]
 description: "Yu's review of Pretear — Himeno Awayuki, a tomboyish teenager, is told she is the New Legend of Snow White — the Pretear, a girl who can merge with one of seven Leafe Knights and borrow their elemental powers to fight the Princess of Disaster; the story is a magical girl romance with a Snow White framework."
-coverImage: "/covers/pretear.jpg"
 amazonASIN: "1413900321"
 publishedAt: "2025-01-21"
 tags: ["fantasy", "romance", "completed", "teen", "adv-manga", "magical-girl", "snow-white", "elemental-powers"]

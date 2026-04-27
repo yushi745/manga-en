@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["isekai content", "family embarrassment comedy", "mild fan service", "mother-son relationship themes"]
 description: "Yu's review of Do You Love Your Mom and Her Two-Hit Multi-Target Attacks? — Masato Oosuki is transported into a government MMORPG test with his mother Mamako; Mamako is the most powerful person in the game and is also embarrassingly devoted to her son; the comedy of a teenage boy trying to become a hero while his overpowered mother solves everything first."
-coverImage: "/covers/do-you-love-your-mom.jpg"
 amazonASIN: "1626929378"
 publishedAt: "2024-12-04"
 tags: ["fantasy", "isekai", "comedy", "completed", "teen", "seven-seas", "family", "parody"]

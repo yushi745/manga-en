@@ -15,7 +15,6 @@ mangaAuthor: "Nobuyuki Fukumoto"
 serialization: "Weekly Manga Goraku"
 contentWarnings: ["gambling", "yakuza violence", "psychological manipulation", "blood", "death stakes"]
 description: "Yu's review of Akagi — a 13-year-old named Shigeru Akagi stumbles into a mahjong den one rainy night and demonstrates a preternatural understanding of the game; the story follows his rise through the underground mahjong world where the stakes are money, blood, and life."
-coverImage: "/covers/akagi.jpg"
 amazonASIN: "B07SJGLN5M"
 publishedAt: "2026-03-13"
 tags: ["sports", "psychological-thriller", "completed", "mahjong", "gambling", "classic"]

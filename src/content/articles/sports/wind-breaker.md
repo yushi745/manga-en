@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["fighting", "delinquent themes"]
 description: "Yu's review of Wind Breaker — Haruka Sakura transfers to Furin High School because of its reputation as the toughest school in the area; he discovers the students there protect their town, not terrorize it, and that strength has a different purpose than he thought."
-coverImage: "/covers/wind-breaker.jpg"
 amazonASIN: "1646518527"
 publishedAt: "2026-04-23"
 tags: ["sports", "action", "shonen", "ongoing", "fighting", "delinquent"]

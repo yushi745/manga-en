@@ -18,7 +18,6 @@ contentWarnings:
   - "ecchi content"
   - "suggestive situations"
 description: "A review of Golden Boy, the classic comedy manga about Kintaro Oe — Tokyo University dropout who travels Japan mastering every trade through menial labor."
-coverImage: "/covers/golden-boy.jpg"
 amazonASIN: ""
 publishedAt: "2026-05-01"
 tags:

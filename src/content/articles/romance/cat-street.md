@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["social withdrawal themes", "stage fright", "depression adjacent content"]
 description: "Yu's review of Cat Street — Keito Aoyama was a child actress whose life derailed from stage fright; she has been a social recluse for years; a free school called El Liston, which exists outside the normal educational system for people who don't fit it, becomes her chance to start over."
-coverImage: "/covers/cat-street.jpg"
 amazonASIN: "1421530821"
 publishedAt: "2025-05-25"
 tags: ["romance", "drama", "completed", "shojo", "viz-media", "boys-over-flowers-author"]

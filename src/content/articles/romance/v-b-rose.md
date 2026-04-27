@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "fashion/craft focus"]
 description: "Yu's review of V.B. Rose — Ageha helps out at VB Rose, a boutique wedding dress shop run by two young men; her sister is getting married and Ageha becomes involved in making the dress; the craft focus and the shop's atmosphere form the backdrop for a romance with one of the shop's owners."
-coverImage: "/covers/v-b-rose.jpg"
 amazonASIN: "1598161601"
 publishedAt: "2025-09-17"
 tags: ["romance", "drama", "completed", "shojo", "fashion", "craft", "tokyopop"]

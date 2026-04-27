@@ -17,7 +17,6 @@ contentWarnings:
   - "mild romance"
   - "gender disguise themes"
 description: "Yu's review of Magical × Miracle — a girl gets magically transported to a fantasy kingdom and must rule as a substitute king while keeping her true identity secret."
-coverImage: "/covers/magical-x-miracle.jpg"
 amazonASIN: "1595324909"
 publishedAt: "2025-07-24"
 tags:

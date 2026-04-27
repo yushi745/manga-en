@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["emotional abuse", "family trauma", "themes of depression and isolation", "some violence"]
 description: "Yu's review of Fruits Basket — a girl who has lost everything moves in with a family cursed to transform into animals of the Chinese zodiac, and slowly melts the ice that generations of abuse built around their hearts."
-coverImage: "/covers/fruits-basket.jpg"
 amazonASIN: "1591826039"
 publishedAt: "2025-06-15"
 tags: ["romance", "drama", "shojo", "classic", "emotional", "completed"]

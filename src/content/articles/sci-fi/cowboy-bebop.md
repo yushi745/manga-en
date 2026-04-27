@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["gun violence", "crime themes", "some drug references"]
 description: "Yu's review of the Cowboy Bebop manga — a manga adaptation of the classic anime; Spike Spiegel, Jet Black, Faye Valentine, and the crew of the Bebop pursue bounties across a solar system that is both future-advanced and perpetually broken down; short episodic stories in the visual register of the anime."
-coverImage: "/covers/cowboy-bebop.jpg"
 amazonASIN: "1595827951"
 publishedAt: "2025-10-21"
 tags: ["sci-fi", "action", "completed", "teen", "dark-horse", "adaptation"]

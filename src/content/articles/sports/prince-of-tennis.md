@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["physics-defying sports techniques", "intense competition"]
 description: "Yu's review of The Prince of Tennis — a tennis prodigy returns from America at age twelve and joins his middle school tennis team, where his special techniques and mysterious potential turn the Japanese junior tennis world upside down."
-coverImage: "/covers/prince-of-tennis.jpg"
 amazonASIN: "1591161754"
 publishedAt: "2026-04-15"
 tags: ["sports", "tennis", "shonen", "classic", "completed"]

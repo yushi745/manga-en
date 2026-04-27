@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["wrestling", "sports violence", "fanservice", "comedy violence"]
 description: "Yu's review of Battle Club — Mokichi Utagawa joins a high school wrestling club that turns out to be far more chaotic than expected; the series mixes genuine wrestling technique with sports comedy and a cast of increasingly unusual members; a wrestling manga that takes the sport seriously while surrounding it with absurdist humor."
-coverImage: "/covers/battle-club.jpg"
 amazonASIN: "1591824796"
 publishedAt: "2026-03-18"
 tags: ["sports", "wrestling", "comedy", "completed", "teen-plus", "tokyopop", "martial-arts"]
