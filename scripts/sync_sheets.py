@@ -68,7 +68,7 @@ def collect_articles():
         slug = os.path.basename(filepath).replace('.md', '')
         with open(filepath, encoding='utf-8') as f:
             content = f.read()
-        url = f"{SITE_URL}/articles/{genre_dir}/{slug}"
+        url = f"{SITE_URL}/{genre_dir}/{slug}"
         articles.append({
             'mangaTitle':    get_field(content, 'mangaTitle'),
             'mangaTitleJa':  get_field(content, 'mangaTitleJa'),
