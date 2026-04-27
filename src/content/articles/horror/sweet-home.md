@@ -20,7 +20,6 @@ contentWarnings:
   - "body horror"
   - "death"
 description: "A review of Sweet Home — the Korean horror manhwa about residents of an apartment building who must survive as the world outside fills with humans transforming into monsters driven by their deepest desires."
-coverImage: "/covers/sweet-home.jpg"
 amazonASIN: ""
 publishedAt: "2026-05-04"
 tags:

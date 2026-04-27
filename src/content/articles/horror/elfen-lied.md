@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "body horror", "child abuse", "sexual violence", "trauma", "graphic death"]
 description: "Yu's review of Elfen Lied — Lucy is a Diclonius, a mutant human with invisible telekinetic vectors and a compulsion to kill; she escapes a government research facility and is found on a beach by two university students, reverting to a childlike alternate personality named Nyu; the series follows the escalating conflict between the facility's attempts to recapture her and the life she briefly inhabits."
-coverImage: "/covers/elfen-lied.jpg"
 amazonASIN: "1593079001"
 publishedAt: "2025-03-20"
 tags: ["horror", "sci-fi", "completed", "mature", "dark-horse", "psychological"]

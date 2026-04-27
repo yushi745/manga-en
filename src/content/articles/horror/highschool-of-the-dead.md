@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme graphic violence", "gore", "significant fanservice", "mature content throughout", "the author died before completing the series"]
 description: "Yu's review of Highschool of the Dead — a zombie outbreak begins simultaneously across Japan; a group of students and a school nurse fight their way out of their school and through the city, trying to survive a world that has ended in a day; the series is known for its action and its equal commitment to fanservice alongside its horror."
-coverImage: "/covers/highschool-of-the-dead.jpg"
 amazonASIN: "0316132950"
 publishedAt: "2025-03-30"
 tags: ["horror", "action", "completed", "zombie", "mature", "post-apocalyptic"]

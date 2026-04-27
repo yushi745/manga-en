@@ -18,7 +18,6 @@ contentWarnings:
   - "disturbing imagery"
   - "existential horror"
 description: "A comprehensive review of Venus in the Blind Spot — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/venus-in-the-blind-spot.jpg"
 amazonASIN: "1974720179"
 publishedAt: "2025-05-06"
 tags:

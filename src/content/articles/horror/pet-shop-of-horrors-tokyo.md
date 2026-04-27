@@ -18,7 +18,6 @@ contentWarnings:
   - "dark themes"
   - "disturbing imagery"
 description: "A comprehensive review of Pet Shop of Horrors: Tokyo — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/pet-shop-of-horrors-tokyo.jpg"
 amazonASIN: "1427808228"
 publishedAt: "2025-04-22"
 tags:

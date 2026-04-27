@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "18+"
 contentWarnings: ["body horror", "cannibalism", "graphic gore", "incestuous themes", "disturbing imagery", "extreme content"]
 description: "Yu's review of Pupa — Utsutsu and Yume Hasegawa are siblings; Yume is infected with a virus that turns her into a monster with an overwhelming need to consume flesh; Utsutsu has an accelerated regeneration that makes him able to survive being eaten; he allows her to eat him so she doesn't hurt anyone else; extreme body horror with sibling relationship at its center."
-coverImage: "/covers/pupa.jpg"
 amazonASIN: "0316344907"
 publishedAt: "2025-04-25"
 tags: ["horror", "body-horror", "completed", "18-plus", "yen-press", "extreme"]

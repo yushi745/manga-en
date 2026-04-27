@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "nudity", "sexual content", "extreme gore", "dark psychological themes"]
 description: "Yu's review of Gantz — two teenagers die in a subway accident and wake up in an apartment with other recently deceased people, commanded by a black sphere to hunt and kill aliens for points."
-coverImage: "/covers/gantz.jpg"
 amazonASIN: "1593079494"
 publishedAt: "2025-03-23"
 tags: ["horror", "sci-fi", "action", "mature", "completed", "dark"]

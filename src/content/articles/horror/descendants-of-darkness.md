@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["supernatural horror", "death investigation themes", "gothic atmosphere", "mild yaoi subtext"]
 description: "Yu's review of Descendants of Darkness — Tsuzuki Asato is a shinigami assigned to the Ministry of Hades, which investigates supernatural incidents between the living and dead; his new partner Hisoka is cold and keeps his distance; their cases involve the full range of supernatural horror while the series' central antagonist Dr. Muraki pursues his own obsessive agenda."
-coverImage: "/covers/descendants-of-darkness.jpg"
 amazonASIN: "1591165164"
 publishedAt: "2025-03-15"
 tags: ["horror", "supernatural", "shinigami", "completed", "teen", "viz-media", "gothic", "mystery"]

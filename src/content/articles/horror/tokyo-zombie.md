@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["zombie violence", "black comedy", "dark humor", "graphic content", "social satire"]
 description: "Yu's review of Tokyo Zombie — Fujio and Mitsuo are factory workers who practice judo; the zombie apocalypse begins in Tokyo near a trash mountain called Dark Fuji; they fight zombies; eventually the rich use the zombie apocalypse as an opportunity to rebuild society in their favor; a one-volume black comedy that is angrier than it looks."
-coverImage: "/covers/tokyo-zombie.jpg"
 amazonASIN: "0867196068"
 publishedAt: "2025-05-04"
 tags: ["horror", "comedy", "zombie", "completed", "mature", "satire", "one-volume"]

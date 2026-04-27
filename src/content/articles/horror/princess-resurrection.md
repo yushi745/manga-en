@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["monster battle violence", "comedy horror", "resurrection and death themes", "horror parody"]
 description: "Yu's review of Princess Resurrection — Hiro Hiyorimi dies in an accident saving a princess; she revives him with her blood, making him a Phoenix Warrior who can resurrect when he dies but must drink her blood to maintain the revival; she is Hime, a princess of the Monster World whose siblings are all trying to kill her to claim the throne."
-coverImage: "/covers/princess-resurrection.jpg"
 amazonASIN: "1595824839"
 publishedAt: "2025-04-23"
 tags: ["horror", "comedy", "action", "completed", "teen", "dark-horse", "monster", "parody"]

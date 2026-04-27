@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["gothic horror", "death and murder", "dark family themes", "Victorian-era violence", "occult themes"]
 description: "Yu's review of Godchild — Cain Hargreaves, the young Earl of Hargreaves, possesses knowledge of poisons and an aristocratic curse that draws murder and tragedy to him; set in Victorian England, he and his devoted manservant Riff investigate dark cases while the shadow of his sinister father looms over everything."
-coverImage: "/covers/godchild.jpg"
 amazonASIN: "0759530394"
 publishedAt: "2025-03-25"
 tags: ["horror", "mystery", "gothic", "completed", "teen", "yen-press", "victorian", "shoujo"]

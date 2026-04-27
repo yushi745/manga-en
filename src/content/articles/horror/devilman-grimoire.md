@@ -19,7 +19,6 @@ contentWarnings:
   - "body horror"
   - "demonic content"
 description: "A comprehensive review of Devilman Grimoire — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/devilman-grimoire.jpg"
 amazonASIN: "1626924473"
 publishedAt: "2025-03-15"
 tags:

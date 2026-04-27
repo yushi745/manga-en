@@ -18,7 +18,6 @@ contentWarnings:
   - "disturbing imagery"
   - "themes of obsession"
 description: "A comprehensive review of Lovesickness: Junji Ito Story Collection — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/lovesickness.jpg"
 amazonASIN: "1974724476"
 publishedAt: "2025-04-09"
 tags:

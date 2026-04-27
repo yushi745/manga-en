@@ -19,7 +19,6 @@ contentWarnings:
   - "violence"
   - "psychological horror"
 description: "A review of Bastard — the Korean thriller manhwa about a boy who knows his father is a serial killer and must decide what to do about it."
-coverImage: "/covers/bastard-webtoon.jpg"
 amazonASIN: ""
 publishedAt: "2026-05-05"
 tags:

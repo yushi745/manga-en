@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic murder", "psychological horror", "torture scenes", "family violence", "mature philosophical content", "game-like murder mystery"]
 description: "Yu's review of Umineko: When They Cry — on the private island of Rokkenjima, the Ushiromiya family gathers every year; when a typhoon traps them, the murders begin repeating; a witch named Beatrice claims responsibility; the manga asks whether supernatural explanations or human explanations account for what happened."
-coverImage: "/covers/umineko.jpg"
 amazonASIN: "0316337676"
 publishedAt: "2025-05-05"
 tags: ["horror", "mystery", "completed", "psychological", "supernatural", "visual-novel-adaptation", "mature"]

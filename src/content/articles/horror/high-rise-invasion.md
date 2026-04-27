@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "death", "masked killer violence", "survival horror", "fanservice"]
 description: "Yu's review of High-Rise Invasion (Tenkuu Shinpan) — high school girl Yuri Honjo finds herself in a world of skyscrapers connected by suspension bridges, populated by masked killers who force trapped people to jump; she must survive, find her brother, and discover what this world is and how to escape it; a survival horror manga with action elements."
-coverImage: "/covers/high-rise-invasion.jpg"
 amazonASIN: "1626929246"
 publishedAt: "2025-03-29"
 tags: ["horror", "action", "survival", "completed", "mature", "seven-seas", "masked-killers"]

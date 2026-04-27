@@ -19,7 +19,6 @@ contentWarnings:
   - "psychological trauma"
   - "dark themes"
 description: "Yu's review of Life — a girl driven to self-harm by bullying and academic pressure becomes the target of a vicious bully, while struggling to find any reason to keep going."
-coverImage: "/covers/life-keiko.jpg"
 amazonASIN: "1595326448"
 publishedAt: "2025-04-08"
 tags:

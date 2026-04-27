@@ -18,7 +18,6 @@ contentWarnings:
   - "supernatural themes"
   - "mystery"
 description: "Yu's review of Kuro — a girl and her mysterious black cat navigate a world where the supernatural is always just at the edge of the ordinary."
-coverImage: "/covers/kuro-manga.jpg"
 amazonASIN: "0316376930"
 publishedAt: "2025-04-05"
 tags:

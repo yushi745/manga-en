@@ -19,7 +19,6 @@ contentWarnings:
   - "psychological horror"
   - "twist ending"
 description: "A review of Blood-C, the horror manga collaboration between CLAMP and Production I.G. that uses a magical girl framework to deliver something genuinely disturbing."
-coverImage: "/covers/blood-c.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-28"
 tags:

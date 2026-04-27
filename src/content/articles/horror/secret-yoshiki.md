@@ -19,7 +19,6 @@ contentWarnings:
   - "murder mystery"
   - "survivor guilt"
 description: "Yu's review of Secret — six students survive a bus accident that killed their classmates; now they're being killed one by one, and the killer is one of the survivors."
-coverImage: "/covers/secret-yoshiki.jpg"
 amazonASIN: "0316322431"
 publishedAt: "2025-04-27"
 tags:

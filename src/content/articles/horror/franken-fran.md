@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme body horror", "graphic surgery", "dark comedy", "disturbing imagery throughout"]
 description: "Yu's review of Franken Fran — Fran is a surgical creation of the legendary Dr. Madaraki; in his absence, she uses her extraordinary surgical skill to help people with their problems, always successfully, never in the way they intended."
-coverImage: "/covers/franken-fran.jpg"
 amazonASIN: "1626920367"
 publishedAt: "2025-03-23"
 tags: ["horror", "comedy", "seinen", "completed", "body-horror", "dark-comedy"]

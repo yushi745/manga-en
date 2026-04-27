@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["criminal violence", "hacking themes", "social commentary", "dark themes"]
 description: "Yu's review of Prophecy — an anonymous online collective called the Paper Bag Crowd announces crimes before committing them, choosing targets who represent social injustice that existing law cannot address; a police investigator races to identify and stop them while the public debate about whether the collective is criminal or heroic divides opinion."
-coverImage: "/covers/prophecy.jpg"
 amazonASIN: "1632364638"
 publishedAt: "2025-04-24"
 tags: ["horror", "thriller", "completed", "teen", "kodansha", "mystery", "social-commentary"]

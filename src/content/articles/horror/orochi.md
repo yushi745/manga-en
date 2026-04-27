@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["horror violence", "death", "disturbing imagery", "psychological horror", "graphic content"]
 description: "Yu's review of Orochi — a beautiful immortal girl named Orochi drifts through human lives, observing and sometimes participating in the horror that emerges when human desires and jealousies reach extremes; Kazuo Umezu's anthology horror with a supernatural narrator defined by beauty and detachment."
-coverImage: "/covers/orochi.jpg"
 amazonASIN: "1421532166"
 publishedAt: "2025-04-20"
 tags: ["horror", "anthology", "completed", "mature", "kazuo-umezu", "viz-media", "classic"]

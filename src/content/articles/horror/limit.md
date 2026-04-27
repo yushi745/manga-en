@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["bullying themes", "survival violence", "death", "psychological manipulation", "social cruelty"]
 description: "Yu's review of Limit — a school bus carrying students on a field trip crashes; five girls survive in a remote forest; Mizuki Konno, who was part of the class's bullying hierarchy, finds that survival has inverted the social order — the girl they bullied controls the only tools; the series examines how quickly social structures collapse and reform under extreme conditions."
-coverImage: "/covers/limit.jpg"
 amazonASIN: "1612620426"
 publishedAt: "2025-04-08"
 tags: ["horror", "thriller", "completed", "teen", "kodansha", "survival", "bullying"]
