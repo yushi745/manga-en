@@ -198,8 +198,14 @@ titles_ja, titles_en, slugs = load_existing()
 2. `mangaTitleJa` を修正
 3. 楽天APIで再検索（スクリプト or 手動）
 
-### ステップ4: coverImage 削除
-- ステップ3でも見つからない場合は `coverImage` フィールドを frontmatter から削除
+### ステップ4: 目視確認（必須）
+`download_covers_rakuten.py` 実行後、バッチ全記事のカバー画像を Read ツールで1枚ずつ開いて目視確認する。
+- タイトル文字・キャラ・デザインが `mangaTitle` と一致すること
+- 別作品・Coming Soon・真っ白・ロゴのみ → NGとして coverImage 削除 + 画像ファイル削除
+- **目視確認なしでコミット禁止**
+
+### ステップ5: coverImage 削除
+- ステップ3でも見つからない場合、またはステップ4でNGの場合は `coverImage` フィールドを frontmatter から削除
 - 画像なし表示になる（page.tsx が `coverImage` の有無で条件分岐済み）
 
 ### 注意
