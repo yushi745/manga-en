@@ -18,7 +18,6 @@ contentWarnings:
   - "betrayal themes"
   - "psychological tension"
 description: "A review of Tower of God, the Korean webtoon manhwa about a boy who climbs an infinite tower in search of his only friend."
-coverImage: "/covers/tower-of-god.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-26"
 tags:

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["action violence", "supernatural conflict", "environmental themes", "some mature content"]
 description: "Yu's review of the Rewrite manga — Kotarou Tennouji can rewrite his body's capabilities but each use consumes his lifespan; in Kazamatsuri, a city committed to coexisting with nature, he encounters supernatural organizations with opposing views on humanity's future; manga adaptation of Key's most action-focused visual novel."
-coverImage: "/covers/rewrite-manga.jpg"
 amazonASIN: "031621878X"
 publishedAt: "2025-01-27"
 tags: ["fantasy", "action", "completed", "teen-plus", "yen-press", "key", "visual-novel-adaptation", "supernatural"]

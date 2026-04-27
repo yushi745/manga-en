@@ -17,7 +17,6 @@ contentWarnings:
   - "sibling relationship themes"
   - "otaku culture themes"
 description: "A review of My Little Sister Can't Be This Cute (Oreimo) — the manga adaptation of the light novel about a boy who discovers his model student sister is a secret otaku."
-coverImage: "/covers/ore-imo.jpg"
 amazonASIN: ""
 publishedAt: "2026-05-06"
 tags:

@@ -17,7 +17,6 @@ contentWarnings:
   - "action violence"
   - "supernatural themes"
 description: "A review of Noblesse, the Korean webtoon about a noble vampire who awakens after 820 years and enrolls in a Korean high school while battling secret organizations."
-coverImage: "/covers/noblesse.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-27"
 tags:

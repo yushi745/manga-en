@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["supernatural cleaning premise", "psychological horror elements", "trauma themes", "romance with power imbalance setup"]
 description: "Yu's review of QQ Sweeper — Fumi Nishioka has nowhere to live and loves cleaning; she encounters Kyutaro Horikita, who runs an extermination service that targets psychological 'bugs' — manifestations of trauma and negative emotion that infest the minds and environments of troubled people."
-coverImage: "/covers/qq-sweeper.jpg"
 amazonASIN: "1421581396"
 publishedAt: "2025-08-16"
 tags: ["romance", "action", "completed", "teen", "viz-media", "supernatural", "cleaning", "psychological"]

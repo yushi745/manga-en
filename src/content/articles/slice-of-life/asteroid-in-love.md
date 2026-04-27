@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["yuri themes", "astronomy content", "gentle school life", "some emotional moments"]
 description: "Yu's review of Asteroid in Love — Mira Konohata and Ao Manaka made a promise as children to find an asteroid together; they reunite in high school when they join the Astronomy and Geology Club; Quro's Kirara manga about childhood promises, scientific passion, and growing friendship."
-coverImage: "/covers/asteroid-in-love.jpg"
 amazonASIN: "1645054225"
 publishedAt: "2025-12-10"
 tags: ["slice-of-life", "yuri", "astronomy", "completed", "all-ages", "seven-seas", "kirara", "school-life"]

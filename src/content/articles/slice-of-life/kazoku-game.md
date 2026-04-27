@@ -19,7 +19,6 @@ contentWarnings:
   - "school bullying"
   - "dark themes"
 description: "Yu's review of Family Game — the Numata family hires a tutor named Yoshimoto Koya for their underperforming middle school son; Yoshimoto is strange, confrontational, and seems to understand exactly what each family member is hiding from the others; a psychological drama about the lies families tell themselves and what happens when someone refuses to participate in them."
-coverImage: "/covers/kazoku-game.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-27"
 tags:

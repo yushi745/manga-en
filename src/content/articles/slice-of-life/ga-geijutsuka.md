@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of GA: Geijutsuka Art Design Class — the daily life of students in the art design department of a high school, where discussions of color theory, perspective, and artistic technique are the subject of comedy."
-coverImage: "/covers/ga-geijutsuka.jpg"
 amazonASIN: "0316073202"
 publishedAt: "2025-12-29"
 tags: ["slice-of-life", "comedy", "4-koma", "school", "completed", "art"]

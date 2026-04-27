@@ -17,7 +17,6 @@ contentWarnings:
   - "crude humor"
   - "mild sexual jokes"
 description: "A comprehensive review of Agravity Boys — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/agravity-boys.jpg"
 amazonASIN: "1974720934"
 publishedAt: "2025-12-06"
 tags:

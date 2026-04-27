@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["teenage romance", "mild language"]
 description: "Yu's review of Tsurezure Children — a romantic anthology following multiple high school couples in short-form episodes; each chapter follows a different couple in a different stage of confession or early relationship; a warm comedy anthology about the specific awkwardness of telling someone you love them."
-coverImage: "/covers/tsurezure-children.jpg"
 amazonASIN: "1646091787"
 publishedAt: "2026-03-01"
 tags: ["slice-of-life", "romance", "completed", "teen", "square-enix", "anthology", "high-school"]

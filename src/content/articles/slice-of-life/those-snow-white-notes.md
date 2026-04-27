@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["music and performance themes", "grief over lost mentor", "family pressure", "artistic identity"]
 description: "Yu's review of Those Snow White Notes — Setsu Sawamura is a shamisen prodigy whose grandfather, the legendary Matsugorou Sawamura, has just died; unable to play since losing his teacher, Setsu leaves his rural home and arrives in Tokyo, where he must find his own sound separate from his grandfather's influence."
-coverImage: "/covers/those-snow-white-notes.jpg"
 amazonASIN: "1646516079"
 publishedAt: "2026-02-28"
 tags: ["slice-of-life", "music", "completed", "teen", "kodansha", "shamisen", "artistic-identity", "grief"]

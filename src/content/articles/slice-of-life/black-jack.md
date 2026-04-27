@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["surgical content", "life and death themes", "some horror elements", "medical ethics dilemmas", "depictions of severe injury"]
 description: "Yu's review of Black Jack — Black Jack is an unlicensed surgeon of extraordinary skill who charges enormous fees for miraculous operations; each chapter is a standalone case that tests the limits of medicine, ethics, and what it means to save a life; Tezuka's most sustained examination of the cost and meaning of human survival."
-coverImage: "/covers/black-jack.jpg"
 amazonASIN: "1934287253"
 publishedAt: "2025-12-13"
 tags: ["slice-of-life", "drama", "completed", "tezuka", "medical", "classic", "manga-history"]

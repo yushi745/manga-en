@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Shirokuma Cafe — a polar bear named Shirokuma runs a café near the zoo; Panda works part-time there (poorly), Penguin is a regular customer, and the humor comes from animal characters behaving with human social conventions while remaining animals."
-coverImage: "/covers/shirokuma-cafe.jpg"
 amazonASIN: "1421579146"
 publishedAt: "2026-02-19"
 tags: ["slice-of-life", "comedy", "all-ages", "completed", "animals"]

@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["reincarnation isekai", "power fantasy", "action violence", "competence fantasy"]
 description: "Yu's review of The Strongest Sage with the Weakest Crest — Mathias, the world's greatest sage, reincarnates into the future deliberately to obtain the crest type suited for close combat magic rather than his original long-range specialization; reborn into a world where magical knowledge has declined, he rapidly surpasses everyone while remembering everything from his previous life."
-coverImage: "/covers/strongest-sage.jpg"
 amazonASIN: "1646090977"
 publishedAt: "2025-02-06"
 tags: ["fantasy", "action", "ongoing", "teen", "square-enix", "reincarnation", "competence-fantasy", "isekai-adjacent"]

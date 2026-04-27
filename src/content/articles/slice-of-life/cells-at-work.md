@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild violence", "medical content", "depictions of illness"]
 description: "Yu's review of Cells at Work! — the cells of the human body are personified as workers in a city; a red blood cell delivers oxygen while a white blood cell eliminates pathogens; the manga teaches human biology through cheerful action-comedy while making you care about your own circulatory system."
-coverImage: "/covers/cells-at-work.jpg"
 amazonASIN: "1632363496"
 publishedAt: "2025-12-20"
 tags: ["slice-of-life", "comedy", "educational", "completed", "teen", "kodansha"]

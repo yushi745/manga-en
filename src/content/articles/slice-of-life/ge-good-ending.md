@@ -17,7 +17,6 @@ contentWarnings:
   - "romantic drama"
   - "love triangles"
 description: "A comprehensive review of GE: Good Ending — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/ge-good-ending.jpg"
 amazonASIN: "1612620027"
 publishedAt: "2025-12-31"
 tags:

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["explicit fan service", "harem romance", "M-rated ecchi content", "school setting", "twin-tails rivalry"]
 description: "Yu's review of Ladies versus Butlers! — Hino Akiharu enrolls in Hakureiryou Academy's servant-training course, a school that also trains noble ladies; his rough-looking face causes constant misunderstandings; his childhood friend Sernia and the dignified Flaminia both compete for his attention across twelve volumes."
-coverImage: "/covers/ladies-versus-butlers.jpg"
 amazonASIN: "1626920249"
 publishedAt: "2025-07-15"
 tags: ["romance", "harem", "completed", "mature", "seven-seas", "school", "butler", "ecchi"]

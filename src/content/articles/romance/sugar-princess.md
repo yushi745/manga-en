@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["sports romance", "figure skating", "competition", "short format"]
 description: "Yu's review of Sugar Princess — Maya Kurinoki slips on the ice at a public rink and somehow performs a jump she has never been taught; she is immediately recruited by Shun Todo, an elite figure skater who needs a pairs partner, and agrees to train for the competitive skating world despite never having skated before."
-coverImage: "/covers/sugar-princess.jpg"
 amazonASIN: "1421510782"
 publishedAt: "2025-09-02"
 tags: ["romance", "sports", "figure-skating", "completed", "all-ages", "viz-media", "short", "nakajo"]

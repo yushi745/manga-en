@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["teenage delinquency", "emotional intensity", "dysfunctional relationships", "violence", "adult situations"]
 description: "Yu's review of Ciguatera — Furuya is a teenage boy with no particular direction who falls intensely in love with a girl named Yuki; his feelings are real but his life is a mess; Minoru Furuya's slice-of-life manga about a young man whose emotional world is larger and more genuine than the chaotic life surrounding it."
-coverImage: "/covers/ciguatera.jpg"
 amazonASIN: "1934287865"
 publishedAt: "2025-12-21"
 tags: ["slice-of-life", "drama", "completed", "teen-plus", "vertical", "furuya", "youth", "romance"]

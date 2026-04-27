@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["adult sexual humor", "student council setting", "comedy-forward content", "female character sexual joke frequency"]
 description: "Yu's review of Seitokai Yakuindomo — Takatoshi Tsuda joins his recently co-ed high school's student council, which is entirely female; the comedy is built on the gap between Tsuda's straight-man responses and his three female council-mates' constant adult-humor commentary."
-coverImage: "/covers/seitokai-yakuindomo.jpg"
 amazonASIN: "1626922071"
 publishedAt: "2026-02-16"
 tags: ["slice-of-life", "comedy", "completed", "mature", "seven-seas", "student-council", "adult-humor", "gag-manga"]

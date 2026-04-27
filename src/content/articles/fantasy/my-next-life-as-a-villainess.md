@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild comedy situations", "otome game tropes used as comedy", "mild romance"]
 description: "Yu's review of My Next Life as a Villainess — after a bump on the head, noble girl Catarina Claes realizes she is the villain of an otome game she played in her past life; in every route, her character gets exiled or killed; she spends the series desperately trying to avoid all bad endings, inadvertently charming everyone around her in the process."
-coverImage: "/covers/my-next-life-as-a-villainess.jpg"
 amazonASIN: "1642753297"
 publishedAt: "2025-01-15"
 tags: ["fantasy", "isekai", "comedy", "completed", "otome-game", "Seven-Seas"]

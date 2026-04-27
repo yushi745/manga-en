@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["comedy violence (light slapstick)", "mild mature humor"]
 description: "Yu's review of Wagnaria!! — Souta Takanashi starts working at a family restaurant because a tiny girl asked him to; his coworkers include a woman with androphobia, a katana-carrying floor chief, an invisible manager, and a girl who thinks she might be in love with him; chaos is the default state."
-coverImage: "/covers/wagnaria.jpg"
 publishedAt: "2026-03-02"
 tags: ["slice-of-life", "comedy", "seinen", "completed", "workplace", "romance"]
 rating: 4

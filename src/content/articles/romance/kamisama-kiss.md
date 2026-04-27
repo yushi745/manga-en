@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["supernatural romance", "mild action", "some mature themes", "spirit world content"]
 description: "Yu's review of Kamisama Kiss — Nanami Momozono is evicted after her father's gambling debts force them out of their home; a stranger she helps gives her the mark of a land god, and she discovers herself suddenly in charge of a shrine with a fox familiar named Tomoe who resents her immediately."
-coverImage: "/covers/kamisama-kiss.jpg"
 amazonASIN: "1421542218"
 publishedAt: "2025-07-08"
 tags: ["romance", "fantasy", "completed", "supernatural", "fox-familiar", "shoujo"]

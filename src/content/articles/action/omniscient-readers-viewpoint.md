@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["apocalyptic scenarios", "death and violence", "survival game elements", "meta-narrative"]
 description: "Yu's review of Omniscient Reader's Viewpoint — Kim Dokja has spent years reading 'Three Ways to Survive in a Ruined World,' a web novel that only he follows to completion; when the novel's apocalyptic scenarios begin manifesting in reality, he is the only person who knows exactly what is coming."
-coverImage: "/covers/omniscient-readers-viewpoint.jpg"
 amazonASIN: "1975347242"
 publishedAt: "2024-10-02"
 tags: ["fantasy", "action", "manhwa", "meta", "survival", "ongoing", "teen", "yen-press", "apocalyptic"]

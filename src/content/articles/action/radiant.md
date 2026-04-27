@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "persecution themes", "fantasy world-building"]
 description: "Yu's review of Radiant — Seth is a young wizard infected as a child by a Nemesis (monsters that fall from the sky); he survived, which gives him magic, but infected wizards are feared and persecuted; he wants to find the Radiant — the origin point of the Nemeses — and destroy it; the series is notable as a French-authored manga published in Japan and localized to English."
-coverImage: "/covers/radiant.jpg"
 amazonASIN: "1974703819"
 publishedAt: "2024-10-09"
 tags: ["action", "fantasy", "ongoing", "wizard", "French-manga", "VIZ"]

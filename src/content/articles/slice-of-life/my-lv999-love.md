@@ -16,7 +16,6 @@ ageRating: "T (Teen)"
 contentWarnings:
   - "LGBTQ+ themes"
 description: "A comprehensive review of My Love Mix-Up! — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/my-lv999-love.jpg"
 amazonASIN: "1974718417"
 publishedAt: "2026-01-31"
 tags:

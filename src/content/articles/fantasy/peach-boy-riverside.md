@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "oni demons", "discrimination themes", "dark fantasy elements"]
 description: "Yu's review of Peach Boy Riverside — Princess Sally Salami leaves her sheltered life to see the world; she encounters Mikoto, a young man with the power to destroy oni, who is driven by hatred; Sally's compassion and Mikoto's hatred are placed in constant tension as they navigate a world where the line between humans and monsters is not clear."
-coverImage: "/covers/peach-boy-riverside.jpg"
 amazonASIN: "1646517261"
 publishedAt: "2025-01-20"
 tags: ["fantasy", "action", "completed", "teen", "seven-seas", "oni", "momotaro", "dark-fantasy"]

@@ -17,7 +17,6 @@ contentWarnings:
   - "mild violence"
   - "superhero action"
 description: "A comprehensive review of Tiger & Bunny — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/tiger-and-bunny.jpg"
 amazonASIN: "1421564602"
 publishedAt: "2024-10-31"
 tags:

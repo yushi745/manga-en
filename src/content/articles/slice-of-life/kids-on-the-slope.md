@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mild romantic themes", "period setting violence references", "coming-of-age themes"]
 description: "Yu's review of Kids on the Slope — 1966, Kyushu; Kaoru Nishimi is a classical piano student who moves frequently and has never made a real friend; he discovers Sentaro Kawabuchi, a drummer who plays jazz in the basement of a record shop; their friendship built around jazz becomes the central relationship of both their lives."
-coverImage: "/covers/kids-on-the-slope.jpg"
 amazonASIN: "1935654926"
 publishedAt: "2026-01-19"
 tags: ["slice-of-life", "drama", "completed", "teen", "vertical", "music", "historical"]

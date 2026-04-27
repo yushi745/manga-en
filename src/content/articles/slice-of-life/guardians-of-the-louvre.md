@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["historical art figures", "gentle supernatural elements", "illness themes", "death of historical figures depicted"]
 description: "Yu's review of Guardians of the Louvre — a Japanese painter visiting Paris falls ill and, trapped in a hotel near the Louvre, is visited by the museum's ghosts — historical artists and the people they painted; Jiro Taniguchi's commissioned work for the Louvre, his most visually European manga and a meditation on what art preserves."
-coverImage: "/covers/guardians-of-the-louvre.jpg"
 amazonASIN: "1681121344"
 publishedAt: "2026-01-03"
 tags: ["slice-of-life", "completed", "all-ages", "nbm", "jiro-taniguchi", "art", "paris", "supernatural"]

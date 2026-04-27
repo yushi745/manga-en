@@ -18,7 +18,6 @@ contentWarnings:
   - "BL subtext"
   - "mild romance"
 description: "Yu's review of Silver Diamond — an ordinary Japanese boy who has an unusual ability to grow plants is pulled into a fantasy world where the land has turned to desert and he might be the only one who can save it."
-coverImage: "/covers/silver-diamond.jpg"
 amazonASIN: "1427812020"
 publishedAt: "2025-08-27"
 tags:

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["grief themes (handled gently)", "single parenting"]
 description: "Yu's review of Sweetness & Lightning (Amaama to Inazuma) — Kōhei Inuzuka is a high school teacher and widowed father whose young daughter Tsumugi has been eating only convenience store food since her mother died; when he meets student Kotori Iida and her mother's restaurant, he begins learning to cook so his daughter can eat home-cooked meals; a warmly tender manga about cooking, grief, and family."
-coverImage: "/covers/sweetness-lightning.jpg"
 amazonASIN: "1632364085"
 publishedAt: "2026-02-26"
 tags: ["slice-of-life", "cooking", "family", "completed", "all-ages", "kodansha", "grief"]

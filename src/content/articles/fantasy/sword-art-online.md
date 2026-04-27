@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["action violence", "life-or-death game premise", "some character death", "mild suggestive content"]
 description: "Yu's review of Sword Art Online — the original Aincrad arc in manga form. Ten thousand players trapped in a VR game where dying in-game means dying for real. Kirito's journey through a hundred floors to freedom."
-coverImage: "/covers/sword-art-online.jpg"
 amazonASIN: "0316371238"
 publishedAt: "2025-02-08"
 tags: ["fantasy", "sci-fi", "completed", "action", "gaming", "adventure"]

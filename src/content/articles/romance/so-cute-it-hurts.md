@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["gender disguise themes", "twin swap comedy", "teen romance"]
 description: "Yu's review of So Cute It Hurts!! (Kobayashi ga Kawai sugite Tsurai) — twins Megumu and Mitsuru Kobayashi swap schools after Mitsuru fails a history exam; Megumu (a girl) attends his school disguised as a boy while he attends hers, and both fall in love; a shoujo romantic comedy about gender performance, twins, and the chaos that follows when you try to live someone else's life."
-coverImage: "/covers/so-cute-it-hurts.jpg"
 amazonASIN: "1421580357"
 publishedAt: "2025-08-29"
 tags: ["romance", "comedy", "completed", "teen", "viz", "shoujo", "gender-swap", "twins"]

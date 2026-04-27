@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Nichijou — a high school slice-of-life where ordinary situations escalate to catastrophic absurdity, a robot girl tries to hide what she is, and the Professor is an eight-year-old genius who made her."
-coverImage: "/covers/nichijou.jpg"
 amazonASIN: "1942993307"
 publishedAt: "2026-02-03"
 tags: ["slice-of-life", "comedy", "school", "completed", "absurdist"]

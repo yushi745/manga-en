@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: ["phantom thief magic", "mild chase sequences", "light romance"]
 description: "Yu's review of Saint Tail — Meimi Haneoka is a cheerful middle school girl who moonlights as Saint Tail, a phantom thief who uses stage magic to recover stolen items and right wrongs; her classmate Asuka Jr., a detective's son, is assigned to catch her — without knowing Meimi and Saint Tail are the same person."
-coverImage: "/covers/saint-tail.jpg"
 amazonASIN: "1591823501"
 publishedAt: "2025-08-21"
 tags: ["romance", "fantasy", "completed", "all-ages", "tokyopop", "phantom-thief", "magic", "nakayoshi"]

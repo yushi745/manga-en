@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["supernatural themes", "memory and loss", "philosophical content", "adult situations", "past trauma"]
 description: "Yu's review of xxxHOLiC: Rei — the sequel to xxxHOLiC, where Watanuki continues to run the wish shop but something is wrong with his memories of what happened; CLAMP's return to the xxxHOLiC universe, exploring the aftermath of the original series and the nature of wishes that change everything."
-coverImage: "/covers/xxxholic-rei.jpg"
 amazonASIN: "1632361820"
 publishedAt: "2025-02-28"
 tags: ["fantasy", "supernatural", "completed", "teen-plus", "kodansha", "clamp", "sequel", "wishes"]

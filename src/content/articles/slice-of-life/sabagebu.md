@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["survival game/airsoft comedy", "all-female comedy club", "exaggerated violence as comedy", "slapstick"]
 description: "Yu's review of Sabagebu! — Momoka Sonokawa joins the Survival Game Club at her new school after being rescued by its president Miou; she discovers she has immediate talent for mock combat and a personality that is significantly less heroic than her appearance suggests; the series follows the club's survival game activities with absurdist comedy."
-coverImage: "/covers/sabagebu.jpg"
 amazonASIN: "1626920435"
 publishedAt: "2026-02-13"
 tags: ["slice-of-life", "comedy", "survival-game", "completed", "teen", "seven-seas", "all-female", "airsoft"]

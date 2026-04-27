@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["gender role themes", "mild romantic content"]
 description: "Yu's review of Otomen — Asuka Masamune is the ideal masculine figure at school — kendo champion, cool and capable — but secretly loves cute things, baking, sewing, and shojo manga; meeting Ryo, who is the exact inverse of expected gender roles, begins to change what he can admit about himself."
-coverImage: "/covers/otomen.jpg"
 amazonASIN: "1421521687"
 publishedAt: "2025-08-11"
 tags: ["romance", "comedy", "completed", "gender-roles", "shoujo", "school"]

@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["married couple romance", "mystery elements", "references to Japanese folklore", "gentle romantic content"]
 description: "Yu's review of Tonikawa: Over the Moon for You — Nasa Yuzaki decides to marry Tsukasa after she saves his life; she agrees on the condition that they marry first; their married life is the manga; Kenjiro Hata's romance manga about a couple who skip dating and go straight to marriage."
-coverImage: "/covers/tonikawa.jpg"
 amazonASIN: "197470753X"
 publishedAt: "2025-09-13"
 tags: ["romance", "comedy", "ongoing", "teen", "viz-media", "married-couple", "shonen-sunday", "folklore"]

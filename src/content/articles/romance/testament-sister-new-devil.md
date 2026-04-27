@@ -14,7 +14,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["explicit fan service", "mature sexual content", "master/servant contract", "demon action", "harem elements"]
 description: "Yu's review of The Testament of Sister New Devil — Basara Toujou's father remarries and reveals the two new stepsisters are a demon lord's daughter named Mio and a succubus named Maria; Basara, from the Hero Clan, is supposed to be their enemy; instead he forms a master/servant contract with Mio to protect her."
-coverImage: "/covers/testament-sister-new-devil.jpg"
 amazonASIN: "0316348929"
 publishedAt: "2025-09-07"
 tags: ["romance", "action", "completed", "mature", "yen-press", "demon", "harem", "contract"]

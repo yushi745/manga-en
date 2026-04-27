@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fashion industry content", "body image themes", "competitive pressure", "family poverty subplot"]
 description: "Yu's review of Smile Down the Runway — Chiyuki Fujito dreams of being a Paris Collection runway model but is told she's too short at 158cm; Ikuto Tsumura dreams of being a fashion designer but can't afford design school; they push each other toward impossible goals; Kotoba Inoya's fashion manga about the gap between dreams and physical reality."
-coverImage: "/covers/smile-down-the-runway.jpg"
 amazonASIN: "1632367440"
 publishedAt: "2026-02-21"
 tags: ["slice-of-life", "fashion", "completed", "teen", "kodansha", "fashion-industry", "dream-pursuit", "shonen"]

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "mild suggestive content"]
 description: "Yu's review of Rave Master — Haru Glory discovers he is the second Rave Master, holder of the legendary Holy Bring sword; with his companions, he travels the world collecting the five Rave stones and destroying the Dark Bring before they can be used to end the world."
-coverImage: "/covers/rave-master.jpg"
 amazonASIN: "1591824745"
 publishedAt: "2024-10-11"
 tags: ["action", "adventure", "shonen", "completed", "fantasy"]

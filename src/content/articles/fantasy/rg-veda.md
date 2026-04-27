@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["violence", "character deaths", "mythology-based content", "tragedy", "CLAMP-style fatalism"]
 description: "Yu's review of RG Veda — a prophecy states that six stars will gather to overthrow the god-king Taishakuten; Yasha-oh, a warrior king, discovers a child named Ashura who may be the catalyst; CLAMP's epic fantasy based on Hindu and Buddhist mythology about a destined tragedy that all six stars are walking toward."
-coverImage: "/covers/rg-veda.jpg"
 amazonASIN: "1595820159"
 publishedAt: "2025-01-28"
 tags: ["fantasy", "action", "completed", "teen-plus", "dark-horse", "clamp", "mythology", "classic", "tragedy"]

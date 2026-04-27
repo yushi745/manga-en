@@ -18,7 +18,6 @@ contentWarnings:
   - "yakuza culture"
   - "fantasy violence"
 description: "A comprehensive review of Yakuza Reincarnation — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/yakuza-reincarnation.jpg"
 amazonASIN: "1646517636"
 publishedAt: "2024-11-11"
 tags:

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["death of a child", "grief themes", "childhood trauma", "emotional content throughout"]
 description: "Yu's review of AnoHana — Jinta Yadomi sees the ghost of his childhood friend Meiko Honma, who died years ago; she wants her wish granted; the manga adaptation of the anime, following the original Super Peace Busters group as they process the grief they never resolved; Mitsu Izumi's adaptation of the Mari Okada script."
-coverImage: "/covers/anohana.jpg"
 amazonASIN: "1421577968"
 publishedAt: "2025-12-08"
 tags: ["slice-of-life", "drama", "completed", "teen", "viz-media", "grief", "ghost", "childhood"]

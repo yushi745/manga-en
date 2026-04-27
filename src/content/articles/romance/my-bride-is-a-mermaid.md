@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["mermaid romance comedy", "yakuza parody", "school comedy", "supernatural romance"]
 description: "Yu's review of My Bride is a Mermaid — Nagasumi Michishio nearly drowns on summer vacation and is rescued by Sun Seto, a mermaid; mermaid law requires either his execution or their marriage to keep the secret; her father runs a yakuza organization of mermaids and chooses marriage while making his displeasure extremely clear."
-coverImage: "/covers/my-bride-is-a-mermaid.jpg"
 amazonASIN: "1421527189"
 publishedAt: "2025-07-31"
 tags: ["romance", "comedy", "supernatural", "mermaid", "completed", "teen", "viz-media", "parody"]

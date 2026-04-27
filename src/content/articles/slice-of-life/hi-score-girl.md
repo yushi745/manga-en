@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["arcade gaming culture", "1990s nostalgia content", "romantic comedy", "teenage romance"]
 description: "Yu's review of Hi Score Girl — set in the early 1990s, Haruo Yaguchi's world is the arcade; he is the best at fighting games in his school; Akira Oono, a rich and academically accomplished girl who never speaks, is better than him at all of them; the romance that develops from this competitive frustration is one of manga's most charming."
-coverImage: "/covers/hi-score-girl.jpg"
 amazonASIN: "1646090411"
 publishedAt: "2026-01-06"
 tags: ["slice-of-life", "romance", "completed", "teen", "square-enix-manga", "arcade", "1990s", "gaming"]

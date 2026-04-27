@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["high school romance", "photography theme", "family relocation", "light romantic content"]
 description: "Yu's review of Love in Focus — Mako moves to a new city after her grandfather's death and joins the photography club; she keeps encountering and photographing Kei, a boy from a different school who seems to appear wherever she points her camera; what starts as coincidence becomes something deliberate."
-coverImage: "/covers/love-in-focus.jpg"
 amazonASIN: "1646510453"
 publishedAt: "2025-07-20"
 tags: ["romance", "slice-of-life", "photography", "school", "completed", "teen", "kodansha", "short-series"]

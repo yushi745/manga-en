@@ -18,7 +18,6 @@ contentWarnings:
   - "body horror"
   - "sci-fi horror"
 description: "A comprehensive review of Project ARMS — plot, characters, art style, and whether it's worth reading."
-coverImage: "/covers/project-arms.jpg"
 amazonASIN: "1591168562"
 publishedAt: "2024-10-08"
 tags:

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["runaway minor protagonist", "urban survival themes", "weather supernatural elements", "sacrifice themes"]
 description: "Yu's review of Weathering With You — Hodaka runs away from his island home to Tokyo; the city has been raining without end; he meets Hina, a girl with the power to temporarily clear the sky; Nikki Asada's manga adaptation of Makoto Shinkai's film about a boy who has to choose between a person and the world."
-coverImage: "/covers/weathering-with-you.jpg"
 amazonASIN: "0316542423"
 publishedAt: "2025-09-23"
 tags: ["romance", "drama", "completed", "teen", "yen-press", "shinkai", "supernatural", "film-adaptation"]

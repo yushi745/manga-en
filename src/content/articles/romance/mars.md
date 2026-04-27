@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["trauma including assault", "mental health themes", "dangerous sport", "mature romantic content", "suicide themes"]
 description: "Yu's review of Mars — Kira Aso is a quiet art student who has withdrawn from people; Rei Kashino is a reckless motorcycle racer whose fearlessness on the track conceals what he's afraid of; they begin a relationship that requires both of them to confront what they've been avoiding."
-coverImage: "/covers/mars.jpg"
 amazonASIN: "1892213281"
 publishedAt: "2025-07-27"
 tags: ["romance", "drama", "completed", "mature", "tokyopop", "motorcycle", "trauma", "josei-adjacent"]

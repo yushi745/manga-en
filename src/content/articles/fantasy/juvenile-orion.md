@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["supernatural awakening", "ancient war plot", "high school fantasy", "action violence"]
 description: "Yu's review of Juvenile Orion (Aquarian Age: Juvenile Orion) — Mana Kisaragi's childhood friend Naoya returns after years apart and has changed; he and the group of boys around him are revealed to be Eraser warriors — supernatural fighters in an ancient conflict — and Mana is at the center of why the conflict is intensifying."
-coverImage: "/covers/juvenile-orion.jpg"
 amazonASIN: "1591824540"
 publishedAt: "2024-12-29"
 tags: ["fantasy", "action", "completed", "teen", "tokyopop", "supernatural-awakening", "high-school", "card-game"]

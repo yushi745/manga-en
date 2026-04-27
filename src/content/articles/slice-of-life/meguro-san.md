@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["adult relationship content", "implied sexual history", "mature themes in romance"]
 description: "Yu's review of It's Not Meguro-san's First Time — Seiya Furutachi confesses to Ryo Meguro, an unusual woman at his workplace who doesn't fit the typical romance heroine template; both of them are adults who have had previous relationships, which makes their developing relationship proceed differently than the typical manga romance."
-coverImage: "/covers/meguro-san.jpg"
 amazonASIN: "1646512995"
 publishedAt: "2026-01-26"
 tags: ["slice-of-life", "romance", "completed", "teen-plus", "kodansha", "adult-romance", "workplace"]

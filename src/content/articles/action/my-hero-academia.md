@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "themes of trauma and mental health", "mild language"]
 description: "Yu's review of My Hero Academia — a superhero manga that asks a genuinely hard question: what does it cost to be the kind of person who saves others? Complete at 40 volumes, and one of the most emotionally layered shonen series of its generation."
-coverImage: "/covers/my-hero-academia.jpg"
 amazonASIN: "B012EM80FS"
 publishedAt: "2024-09-27"
 tags: ["shonen", "superhero", "action", "school", "completed"]

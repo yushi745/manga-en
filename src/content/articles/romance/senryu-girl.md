@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["wholesome romance", "poetry as communication device", "comedy misunderstandings", "reformed delinquent"]
 description: "Yu's review of Senryu Girl — Nanako Yukishiro communicates exclusively through senryu, seventeen-syllable poems she writes on cards; Eiji Busujima is a former delinquent with a scary face who is now completely gentle; their unlikely friendship in the school's literature club becomes the series' romance."
-coverImage: "/covers/senryu-girl.jpg"
 amazonASIN: "1975352815"
 publishedAt: "2025-08-24"
 tags: ["romance", "comedy", "completed", "teen", "yen-press", "poetry", "literature-club", "wholesome"]

@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "supernatural death mechanics", "loss of family members", "combat with lethal consequences"]
 description: "Yu's review of Kurokami (Black God) — Keita Ibuki discovers that his continued existence is statistically linked to the deaths of his 'look-alikes'; after his mother's death he meets Kuro, a powerful supernatural being called a Mototsumitama, and they form a 'Tera Contractor' bond that saves both of them — and draws them into a conflict far larger than Keita understood."
-coverImage: "/covers/kurokami.jpg"
 amazonASIN: "1626921512"
 publishedAt: "2024-09-16"
 tags: ["action", "supernatural", "completed", "mature", "seven-seas", "shonen", "manhwa-style"]

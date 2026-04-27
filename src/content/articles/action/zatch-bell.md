@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "emotional content", "themes of friendship and sacrifice"]
 description: "Yu's review of Zatch Bell! — a genius middle schooler named Kiyo partners with Zatch, a demon child who must win a battle royale against 100 other demon children to become King of the Mamodo World."
-coverImage: "/covers/zatch-bell.jpg"
 amazonASIN: "1591165865"
 publishedAt: "2024-11-13"
 tags: ["action", "adventure", "shonen", "completed", "classic", "friendship"]

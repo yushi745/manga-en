@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["robot battle violence", "reincarnation themes", "good vs evil binary conflict", "action violence"]
 description: "Yu's review of Ultimo — the Karakuri Doji, robot-like mechanical beings created by the medieval scientist Dunstan, are divided into Ultimo (ultimate good) and Vice (ultimate evil); they battle for the fate of humanity across reincarnations, with high school student Yamato Agari at the center as Ultimo's master in the modern era."
-coverImage: "/covers/ultimo.jpg"
 amazonASIN: "1421538156"
 publishedAt: "2024-11-07"
 tags: ["action", "sci-fi", "completed", "teen-plus", "viz-media", "stan-lee", "robots", "reincarnation"]

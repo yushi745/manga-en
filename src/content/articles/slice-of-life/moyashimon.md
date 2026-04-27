@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["adult humor", "alcohol content", "some mature situations", "college setting"]
 description: "Yu's review of Moyashimon — Tadayasu Sawaki can see microbes, which appear to him as small cute creatures with distinct personalities; enrolled at an agricultural college, he navigates college life, fermentation science, and friends who find his ability alternately useful and overwhelming; Masayuki Ishikawa's educational comedy."
-coverImage: "/covers/moyashimon.jpg"
 amazonASIN: "0345501756"
 publishedAt: "2026-01-29"
 tags: ["slice-of-life", "comedy", "completed", "teen-plus", "kodansha", "agriculture", "science", "college"]

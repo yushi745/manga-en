@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Hidamari Sketch — Yuno moves into Hidamari Apartments near her art high school; the residents — Miyako, Hiro, Sae, and later Nazuna and Nori — form the kind of found family that art students build when they live and study and make things together."
-coverImage: "/covers/hidamari-sketch.jpg"
 amazonASIN: "0759531382"
 publishedAt: "2026-01-06"
 tags: ["slice-of-life", "comedy", "4-koma", "school", "completed", "art", "iyashikei"]

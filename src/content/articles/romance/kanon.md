@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["illness themes", "memory loss", "emotional loss", "grief", "supernatural elements"]
 description: "Yu's review of the Kanon manga — Yuichi Aizawa returns after seven years to a snowy town and begins remembering the girls he knew and the promises he made to them; the manga adaptation of Key's visual novel, with supernatural and illness elements that make each character's story emotionally distinct."
-coverImage: "/covers/kanon.jpg"
 amazonASIN: "1598163477"
 publishedAt: "2025-07-08"
 tags: ["romance", "drama", "completed", "teen", "tokyopop", "key", "visual-novel-adaptation", "snow"]

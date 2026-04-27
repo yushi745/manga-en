@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["academic pressure", "themes of identity and purpose", "mild language"]
 description: "Yu's review of Blue Period — Yatora Yaguchi is a capable but empty high school student who sees a painting and decides to try art; the series follows his attempt to get into Tokyo University of the Arts, one of the most competitive art schools in Japan, with no prior training."
-coverImage: "/covers/blue-period.jpg"
 amazonASIN: "1646511123"
 publishedAt: "2025-12-16"
 tags: ["slice-of-life", "art", "seinen", "completed", "school", "coming-of-age"]

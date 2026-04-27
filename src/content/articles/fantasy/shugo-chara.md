@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "All Ages"
 contentWarnings: []
 description: "Yu's review of Shugo Chara! — Amu Hinamori is the 'cool and spicy' girl at school whose real self is shy and ordinary; three guardian characters hatch from eggs that represent who she could become, and she discovers that transformation is more complicated than it looks."
-coverImage: "/covers/shugo-chara.jpg"
 amazonASIN: "0345501446"
 publishedAt: "2025-02-03"
 tags: ["fantasy", "magical-girl", "shojo", "completed", "comedy"]

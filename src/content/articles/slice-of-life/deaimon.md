@@ -15,7 +15,6 @@ englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["parental abandonment backstory for a child character", "family complications", "themes of failure and returning home"]
 description: "Yu's review of Deaimon — Nagomu Irino left his family's traditional wagashi sweet shop in Kyoto to become a musician; when he finally comes home after years away, he finds a young girl named Itsuka living with his parents, left by a father who hasn't returned; he begins helping in the shop and taking care of Itsuka."
-coverImage: "/covers/deaimon.jpg"
 amazonASIN: "1975336739"
 publishedAt: "2025-12-24"
 tags: ["slice-of-life", "drama", "ongoing", "family", "wagashi", "kyoto", "food"]

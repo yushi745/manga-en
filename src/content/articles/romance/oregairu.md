@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["cynical narrator", "social anxiety themes", "high school drama", "light novel adaptation"]
 description: "Yu's review of My Teen Romantic Comedy SNAFU (Yahari Ore no Seishun Love Comedy wa Machigatteiru) — Hachiman Hikigaya is forced to join the Service Club with the socially isolated Yukino Yukinoshita; they solve students' problems; Wataru Watari's light novel adaptation about a cynical student's actual growth through genuine human contact."
-coverImage: "/covers/oregairu.jpg"
 amazonASIN: "0316312274"
 publishedAt: "2025-08-10"
 tags: ["romance", "comedy", "completed", "teen", "yen-press", "light-novel-adaptation", "cynical-protagonist", "high-school"]

@@ -18,7 +18,6 @@ contentWarnings:
   - "bullying themes"
   - "mild romance"
 description: "A review of True Beauty, the Korean webtoon romance about a girl who transforms herself with makeup and the boys who fall for both sides of her."
-coverImage: "/covers/true-beauty.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-27"
 tags:

@@ -18,7 +18,6 @@ contentWarnings:
   - "adult jokes"
   - "inappropriate child behavior"
 description: "A review of Crayon Shin-chan, the legendary comedy manga about a five-year-old terror who says and does what every adult is thinking but too polite to express."
-coverImage: "/covers/crayon-shin-chan.jpg"
 amazonASIN: ""
 publishedAt: "2026-04-26"
 tags:

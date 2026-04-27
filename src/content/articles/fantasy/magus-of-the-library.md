@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["racial discrimination themes", "class divide", "some action violence"]
 description: "Yu's review of Magus of the Library — Theo is a boy of mixed race in a world where the Great Library of the Central Archive controls all knowledge; he loves books but is barred from reading in his village's library because of his half-elf heritage; when a Kafna named Sedona arrives, she sees in him a potential that could change his path."
-coverImage: "/covers/magus-of-the-library.jpg"
 amazonASIN: "1632368536"
 publishedAt: "2025-01-09"
 tags: ["fantasy", "adventure", "completed", "library", "books", "shounen", "racial-themes"]

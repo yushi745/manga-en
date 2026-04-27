@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy comedy", "vampire politics", "shape-shifting content", "light romance", "political court intrigue"]
 description: "Yu's review of Vampire Game — Duzell, the Vampire King, was killed a century ago by the Holy King Phelios; reincarnated as a small cat, he finds Princess Ishtar, descendant of Phelios, and bonds with her intending to eventually use her to reincarnate fully and achieve revenge; Ishtar, who is oblivious and strong-willed, adopts him as a pet."
-coverImage: "/covers/vampire-game.jpg"
 amazonASIN: "1892213443"
 publishedAt: "2025-02-18"
 tags: ["fantasy", "comedy", "vampire", "completed", "teen", "tokyopop", "political", "court-intrigue"]

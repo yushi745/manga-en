@@ -16,7 +16,6 @@ ageRating: "All Ages"
 contentWarnings:
 
 description: "A review of AQUA, the two-volume prequel to ARIA that first introduces Akari and Neo-Venezia — the beginning of one of manga's most beloved stories."
-coverImage: "/covers/aqua-manga.jpg"
 amazonASIN: ""
 publishedAt: "2026-05-02"
 tags:

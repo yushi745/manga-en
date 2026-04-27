@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: []
 description: "Yu's review of Scorching Ping Pong Girls — Agari Kamiya is the best player at her middle school ping pong club until Tsumujikaze Koyori transfers in and shows her what it looks like when someone plays with pure, overwhelming love for the sport."
-coverImage: "/covers/scorching-ping-pong-girls.jpg"
 amazonASIN: "1626926832"
 publishedAt: "2026-04-18"
 tags: ["sports", "comedy", "slice-of-life", "completed", "ping-pong", "girls"]

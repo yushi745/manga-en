@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["deaf protagonist representation", "college romance", "language and communication themes"]
 description: "Yu's review of A Sign of Affection — Yuki is a deaf college student whose world is small by necessity; when a tall stranger at a train station asks her for help and she cannot explain her deafness in time, a classmate named Itsuomi translates — and Itsuomi is curious about Yuki's world in a way no one usually is."
-coverImage: "/covers/sign-of-affection.jpg"
 amazonASIN: "1646512367"
 publishedAt: "2025-08-27"
 tags: ["romance", "slice-of-life", "deaf-representation", "completed", "teen", "kodansha", "college", "shoujo"]

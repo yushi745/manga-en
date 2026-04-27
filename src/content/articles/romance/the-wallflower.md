@@ -14,7 +14,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["comedy violence", "horror content treated comedically", "reverse harem setup"]
 description: "Yu's review of The Wallflower — four beautiful high school boys are given free rent in exchange for transforming Sunako Nakahara, a girl obsessed with horror and darkness, into a lady; she resists; nobody wins; Tomoko Hayakawa's long-running shoujo comedy about the impossibility of changing someone fundamentally."
-coverImage: "/covers/the-wallflower.jpg"
 amazonASIN: "0345481526"
 publishedAt: "2025-09-10"
 tags: ["romance", "comedy", "completed", "teen", "del-rey", "reverse-harem", "horror-comedy", "shoujo"]

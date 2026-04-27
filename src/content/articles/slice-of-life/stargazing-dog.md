@@ -15,7 +15,6 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["animal death", "human death", "family disintegration", "deeply emotional content"]
 description: "Yu's review of Stargazing Dog — Daddy adopts a puppy named Happie; the manga follows Happie's life with Daddy through family happiness, family collapse, and the road journey that is their final chapter together; narrated from Happie's perspective, the story is exactly as emotionally devastating as its premise suggests."
-coverImage: "/covers/stargazing-dog.jpg"
 amazonASIN: "1561636517"
 publishedAt: "2026-02-23"
 tags: ["slice-of-life", "drama", "completed", "teen", "nbm-publishing", "dog", "emotional", "short-story"]
