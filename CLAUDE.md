@@ -120,6 +120,11 @@ I earn from qualifying purchases.
 4. `src/content/articles/<genre>/<slug>.md` に保存
 5. **カバー画像取得**（下記フロー参照）
 6. git commit & push → Vercel自動デプロイ
+7. **スプレッドシート更新**（3バッチ完了ごとに実行）
+   ```bash
+   python3 scripts/sync_sheets.py
+   ```
+   - `/batch-manga` スキルの3バッチ完了後に毎回実行する。
 
 ---
 

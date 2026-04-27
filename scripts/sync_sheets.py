@@ -46,6 +46,20 @@ def get_list_field(content, key):
     return ', '.join(items)
 
 
+def get_git_added_date(filepath):
+    """ファイルが最初にgit addされた日付を返す（YYYY-MM-DD）"""
+    import subprocess
+    try:
+        result = subprocess.run(
+            ['git', 'log', '--follow', '--format=%as', '--diff-filter=A', '--', filepath],
+            capture_output=True, text=True, cwd=PROJECT_ROOT
+        )
+        date = result.stdout.strip().splitlines()
+        return date[-1] if date else ''
+    except Exception:
+        return ''
+
+
 def collect_articles():
     articles = []
     pattern = os.path.join(ARTICLES_DIR, '**', '*.md')
@@ -65,6 +79,7 @@ def collect_articles():
             'url':         url,
             'rating':      get_field(content, 'rating'),
             'publishedAt': get_field(content, 'publishedAt'),
+            'addedAt':     get_git_added_date(filepath),
             'tags':        get_list_field(content, 'tags'),
         })
     return articles
@@ -81,7 +96,7 @@ def main():
 
     sh = get_sheet()
     headers = ['マンガタイトル', '日本語タイトル', '著者', 'ジャンル', 'ジャンルSlug', 'Slug', 'URL',
-               '評価', '公開日', 'タグ']
+               '評価', '公開日', '追加日', 'タグ']
     rows = [headers]
     for a in articles:
         rows.append([
@@ -94,10 +109,11 @@ def main():
             a['url'],
             str(a['rating']),
             str(a['publishedAt']),
+            str(a['addedAt']),
             a['tags'],
         ])
 
-    ws = get_or_create_ws(sh, '記事一覧', rows=max(len(rows) + 100, 2000), cols=len(headers))
+    ws = get_or_create_ws(sh, '記事一覧', rows=max(len(rows) + 100, 2000), cols=max(len(headers), 15))
     ws.clear()
     ws.update(rows, 'A1', value_input_option='USER_ENTERED')
 
