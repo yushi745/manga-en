@@ -1,6 +1,7 @@
 ---
 title: "Cells at Work! Bacteria Review: The Bacteria Living Inside You Are Working Hard Too"
 slug: "cells-at-work-bacteria"
+coverImage: \"/covers/cells-at-work-bacteria.jpg\"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Cells at Work! Bacteria"

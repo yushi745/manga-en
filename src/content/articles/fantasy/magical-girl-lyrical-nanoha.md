@@ -1,6 +1,7 @@
 ---
 title: "Magical Girl Lyrical Nanoha Review: The Magical Girl Who Hits First and Talks Later"
 slug: "magical-girl-lyrical-nanoha"
+coverImage: \"/covers/magical-girl-lyrical-nanoha.jpg\"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Magical Girl Lyrical Nanoha"

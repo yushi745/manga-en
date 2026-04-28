@@ -1,6 +1,7 @@
 ---
 title: "Drifting Dragons Review: Dragon Hunting Is Just Cooking if You Think About It"
 slug: "drifting-dragons"
+coverImage: \"/covers/drifting-dragons.jpg\"
 genre: "Fantasy / Adventure"
 genreSlug: "fantasy"
 mangaTitle: "Drifting Dragons"

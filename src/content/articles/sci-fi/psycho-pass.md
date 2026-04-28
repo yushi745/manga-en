@@ -1,6 +1,7 @@
 ---
 title: "Psycho-Pass Review: The Sci-Fi Manga That Asks Whether a Crime-Free Society Is Worth Having"
 slug: "psycho-pass"
+coverImage: \"/covers/psycho-pass.jpg\"
 genre: "Sci-Fi / Thriller"
 genreSlug: "sci-fi"
 mangaTitle: "Psycho-Pass"

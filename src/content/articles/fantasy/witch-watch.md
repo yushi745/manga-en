@@ -1,6 +1,7 @@
 ---
 title: "Witch Watch Review: A Witch Who Sees Disaster and Her Childhood Friend Ogre Bodyguard Navigate Modern Ordinary Life"
 slug: "witch-watch"
+coverImage: \"/covers/witch-watch.jpg\"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Witch Watch"

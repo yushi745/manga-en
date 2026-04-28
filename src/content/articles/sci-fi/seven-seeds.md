@@ -1,6 +1,7 @@
 ---
 title: "Seven Seeds Review: Thirty-Four People Wake From Cryosleep to Find That the Future Destroyed Human Civilization"
 slug: "seven-seeds"
+coverImage: \"/covers/seven-seeds.jpg\"
 genre: "Sci-Fi / Survival"
 genreSlug: "sci-fi"
 mangaTitle: "Seven Seeds"

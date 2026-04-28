@@ -1,6 +1,7 @@
 ---
 title: "Alice & Zouroku Review: A Girl With Reality-Warping Powers Is Found by a Stubborn Old Florist"
 slug: "alice-and-zouroku"
+coverImage: \"/covers/alice-and-zouroku.jpg\"
 genre: "Sci-Fi / Slice of Life"
 genreSlug: "sci-fi"
 mangaTitle: "Alice & Zouroku"

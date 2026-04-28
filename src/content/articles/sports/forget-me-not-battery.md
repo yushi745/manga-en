@@ -1,6 +1,7 @@
 ---
 title: "Forget Me Not Battery Review: The Baseball Manga That's Really About Memory"
 slug: "forget-me-not-battery"
+coverImage: \"/covers/forget-me-not-battery.jpg\"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Forget Me Not Battery"

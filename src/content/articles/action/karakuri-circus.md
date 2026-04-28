@@ -1,6 +1,7 @@
 ---
 title: "Karakuri Circus Review: The Puppet Show That Never Lets You Look Away"
 slug: "karakuri-circus"
+coverImage: \"/covers/karakuri-circus.jpg\"
 genre: "Action / Dark Fantasy"
 genreSlug: "action"
 mangaTitle: "Karakuri Circus"

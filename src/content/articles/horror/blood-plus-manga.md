@@ -1,6 +1,7 @@
 ---
 title: "Blood+ Review: She Has No Memory, a Mysterious Sword, and a Past More Violent Than She Can Imagine"
 slug: "blood-plus-manga"
+coverImage: \"/covers/blood-plus-manga.jpg\"
 genre: "Horror / Action"
 genreSlug: "horror"
 mangaTitle: "Blood+"

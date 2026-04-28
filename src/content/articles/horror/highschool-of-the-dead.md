@@ -1,6 +1,7 @@
 ---
 title: "Highschool of the Dead Review: The Zombie Apocalypse Begins at School During Class"
 slug: "highschool-of-the-dead"
+coverImage: \"/covers/highschool-of-the-dead.jpg\"
 genre: "Horror / Action"
 genreSlug: "horror"
 mangaTitle: "Highschool of the Dead"

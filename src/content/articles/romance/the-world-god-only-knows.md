@@ -1,6 +1,7 @@
 ---
 title: "The World God Only Knows Review: Dating Sim Logic Applied to Real Girls, With Complications"
 slug: "the-world-god-only-knows"
+coverImage: \"/covers/the-world-god-only-knows.jpg\"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "The World God Only Knows"

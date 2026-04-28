@@ -1,6 +1,7 @@
 ---
 title: "Wind Breaker Review: A Loner Who Moved to Town for Its Toughest School Discovers the School Protects the Town"
 slug: "wind-breaker"
+coverImage: \"/covers/wind-breaker.jpg\"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Wind Breaker"

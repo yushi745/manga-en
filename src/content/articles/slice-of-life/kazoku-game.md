@@ -1,6 +1,7 @@
 ---
 title: "Family Game Review: The Tutor Who Sees Every Lie Your Family Tells Itself"
 slug: "kazoku-game"
+coverImage: \"/covers/kazoku-game.jpg\"
 genre: "Drama / Psychological"
 genreSlug: "slice-of-life"
 mangaTitle: "Family Game"

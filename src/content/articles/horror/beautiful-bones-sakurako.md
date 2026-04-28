@@ -1,6 +1,7 @@
 ---
 title: "Beautiful Bones: Sakurako's Investigation Review: A Woman Who Speaks for the Dead"
 slug: "beautiful-bones-sakurako"
+coverImage: \"/covers/beautiful-bones-sakurako.jpg\"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Beautiful Bones: Sakurako's Investigation"

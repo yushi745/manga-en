@@ -1,6 +1,7 @@
 ---
 title: "Tokyo Mew Mew Review: Five Girls Infused with Endangered Animal DNA Become Magical Defenders of the Planet"
 slug: "tokyo-mew-mew"
+coverImage: \"/covers/tokyo-mew-mew.jpg\"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Tokyo Mew Mew"

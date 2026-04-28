@@ -1,6 +1,7 @@
 ---
 title: "My Next Life as a Villainess Review: A Girl Realizes She Is the Villain of an Otome Game and Desperately Tries Not to Get Her Bad Ending"
 slug: "my-next-life-as-a-villainess"
+coverImage: \"/covers/my-next-life-as-a-villainess.jpg\"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "My Next Life as a Villainess: All Routes Lead to Doom!"

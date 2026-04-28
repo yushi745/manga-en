@@ -1,6 +1,7 @@
 ---
 title: "Aggretsuko Review: A Mild-Mannered Red Panda Screams Death Metal to Survive Work"
 slug: "aggretsuko"
+coverImage: \"/covers/aggretsuko.jpg\"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Aggretsuko"

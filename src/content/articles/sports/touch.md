@@ -1,6 +1,7 @@
 ---
 title: "Touch Review: Twin Brothers, One Girl, One Baseball Diamond, and the Loss That Changes Everything"
 slug: "touch"
+coverImage: \"/covers/touch.jpg\"
 genre: "Sports / Romance"
 genreSlug: "sports"
 mangaTitle: "Touch"

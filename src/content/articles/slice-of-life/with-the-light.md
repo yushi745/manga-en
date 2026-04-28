@@ -1,6 +1,7 @@
 ---
 title: "With the Light Review: The Manga About Raising an Autistic Child That Changed How I See People"
 slug: "with-the-light"
+coverImage: \"/covers/with-the-light.jpg\"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "With the Light: Raising an Autistic Child"

@@ -1,6 +1,7 @@
 ---
 title: "Kamisama Kiss Review: A Homeless Girl Becomes a Land God and Falls for Her Fox Familiar"
 slug: "kamisama-kiss"
+coverImage: \"/covers/kamisama-kiss.jpg\"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Kamisama Kiss (Kamisama Hajimemashita)"

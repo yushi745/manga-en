@@ -1,6 +1,7 @@
 ---
 title: "Combatants Will Be Dispatched! Review: KonoSuba's Creator Does It Again"
 slug: "combatants-will-be-dispatched"
+coverImage: \"/covers/combatants-will-be-dispatched.jpg\"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Combatants Will Be Dispatched!"

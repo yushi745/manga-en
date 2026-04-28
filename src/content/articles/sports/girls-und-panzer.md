@@ -1,6 +1,7 @@
 ---
 title: "Girls und Panzer Review: High School Girls Compete in Tank Warfare as a Martial Art"
 slug: "girls-und-panzer"
+coverImage: \"/covers/girls-und-panzer.jpg\"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Girls und Panzer"

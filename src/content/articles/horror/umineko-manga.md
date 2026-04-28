@@ -1,6 +1,7 @@
 ---
 title: "Umineko When They Cry Review: Ryukishi07's Impossible Murder Mystery Asks Whether Magic Is Real — and Whether the Answer Matters"
 slug: "umineko-manga"
+coverImage: \"/covers/umineko-manga.jpg\"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Umineko When They Cry"

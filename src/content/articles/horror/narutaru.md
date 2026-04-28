@@ -1,6 +1,7 @@
 ---
 title: "Narutaru Review: A Girl Finds a Star-Shaped Creature and Discovers That Children's Wishes Are Capable of Terrible Things"
 slug: "narutaru"
+coverImage: \"/covers/narutaru.jpg\"
 genre: "Horror / Drama"
 genreSlug: "horror"
 mangaTitle: "Narutaru"

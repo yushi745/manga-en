@@ -1,6 +1,7 @@
 ---
 title: "Super Cub Review: The Manga About a Girl, a Motorcycle, and Learning to Want Things"
 slug: "super-cub"
+coverImage: \"/covers/super-cub.jpg\"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Super Cub"

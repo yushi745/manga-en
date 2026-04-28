@@ -1,6 +1,7 @@
 ---
 title: "Devilman Review: The Devil Who Chose to Love Humanity"
 slug: "devilman"
+coverImage: \"/covers/devilman.jpg\"
 genre: "Horror / Dark Fantasy"
 genreSlug: "horror"
 mangaTitle: "Devilman"

@@ -1,6 +1,7 @@
 ---
 title: "Wish Review: CLAMP's Shortest Romance — an Angel Falls to Earth and a Doctor Cannot Ignore Her"
 slug: "wish-clamp"
+coverImage: \"/covers/wish-clamp.jpg\"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Wish"

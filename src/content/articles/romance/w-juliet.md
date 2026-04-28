@@ -1,6 +1,7 @@
 ---
 title: "W Juliet Review: A Cross-Dressing Actor and the Girl Who Keeps His Secret"
 slug: "w-juliet"
+coverImage: \"/covers/w-juliet.jpg\"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "W Juliet"

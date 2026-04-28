@@ -1,6 +1,7 @@
 ---
 title: "Azumanga Daioh Review: The Manga That Invented a Genre"
 slug: "azumanga-daioh"
+coverImage: \"/covers/azumanga-daioh.jpg\"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Azumanga Daioh"

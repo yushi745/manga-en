@@ -1,6 +1,7 @@
 ---
 title: "Soul Hunter Review: The Ancient Chinese Epic That Became One of Jump's Best Fantasy Manga"
 slug: "soul-hunter"
+coverImage: \"/covers/soul-hunter.jpg\"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Soul Hunter"

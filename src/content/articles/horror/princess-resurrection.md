@@ -1,6 +1,7 @@
 ---
 title: "Princess Resurrection Review: A Boy Dies Saving a Princess and Is Revived as Her Immortal Servant"
 slug: "princess-resurrection"
+coverImage: \"/covers/princess-resurrection.jpg\"
 genre: "Horror / Comedy"
 genreSlug: "horror"
 mangaTitle: "Princess Resurrection"

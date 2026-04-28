@@ -1,6 +1,7 @@
 ---
 title: "It's Not Meguro-san's First Time Review: Two Adults Who Are Not Inexperienced Navigate Romance With Surprising Honesty"
 slug: "meguro-san"
+coverImage: \"/covers/meguro-san.jpg\"
 genre: "Slice of Life / Romance"
 genreSlug: "slice-of-life"
 mangaTitle: "It's Not Meguro-san's First Time"

@@ -1,6 +1,7 @@
 ---
 title: "Descendants of Darkness Review: Shinigami Investigators Solve Cases Between the Living and the Dead"
 slug: "descendants-of-darkness"
+coverImage: \"/covers/descendants-of-darkness.jpg\"
 genre: "Horror / Supernatural"
 genreSlug: "horror"
 mangaTitle: "Descendants of Darkness"

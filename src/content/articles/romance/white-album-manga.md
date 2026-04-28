@@ -1,6 +1,7 @@
 ---
 title: "White Album Review: The Visual Novel Romance Manga That Lives in the Winter of Guilt"
 slug: "white-album-manga"
+coverImage: \"/covers/white-album-manga.jpg\"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "White Album"

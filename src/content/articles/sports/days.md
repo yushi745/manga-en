@@ -1,6 +1,7 @@
 ---
 title: "Days Review: The Boy With No Talent Joins the Soccer Team and Works Harder Than Anyone Has Ever Worked"
 slug: "days"
+coverImage: \"/covers/days.jpg\"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Days"

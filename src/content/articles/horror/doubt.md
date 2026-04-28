@@ -1,6 +1,7 @@
 ---
 title: "Doubt Review: A Group of Players from a Phone Game Wake Up Locked in an Abandoned Hospital"
 slug: "doubt"
+coverImage: \"/covers/doubt.jpg\"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Doubt"

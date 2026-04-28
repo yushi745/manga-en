@@ -1,6 +1,7 @@
 ---
 title: "Infinite Stratos Review: The Harem Comedy Hidden Inside a Mecha School Setting"
 slug: "infinite-stratos"
+coverImage: \"/covers/infinite-stratos.jpg\"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Infinite Stratos"

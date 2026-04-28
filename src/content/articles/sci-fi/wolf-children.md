@@ -1,6 +1,7 @@
 ---
 title: "Wolf Children Review: A Woman Falls in Love With a Wolf Man — and Raises Their Two Wolf-Human Children Alone"
 slug: "wolf-children"
+coverImage: \"/covers/wolf-children.jpg\"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Wolf Children"

@@ -1,6 +1,7 @@
 ---
 title: "Jashin-chan Dropkick Review: The Demon Girl Who Cannot Kill Her Summoner and Is Very Upset About It"
 slug: "jashin-chan-dropkick"
+coverImage: \"/covers/jashin-chan-dropkick.jpg\"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Jashin-chan Dropkick"

@@ -1,6 +1,7 @@
 ---
 title: "Zatch Bell! Review: An Unlikely Pair Must Win a Battle Between 100 Demon Children to Become King"
 slug: "zatch-bell"
+coverImage: \"/covers/zatch-bell.jpg\"
 genre: "Action / Adventure"
 genreSlug: "action"
 mangaTitle: "Zatch Bell!"

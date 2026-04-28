@@ -1,6 +1,7 @@
 ---
 title: "Kanon Review: A Boy Returns to a Town Full of Girls He Made Promises to and Cannot Remember"
 slug: "kanon"
+coverImage: \"/covers/kanon.jpg\"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Kanon"

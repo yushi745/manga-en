@@ -1,6 +1,7 @@
 ---
 title: "'Tis Time for 'Torture,' Princess Review: A Demon King's Army Tries to Break a Captured Hero With Things She Actually Likes"
 slug: "tis-time-for-torture-princess"
+coverImage: \"/covers/tis-time-for-torture-princess.jpg\"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "'Tis Time for 'Torture,' Princess"

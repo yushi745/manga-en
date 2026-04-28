@@ -1,6 +1,7 @@
 ---
 title: "Lone Wolf and Cub Review: A Disgraced Shogunate Executioner Travels the Road to Hell with His Infant Son"
 slug: "lone-wolf-and-cub"
+coverImage: \"/covers/lone-wolf-and-cub.jpg\"
 genre: "Action / Historical"
 genreSlug: "action"
 mangaTitle: "Lone Wolf and Cub"

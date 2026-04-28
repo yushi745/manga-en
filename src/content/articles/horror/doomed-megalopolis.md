@@ -1,6 +1,7 @@
 ---
 title: "Doomed Megalopolis Review: An Ancient Demon Lord Wants to Destroy Tokyo and a Sorcerer Wants to Stop Him"
 slug: "doomed-megalopolis"
+coverImage: \"/covers/doomed-megalopolis.jpg\"
 genre: "Horror / Historical Fantasy"
 genreSlug: "horror"
 mangaTitle: "Doomed Megalopolis"

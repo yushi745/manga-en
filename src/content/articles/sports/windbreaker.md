@@ -1,6 +1,7 @@
 ---
 title: "Windbreaker Review: The Cycling Manhwa That Took My Breath Away"
 slug: "windbreaker"
+coverImage: \"/covers/windbreaker.jpg\"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Windbreaker"

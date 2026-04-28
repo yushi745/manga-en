@@ -1,6 +1,7 @@
 ---
 title: "Higurashi When They Cry Review: The Village That Kills You for Asking the Wrong Questions — Ryukishi07's Masterpiece of Paranoia and Trust"
 slug: "higurashi-manga"
+coverImage: \"/covers/higurashi-manga.jpg\"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Higurashi When They Cry"

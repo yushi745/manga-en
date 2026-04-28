@@ -1,6 +1,7 @@
 ---
 title: "Museum Review: A Serial Killer Leaves Art Installations Made of His Victims"
 slug: "museum-manga"
+coverImage: \"/covers/museum-manga.jpg\"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Museum"

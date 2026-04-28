@@ -1,6 +1,7 @@
 ---
 title: "Neon Genesis Evangelion Review: Giant Robots and the Boy Who Could Not Pilot Them"
 slug: "neon-genesis-evangelion"
+coverImage: \"/covers/neon-genesis-evangelion.jpg\"
 genre: "Sci-Fi / Mecha"
 genreSlug: "sci-fi"
 mangaTitle: "Neon Genesis Evangelion"

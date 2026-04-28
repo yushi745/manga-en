@@ -1,6 +1,7 @@
 ---
 title: "Land of the Blindfolded Review: A Girl Who Sees the Future and a Boy Who Sees the Past Navigate High School and Each Other"
 slug: "land-of-the-blindfolded"
+coverImage: \"/covers/land-of-the-blindfolded.jpg\"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Land of the Blindfolded"

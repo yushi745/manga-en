@@ -1,6 +1,7 @@
 ---
 title: "Tengoku Daimakyou Review: Heaven and Hell Mirror Each Other in Masakazu Ishiguro's Most Unsettling Sci-Fi Manga"
 slug: "tengoku-daimakyou-manga"
+coverImage: \"/covers/tengoku-daimakyou-manga.jpg\"
 genre: "Sci-Fi / Mystery"
 genreSlug: "sci-fi"
 mangaTitle: "Tengoku Daimakyou"

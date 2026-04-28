@@ -1,6 +1,7 @@
 ---
 title: "Tenchi Muyo! Review: The Harem Comedy That Accidentally Made Me Think About Free Will"
 slug: "tenchi-muyo"
+coverImage: \"/covers/tenchi-muyo.jpg\"
 genre: "Sci-Fi / Comedy"
 genreSlug: "sci-fi"
 mangaTitle: "Tenchi Muyo!"

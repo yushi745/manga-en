@@ -1,6 +1,7 @@
 ---
 title: "Slayers Review: A Sorceress Who Can Level Cities Travels with a Swordsman Who Regrets Meeting Her"
 slug: "slayers"
+coverImage: \"/covers/slayers.jpg\"
 genre: "Fantasy / Comedy"
 genreSlug: "action"
 mangaTitle: "Slayers"

@@ -1,6 +1,7 @@
 ---
 title: "Moyasimon Review: A Boy Who Can See Microbes and the Agricultural University That Changes His Life"
 slug: "moyasimon"
+coverImage: \"/covers/moyasimon.jpg\"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Moyasimon: Tales of Agriculture"

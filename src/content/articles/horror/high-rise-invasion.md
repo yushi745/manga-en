@@ -1,6 +1,7 @@
 ---
 title: "High-Rise Invasion Review: Teenagers Trapped on Skyscrapers Must Survive Masked Killers and Find a Way Down"
 slug: "high-rise-invasion"
+coverImage: \"/covers/high-rise-invasion.jpg\"
 genre: "Horror / Action"
 genreSlug: "horror"
 mangaTitle: "High-Rise Invasion"

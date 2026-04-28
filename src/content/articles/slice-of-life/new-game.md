@@ -1,6 +1,7 @@
 ---
 title: "New Game! Review: A Game Developer Fresh Out of High School Learns What Making Games Actually Looks Like"
 slug: "new-game"
+coverImage: \"/covers/new-game.jpg\"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "New Game!"

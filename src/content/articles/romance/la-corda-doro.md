@@ -1,6 +1,7 @@
 ---
 title: "La Corda d'Oro Review: A Non-Musical Student at a Music School Is Chosen by a Fairy to Compete in a Violin Concours"
 slug: "la-corda-doro"
+coverImage: \"/covers/la-corda-doro.jpg\"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "La Corda d'Oro"

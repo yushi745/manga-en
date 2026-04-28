@@ -1,6 +1,7 @@
 ---
 title: "Deaimon Review: A Failed Musician Returns to His Family's Wagashi Shop and Meets the Girl Living There"
 slug: "deaimon"
+coverImage: \"/covers/deaimon.jpg\"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Deaimon: Recipe for Happiness"

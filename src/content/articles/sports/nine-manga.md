@@ -1,6 +1,7 @@
 ---
 title: "Nine Review: Mitsuru Adachi's First Masterpiece — Baseball, Love, and Growing Up"
 slug: "nine-manga"
+coverImage: \"/covers/nine-manga.jpg\"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Nine"

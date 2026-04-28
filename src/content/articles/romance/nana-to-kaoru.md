@@ -1,6 +1,7 @@
 ---
 title: "Nana to Kaoru Review: A Manga About Trust That Uses an Unusual Framework Honestly"
 slug: "nana-to-kaoru"
+coverImage: \"/covers/nana-to-kaoru.jpg\"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Nana to Kaoru"

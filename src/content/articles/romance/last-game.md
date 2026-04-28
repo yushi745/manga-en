@@ -1,6 +1,7 @@
 ---
 title: "Last Game Review: He's Been Chasing Her Since Elementary School and She Still Hasn't Noticed"
 slug: "last-game"
+coverImage: \"/covers/last-game.jpg\"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Last Game"

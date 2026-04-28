@@ -1,6 +1,7 @@
 ---
 title: "Metamorphose no Engawa Review: The Most Tender Manga I've Read About Starting Over"
 slug: "metamorphose-no-engawa"
+coverImage: \"/covers/metamorphose-no-engawa.jpg\"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Metamorphose no Engawa"

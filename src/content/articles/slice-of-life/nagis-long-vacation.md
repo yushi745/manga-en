@@ -1,6 +1,7 @@
 ---
 title: "Nagi's Long Vacation Review: The Manga That Gave Me Permission to Stop Performing"
 slug: "nagis-long-vacation"
+coverImage: \"/covers/nagis-long-vacation.jpg\"
 genre: "Slice of Life / Romance"
 genreSlug: "slice-of-life"
 mangaTitle: "Nagi's Long Vacation"

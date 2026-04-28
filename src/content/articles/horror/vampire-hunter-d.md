@@ -1,6 +1,7 @@
 ---
 title: "Vampire Hunter D Review: A Half-Vampire Loner Hunts Nobility's Monsters Across a Post-Apocalyptic Wasteland"
 slug: "vampire-hunter-d"
+coverImage: \"/covers/vampire-hunter-d.jpg\"
 genre: "Horror / Sci-Fi"
 genreSlug: "horror"
 mangaTitle: "Vampire Hunter D"

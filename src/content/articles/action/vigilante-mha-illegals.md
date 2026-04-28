@@ -1,6 +1,7 @@
 ---
 title: "Vigilante: My Hero Academia Illegals Review: The Side of the Hero World Nobody Talks About"
 slug: "vigilante-mha-illegals"
+coverImage: \"/covers/vigilante-mha-illegals.jpg\"
 genre: "Action / Superhero"
 genreSlug: "action"
 mangaTitle: "Vigilante: My Hero Academia Illegals"

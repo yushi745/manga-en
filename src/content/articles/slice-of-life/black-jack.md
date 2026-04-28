@@ -1,6 +1,7 @@
 ---
 title: "Black Jack Review: The Greatest Surgeon in the World Has No License — and Charges What He Wants"
 slug: "black-jack"
+coverImage: \"/covers/black-jack.jpg\"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Black Jack"

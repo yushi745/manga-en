@@ -1,6 +1,7 @@
 ---
 title: "Tenshi Na Konamaiki Review: She Was Turned Into a Girl by a Genie, and Has Never Once Let It Slow Her Down"
 slug: "tenshi-na-konamaiki"
+coverImage: \"/covers/tenshi-na-konamaiki.jpg\"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Tenshi Na Konamaiki"

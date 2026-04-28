@@ -1,6 +1,7 @@
 ---
 title: "Franken Fran Review: A Medical Creation Solves Problems With Surgery When Surgery Is Not the Solution"
 slug: "franken-fran"
+coverImage: \"/covers/franken-fran.jpg\"
 genre: "Horror / Comedy"
 genreSlug: "horror"
 mangaTitle: "Franken Fran"

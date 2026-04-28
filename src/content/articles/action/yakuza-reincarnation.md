@@ -1,6 +1,7 @@
 ---
 title: "Yakuza Reincarnation Review"
 slug: "yakuza-reincarnation"
+coverImage: \"/covers/yakuza-reincarnation.jpg\"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Yakuza Reincarnation"

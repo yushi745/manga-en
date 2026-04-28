@@ -1,6 +1,7 @@
 ---
 title: "Alice in the Country of Hearts Review: Alice Falls Into Wonderland and Must Navigate Its Armed, Romantic Chaos"
 slug: "alice-in-the-country-of-hearts"
+coverImage: \"/covers/alice-in-the-country-of-hearts.jpg\"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Alice in the Country of Hearts"

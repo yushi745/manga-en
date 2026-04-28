@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary Review: Two Men Who Survived the Killing Fields Plan to Change Japan"
 slug: "sanctuary"
+coverImage: \"/covers/sanctuary.jpg\"
 genre: "Sci-Fi / Political"
 genreSlug: "sci-fi"
 mangaTitle: "Sanctuary"

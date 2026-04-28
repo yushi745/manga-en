@@ -1,6 +1,7 @@
 ---
 title: "Cells at Work! Review: The Inside of a Human Body Is an Entire City and Everyone Is Working Very Hard"
 slug: "cells-at-work"
+coverImage: \"/covers/cells-at-work.jpg\"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Cells at Work!"

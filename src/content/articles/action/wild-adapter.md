@@ -1,6 +1,7 @@
 ---
 title: "Wild Adapter Review: A Yakuza Game Addict Investigates a Strange Drug"
 slug: "wild-adapter"
+coverImage: \"/covers/wild-adapter.jpg\"
 genre: "Action"
 genreSlug: "action"
 mangaTitle: "Wild Adapter"

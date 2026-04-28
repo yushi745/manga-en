@@ -1,6 +1,7 @@
 ---
 title: "Attack No. 1 Review: The Volleyball Classic That Shaped Japanese Sports Culture"
 slug: "attack-no-1"
+coverImage: \"/covers/attack-no-1.jpg\"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Attack No. 1"

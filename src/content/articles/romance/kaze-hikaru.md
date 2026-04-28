@@ -1,6 +1,7 @@
 ---
 title: "Kaze Hikaru Review: A Samurai Girl Disguised as a Boy Joins the Shinsengumi to Avenge Her Family"
 slug: "kaze-hikaru"
+coverImage: \"/covers/kaze-hikaru.jpg\"
 genre: "Romance / Historical"
 genreSlug: "romance"
 mangaTitle: "Kaze Hikaru"

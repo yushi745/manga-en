@@ -1,6 +1,7 @@
 ---
 title: "Black Bird Review: A Girl Who Can See Spirits Discovers She Is the Bride of Prophecy — Every Demon Wants Her"
 slug: "black-bird"
+coverImage: \"/covers/black-bird.jpg\"
 genre: "Horror / Romance"
 genreSlug: "horror"
 mangaTitle: "Black Bird"

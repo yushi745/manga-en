@@ -1,6 +1,7 @@
 ---
 title: "My Dress-Up Darling Review: A Hina Doll Craftsman and a Cosplayer Who Loves Games"
 slug: "my-dress-up-darling"
+coverImage: \"/covers/my-dress-up-darling.jpg\"
 genre: "Romance / Slice of Life"
 genreSlug: "romance"
 mangaTitle: "My Dress-Up Darling"

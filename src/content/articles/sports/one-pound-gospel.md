@@ -1,6 +1,7 @@
 ---
 title: "One Pound Gospel Review: A Talented Boxer Who Can't Stop Eating and the Nun Who Believes in Him Anyway"
 slug: "one-pound-gospel"
+coverImage: \"/covers/one-pound-gospel.jpg\"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "One Pound Gospel"

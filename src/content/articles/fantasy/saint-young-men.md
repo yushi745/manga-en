@@ -1,6 +1,7 @@
 ---
 title: "Saint Young Men Review: Jesus and Buddha Take a Vacation in Tokyo and Try to Blend In"
 slug: "saint-young-men"
+coverImage: \"/covers/saint-young-men.jpg\"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Saint Young Men"

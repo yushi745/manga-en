@@ -1,6 +1,7 @@
 ---
 title: "Close the Last Door Review: He's Been in Love with His Best Friend for Years, and the Wedding is Tomorrow"
 slug: "close-the-last-door"
+coverImage: \"/covers/close-the-last-door.jpg\"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Close the Last Door"

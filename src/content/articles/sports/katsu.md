@@ -1,6 +1,7 @@
 ---
 title: "Katsu! Review"
 slug: "katsu"
+coverImage: \"/covers/katsu.jpg\"
 genre: "Sports / Romance"
 genreSlug: "sports"
 mangaTitle: "Katsu!"

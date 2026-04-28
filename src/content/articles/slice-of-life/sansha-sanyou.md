@@ -1,6 +1,7 @@
 ---
 title: "Sansha Sanyou Review: Three Girls With Incompatible Personalities Become Friends Anyway"
 slug: "sansha-sanyou"
+coverImage: \"/covers/sansha-sanyou.jpg\"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Sansha Sanyou"

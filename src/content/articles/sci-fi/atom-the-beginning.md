@@ -1,6 +1,7 @@
 ---
 title: "Atom: The Beginning Review: The Origin Story of Astro Boy's World, Told Through Two Young Scientists and Their Robot"
 slug: "atom-the-beginning"
+coverImage: \"/covers/atom-the-beginning.jpg\"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Atom: The Beginning"

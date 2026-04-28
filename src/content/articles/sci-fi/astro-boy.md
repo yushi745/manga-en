@@ -1,6 +1,7 @@
 ---
 title: "Astro Boy Review: The Robot Child Who Wants to Protect Humans Even When They Reject Him"
 slug: "astro-boy"
+coverImage: \"/covers/astro-boy.jpg\"
 genre: "Sci-Fi / Classic"
 genreSlug: "sci-fi"
 mangaTitle: "Astro Boy"

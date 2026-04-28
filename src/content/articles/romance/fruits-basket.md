@@ -1,6 +1,7 @@
 ---
 title: "Fruits Basket Review: The Manga That Taught Me It's Okay to Be Loved"
 slug: "fruits-basket"
+coverImage: \"/covers/fruits-basket.jpg\"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Fruits Basket"

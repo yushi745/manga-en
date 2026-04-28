@@ -1,6 +1,7 @@
 ---
 title: "RG Veda Review: CLAMP's Epic Based on Hindu Mythology — Six Stars to Overthrow Heaven"
 slug: "rg-veda"
+coverImage: \"/covers/rg-veda.jpg\"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "RG Veda"

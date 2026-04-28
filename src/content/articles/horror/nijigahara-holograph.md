@@ -1,6 +1,7 @@
 ---
 title: "Nijigahara Holograph Review: Parallel Timelines, Childhood Trauma, and the Monster at the Bottom of the Tunnel"
 slug: "nijigahara-holograph"
+coverImage: \"/covers/nijigahara-holograph.jpg\"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Nijigahara Holograph"

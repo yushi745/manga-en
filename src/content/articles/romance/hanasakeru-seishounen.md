@@ -1,6 +1,7 @@
 ---
 title: "Hanasakeru Seishōnen Review: A Reverse Harem Shojo That Plays Its Political Intrigue Straight"
 slug: "hanasakeru-seishounen"
+coverImage: \"/covers/hanasakeru-seishounen.jpg\"
 genre: "Romance / Political"
 genreSlug: "romance"
 mangaTitle: "Hanasakeru Seishōnen"

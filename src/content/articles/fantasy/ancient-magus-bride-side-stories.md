@@ -1,6 +1,7 @@
 ---
 title: "The Ancient Magus' Bride: Side Stories Review: The Companion Volumes That Deepen the World"
 slug: "ancient-magus-bride-side-stories"
+coverImage: \"/covers/ancient-magus-bride-side-stories.jpg\"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "The Ancient Magus' Bride: Side Stories"

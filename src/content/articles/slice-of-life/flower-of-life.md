@@ -1,6 +1,7 @@
 ---
 title: "Flower of Life Review: The Manga About High School That Felt Like Actually Being There"
 slug: "flower-of-life"
+coverImage: \"/covers/flower-of-life.jpg\"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Flower of Life"

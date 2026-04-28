@@ -1,6 +1,7 @@
 ---
 title: "xxxHOLiC Review: A Boy Who Sees Spirits Becomes Indentured to a Witch Who Grants Wishes"
 slug: "xxxholic"
+coverImage: \"/covers/xxxholic.jpg\"
 genre: "Fantasy / Supernatural"
 genreSlug: "fantasy"
 mangaTitle: "xxxHOLiC"

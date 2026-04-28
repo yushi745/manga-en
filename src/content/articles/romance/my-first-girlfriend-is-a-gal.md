@@ -1,6 +1,7 @@
 ---
 title: "My First Girlfriend Is a Gal Review: The Romance Manga That Surprised Me With Its Heart"
 slug: "my-first-girlfriend-is-a-gal"
+coverImage: \"/covers/my-first-girlfriend-is-a-gal.jpg\"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "My First Girlfriend Is a Gal"

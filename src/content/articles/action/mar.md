@@ -1,6 +1,7 @@
 ---
 title: "MÄR Review: A Bullied Boy Escapes to a Fantasy World and Discovers He's the Only One Who Can Save It"
 slug: "mar"
+coverImage: \"/covers/mar.jpg\"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "MÄR: Märchen Awakens Romance"

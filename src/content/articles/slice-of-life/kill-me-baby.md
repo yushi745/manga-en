@@ -1,6 +1,7 @@
 ---
 title: "Kill Me Baby Review: An Assassin and Her Ditzy Friend Navigate School Life with Very Different Skill Sets"
 slug: "kill-me-baby"
+coverImage: \"/covers/kill-me-baby.jpg\"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Kill Me Baby"

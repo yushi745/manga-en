@@ -1,6 +1,7 @@
 ---
 title: "MxO Review: The Accidental Magic Student Who Never Learned Any Magic"
 slug: "mx0-manga"
+coverImage: \"/covers/mx0-manga.jpg\"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "MxO"

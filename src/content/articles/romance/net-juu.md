@@ -1,6 +1,7 @@
 ---
 title: "Recovery of an MMO Junkie Review: Falling in Love While Both Pretending to Be Different People"
 slug: "net-juu"
+coverImage: \"/covers/net-juu.jpg\"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Recovery of an MMO Junkie"

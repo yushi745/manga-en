@@ -1,6 +1,7 @@
 ---
 title: "LDK Review: A Shared Apartment With the School's Most Untouchable Boy Is Not How She Planned Her High School Year"
 slug: "l-dk"
+coverImage: \"/covers/l-dk.jpg\"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "LDK"

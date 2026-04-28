@@ -1,6 +1,7 @@
 ---
 title: "Mars Review: A Quiet Girl and a Motorcycle Racer Find Each Other and Discover What They Were Hiding"
 slug: "mars"
+coverImage: \"/covers/mars.jpg\"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Mars"

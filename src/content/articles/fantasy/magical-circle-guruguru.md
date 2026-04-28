@@ -1,6 +1,7 @@
 ---
 title: "Magical Circle Guruguru Review: The Most Loving Parody of RPGs That Also Has Real Heart"
 slug: "magical-circle-guruguru"
+coverImage: \"/covers/magical-circle-guruguru.jpg\"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Magical Circle Guruguru"

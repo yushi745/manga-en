@@ -1,6 +1,7 @@
 ---
 title: "A Certain Scientific Railgun Review: The Most Powerful Level 5 Esper in Academy City Solves Problems Her Own Way"
 slug: "a-certain-scientific-railgun"
+coverImage: \"/covers/a-certain-scientific-railgun.jpg\"
 genre: "Slice of Life / Action"
 genreSlug: "slice-of-life"
 mangaTitle: "A Certain Scientific Railgun"

@@ -1,6 +1,7 @@
 ---
 title: "Long Riders! Review: The Cycling Manga That Made Me Want to Get on a Bike Immediately"
 slug: "long-riders"
+coverImage: \"/covers/long-riders.jpg\"
 genre: "Slice of Life / Sports"
 genreSlug: "slice-of-life"
 mangaTitle: "Long Riders!"

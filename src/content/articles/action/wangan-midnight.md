@@ -1,6 +1,7 @@
 ---
 title: "Wangan Midnight Review: The Street Racing Manga That Made the Highway Sacred"
 slug: "wangan-midnight"
+coverImage: \"/covers/wangan-midnight.jpg\"
 genre: "Action"
 genreSlug: "action"
 mangaTitle: "Wangan Midnight"

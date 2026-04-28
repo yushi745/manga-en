@@ -1,6 +1,7 @@
 ---
 title: "High School Family Review: A Nuclear Family Goes Back to High School Together and Tries to Be Normal"
 slug: "high-school-family"
+coverImage: \"/covers/high-school-family.jpg\"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "High School Family: Kokosei Kazoku"

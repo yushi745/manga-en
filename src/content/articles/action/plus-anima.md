@@ -1,6 +1,7 @@
 ---
 title: "+Anima Review: Children Who Can Transform Into Animals Navigate a World That Fears Them"
 slug: "plus-anima"
+coverImage: \"/covers/plus-anima.jpg\"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "+Anima"

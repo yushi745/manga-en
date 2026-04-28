@@ -1,6 +1,7 @@
 ---
 title: "Jiu Jiu Review: A Hunter's Twin Werewolf Guardians Refuse to Leave Her Side"
 slug: "jiu-jiu"
+coverImage: \"/covers/jiu-jiu.jpg\"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Jiu Jiu"

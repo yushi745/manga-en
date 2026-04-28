@@ -1,6 +1,7 @@
 ---
 title: "Radiant Review: A Young Wizard Infected by Nemeses Hunts the Source of the Monsters While Being Persecuted by the Inquisition"
 slug: "radiant"
+coverImage: \"/covers/radiant.jpg\"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Radiant"

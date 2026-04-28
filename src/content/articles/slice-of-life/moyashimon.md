@@ -1,6 +1,7 @@
 ---
 title: "Moyashimon Review: An Agricultural College Student Who Can See and Communicate With Microbes"
 slug: "moyashimon"
+coverImage: \"/covers/moyashimon.jpg\"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Moyashimon: Tales of Agriculture"

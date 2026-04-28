@@ -1,6 +1,7 @@
 ---
 title: "Inazuma Eleven Review: The Football Manga Where Elemental Soccer Moves Save the World"
 slug: "inazuma-eleven"
+coverImage: \"/covers/inazuma-eleven.jpg\"
 genre: "Sports / Supernatural"
 genreSlug: "sports"
 mangaTitle: "Inazuma Eleven"

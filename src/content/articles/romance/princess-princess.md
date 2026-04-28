@@ -1,6 +1,7 @@
 ---
 title: "Princess Princess Review: New Student Has to Dress as a Girl — and the Whole School Is Okay with This"
 slug: "princess-princess"
+coverImage: \"/covers/princess-princess.jpg\"
 genre: "Comedy / Romance"
 genreSlug: "romance"
 mangaTitle: "Princess Princess"

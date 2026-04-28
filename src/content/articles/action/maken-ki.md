@@ -1,6 +1,7 @@
 ---
 title: "Maken-Ki! Review: A Co-Ed School That Trains Students in Sacred Weapons Has Many Interesting Complications"
 slug: "maken-ki"
+coverImage: \"/covers/maken-ki.jpg\"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Maken-Ki!"

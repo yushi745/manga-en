@@ -1,6 +1,7 @@
 ---
 title: "Devils' Line Review: A Half-Vampire Detective Tries to Stay Human for the Woman He Loves"
 slug: "devils-line"
+coverImage: \"/covers/devils-line.jpg\"
 genre: "Horror / Romance"
 genreSlug: "horror"
 mangaTitle: "Devils' Line"

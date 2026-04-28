@@ -1,6 +1,7 @@
 ---
 title: "Don't Call It Mystery Review: The Most Surprising Detective Manga I've Ever Read"
 slug: "dont-call-it-mystery"
+coverImage: \"/covers/dont-call-it-mystery.jpg\"
 genre: "Mystery / Drama"
 genreSlug: "action"
 mangaTitle: "Don't Call It Mystery"

@@ -1,6 +1,7 @@
 ---
 title: "Free! Review: The Swimming Anime Manga That Turned Competitive Friendship Into Art"
 slug: "free-manga"
+coverImage: \"/covers/free-manga.jpg\"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Free!"

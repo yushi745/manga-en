@@ -1,6 +1,7 @@
 ---
 title: "Gungrave Review: A Hitman's Loyalty, Betrayal, and Return from the Dead"
 slug: "gungrave-manga"
+coverImage: \"/covers/gungrave-manga.jpg\"
 genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Gungrave"

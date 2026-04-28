@@ -1,6 +1,7 @@
 ---
 title: "Pupa Review: A Sister Becomes a Monster and Her Brother Lets Her Eat Him to Keep Her Alive"
 slug: "pupa"
+coverImage: \"/covers/pupa.jpg\"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Pupa"

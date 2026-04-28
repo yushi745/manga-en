@@ -1,6 +1,7 @@
 ---
 title: "Orochi Review: A Beautiful Immortal Watches Human Lives From the Edge of Their Stories"
 slug: "orochi"
+coverImage: \"/covers/orochi.jpg\"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Orochi: Blood"

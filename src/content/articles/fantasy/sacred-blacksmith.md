@@ -1,6 +1,7 @@
 ---
 title: "The Sacred Blacksmith Review: A Knight, a Sword, and the Contract That Changes Everything"
 slug: "sacred-blacksmith"
+coverImage: \"/covers/sacred-blacksmith.jpg\"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "The Sacred Blacksmith"

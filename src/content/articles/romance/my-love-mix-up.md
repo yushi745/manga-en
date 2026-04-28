@@ -1,6 +1,7 @@
 ---
 title: "My Love Mix-Up! Review: A Boy Accidentally Reveals His Crush to the Wrong Person and Then Everything Gets Better"
 slug: "my-love-mix-up"
+coverImage: \"/covers/my-love-mix-up.jpg\"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "My Love Mix-Up!"

@@ -1,6 +1,7 @@
 ---
 title: "Triage X Review: A Medical Assassin Squad Surgically Removes Society's Tumors"
 slug: "triage-x"
+coverImage: \"/covers/triage-x.jpg\"
 genre: "Action / Thriller"
 genreSlug: "action"
 mangaTitle: "Triage X"

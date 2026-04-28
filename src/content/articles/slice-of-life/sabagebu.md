@@ -1,6 +1,7 @@
 ---
 title: "Sabagebu! Review: A Girl Joins a Survival Game Club and Discovers She Is a Natural at Fake Violence"
 slug: "sabagebu"
+coverImage: \"/covers/sabagebu.jpg\"
 genre: "Comedy / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Sabagebu! —Survival Game Club!—"

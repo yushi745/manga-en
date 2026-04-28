@@ -1,6 +1,7 @@
 ---
 title: "Night of the Beasts Review: She Has a Curse That Kills Anyone Who Loves Her"
 slug: "night-of-the-beasts"
+coverImage: \"/covers/night-of-the-beasts.jpg\"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Night of the Beasts"

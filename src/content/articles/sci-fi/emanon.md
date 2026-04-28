@@ -1,6 +1,7 @@
 ---
 title: "Emanon Review: A Woman Who Remembers Every Life She Has Ever Lived Meets a Young Man on a Ferry"
 slug: "emanon"
+coverImage: \"/covers/emanon.jpg\"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Emanon"

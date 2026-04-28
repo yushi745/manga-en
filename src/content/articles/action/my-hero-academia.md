@@ -1,6 +1,7 @@
 ---
 title: "My Hero Academia Review: What Does It Really Mean to Be a Hero?"
 slug: "my-hero-academia"
+coverImage: \"/covers/my-hero-academia.jpg\"
 genre: "Action / Superhero"
 genreSlug: "action"
 mangaTitle: "My Hero Academia"

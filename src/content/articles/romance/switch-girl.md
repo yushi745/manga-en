@@ -1,6 +1,7 @@
 ---
 title: "Switch Girl!! Review: At School She's Perfect, At Home She's a Complete Disaster"
 slug: "switch-girl"
+coverImage: \"/covers/switch-girl.jpg\"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Switch Girl!!"

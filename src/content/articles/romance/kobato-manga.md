@@ -1,6 +1,7 @@
 ---
 title: "Kobato Review: CLAMP's Gentle Story of a Girl Who Collects Wounded Hearts to Fulfill a Wish She Cannot Explain"
 slug: "kobato-manga"
+coverImage: \"/covers/kobato-manga.jpg\"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Kobato"

@@ -1,6 +1,7 @@
 ---
 title: "My Isekai Life Review: He Gained Two Job Classes and Accidentally Became the World's Strongest Sage"
 slug: "my-isekai-life"
+coverImage: \"/covers/my-isekai-life.jpg\"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"

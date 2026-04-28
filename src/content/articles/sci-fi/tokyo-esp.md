@@ -1,6 +1,7 @@
 ---
 title: "Tokyo ESP Review: The Manga That Proves Superhero Stories Don't Need America to Work"
 slug: "tokyo-esp"
+coverImage: \"/covers/tokyo-esp.jpg\"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Tokyo ESP"

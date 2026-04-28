@@ -1,6 +1,7 @@
 ---
 title: "Ahiru no Sora Review"
 slug: "ahiru-no-sora"
+coverImage: \"/covers/ahiru-no-sora.jpg\"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Ahiru no Sora"

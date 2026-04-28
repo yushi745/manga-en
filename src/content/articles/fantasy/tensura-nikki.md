@@ -1,6 +1,7 @@
 ---
 title: "Slime Diaries Review: The Most Powerful Slime in Another World Has Days Off and Doesn't Know What to Do with Them"
 slug: "tensura-nikki"
+coverImage: \"/covers/tensura-nikki.jpg\"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "That Time I Got Reincarnated as a Slime: Slime Diaries"

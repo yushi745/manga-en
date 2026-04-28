@@ -1,6 +1,7 @@
 ---
 title: "Gate Review: A Fantasy Army Invades Modern Tokyo and the Japanese Self-Defense Force Enters the Portal to Fight Back"
 slug: "gate-jsdf"
+coverImage: \"/covers/gate-jsdf.jpg\"
 genre: "Sci-Fi / Fantasy"
 genreSlug: "sci-fi"
 mangaTitle: "Gate: Jieitai Kanochi nite, Kaku Tatakaeri"

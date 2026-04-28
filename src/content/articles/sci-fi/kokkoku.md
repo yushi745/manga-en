@@ -1,6 +1,7 @@
 ---
 title: "Kokkoku Review: A Family Discovers the Power to Stop Time — and the People Already Living Inside It"
 slug: "kokkoku"
+coverImage: \"/covers/kokkoku.jpg\"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Kokkoku"

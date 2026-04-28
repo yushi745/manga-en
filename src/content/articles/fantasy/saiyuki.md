@@ -1,6 +1,7 @@
 ---
 title: "Saiyuki Review: The Journey to the West That Gave Me Four Broken and Beautiful Characters"
 slug: "saiyuki"
+coverImage: \"/covers/saiyuki.jpg\"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Saiyuki"

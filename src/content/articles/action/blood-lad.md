@@ -1,6 +1,7 @@
 ---
 title: "Blood Lad Review: A Vampire Boss Who Is Obsessed with Japanese Otaku Culture Tries to Resurrect a Dead Human Girl"
 slug: "blood-lad"
+coverImage: \"/covers/blood-lad.jpg\"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Blood Lad"

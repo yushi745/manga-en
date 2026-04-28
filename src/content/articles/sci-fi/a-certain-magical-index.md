@@ -1,6 +1,7 @@
 ---
 title: "A Certain Magical Index Review: Science and Magic Collide in Academy City"
 slug: "a-certain-magical-index"
+coverImage: \"/covers/a-certain-magical-index.jpg\"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "A Certain Magical Index"

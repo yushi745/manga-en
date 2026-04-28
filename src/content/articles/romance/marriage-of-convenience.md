@@ -1,6 +1,7 @@
 ---
 title: "Marriage of Convenience Review: Politics, Pride, and a Love That Sneaks Up on You"
 slug: "marriage-of-convenience"
+coverImage: \"/covers/marriage-of-convenience.jpg\"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Marriage of Convenience"

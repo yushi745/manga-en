@@ -1,6 +1,7 @@
 ---
 title: "Mail Review: A Detective Exorcises Ghosts by Sending Them Where They Need to Go"
 slug: "mail"
+coverImage: \"/covers/mail.jpg\"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Mail"

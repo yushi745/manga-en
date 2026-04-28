@@ -1,6 +1,7 @@
 ---
 title: "Softenni Review: Soft Tennis Comedy That Goes Completely Off the Rails in the Best Way"
 slug: "softenni"
+coverImage: \"/covers/softenni.jpg\"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Softenni"

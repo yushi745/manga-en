@@ -1,6 +1,7 @@
 ---
 title: "St. Dragon Girl Review: A Martial Arts Girl Possessed by a Dragon God Navigates Powers, School, and a Childhood Friend Who Summons Demons"
 slug: "st-dragon-girl"
+coverImage: \"/covers/st-dragon-girl.jpg\"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "St. Dragon Girl"

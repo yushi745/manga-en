@@ -1,6 +1,7 @@
 ---
 title: "Fragile Review: The Pathology Manga That Made Me Understand What Doctors Really Do"
 slug: "fragile"
+coverImage: \"/covers/fragile.jpg\"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Fragile"

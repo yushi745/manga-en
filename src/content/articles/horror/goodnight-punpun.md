@@ -1,6 +1,7 @@
 ---
 title: "Goodnight Punpun Review: A Boy Drawn as a Bird Grows Up and the World Does Not Get Better"
 slug: "goodnight-punpun"
+coverImage: \"/covers/goodnight-punpun.jpg\"
 genre: "Horror / Slice of Life"
 genreSlug: "horror"
 mangaTitle: "Goodnight Punpun"

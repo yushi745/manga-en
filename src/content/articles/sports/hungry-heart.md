@@ -1,6 +1,7 @@
 ---
 title: "Hungry Heart Wild Striker Review: The Captain Tsubasa Creator Returns With a Story About a Soccer Genius Who Quit"
 slug: "hungry-heart"
+coverImage: \"/covers/hungry-heart.jpg\"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Hungry Heart Wild Striker"
