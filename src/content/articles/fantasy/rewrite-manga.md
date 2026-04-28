@@ -1,7 +1,6 @@
 ---
 title: "Rewrite Review: A Boy With the Power to Rewrite His Body Navigates a City Where Supernatural Factions War"
 slug: "rewrite-manga"
-coverImage: "/covers/rewrite-manga.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Rewrite"

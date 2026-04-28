@@ -1,7 +1,6 @@
 ---
 title: "Sweet Home Review: When the Apartment Building Becomes the Whole World"
 slug: "sweet-home"
-coverImage: "/covers/sweet-home.jpg"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Sweet Home"

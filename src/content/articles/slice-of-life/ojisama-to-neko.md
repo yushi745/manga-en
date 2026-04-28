@@ -1,7 +1,6 @@
 ---
 title: "An Old Man and His Cat Review: A Lonely Widower Adopts the Least Popular Cat"
 slug: "ojisama-to-neko"
-coverImage: "/covers/ojisama-to-neko.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "An Old Man and His Cat"

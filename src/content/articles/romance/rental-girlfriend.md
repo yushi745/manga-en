@@ -1,7 +1,6 @@
 ---
 title: "Rent-A-Girlfriend Review: A College Student Rents a Girlfriend and Falls Into Real Feelings"
 slug: "rental-girlfriend"
-coverImage: "/covers/rental-girlfriend.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Rent-A-Girlfriend"

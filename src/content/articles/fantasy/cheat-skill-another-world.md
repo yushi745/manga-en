@@ -1,7 +1,6 @@
 ---
 title: "I Got a Cheat Skill in Another World Review: An Abused Boy Discovers a Door to a Fantasy World and Becomes the Ultimate Being in Both"
 slug: "cheat-skill-another-world"
-coverImage: "/covers/cheat-skill-another-world.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too"

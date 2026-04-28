@@ -1,7 +1,6 @@
 ---
 title: "That Time I Got Reincarnated as a Slime Review: The Isekai That Actually Builds a World"
 slug: "slime-isekai"
-coverImage: "/covers/slime-isekai.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "That Time I Got Reincarnated as a Slime"

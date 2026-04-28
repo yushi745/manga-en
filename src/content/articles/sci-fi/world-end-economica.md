@@ -1,7 +1,6 @@
 ---
 title: "World End Economica Review: A Boy on the Moon Dreams of Reaching the Stars Through the Stock Market"
 slug: "world-end-economica"
-coverImage: "/covers/world-end-economica.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "World End Economica"

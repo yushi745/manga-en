@@ -1,7 +1,6 @@
 ---
 title: "The Super Dimension Fortress Macross Review: The Mecha That Used Music as a Weapon"
 slug: "macross"
-coverImage: "/covers/macross.jpg"
 genre: "Sci-Fi / Mecha"
 genreSlug: "sci-fi"
 mangaTitle: "The Super Dimension Fortress Macross"

@@ -1,7 +1,6 @@
 ---
 title: "Kuro Review: A Little Girl's Beloved Cat May Not Be a Cat at All"
 slug: "kuro-manga"
-coverImage: "/covers/kuro-manga.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Kuro"

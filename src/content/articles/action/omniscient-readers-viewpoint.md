@@ -1,7 +1,6 @@
 ---
 title: "Omniscient Reader's Viewpoint Review: The Last Reader of a Web Novel Watches It Come True Around Him"
 slug: "omniscient-readers-viewpoint"
-coverImage: "/covers/omniscient-readers-viewpoint.jpg"
 genre: "Fantasy / Action"
 genreSlug: "action"
 mangaTitle: "Omniscient Reader's Viewpoint"

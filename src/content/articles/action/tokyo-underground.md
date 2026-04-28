@@ -1,7 +1,6 @@
 ---
 title: "Tokyo Underground Review: Two Boys Fall Into a City Beneath Tokyo Where People Have Elemental Powers"
 slug: "tokyo-underground"
-coverImage: "/covers/tokyo-underground.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Tokyo Underground"

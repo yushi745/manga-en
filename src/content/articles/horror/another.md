@@ -1,7 +1,6 @@
 ---
 title: "Another Review: Class 3-3 Has a Secret, and Students Are Dying to Keep It"
 slug: "another"
-coverImage: "/covers/another.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Another"

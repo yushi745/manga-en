@@ -1,7 +1,6 @@
 ---
 title: "Is This a Zombie? Review: A Boy Resurrected as a Zombie Becomes a Magical Garment Girl"
 slug: "is-this-a-zombie"
-coverImage: "/covers/is-this-a-zombie.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Is This a Zombie?"

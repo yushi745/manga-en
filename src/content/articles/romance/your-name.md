@@ -1,7 +1,6 @@
 ---
 title: "Your Name Review: The Body-Swapping Love Story That Became a Global Phenomenon"
 slug: "your-name"
-coverImage: "/covers/your-name.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Your Name (Kimi no Na wa)"

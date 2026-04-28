@@ -1,7 +1,6 @@
 ---
 title: "Senryu Girl Review: A Girl Who Only Speaks in Haiku-Like Poems Falls for a Former Delinquent"
 slug: "senryu-girl"
-coverImage: "/covers/senryu-girl.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Senryu Girl"

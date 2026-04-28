@@ -1,7 +1,6 @@
 ---
 title: "Blood-C Review: CLAMP's Darkest Collaboration Delivers a Shocking Deconstruction"
 slug: "blood-c"
-coverImage: "/covers/blood-c.jpg"
 genre: "Horror / Action"
 genreSlug: "horror"
 mangaTitle: "Blood-C"

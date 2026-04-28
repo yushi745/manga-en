@@ -1,7 +1,6 @@
 ---
 title: "Kurokami: The Animation Review: A Boy Who Learns His Existence Dooms Others Teams With the Being Who Can Change That"
 slug: "kurokami"
-coverImage: "/covers/kurokami.jpg"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Kurokami: The Animation (Black God)"

@@ -1,7 +1,6 @@
 ---
 title: "Shiki Review: A Quiet Village, Strange Deaths, and the Question of Who the Real Monsters Are"
 slug: "shiki"
-coverImage: "/covers/shiki.jpg"
 genre: "Horror / Supernatural"
 genreSlug: "horror"
 mangaTitle: "Shiki"

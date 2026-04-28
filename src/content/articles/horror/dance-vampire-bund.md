@@ -1,7 +1,6 @@
 ---
 title: "Dance in the Vampire Bund Review: A Vampire Queen Establishes a Haven in Tokyo Bay and the World Isn't Ready"
 slug: "dance-vampire-bund"
-coverImage: "/covers/dance-vampire-bund.jpg"
 genre: "Horror / Fantasy"
 genreSlug: "horror"
 mangaTitle: "Dance in the Vampire Bund"

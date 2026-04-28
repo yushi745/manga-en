@@ -1,7 +1,6 @@
 ---
 title: "Pandora Hearts Review: A Boy Cast Into the Abyss, and the Conspiracy Waiting When He Returns"
 slug: "pandora-hearts"
-coverImage: "/covers/pandora-hearts.jpg"
 genre: "Fantasy / Mystery"
 genreSlug: "fantasy"
 mangaTitle: "Pandora Hearts"

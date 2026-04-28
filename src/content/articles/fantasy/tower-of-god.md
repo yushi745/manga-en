@@ -1,7 +1,6 @@
 ---
 title: "Tower of God Review: The Manhwa That Rewrote What Webtoons Could Be"
 slug: "tower-of-god"
-coverImage: "/covers/tower-of-god.jpg"
 genre: "Action / Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Tower of God"

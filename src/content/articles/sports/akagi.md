@@ -1,7 +1,6 @@
 ---
 title: "Akagi Review: A Genius Who Plays Mahjong Like He Has Nothing to Lose — Because He Doesn't"
 slug: "akagi"
-coverImage: "/covers/akagi.jpg"
 genre: "Sports / Psychological Thriller"
 genreSlug: "sports"
 publisher: "Takeshobo / Viz Media (Digital)"

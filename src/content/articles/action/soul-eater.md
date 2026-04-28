@@ -1,7 +1,6 @@
 ---
 title: "Soul Eater Review: Where Weapons Have Souls and Madness Is a World-Ending Threat"
 slug: "soul-eater"
-coverImage: "/covers/soul-eater.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Soul Eater"

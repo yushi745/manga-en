@@ -1,7 +1,6 @@
 ---
 title: "Kekkaishi Review: Two Families, One Sacred Ground, and the Barriers That Protect It"
 slug: "kekkaishi"
-coverImage: "/covers/kekkaishi.jpg"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Kekkaishi"

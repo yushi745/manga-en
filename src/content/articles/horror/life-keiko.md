@@ -1,7 +1,6 @@
 ---
 title: "Life Review: When the Pressure to Be Perfect Breaks Something That Can't Be Fixed"
 slug: "life-keiko"
-coverImage: "/covers/life-keiko.jpg"
 genre: "Horror / Drama"
 genreSlug: "horror"
 mangaTitle: "Life"

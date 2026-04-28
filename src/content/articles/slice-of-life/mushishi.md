@@ -1,7 +1,6 @@
 ---
 title: "Mushishi Review: The Man Who Walks Between the Living World and Something Older"
 slug: "mushishi"
-coverImage: "/covers/mushishi.jpg"
 genre: "Slice of Life / Fantasy"
 genreSlug: "slice-of-life"
 mangaTitle: "Mushishi"

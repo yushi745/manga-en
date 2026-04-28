@@ -1,7 +1,6 @@
 ---
 title: "Blue Period Review: A High School Boy Discovers Art at Seventeen and Decides It Is the Only Thing He Has Ever Wanted"
 slug: "blue-period"
-coverImage: "/covers/blue-period.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Blue Period"

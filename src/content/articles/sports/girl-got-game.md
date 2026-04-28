@@ -1,7 +1,6 @@
 ---
 title: "Girl Got Game Review: A Girl Disguised as a Boy Joins the Basketball Team and Falls Into Unexpected Feelings"
 slug: "girl-got-game"
-coverImage: "/covers/girl-got-game.jpg"
 genre: "Sports / Romance"
 genreSlug: "sports"
 mangaTitle: "Girl Got Game (Power!)"

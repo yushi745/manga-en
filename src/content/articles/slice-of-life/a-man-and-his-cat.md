@@ -1,7 +1,6 @@
 ---
 title: "A Man and His Cat Review: The Oldest Cat at the Pet Store Gets Adopted by a Lonely Widower, and They Save Each Other"
 slug: "a-man-and-his-cat"
-coverImage: "/covers/a-man-and-his-cat.jpg"
 genre: "Slice of Life / Heartwarming"
 genreSlug: "slice-of-life"
 mangaTitle: "A Man and His Cat"

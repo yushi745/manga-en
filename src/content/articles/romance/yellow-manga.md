@@ -1,7 +1,6 @@
 ---
 title: "Yellow Review: Two Drug Agents Who Can't Stand Each Other Have to Pretend to Be a Couple"
 slug: "yellow-manga"
-coverImage: "/covers/yellow-manga.jpg"
 genre: "Action / Romance"
 genreSlug: "romance"
 mangaTitle: "Yellow"

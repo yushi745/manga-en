@@ -1,7 +1,6 @@
 ---
 title: "Kuma Kuma Kuma Bear Review: A Girl Gets Trapped in a VRMMO with a Broken Bear Suit and Refuses to Take It Off"
 slug: "kuma-kuma-kuma-bear"
-coverImage: "/covers/kuma-kuma-kuma-bear.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Kuma Kuma Kuma Bear"

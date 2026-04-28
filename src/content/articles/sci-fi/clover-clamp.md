@@ -1,7 +1,6 @@
 ---
 title: "Clover Review: CLAMP's Experimental Sci-Fi About a Girl Who Is the Only Person of Her Kind"
 slug: "clover-clamp"
-coverImage: "/covers/clover-clamp.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Clover"

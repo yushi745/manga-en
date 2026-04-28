@@ -1,7 +1,6 @@
 ---
 title: "Needless Review: Post-Apocalyptic Superpowers Played for Maximum Absurdity"
 slug: "needless"
-coverImage: "/covers/needless.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Needless"

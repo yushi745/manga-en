@@ -1,7 +1,6 @@
 ---
 title: "Haikyu!! Review: The Sports Manga That Will Make You Care About Volleyball"
 slug: "haikyu"
-coverImage: "/covers/haikyu.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Haikyu!!"

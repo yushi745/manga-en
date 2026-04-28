@@ -1,7 +1,6 @@
 ---
 title: "Skip Beat! Review: The Best Revenge Is Becoming a Better Actor Than Him"
 slug: "skip-beat"
-coverImage: "/covers/skip-beat.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Skip Beat!"

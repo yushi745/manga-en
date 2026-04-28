@@ -1,7 +1,6 @@
 ---
 title: "All You Need Is Kill Review: Die. Reset. Get Better. Kill the Enemy."
 slug: "all-you-need-is-kill"
-coverImage: "/covers/all-you-need-is-kill.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "All You Need Is Kill"

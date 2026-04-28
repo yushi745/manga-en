@@ -1,7 +1,6 @@
 ---
 title: "Crayon Shin-chan Review: The Manga That Has Been Scandalizing Japanese Parents for 35 Years"
 slug: "crayon-shin-chan"
-coverImage: "/covers/crayon-shin-chan.jpg"
 genre: "Comedy / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Crayon Shin-chan"

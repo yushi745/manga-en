@@ -1,7 +1,6 @@
 ---
 title: "Snow Drop Review: The Korean Manhwa Romeo and Juliet With Flower Language"
 slug: "snow-drop"
-coverImage: "/covers/snow-drop.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Snow Drop"

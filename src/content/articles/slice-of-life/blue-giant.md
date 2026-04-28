@@ -1,7 +1,6 @@
 ---
 title: "Blue Giant Review: A High School Boy Decides He Will Become the Greatest Jazz Saxophonist in the World"
 slug: "blue-giant"
-coverImage: "/covers/blue-giant.jpg"
 genre: "Slice of Life / Music"
 genreSlug: "slice-of-life"
 mangaTitle: "Blue Giant"

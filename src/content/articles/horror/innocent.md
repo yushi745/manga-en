@@ -1,7 +1,6 @@
 ---
 title: "Innocent Review: The Son of France's Master Executioner Inherits a Role He Did Not Choose and Cannot Escape"
 slug: "innocent"
-coverImage: "/covers/innocent.jpg"
 genre: "Horror / Historical"
 genreSlug: "horror"
 mangaTitle: "Innocent"

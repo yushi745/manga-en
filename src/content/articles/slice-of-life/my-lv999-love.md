@@ -1,7 +1,6 @@
 ---
 title: "My Love Mix-Up! Review"
 slug: "my-lv999-love"
-coverImage: "/covers/my-lv999-love.jpg"
 genre: "Romance / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "My Love Mix-Up!"

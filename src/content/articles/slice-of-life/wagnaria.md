@@ -1,7 +1,6 @@
 ---
 title: "Wagnaria!! Review: A Family Restaurant Full of Employees With Problems, and the Boy Who Has to Work Alongside All of Them"
 slug: "wagnaria"
-coverImage: "/covers/wagnaria.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Wagnaria!! (Working!!)"

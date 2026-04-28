@@ -1,7 +1,6 @@
 ---
 title: "Solo Leveling Review: The World's Weakest Hunter Receives the Power to Level Up Alone and Becomes Something Beyond Human"
 slug: "solo-leveling"
-coverImage: "/covers/solo-leveling.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Solo Leveling"

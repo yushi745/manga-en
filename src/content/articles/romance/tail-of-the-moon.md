@@ -1,7 +1,6 @@
 ---
 title: "Tail of the Moon Review: A Clumsy Kunoichi Tries to Be Worthy of the Ninja She Loves"
 slug: "tail-of-the-moon"
-coverImage: "/covers/tail-of-the-moon.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Tail of the Moon"

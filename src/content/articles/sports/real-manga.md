@@ -1,7 +1,6 @@
 ---
 title: "Real Review: The Basketball Manga That Shows You What Sports Actually Cost"
 slug: "real-manga"
-coverImage: "/covers/real-manga.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Real"

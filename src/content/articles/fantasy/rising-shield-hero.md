@@ -1,7 +1,6 @@
 ---
 title: "The Rising of the Shield Hero Review: When the Hero Is the Villain's Target"
 slug: "rising-shield-hero"
-coverImage: "/covers/rising-shield-hero.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "The Rising of the Shield Hero"

@@ -1,7 +1,6 @@
 ---
 title: "Serial Experiments Lain Review: A Girl Becomes the Network in a Manga That Still Feels Ahead of Its Time"
 slug: "serial-experiments-lain"
-coverImage: "/covers/serial-experiments-lain.jpg"
 genre: "Sci-Fi / Psychological"
 genreSlug: "sci-fi"
 mangaTitle: "Serial Experiments Lain"

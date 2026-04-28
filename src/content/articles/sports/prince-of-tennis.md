@@ -1,7 +1,6 @@
 ---
 title: "The Prince of Tennis Review: A Twelve-Year-Old Who Can Beat Anyone, Already"
 slug: "prince-of-tennis"
-coverImage: "/covers/prince-of-tennis.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "The Prince of Tennis"

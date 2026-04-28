@@ -32,6 +32,21 @@ def get_field(content, key):
     m = re.search(rf'^{key}:\s*"?([^"\n]+)"?', content, re.MULTILINE)
     return m.group(1).strip().strip('"') if m else None
 
+def write_cover_image(fp, content, slug):
+    """frontmatter に coverImage がなければ slug: の直後に追加する"""
+    if 'coverImage:' in content:
+        return
+    cover_line = 'coverImage: "/covers/' + slug + '.jpg"'
+    new_content = re.sub(
+        r'(^slug:.*$)',
+        r'\1\n' + cover_line,
+        content,
+        count=1,
+        flags=re.MULTILINE,
+    )
+    if new_content != content:
+        open(fp, 'w', encoding='utf-8').write(new_content)
+
 def rakuten_search(title):
     params = urllib.parse.urlencode({
         'applicationId': APP_ID,
@@ -133,6 +148,7 @@ for i, fp in enumerate(files, 1):
         ok, size = download_image(img_url, dest)
         if ok:
             print(f"楽天OK ({size//1024}KB) ← {found_title}")
+            write_cover_image(fp, content, slug)
             ok_rakuten += 1
             continue
 
@@ -143,6 +159,7 @@ for i, fp in enumerate(files, 1):
         ok, size = download_image(img_url, dest)
         if ok:
             print(f"GoogleOK ({size//1024}KB) ← {found_title}")
+            write_cover_image(fp, content, slug)
             ok_google += 1
             continue
 

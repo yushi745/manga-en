@@ -1,7 +1,6 @@
 ---
 title: "Magical × Miracle Review: She Was Summoned as a Substitute King and Nobody Knows She's a Girl"
 slug: "magical-x-miracle"
-coverImage: "/covers/magical-x-miracle.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Magical × Miracle"

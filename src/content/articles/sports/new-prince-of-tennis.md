@@ -1,7 +1,6 @@
 ---
 title: "New Prince of Tennis Review: The Tennis Players Get Sent to a Training Camp Where Normal Physics Stop Applying"
 slug: "new-prince-of-tennis"
-coverImage: "/covers/new-prince-of-tennis.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "New Prince of Tennis"

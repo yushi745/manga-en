@@ -60,7 +60,17 @@ def get_git_added_date(filepath):
         return ''
 
 
+def get_git_tracked_covers():
+    import subprocess
+    result = subprocess.run(
+        ['git', 'ls-files', 'public/covers/'],
+        capture_output=True, text=True, cwd=PROJECT_ROOT
+    )
+    return {os.path.basename(f).replace('.jpg', '') for f in result.stdout.splitlines()}
+
+
 def collect_articles():
+    tracked_covers = get_git_tracked_covers()
     articles = []
     pattern = os.path.join(ARTICLES_DIR, '**', '*.md')
     for filepath in sorted(glob.glob(pattern, recursive=True)):
@@ -81,6 +91,7 @@ def collect_articles():
             'publishedAt': get_field(content, 'publishedAt'),
             'addedAt':     get_git_added_date(filepath),
             'tags':        get_list_field(content, 'tags'),
+            'hasCover':    '○' if slug in tracked_covers else '×',
         })
     return articles
 
@@ -96,7 +107,7 @@ def main():
 
     sh = get_sheet()
     headers = ['マンガタイトル', '日本語タイトル', '著者', 'ジャンル', 'ジャンルSlug', 'Slug', 'URL',
-               '評価', '公開日', '追加日', 'タグ']
+               '評価', '公開日', '追加日', 'タグ', '画像']
     rows = [headers]
     for a in articles:
         rows.append([
@@ -111,6 +122,7 @@ def main():
             str(a['publishedAt']),
             str(a['addedAt']),
             a['tags'],
+            a['hasCover'],
         ])
 
     ws = get_or_create_ws(sh, '記事一覧', rows=max(len(rows) + 100, 2000), cols=max(len(headers), 15))

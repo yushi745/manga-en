@@ -1,7 +1,6 @@
 ---
 title: "Sugar Sugar Rune Review: Two Best Friends Compete to Become Queen of the Magic World by Collecting Human Hearts"
 slug: "sugar-sugar-rune"
-coverImage: "/covers/sugar-sugar-rune.jpg"
 genre: "Fantasy / Magical Girl"
 genreSlug: "fantasy"
 mangaTitle: "Sugar Sugar Rune"

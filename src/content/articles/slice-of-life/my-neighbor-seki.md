@@ -1,7 +1,6 @@
 ---
 title: "My Neighbor Seki Review: The Boy Next to Her in Class Is Always Doing Something Incredible"
 slug: "my-neighbor-seki"
-coverImage: "/covers/my-neighbor-seki.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "My Neighbor Seki"

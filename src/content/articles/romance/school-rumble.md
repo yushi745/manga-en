@@ -1,7 +1,6 @@
 ---
 title: "School Rumble Review: A Delinquent Loves a Girl Who Loves a Boy Who Loves Curry"
 slug: "school-rumble"
-coverImage: "/covers/school-rumble.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "School Rumble"
