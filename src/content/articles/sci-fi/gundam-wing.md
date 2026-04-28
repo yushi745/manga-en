@@ -1,7 +1,7 @@
 ---
 title: "Gundam Wing Review: The Mecha Manga That Made Five Tragic Heroes Out of Teenage Pilots"
 slug: "gundam-wing"
-coverImage: \"/covers/gundam-wing.jpg\"
+coverImage: "/covers/gundam-wing.jpg"
 genre: "Sci-Fi / Mecha"
 genreSlug: "sci-fi"
 mangaTitle: "Mobile Suit Gundam Wing"

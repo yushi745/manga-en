@@ -1,7 +1,7 @@
 ---
 title: "Cat Street Review: A Former Child Star Rebuilds Herself in a Free School for People Who Don't Fit Anywhere"
 slug: "cat-street"
-coverImage: \"/covers/cat-street.jpg\"
+coverImage: "/covers/cat-street.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Cat Street"

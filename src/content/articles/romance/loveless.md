@@ -1,7 +1,7 @@
 ---
 title: "Loveless Review: A Boy Investigates His Brother's Death and Finds Himself in a World of Fighter Pairs and Incomplete Names"
 slug: "loveless"
-coverImage: \"/covers/loveless.jpg\"
+coverImage: "/covers/loveless.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Loveless"

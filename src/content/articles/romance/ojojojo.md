@@ -1,7 +1,7 @@
 ---
 title: "Ojojojo Review: The Ojou-sama Romance That's Just Quietly Perfect"
 slug: "ojojojo"
-coverImage: \"/covers/ojojojo.jpg\"
+coverImage: "/covers/ojojojo.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Ojojojo"

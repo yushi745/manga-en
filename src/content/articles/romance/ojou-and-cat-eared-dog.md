@@ -1,7 +1,7 @@
 ---
 title: "Ojou and Her Dog Review: A Love Story Hidden Inside a Bodyguard Comedy"
 slug: "ojou-and-cat-eared-dog"
-coverImage: \"/covers/ojou-and-cat-eared-dog.jpg\"
+coverImage: "/covers/ojou-and-cat-eared-dog.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Ojou and Her Dog"

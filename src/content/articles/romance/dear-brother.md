@@ -1,7 +1,7 @@
 ---
 title: "Dear Brother Review: The Most Intensely Emotional Shoujo You've Never Heard Of"
 slug: "dear-brother"
-coverImage: \"/covers/dear-brother.jpg\"
+coverImage: "/covers/dear-brother.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Dear Brother"

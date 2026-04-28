@@ -1,7 +1,7 @@
 ---
 title: "Crossroad Review: A Girl Raised by Her Mother's New Husband Finds Herself Between His Two Sons — and Between Two Very Different Feelings"
 slug: "crossroad"
-coverImage: \"/covers/crossroad.jpg\"
+coverImage: "/covers/crossroad.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Crossroad"

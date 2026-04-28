@@ -1,7 +1,7 @@
 ---
 title: "Princess Ai Review: A Girl Who Falls From Another World Into Tokyo's Music Scene"
 slug: "princess-ai"
-coverImage: \"/covers/princess-ai.jpg\"
+coverImage: "/covers/princess-ai.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Princess Ai"

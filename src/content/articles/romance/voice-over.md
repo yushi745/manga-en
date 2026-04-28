@@ -1,7 +1,7 @@
 ---
 title: "Voice Over! Seiyu Academy Review: She Has the Perfect Voice for Villains — and Dreams of Playing Heroines"
 slug: "voice-over"
-coverImage: \"/covers/voice-over.jpg\"
+coverImage: "/covers/voice-over.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Voice Over! Seiyu Academy"

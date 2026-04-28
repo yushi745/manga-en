@@ -1,7 +1,7 @@
 ---
 title: "The Quintessential Quintuplets Review: A Tutor Helps Five Identical Sisters Pass Their Exams and Eventually Marries One"
 slug: "the-quintessential-quintuplets"
-coverImage: \"/covers/the-quintessential-quintuplets.jpg\"
+coverImage: "/covers/the-quintessential-quintuplets.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "The Quintessential Quintuplets"

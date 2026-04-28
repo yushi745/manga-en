@@ -1,7 +1,7 @@
 ---
 title: "Gravitation Review: He Writes Lyrics, Falls in Love, Becomes Famous — Not in That Order"
 slug: "gravitation"
-coverImage: \"/covers/gravitation.jpg\"
+coverImage: "/covers/gravitation.jpg"
 genre: "Romance / Music"
 genreSlug: "romance"
 mangaTitle: "Gravitation"

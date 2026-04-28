@@ -1,7 +1,7 @@
 ---
 title: "Overlord Review: The Guild Master Who Became a God in a World That Has No Respawn"
 slug: "overlord"
-coverImage: \"/covers/overlord.jpg\"
+coverImage: "/covers/overlord.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "Overlord"

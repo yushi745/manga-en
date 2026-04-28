@@ -1,7 +1,7 @@
 ---
 title: "Nichijou Review: Ordinary Life, Extraordinarily Absurd"
 slug: "nichijou"
-coverImage: \"/covers/nichijou.jpg\"
+coverImage: "/covers/nichijou.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Nichijou: My Ordinary Life"

@@ -1,7 +1,7 @@
 ---
 title: "Ikigami Review: The Government Sends You a Notice — You Have 24 Hours to Live"
 slug: "ikigami"
-coverImage: \"/covers/ikigami.jpg\"
+coverImage: "/covers/ikigami.jpg"
 genre: "Sci-Fi / Thriller"
 genreSlug: "sci-fi"
 mangaTitle: "Ikigami: The Ultimate Limit"

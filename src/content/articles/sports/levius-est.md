@@ -1,7 +1,7 @@
 ---
 title: "Levius/est Review: The Sequel Deepens the World and Darkens the Stakes of Mechanical Martial Arts"
 slug: "levius-est"
-coverImage: \"/covers/levius-est.jpg\"
+coverImage: "/covers/levius-est.jpg"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Levius/est"

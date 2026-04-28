@@ -1,7 +1,7 @@
 ---
 title: "Shugo Chara! Review: A Cool Girl's True Self Hatches From an Egg — and Turns Out to Be Three Selves at Once"
 slug: "shugo-chara"
-coverImage: \"/covers/shugo-chara.jpg\"
+coverImage: "/covers/shugo-chara.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Shugo Chara!"

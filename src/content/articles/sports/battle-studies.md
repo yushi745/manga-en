@@ -1,7 +1,7 @@
 ---
 title: "Battle Studies Review: The Baseball Manga That Made Me Respect the People Who Coach"
 slug: "battle-studies"
-coverImage: \"/covers/battle-studies.jpg\"
+coverImage: "/covers/battle-studies.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Battle Studies"

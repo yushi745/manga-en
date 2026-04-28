@@ -1,7 +1,7 @@
 ---
 title: "Flying Witch Review: A Witch Moves to the Country and Mostly Tends Her Garden"
 slug: "flying-witch"
-coverImage: \"/covers/flying-witch.jpg\"
+coverImage: "/covers/flying-witch.jpg"
 genre: "Slice of Life / Fantasy"
 genreSlug: "slice-of-life"
 mangaTitle: "Flying Witch"

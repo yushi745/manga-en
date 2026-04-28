@@ -1,7 +1,7 @@
 ---
 title: "Red River Review: A Japanese High School Girl Is Summoned to Ancient Anatolia and Becomes a War Goddess"
 slug: "red-river"
-coverImage: \"/covers/red-river.jpg\"
+coverImage: "/covers/red-river.jpg"
 genre: "Romance / Historical Fantasy"
 genreSlug: "romance"
 mangaTitle: "Red River (Anatolia Story)"

@@ -1,7 +1,7 @@
 ---
 title: "Sand Land Review: A Demon Prince and a Sheriff Drive Tanks Through a Desert in Search of Water"
 slug: "sand-land"
-coverImage: \"/covers/sand-land.jpg\"
+coverImage: "/covers/sand-land.jpg"
 genre: "Action / Adventure"
 genreSlug: "action"
 mangaTitle: "Sand Land"

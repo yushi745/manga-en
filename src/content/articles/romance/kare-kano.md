@@ -1,7 +1,7 @@
 ---
 title: "Kare Kano Review: Two Perfect Students Fall in Love and Discover They're Both Faking It"
 slug: "kare-kano"
-coverImage: \"/covers/kare-kano.jpg\"
+coverImage: "/covers/kare-kano.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Kare Kano: His and Her Circumstances"

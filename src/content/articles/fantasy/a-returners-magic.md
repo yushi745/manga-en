@@ -1,7 +1,7 @@
 ---
 title: "A Returner's Magic Should Be Special Review: Fixing the Future One Cheat at a Time"
 slug: "a-returners-magic"
-coverImage: \"/covers/a-returners-magic.jpg\"
+coverImage: "/covers/a-returners-magic.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "A Returner's Magic Should Be Special"

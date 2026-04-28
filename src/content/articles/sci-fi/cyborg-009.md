@@ -1,7 +1,7 @@
 ---
 title: "Cyborg 009 Review: The Manga That Asked What It Means to Be Human Before It Was a Cliché"
 slug: "cyborg-009"
-coverImage: \"/covers/cyborg-009.jpg\"
+coverImage: "/covers/cyborg-009.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Cyborg 009"

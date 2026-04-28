@@ -1,7 +1,7 @@
 ---
 title: "World's End Harem Review: A Man Wakes From Cryosleep to a World Where Almost All Men Are Gone"
 slug: "worlds-end-harem"
-coverImage: \"/covers/worlds-end-harem.jpg\"
+coverImage: "/covers/worlds-end-harem.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "World's End Harem"

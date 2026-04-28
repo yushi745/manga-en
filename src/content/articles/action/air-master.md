@@ -1,7 +1,7 @@
 ---
 title: "Air Master Review: The Street Fighting Manga Where Aerial Gymnastics Meets Brawling"
 slug: "air-master"
-coverImage: \"/covers/air-master.jpg\"
+coverImage: "/covers/air-master.jpg"
 genre: "Action / Martial Arts"
 genreSlug: "action"
 mangaTitle: "Air Master"

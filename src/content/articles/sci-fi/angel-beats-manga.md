@@ -1,7 +1,7 @@
 ---
 title: "Angel Beats! Review: Dead Teenagers Fight Against God in an Afterlife High School"
 slug: "angel-beats-manga"
-coverImage: \"/covers/angel-beats-manga.jpg\"
+coverImage: "/covers/angel-beats-manga.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Angel Beats!"

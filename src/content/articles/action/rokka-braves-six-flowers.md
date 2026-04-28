@@ -1,7 +1,7 @@
 ---
 title: "Rokka: Braves of the Six Flowers Review: Six Heroes Are Chosen to Fight Evil — But Seven Showed Up"
 slug: "rokka-braves-six-flowers"
-coverImage: \"/covers/rokka-braves-six-flowers.jpg\"
+coverImage: "/covers/rokka-braves-six-flowers.jpg"
 genre: "Fantasy / Mystery"
 genreSlug: "action"
 mangaTitle: "Rokka: Braves of the Six Flowers"

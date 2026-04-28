@@ -1,7 +1,7 @@
 ---
 title: "Witch Craft Works Review: The Most Popular Girl in School Is Also a Powerful Witch Who Has Been Secretly Protecting One Ordinary Boy"
 slug: "witch-craft-works"
-coverImage: \"/covers/witch-craft-works.jpg\"
+coverImage: "/covers/witch-craft-works.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Witch Craft Works"

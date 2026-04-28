@@ -1,7 +1,7 @@
 ---
 title: "Chibi Maruko-chan Review: The Japanese Family Comedy That Has Run for Forty Years"
 slug: "chibi-maruko-chan"
-coverImage: \"/covers/chibi-maruko-chan.jpg\"
+coverImage: "/covers/chibi-maruko-chan.jpg"
 genre: "Comedy / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Chibi Maruko-chan"

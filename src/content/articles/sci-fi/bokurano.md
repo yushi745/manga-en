@@ -1,7 +1,7 @@
 ---
 title: "Bokurano Review: Fifteen Children Sign a Contract to Pilot a Giant Robot — and Learn What It Will Cost Them"
 slug: "bokurano"
-coverImage: \"/covers/bokurano.jpg\"
+coverImage: "/covers/bokurano.jpg"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Bokurano"

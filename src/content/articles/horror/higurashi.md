@@ -1,7 +1,7 @@
 ---
 title: "Higurashi: When They Cry Review: Every Time the Summer Festival Ends, Everyone Dies"
 slug: "higurashi"
-coverImage: \"/covers/higurashi.jpg\"
+coverImage: "/covers/higurashi.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Higurashi: When They Cry"

@@ -1,7 +1,7 @@
 ---
 title: "Downfall Review"
 slug: "downfall"
-coverImage: \"/covers/downfall.jpg\"
+coverImage: "/covers/downfall.jpg"
 genre: "Drama / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Downfall"

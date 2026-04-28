@@ -1,7 +1,7 @@
 ---
 title: "Breaker: New Waves Review: Growing Up When Your Master Disappears"
 slug: "breaker-new-waves"
-coverImage: \"/covers/breaker-new-waves.jpg\"
+coverImage: "/covers/breaker-new-waves.jpg"
 genre: "Action"
 genreSlug: "action"
 mangaTitle: "Breaker: New Waves"

@@ -1,7 +1,7 @@
 ---
 title: "Kitaro of the Graveyard Review: The Dark Original Kitaro Before He Became a Hero"
 slug: "kitaro-of-the-graveyard"
-coverImage: \"/covers/kitaro-of-the-graveyard.jpg\"
+coverImage: "/covers/kitaro-of-the-graveyard.jpg"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Kitaro of the Graveyard"

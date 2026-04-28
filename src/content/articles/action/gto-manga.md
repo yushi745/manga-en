@@ -1,7 +1,7 @@
 ---
 title: "Great Teacher Onizuka Review: The Delinquent Who Became the Best Teacher in Japan"
 slug: "gto-manga"
-coverImage: \"/covers/gto-manga.jpg\"
+coverImage: "/covers/gto-manga.jpg"
 genre: "Comedy"
 genreSlug: "action"
 mangaTitle: "Great Teacher Onizuka"

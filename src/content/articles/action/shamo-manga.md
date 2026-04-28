@@ -1,7 +1,7 @@
 ---
 title: "Shamo Review: A Killer Learns Karate in Prison and Becomes Something the World Doesn't Know How to Stop"
 slug: "shamo-manga"
-coverImage: \"/covers/shamo-manga.jpg\"
+coverImage: "/covers/shamo-manga.jpg"
 genre: "Action / Psychological"
 genreSlug: "action"
 mangaTitle: "Shamo"

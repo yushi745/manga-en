@@ -1,7 +1,7 @@
 ---
 title: "Not Simple Review: A Man's Entire Life Told in Reverse, and What It Meant to Someone Who Loved Him"
 slug: "not-simple"
-coverImage: \"/covers/not-simple.jpg\"
+coverImage: "/covers/not-simple.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "not simple"

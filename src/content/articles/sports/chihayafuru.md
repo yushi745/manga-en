@@ -1,7 +1,7 @@
 ---
 title: "Chihayafuru Review: A Girl Who Fell in Love With Karuta at Eight Years Old and Has Never Stopped Running Toward It"
 slug: "chihayafuru"
-coverImage: \"/covers/chihayafuru.jpg\"
+coverImage: "/covers/chihayafuru.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Chihayafuru"

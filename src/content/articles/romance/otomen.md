@@ -1,7 +1,7 @@
 ---
 title: "Otomen Review: The Toughest Guy in School Secretly Loves Cute Things — and Loves Them Openly"
 slug: "otomen"
-coverImage: \"/covers/otomen.jpg\"
+coverImage: "/covers/otomen.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Otomen"

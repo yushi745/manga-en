@@ -1,7 +1,7 @@
 ---
 title: "Yu-Gi-Oh! Review: A Bullied Kid Solves an Ancient Puzzle and Shares His Body with a Dark Game-Playing Spirit"
 slug: "yu-gi-oh"
-coverImage: \"/covers/yu-gi-oh.jpg\"
+coverImage: "/covers/yu-gi-oh.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Yu-Gi-Oh!"

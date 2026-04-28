@@ -1,7 +1,7 @@
 ---
 title: "Full Metal Panic! Review: A Teenage Military Specialist Assigned to Protect a High School Girl Has Never Heard of Normal"
 slug: "fullmetal-panic"
-coverImage: \"/covers/fullmetal-panic.jpg\"
+coverImage: "/covers/fullmetal-panic.jpg"
 genre: "Sci-Fi / Comedy"
 genreSlug: "sci-fi"
 mangaTitle: "Full Metal Panic!"

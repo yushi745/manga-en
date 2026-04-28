@@ -1,7 +1,7 @@
 ---
 title: "Kill the Hero Review: The Most Satisfying Revenge Fantasy in Korean Manhwa"
 slug: "kill-the-hero"
-coverImage: \"/covers/kill-the-hero.jpg\"
+coverImage: "/covers/kill-the-hero.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Kill the Hero"

@@ -1,7 +1,7 @@
 ---
 title: "GE: Good Ending Review"
 slug: "ge-good-ending"
-coverImage: \"/covers/ge-good-ending.jpg\"
+coverImage: "/covers/ge-good-ending.jpg"
 genre: "Romance / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "GE: Good Ending"

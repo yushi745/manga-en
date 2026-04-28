@@ -1,7 +1,7 @@
 ---
 title: "Shirokuma Cafe Review: A Polar Bear Runs a Café and Makes Terrible Puns — Perfectly"
 slug: "shirokuma-cafe"
-coverImage: \"/covers/shirokuma-cafe.jpg\"
+coverImage: "/covers/shirokuma-cafe.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Shirokuma Cafe"

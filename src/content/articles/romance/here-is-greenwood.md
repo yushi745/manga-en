@@ -1,7 +1,7 @@
 ---
 title: "Here Is Greenwood Review: The World's Strangest Dormitory, and the Boy Who Just Wanted Somewhere Normal"
 slug: "here-is-greenwood"
-coverImage: \"/covers/here-is-greenwood.jpg\"
+coverImage: "/covers/here-is-greenwood.jpg"
 genre: "Comedy / Romance"
 genreSlug: "romance"
 mangaTitle: "Here Is Greenwood"

@@ -1,7 +1,7 @@
 ---
 title: "The Great Cleric Review: A Salaryman Reincarnates and Decides to Master the Most Overlooked Job Class"
 slug: "the-great-cleric"
-coverImage: \"/covers/the-great-cleric.jpg\"
+coverImage: "/covers/the-great-cleric.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "The Great Cleric"

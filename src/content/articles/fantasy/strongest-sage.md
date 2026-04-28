@@ -1,7 +1,7 @@
 ---
 title: "The Strongest Sage with the Weakest Crest Review: A Legendary Mage Reincarnates to Finally Surpass Himself"
 slug: "strongest-sage"
-coverImage: \"/covers/strongest-sage.jpg\"
+coverImage: "/covers/strongest-sage.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "The Strongest Sage with the Weakest Crest"

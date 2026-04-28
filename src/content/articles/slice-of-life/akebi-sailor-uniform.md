@@ -1,7 +1,7 @@
 ---
 title: "Akebi's Sailor Uniform Review: A Country Girl Gets Her Wish to Wear the Sailor Uniform and Discovers Everything That Comes With It"
 slug: "akebi-sailor-uniform"
-coverImage: \"/covers/akebi-sailor-uniform.jpg\"
+coverImage: "/covers/akebi-sailor-uniform.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Akebi's Sailor Uniform"

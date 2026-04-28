@@ -1,7 +1,7 @@
 ---
 title: "Battle Club Review: High School Wrestling Comedy With Technique, Chaos, and the World's Most Unlikely Team"
 slug: "battle-club"
-coverImage: \"/covers/battle-club.jpg\"
+coverImage: "/covers/battle-club.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Battle Club"

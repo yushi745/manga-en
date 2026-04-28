@@ -1,7 +1,7 @@
 ---
 title: "Peach Boy Riverside Review: A Princess Leaves Home to Explore the World and Encounters Oni Hunters"
 slug: "peach-boy-riverside"
-coverImage: \"/covers/peach-boy-riverside.jpg\"
+coverImage: "/covers/peach-boy-riverside.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Peach Boy Riverside"

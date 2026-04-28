@@ -1,7 +1,7 @@
 ---
 title: "xxxHOLiC: Rei Review: Watanuki Returns to the Wish Shop, and the Past Is Not What He Remembers"
 slug: "xxxholic-rei"
-coverImage: \"/covers/xxxholic-rei.jpg\"
+coverImage: "/covers/xxxholic-rei.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "xxxHOLiC: Rei"

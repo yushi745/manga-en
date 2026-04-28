@@ -1,7 +1,7 @@
 ---
 title: "Arte Review: A Noblewoman in Renaissance Florence Decides to Become a Craftsman"
 slug: "arte"
-coverImage: \"/covers/arte.jpg\"
+coverImage: "/covers/arte.jpg"
 genre: "Slice of Life / Historical"
 genreSlug: "slice-of-life"
 mangaTitle: "Arte"

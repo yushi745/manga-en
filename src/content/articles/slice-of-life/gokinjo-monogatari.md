@@ -1,7 +1,7 @@
 ---
 title: "Gokinjo Monogatari Review: Fashion Students in the Same Apartment Building Fall for Each Other"
 slug: "gokinjo-monogatari"
-coverImage: \"/covers/gokinjo-monogatari.jpg\"
+coverImage: "/covers/gokinjo-monogatari.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Gokinjo Monogatari"

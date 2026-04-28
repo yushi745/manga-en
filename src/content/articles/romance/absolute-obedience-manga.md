@@ -1,7 +1,7 @@
 ---
 title: "Absolute Obedience Review: The Most Dangerous Spy in Europe Has an Unusual Hobby"
 slug: "absolute-obedience-manga"
-coverImage: \"/covers/absolute-obedience-manga.jpg\"
+coverImage: "/covers/absolute-obedience-manga.jpg"
 genre: "Action / Romance"
 genreSlug: "romance"
 mangaTitle: "Absolute Obedience"

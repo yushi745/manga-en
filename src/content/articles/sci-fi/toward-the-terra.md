@@ -1,7 +1,7 @@
 ---
 title: "Toward the Terra Review: A Classic 1970s Sci-Fi About Psychic Humans Seeking a Home Planet They've Never Seen"
 slug: "toward-the-terra"
-coverImage: \"/covers/toward-the-terra.jpg\"
+coverImage: "/covers/toward-the-terra.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Toward the Terra"

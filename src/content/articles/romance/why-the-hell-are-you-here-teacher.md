@@ -1,7 +1,7 @@
 ---
 title: "Why the Hell Are You Here, Teacher!? Review: The Most Absurd Romantic Comedy Premise Executed Perfectly"
 slug: "why-the-hell-are-you-here-teacher"
-coverImage: \"/covers/why-the-hell-are-you-here-teacher.jpg\"
+coverImage: "/covers/why-the-hell-are-you-here-teacher.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Why the Hell Are You Here, Teacher!?"

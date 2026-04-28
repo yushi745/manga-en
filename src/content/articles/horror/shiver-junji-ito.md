@@ -1,7 +1,7 @@
 ---
 title: "Shiver Review: Nine Junji Ito Stories Selected by the Master Himself"
 slug: "shiver-junji-ito"
-coverImage: \"/covers/shiver-junji-ito.jpg\"
+coverImage: "/covers/shiver-junji-ito.jpg"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Shiver: Junji Ito Selected Stories"

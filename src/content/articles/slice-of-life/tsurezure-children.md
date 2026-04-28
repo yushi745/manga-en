@@ -1,7 +1,7 @@
 ---
 title: "Tsurezure Children Review: A Hundred Different Ways to Confess Your Feelings and Mean Every One"
 slug: "tsurezure-children"
-coverImage: \"/covers/tsurezure-children.jpg\"
+coverImage: "/covers/tsurezure-children.jpg"
 genre: "Slice of Life / Romance"
 genreSlug: "slice-of-life"
 mangaTitle: "Tsurezure Children"

@@ -1,7 +1,7 @@
 ---
 title: "Abara Review: Nihei's Vision of Biological Weapons and the Ruins They Leave Told in Near-Wordless Architecture"
 slug: "abara"
-coverImage: \"/covers/abara.jpg\"
+coverImage: "/covers/abara.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Abara"

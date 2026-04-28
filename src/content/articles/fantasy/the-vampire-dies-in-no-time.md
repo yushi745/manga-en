@@ -1,7 +1,7 @@
 ---
 title: "The Vampire Dies in No Time Review: The Comedy Manga About the World's Most Pathetic Vampire"
 slug: "the-vampire-dies-in-no-time"
-coverImage: \"/covers/the-vampire-dies-in-no-time.jpg\"
+coverImage: "/covers/the-vampire-dies-in-no-time.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "The Vampire Dies in No Time"

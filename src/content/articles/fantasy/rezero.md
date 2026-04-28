@@ -1,7 +1,7 @@
 ---
 title: "Re:ZERO Review: The Isekai That Made Me Understand What It Means to Keep Going"
 slug: "rezero"
-coverImage: \"/covers/rezero.jpg\"
+coverImage: "/covers/rezero.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "Re:ZERO - Starting Life in Another World"

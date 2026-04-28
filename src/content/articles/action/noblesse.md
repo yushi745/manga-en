@@ -1,7 +1,7 @@
 ---
 title: "Noblesse Review: An Ancient Noble Awakens in Modern Korea — and Goes to High School"
 slug: "noblesse"
-coverImage: \"/covers/noblesse.jpg\"
+coverImage: "/covers/noblesse.jpg"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Noblesse"

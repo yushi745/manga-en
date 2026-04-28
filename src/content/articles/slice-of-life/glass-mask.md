@@ -1,7 +1,7 @@
 ---
 title: "Glass Mask Review: The Greatest Actress in Manga History"
 slug: "glass-mask"
-coverImage: \"/covers/glass-mask.jpg\"
+coverImage: "/covers/glass-mask.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Glass Mask"

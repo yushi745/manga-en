@@ -1,7 +1,7 @@
 ---
 title: "Rasetsu Review: A Spirit Exorcist with a Curse That Will Kill Her at 20 Searches for True Love to Break It"
 slug: "rasetsu"
-coverImage: \"/covers/rasetsu.jpg\"
+coverImage: "/covers/rasetsu.jpg"
 genre: "Romance / Supernatural"
 genreSlug: "romance"
 mangaTitle: "Rasetsu"

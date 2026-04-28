@@ -1,7 +1,7 @@
 ---
 title: "Masamune-kun's Revenge Review: The Boy Who Was Called Fat Now Has the Perfect Body and a Revenge Plan That Gets Complicated"
 slug: "masamune-kuns-revenge"
-coverImage: \"/covers/masamune-kuns-revenge.jpg\"
+coverImage: "/covers/masamune-kuns-revenge.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Masamune-kun's Revenge"

@@ -1,7 +1,7 @@
 ---
 title: "Mix: Meisei Story Review: Adachi's Return to Baseball Is as Perfect as Ever"
 slug: "mix-meisei-story"
-coverImage: \"/covers/mix-meisei-story.jpg\"
+coverImage: "/covers/mix-meisei-story.jpg"
 genre: "Sports / Romance"
 genreSlug: "sports"
 mangaTitle: "Mix: Meisei Story"

@@ -1,7 +1,7 @@
 ---
 title: "Guilty Crown Review: King Midas Power in a Post-Catastrophe Japan"
 slug: "guilty-crown"
-coverImage: \"/covers/guilty-crown.jpg\"
+coverImage: "/covers/guilty-crown.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Guilty Crown"

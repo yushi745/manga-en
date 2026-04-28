@@ -1,7 +1,7 @@
 ---
 title: "AQUA Review: The Prequel to ARIA That Introduces Neo-Venezia With Fresh Eyes"
 slug: "aqua-manga"
-coverImage: \"/covers/aqua-manga.jpg\"
+coverImage: "/covers/aqua-manga.jpg"
 genre: "Slice of Life / Sci-Fi"
 genreSlug: "slice-of-life"
 mangaTitle: "AQUA"

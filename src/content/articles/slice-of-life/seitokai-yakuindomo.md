@@ -1,7 +1,7 @@
 ---
 title: "Seitokai Yakuindomo Review: A Boy Joins His School's Student Council and Discovers It Is Composed Entirely of Girls With Very Specific Comedic Tendencies"
 slug: "seitokai-yakuindomo"
-coverImage: \"/covers/seitokai-yakuindomo.jpg\"
+coverImage: "/covers/seitokai-yakuindomo.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Seitokai Yakuindomo"

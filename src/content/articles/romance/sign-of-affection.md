@@ -1,7 +1,7 @@
 ---
 title: "A Sign of Affection Review: A Deaf College Student Falls for a Boy Who Learns Sign Language to Talk to Her"
 slug: "sign-of-affection"
-coverImage: \"/covers/sign-of-affection.jpg\"
+coverImage: "/covers/sign-of-affection.jpg"
 genre: "Romance / Slice of Life"
 genreSlug: "romance"
 mangaTitle: "A Sign of Affection"

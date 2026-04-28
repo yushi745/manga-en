@@ -1,7 +1,7 @@
 ---
 title: "Yotsuba&! Review: The Manga That Taught Me How to See the World Again"
 slug: "yotsuba"
-coverImage: \"/covers/yotsuba.jpg\"
+coverImage: "/covers/yotsuba.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Yotsuba&!"

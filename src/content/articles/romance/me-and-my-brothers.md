@@ -1,7 +1,7 @@
 ---
 title: "Me and My Brothers Review: A Girl Discovers She Has Four Older Brothers Who Want to Take Care of Her"
 slug: "me-and-my-brothers"
-coverImage: \"/covers/me-and-my-brothers.jpg\"
+coverImage: "/covers/me-and-my-brothers.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Me and My Brothers"

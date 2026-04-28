@@ -1,7 +1,7 @@
 ---
 title: "Eyeshield 21 Review: The Fastest Man on the Field Didn't Know He Was Running"
 slug: "eyeshield-21"
-coverImage: \"/covers/eyeshield-21.jpg\"
+coverImage: "/covers/eyeshield-21.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Eyeshield 21"

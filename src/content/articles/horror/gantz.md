@@ -1,7 +1,7 @@
 ---
 title: "Gantz Review: You Died. Now You Fight."
 slug: "gantz"
-coverImage: \"/covers/gantz.jpg\"
+coverImage: "/covers/gantz.jpg"
 genre: "Horror / Sci-Fi Action"
 genreSlug: "horror"
 mangaTitle: "Gantz"

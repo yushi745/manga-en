@@ -1,7 +1,7 @@
 ---
 title: "Oreimo Review: The Otaku Sister Manga That Started More Conversations Than Expected"
 slug: "ore-no-imouto"
-coverImage: \"/covers/ore-no-imouto.jpg\"
+coverImage: "/covers/ore-no-imouto.jpg"
 genre: "Comedy / Romance"
 genreSlug: "romance"
 mangaTitle: "Oreimo: My Little Sister Can't Be This Cute"

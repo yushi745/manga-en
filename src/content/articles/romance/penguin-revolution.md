@@ -1,7 +1,7 @@
 ---
 title: "Penguin Revolution Review: A Girl Who Can See Talent Auras Becomes the Manager of a Boy Hiding His Identity as a Female Idol"
 slug: "penguin-revolution"
-coverImage: \"/covers/penguin-revolution.jpg\"
+coverImage: "/covers/penguin-revolution.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Penguin Revolution"

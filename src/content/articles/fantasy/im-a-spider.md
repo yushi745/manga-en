@@ -1,7 +1,7 @@
 ---
 title: "So I'm a Spider, So What? Review: Reincarnated as the Weakest Monster in a Dungeon — and Surviving Anyway"
 slug: "im-a-spider"
-coverImage: \"/covers/im-a-spider.jpg\"
+coverImage: "/covers/im-a-spider.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "So I'm a Spider, So What?"

@@ -1,7 +1,7 @@
 ---
 title: "GA: Geijutsuka Art Design Class Review: Art School Daily Life Where Even the Jokes Teach You Something"
 slug: "ga-geijutsuka"
-coverImage: \"/covers/ga-geijutsuka.jpg\"
+coverImage: "/covers/ga-geijutsuka.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "GA: Geijutsuka Art Design Class"

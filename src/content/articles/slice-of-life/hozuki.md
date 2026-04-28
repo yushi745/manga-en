@@ -1,7 +1,7 @@
 ---
 title: "Hozuki's Coolheadedness Review: Hell Has Never Been This Funny or This Well-Organized"
 slug: "hozuki"
-coverImage: \"/covers/hozuki.jpg\"
+coverImage: "/covers/hozuki.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Hozuki's Coolheadedness"

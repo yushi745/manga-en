@@ -1,7 +1,7 @@
 ---
 title: "Kaichou wa Maid-sama! Review: The Iron Student Council President's Secret Part-Time Job — and the Only Student Who Knows It"
 slug: "kaichou-wa-maid-sama"
-coverImage: \"/covers/kaichou-wa-maid-sama.jpg\"
+coverImage: "/covers/kaichou-wa-maid-sama.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Kaichou wa Maid-sama!"

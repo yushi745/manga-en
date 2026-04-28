@@ -1,7 +1,7 @@
 ---
 title: "My Little Monster Review: A Studious Girl and a Boy Who Doesn't Know How to Be Around People"
 slug: "my-little-monster"
-coverImage: \"/covers/my-little-monster.jpg\"
+coverImage: "/covers/my-little-monster.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "My Little Monster"

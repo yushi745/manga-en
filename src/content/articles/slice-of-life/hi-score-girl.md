@@ -1,7 +1,7 @@
 ---
 title: "Hi Score Girl Review: A Boy Who Only Cares About Arcade Games Meets a Girl Who Beats Him at All of Them"
 slug: "hi-score-girl"
-coverImage: \"/covers/hi-score-girl.jpg\"
+coverImage: "/covers/hi-score-girl.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Hi Score Girl"

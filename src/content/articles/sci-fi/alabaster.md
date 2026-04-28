@@ -1,7 +1,7 @@
 ---
 title: "Alabaster Review: Tezuka's Darkest Villain Manga and What Hatred Can Make a Person"
 slug: "alabaster"
-coverImage: \"/covers/alabaster.jpg\"
+coverImage: "/covers/alabaster.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Alabaster"

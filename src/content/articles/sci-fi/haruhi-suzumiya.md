@@ -1,7 +1,7 @@
 ---
 title: "The Melancholy of Haruhi Suzumiya Review: A Girl Who Can Rewrite Reality Wants Aliens, Time Travelers, and ESPers — and Got Them"
 slug: "haruhi-suzumiya"
-coverImage: \"/covers/haruhi-suzumiya.jpg\"
+coverImage: "/covers/haruhi-suzumiya.jpg"
 genre: "Sci-Fi / Comedy"
 genreSlug: "sci-fi"
 mangaTitle: "The Melancholy of Haruhi Suzumiya"

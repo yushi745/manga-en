@@ -1,7 +1,7 @@
 ---
 title: "Gundam SEED Review: The Gundam Entry That Made Genetic Destiny Its Central Conflict"
 slug: "gundam-seed"
-coverImage: \"/covers/gundam-seed.jpg\"
+coverImage: "/covers/gundam-seed.jpg"
 genre: "Sci-Fi / Mecha"
 genreSlug: "sci-fi"
 mangaTitle: "Mobile Suit Gundam SEED"

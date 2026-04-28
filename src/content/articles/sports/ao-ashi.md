@@ -1,7 +1,7 @@
 ---
 title: "Ao Ashi Review: The Soccer Prodigy Who Sees the Whole Field and the Team That Teaches Him Why That Matters"
 slug: "ao-ashi"
-coverImage: \"/covers/ao-ashi.jpg\"
+coverImage: "/covers/ao-ashi.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Ao Ashi"

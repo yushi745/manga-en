@@ -1,7 +1,7 @@
 ---
 title: "Limit Review: A School Bus Crash Leaves Survivors Stranded, and the Social Hierarchies That Defined Them Begin to Break Down"
 slug: "limit"
-coverImage: \"/covers/limit.jpg\"
+coverImage: "/covers/limit.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Limit"

@@ -1,7 +1,7 @@
 ---
 title: "Strawberry 100% Review: The Shonen Jump Romance That Defined a Generation's Heartbreak"
 slug: "strawberry-100"
-coverImage: \"/covers/strawberry-100.jpg\"
+coverImage: "/covers/strawberry-100.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Strawberry 100%"

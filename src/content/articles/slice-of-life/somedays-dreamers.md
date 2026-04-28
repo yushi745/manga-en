@@ -1,7 +1,7 @@
 ---
 title: "Someday's Dreamers Review: A Girl from the Country Comes to Tokyo to Become a Mage and Discovers What Magic Costs"
 slug: "somedays-dreamers"
-coverImage: \"/covers/somedays-dreamers.jpg\"
+coverImage: "/covers/somedays-dreamers.jpg"
 genre: "Slice of Life / Fantasy"
 genreSlug: "slice-of-life"
 mangaTitle: "Someday's Dreamers"

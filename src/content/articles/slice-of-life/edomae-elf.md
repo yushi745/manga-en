@@ -1,7 +1,7 @@
 ---
 title: "Otaku Elf Review: A Hikikomori Elf Has Been Enshrined in a Tokyo Shrine for 400 Years"
 slug: "edomae-elf"
-coverImage: \"/covers/edomae-elf.jpg\"
+coverImage: "/covers/edomae-elf.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Otaku Elf (Edomae Elf)"

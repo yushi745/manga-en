@@ -1,7 +1,7 @@
 ---
 title: "Secret Review: The Guilt That Kills You Is Worse Than Any Monster"
 slug: "secret-yoshiki"
-coverImage: \"/covers/secret-yoshiki.jpg\"
+coverImage: "/covers/secret-yoshiki.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Secret"

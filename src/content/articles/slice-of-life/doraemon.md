@@ -1,7 +1,7 @@
 ---
 title: "Doraemon Review: A Robotic Cat From the Future Helps a Hopeless Boy With Fantastic Gadgets and Genuine Kindness"
 slug: "doraemon"
-coverImage: \"/covers/doraemon.jpg\"
+coverImage: "/covers/doraemon.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Doraemon"

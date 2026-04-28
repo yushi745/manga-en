@@ -1,7 +1,7 @@
 ---
 title: "Bastard Review: Living With the Monster Who Raised You"
 slug: "bastard-webtoon"
-coverImage: \"/covers/bastard-webtoon.jpg\"
+coverImage: "/covers/bastard-webtoon.jpg"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Bastard"

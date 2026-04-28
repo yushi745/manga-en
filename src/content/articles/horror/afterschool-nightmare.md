@@ -1,7 +1,7 @@
 ---
 title: "Afterschool Nightmare Review: Everyone Has a Secret — and This School Forces Them All to the Surface"
 slug: "afterschool-nightmare"
-coverImage: \"/covers/afterschool-nightmare.jpg\"
+coverImage: "/covers/afterschool-nightmare.jpg"
 genre: "Horror / Romance"
 genreSlug: "horror"
 mangaTitle: "Afterschool Nightmare"

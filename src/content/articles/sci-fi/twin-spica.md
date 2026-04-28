@@ -1,7 +1,7 @@
 ---
 title: "Twin Spica Review: A Girl Who Wants to Become an Astronaut and the Ghost of the Rocket Disaster That Took Her Mother"
 slug: "twin-spica"
-coverImage: \"/covers/twin-spica.jpg\"
+coverImage: "/covers/twin-spica.jpg"
 genre: "Sci-Fi / Slice of Life"
 genreSlug: "sci-fi"
 mangaTitle: "Twin Spica"

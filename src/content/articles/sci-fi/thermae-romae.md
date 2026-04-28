@@ -1,7 +1,7 @@
 ---
 title: "Thermae Romae Review: A Roman Bathhouse Architect Time-Travels to Modern Japan Through Drain Holes"
 slug: "thermae-romae"
-coverImage: \"/covers/thermae-romae.jpg\"
+coverImage: "/covers/thermae-romae.jpg"
 genre: "Sci-Fi / Comedy"
 genreSlug: "sci-fi"
 mangaTitle: "Thermae Romae"

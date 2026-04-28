@@ -1,7 +1,7 @@
 ---
 title: "Saiyuki Reload Review: Four Dangerous Men Drive West in a Jeep to Stop an Ancient Resurrection"
 slug: "saiyuki-reload"
-coverImage: \"/covers/saiyuki-reload.jpg\"
+coverImage: "/covers/saiyuki-reload.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Saiyuki Reload"

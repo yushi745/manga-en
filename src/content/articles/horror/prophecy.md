@@ -1,7 +1,7 @@
 ---
 title: "Prophecy Review: An Anonymous Online Activist Announces Crimes Before Committing Them, and the Police Cannot Stop Him"
 slug: "prophecy"
-coverImage: \"/covers/prophecy.jpg\"
+coverImage: "/covers/prophecy.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Prophecy"

@@ -1,7 +1,7 @@
 ---
 title: "Skate-Leading Stars Review: Figure Skating Synchronized Sport Manga With Unusual Character Work"
 slug: "skate-leading-stars"
-coverImage: \"/covers/skate-leading-stars.jpg\"
+coverImage: "/covers/skate-leading-stars.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Skate-Leading Stars"

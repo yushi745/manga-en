@@ -1,7 +1,7 @@
 ---
 title: "Gannibal Review: The Horror Manga That Made Rural Japan Terrifying"
 slug: "gannibal"
-coverImage: \"/covers/gannibal.jpg\"
+coverImage: "/covers/gannibal.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Gannibal"

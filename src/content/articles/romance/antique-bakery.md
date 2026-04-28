@@ -1,7 +1,7 @@
 ---
 title: "Antique Bakery Review: Four Very Different Men, One Pastry Shop, and Years of Complicated History"
 slug: "antique-bakery"
-coverImage: \"/covers/antique-bakery.jpg\"
+coverImage: "/covers/antique-bakery.jpg"
 genre: "Slice of Life / Romance"
 genreSlug: "romance"
 mangaTitle: "Antique Bakery"

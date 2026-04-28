@@ -1,7 +1,7 @@
 ---
 title: "With a Dog AND a Cat, Every Day Is Fun Review: Four-Panel Chaos From a Beloved Artist"
 slug: "with-a-dog-and-a-cat"
-coverImage: \"/covers/with-a-dog-and-a-cat.jpg\"
+coverImage: "/covers/with-a-dog-and-a-cat.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "With a Dog AND a Cat, Every Day Is Fun"

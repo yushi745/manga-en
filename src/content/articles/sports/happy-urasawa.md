@@ -1,7 +1,7 @@
 ---
 title: "Happy! Review: A Tennis Prodigy Faces a Debt That Will Kill Her Family"
 slug: "happy-urasawa"
-coverImage: \"/covers/happy-urasawa.jpg\"
+coverImage: "/covers/happy-urasawa.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Happy!"

@@ -1,7 +1,7 @@
 ---
 title: "Pretear Review: A New Legend of Snow White Where the Prince Needs the Princess to Save the World"
 slug: "pretear"
-coverImage: \"/covers/pretear.jpg\"
+coverImage: "/covers/pretear.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Pretear: New Legend of Snow White"

@@ -1,7 +1,7 @@
 ---
 title: "Tenjho Tenge Review: The Toughest Fighter at School Discovers His New School Is Even Tougher"
 slug: "tenjho-tenge"
-coverImage: \"/covers/tenjho-tenge.jpg\"
+coverImage: "/covers/tenjho-tenge.jpg"
 genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Tenjho Tenge"

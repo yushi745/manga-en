@@ -1,7 +1,7 @@
 ---
 title: "Umineko: When They Cry Review: A Family Gathering Turns Into Repeated Mass Murder — and One Witch Says She Did It"
 slug: "umineko"
-coverImage: \"/covers/umineko.jpg\"
+coverImage: "/covers/umineko.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Umineko: When They Cry"

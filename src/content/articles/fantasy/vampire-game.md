@@ -1,7 +1,7 @@
 ---
 title: "Vampire Game Review: A Vampire King Reincarnated as a Cat Schemes to Destroy the Descendant of His Killer"
 slug: "vampire-game"
-coverImage: \"/covers/vampire-game.jpg\"
+coverImage: "/covers/vampire-game.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Vampire Game"

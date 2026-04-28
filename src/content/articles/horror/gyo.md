@@ -1,7 +1,7 @@
 ---
 title: "Gyo Review: Dead Fish With Mechanical Legs Are Coming Out of the Ocean and Nobody Knows Why"
 slug: "gyo"
-coverImage: \"/covers/gyo.jpg\"
+coverImage: "/covers/gyo.jpg"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Gyo"

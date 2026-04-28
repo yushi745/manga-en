@@ -1,7 +1,7 @@
 ---
 title: "Rave Master Review: A Boy With a Legendary Sword Sets Out to Destroy All of the World's Dark Stones"
 slug: "rave-master"
-coverImage: \"/covers/rave-master.jpg\"
+coverImage: "/covers/rave-master.jpg"
 genre: "Action / Adventure"
 genreSlug: "action"
 mangaTitle: "Rave Master (Groove Adventure Rave)"

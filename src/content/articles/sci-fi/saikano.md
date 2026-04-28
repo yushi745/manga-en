@@ -1,7 +1,7 @@
 ---
 title: "Saikano Review: She, the Ultimate Weapon — the Girl You Love Is Also a Country's Last Hope for Survival"
 slug: "saikano"
-coverImage: \"/covers/saikano.jpg\"
+coverImage: "/covers/saikano.jpg"
 genre: "Sci-Fi / Romance"
 genreSlug: "sci-fi"
 mangaTitle: "Saikano"

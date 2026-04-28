@@ -1,7 +1,7 @@
 ---
 title: "Interviews With Monster Girls Review: A Biology Teacher Interviews Demihuman Students About Their Daily Lives"
 slug: "interviews-with-monster-girls"
-coverImage: \"/covers/interviews-with-monster-girls.jpg\"
+coverImage: "/covers/interviews-with-monster-girls.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Interviews With Monster Girls"

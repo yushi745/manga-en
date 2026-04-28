@@ -1,7 +1,7 @@
 ---
 title: "Oreimo Review: The Awkward Sibling Reunion Comedy That Refuses to Be Simple"
 slug: "ore-imo"
-coverImage: \"/covers/ore-imo.jpg\"
+coverImage: "/covers/ore-imo.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "My Little Sister Can't Be This Cute"

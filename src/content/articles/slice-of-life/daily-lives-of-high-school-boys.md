@@ -1,7 +1,7 @@
 ---
 title: "Daily Lives of High School Boys Review: The Comedy Manga That Understands Boys"
 slug: "daily-lives-of-high-school-boys"
-coverImage: \"/covers/daily-lives-of-high-school-boys.jpg\"
+coverImage: "/covers/daily-lives-of-high-school-boys.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Daily Lives of High School Boys"

@@ -1,7 +1,7 @@
 ---
 title: "H2 Review: The Baseball Manga That Breaks Your Heart and Mends It Again"
 slug: "h2-manga"
-coverImage: \"/covers/h2-manga.jpg\"
+coverImage: "/covers/h2-manga.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "H2"

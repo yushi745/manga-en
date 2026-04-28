@@ -1,7 +1,7 @@
 ---
 title: "The Most Heretical Last Boss Queen Review: A Villainess Reincarnates and Decides to Become Good Before the Bad Ending Arrives"
 slug: "most-heretical-last-boss-queen"
-coverImage: \"/covers/most-heretical-last-boss-queen.jpg\"
+coverImage: "/covers/most-heretical-last-boss-queen.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "The Most Heretical Last Boss Queen: From Villainess to Savior"

@@ -1,7 +1,7 @@
 ---
 title: "Kono Oto Tomare! Sounds of Life Review: A Koto Club Finds Its Voice and Competes for the National Stage"
 slug: "kono-oto-tomare"
-coverImage: \"/covers/kono-oto-tomare.jpg\"
+coverImage: "/covers/kono-oto-tomare.jpg"
 genre: "Sports / Music"
 genreSlug: "sports"
 mangaTitle: "Kono Oto Tomare! Sounds of Life"

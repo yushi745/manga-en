@@ -1,7 +1,7 @@
 ---
 title: "Jujutsu Kaisen Review: The Manga That Refuses to Let Anyone Be Safe"
 slug: "jujutsu-kaisen"
-coverImage: \"/covers/jujutsu-kaisen.jpg\"
+coverImage: "/covers/jujutsu-kaisen.jpg"
 genre: "Action / Dark Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Jujutsu Kaisen"

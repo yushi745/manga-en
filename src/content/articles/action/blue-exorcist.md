@@ -1,7 +1,7 @@
 ---
 title: "Blue Exorcist Review: The Devil's Son Who Chose to Fight the Devil"
 slug: "blue-exorcist"
-coverImage: \"/covers/blue-exorcist.jpg\"
+coverImage: "/covers/blue-exorcist.jpg"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Blue Exorcist"

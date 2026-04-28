@@ -1,7 +1,7 @@
 ---
 title: "Historie Review: The Most Underrated Historical Manga Being Published Right Now"
 slug: "historie"
-coverImage: \"/covers/historie.jpg\"
+coverImage: "/covers/historie.jpg"
 genre: "Action / Historical"
 genreSlug: "action"
 mangaTitle: "Historie"

@@ -1,7 +1,7 @@
 ---
 title: "Saint Seiya Review: Boys in Legendary Armor Fight to Protect a Goddess and the World"
 slug: "saint-seiya"
-coverImage: \"/covers/saint-seiya.jpg\"
+coverImage: "/covers/saint-seiya.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Saint Seiya"

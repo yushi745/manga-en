@@ -1,7 +1,7 @@
 ---
 title: "Sword Art Online Review: Trapped in a Game Where Death Is Real"
 slug: "sword-art-online"
-coverImage: \"/covers/sword-art-online.jpg\"
+coverImage: "/covers/sword-art-online.jpg"
 genre: "Fantasy / Sci-Fi"
 genreSlug: "fantasy"
 mangaTitle: "Sword Art Online"

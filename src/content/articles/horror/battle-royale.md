@@ -1,7 +1,7 @@
 ---
 title: "Battle Royale Review: A Class of 42 Students Is Dropped on an Island and Told to Kill Each Other"
 slug: "battle-royale"
-coverImage: \"/covers/battle-royale.jpg\"
+coverImage: "/covers/battle-royale.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Battle Royale"

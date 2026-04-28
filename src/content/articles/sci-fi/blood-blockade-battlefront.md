@@ -1,7 +1,7 @@
 ---
 title: "Blood Blockade Battlefront Review: New York After the Dimensional Barrier Broke Is As Chaotic As You'd Expect"
 slug: "blood-blockade-battlefront"
-coverImage: \"/covers/blood-blockade-battlefront.jpg\"
+coverImage: "/covers/blood-blockade-battlefront.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Blood Blockade Battlefront"

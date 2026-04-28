@@ -1,7 +1,7 @@
 ---
 title: "Love Attack Review: The Toughest Delinquent Girl Falls for the Only Boy Who Won't Back Down"
 slug: "love-attack"
-coverImage: \"/covers/love-attack.jpg\"
+coverImage: "/covers/love-attack.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Love Attack"

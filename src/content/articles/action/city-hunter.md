@@ -1,7 +1,7 @@
 ---
 title: "City Hunter Review: The Manga That Taught Me a Mokkori Is More Than Just a Joke"
 slug: "city-hunter"
-coverImage: \"/covers/city-hunter.jpg\"
+coverImage: "/covers/city-hunter.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "City Hunter"

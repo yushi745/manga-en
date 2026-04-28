@@ -1,7 +1,7 @@
 ---
 title: "Burn the Witch Review: The Flip Side of Bleach — Witches Hunt Dragons in a Hidden London"
 slug: "burn-the-witch"
-coverImage: \"/covers/burn-the-witch.jpg\"
+coverImage: "/covers/burn-the-witch.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Burn the Witch"

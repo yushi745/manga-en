@@ -1,7 +1,7 @@
 ---
 title: "QQ Sweeper Review: A Girl Who Loves Cleaning Encounters a Boy Who Sweeps Psychological Dirt from Human Minds"
 slug: "qq-sweeper"
-coverImage: \"/covers/qq-sweeper.jpg\"
+coverImage: "/covers/qq-sweeper.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "QQ Sweeper"

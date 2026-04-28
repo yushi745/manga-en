@@ -1,7 +1,7 @@
 ---
 title: "My Teen Romantic Comedy SNAFU Review: A Cynical Loner Joins the Service Club"
 slug: "oregairu"
-coverImage: \"/covers/oregairu.jpg\"
+coverImage: "/covers/oregairu.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "My Teen Romantic Comedy SNAFU"

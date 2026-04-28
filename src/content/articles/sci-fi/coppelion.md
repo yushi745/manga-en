@@ -1,7 +1,7 @@
 ---
 title: "Coppelion Review: Genetically Engineered Schoolgirls Search a Nuclear-Devastated Tokyo for Survivors"
 slug: "coppelion"
-coverImage: \"/covers/coppelion.jpg\"
+coverImage: "/covers/coppelion.jpg"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Coppelion"

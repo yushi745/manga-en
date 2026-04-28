@@ -1,7 +1,7 @@
 ---
 title: "Saint Tail Review: A Phantom Thief by Night, a Classmate by Day — and Only One Boy Knows Her Secret"
 slug: "saint-tail"
-coverImage: \"/covers/saint-tail.jpg\"
+coverImage: "/covers/saint-tail.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Saint Tail"
