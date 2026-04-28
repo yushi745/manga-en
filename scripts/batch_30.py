@@ -1,0 +1,402 @@
+#!/usr/bin/env python3
+"""Batch 30 — 15 mixed-genre reviews (Tezuka, Mizuki, Hagio classics + sci-fi/horror)."""
+import sys, os
+sys.path.insert(0, os.path.dirname(__file__))
+from batch_generator import run_batch
+
+ARTICLES = [
+    {
+        "slug": "apollos-song",
+        "title": "Apollo's Song Review: Tezuka's Meditation on Love and Death",
+        "genre": "Drama / Sci-Fi", "genreSlug": "sci-fi",
+        "mangaTitle": "Apollo's Song", "mangaTitleJa": "アポロの歌",
+        "mangaAuthor": "Osamu Tezuka",
+        "serialization": "Weekly Shonen King", "publisher": "Shonen Gahosha",
+        "volumes": 2, "status": "Completed",
+        "englishVolumes": 1, "englishStatus": "Complete",
+        "ageRating": "M (Mature)",
+        "contentWarnings": ["sexual-violence", "death", "psychological-trauma"],
+        "description": "A boy cursed to fall in love and lose her in every life he ever lives — Tezuka's most personal meditation on romance.",
+        "tags": ["drama", "tezuka", "psychological", "classic"],
+        "rating": 5,
+        "quickTake": [
+            "One of Tezuka's most ambitious shorter works",
+            "Reincarnation framework lets him explore love across history",
+            "Surprisingly difficult; not a comfortable read"
+        ],
+        "storyOverview": "Shogo is a troubled boy who can't believe in love. After committing an act of violence, he's institutionalized and treated by a doctor whose methods include hallucinatory therapy. He starts experiencing past lives — a soldier, a Greek myth, a lab rat. In every life, he loves and loses the same woman. Tezuka uses each life to ask what love means and what it costs.",
+        "whyILoveIt": "Apollo's Song is Tezuka pushing himself. He's not making a kids' adventure or even a typical drama — he's writing about how love can destroy a person. Some sections are hard to read, especially the violence. But by the final chapter, you understand what he was building, and the emotional weight is real. It's one of his masterpieces.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "adolf",
+        "title": "Adolf Review: Tezuka's Most Mature Historical Epic",
+        "genre": "Historical / Drama", "genreSlug": "slice-of-life",
+        "mangaTitle": "Adolf", "mangaTitleJa": "アドルフに告ぐ",
+        "mangaAuthor": "Osamu Tezuka",
+        "serialization": "Weekly Bunshun", "publisher": "Bungeishunjuu",
+        "volumes": 5, "status": "Completed",
+        "englishVolumes": 5, "englishStatus": "Complete",
+        "ageRating": "M (Mature)",
+        "contentWarnings": ["war-violence", "antisemitism", "death", "torture"],
+        "description": "Three men named Adolf — including Hitler — whose lives entangle across decades from 1936 Tokyo to the Israeli-Palestinian conflict.",
+        "tags": ["historical", "tezuka", "war", "drama"],
+        "rating": 5,
+        "quickTake": [
+            "Tezuka's most acclaimed late-career work",
+            "A serialized adult drama unlike anything else he made",
+            "Painful, honest, and historically grounded"
+        ],
+        "storyOverview": "Three men named Adolf live parallel lives across the 20th century. Adolf Kaufmann is a German-Japanese boy in Kobe who joins the Hitler Youth. Adolf Kamil is his Jewish best friend. Adolf Hitler is the Führer himself, whose secret — that he has Jewish ancestry — could topple the Reich. The story follows them through war, betrayal, and eventually the formation of Israel.",
+        "whyILoveIt": "Adolf is Tezuka writing for adults, fully. There are no kid heroes, no simple morals. The friendship between Kaufmann and Kamil is one of manga's most heartbreaking — and what war does to it is the real horror of the story. Tezuka treats real history with care and emotional honesty. It's essential reading.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "my-brothers-husband",
+        "title": "My Brother's Husband Review: Gengoroh Tagame Goes Family-Friendly",
+        "genre": "Slice-of-Life / LGBTQ", "genreSlug": "slice-of-life",
+        "mangaTitle": "My Brother's Husband", "mangaTitleJa": "弟の夫",
+        "mangaAuthor": "Gengoroh Tagame",
+        "serialization": "Monthly Action", "publisher": "Futabasha",
+        "volumes": 4, "status": "Completed",
+        "englishVolumes": 4, "englishStatus": "Complete",
+        "ageRating": "T (Teen)",
+        "contentWarnings": ["homophobia-discussed", "grief"],
+        "description": "A single father in Japan welcomes his late twin brother's Canadian husband — and confronts everything he didn't know about his own family.",
+        "tags": ["slice-of-life", "lgbtq", "family", "drama"],
+        "rating": 5,
+        "quickTake": [
+            "Tagame's first all-ages work — and a masterpiece",
+            "Quiet, kind, and devastatingly honest about Japanese homophobia",
+            "Mike is one of manga's most lovable characters"
+        ],
+        "storyOverview": "Yaichi is a single father raising his daughter Kana in suburban Tokyo. When Mike Flanagan — the Canadian husband of Yaichi's recently deceased twin brother — comes to stay, Yaichi has to confront prejudices he didn't know he had. Through Kana's open curiosity and Mike's patience, the family learns to grieve, and to accept what they ignored about Yaichi's brother for years.",
+        "whyILoveIt": "My Brother's Husband is one of the most generous manga I've ever read. Tagame, famous for explicit gay erotic art, wrote a quiet family story that meets readers where they are. Yaichi isn't a villain — he's an ordinary man learning. Mike isn't perfect — he's grieving. And Kana sees everyone clearly, the way kids sometimes can. It changed how I think about family.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "town-of-evening-calm",
+        "title": "Town of Evening Calm, Country of Cherry Blossoms Review: Hiroshima, 1955",
+        "genre": "Drama / Historical", "genreSlug": "slice-of-life",
+        "mangaTitle": "Town of Evening Calm, Country of Cherry Blossoms", "mangaTitleJa": "夕凪の街 桜の国",
+        "mangaAuthor": "Fumiyo Kouno",
+        "serialization": "Weekly Manga Action", "publisher": "Futabasha",
+        "volumes": 1, "status": "Completed",
+        "englishVolumes": 1, "englishStatus": "Complete",
+        "ageRating": "T (Teen)",
+        "contentWarnings": ["nuclear-war", "death", "illness", "trauma"],
+        "description": "Two short stories about the lingering aftermath of Hiroshima — quiet, devastating, and award-winning.",
+        "tags": ["drama", "historical", "hiroshima", "war"],
+        "rating": 5,
+        "quickTake": [
+            "Award-winning meditation on Hiroshima's aftermath",
+            "Two stories that connect across generations",
+            "Among the most acclaimed josei works of its era"
+        ],
+        "storyOverview": "The first story follows Minami, a hibakusha (survivor of the atomic bomb) living in Hiroshima ten years after the war. The second jumps decades forward to Nanami, her descendant, whose life is still shadowed by what her family lived through. Kouno doesn't sensationalize. She just shows what carrying that history feels like, generation after generation.",
+        "whyILoveIt": "I read Town of Evening Calm when I was in college and it broke me. Kouno writes silence as well as anyone in manga. Her line work is delicate, almost watercolor-like, which makes the moments of horror more terrible. By the second story, you understand: this is a wound that doesn't close. The manga makes you sit with that.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "nonnonba",
+        "title": "NonNonBa Review: Shigeru Mizuki's Memoir of His Yokai Grandmother",
+        "genre": "Slice-of-Life / Supernatural", "genreSlug": "slice-of-life",
+        "mangaTitle": "NonNonBa", "mangaTitleJa": "のんのんばあとオレ",
+        "mangaAuthor": "Shigeru Mizuki",
+        "serialization": "Weekly Modern", "publisher": "Kodansha",
+        "volumes": 1, "status": "Completed",
+        "englishVolumes": 1, "englishStatus": "Complete",
+        "ageRating": "All Ages",
+        "contentWarnings": ["death", "supernatural"],
+        "description": "Mizuki's autobiographical memoir of his childhood and the old woman who taught him about yokai.",
+        "tags": ["slice-of-life", "yokai", "mizuki", "memoir"],
+        "rating": 5,
+        "quickTake": [
+            "Won the Prize for Best Album at Angouleme",
+            "Mizuki's tender memoir of a grandmother figure",
+            "The origin story for his yokai obsession"
+        ],
+        "storyOverview": "Young Shigeru Mizuki grows up in 1930s Sakaiminato, a fishing town on the Sea of Japan. His grandmother figure NonNonBa (an honorific for an old woman) tells him stories of yokai — Japanese folk spirits — and shows him a world layered between everyday reality and the supernatural. The manga is part memoir, part folklore textbook, part love letter to a woman who shaped his imagination.",
+        "whyILoveIt": "NonNonBa is one of the kindest manga I've read. Mizuki is gentle with his younger self — a poor, dreamy kid who didn't fit in. NonNonBa is his anchor. The yokai aren't really scary; they're explanations for the way the world feels when you're young. Reading it, you understand where Gegege no Kitaro came from.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "showa-history",
+        "title": "Showa: A History of Japan Review: Mizuki's Personal Epic",
+        "genre": "Historical / Slice-of-Life", "genreSlug": "slice-of-life",
+        "mangaTitle": "Showa: A History of Japan", "mangaTitleJa": "コミック昭和史",
+        "mangaAuthor": "Shigeru Mizuki",
+        "serialization": "Various", "publisher": "Kodansha",
+        "volumes": 8, "status": "Completed",
+        "englishVolumes": 4, "englishStatus": "Complete",
+        "ageRating": "T (Teen)",
+        "contentWarnings": ["war-violence", "death", "trauma"],
+        "description": "Mizuki tells the story of 20th century Japan — and of his own life, including his time as a soldier — across four English volumes.",
+        "tags": ["historical", "mizuki", "war", "memoir"],
+        "rating": 5,
+        "quickTake": [
+            "Companion volume to NonNonBa, focused on history",
+            "Eight Japanese volumes, four English releases",
+            "Mizuki's first-person account of WWII as a soldier"
+        ],
+        "storyOverview": "Mizuki tells the story of his life — and Japan's — from his birth in 1922 to the end of the Showa era in 1989. The history is broad: economic crashes, political assassinations, the Pacific War, the postwar boom, and the gradual transformation into modern Japan. Mixed in is his own experience: the army, losing his arm in New Guinea, struggling as a manga artist. The personal and the political weave together.",
+        "whyILoveIt": "Showa is Mizuki at his most generous. He could have written this as a textbook. Instead, he writes himself in — a flawed, hungry, sometimes lazy man living through history. The war chapters are brutal; the postwar chapters are funny. The whole thing is one of the most ambitious autobiographical works in any medium.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "they-were-eleven",
+        "title": "They Were Eleven Review: Moto Hagio's Sci-Fi Masterpiece",
+        "genre": "Sci-Fi / Drama", "genreSlug": "sci-fi",
+        "mangaTitle": "They Were Eleven", "mangaTitleJa": "11人いる！",
+        "mangaAuthor": "Moto Hagio",
+        "serialization": "Bessatsu Shojo Comic", "publisher": "Shogakukan",
+        "volumes": 1, "status": "Completed",
+        "englishVolumes": 1, "englishStatus": "Complete",
+        "ageRating": "T (Teen)",
+        "contentWarnings": ["mild-violence"],
+        "description": "Ten students take a survival exam in deep space. They check the count: there are eleven of them.",
+        "tags": ["sci-fi", "shojo", "hagio", "classic", "mystery"],
+        "rating": 5,
+        "quickTake": [
+            "One of the most influential sci-fi manga ever written",
+            "Compact thriller with deep emotional underpinnings",
+            "Hagio at her most precise"
+        ],
+        "storyOverview": "Ten elite students from across the galaxy gather on an abandoned spaceship for the final test of an interplanetary academy. They have to survive 53 days without outside help. When they board, they count themselves: eleven. One of them isn't supposed to be there. Without knowing who, they have to decide whether to keep going or abandon the test.",
+        "whyILoveIt": "They Were Eleven is so tightly constructed I read it in one sitting. Hagio uses the closed-room mystery to ask real questions: about identity, about trust, about who decides who counts as 'us.' Tada is one of manga's great trans-coded characters. The ending earns its hope in a way that feels rare for sci-fi this serious.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "heart-of-thomas",
+        "title": "Heart of Thomas Review: Moto Hagio Invents Boys' Love",
+        "genre": "Romance / Drama", "genreSlug": "romance",
+        "mangaTitle": "The Heart of Thomas", "mangaTitleJa": "トーマの心臓",
+        "mangaAuthor": "Moto Hagio",
+        "serialization": "Weekly Shojo Comic", "publisher": "Shogakukan",
+        "volumes": 3, "status": "Completed",
+        "englishVolumes": 1, "englishStatus": "Complete",
+        "ageRating": "T (Teen)",
+        "contentWarnings": ["suicide", "psychological-trauma", "religious-content"],
+        "description": "A boys' boarding school in Germany. A boy who killed himself. The letter he left for the boy he loved.",
+        "tags": ["romance", "drama", "shojo", "hagio", "lgbtq", "classic"],
+        "rating": 5,
+        "quickTake": [
+            "One of the foundational texts of BL/yaoi",
+            "Hagio writing about love and faith with terrifying precision",
+            "Hardcover Fantagraphics edition is essential"
+        ],
+        "storyOverview": "At an elite German boys' school in the 1970s, Thomas Werner kills himself and leaves a letter for Juli, a senior who never quite returned his feelings. As the school tries to absorb the loss, a new boy arrives — Erich, who looks exactly like Thomas. The book becomes a slow exorcism of grief, faith, and the kinds of love that schools don't have language for.",
+        "whyILoveIt": "Heart of Thomas is one of the most beautiful manga I've ever read. Hagio writes a school full of boys with such interior depth — every one of them is wrestling with something. The romance isn't really romance in a modern sense. It's about how loving someone can mean forgiving yourself. I keep coming back to it.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "kaze-to-ki-no-uta",
+        "title": "Kaze to Ki no Uta Review: Keiko Takemiya Shatters What Shojo Could Be",
+        "genre": "Romance / Drama", "genreSlug": "romance",
+        "mangaTitle": "Kaze to Ki no Uta", "mangaTitleJa": "風と木の詩",
+        "mangaAuthor": "Keiko Takemiya",
+        "serialization": "Weekly Shojo Comic", "publisher": "Shogakukan",
+        "volumes": 17, "status": "Completed",
+        "englishVolumes": 0, "englishStatus": "Unlicensed",
+        "ageRating": "M (Mature)",
+        "contentWarnings": ["sexual-content", "child-abuse", "trauma", "suicide"],
+        "description": "A 19th-century French boarding school. Two boys. Keiko Takemiya rewrites what shojo manga could be about.",
+        "tags": ["romance", "drama", "shojo", "lgbtq", "classic", "year-24"],
+        "rating": 5,
+        "quickTake": [
+            "Foundational BL manga from the Year 24 group",
+            "Genuinely difficult — themes that few manga touch",
+            "Among the most influential shojo of the 1970s"
+        ],
+        "storyOverview": "At a French boarding school in the late 1800s, Serge Battour — the son of a Roma musician and a French viscount — meets Gilbert Cocteau, a beautiful, traumatized boy whose history of abuse has shaped him in terrible ways. Their relationship unfolds across seventeen volumes, refusing to soften any of its difficult truths. Takemiya wrote about gay love when no major Japanese publisher would publish it — and made it canon.",
+        "whyILoveIt": "Kaze to Ki no Uta is hard to talk about. The themes are heavy: child abuse, addiction, trauma, religious shame. But Takemiya writes them with such compassion. Gilbert isn't a villain or a victim alone — he's a damaged, defiant person trying to feel something. Serge isn't a savior. The manga acknowledges that loving someone broken doesn't fix them. It's a foundational text for a reason.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "a-drunken-dream",
+        "title": "A Drunken Dream Review: Hagio's Greatest Short Stories Collected",
+        "genre": "Drama / Sci-Fi", "genreSlug": "sci-fi",
+        "mangaTitle": "A Drunken Dream and Other Stories", "mangaTitleJa": "酔夢",
+        "mangaAuthor": "Moto Hagio",
+        "serialization": "Various", "publisher": "Shogakukan",
+        "volumes": 1, "status": "Completed",
+        "englishVolumes": 1, "englishStatus": "Complete",
+        "ageRating": "M (Mature)",
+        "contentWarnings": ["psychological-trauma", "death", "abuse"],
+        "description": "A career-spanning collection of Moto Hagio's most acclaimed short stories — sci-fi, fantasy, and quiet horror.",
+        "tags": ["sci-fi", "anthology", "hagio", "drama", "shojo"],
+        "rating": 5,
+        "quickTake": [
+            "Career-spanning Fantagraphics collection",
+            "Includes Iguana Girl, Bianca, Hanshin, more",
+            "Essential reading for serious manga fans"
+        ],
+        "storyOverview": "Ten short stories, all by Moto Hagio, ranging from sci-fi to horror to slice-of-life. 'Hanshin' tells the story of conjoined twin sisters. 'Iguana Girl' reframes maternal love as horror. 'A Drunken Dream' uses time travel to explore queer love across centuries. Each story is dense, lyrical, and complete in itself. Together, they're a portrait of an artist working at the highest level of the form.",
+        "whyILoveIt": "A Drunken Dream is the best entry point into Hagio for English readers. 'Iguana Girl' is one of the most affecting short manga ever made — a meditation on how children internalize their mothers' coldness. 'Hanshin' is twelve pages and devastating. Every story rewards rereading. This is what manga can be when it's treated as literature.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "banana-bread-pudding",
+        "title": "Banana Bread Pudding Review: Yumiko Oshima's Quietest Masterpiece",
+        "genre": "Drama / Slice-of-Life", "genreSlug": "slice-of-life",
+        "mangaTitle": "Banana Bread Pudding", "mangaTitleJa": "バナナブレッドのプディング",
+        "mangaAuthor": "Yumiko Oshima",
+        "serialization": "Monthly Lala", "publisher": "Hakusensha",
+        "volumes": 4, "status": "Completed",
+        "englishVolumes": 0, "englishStatus": "Unlicensed",
+        "ageRating": "T (Teen)",
+        "contentWarnings": ["mental-illness", "psychological-trauma"],
+        "description": "Yumiko Oshima writes a story about gender, marriage, and the people who feel like they don't fit either.",
+        "tags": ["drama", "slice-of-life", "shojo", "year-24", "lgbtq"],
+        "rating": 5,
+        "quickTake": [
+            "From a Year 24 group master",
+            "Quiet, haunting, and unlike anything else in shojo",
+            "About gender identity decades before the conversation"
+        ],
+        "storyOverview": "Mira is a young woman whose older sister has just married. Mira herself is convinced she's been cursed since childhood — that she'll be murdered before she can grow old. To stay safe, she enlists a gay friend, Saeki, to pretend to be her boyfriend. Their fake relationship slowly becomes real in a way neither of them expected.",
+        "whyILoveIt": "Banana Bread Pudding is so quiet. Oshima writes about anxiety in a way that feels lived-in, not dramatic. Mira's fear isn't a device — it's a real psychic state. Saeki isn't a fantasy. They're both navigating identities the world doesn't have words for, and they help each other survive that. It's a manga I think about often.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "cooking-master-boy",
+        "title": "Cooking Master Boy Review: Tournament Cooking Before It Was a Genre",
+        "genre": "Cooking / Action", "genreSlug": "slice-of-life",
+        "mangaTitle": "Cooking Master Boy", "mangaTitleJa": "中華一番！",
+        "mangaAuthor": "Etsushi Ogawa",
+        "serialization": "Weekly Shonen Magazine", "publisher": "Kodansha",
+        "volumes": 17, "status": "Completed",
+        "englishVolumes": 0, "englishStatus": "Unlicensed",
+        "ageRating": "All Ages",
+        "contentWarnings": ["mild-violence"],
+        "description": "A teenage chef in 19th century China takes on the legendary Underground Cooking Society in tournament after tournament.",
+        "tags": ["cooking", "shonen", "tournament", "china"],
+        "rating": 4,
+        "quickTake": [
+            "Pre-Food Wars tournament cooking manga",
+            "Set in Qing Dynasty China — fresh setting",
+            "Mao is one of cooking manga's most likable protagonists"
+        ],
+        "storyOverview": "Mao is a teenage chef whose mother was a legendary cook in 19th century China. After her death, he becomes the youngest 'Super Chef' in the country and travels to challenge the Underground Cooking Society — a criminal organization using cuisine as a tool of control. Each arc features cooking battles full of impossible techniques and heartfelt food memories.",
+        "whyILoveIt": "Cooking Master Boy is the manga that made me love cooking manga as a kid. The food looks impossible and amazing. Mao's earnestness — he cooks because his mother did — gives every battle real weight. It's also nice to see a Chinese-set cooking manga before the genre got dominated by French and Italian techniques.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "mister-ajikko",
+        "title": "Mister Ajikko Review: The Cooking Manga That Started a Genre",
+        "genre": "Cooking / Action", "genreSlug": "slice-of-life",
+        "mangaTitle": "Mister Ajikko", "mangaTitleJa": "ミスター味っ子",
+        "mangaAuthor": "Daisuke Terasawa",
+        "serialization": "Weekly Shonen Magazine", "publisher": "Kodansha",
+        "volumes": 19, "status": "Completed",
+        "englishVolumes": 0, "englishStatus": "Unlicensed",
+        "ageRating": "All Ages",
+        "contentWarnings": ["mild-comedic-violence"],
+        "description": "A schoolboy with a magic palate takes on Japan's culinary establishment — the manga that defined cooking competition tropes.",
+        "tags": ["cooking", "shonen", "comedy", "classic"],
+        "rating": 4,
+        "quickTake": [
+            "Original tournament cooking manga template",
+            "Wildly exaggerated reactions — the source of cooking-manga clichés",
+            "Better as a delivery system for nostalgia than as drama"
+        ],
+        "storyOverview": "Yoichi Ajiyoshi runs a small family restaurant after his father's death and his mother's incapacitation. A famous critic discovers him, and Yoichi finds himself in cooking battles against masters across Japan. Every dish is reviewed in the most over-the-top imagery the genre had seen — the eaters explode, ascend, melt. The drama is silly. The food matters.",
+        "whyILoveIt": "Mister Ajikko is where the over-the-top food reactions you see in every cooking manga today started. Terasawa wasn't being subtle. The exploding chefs, the shafts of divine light when someone tastes something — that's all here. It's a foundational text more than a great manga, but reading it now is like meeting all the tropes for the first time.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "bambino",
+        "title": "Bambino Review: Italian Kitchen Realism in Tokyo",
+        "genre": "Cooking / Drama", "genreSlug": "slice-of-life",
+        "mangaTitle": "Bambino!", "mangaTitleJa": "バンビ〜ノ！",
+        "mangaAuthor": "Tetsuji Sekiya",
+        "serialization": "Big Comic Spirits", "publisher": "Shogakukan",
+        "volumes": 15, "status": "Completed",
+        "englishVolumes": 0, "englishStatus": "Unlicensed",
+        "ageRating": "T (Teen)",
+        "contentWarnings": ["workplace-stress", "language"],
+        "description": "A college student takes a job as an apprentice in Tokyo's most demanding Italian restaurant — and discovers what real kitchen work is.",
+        "tags": ["cooking", "drama", "seinen", "italian"],
+        "rating": 5,
+        "quickTake": [
+            "One of manga's most realistic kitchen dramas",
+            "No magic palates, just hard work and humility",
+            "Italian food culture rendered with care"
+        ],
+        "storyOverview": "Shogo Ban is a college student who thinks he can cook. He gets a part-time job at an Italian restaurant in Tokyo and discovers the gap between confidence and competence. The chef is brutal. The hours are crushing. But Shogo learns — slowly, painfully — what it actually takes to feed strangers well. The manga refuses every cooking-manga trope in favor of realism.",
+        "whyILoveIt": "Bambino is the cooking manga that taught me what cooking actually is. There's no special skill. There's no magic palate. There's just paying attention, being humble, and showing up. Shogo's growth is hard-won. By the time he's allowed to plate a single appetizer, you've earned that moment with him. It's one of the most respectful work manga ever drawn.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "billy-bat",
+        "title": "Billy Bat Review: Naoki Urasawa Goes Conspiracy Mode",
+        "genre": "Sci-Fi / Mystery", "genreSlug": "sci-fi",
+        "mangaTitle": "Billy Bat", "mangaTitleJa": "BILLY BAT",
+        "mangaAuthor": "Naoki Urasawa, Takashi Nagasaki",
+        "serialization": "Morning", "publisher": "Kodansha",
+        "volumes": 20, "status": "Completed",
+        "englishVolumes": 0, "englishStatus": "Unlicensed",
+        "ageRating": "M (Mature)",
+        "contentWarnings": ["violence", "death", "historical-trauma"],
+        "description": "A Japanese-American comic artist discovers his cartoon bat character is older than he is — and may have shaped human history.",
+        "tags": ["sci-fi", "mystery", "urasawa", "thriller", "historical"],
+        "rating": 5,
+        "quickTake": [
+            "Urasawa at his most ambitious",
+            "A 20-volume conspiracy spanning centuries",
+            "Slow burn that pays off with one of his best endings"
+        ],
+        "storyOverview": "Kevin Yamagata is a Japanese-American comic book artist in 1949 who creates Billy Bat, a hard-boiled detective comic. Then he discovers his bat character predates him by centuries — appearing in cave paintings, ancient scrolls, and historical events. As he investigates, the bat's secret pulls him through the JFK assassination, ancient Japan, and a multi-century conspiracy that may shape humanity's future.",
+        "whyILoveIt": "Billy Bat is Urasawa swinging for the fences. He weaves real history with fiction — Lee Harvey Oswald, Walt Disney, Buddha — and somehow makes it cohere. The bat is a perfect MacGuffin: simple, recurring, mysterious. By the end, you've read a thriller, a historical novel, and a meditation on how stories shape reality. Few manga risk this much.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "asadora",
+        "title": "Asadora Review: Naoki Urasawa's Late-Career Disaster Epic",
+        "genre": "Drama / Sci-Fi", "genreSlug": "sci-fi",
+        "mangaTitle": "Asadora!", "mangaTitleJa": "あさドラ!",
+        "mangaAuthor": "Naoki Urasawa",
+        "serialization": "Big Comic Spirits", "publisher": "Shogakukan",
+        "volumes": 9, "status": "Ongoing",
+        "englishVolumes": 9, "englishStatus": "Ongoing",
+        "ageRating": "T (Teen)",
+        "contentWarnings": ["natural-disaster", "death", "violence"],
+        "description": "A typhoon, a mysterious giant footprint, and a girl named Asa — Urasawa's late-career meditation on disaster and resilience.",
+        "tags": ["drama", "sci-fi", "urasawa", "historical"],
+        "rating": 5,
+        "quickTake": [
+            "Urasawa's first new series after Mujirushi",
+            "Spans decades from 1959 typhoon to the present",
+            "Builds slowly but compels completely"
+        ],
+        "storyOverview": "1959, Nagoya. The Isewan Typhoon kills thousands. Asa, a tough fifth-grade girl, is kidnapped by a thief during the chaos — and survives the storm together with him. After the typhoon, they discover something even stranger: an enormous footprint near the disaster zone. The story follows Asa across decades as the mystery grows and her life becomes entangled with one of Japan's secret histories.",
+        "whyILoveIt": "Asadora is what late Urasawa does best: long buildups, ordinary protagonists, slow horror. Asa is one of his most likable characters in years — stubborn, generous, funny. The disaster opening is harrowing. The kaiju-adjacent mystery teases without ever fully revealing. Reading volume by volume is a joy I'd forgotten Urasawa could deliver.",
+        "publishedAt": "2026-05-01"
+    },
+    {
+        "slug": "maus-mizuki",
+        "title": "Onward Towards Our Noble Deaths Review: Mizuki's War Memoir",
+        "genre": "Historical / Drama", "genreSlug": "slice-of-life",
+        "mangaTitle": "Onward Towards Our Noble Deaths", "mangaTitleJa": "総員玉砕せよ！",
+        "mangaAuthor": "Shigeru Mizuki",
+        "serialization": "Various", "publisher": "Kodansha",
+        "volumes": 1, "status": "Completed",
+        "englishVolumes": 1, "englishStatus": "Complete",
+        "ageRating": "M (Mature)",
+        "contentWarnings": ["war-violence", "graphic-violence", "death"],
+        "description": "Mizuki's autobiographical novel about his unit's suicide charge in New Guinea — a brutal, funny, devastating war story.",
+        "tags": ["historical", "war", "mizuki", "memoir"],
+        "rating": 5,
+        "quickTake": [
+            "Mizuki's autobiographical novel about war",
+            "Brutal honesty about the absurdity of military command",
+            "Drawn-Quarterly's translation is exemplary"
+        ],
+        "storyOverview": "In the Pacific theater of World War II, a Japanese unit on New Guinea is ordered to make a banzai charge — a 'noble death' — to preserve the honor of their officers. Mizuki, who served on New Guinea and lost his arm there, draws his comrades with the same care he gave to yokai. The men know the order is meaningless. They go anyway. Most don't come back.",
+        "whyILoveIt": "Onward Towards Our Noble Deaths is one of the most honest war manga I've ever read. Mizuki shows the absurdity, the bureaucracy, the small human kindnesses, the ugliness of officers protecting their own reputations. The men aren't heroes — they're just hungry, scared, and obedient. By the end, you understand exactly why Mizuki spent his life drawing yokai instead.",
+        "publishedAt": "2026-05-01"
+    },
+]
+
+if __name__ == "__main__":
+    run_batch(30, "classics: Tezuka, Mizuki, Hagio + cooking", ARTICLES)
