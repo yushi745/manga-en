@@ -17,7 +17,7 @@ ageRating: "All Ages"
 contentWarnings: ["mild fantasy violence", "slapstick comedy"]
 description: "Nike is an ordinary village boy drafted into the Hero's Journey. Kukuri is the last practitioner of Guruguru magic, a long-abandoned school that does impressive things for completely unpredictable reasons. Together they will save the world, mostly by accident."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2024-11-16"
 tags: ["fantasy", "comedy", "parody", "adventure", "RPG", "all-ages"]
 rating: 5
 hasAffiliate: true

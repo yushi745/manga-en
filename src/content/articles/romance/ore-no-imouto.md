@@ -19,7 +19,7 @@ contentWarnings:
   - "controversial ending"
 description: "A review of Oreimo, the manga adaptation of the light novel about a boy who discovers his seemingly perfect sister is secretly an otaku."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2024-12-14"
 tags:
   - "comedy"
   - "romance"

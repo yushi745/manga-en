@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content", "school setting"]
 description: "A review of First Love Limited, the ensemble romance manga about multiple simultaneous first love stories among middle school and high school students in the same neighborhood."
 amazonASIN: "B005M9EKUG"
-publishedAt: "2026-05-11"
+publishedAt: "2024-09-22"
 tags: ["romance", "comedy", "shounen", "school", "ensemble"]
 rating: 3
 hasAffiliate: true

@@ -18,7 +18,7 @@ contentWarnings:
   - "action"
 description: "A review of Return of the Mount Hua Sect — the Korean murim manhwa about the reincarnation of the greatest Mount Hua Sect swordsman who returns to a sect in decline and must restore its former glory."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-04-05"
 tags:
   - "manhwa"
   - "fantasy"

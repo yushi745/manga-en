@@ -18,7 +18,7 @@ contentWarnings:
 description: "A ballet hopeful falls for a dancer with secrets — a gentle '90s romance from the author of Sand Chronicles."
 coverImage: "/covers/forbidden-dance.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-10-14"
 tags:
   - "romance"
   - "shojo"

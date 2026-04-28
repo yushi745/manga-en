@@ -19,7 +19,7 @@ contentWarnings:
   - "action violence"
 description: "A review of Lookism — the Korean webtoon about an ugly, bullied boy who wakes up able to transfer between his original body and a tall, handsome one, exploring how appearance shapes how the world treats you."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-09-16"
 tags:
   - "manhwa"
   - "action"

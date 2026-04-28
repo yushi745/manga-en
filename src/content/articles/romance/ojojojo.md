@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild suggestive content"]
 description: "A review of Ojojojo, the quiet, sweet romance manga about an ojou-sama with no social skills and the ordinary boy who becomes her first real friend."
 amazonASIN: "B01LTHKF2Y"
-publishedAt: "2026-05-09"
+publishedAt: "2025-03-25"
 tags: ["romance", "slice-of-life", "school", "josei-style", "sweet"]
 rating: 4
 hasAffiliate: true

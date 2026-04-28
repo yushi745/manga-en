@@ -19,7 +19,7 @@ contentWarnings:
 description: "A review of Iron Wok Jan, the cooking competition manga with the most aggressively unpleasant protagonist in the genre — and somehow it works."
 coverImage: "/covers/iron-wok-jan.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-01-26"
 tags:
   - "cooking"
   - "action"

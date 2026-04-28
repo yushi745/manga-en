@@ -19,7 +19,7 @@ contentWarnings:
   - "danger themes"
 description: "A review of Wangan Midnight — the iconic Japanese street racing manga set on the Bayshore Route where urban legends and machines pushed beyond their limits define a particular vision of speed."
 amazonASIN: ""
-publishedAt: "2026-05-06"
+publishedAt: "2025-03-07"
 tags:
   - "racing"
   - "cars"

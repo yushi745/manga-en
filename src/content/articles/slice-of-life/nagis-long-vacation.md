@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["emotional abuse themes", "burnout", "codependency", "mental health themes"]
 description: "Nagisa Ono quits her job, leaves her apartment, cuts off everyone she knows, and starts over completely. This is the story of what she finds when she stops performing the version of herself that everyone wanted."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2025-01-30"
 tags: ["slice-of-life", "romance", "mental-health", "josei", "self-discovery"]
 rating: 5
 hasAffiliate: true

@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Kodocha — the 1990s classic about child actress Sana Kurata, whose turbulent energy is the only thing that can reach her troubled, closed-off classmate."
 coverImage: "/covers/kodocha.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-06"
+publishedAt: "2026-01-06"
 tags:
   - "shoujo"
   - "comedy"

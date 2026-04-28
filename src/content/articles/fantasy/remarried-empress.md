@@ -19,7 +19,7 @@ contentWarnings:
   - "court intrigue"
 description: "A review of Remarried Empress — the Korean historical fantasy manhwa about an empress who is betrayed by her emperor husband, loses her position, and must rebuild her life and power in a foreign empire."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2026-04-13"
 tags:
   - "manhwa"
   - "romance"

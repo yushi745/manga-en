@@ -18,7 +18,7 @@ contentWarnings:
   - "sports themes"
 description: "A review of H2, Mitsuru Adachi's masterful baseball manga about two rival friends, one girl, and the dreams they chase across high school seasons."
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2025-12-21"
 tags:
   - "baseball"
   - "sports"

@@ -21,7 +21,7 @@ contentWarnings:
 description: "A review of March Comes in Like a Lion — Chica Umino's manga about a teenage professional shogi player navigating depression, isolation, and the unexpected warmth of a family who takes him in."
 coverImage: "/covers/3-gatsu-no-lion.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-06"
+publishedAt: "2024-09-30"
 tags:
   - "slice-of-life"
   - "drama"

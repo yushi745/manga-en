@@ -18,7 +18,7 @@ contentWarnings:
 description: "A review of Ruri Dragon — the Shonen Jump slice-of-life about a high school girl who wakes up with dragon horns and has to navigate normal teenage life with increasingly un-normal biology."
 coverImage: "/covers/ruri-dragon.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2024-12-05"
 tags:
   - "slice-of-life"
   - "comedy"

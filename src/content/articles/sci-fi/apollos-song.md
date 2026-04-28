@@ -20,7 +20,7 @@ contentWarnings:
 description: "A boy cursed to fall in love and lose her in every life he ever lives — Tezuka's most personal meditation on romance."
 coverImage: "/covers/apollos-song.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-07-05"
 tags:
   - "drama"
   - "tezuka"

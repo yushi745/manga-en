@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "villain activity", "some dark themes"]
 description: "A review of Vigilante: My Hero Academia Illegals, the spinoff manga about an unlicensed hero operating in the grey areas of the MHA world — more grounded, more emotional, and different in all the right ways."
 amazonASIN: "B08X7RQZKR"
-publishedAt: "2026-05-09"
+publishedAt: "2026-03-17"
 tags: ["action", "superhero", "spinoff", "shounen", "vigilante"]
 rating: 4
 hasAffiliate: true

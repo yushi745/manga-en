@@ -20,7 +20,7 @@ contentWarnings:
   - "arranged marriage themes"
 description: "A review of Hanasakeru Seishōnen, the reverse harem shojo manga with genuine political intrigue about a girl whose billionaire father challenges her to find her own husband."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-10-29"
 tags:
   - "romance"
   - "reverse-harem"

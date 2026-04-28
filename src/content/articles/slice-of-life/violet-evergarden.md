@@ -19,7 +19,7 @@ contentWarnings:
   - "emotional drama"
 description: "A review of Violet Evergarden — the manga adaptation of the Kyoto Animation light novel about a former child soldier who becomes an Auto Memoir Doll, writing letters that help others express what they cannot say."
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2025-08-13"
 tags:
   - "drama"
   - "slice-of-life"

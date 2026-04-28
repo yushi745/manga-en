@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "mild language", "smoking", "drinking", "dark themes"]
 description: "A review of Saiyuki, Kazuya Minekura's dark fantasy retelling of Journey to the West featuring four deeply flawed anti-heroes traveling west to stop a demon resurrection."
 amazonASIN: "B00004YWPF"
-publishedAt: "2026-05-09"
+publishedAt: "2025-09-20"
 tags: ["fantasy", "action", "journey-to-the-west", "seinen", "supernatural"]
 rating: 5
 hasAffiliate: true

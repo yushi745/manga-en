@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["age gap relationship", "mild mature themes"]
 description: "A review of The Man I Love (Otoko no Issho), Io Sakisaka's josei manga about a 26-year-old woman who meets her grandmother's neighbor — a 30-something professor — and slowly falls in love despite every resistance."
 amazonASIN: "B00IUYTQXO"
-publishedAt: "2026-05-10"
+publishedAt: "2025-01-11"
 tags: ["romance", "josei", "adult", "age-gap", "slow-burn"]
 rating: 4
 hasAffiliate: true

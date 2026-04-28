@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Gorgeous Carat, the historical BL manga set in Belle Époque Paris about a noble's son sold to pay debts who ends up partnered with a dashing thief."
 coverImage: "/covers/gorgeous-carat.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-08-12"
 tags:
   - "bl"
   - "romance"

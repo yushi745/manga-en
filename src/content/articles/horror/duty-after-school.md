@@ -20,7 +20,7 @@ contentWarnings:
   - "character death"
 description: "A review of Duty After School — the Korean manhwa about high school students who are drafted to fight in a sudden alien invasion, and how quickly the idea of war becomes real."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2025-02-20"
 tags:
   - "manhwa"
   - "horror"

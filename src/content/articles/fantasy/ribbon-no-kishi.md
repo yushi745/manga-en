@@ -18,7 +18,7 @@ contentWarnings:
 description: "Tezuka's foundational work that gave shojo manga its template — a princess raised as a prince, fighting for her kingdom and her heart."
 coverImage: "/covers/ribbon-no-kishi.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-12-06"
 tags:
   - "fantasy"
   - "shojo"

@@ -18,7 +18,7 @@ contentWarnings:
   - "romance drama"
 description: "A review of Snow Drop, the Korean manhwa about two very different people brought together through the language of flowers."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-08-30"
 tags:
   - "romance"
   - "manhwa"

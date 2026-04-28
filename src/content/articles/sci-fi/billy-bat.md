@@ -20,7 +20,7 @@ contentWarnings:
 description: "A Japanese-American comic artist discovers his cartoon bat character is older than he is — and may have shaped human history."
 coverImage: "/covers/billy-bat.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2024-12-17"
 tags:
   - "sci-fi"
   - "mystery"

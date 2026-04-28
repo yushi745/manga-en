@@ -19,7 +19,7 @@ contentWarnings:
   - "mature themes"
 description: "A review of Real — Takehiko Inoue's adult basketball manga about wheelchair basketball players and the full weight of living with disability, grief, and athletic ambition."
 amazonASIN: ""
-publishedAt: "2026-05-06"
+publishedAt: "2024-09-19"
 tags:
   - "sports"
   - "basketball"

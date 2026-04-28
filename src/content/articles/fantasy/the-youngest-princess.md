@@ -18,7 +18,7 @@ contentWarnings:
   - "reincarnation themes"
 description: "A review of The Youngest Princess — the Korean historical fantasy manhwa about a woman reincarnated as a baby princess who is adored by her entire imperial family and must navigate being too powerful too early."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2024-12-14"
 tags:
   - "manhwa"
   - "fantasy"

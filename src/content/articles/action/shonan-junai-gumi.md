@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Shonan Junai Gumi — the prequel to Great Teacher Onizuka, following Eikichi Onizuka and Ryuji Danma as high school delinquents in Shonan."
 coverImage: "/covers/shonan-junai-gumi.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-09-17"
 tags:
   - "action"
   - "comedy"

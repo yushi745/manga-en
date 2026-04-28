@@ -17,7 +17,7 @@ contentWarnings:
 
 description: "A review of Inazuma Eleven, the manga adaptation of the football RPG game where soccer moves have elemental powers and alien invasions are stopped through the beautiful game."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-04-20"
 tags:
   - "sports"
   - "football"

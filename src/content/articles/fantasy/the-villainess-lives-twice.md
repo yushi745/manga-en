@@ -19,7 +19,7 @@ contentWarnings:
   - "political manipulation"
 description: "A review of The Villainess Lives Twice — the Korean historical fantasy manhwa about an empress who is reincarnated back into her own past as the story's villainess and must navigate court politics knowing how everything ends."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2026-03-17"
 tags:
   - "manhwa"
   - "fantasy"

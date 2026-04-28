@@ -18,7 +18,7 @@ contentWarnings:
   - "animal-violence"
 description: "A semi-fictionalized biography of Mas Oyama, the founder of Kyokushin karate — and one of the most influential martial arts manga ever."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2026-03-22"
 tags:
   - "martial-arts"
   - "biographical"

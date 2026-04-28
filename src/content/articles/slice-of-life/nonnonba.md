@@ -18,7 +18,7 @@ contentWarnings:
   - "supernatural"
 description: "Mizuki's autobiographical memoir of his childhood and the old woman who taught him about yokai."
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2024-08-04"
 tags:
   - "slice-of-life"
   - "yokai"

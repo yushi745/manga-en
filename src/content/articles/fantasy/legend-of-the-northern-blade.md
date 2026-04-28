@@ -19,7 +19,7 @@ contentWarnings:
   - "revenge themes"
 description: "A review of Legend of the Northern Blade — the Korean murim manhwa about the son of the Northern Heavenly Sect's leader who must revive his father's legacy and face the Silent Night that destroyed everything."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-05-09"
 tags:
   - "manhwa"
   - "fantasy"

@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "body horror", "themes of death", "manipulation"]
 description: "A young boy chased by assassins. A young woman who fights with a marionette. An ancient secret about puppets that hunt humans. Karakuri Circus is Kazuhiro Fujita's masterpiece — relentless, emotional, and unlike anything else."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2025-04-17"
 tags: ["action", "dark fantasy", "adventure", "shonen", "circus"]
 rating: 5
 hasAffiliate: true

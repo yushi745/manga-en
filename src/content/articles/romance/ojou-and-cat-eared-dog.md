@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild violence", "yakuza themes", "suggestive romance"]
 description: "Ojou-sama Matsuri inherits her yakuza father's household — including his fiercest enforcer, Issa, who is devoted to her like a loyal dog. What begins as a comedy about their mismatched dynamic becomes a genuinely moving romance."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2025-05-25"
 tags: ["romance", "comedy", "yakuza", "bodyguard", "josei"]
 rating: 4
 hasAffiliate: true

@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Rascal Does Not Dream of Bunny Girl Senpai, the manga about a boy who sees a girl in a bunny suit that no one else can see — and the supernatural syndrome behind it."
 coverImage: "/covers/bunny-girl-senpai.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2026-04-28"
 tags:
   - "romance"
   - "supernatural"

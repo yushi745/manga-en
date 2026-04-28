@@ -17,7 +17,7 @@ ageRating: "All Ages"
 contentWarnings: ["depictions of bullying", "parental exhaustion", "difficult family situations"]
 description: "A review of With the Light: Raising an Autistic Child, Keiko Tobe's landmark manga about a mother raising an autistic son — honest, educational, and deeply human."
 amazonASIN: "B007AEDR5Q"
-publishedAt: "2026-05-09"
+publishedAt: "2024-07-27"
 tags: ["slice-of-life", "drama", "autism", "parenting", "josei", "educational"]
 rating: 5
 hasAffiliate: true

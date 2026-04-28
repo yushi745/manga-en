@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "existential themes", "death and impermanence", "romantic themes"]
 description: "Yuji Sakai discovers he is already dead — a 'Torch,' a fading remnant kept briefly burning by a Flame Haze named Shana who hunts the supernatural beings consuming human existence. He should disappear. He refuses to."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2026-04-06"
 tags: ["fantasy", "action", "supernatural", "romance", "light-novel-adaptation"]
 rating: 4
 hasAffiliate: true

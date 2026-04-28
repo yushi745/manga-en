@@ -19,7 +19,7 @@ contentWarnings:
 description: "Four gorgeous boys must transform a horror-loving recluse into a proper lady — or pay rent for life."
 coverImage: "/covers/yamato-nadeshiko.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-09-17"
 tags:
   - "romance"
   - "comedy"

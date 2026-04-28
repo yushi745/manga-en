@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of I Love Yoo — the Webtoon romance about a young woman who avoids emotional connection and the two brothers who refuse to accept her walls."
 coverImage: "/covers/i-love-yoo.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2024-07-29"
 tags:
   - "webtoon"
   - "romance"

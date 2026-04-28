@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "war themes", "themes of loss of humanity"]
 description: "Nine people from around the world are kidnapped and turned into cyborg weapons against their will. Then they escape and have to decide what to do with the power they were given — fight for the people who made them, or fight for humanity itself."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2024-08-25"
 tags: ["sci-fi", "action", "classic", "superhero", "team", "shounen"]
 rating: 5
 hasAffiliate: true

@@ -18,7 +18,7 @@ contentWarnings:
 description: "A review of ARIA, Kozue Amano's masterpiece slice-of-life manga set on a terraformed Mars where a girl trains to become a gondolier in Neo-Venezia."
 coverImage: "/covers/aria-the-masterpiece.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2025-03-27"
 tags:
   - "slice-of-life"
   - "sci-fi"

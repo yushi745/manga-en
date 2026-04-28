@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Hakuoki — the manga adaptation of the beloved otome game about a young woman who becomes entangled with the historical Shinsengumi and their supernatural secrets."
 coverImage: "/covers/hakuouki.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2024-09-07"
 tags:
   - "romance"
   - "historical"

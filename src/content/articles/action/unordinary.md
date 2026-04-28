@@ -19,7 +19,7 @@ contentWarnings:
   - "school hierarchy themes"
 description: "A review of UnOrdinary — the Webtoon action series about a boy who appears powerless in a world of ability users, hiding an enormous secret that makes him the most dangerous person in his school."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2025-08-13"
 tags:
   - "webtoon"
   - "action"

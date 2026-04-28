@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["grief", "death of a sibling", "complex family dynamics"]
 description: "A review of Spring Has Come, a quiet romance manga about a young woman grieving her sister and the brother-in-law she inherits a relationship with."
 amazonASIN: "B09GKYGPV2"
-publishedAt: "2026-05-10"
+publishedAt: "2025-11-22"
 tags: ["romance", "drama", "grief", "josei", "slice-of-life"]
 rating: 4
 hasAffiliate: true

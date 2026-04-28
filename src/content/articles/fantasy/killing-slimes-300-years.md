@@ -18,7 +18,7 @@ contentWarnings:
 description: "A review of Killing Slimes for 300 Years, the isekai manga about a woman who chooses to live a completely peaceful life — and accidentally becomes the strongest through 300 years of gentle daily living."
 coverImage: "/covers/killing-slimes-300-years.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2026-04-10"
 tags:
   - "isekai"
   - "fantasy"

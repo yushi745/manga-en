@@ -20,7 +20,7 @@ contentWarnings:
   - "mentor loss themes"
 description: "A review of Breaker: New Waves — the sequel to The Breaker, following Shi-woon as he navigates the murim world without his master's protection."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2025-04-22"
 tags:
   - "manhwa"
   - "action"

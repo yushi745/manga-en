@@ -19,7 +19,7 @@ contentWarnings:
   - "anxiety themes"
 description: "A review of the Yuri!!! on ICE manga — the figure skating sports manga accompanying the landmark anime about a Japanese skater and his Russian coach."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-02-17"
 tags:
   - "sports"
   - "figure-skating"

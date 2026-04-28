@@ -19,7 +19,7 @@ contentWarnings:
   - "adult relationships"
 description: "A review of Happy-Go-Lucky Days by Wandering Son's Takako Shimura — a collection of short BL stories about love found in everyday moments."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-08-03"
 tags:
   - "bl"
   - "romance"

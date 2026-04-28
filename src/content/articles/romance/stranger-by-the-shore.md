@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["adult content", "grief themes", "family rejection", "LGBTQ themes"]
 description: "A review of Stranger by the Shore, a BL romance about a writer and a boy who reappears three years after their first meeting, now with feelings that can no longer be ignored."
 amazonASIN: "B098SZQRRC"
-publishedAt: "2026-05-11"
+publishedAt: "2024-12-14"
 tags: ["romance", "bl", "drama", "beach", "josei"]
 rating: 4
 hasAffiliate: true

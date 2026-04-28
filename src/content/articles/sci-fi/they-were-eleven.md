@@ -18,7 +18,7 @@ contentWarnings:
 description: "Ten students take a survival exam in deep space. They check the count: there are eleven of them."
 coverImage: "/covers/they-were-eleven.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-11-25"
 tags:
   - "sci-fi"
   - "shojo"

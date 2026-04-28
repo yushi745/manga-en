@@ -20,7 +20,7 @@ contentWarnings:
   - "torture"
 description: "A virus collapses civilization, and what comes next is messier and more human than any standard apocalypse story."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-02-20"
 tags:
   - "sci-fi"
   - "cyberpunk"

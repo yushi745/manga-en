@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["violence", "crude humor", "adult content", "delinquent themes"]
 description: "A review of GTO: Shonan 14 Days, the sequel to Great Teacher Onizuka where the legend returns to his hometown beach to cause chaos and change lives — as only Onizuka can."
 amazonASIN: "B00DLYEAEM"
-publishedAt: "2026-05-10"
+publishedAt: "2025-12-18"
 tags: ["action", "comedy", "seinen", "delinquent", "gto"]
 rating: 4
 hasAffiliate: true

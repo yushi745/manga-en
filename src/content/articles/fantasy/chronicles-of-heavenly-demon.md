@@ -18,7 +18,7 @@ contentWarnings:
   - "revenge themes"
 description: "A review of Chronicles of the Heavenly Demon — the Korean murim manhwa about a disciple of a heretic sect who is reborn into a new life and rises to become the most powerful martial artist in the world."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-09-28"
 tags:
   - "manhwa"
   - "fantasy"

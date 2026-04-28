@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["medical procedures", "death", "hospital setting", "complex diagnosis themes"]
 description: "A review of Fragile, the medical manga about a pathologist who reads the truth in tissue samples and sees what other doctors miss."
 amazonASIN: "B07MMGQKDF"
-publishedAt: "2026-05-10"
+publishedAt: "2026-03-04"
 tags: ["slice-of-life", "drama", "medical", "seinen", "pathology"]
 rating: 4
 hasAffiliate: true

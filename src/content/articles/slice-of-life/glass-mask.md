@@ -19,7 +19,7 @@ contentWarnings:
   - "emotional drama"
 description: "A review of Glass Mask, the legendary 1970s shoujo manga about a girl of miraculous acting talent competing for the greatest role in theater history."
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2026-03-14"
 tags:
   - "acting"
   - "drama"

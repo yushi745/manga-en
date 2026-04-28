@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["suggestive content", "mild violence", "crude humor"]
 description: "A review of Combatants Will Be Dispatched!, the isekai comedy by KonoSuba's author about an evil organization's agent sent to conquer another world."
 amazonASIN: "B09HHJ3WJD"
-publishedAt: "2026-05-09"
+publishedAt: "2025-01-28"
 tags: ["fantasy", "isekai", "comedy", "action", "shounen"]
 rating: 4
 hasAffiliate: true

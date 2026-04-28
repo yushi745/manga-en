@@ -18,7 +18,7 @@ contentWarnings:
 
 description: "A review of Daily Lives of High School Boys — the short-chapter comedy manga about three high school boys doing absolutely nothing of consequence with perfect comedic timing."
 amazonASIN: ""
-publishedAt: "2026-05-06"
+publishedAt: "2026-03-19"
 tags:
   - "comedy"
   - "school"

@@ -19,7 +19,7 @@ contentWarnings:
   - "sexual-content"
 description: "A working-class girl crashes into the lives of four impossibly rich boys in the manga that became a cultural touchstone across Asia."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-03-04"
 tags:
   - "romance"
   - "shojo"

@@ -18,7 +18,7 @@ contentWarnings:
 description: "A delinquent dies saving a child and becomes a Spirit Detective for the underworld in Togashi's '90s classic."
 coverImage: "/covers/yuyu-hakusho.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-04-21"
 tags:
   - "action"
   - "supernatural"

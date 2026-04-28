@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Baccano! — the manga adaptation of Ryohgo Narita's light novel series about immortal alchemists, Prohibition-era gangsters, and a famous train heist told from thirty simultaneous perspectives."
 coverImage: "/covers/baccano.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2025-12-15"
 tags:
   - "action"
   - "seinen"

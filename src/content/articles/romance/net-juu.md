@@ -20,7 +20,7 @@ contentWarnings:
   - "online romance"
 description: "A review of Recovery of an MMO Junkie — the manga about a 30-year-old woman who quits her job and retreats into an online game, where she forms a close bond with another player who is actually her neighbor in real life."
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2024-08-31"
 tags:
   - "romance"
   - "comedy"

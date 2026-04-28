@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["violence", "suggestive content", "nudity themes", "fan service"]
 description: "A review of Kill la Kill manga, the adaptation of Trigger's anime about a girl searching for her father's killer at a school where power is literally woven into clothing."
 amazonASIN: "B01N4JDHZB"
-publishedAt: "2026-05-09"
+publishedAt: "2025-11-15"
 tags: ["action", "fantasy", "school", "supernatural", "seinen"]
 rating: 4
 hasAffiliate: true

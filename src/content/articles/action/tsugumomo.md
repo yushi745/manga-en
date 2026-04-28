@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Tsugumomo, the supernatural action manga about a boy whose mother's obi sash becomes a spirit who fights alongside him."
 coverImage: "/covers/tsugumomo.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2024-12-24"
 tags:
   - "action"
   - "supernatural"

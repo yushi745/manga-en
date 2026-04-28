@@ -18,7 +18,7 @@ contentWarnings:
   - "language"
 description: "A college student takes a job as an apprentice in Tokyo's most demanding Italian restaurant — and discovers what real kitchen work is."
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2024-08-26"
 tags:
   - "cooking"
   - "drama"

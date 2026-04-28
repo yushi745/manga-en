@@ -19,7 +19,7 @@ contentWarnings:
   - "arranged marriage themes"
 description: "A review of Marriage of Convenience — the Korean historical romance manhwa about a fallen noblewoman who marries a powerful duke through a political arrangement, and what grows from unlikely proximity."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2025-12-02"
 tags:
   - "manhwa"
   - "romance"

@@ -20,7 +20,7 @@ contentWarnings:
   - "mature content"
 description: "A review of Let Dai, the controversial Korean manhwa about the volatile relationship between gentle Jaehee and dangerous gang leader Dai."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2024-11-25"
 tags:
   - "drama"
   - "romance"

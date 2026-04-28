@@ -20,7 +20,7 @@ contentWarnings:
   - "adult content"
 description: "A review of the White Album manga adaptation of the classic visual novel about a college student who cheats on his girlfriend with a rising idol."
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-08-26"
 tags:
   - "romance"
   - "drama"

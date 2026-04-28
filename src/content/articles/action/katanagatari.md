@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Katanagatari — the manga adaptation of NisiOisiN's light novel about a martial artist who uses no weapons and a strategist girl who sends him to collect twelve legendary swords."
 coverImage: "/covers/katanagatari.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2026-03-05"
 tags:
   - "action"
   - "historical-fantasy"

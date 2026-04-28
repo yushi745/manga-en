@@ -22,7 +22,7 @@ contentWarnings:
   - "queer themes"
 description: "A review of Dear Brother (Oniisama e...) — Riyoko Ikeda's intense 1975 school drama about a girl who enters an elite girls' school and becomes caught up in the tragic lives of its most legendary students."
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2024-07-22"
 tags:
   - "classic"
   - "shoujo"

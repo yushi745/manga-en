@@ -19,7 +19,7 @@ contentWarnings:
 description: "Go Nagai's foundational mecha epic about a teenage pilot and the giant robot that defined a genre."
 coverImage: "/covers/mazinger-z.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-10-21"
 tags:
   - "mecha"
   - "classic"

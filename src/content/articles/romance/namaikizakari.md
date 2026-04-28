@@ -18,7 +18,7 @@ contentWarnings:
   - "sports themes"
 description: "A review of Namaikizakari — the shoujo sports romance about a female manager of a basketball team whose star player openly declares he will make her fall in love with him."
 amazonASIN: ""
-publishedAt: "2026-05-06"
+publishedAt: "2024-11-12"
 tags:
   - "romance"
   - "shoujo"

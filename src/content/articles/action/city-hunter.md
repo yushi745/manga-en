@@ -17,7 +17,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["violence", "sexual humor", "adult themes"]
 description: "A sweeper for hire in Shinjuku cleans up the city's worst criminals while hiding a heart softer than anyone suspects — City Hunter is the definitive action-romance manga."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2026-03-03"
 tags: ["action", "comedy", "romance", "classic", "shonen"]
 rating: 5
 hasAffiliate: true

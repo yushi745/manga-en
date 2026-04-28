@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of His and Her Circumstances (Kare Kano) — the 1990s shoujo manga about two high school students whose obsessive need for recognition brings them together and forces them to confront who they really are."
 coverImage: "/covers/his-and-her-circumstances.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-06"
+publishedAt: "2024-08-17"
 tags:
   - "romance"
   - "shoujo"

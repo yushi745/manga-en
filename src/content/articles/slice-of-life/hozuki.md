@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["depictions of hell/punishment (comedic)", "mild violence", "Japanese mythology and folklore"]
 description: "Hozuki is the chief aide to King Enma of Hell — methodical, brutally efficient, and at peace with his work in a way that is deeply unsettling to everyone around him. This is his workplace comedy."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2026-01-20"
 tags: ["comedy", "slice-of-life", "mythology", "workplace", "seinen"]
 rating: 5
 hasAffiliate: true

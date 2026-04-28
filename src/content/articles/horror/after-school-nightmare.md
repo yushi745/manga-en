@@ -21,7 +21,7 @@ contentWarnings:
 description: "A student who is half boy and half girl must confront classmates' worst selves in shared dreams every week."
 coverImage: "/covers/after-school-nightmare.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2026-02-12"
 tags:
   - "horror"
   - "romance"

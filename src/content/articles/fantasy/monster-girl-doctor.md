@@ -19,7 +19,7 @@ contentWarnings:
   - "fanservice"
 description: "A review of Monster Girl Doctor, the fantasy manga about a human doctor and his lamia assistant who treat monster patients in a world where species coexist."
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-11-29"
 tags:
   - "fantasy"
   - "slice-of-life"

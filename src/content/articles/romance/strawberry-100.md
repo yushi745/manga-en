@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["suggestive content", "romantic competition", "mild fan service"]
 description: "A review of Strawberry 100%, the Weekly Shonen Jump romance about a boy who sees a mysterious girl with strawberry panties on the rooftop — and spends 19 volumes trying to figure out who she was."
 amazonASIN: "B00AAHJ1CE"
-publishedAt: "2026-05-09"
+publishedAt: "2025-10-18"
 tags: ["romance", "school", "shounen", "harem", "classic"]
 rating: 4
 hasAffiliate: true

@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["historical violence", "adult content", "war themes", "complex political themes"]
 description: "A review of Souten Kouro, the manga about the Three Kingdoms era that makes Cao Cao the protagonist — the villain of most versions — and argues he was the era's greatest mind."
 amazonASIN: "B001R2AEVS"
-publishedAt: "2026-05-11"
+publishedAt: "2025-08-20"
 tags: ["action", "historical", "seinen", "three-kingdoms", "political"]
 rating: 4
 hasAffiliate: true

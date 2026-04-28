@@ -18,7 +18,7 @@ contentWarnings:
   - "cartoon violence"
 description: "A review of The Dungeon of Black Company — the isekai comedy where a lazy schemer gets transported to a fantasy world and immediately forced into brutal dungeon labor."
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2026-02-18"
 tags:
   - "isekai"
   - "fantasy"

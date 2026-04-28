@@ -19,7 +19,7 @@ contentWarnings:
 description: "A review of Ran and the Gray World, the magical fantasy manga about a little girl who can transform into an adult using her late mother's shoes — and the world she discovers."
 coverImage: "/covers/ran-and-gray-world.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2026-04-26"
 tags:
   - "fantasy"
   - "magical"

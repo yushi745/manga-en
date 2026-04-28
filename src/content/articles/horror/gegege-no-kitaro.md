@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["horror themes", "yokai violence", "existential themes", "some wartime content"]
 description: "A review of GeGeGe no Kitaro, Shigeru Mizuki's foundational yokai manga that defined how modern Japan thinks about supernatural creatures."
 amazonASIN: "B07GXPYK1H"
-publishedAt: "2026-05-11"
+publishedAt: "2024-11-20"
 tags: ["horror", "fantasy", "classic", "yokai", "mizuki"]
 rating: 5
 hasAffiliate: true

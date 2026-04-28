@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild violence", "slapstick"]
 description: "A review of The Vampire Dies in No Time, the hilarious comedy manga about a legendary vampire hunter and a vampire who turns to ash from literally anything."
 amazonASIN: "B094BZKJPJ"
-publishedAt: "2026-05-09"
+publishedAt: "2025-05-12"
 tags: ["fantasy", "comedy", "vampire", "supernatural", "shounen"]
 rating: 4
 hasAffiliate: true

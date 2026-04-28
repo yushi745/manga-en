@@ -21,7 +21,7 @@ contentWarnings:
 description: "A review of Blue Morning, the BL manga set in Meiji-era Japan about a viscount and his devoted butler navigating class, duty, and forbidden love."
 coverImage: "/covers/blue-morning.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-08-23"
 tags:
   - "bl"
   - "romance"

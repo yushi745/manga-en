@@ -18,7 +18,7 @@ contentWarnings:
   - "implied-sexual-content"
 description: "A 14-year-old psychic girl runs from a global conspiracy in one of the first manga to break out in the West."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-06-20"
 tags:
   - "sci-fi"
   - "psychic"

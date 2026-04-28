@@ -20,7 +20,7 @@ contentWarnings:
   - "psychological horror"
 description: "A review of Bastard — the Korean thriller manhwa about a boy who knows his father is a serial killer and must decide what to do about it."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2025-01-08"
 tags:
   - "manhwa"
   - "thriller"

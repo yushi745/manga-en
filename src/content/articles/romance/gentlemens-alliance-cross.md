@@ -19,7 +19,7 @@ contentWarnings:
 description: "A girl is sold to a powerful family and tangled in school politics, broken siblings, and impossible love triangles."
 coverImage: "/covers/gentlemens-alliance-cross.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-02-08"
 tags:
   - "romance"
   - "drama"

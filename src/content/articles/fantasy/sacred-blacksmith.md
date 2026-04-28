@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "fantasy battle scenes", "themes of sacrifice and corruption"]
 description: "Cecily Campbell inherits her father's knighthood but can't maintain her heirloom sword. Luke Ainsworth is a blacksmith who forges sacred swords with power beyond normal steel. Their partnership begins with a broken blade and ends with something much larger."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2025-01-08"
 tags: ["fantasy", "action", "adventure", "romance", "knights"]
 rating: 4
 hasAffiliate: true

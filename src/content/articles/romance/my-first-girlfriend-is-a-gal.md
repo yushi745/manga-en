@@ -17,7 +17,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["sexual content", "suggestive situations", "crude humor"]
 description: "A review of My First Girlfriend Is a Gal, the manga about a nerdy high school boy who confesses to a gal and somehow gets a girlfriend — funnier and sweeter than you expect."
 amazonASIN: "B07D7DHP3S"
-publishedAt: "2026-05-09"
+publishedAt: "2024-11-14"
 tags: ["romance", "comedy", "gal", "school", "seinen"]
 rating: 3
 hasAffiliate: true

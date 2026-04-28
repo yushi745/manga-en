@@ -19,7 +19,7 @@ contentWarnings:
   - "brutal fight scenes"
 description: "A review of Weak Hero — the Korean manhwa about a slender, bookish transfer student who defeats much larger bullies through precise, calculated violence and zero tolerance for injustice."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-03-23"
 tags:
   - "manhwa"
   - "action"

@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "murder", "themes of trauma and family dysfunction"]
 description: "Kuroe Totono isn't a detective. He's a college student who talks too much. But somehow, wherever he goes, murders follow — and his ability to see the truth that everyone else misses makes him impossible to ignore."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2026-01-12"
 tags: ["mystery", "drama", "philosophical", "josei"]
 rating: 5
 hasAffiliate: true

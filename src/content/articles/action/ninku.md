@@ -18,7 +18,7 @@ contentWarnings:
 description: "Goofy-looking ninja warriors fight a corrupt empire in a manga that mixed comedy and martial arts before Naruto did."
 coverImage: "/covers/ninku.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-01-13"
 tags:
   - "action"
   - "martial-arts"

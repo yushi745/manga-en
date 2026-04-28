@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of The World Exists for Me, the spiritual successor to Revolutionary Girl Utena by the original creative team."
 coverImage: "/covers/world-exists-for-me.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2024-10-15"
 tags:
   - "fantasy"
   - "romance"

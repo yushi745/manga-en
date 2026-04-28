@@ -19,7 +19,7 @@ contentWarnings:
   - "death"
 description: "A review of Second Life Ranker — the Korean fantasy manhwa about a man who receives his murdered twin brother's watch and must conquer the same deadly tower his brother died in."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-10-07"
 tags:
   - "manhwa"
   - "fantasy"

@@ -18,7 +18,7 @@ contentWarnings:
 description: "Before Sailor Moon was a phenomenon, Naoko Takeuchi made Sailor V — the prototype that became part of the legend."
 coverImage: "/covers/sailor-v.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2024-08-09"
 tags:
   - "magical-girl"
   - "shojo"

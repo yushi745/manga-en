@@ -17,7 +17,7 @@ contentWarnings:
 
 description: "A review of Clean Freak! Aoyama-kun, the football comedy manga about a nationally talented striker who is also an extreme germaphobe."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2024-10-02"
 tags:
   - "sports"
   - "football"

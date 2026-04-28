@@ -17,7 +17,7 @@ ageRating: "All Ages"
 contentWarnings: []
 description: "A review of With a Dog AND a Cat, Every Day Is Fun — the four-panel manga about an artist living with a gentle, perfect dog and a psychopathic cat who wants to destroy everything."
 amazonASIN: "B08P4C7WNW"
-publishedAt: "2026-05-10"
+publishedAt: "2024-08-03"
 tags: ["slice-of-life", "comedy", "pets", "four-panel", "all-ages"]
 rating: 4
 hasAffiliate: true

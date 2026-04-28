@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "folklore themes", "some dark fairy tale elements"]
 description: "A review of The Ancient Magus' Bride: Side Stories — anthology volumes by multiple artists expanding the world of Elias Ainsworth and Chise Hatori."
 amazonASIN: "B07H3JTZM2"
-publishedAt: "2026-05-11"
+publishedAt: "2025-03-03"
 tags: ["fantasy", "anthology", "seinen", "folklore", "magic"]
 rating: 4
 hasAffiliate: true

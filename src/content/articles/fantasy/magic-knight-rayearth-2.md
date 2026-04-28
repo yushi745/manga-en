@@ -19,7 +19,7 @@ contentWarnings:
 description: "The sequel that asks: what if the magical girls came back, and everything was their fault?"
 coverImage: "/covers/magic-knight-rayearth-2.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-10-15"
 tags:
   - "fantasy"
   - "magical-girl"

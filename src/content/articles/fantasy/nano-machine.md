@@ -18,7 +18,7 @@ contentWarnings:
   - "action"
 description: "A review of Nano Machine — the Korean manhwa about a bullied murim student who receives a nano machine injection from a future descendant and becomes an unstoppable martial arts prodigy."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-12-10"
 tags:
   - "manhwa"
   - "fantasy"

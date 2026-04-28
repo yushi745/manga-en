@@ -21,7 +21,7 @@ contentWarnings:
 description: "A review of Given, the BL music manga about a guitarist who falls for a beautiful boy with an extraordinary voice and a devastating past."
 coverImage: "/covers/given-manga.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-09-08"
 tags:
   - "bl"
   - "romance"

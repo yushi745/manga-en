@@ -19,7 +19,7 @@ contentWarnings:
   - "marriage themes"
 description: "A review of Heartbroken Chocolatier, the josei manga about a pastry chef who channels his unrequited love into making the finest chocolates imaginable."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-02-16"
 tags:
   - "josei"
   - "romance"

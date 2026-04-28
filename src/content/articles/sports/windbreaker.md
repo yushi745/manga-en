@@ -19,7 +19,7 @@ contentWarnings:
   - "sports competition"
 description: "A review of Windbreaker — the Korean cycling manhwa about a delinquent-looking teen who finds purpose and belonging through competitive cycling."
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2025-01-12"
 tags:
   - "cycling"
   - "sports"

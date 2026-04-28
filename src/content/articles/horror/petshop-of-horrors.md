@@ -20,7 +20,7 @@ contentWarnings:
 description: "Count D sells exotic pets in Chinatown — each one perfect, each one with a contract that the buyer always breaks."
 coverImage: "/covers/petshop-of-horrors.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-11-14"
 tags:
   - "horror"
   - "supernatural"

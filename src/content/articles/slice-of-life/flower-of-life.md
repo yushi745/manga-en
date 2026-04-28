@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["illness themes", "mild adult humor"]
 description: "A review of Flower of Life, Fumi Yoshinaga's warm and funny slice-of-life manga about a boy who returns to high school after illness and the class he falls into."
 amazonASIN: "B00AV7DKZU"
-publishedAt: "2026-05-10"
+publishedAt: "2025-04-09"
 tags: ["slice-of-life", "comedy", "josei", "school", "friendship"]
 rating: 4
 hasAffiliate: true

@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["adult content", "arranged marriage", "office power dynamics"]
 description: "A review of Happy Marriage!? — the manga about a young woman forced into an arranged marriage with her company's CEO, and the unexpected feelings that develop."
 amazonASIN: "B00AUIJUJK"
-publishedAt: "2026-05-11"
+publishedAt: "2025-08-30"
 tags: ["romance", "josei", "office", "arranged-marriage", "drama"]
 rating: 3
 hasAffiliate: true

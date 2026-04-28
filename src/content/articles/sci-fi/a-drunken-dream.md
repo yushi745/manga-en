@@ -19,7 +19,7 @@ contentWarnings:
   - "abuse"
 description: "A career-spanning collection of Moto Hagio's most acclaimed short stories — sci-fi, fantasy, and quiet horror."
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2026-01-22"
 tags:
   - "sci-fi"
   - "anthology"

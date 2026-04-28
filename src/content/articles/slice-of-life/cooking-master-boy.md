@@ -17,7 +17,7 @@ contentWarnings:
   - "mild-violence"
 description: "A teenage chef in 19th century China takes on the legendary Underground Cooking Society in tournament after tournament."
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-06-17"
 tags:
   - "cooking"
   - "shonen"

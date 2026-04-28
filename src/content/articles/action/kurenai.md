@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "child in danger", "complex family dynamics", "action"]
 description: "A review of Kurenai, the manga about Shinkuro Kurenai — a 16-year-old dispute mediator — who is tasked with hiding and protecting a young girl from a powerful family that wants her back."
 amazonASIN: "B002HBE53W"
-publishedAt: "2026-05-10"
+publishedAt: "2025-06-28"
 tags: ["action", "drama", "seinen", "bodyguard", "family"]
 rating: 4
 hasAffiliate: true

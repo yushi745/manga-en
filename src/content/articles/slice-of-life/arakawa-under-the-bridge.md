@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild adult themes", "absurdist content"]
 description: "A review of Arakawa Under the Bridge, the absurdist comedy about an elite young man who falls in love with a woman who lives under the Arakawa River bridge and believes she is from Venus."
 amazonASIN: "B007AEDRMO"
-publishedAt: "2026-05-10"
+publishedAt: "2025-10-27"
 tags: ["slice-of-life", "comedy", "absurdist", "romance", "seinen"]
 rating: 5
 hasAffiliate: true

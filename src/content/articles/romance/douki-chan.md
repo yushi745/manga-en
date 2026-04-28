@@ -17,7 +17,7 @@ contentWarnings:
   - "mild adult romance themes"
 description: "A review of Douki-chan, the short office romance manga about a competent woman who has liked her oblivious coworker for years while younger rivals close in."
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-04-05"
 tags:
   - "romance"
   - "office"

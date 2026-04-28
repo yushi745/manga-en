@@ -17,7 +17,7 @@ contentWarnings:
   - "mild-romance"
 description: "A schoolgirl uses computer software to become a virtual idol — predicting Vocaloid by a decade."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-08-13"
 tags:
   - "romance"
   - "shojo"

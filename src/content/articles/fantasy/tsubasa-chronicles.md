@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Tsubasa: RESERVoir CHRoNiCLE — CLAMP's dimension-hopping crossover fantasy about two boys traveling through parallel worlds to recover a princess's scattered memories."
 coverImage: "/covers/tsubasa-chronicles.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2024-12-08"
 tags:
   - "fantasy"
   - "shounen"

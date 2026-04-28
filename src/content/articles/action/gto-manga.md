@@ -21,7 +21,7 @@ contentWarnings:
   - "adult themes"
 description: "A review of Great Teacher Onizuka (GTO) — the 1997 manga about a former delinquent biker who becomes a high school teacher and actually helps students no one else could reach."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-07-10"
 tags:
   - "comedy"
   - "school"

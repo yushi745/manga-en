@@ -21,7 +21,7 @@ contentWarnings:
 description: "A review of Crazy Love Story, the dark Korean manhwa about intense, dangerous first love between a high school girl and a dangerous older man."
 coverImage: "/covers/crazy-love-story.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-08-19"
 tags:
   - "romance"
   - "manhwa"

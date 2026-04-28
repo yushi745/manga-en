@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "giant insects", "horror elements"]
 description: "A review of Mushibugyo, the Edo-period action manga about a group of elite bug hunters defending Edo from giant insects — bigger heart than premise suggests."
 amazonASIN: "B00INN25MU"
-publishedAt: "2026-05-09"
+publishedAt: "2024-08-11"
 tags: ["action", "historical", "shounen", "edo-period", "supernatural"]
 rating: 4
 hasAffiliate: true

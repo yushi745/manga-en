@@ -19,7 +19,7 @@ contentWarnings:
 description: "An afro-haired warrior fights with his nose hairs in the most committed nonsense manga ever serialized in Jump."
 coverImage: "/covers/bobobo-bo-bo-bobo.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-11-09"
 tags:
   - "comedy"
   - "action"

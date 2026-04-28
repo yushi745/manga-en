@@ -20,7 +20,7 @@ contentWarnings:
   - "revenge"
 description: "A review of Kill the Hero — the Korean manhwa about a hunter who is betrayed and killed by the hero he trusted, goes back in time, and dedicates his second life to destroying that hero."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2025-03-20"
 tags:
   - "manhwa"
   - "fantasy"

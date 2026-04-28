@@ -18,7 +18,7 @@ contentWarnings:
   - "emotional drama"
 description: "A review of Love, Chunibyo & Other Delusions — the manga about a high school boy who buried his embarrassing middle school fantasy persona and the girl who refuses to let go of hers."
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2024-09-28"
 tags:
   - "romance"
   - "comedy"

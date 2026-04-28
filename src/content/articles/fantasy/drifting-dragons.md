@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild violence", "hunting/butchering animals"]
 description: "A review of Drifting Dragons, the fantasy manga about airship-riding dragon hunters who love eating what they catch — think Delicious in Dungeon with an open sky."
 amazonASIN: "B08BVZPD5K"
-publishedAt: "2026-05-09"
+publishedAt: "2026-02-22"
 tags: ["fantasy", "adventure", "food", "seinen", "slice-of-life"]
 rating: 4
 hasAffiliate: true

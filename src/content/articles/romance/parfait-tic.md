@@ -19,7 +19,7 @@ contentWarnings:
   - "mild drama"
 description: "A review of Parfait Tic!, the long-running shojo manga about a cheerful girl caught between two very different half-brothers."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2024-10-25"
 tags:
   - "romance"
   - "shojo"

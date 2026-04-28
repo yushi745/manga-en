@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of The Kindaichi Case Files R (Returns), the sequel series following Hajime Kindaichi as a 37-year-old adult detective."
 coverImage: "/covers/kindaichi-37.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2024-12-08"
 tags:
   - "mystery"
   - "detective"

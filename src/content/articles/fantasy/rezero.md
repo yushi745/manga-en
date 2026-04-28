@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "psychological horror", "suicide themes", "torture"]
 description: "A review of Re:ZERO - Starting Life in Another World, the isekai manga about a boy who dies and relives his worst moments to save the people he loves."
 amazonASIN: "B07BXQKJ4Z"
-publishedAt: "2026-05-09"
+publishedAt: "2025-04-15"
 tags: ["isekai", "fantasy", "psychological", "time-loop", "shonen"]
 rating: 5
 hasAffiliate: true

@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mecha violence", "action", "intense themes in later volumes"]
 description: "A review of Getter Robo by Ken Ishikawa — the original combining mecha manga that gave the genre its most mythologically intense ideas about evolution, consciousness, and what machines become."
 amazonASIN: "B01BQXS3WQ"
-publishedAt: "2026-05-11"
+publishedAt: "2025-07-22"
 tags: ["sci-fi", "mecha", "action", "classic", "combining-robot"]
 rating: 4
 hasAffiliate: true

@@ -19,7 +19,7 @@ contentWarnings:
   - "mild supernatural"
 description: "A review of The World God Only Knows — the manga about a legendary galge player who is forced to conquer real girls using dating sim logic to exorcise spirits, with increasingly self-aware results."
 amazonASIN: ""
-publishedAt: "2026-05-06"
+publishedAt: "2024-07-19"
 tags:
   - "romance"
   - "comedy"

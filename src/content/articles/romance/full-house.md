@@ -19,7 +19,7 @@ contentWarnings:
 description: "A review of Full House, the Korean manhwa that inspired the beloved K-drama about a girl who accidentally sells her house to a top star and must live with him."
 coverImage: "/covers/full-house.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2024-12-15"
 tags:
   - "romance"
   - "comedy"

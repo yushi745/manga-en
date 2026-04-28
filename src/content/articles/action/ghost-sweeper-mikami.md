@@ -18,7 +18,7 @@ contentWarnings:
   - "supernatural-violence"
 description: "A glamorous exorcist runs a ghost-busting business with her hapless apprentice in '90s Sunday's most reliable comedy."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-05-11"
 tags:
   - "action"
   - "comedy"

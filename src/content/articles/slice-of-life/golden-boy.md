@@ -19,7 +19,7 @@ contentWarnings:
   - "suggestive situations"
 description: "A review of Golden Boy, the classic comedy manga about Kintaro Oe — Tokyo University dropout who travels Japan mastering every trade through menial labor."
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-04-23"
 tags:
   - "comedy"
   - "adult"

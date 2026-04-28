@@ -20,7 +20,7 @@ contentWarnings:
 description: "A typhoon, a mysterious giant footprint, and a girl named Asa — Urasawa's late-career meditation on disaster and resilience."
 coverImage: "/covers/asadora.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2026-04-09"
 tags:
   - "drama"
   - "sci-fi"

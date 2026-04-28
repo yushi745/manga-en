@@ -20,7 +20,7 @@ contentWarnings:
   - "death"
 description: "A review of the Clannad manga adaptation, based on Key's legendary visual novel about a delinquent and a terminally ill girl who builds a drama club."
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2026-01-14"
 tags:
   - "romance"
   - "drama"

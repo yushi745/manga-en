@@ -19,7 +19,7 @@ contentWarnings:
   - "horror"
 description: "A boy bound to a three-eyed immortal goddess searches the world for a way to make her human."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2024-08-27"
 tags:
   - "action"
   - "fantasy"

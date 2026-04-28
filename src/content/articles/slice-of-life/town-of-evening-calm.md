@@ -21,7 +21,7 @@ contentWarnings:
 description: "Two short stories about the lingering aftermath of Hiroshima — quiet, devastating, and award-winning."
 coverImage: "/covers/town-of-evening-calm.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2026-04-04"
 tags:
   - "drama"
   - "historical"

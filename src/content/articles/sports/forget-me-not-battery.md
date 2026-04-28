@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["amnesia themes", "sports pressure"]
 description: "A review of Forget Me Not Battery, the Weekly Shonen Jump baseball manga about a pitcher who was once the best in the country but has lost all memory of his baseball years."
 amazonASIN: "B0CXRBWG3W"
-publishedAt: "2026-05-10"
+publishedAt: "2025-02-26"
 tags: ["sports", "baseball", "shounen", "amnesia", "drama"]
 rating: 4
 hasAffiliate: true

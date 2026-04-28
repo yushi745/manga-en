@@ -19,7 +19,7 @@ contentWarnings:
   - "competitive sports pressure"
 description: "A review of Ten Dance, the BL manga about two competitive ballroom dancers — one Latin, one Standard — who partner up for ten dance competition and fall for each other."
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2026-01-04"
 tags:
   - "bl"
   - "sports"

@@ -20,7 +20,7 @@ contentWarnings:
   - "disturbing-themes"
 description: "Genetically engineered creatures called BM solve Japan's food problem — until they get loose."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2024-11-13"
 tags:
   - "horror"
   - "sci-fi"

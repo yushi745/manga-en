@@ -17,7 +17,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["horror", "death", "dark themes", "wartime references", "morally ambiguous protagonist"]
 description: "A review of Kitaro of the Graveyard, the darker original version of Mizuki's yokai character — before Kitaro became a defender of humanity and was simply something risen from a grave."
 amazonASIN: "B07CJFSH47"
-publishedAt: "2026-05-11"
+publishedAt: "2024-08-31"
 tags: ["horror", "classic", "mizuki", "yokai", "dark-fantasy"]
 rating: 5
 hasAffiliate: true

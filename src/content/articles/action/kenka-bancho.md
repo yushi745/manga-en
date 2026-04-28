@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["delinquent fighting", "action violence", "gang themes"]
 description: "A review of Kenka Bancho, the manga adaptation of the video game about a delinquent who must defeat the toughest fighters across Japan to become the ultimate bancho."
 amazonASIN: "B001TPA7AS"
-publishedAt: "2026-05-11"
+publishedAt: "2025-03-14"
 tags: ["action", "comedy", "delinquent", "shounen", "fighting"]
 rating: 3
 hasAffiliate: true

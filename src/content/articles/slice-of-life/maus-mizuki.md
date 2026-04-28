@@ -20,7 +20,7 @@ contentWarnings:
 description: "Mizuki's autobiographical novel about his unit's suicide charge in New Guinea — a brutal, funny, devastating war story."
 coverImage: "/covers/maus-mizuki.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-02-21"
 tags:
   - "historical"
   - "war"

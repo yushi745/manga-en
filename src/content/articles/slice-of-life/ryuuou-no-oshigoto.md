@@ -18,7 +18,7 @@ contentWarnings:
   - "comedy"
 description: "A review of The Ryuo's Work Is Never Done! — the manga about a teenage shogi champion who ends up coaching a precocious elementary school girl, becoming entangled with a cast of passionate junior players."
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2026-04-22"
 tags:
   - "slice-of-life"
   - "shogi"

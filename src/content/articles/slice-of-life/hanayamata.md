@@ -17,7 +17,7 @@ contentWarnings:
 
 description: "A review of Hanayamata, the slice-of-life manga about five very different girls who form a yosakoi dance club and discover what it means to perform together."
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2025-11-23"
 tags:
   - "slice-of-life"
   - "dance"

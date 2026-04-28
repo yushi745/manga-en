@@ -17,7 +17,7 @@ ageRating: "All Ages"
 contentWarnings: []
 description: "A review of Yotsuba&!, the manga about a green-haired five-year-old experiencing ordinary things for the first time — and the most purely joyful manga I have ever read."
 amazonASIN: "B00F3CXN8W"
-publishedAt: "2026-05-09"
+publishedAt: "2026-03-07"
 tags: ["slice-of-life", "comedy", "kids", "all-ages", "heartwarming"]
 rating: 5
 hasAffiliate: true

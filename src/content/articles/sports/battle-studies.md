@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild crude humor", "sports drama"]
 description: "A review of Battle Studies, the manga about a high school student attending PL Gakuen — Japan's most famous and demanding baseball high school — where the training methods are intense and the comedy is real."
 amazonASIN: "B09B2BZ7Q1"
-publishedAt: "2026-05-10"
+publishedAt: "2025-07-06"
 tags: ["sports", "baseball", "school", "seinen", "comedy"]
 rating: 4
 hasAffiliate: true

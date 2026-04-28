@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild physical exertion themes"]
 description: "A review of Long Riders!, the cycling manga about a college girl who falls in love with folding bikes and discovers the world that opens up when you start riding."
 amazonASIN: "B078JFV6QV"
-publishedAt: "2026-05-11"
+publishedAt: "2025-05-16"
 tags: ["slice-of-life", "sports", "cycling", "seinen", "girls-club"]
 rating: 4
 hasAffiliate: true

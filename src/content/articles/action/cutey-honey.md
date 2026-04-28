@@ -19,7 +19,7 @@ contentWarnings:
   - "fanservice"
 description: "An android schoolgirl who can transform into anything she wants — the manga that helped invent the magical girl battle genre."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-12-22"
 tags:
   - "action"
   - "magical-girl"

@@ -19,7 +19,7 @@ contentWarnings:
 description: "Yumiko Oshima writes a story about gender, marriage, and the people who feel like they don't fit either."
 coverImage: "/covers/banana-bread-pudding.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-05-28"
 tags:
   - "drama"
   - "slice-of-life"

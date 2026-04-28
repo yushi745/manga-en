@@ -20,7 +20,7 @@ contentWarnings:
 description: "A child king runs a tiny country with the help of MI6 assassins, BL romance subplots, and absolute chaos."
 coverImage: "/covers/patalliro.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2024-10-04"
 tags:
   - "comedy"
   - "action"

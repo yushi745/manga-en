@@ -19,7 +19,7 @@ contentWarnings:
   - "mental-health"
 description: "A high school love story that follows its couple deep into adulthood and everything that breaks them along the way."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2026-02-09"
 tags:
   - "romance"
   - "drama"

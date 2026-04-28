@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["horror", "dark themes", "supernatural", "psychological thriller elements"]
 description: "A review of Outer Zone, the Japanese anthology horror manga hosted by a mysterious woman named Mephisto that collects stories of the uncanny, the twisted, and the terrifying."
 amazonASIN: "B09NWGX9NF"
-publishedAt: "2026-05-11"
+publishedAt: "2025-07-08"
 tags: ["horror", "anthology", "supernatural", "mystery", "shonen"]
 rating: 4
 hasAffiliate: true

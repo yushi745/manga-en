@@ -18,7 +18,7 @@ contentWarnings:
 
 description: "A review of Chibi Maruko-chan, one of Japan's most beloved manga — the semi-autobiographical comedy about a third-grade girl growing up in 1970s Shizuoka."
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2026-03-09"
 tags:
   - "comedy"
   - "slice-of-life"

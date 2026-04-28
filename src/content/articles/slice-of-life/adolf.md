@@ -21,7 +21,7 @@ contentWarnings:
 description: "Three men named Adolf — including Hitler — whose lives entangle across decades from 1936 Tokyo to the Israeli-Palestinian conflict."
 coverImage: "/covers/adolf.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-10-05"
 tags:
   - "historical"
   - "tezuka"

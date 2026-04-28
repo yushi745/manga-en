@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "dystopian themes", "robot rights", "existential themes"]
 description: "A review of Metropolis by Osamu Tezuka — a sweeping sci-fi manga about a stratified future city, an android child, and what it means to be human."
 amazonASIN: "B07G3RQXN3"
-publishedAt: "2026-05-11"
+publishedAt: "2025-04-09"
 tags: ["sci-fi", "drama", "classic", "tezuka", "android"]
 rating: 4
 hasAffiliate: true

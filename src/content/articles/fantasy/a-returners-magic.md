@@ -19,7 +19,7 @@ contentWarnings:
   - "time loop themes"
 description: "A review of A Returner's Magic Should Be Special — the Korean manhwa about the sole survivor of a deadly dungeon who goes back in time to prevent the catastrophe and protect everyone he lost."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2024-08-17"
 tags:
   - "manhwa"
   - "fantasy"

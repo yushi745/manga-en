@@ -19,7 +19,7 @@ contentWarnings:
 description: "A review of Aim for the Ace! — the 1970s shoujo tennis manga that defined the sports genre and influenced every training arc that came after it."
 coverImage: "/covers/aim-for-ace.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2026-04-18"
 tags:
   - "tennis"
   - "sports"

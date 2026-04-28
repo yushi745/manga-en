@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["graphic violence", "vampires", "survival horror", "death of major characters"]
 description: "A review of Higanjima, the survival horror manga about a group of young men stranded on an island controlled by vampires — brutal, relentless, and genuinely terrifying."
 amazonASIN: "B000BFHVPE"
-publishedAt: "2026-05-10"
+publishedAt: "2025-09-17"
 tags: ["horror", "action", "vampire", "survival", "seinen"]
 rating: 4
 hasAffiliate: true

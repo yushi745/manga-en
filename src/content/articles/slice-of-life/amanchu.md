@@ -18,7 +18,7 @@ contentWarnings:
 description: "A review of Amanchu!, the ARIA creator's diving manga set in a seaside town where a shy girl learns to breathe underwater and come alive."
 coverImage: "/covers/amanchu.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2025-09-13"
 tags:
   - "slice-of-life"
   - "diving"

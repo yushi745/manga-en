@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Sword Art Online Progressive, the floor-by-floor retelling of Aincrad that gives proper weight to each level."
 coverImage: "/covers/sao-progressive.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2025-01-20"
 tags:
   - "fantasy"
   - "action"

@@ -17,7 +17,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["violence", "slavery", "sexual content", "historical atrocities"]
 description: "A review of Historie, Hitoshi Iwaaki's historical manga about Eumenes of Cardia — secretary to Alexander the Great — tracing his life from enslaved child to one of the ancient world's most remarkable figures."
 amazonASIN: "B007AEF3LQ"
-publishedAt: "2026-05-09"
+publishedAt: "2025-01-09"
 tags: ["historical", "action", "seinen", "ancient-greece", "alexander-the-great"]
 rating: 5
 hasAffiliate: true

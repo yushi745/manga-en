@@ -18,7 +18,7 @@ contentWarnings:
   - "action"
 description: "A review of The Breaker — the Korean martial arts manhwa about a bullied high school student who becomes the disciple of a legendary murim warrior."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2025-06-27"
 tags:
   - "manhwa"
   - "action"

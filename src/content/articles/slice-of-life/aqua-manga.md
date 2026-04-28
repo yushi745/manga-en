@@ -17,7 +17,7 @@ contentWarnings:
 
 description: "A review of AQUA, the two-volume prequel to ARIA that first introduces Akari and Neo-Venezia — the beginning of one of manga's most beloved stories."
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2026-03-18"
 tags:
   - "slice-of-life"
   - "sci-fi"

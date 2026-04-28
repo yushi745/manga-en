@@ -19,7 +19,7 @@ contentWarnings:
 description: "A review of Gachiakuta — the shonen manga about a boy thrown into a garbage underworld who discovers the power to weaponize discarded things."
 coverImage: "/covers/gachiakuta.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2025-01-31"
 tags:
   - "action"
   - "shonen"

@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "action", "urban destruction themes"]
 description: "A review of Tokyo ESP, the manga about a girl who acquires ESP powers and becomes a hero in a Tokyo where people with supernatural abilities are fighting over the city's future."
 amazonASIN: "B00P5KWCXS"
-publishedAt: "2026-05-11"
+publishedAt: "2025-02-20"
 tags: ["sci-fi", "action", "seinen", "superpower", "urban"]
 rating: 4
 hasAffiliate: true

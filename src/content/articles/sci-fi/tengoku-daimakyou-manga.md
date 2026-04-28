@@ -21,7 +21,7 @@ contentWarnings:
   - "children in danger"
 description: "Yu's review of Tengoku Daimakyou — two parallel stories: in a walled utopian facility, children grow up in a peaceful world that conceals disturbing secrets; outside, a boy and a woman travel through a monster-ravaged wasteland searching for a rumored heaven; the connection between the two stories is the series central mystery."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-12-04"
 tags:
   - "sci-fi"
   - "mystery"

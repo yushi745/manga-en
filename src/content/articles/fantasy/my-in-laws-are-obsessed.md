@@ -18,7 +18,7 @@ contentWarnings:
   - "mild court politics"
 description: "A review of My In-Laws Are Obsessed with Me — the Korean manhwa about a woman reincarnated as a novel's villain who discovers her new in-law family adores her completely despite her supposed role as antagonist."
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2026-04-22"
 tags:
   - "manhwa"
   - "romance"

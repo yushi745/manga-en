@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["revenge themes", "supernatural horror", "bullying", "dark themes", "death"]
 description: "A review of Hell Girl, the manga about a website that lets you send people to hell — at the cost of your own soul."
 amazonASIN: "B07JVTYWQD"
-publishedAt: "2026-05-11"
+publishedAt: "2024-09-10"
 tags: ["horror", "supernatural", "seinen", "revenge", "anthology"]
 rating: 4
 hasAffiliate: true

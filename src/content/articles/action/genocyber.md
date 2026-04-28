@@ -19,7 +19,7 @@ contentWarnings:
   - "gore"
 description: "Two psychic sisters fused into a weapon of mass destruction in a cyberpunk world that doesn't deserve them."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2024-10-26"
 tags:
   - "sci-fi"
   - "cyberpunk"

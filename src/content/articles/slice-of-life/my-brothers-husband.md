@@ -19,7 +19,7 @@ contentWarnings:
 description: "A single father in Japan welcomes his late twin brother's Canadian husband — and confronts everything he didn't know about his own family."
 coverImage: "/covers/my-brothers-husband.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2024-12-31"
 tags:
   - "slice-of-life"
   - "lgbtq"

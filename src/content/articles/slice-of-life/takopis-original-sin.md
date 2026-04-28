@@ -16,7 +16,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["bullying", "domestic abuse", "suicidal ideation", "child suffering", "parental neglect"]
 description: "A review of Takopi's Original Sin, the devastating two-volume manga about a cheerful alien who wants to make a bullied girl happy — and keeps failing."
 amazonASIN: "B0B8DS5N2Z"
-publishedAt: "2026-05-09"
+publishedAt: "2025-02-03"
 tags: ["slice-of-life", "dark", "bullying", "time-loop", "drama"]
 rating: 5
 hasAffiliate: true

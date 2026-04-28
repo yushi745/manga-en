@@ -20,7 +20,7 @@ contentWarnings:
   - "disturbing-themes"
 description: "Go Nagai's brutal post-apocalyptic saga following a giant warrior wandering a Japan destroyed by earthquake."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2026-04-11"
 tags:
   - "action"
   - "post-apocalyptic"

@@ -18,7 +18,7 @@ contentWarnings:
   - "historical themes"
 description: "A review of Young Miss Holmes, the manga about Christie Holmes — Sherlock's clever niece — who solves mysteries in Victorian London."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2024-09-07"
 tags:
   - "mystery"
   - "historical"

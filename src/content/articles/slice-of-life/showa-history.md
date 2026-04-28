@@ -20,7 +20,7 @@ contentWarnings:
 description: "Mizuki tells the story of 20th century Japan — and of his own life, including his time as a soldier — across four English volumes."
 coverImage: "/covers/showa-history.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2026-01-28"
 tags:
   - "historical"
   - "mizuki"

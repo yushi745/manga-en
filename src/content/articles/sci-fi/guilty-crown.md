@@ -20,7 +20,7 @@ contentWarnings:
   - "sci-fi dystopia"
 description: "A review of Guilty Crown — the manga adaptation of the anime about a high school boy who gains the 'Power of Kings' to extract weapons from others' hearts."
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2025-10-14"
 tags:
   - "sci-fi"
   - "action"

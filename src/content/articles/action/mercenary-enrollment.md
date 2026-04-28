@@ -18,7 +18,7 @@ contentWarnings:
   - "mercenary/war themes"
 description: "A review of Mercenary Enrollment — the Korean manhwa about a boy who survived as a mercenary since age 8 and must now reintegrate into normal high school life while protecting his family."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2026-03-01"
 tags:
   - "manhwa"
   - "action"

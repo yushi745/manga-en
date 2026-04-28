@@ -19,7 +19,7 @@ contentWarnings:
 description: "A review of Kuroko's Basketball — the Shonen Jump sports manga about a nearly invisible player who was the phantom sixth member of the legendary Generation of Miracles team."
 coverImage: "/covers/kuroko-no-basket.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-06"
+publishedAt: "2025-07-08"
 tags:
   - "sports"
   - "basketball"

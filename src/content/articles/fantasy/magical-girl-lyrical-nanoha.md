@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "magical combat", "mild peril"]
 description: "Nanoha Takamachi discovers a wounded magical creature in a park and finds herself suddenly at the center of an interdimensional crisis — and a rivalry that becomes the most important friendship of her life."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2024-10-11"
 tags: ["magical girl", "action", "fantasy", "friendship", "mahou-shoujo"]
 rating: 4
 hasAffiliate: true

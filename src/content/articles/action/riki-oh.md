@@ -20,7 +20,7 @@ contentWarnings:
   - "disturbing-themes"
 description: "A superhuman prisoner takes on a corrupt prison system using his fists and an unbreakable will."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-03-09"
 tags:
   - "action"
   - "martial-arts"

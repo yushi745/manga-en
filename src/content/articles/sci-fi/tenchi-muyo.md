@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["harem comedy tropes", "mild sexual humor", "sci-fi action violence"]
 description: "Tenchi Masaki discovers he's descended from an ancient galactic noble family when several extremely powerful alien women arrive at his family's countryside property. What follows is part sci-fi adventure, part family comedy, part slow-burn romance."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2025-12-12"
 tags: ["sci-fi", "comedy", "harem", "romance", "adventure", "classic"]
 rating: 4
 hasAffiliate: true

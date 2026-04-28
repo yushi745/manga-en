@@ -19,7 +19,7 @@ contentWarnings:
 description: "A review of I'm Quitting Heroing, the isekai-adjacent manga about a hero so powerful he's unemployable — who joins the Demon Lord's army to find something meaningful to do."
 coverImage: "/covers/im-quitting-heroing.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2026-01-08"
 tags:
   - "fantasy"
   - "comedy"

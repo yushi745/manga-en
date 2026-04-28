@@ -17,7 +17,7 @@ contentWarnings:
   - "historical gender discrimination themes"
 description: "A review of Taisho Baseball Girls, the historical manga about a group of girls who form a baseball team in 1920s Japan to challenge a boy who dismissed women's abilities."
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2026-04-16"
 tags:
   - "sports"
   - "historical"

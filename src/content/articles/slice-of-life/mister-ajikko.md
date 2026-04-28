@@ -18,7 +18,7 @@ contentWarnings:
 description: "A schoolboy with a magic palate takes on Japan's culinary establishment — the manga that defined cooking competition tropes."
 coverImage: "/covers/mister-ajikko.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2026-01-16"
 tags:
   - "cooking"
   - "shonen"

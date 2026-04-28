@@ -17,7 +17,7 @@ contentWarnings:
   - "mild-romance"
 description: "A quiet shojo about color, art, and growing up — from a rising voice in josei manga."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2024-12-03"
 tags:
   - "romance"
   - "art"

@@ -19,7 +19,7 @@ contentWarnings:
   - "team dynamics"
 description: "A review of Skate-Leading Stars, the anime companion manga about a figure skater who transitions from individual to synchronized skating."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-02-11"
 tags:
   - "sports"
   - "figure-skating"

@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "mild adult humor", "action comedy"]
 description: "A review of Dominion (Dominion Tank Police), Masamune Shirow's anarchic sci-fi action comedy about a tank-obsessed police officer in a polluted future city."
 amazonASIN: "B000SEI2R0"
-publishedAt: "2026-05-11"
+publishedAt: "2024-10-07"
 tags: ["sci-fi", "action", "seinen", "mecha", "comedy"]
 rating: 3
 hasAffiliate: true

@@ -19,7 +19,7 @@ contentWarnings:
 description: "A review of Karakuri Odette, the shojo manga by Kamisama Kiss's creator about an android who attends high school to learn human emotion."
 coverImage: "/covers/karakuri-odette.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2025-02-21"
 tags:
   - "romance"
   - "sci-fi"

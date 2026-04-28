@@ -19,7 +19,7 @@ contentWarnings:
 description: "A modern Tokyo girl is pulled into a fantasy world where she's prophesied to be the Awakening — a force of unimaginable destruction."
 coverImage: "/covers/from-far-away.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-12-24"
 tags:
   - "fantasy"
   - "isekai"

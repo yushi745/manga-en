@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["violence", "death of significant characters", "themes of fate and duty"]
 description: "Based on the Chinese classic 'Investiture of the Gods,' Soul Hunter follows Taikoubou — a lazy, brilliant immortal sent to overthrow a corrupt dynasty — and the impossible task he's been given by the heavens themselves."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2024-12-12"
 tags: ["fantasy", "action", "mythology", "adventure", "shonen", "classic"]
 rating: 5
 hasAffiliate: true

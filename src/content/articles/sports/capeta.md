@@ -19,7 +19,7 @@ contentWarnings:
 description: "A review of Capeta, the motorsports manga about a boy from a poor family who discovers his natural racing talent and fights his way toward Formula One."
 coverImage: "/covers/capeta.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2026-04-25"
 tags:
   - "sports"
   - "racing"

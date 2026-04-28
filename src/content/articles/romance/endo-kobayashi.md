@@ -18,7 +18,7 @@ contentWarnings:
   - "game mechanics"
 description: "A review of Endo and Kobayashi Live!, the meta romance manga where two modern teens watching an otome game can be heard as divine voices by the villainess and the hero."
 amazonASIN: ""
-publishedAt: "2026-05-02"
+publishedAt: "2025-06-06"
 tags:
   - "romance"
   - "comedy"

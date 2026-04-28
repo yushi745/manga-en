@@ -18,7 +18,7 @@ contentWarnings:
   - "sports themes"
 description: "A review of Nine by Mitsuru Adachi — the 1978 baseball manga that established his signature style of interweaving sports and romance, a precursor to Touch and H2."
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2025-11-09"
 tags:
   - "baseball"
   - "sports"

@@ -18,7 +18,7 @@ contentWarnings:
   - "mild peril"
 description: "A review of The Morose Mononokean — the supernatural manga about a high schooler who gets a job helping yokai pass on to the Underworld, run by the world's most reluctant employer."
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2024-08-18"
 tags:
   - "yokai"
   - "supernatural"

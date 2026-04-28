@@ -18,7 +18,7 @@ contentWarnings:
   - "mild humor"
 description: "A review of Eleceed — the Korean manhwa about a kind-hearted boy with lightning-fast reflexes who discovers the secret world of Awakened ability users through a fat cat who is actually a legendary warrior."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2026-02-06"
 tags:
   - "manhwa"
   - "action"

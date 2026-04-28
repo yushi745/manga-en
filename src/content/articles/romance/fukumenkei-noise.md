@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Fukumenkei Noise — the shoujo music manga about a girl who covers her face and sings loudly to mask her grief over two boys who disappeared from her life."
 coverImage: "/covers/fukumenkei-noise.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-03"
+publishedAt: "2025-09-30"
 tags:
   - "music"
   - "romance"

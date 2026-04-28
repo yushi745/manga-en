@@ -20,7 +20,7 @@ contentWarnings:
   - "disturbing-imagery"
 description: "After Tokyo collapses, a young man inherits a living suit of armor and fights monsters that should not exist."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2025-07-19"
 tags:
   - "action"
   - "horror"

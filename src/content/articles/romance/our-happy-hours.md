@@ -20,7 +20,7 @@ contentWarnings:
   - "emotional intensity"
 description: "A review of Our Happy Hours, the manhwa adaptation of Gong Ji-Young's novel about a suicidal woman who visits a death row inmate and finds unexpected healing."
 amazonASIN: ""
-publishedAt: "2026-04-29"
+publishedAt: "2024-12-17"
 tags:
   - "drama"
   - "romance"

@@ -17,7 +17,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["explicit sexual situations", "teacher-student relationship", "nudity", "adult content"]
 description: "A review of Why the Hell Are You Here, Teacher!?, the comedy manga about a student who keeps ending up in compromising situations with his teacher — explicit, absurd, and surprisingly sweet."
 amazonASIN: "B07ZBP8T9L"
-publishedAt: "2026-05-10"
+publishedAt: "2024-11-02"
 tags: ["romance", "comedy", "ecchi", "school", "seinen"]
 rating: 3
 hasAffiliate: true

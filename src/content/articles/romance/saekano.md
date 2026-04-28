@@ -19,7 +19,7 @@ contentWarnings:
   - "meta-commentary"
 description: "A review of Saekano — the manga about a high school otaku who wants to create a dating sim game and recruits his classmates as creative team, including the 'ordinary' girl who inspired the whole project."
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2025-04-22"
 tags:
   - "romance"
   - "comedy"

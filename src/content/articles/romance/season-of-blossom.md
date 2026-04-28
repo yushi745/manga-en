@@ -19,7 +19,7 @@ contentWarnings:
   - "teen romance"
 description: "A review of Season of Blossom — the Korean romance manhwa about high school students navigating first love against the backdrop of a friend's death and the grief that follows."
 amazonASIN: ""
-publishedAt: "2026-05-04"
+publishedAt: "2025-10-30"
 tags:
   - "manhwa"
   - "romance"

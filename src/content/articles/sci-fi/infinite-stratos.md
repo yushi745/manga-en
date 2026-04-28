@@ -20,7 +20,7 @@ contentWarnings:
   - "mecha action"
 description: "A review of Infinite Stratos — the manga about the only male pilot in a world where power suits called IS can only be operated by women, enrolling in an all-female academy."
 amazonASIN: ""
-publishedAt: "2026-05-07"
+publishedAt: "2026-04-22"
 tags:
   - "sci-fi"
   - "mecha"

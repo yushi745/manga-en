@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Citrus, the yuri manga about a fashionable city girl who falls for her step-sister at their strict girls' school."
 coverImage: "/covers/citrus-manga.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-01"
+publishedAt: "2024-12-20"
 tags:
   - "yuri"
   - "romance"

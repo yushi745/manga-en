@@ -18,7 +18,7 @@ contentWarnings:
 description: "A high school girl meets a young kabuki actor who can only relax around her — and his cat."
 coverImage: "/covers/backstage-prince.jpg"
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2025-04-18"
 tags:
   - "romance"
   - "shojo"

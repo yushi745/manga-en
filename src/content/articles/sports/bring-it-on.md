@@ -18,7 +18,7 @@ contentWarnings:
   - "mild romance"
 description: "A review of Bring It On!, the Korean manhwa about a tomboyish girl who joins the school baseball team and falls for the ace pitcher."
 amazonASIN: ""
-publishedAt: "2026-04-30"
+publishedAt: "2024-10-07"
 tags:
   - "sports"
   - "romance"

@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["boys' love manga themes (discussed, not explicit)", "mild age-gap friendship themes"]
 description: "A 75-year-old widow discovers Boys' Love manga for the first time. A 17-year-old bookstore clerk who loves BL has never had a friend who shares her passion. This is the story of their friendship."
 amazonASIN: ""
-publishedAt: "2026-05-08"
+publishedAt: "2025-01-13"
 tags: ["slice-of-life", "friendship", "heartwarming", "josei", "found-family"]
 rating: 5
 hasAffiliate: true

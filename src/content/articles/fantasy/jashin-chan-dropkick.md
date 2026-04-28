@@ -17,7 +17,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["comedic violence", "blood (played for laughs)", "adult humor"]
 description: "A review of Jashin-chan Dropkick, the comedy manga about a demon girl from hell who wants to kill her summoner — but can't — and is furious about it every day."
 amazonASIN: "B07WPJR9Y7"
-publishedAt: "2026-05-11"
+publishedAt: "2024-09-01"
 tags: ["fantasy", "comedy", "seinen", "demon", "slice-of-life"]
 rating: 3
 hasAffiliate: true

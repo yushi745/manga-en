@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild romantic content"]
 description: "A review of Mix: Meisei Story, Mitsuru Adachi's return to baseball manga set in the same world as Touch — quiet, funny, and deeply good."
 amazonASIN: "B07L47H4GB"
-publishedAt: "2026-05-09"
+publishedAt: "2025-08-08"
 tags: ["sports", "baseball", "romance", "seinen", "adachi"]
 rating: 5
 hasAffiliate: true

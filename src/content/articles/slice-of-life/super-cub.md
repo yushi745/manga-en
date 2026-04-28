@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["mild themes of isolation"]
 description: "A review of Super Cub, the manga about a girl with nothing in her life who discovers a Honda Super Cub motorcycle and, through it, discovers connection."
 amazonASIN: "B08ZD7YMCM"
-publishedAt: "2026-05-10"
+publishedAt: "2025-05-19"
 tags: ["slice-of-life", "school", "motorcycle", "seinen", "coming-of-age"]
 rating: 4
 hasAffiliate: true

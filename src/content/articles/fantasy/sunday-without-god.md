@@ -16,7 +16,7 @@ ageRating: "T (Teen)"
 contentWarnings: ["death themes", "existential themes", "post-apocalyptic setting", "grief"]
 description: "A review of Sunday Without God, the fantasy manga about a world where God has left, the dead no longer stay dead without Gravekeepers, and a girl who holds this broken world together."
 amazonASIN: "B00VN5MMZG"
-publishedAt: "2026-05-11"
+publishedAt: "2025-04-13"
 tags: ["fantasy", "drama", "post-apocalyptic", "death-themes", "shounen"]
 rating: 4
 hasAffiliate: true

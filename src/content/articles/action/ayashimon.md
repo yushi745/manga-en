@@ -20,7 +20,7 @@ contentWarnings:
 description: "A review of Ayashimon — the Shonen Jump action manga about a boy who has always dreamed of fighting supernatural beings, who gets pulled into a gang war between yakuza who are secretly demons."
 coverImage: "/covers/ayashimon.jpg"
 amazonASIN: ""
-publishedAt: "2026-05-05"
+publishedAt: "2024-11-10"
 tags:
   - "action"
   - "shonen"

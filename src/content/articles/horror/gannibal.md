@@ -17,7 +17,7 @@ ageRating: "M (Mature)"
 contentWarnings: ["violence", "cannibalism themes", "psychological horror", "rural cult"]
 description: "A review of Gannibal, the horror manga about a police officer transferred to a remote mountain village where a powerful family rules by fear and rumors of cannibalism circulate."
 amazonASIN: "B0BM9YTYVC"
-publishedAt: "2026-05-10"
+publishedAt: "2025-12-05"
 tags: ["horror", "thriller", "psychological", "seinen", "cult"]
 rating: 5
 hasAffiliate: true
