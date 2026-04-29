@@ -127,9 +127,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Nine* on Amazon:
+Find the Japanese edition of *Nine* on Amazon.co.jp:
 
-👉 [Search for Nine on Amazon](https://www.amazon.com/s?k=Nine&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%83%8A%E3%82%A4%E3%83%B3&tag=yushi745-22)
 
 ---
 

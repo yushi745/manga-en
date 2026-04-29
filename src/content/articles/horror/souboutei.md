@@ -128,9 +128,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Souboutei Kowasu Beshi* on Amazon:
+Find the Japanese edition of *Souboutei Kowasu Beshi* on Amazon.co.jp:
 
-👉 [Search for Souboutei Kowasu Beshi on Amazon](https://www.amazon.com/s?k=Souboutei%20Kowasu%20Beshi&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E5%8F%8C%E4%BA%A1%E4%BA%AD%E5%A3%8A%E3%81%99%E3%81%B9%E3%81%97&tag=yushi745-22)
 
 ---
 

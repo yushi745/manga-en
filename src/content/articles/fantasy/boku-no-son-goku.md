@@ -124,9 +124,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Boku no Son Goku* on Amazon:
+Find the Japanese edition of *Boku no Son Goku* on Amazon.co.jp:
 
-👉 [Search for Boku no Son Goku on Amazon](https://www.amazon.com/s?k=Boku%20no%20Son%20Goku&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%81%BC%E3%81%8F%E3%81%AE%E5%AD%AB%E6%82%9F%E7%A9%BA&tag=yushi745-22)
 
 ---
 

@@ -125,9 +125,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Karate Master* on Amazon:
+Find the Japanese edition of *Karate Master* on Amazon.co.jp:
 
-👉 [Search for Karate Master on Amazon](https://www.amazon.com/s?k=Karate%20Master&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E7%A9%BA%E6%89%8B%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3&tag=yushi745-22)
 
 ---
 

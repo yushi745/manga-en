@@ -124,9 +124,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Mister Pink* on Amazon:
+Find the Japanese edition of *Mister Pink* on Amazon.co.jp:
 
-👉 [Search for Mister Pink on Amazon](https://www.amazon.com/s?k=Mister%20Pink&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=Mr.PINK&tag=yushi745-22)
 
 ---
 

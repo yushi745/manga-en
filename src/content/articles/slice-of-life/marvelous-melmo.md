@@ -126,9 +126,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Marvelous Melmo* on Amazon:
+Find the Japanese edition of *Marvelous Melmo* on Amazon.co.jp:
 
-👉 [Search for Marvelous Melmo on Amazon](https://www.amazon.com/s?k=Marvelous%20Melmo&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%81%B5%E3%81%97%E3%81%8E%E3%81%AA%E3%83%A1%E3%83%AB%E3%83%A2&tag=yushi745-22)
 
 ---
 

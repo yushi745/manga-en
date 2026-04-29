@@ -126,9 +126,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Don Dracula* on Amazon:
+Find the Japanese edition of *Don Dracula* on Amazon.co.jp:
 
-👉 [Search for Don Dracula on Amazon](https://www.amazon.com/s?k=Don%20Dracula&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%83%89%E3%83%B3%E3%83%BB%E3%83%89%E3%83%A9%E3%82%AD%E3%83%A5%E3%83%A9&tag=yushi745-22)
 
 ---
 

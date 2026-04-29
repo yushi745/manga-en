@@ -130,9 +130,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Shonan Junai Gumi* on Amazon:
+Find the Japanese edition of *Shonan Junai Gumi* on Amazon.co.jp:
 
-👉 [Search for Shonan Junai Gumi on Amazon](https://www.amazon.com/s?k=Shonan%20Junai%20Gumi&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E6%B9%98%E5%8D%97%E7%B4%94%E6%84%9B%E7%B5%84%EF%BC%81&tag=yushi745-22)
 
 ---
 

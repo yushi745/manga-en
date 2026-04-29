@@ -132,9 +132,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Dear Brother* on Amazon:
+Find the Japanese edition of *Dear Brother* on Amazon.co.jp:
 
-👉 [Search for Dear Brother on Amazon](https://www.amazon.com/s?k=Dear%20Brother&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%81%8A%E3%81%AB%E3%81%84%E3%81%95%E3%81%BE%E3%81%B8%E2%80%A6&tag=yushi745-22)
 
 ---
 

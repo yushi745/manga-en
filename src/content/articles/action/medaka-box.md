@@ -123,7 +123,9 @@ Not available in English print. Medaka Box has not been officially licensed in E
 
 ## Where to Buy
 
-*This title is not available in English print.*
+Find the Japanese edition of *Medaka Box* on Amazon.co.jp:
+
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%81%E3%81%A0%E3%81%8B%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9&tag=yushi745-22)
 
 ---
 

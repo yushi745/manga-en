@@ -128,9 +128,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Violence Jack* on Amazon:
+Find the Japanese edition of *Violence Jack* on Amazon.co.jp:
 
-👉 [Search for Violence Jack on Amazon](https://www.amazon.com/s?k=Violence%20Jack&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%83%90%E3%82%A4%E3%82%AA%E3%83%AC%E3%83%B3%E3%82%B9%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF&tag=yushi745-22)
 
 ---
 

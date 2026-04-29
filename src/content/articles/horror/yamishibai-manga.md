@@ -126,9 +126,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Yamishibai* on Amazon:
+Find the Japanese edition of *Yamishibai* on Amazon.co.jp:
 
-👉 [Search for Yamishibai on Amazon](https://www.amazon.com/s?k=Yamishibai&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E9%97%87%E8%8A%9D%E5%B1%85&tag=yushi745-22)
 
 ---
 

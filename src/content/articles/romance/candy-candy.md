@@ -125,9 +125,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Candy Candy* on Amazon:
+Find the Japanese edition of *Candy Candy* on Amazon.co.jp:
 
-👉 [Search for Candy Candy on Amazon](https://www.amazon.com/s?k=Candy%20Candy&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%87%E3%82%A3&tag=yushi745-22)
 
 ---
 

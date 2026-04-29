@@ -126,7 +126,9 @@ Not available in English. Seven Seeds has not been officially licensed in Englis
 
 ## Where to Buy
 
-*This title is not available in English print.*
+Find the Japanese edition of *Seven Seeds* on Amazon.co.jp:
+
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%83%96%E3%83%B3%E3%80%80SEVEN&tag=yushi745-22)
 
 ---
 

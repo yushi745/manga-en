@@ -125,9 +125,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Ghost Sweeper Mikami* on Amazon:
+Find the Japanese edition of *Ghost Sweeper Mikami* on Amazon.co.jp:
 
-👉 [Search for Ghost Sweeper Mikami on Amazon](https://www.amazon.com/s?k=Ghost%20Sweeper%20Mikami&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=GS%E7%BE%8E%E7%A5%9E%20%E6%A5%B5%E6%A5%BD%E5%A4%A7%E4%BD%9C%E6%88%A6%21%21&tag=yushi745-22)
 
 ---
 

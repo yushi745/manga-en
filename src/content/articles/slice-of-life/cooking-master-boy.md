@@ -124,9 +124,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Cooking Master Boy* on Amazon:
+Find the Japanese edition of *Cooking Master Boy* on Amazon.co.jp:
 
-👉 [Search for Cooking Master Boy on Amazon](https://www.amazon.com/s?k=Cooking%20Master%20Boy&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E4%B8%AD%E8%8F%AF%E4%B8%80%E7%95%AA%EF%BC%81&tag=yushi745-22)
 
 ---
 

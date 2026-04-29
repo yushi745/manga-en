@@ -126,9 +126,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Captain Ken* on Amazon:
+Find the Japanese edition of *Captain Ken* on Amazon.co.jp:
 
-👉 [Search for Captain Ken on Amazon](https://www.amazon.com/s?k=Captain%20Ken&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3Ken&tag=yushi745-22)
 
 ---
 

@@ -127,9 +127,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Apocalypse Zero* on Amazon:
+Find the Japanese edition of *Apocalypse Zero* on Amazon.co.jp:
 
-👉 [Search for Apocalypse Zero on Amazon](https://www.amazon.com/s?k=Apocalypse%20Zero&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E9%BB%99%E7%A4%BA%E9%8C%B2%E3%82%BC%E3%83%AD&tag=yushi745-22)
 
 ---
 

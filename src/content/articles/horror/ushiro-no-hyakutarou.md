@@ -126,9 +126,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Ushiro no Hyakutarou* on Amazon:
+Find the Japanese edition of *Ushiro no Hyakutarou* on Amazon.co.jp:
 
-👉 [Search for Ushiro no Hyakutarou on Amazon](https://www.amazon.com/s?k=Ushiro%20no%20Hyakutarou&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%81%86%E3%81%97%E3%82%8D%E3%81%AE%E7%99%BE%E5%A4%AA%E9%83%8E&tag=yushi745-22)
 
 ---
 

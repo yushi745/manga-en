@@ -125,7 +125,9 @@ Not available in English print. The Shiki manga has not been officially licensed
 
 ## Where to Buy
 
-*This title is not available in English print.*
+Find the Japanese edition of *Shiki* on Amazon.co.jp:
+
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E5%9B%9B%E5%AD%A3&tag=yushi745-22)
 
 ---
 

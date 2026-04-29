@@ -124,9 +124,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Crayon Days* on Amazon:
+Find the Japanese edition of *Crayon Days* on Amazon.co.jp:
 
-👉 [Search for Crayon Days on Amazon](https://www.amazon.com/s?k=Crayon%20Days&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%AF%E3%83%AC%E3%83%A8%E3%83%B3%E7%8E%8B%E5%9B%BD&tag=yushi745-22)
 
 ---
 

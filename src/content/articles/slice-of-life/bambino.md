@@ -125,9 +125,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Bambino!* on Amazon:
+Find the Japanese edition of *Bambino!* on Amazon.co.jp:
 
-👉 [Search for Bambino! on Amazon](https://www.amazon.com/s?k=Bambino%21&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%B3%E3%83%93%E3%80%9C%E3%83%8E%EF%BC%81&tag=yushi745-22)
 
 ---
 

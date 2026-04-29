@@ -127,9 +127,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Riki-Oh* on Amazon:
+Find the Japanese edition of *Riki-Oh* on Amazon.co.jp:
 
-👉 [Search for Riki-Oh on Amazon](https://www.amazon.com/s?k=Riki-Oh&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E5%8A%9B%E7%8E%8B&tag=yushi745-22)
 
 ---
 

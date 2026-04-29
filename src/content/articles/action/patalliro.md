@@ -128,9 +128,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Patalliro!* on Amazon:
+Find the Japanese edition of *Patalliro!* on Amazon.co.jp:
 
-👉 [Search for Patalliro! on Amazon](https://www.amazon.com/s?k=Patalliro%21&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%83%91%E3%82%BF%E3%83%AA%E3%83%AD%21&tag=yushi745-22)
 
 ---
 

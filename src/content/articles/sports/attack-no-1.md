@@ -128,9 +128,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Attack No. 1* on Amazon:
+Find the Japanese edition of *Attack No. 1* on Amazon.co.jp:
 
-👉 [Search for Attack No. 1 on Amazon](https://www.amazon.com/s?k=Attack%20No.%201&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%A2%E3%82%BF%E3%83%83%E3%82%AFNo.1&tag=yushi745-22)
 
 ---
 

@@ -127,9 +127,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Akuma-kun* on Amazon:
+Find the Japanese edition of *Akuma-kun* on Amazon.co.jp:
 
-👉 [Search for Akuma-kun on Amazon](https://www.amazon.com/s?k=Akuma-kun&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E6%82%AA%E9%AD%94%E3%81%8F%E3%82%93&tag=yushi745-22)
 
 ---
 

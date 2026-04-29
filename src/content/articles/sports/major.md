@@ -122,7 +122,9 @@ Not available in English. This series has not been officially licensed in Englis
 
 ## Where to Buy
 
-*This title is not available in English print.*
+Find the Japanese edition of *Major* on Amazon.co.jp:
+
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=MAJOR&tag=yushi745-22)
 
 ---
 

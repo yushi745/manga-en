@@ -125,7 +125,9 @@ Not available in English. Hanebado! has not been officially licensed in English.
 
 ## Where to Buy
 
-*This title is not available in English print.*
+Find the Japanese edition of *Hanebado!* on Amazon.co.jp:
+
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%81%AF%E3%81%AD%E3%83%90%E3%83%89%21&tag=yushi745-22)
 
 ---
 

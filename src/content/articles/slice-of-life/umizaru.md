@@ -127,9 +127,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Umizaru* on Amazon:
+Find the Japanese edition of *Umizaru* on Amazon.co.jp:
 
-👉 [Search for Umizaru on Amazon](https://www.amazon.com/s?k=Umizaru&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E6%B5%B7%E7%8C%BF&tag=yushi745-22)
 
 ---
 

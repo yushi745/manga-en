@@ -126,9 +126,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Aim for the Ace!* on Amazon:
+Find the Japanese edition of *Aim for the Ace!* on Amazon.co.jp:
 
-👉 [Search for Aim for the Ace! on Amazon](https://www.amazon.com/s?k=Aim%20for%20the%20Ace%21&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%BC%E3%82%B9%E3%82%92%E3%81%AD%E3%82%89%E3%81%88%EF%BC%81&tag=yushi745-22)
 
 ---
 

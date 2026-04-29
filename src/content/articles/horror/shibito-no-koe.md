@@ -127,9 +127,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Shibito no Koe wo Kiku ga Yoi* on Amazon:
+Find the Japanese edition of *Shibito no Koe wo Kiku ga Yoi* on Amazon.co.jp:
 
-👉 [Search for Shibito no Koe wo Kiku ga Yoi on Amazon](https://www.amazon.com/s?k=Shibito%20no%20Koe%20wo%20Kiku%20ga%20Yoi&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E6%AD%BB%E4%BA%BA%E3%81%AE%E5%A3%B0%E3%82%92%E3%81%8D%E3%81%8F%E3%81%8C%E3%82%88%E3%81%84&tag=yushi745-22)
 
 ---
 

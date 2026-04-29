@@ -125,9 +125,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Kappa no Sanpei* on Amazon:
+Find the Japanese edition of *Kappa no Sanpei* on Amazon.co.jp:
 
-👉 [Search for Kappa no Sanpei on Amazon](https://www.amazon.com/s?k=Kappa%20no%20Sanpei&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E6%B2%B3%E7%AB%A5%E3%81%AE%E4%B8%89%E5%B9%B3&tag=yushi745-22)
 
 ---
 

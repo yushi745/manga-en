@@ -127,9 +127,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *BioMeat: Nectar* on Amazon:
+Find the Japanese edition of *BioMeat: Nectar* on Amazon.co.jp:
 
-👉 [Search for BioMeat: Nectar on Amazon](https://www.amazon.com/s?k=BioMeat%3A%20Nectar&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=BIO-MEAT%20NECTAR&tag=yushi745-22)
 
 ---
 

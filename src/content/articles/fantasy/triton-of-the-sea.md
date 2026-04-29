@@ -126,9 +126,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Triton of the Sea* on Amazon:
+Find the Japanese edition of *Triton of the Sea* on Amazon.co.jp:
 
-👉 [Search for Triton of the Sea on Amazon](https://www.amazon.com/s?k=Triton%20of%20the%20Sea&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E6%B5%B7%E3%81%AE%E3%83%88%E3%83%AA%E3%83%88%E3%83%B3&tag=yushi745-22)
 
 ---
 

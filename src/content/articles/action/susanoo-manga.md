@@ -126,9 +126,9 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Susanoo* on Amazon:
+Find the Japanese edition of *Susanoo* on Amazon.co.jp:
 
-👉 [Search for Susanoo on Amazon](https://www.amazon.com/s?k=Susanoo&tag=dearmanga-20)
+👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%B9%E3%82%B5%E3%83%8E%E3%82%AA&tag=yushi745-22)
 
 ---
 

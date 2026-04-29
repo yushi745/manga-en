@@ -92,6 +92,7 @@ def collect_articles():
             'addedAt':     get_git_added_date(filepath),
             'tags':        get_list_field(content, 'tags'),
             'hasCover':    '○' if slug in tracked_covers else '×',
+            'englishStatus': get_field(content, 'englishStatus'),
         })
     return articles
 
@@ -107,7 +108,7 @@ def main():
 
     sh = get_sheet()
     headers = ['マンガタイトル', '日本語タイトル', '著者', 'ジャンル', 'ジャンルSlug', 'Slug', 'URL',
-               '評価', '公開日', '追加日', 'タグ', '画像']
+               '評価', '公開日', '追加日', 'タグ', '画像', '英語版']
     rows = [headers]
     for a in articles:
         rows.append([
@@ -123,6 +124,7 @@ def main():
             str(a['addedAt']),
             a['tags'],
             a['hasCover'],
+            a['englishStatus'],
         ])
 
     ws = get_or_create_ws(sh, '記事一覧', rows=max(len(rows) + 100, 2000), cols=max(len(headers), 15))
