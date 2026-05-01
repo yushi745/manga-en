@@ -57,28 +57,60 @@ hasAffiliate: true               # FTC開示フラグ（アフィリリンクあ
 
 ---
 
-## 記事テンプレート（全18セクション）
+## 記事テンプレート（全19セクション）
 
 ```
 1.  frontmatter
-2.  ## Quick Take（3行ポイント・箇条書き）
-3.  ## Who Is This Manga For?（おすすめ読者・4項目）
-4.  ## Content Warnings & Age Rating
-5.  ## Yu's Rating（5軸テーブル）
-6.  ## Story Overview（あらすじ）
-7.  ## Characters（主要キャラ紹介）
-8.  ## Art Style（絵柄・画風）
-9.  ## Cultural Context（日本文化の背景）
-10. ## What I Love About It（Yuの個人的な熱量・体験）
-11. ## What English-Speaking Fans Say（Reddit/Goodreadsの傾向を自分の言葉で）
-12. ## Memorable Scene ⚠️ Spoiler Warning（印象的なシーン）
-13. ## Similar Manga（"If you liked X, try this"）
-14. ## Reading Order / Where to Start（どの巻から買うべきか）
-15. ## Official English Translation Status（英語版の状況）
-16. ## Pros & Cons（購買判断の最終チェック）
-17. ## Format Comparison（Physical / Digital / Omnibus の比較）
-18. ## Where to Buy（AmazonリンクCTA）
+    ※ title のサブタイトル部分は「一言キャッチ」にする
+      良い例: "A Basketball Manga Where Effort Doesn't Beat Reality"
+      悪い例: "The Basketball Manga That Never Gives Up" （説明的すぎる）
+      ルール: 作品の「逆説・核心・意外性」を1フレーズで。読んだ人が誰かに話したくなる言葉を選ぶ。
+
+2.  冒頭フック（1〜2文、セクション見出しなし）
+    ※ frontmatter 直後、## Quick Take の前に置く
+    ※ 「問い」か「違和感」か「逆説」で始める。読者を1秒で引き込む一文。
+      良い例:
+        "What if the most dangerous place in Japan isn't a battlefield — it's a high school nobody chose to attend?"
+        "What if effort is never enough? Not as a lesson. As a rule."
+        "This is not a romance manga. It just happens to end that way."
+      悪い例: "This is a great manga about basketball." （情報で始めない）
+
+3.  ## Quick Take（3行ポイント・箇条書き）
+4.  ## Who Is This Manga For?（おすすめ読者・4項目）
+5.  ## Content Warnings & Age Rating
+6.  ## Yu's Rating（5軸テーブル）
+7.  ## Story Overview（あらすじ）
+8.  ## Characters（主要キャラ紹介）
+9.  ## Art Style（絵柄・画風）
+10. ## Cultural Context（日本文化の背景）
+11. ## What I Love About It（Yuの個人的な熱量・体験）
+12. ## What English-Speaking Fans Say（Reddit/Goodreadsの傾向を自分の言葉で）
+13. ## Memorable Scene ⚠️ Spoiler Warning（印象的なシーン）
+14. ## Similar Manga（"If you liked X, try this"）
+15. ## Reading Order / Where to Start（どの巻から買うべきか）
+16. ## Official English Translation Status（英語版の状況）
+17. ## Pros & Cons（購買判断の最終チェック）
+18. ## Format Comparison（Physical / Digital / Omnibus の比較）
+19. ## Where to Buy（AmazonリンクCTA）
     FTC Disclosure（フッター固定）
+```
+
+### Where to Buy テンプレート（固定文言）
+
+**英語版あり（englishStatus: Complete / Ongoing）**
+```
+## Where to Buy
+
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](Amazon URL)
+```
+
+**Unlicensed（englishStatus: Unlicensed）**
+```
+## Where to Buy
+
+No English release yet. That just means you find it before everyone else does.
 ```
 
 ### Yu's Rating 5軸
