@@ -126,7 +126,10 @@ Yen Press published the complete English series. All 13 volumes available.
 
 ## Where to Buy
 
-[Get Kannagi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kannagi%3A+Crazy+Shrine+Maidens+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kannagi%3A+Crazy+Shrine+Maidens+manga&i=stripbooks)
+
 
 ---
 

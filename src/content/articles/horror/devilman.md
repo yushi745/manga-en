@@ -1,6 +1,7 @@
 ---
 title: "Devilman Review: The Devil Who Chose to Love Humanity"
 slug: "devilman"
+coverImage: "/covers/devilman.jpg"
 genre: "Horror / Dark Fantasy"
 genreSlug: "horror"
 mangaTitle: "Devilman"
@@ -128,7 +129,10 @@ Seven Seas Entertainment published "Devilman: The Classic Collection" (2 omnibus
 
 ## Where to Buy
 
-[Get Devilman: The Classic Collection Vol. 1 on Amazon →](https://www.amazon.com/s?k=Devilman+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Devilman+manga&i=stripbooks)
+
 
 ---
 

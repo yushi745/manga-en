@@ -1,6 +1,7 @@
 ---
 title: "World End Economica Review: A Boy on the Moon Dreams of Reaching the Stars Through the Stock Market"
 slug: "world-end-economica"
+coverImage: "/covers/world-end-economica.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "World End Economica"
@@ -123,7 +124,10 @@ Yen Press published the complete 3-volume English series.
 
 ## Where to Buy
 
-[Get World End Economica Vol. 1 on Amazon →](https://www.amazon.com/s?k=World+End+Economica+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=World+End+Economica+manga&i=stripbooks)
+
 
 ---
 

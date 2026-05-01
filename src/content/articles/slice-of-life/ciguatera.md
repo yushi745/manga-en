@@ -1,6 +1,7 @@
 ---
 title: "Ciguatera Review: A Teenage Boy's Love That's Too Intense For the World Around Him"
 slug: "ciguatera"
+coverImage: "/covers/ciguatera.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Ciguatera"
@@ -123,7 +124,10 @@ Vertical published the complete 8-volume English series.
 
 ## Where to Buy
 
-[Get Ciguatera Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ciguatera+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Ciguatera+manga&i=stripbooks)
+
 
 ---
 

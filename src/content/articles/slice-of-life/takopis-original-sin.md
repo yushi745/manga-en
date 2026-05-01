@@ -144,6 +144,7 @@ VIZ Media published both volumes in English. The series is complete. Both volume
 
 ## Where to Buy
 
-[Get Takopi's Original Sin on Amazon →](https://www.amazon.com/dp/B0B8DS5N2Z?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B0B8DS5N2Z?tag=dearmanga-20)
+

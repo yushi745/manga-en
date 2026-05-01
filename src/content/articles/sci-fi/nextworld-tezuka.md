@@ -1,6 +1,7 @@
 ---
 title: "Nextworld Review: Tezuka's Cold War Sci-Fi Allegory"
 slug: "nextworld-tezuka"
+coverImage: "/covers/nextworld-tezuka.jpg"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Nextworld"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Nextworld* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Nextworld on Amazon](https://www.amazon.com/s?k=Nextworld&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Nextworld&tag=dearmanga-20)
+
 
 ---
 

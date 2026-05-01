@@ -130,6 +130,7 @@ Tokujou Kabachi!! has no official English translation.
 
 ## Where to Buy
 
-Tokujou Kabachi!! is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

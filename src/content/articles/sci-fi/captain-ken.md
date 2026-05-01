@@ -126,9 +126,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Captain Ken* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3Ken&tag=yushi745-22)
 
 ---
 

@@ -126,7 +126,10 @@ Tokyopop (later Del Rey) published the complete 8-volume run. Currently out of p
 
 ## Where to Buy
 
-[Get Welcome to the NHK Vol. 1 on Amazon →](https://www.amazon.com/s?k=Welcome+to+the+NHK+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Welcome+to+the+NHK+manga&i=stripbooks)
+
 
 ---
 

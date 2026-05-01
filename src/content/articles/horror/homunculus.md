@@ -127,9 +127,10 @@ Best read across the full 15 volumes — the full arc of Nakoshi's psychological
 
 ## Where to Buy
 
-You can find **Homunculus** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Homunculus on Amazon](https://www.amazon.com/dp/1638589429?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1638589429?tag=dearmanga-20)
+
 
 ---
 

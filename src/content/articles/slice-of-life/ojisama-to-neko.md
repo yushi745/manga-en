@@ -1,6 +1,7 @@
 ---
 title: "An Old Man and His Cat Review: A Lonely Widower Adopts the Least Popular Cat"
 slug: "ojisama-to-neko"
+coverImage: "/covers/ojisama-to-neko.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "An Old Man and His Cat"
@@ -123,7 +124,10 @@ Square Enix Manga is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get An Old Man and His Cat Vol. 1 on Amazon →](https://www.amazon.com/s?k=An+Old+Man+and+His+Cat+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=An+Old+Man+and+His+Cat+manga&i=stripbooks)
+
 
 ---
 

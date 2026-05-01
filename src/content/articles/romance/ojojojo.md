@@ -141,6 +141,7 @@ Seven Seas Entertainment published all 5 volumes in English. The series is compl
 
 ## Where to Buy
 
-[Get Ojojojo on Amazon →](https://www.amazon.com/dp/B01LTHKF2Y?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B01LTHKF2Y?tag=dearmanga-20)
+

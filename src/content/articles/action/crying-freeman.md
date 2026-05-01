@@ -124,7 +124,10 @@ Dark Horse published the complete English series in omnibus format. All 6 omnibu
 
 ## Where to Buy
 
-[Get Crying Freeman Vol. 1 on Amazon →](https://www.amazon.com/s?k=Crying+Freeman+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Crying+Freeman+manga&i=stripbooks)
+
 
 ---
 

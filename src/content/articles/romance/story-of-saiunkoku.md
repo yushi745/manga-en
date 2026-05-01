@@ -124,7 +124,10 @@ Viz Media published the complete 9-volume English series.
 
 ## Where to Buy
 
-[Get The Story of Saiunkoku Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Story+of+Saiunkoku+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Story+of+Saiunkoku+manga&i=stripbooks)
+
 
 ---
 

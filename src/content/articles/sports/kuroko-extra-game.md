@@ -1,6 +1,7 @@
 ---
 title: "Kuroko's Basketball: Extra Game Review: The Generation of Miracles vs. the American Street Basketball Elite"
 slug: "kuroko-extra-game"
+coverImage: "/covers/kuroko-extra-game.jpg"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Kuroko's Basketball: Extra Game"
@@ -122,7 +123,8 @@ Available digitally via VIZ Media. No confirmed English print edition.
 
 ## Where to Buy
 
-*This title is not available in English print.*
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---
 

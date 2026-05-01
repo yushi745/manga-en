@@ -1,6 +1,7 @@
 ---
 title: "Real Review: The Basketball Manga That Shows You What Sports Actually Cost"
 slug: "real-manga"
+coverImage: "/covers/real-manga.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Real"
@@ -129,9 +130,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Real* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Real on Amazon](https://www.amazon.com/s?k=Real&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Real&tag=dearmanga-20)
+
 
 ---
 

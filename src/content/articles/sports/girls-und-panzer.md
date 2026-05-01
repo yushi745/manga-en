@@ -1,6 +1,7 @@
 ---
 title: "Girls und Panzer Review: High School Girls Compete in Tank Warfare as a Martial Art"
 slug: "girls-und-panzer"
+coverImage: "/covers/girls-und-panzer.jpg"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Girls und Panzer"
@@ -121,7 +122,10 @@ Seven Seas published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Girls und Panzer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Girls+und+Panzer+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Girls+und+Panzer+manga&i=stripbooks)
+
 
 ---
 

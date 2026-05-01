@@ -1,6 +1,7 @@
 ---
 title: "Prophecy Review: An Anonymous Online Activist Announces Crimes Before Committing Them, and the Police Cannot Stop Him"
 slug: "prophecy"
+coverImage: "/covers/prophecy.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Prophecy"
@@ -123,7 +124,10 @@ Kodansha Comics published all 3 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Prophecy Vol. 1 on Amazon →](https://www.amazon.com/s?k=Prophecy+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Prophecy+manga&i=stripbooks)
+
 
 ---
 

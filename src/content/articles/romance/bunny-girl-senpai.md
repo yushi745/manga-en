@@ -128,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Rascal Does Not Dream of Bunny Girl Senpai* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Rascal Does Not Dream of Bunny Girl Senpai on Amazon](https://www.amazon.com/s?k=Rascal%20Does%20Not%20Dream%20of%20Bunny%20Girl%20Senpai&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Rascal%20Does%20Not%20Dream%20of%20Bunny%20Girl%20Senpai&tag=dearmanga-20)
+
 
 ---
 

@@ -128,9 +128,10 @@ Start from volume 1 — this series builds carefully from its opening pages. Don
 
 ## Where to Buy
 
-You can find *My Heavenly Hockey Club* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Find My Heavenly Hockey Club on Amazon](https://www.amazon.com/s?k=My+Heavenly+Hockey+Club&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=My+Heavenly+Hockey+Club&tag=dearmanga-20)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Franken Fran Review: A Medical Creation Solves Problems With Surgery When Surgery Is Not the Solution"
 slug: "franken-fran"
+coverImage: "/covers/franken-fran.jpg"
 genre: "Horror / Comedy"
 genreSlug: "horror"
 mangaTitle: "Franken Fran"
@@ -125,7 +126,10 @@ Seven Seas Entertainment published the complete 8-volume run. All volumes availa
 
 ## Where to Buy
 
-[Get Franken Fran Vol. 1 on Amazon →](https://www.amazon.com/s?k=Franken+Fran+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Franken+Fran+manga&i=stripbooks)
+
 
 ---
 

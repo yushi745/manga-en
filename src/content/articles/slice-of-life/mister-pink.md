@@ -1,6 +1,7 @@
 ---
 title: "Mister Pink Review: Naoki Urasawa's Almost-Forgotten Early Work"
 slug: "mister-pink"
+coverImage: "/covers/mister-pink.jpg"
 genre: "Drama / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Mister Pink"
@@ -124,9 +125,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Mister Pink* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=Mr.PINK&tag=yushi745-22)
 
 ---
 

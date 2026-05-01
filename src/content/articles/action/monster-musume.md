@@ -126,7 +126,10 @@ Seven Seas published the complete English series. All 17 volumes available.
 
 ## Where to Buy
 
-[Get Monster Musume Vol. 1 on Amazon →](https://www.amazon.com/s?k=Monster+Musume%3A+Everyday+Life+with+Monster+Girls+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Monster+Musume%3A+Everyday+Life+with+Monster+Girls+manga&i=stripbooks)
+
 
 ---
 

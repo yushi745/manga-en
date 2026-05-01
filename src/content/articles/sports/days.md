@@ -1,6 +1,7 @@
 ---
 title: "Days Review: The Boy With No Talent Joins the Soccer Team and Works Harder Than Anyone Has Ever Worked"
 slug: "days"
+coverImage: "/covers/days.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Days"
@@ -121,7 +122,10 @@ Kodansha Comics published all 32 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Days Vol. 1 on Amazon →](https://www.amazon.com/s?k=Days+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Days+manga&i=stripbooks)
+
 
 ---
 

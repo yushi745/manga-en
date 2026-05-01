@@ -1,6 +1,7 @@
 ---
 title: "Blue Giant Review: A High School Boy Decides He Will Become the Greatest Jazz Saxophonist in the World"
 slug: "blue-giant"
+coverImage: "/covers/blue-giant.jpg"
 genre: "Slice of Life / Music"
 genreSlug: "slice-of-life"
 mangaTitle: "Blue Giant"
@@ -123,7 +124,10 @@ Seven Seas published all 10 volumes. Complete and available. The sequel Blue Gia
 
 ## Where to Buy
 
-[Get Blue Giant Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Giant+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Blue+Giant+manga&i=stripbooks)
+
 
 ---
 

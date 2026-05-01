@@ -123,7 +123,10 @@ Yen Press published the complete 2-volume English series.
 
 ## Where to Buy
 
-[Get Weathering With You Vol. 1 on Amazon →](https://www.amazon.com/s?k=Weathering+With+You+%28Tenki+no+Ko%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Weathering+With+You+%28Tenki+no+Ko%29+manga&i=stripbooks)
+
 
 ---
 

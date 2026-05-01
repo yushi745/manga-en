@@ -128,7 +128,10 @@ Yen Press is publishing the series in English; 12 volumes available as of 2026. 
 
 ## Where to Buy
 
-[Get Saki Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saki+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Saki+manga&i=stripbooks)
+
 
 ---
 

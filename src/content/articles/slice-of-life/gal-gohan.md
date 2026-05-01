@@ -121,9 +121,10 @@ Start from Volume 1. Complete at 9 volumes.
 
 ## Where to Buy
 
-You can find **Gal Gohan** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Gal Gohan on Amazon](https://www.amazon.com/dp/1626929327?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1626929327?tag=dearmanga-20)
+
 
 ---
 

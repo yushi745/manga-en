@@ -1,6 +1,7 @@
 ---
 title: "My Next Life as a Villainess Review: A Girl Realizes She Is the Villain of an Otome Game and Desperately Tries Not to Get Her Bad Ending"
 slug: "my-next-life-as-a-villainess"
+coverImage: "/covers/my-next-life-as-a-villainess.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "My Next Life as a Villainess: All Routes Lead to Doom!"
@@ -128,7 +129,10 @@ Seven Seas Entertainment published the complete 8-volume manga. The light novel 
 
 ## Where to Buy
 
-[Get My Next Life as a Villainess Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Next+Life+as+a+Villainess%3A+All+Routes+Lead+to+Doom%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=My+Next+Life+as+a+Villainess%3A+All+Routes+Lead+to+Doom%21+manga&i=stripbooks)
+
 
 ---
 

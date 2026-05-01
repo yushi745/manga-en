@@ -124,7 +124,10 @@ Dark Horse published the original 3-volume English series. The continuation Drug
 
 ## Where to Buy
 
-[Get Legal Drug Vol. 1 on Amazon →](https://www.amazon.com/s?k=Legal+Drug+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Legal+Drug+manga&i=stripbooks)
+
 
 ---
 

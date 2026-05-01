@@ -129,6 +129,7 @@ Dasei 67% has no official English translation.
 
 ## Where to Buy
 
-Dasei 67% is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

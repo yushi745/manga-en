@@ -1,6 +1,7 @@
 ---
 title: "Your Name Review: The Body-Swapping Love Story That Became a Global Phenomenon"
 slug: "your-name"
+coverImage: "/covers/your-name.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Your Name (Kimi no Na wa)"
@@ -123,7 +124,10 @@ Yen Press published the complete 3-volume English series.
 
 ## Where to Buy
 
-[Get Your Name Vol. 1 on Amazon →](https://www.amazon.com/s?k=Your+Name+%28Kimi+no+Na+wa%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Your+Name+%28Kimi+no+Na+wa%29+manga&i=stripbooks)
+
 
 ---
 

@@ -126,9 +126,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *The Disastrous Life of Saiki K.* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for The Disastrous Life of Saiki K. on Amazon](https://www.amazon.com/s?k=The%20Disastrous%20Life%20of%20Saiki%20K.&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=The%20Disastrous%20Life%20of%20Saiki%20K.&tag=dearmanga-20)
+
 
 ---
 

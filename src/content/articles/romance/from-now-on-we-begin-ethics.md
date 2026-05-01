@@ -124,7 +124,10 @@ Kodansha Comics has published the complete English series. All 9 volumes availab
 
 ## Where to Buy
 
-[Get From Now On We Begin Ethics Vol. 1 on Amazon →](https://www.amazon.com/s?k=From+Now+On+We+Begin+Ethics+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=From+Now+On+We+Begin+Ethics+manga&i=stripbooks)
+
 
 ---
 

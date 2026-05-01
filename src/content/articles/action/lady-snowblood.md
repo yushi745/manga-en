@@ -1,6 +1,7 @@
 ---
 title: "Lady Snowblood Review: A Woman Born in Prison to Be a Weapon of Revenge"
 slug: "lady-snowblood"
+coverImage: "/covers/lady-snowblood.jpg"
 genre: "Action / Historical"
 genreSlug: "action"
 mangaTitle: "Lady Snowblood"
@@ -123,7 +124,10 @@ Dark Horse published the complete English series. All 4 volumes available.
 
 ## Where to Buy
 
-[Get Lady Snowblood Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lady+Snowblood+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Lady+Snowblood+manga&i=stripbooks)
+
 
 ---
 

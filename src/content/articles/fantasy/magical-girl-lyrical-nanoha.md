@@ -143,8 +143,10 @@ Seven Seas Entertainment has published the complete Magical Girl Lyrical Nanoha 
 
 ## Where to Buy
 
-- [📱 Magical Girl Lyrical Nanoha Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Magical+Girl+Lyrical+Nanoha+manga&i=stripbooks)
-- [📚 Magical Girl Lyrical Nanoha Vol. 1 — Paperback](https://www.amazon.com/s?k=Magical+Girl+Lyrical+Nanoha+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Magical+Girl+Lyrical+Nanoha+manga&i=stripbooks)
+
 
 ---
 *This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*

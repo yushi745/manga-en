@@ -1,6 +1,7 @@
 ---
 title: "Battle Royale Review: A Class of 42 Students Is Dropped on an Island and Told to Kill Each Other"
 slug: "battle-royale"
+coverImage: "/covers/battle-royale.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Battle Royale"
@@ -127,7 +128,10 @@ Tokyopop published the complete 15-volume run. All volumes available (check used
 
 ## Where to Buy
 
-[Get Battle Royale Vol. 1 on Amazon →](https://www.amazon.com/s?k=Battle+Royale+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Battle+Royale+manga&i=stripbooks)
+
 
 ---
 

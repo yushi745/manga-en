@@ -126,9 +126,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Young Miss Holmes* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Young Miss Holmes on Amazon](https://www.amazon.com/s?k=Young%20Miss%20Holmes&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Young%20Miss%20Holmes&tag=dearmanga-20)
+
 
 ---
 

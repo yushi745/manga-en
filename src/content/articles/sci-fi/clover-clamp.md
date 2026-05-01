@@ -1,6 +1,7 @@
 ---
 title: "Clover Review: CLAMP's Experimental Sci-Fi About a Girl Who Is the Only Person of Her Kind"
 slug: "clover-clamp"
+coverImage: "/covers/clover-clamp.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Clover"
@@ -127,7 +128,10 @@ Tokyopop published 4 volumes in English. The series is incomplete and likely wil
 
 ## Where to Buy
 
-[Get Clover by CLAMP on Amazon →](https://www.amazon.com/s?k=Clover+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Clover+manga&i=stripbooks)
+
 
 ---
 

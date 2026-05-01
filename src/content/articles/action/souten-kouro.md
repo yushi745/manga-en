@@ -1,6 +1,7 @@
 ---
 title: "Souten Kouro Review: Cao Cao as the Hero — the Three Kingdoms Manga That Flips Everything"
 slug: "souten-kouro"
+coverImage: "/covers/souten-kouro.jpg"
 genre: "Action / Historical"
 genreSlug: "action"
 mangaTitle: "Souten Kouro"
@@ -138,6 +139,7 @@ DrMaster published portions of Souten Kouro in English. Check current availabili
 
 ## Where to Buy
 
-[Get Souten Kouro on Amazon →](https://www.amazon.com/dp/B001R2AEVS?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B001R2AEVS?tag=dearmanga-20)
+

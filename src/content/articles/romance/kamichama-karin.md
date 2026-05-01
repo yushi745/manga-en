@@ -1,6 +1,7 @@
 ---
 title: "Kamichama Karin Review: An Ordinary Girl Discovers Her Ring Transforms Her into a Goddess"
 slug: "kamichama-karin"
+coverImage: "/covers/kamichama-karin.jpg"
 genre: "Romance / Magical Girl"
 genreSlug: "romance"
 mangaTitle: "Kamichama Karin"
@@ -125,7 +126,10 @@ Tokyopop published the complete English series. All 7 volumes available (may req
 
 ## Where to Buy
 
-[Get Kamichama Karin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kamichama+Karin+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kamichama+Karin+manga&i=stripbooks)
+
 
 ---
 

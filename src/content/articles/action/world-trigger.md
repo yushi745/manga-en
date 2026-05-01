@@ -127,7 +127,10 @@ VIZ Media is publishing the ongoing series. Currently 24 volumes available in En
 
 ## Where to Buy
 
-[Get World Trigger Vol. 1 on Amazon →](https://www.amazon.com/s?k=World+Trigger+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=World+Trigger+manga&i=stripbooks)
+
 
 ---
 

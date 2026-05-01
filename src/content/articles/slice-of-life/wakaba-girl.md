@@ -1,6 +1,7 @@
 ---
 title: "Wakaba*Girl Review: A Sheltered Rich Girl Wants to Experience Normal High School Life"
 slug: "wakaba-girl"
+coverImage: "/covers/wakaba-girl.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Wakaba*Girl"
@@ -121,7 +122,10 @@ Seven Seas published the complete 2-volume English series.
 
 ## Where to Buy
 
-[Get Wakaba*Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wakaba%2AGirl+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Wakaba%2AGirl+manga&i=stripbooks)
+
 
 ---
 

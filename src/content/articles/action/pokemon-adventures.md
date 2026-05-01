@@ -124,9 +124,10 @@ Start with the Red/Blue arc (Volumes 1-3) — self-contained and the best entry 
 
 ## Where to Buy
 
-You can find **Pokémon Adventures** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Pokémon Adventures on Amazon](https://www.amazon.com/dp/1591167523?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1591167523?tag=dearmanga-20)
+
 
 ---
 

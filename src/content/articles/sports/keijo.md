@@ -124,9 +124,10 @@ Start from Volume 1. Complete at 18 volumes.
 
 ## Where to Buy
 
-You can find **Keijo!!!!!!!!** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Keijo!!!!!!!! on Amazon](https://www.amazon.com/dp/1421590786?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1421590786?tag=dearmanga-20)
+
 
 ---
 

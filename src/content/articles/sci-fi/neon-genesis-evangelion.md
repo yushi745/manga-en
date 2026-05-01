@@ -1,6 +1,7 @@
 ---
 title: "Neon Genesis Evangelion Review: Giant Robots and the Boy Who Could Not Pilot Them"
 slug: "neon-genesis-evangelion"
+coverImage: "/covers/neon-genesis-evangelion.jpg"
 genre: "Sci-Fi / Mecha"
 genreSlug: "sci-fi"
 mangaTitle: "Neon Genesis Evangelion"
@@ -136,7 +137,10 @@ VIZ Media published the complete 14-volume series, including omnibus editions. A
 
 ## Where to Buy
 
-[Get Neon Genesis Evangelion Omnibus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Neon+Genesis+Evangelion+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Neon+Genesis+Evangelion+manga&i=stripbooks)
+
 
 ---
 

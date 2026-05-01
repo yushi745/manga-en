@@ -128,7 +128,10 @@ VIZ Media is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get Boruto Vol. 1 on Amazon →](https://www.amazon.com/s?k=Boruto%3A+Naruto+Next+Generations+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Boruto%3A+Naruto+Next+Generations+manga&i=stripbooks)
+
 
 ---
 

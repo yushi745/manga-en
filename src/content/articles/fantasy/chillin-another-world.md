@@ -125,7 +125,10 @@ Seven Seas is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get Chillin' in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chillin%27+in+Another+World+with+Level+2+Super+Cheat+Powers+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Chillin%27+in+Another+World+with+Level+2+Super+Cheat+Powers+manga&i=stripbooks)
+
 
 ---
 

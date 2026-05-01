@@ -122,7 +122,10 @@ CMX published the 2-volume English series. Complete.
 
 ## Where to Buy
 
-[Get Shirley on Amazon →](https://www.amazon.com/s?k=Shirley+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Shirley+manga&i=stripbooks)
+
 
 ---
 

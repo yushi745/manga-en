@@ -145,8 +145,10 @@ Denpa Books has published City Hunter digitally in English, releasing the comple
 
 ## Where to Buy
 
-- [📱 City Hunter Vol. 1 — Kindle / Digital](https://www.amazon.com/s?k=City+Hunter+manga+Denpa&i=stripbooks)
-- [📚 City Hunter — Paperback](https://www.amazon.com/s?k=City+Hunter+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=City+Hunter+manga+Denpa&i=stripbooks)
+
 
 ---
 *This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*

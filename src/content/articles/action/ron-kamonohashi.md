@@ -130,7 +130,10 @@ VIZ Media is publishing Ron Kamonohashi in English as part of its Shonen Jump li
 
 ## Where to Buy
 
-[**View Ron Kamonohashi: Deranged Detective on Amazon →**](https://www.amazon.com/dp/1974736385?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1974736385?tag=dearmanga-20)
+
 
 ---
 

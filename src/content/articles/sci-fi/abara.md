@@ -1,6 +1,7 @@
 ---
 title: "Abara Review: Nihei's Vision of Biological Weapons and the Ruins They Leave Told in Near-Wordless Architecture"
 slug: "abara"
+coverImage: "/covers/abara.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Abara"
@@ -125,7 +126,10 @@ VIZ Media has published the complete English series. Both volumes available.
 
 ## Where to Buy
 
-[Get Abara Vol. 1 on Amazon →](https://www.amazon.com/s?k=Abara+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Abara+manga&i=stripbooks)
+
 
 ---
 

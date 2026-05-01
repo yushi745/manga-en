@@ -1,6 +1,7 @@
 ---
 title: "Even Though We're Adults Review: Two Women Reunite After Years Apart and Fall in Love — One of Them Is Married"
 slug: "even-though-were-adults"
+coverImage: "/covers/even-though-were-adults.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Even Though We're Adults"
@@ -127,7 +128,10 @@ Seven Seas Entertainment has published the complete English series. All 7 volume
 
 ## Where to Buy
 
-[Get Even Though We're Adults Vol. 1 on Amazon →](https://www.amazon.com/s?k=Even+Though+We%27re+Adults+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Even+Though+We%27re+Adults+manga&i=stripbooks)
+
 
 ---
 

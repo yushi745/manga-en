@@ -126,7 +126,10 @@ Kodansha Comics is actively publishing the ongoing English edition. Check for th
 
 ## Where to Buy
 
-[Get In/Spectre Vol. 1 on Amazon →](https://www.amazon.com/s?k=In%2FSpectre+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=In%2FSpectre+manga&i=stripbooks)
+
 
 ---
 

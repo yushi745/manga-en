@@ -196,9 +196,10 @@ The 42 volumes break naturally into two sections: Dragon Ball (vols. 1–16, the
 
 ## Where to Buy
 
-- [📱 Dragon Ball Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Dragon+Ball+manga&i=stripbooks)
-- [📚 Dragon Ball Vol. 1 — Paperback](https://www.amazon.com/s?k=Dragon+Ball+manga&i=stripbooks)
-- [📦 Dragon Ball VIZBIG Vol. 1 (3-in-1)](https://www.amazon.com/s?k=Dragon+Ball+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Dragon+Ball+manga&i=stripbooks)
+
 
 ---
 

@@ -131,6 +131,7 @@ Two volumes of The Solitary Gourmet were published in English. The series is not
 
 ## Where to Buy
 
-The Solitary Gourmet is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

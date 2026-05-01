@@ -134,6 +134,7 @@ Crest of the Royal Family has no official English translation. Available in Japa
 
 ## Where to Buy
 
-Crest of the Royal Family is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

@@ -128,7 +128,10 @@ Yen Press publishes the ongoing series. 5+ volumes currently available in Englis
 
 ## Where to Buy
 
-[Get Slow Start Vol. 1 on Amazon →](https://www.amazon.com/s?k=Slow+Start+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Slow+Start+manga&i=stripbooks)
+
 
 ---
 

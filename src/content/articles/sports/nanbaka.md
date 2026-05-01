@@ -122,9 +122,10 @@ Start from Volume 1. Only 4 volumes in English currently.
 
 ## Where to Buy
 
-You can find **Nanbaka** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Nanbaka on Amazon](https://www.amazon.com/dp/1604729546?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1604729546?tag=dearmanga-20)
+
 
 ---
 

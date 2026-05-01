@@ -1,6 +1,7 @@
 ---
 title: "Love in Focus Review: A Photography Club Girl Moves to a New City and Accidentally Keeps Photographing the Same Boy"
 slug: "love-in-focus"
+coverImage: "/covers/love-in-focus.jpg"
 genre: "Romance / Slice of Life"
 genreSlug: "romance"
 mangaTitle: "Love in Focus"
@@ -123,7 +124,10 @@ Kodansha Comics has published the complete English series. All 4 volumes availab
 
 ## Where to Buy
 
-[Get Love in Focus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Love+in+Focus+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Love+in+Focus+manga&i=stripbooks)
+
 
 ---
 

@@ -126,7 +126,10 @@ ADV Manga published the complete English series. All 8 volumes available (may re
 
 ## Where to Buy
 
-[Get Chrono Crusade Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chrono+Crusade+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Chrono+Crusade+manga&i=stripbooks)
+
 
 ---
 

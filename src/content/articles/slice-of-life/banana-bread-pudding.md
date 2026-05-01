@@ -127,9 +127,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Banana Bread Pudding* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%83%90%E3%83%8A%E3%83%8A%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%81%AE%E3%83%97%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0&tag=yushi745-22)
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Bartender Review: Every Glass Holds a Story, Every Story Needs the Right Drink"
 slug: "bartender"
+coverImage: "/covers/bartender.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Bartender"
@@ -126,6 +127,7 @@ Bartender had one volume published in English (Viz Media) and did not continue. 
 
 ## Where to Buy
 
-Bartender is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: "My Teen Romantic Comedy SNAFU Review: A Cynical Loner Joins the Service Club"
 slug: "oregairu"
+coverImage: "/covers/oregairu.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "My Teen Romantic Comedy SNAFU"
@@ -125,7 +126,10 @@ Yen Press published the complete 13-volume English series.
 
 ## Where to Buy
 
-[Get My Teen Romantic Comedy SNAFU Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Teen+Romantic+Comedy+SNAFU+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=My+Teen+Romantic+Comedy+SNAFU+manga&i=stripbooks)
+
 
 ---
 

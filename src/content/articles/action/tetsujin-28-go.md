@@ -139,7 +139,10 @@ Dark Horse Comics published 7 volumes in English, collecting highlights from the
 
 ## Where to Buy
 
-[**View Tetsujin 28-go on Amazon →**](https://www.amazon.com/dp/1569718296?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1569718296?tag=dearmanga-20)
+
 
 ---
 

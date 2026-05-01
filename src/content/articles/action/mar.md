@@ -1,6 +1,7 @@
 ---
 title: "MÄR Review: A Bullied Boy Escapes to a Fantasy World and Discovers He's the Only One Who Can Save It"
 slug: "mar"
+coverImage: "/covers/mar.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "MÄR: Märchen Awakens Romance"
@@ -125,7 +126,10 @@ Viz Media published the complete 15-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get MÄR Vol. 1 on Amazon →](https://www.amazon.com/s?k=M%C3%84R%3A+M%C3%A4rchen+Awakens+Romance+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=M%C3%84R%3A+M%C3%A4rchen+Awakens+Romance+manga&i=stripbooks)
+
 
 ---
 

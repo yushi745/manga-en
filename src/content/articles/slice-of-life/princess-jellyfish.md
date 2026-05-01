@@ -1,6 +1,7 @@
 ---
 title: "Princess Jellyfish Review: A Nerdy Otaku Girl Meets a Cross-Dressing Rich Boy Who Changes Everything"
 slug: "princess-jellyfish"
+coverImage: "/covers/princess-jellyfish.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Princess Jellyfish"
@@ -124,7 +125,10 @@ Kodansha Comics published a complete English edition in 9 omnibus volumes. All v
 
 ## Where to Buy
 
-[Get Princess Jellyfish Vol. 1 on Amazon →](https://www.amazon.com/s?k=Princess+Jellyfish+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Princess+Jellyfish+manga&i=stripbooks)
+
 
 ---
 

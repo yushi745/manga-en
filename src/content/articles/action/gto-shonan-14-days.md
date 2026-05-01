@@ -1,6 +1,7 @@
 ---
 title: "GTO: Shonan 14 Days Review: Onizuka Returns and He Is Still the Best Teacher in Manga"
 slug: "gto-shonan-14-days"
+coverImage: "/covers/gto-shonan-14-days.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "GTO: Shonan 14 Days"
@@ -140,6 +141,7 @@ Vertical Comics published all 12 volumes in English. The series is complete. All
 
 ## Where to Buy
 
-[Get GTO: Shonan 14 Days on Amazon →](https://www.amazon.com/dp/B00DLYEAEM?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B00DLYEAEM?tag=dearmanga-20)
+

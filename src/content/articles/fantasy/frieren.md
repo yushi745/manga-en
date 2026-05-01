@@ -195,8 +195,10 @@ Start from Volume 1. The series builds meaning through accumulation.
 
 ## Where to Buy
 
-- [📱 Frieren Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Frieren%3A+Beyond+Journey%27s+End+manga&i=stripbooks)
-- [📚 Frieren Vol. 1 — Paperback](https://www.amazon.com/s?k=Frieren%3A+Beyond+Journey%27s+End+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Frieren%3A+Beyond+Journey%27s+End+manga&i=stripbooks)
+
 
 ---
 

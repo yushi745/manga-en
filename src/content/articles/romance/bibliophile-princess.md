@@ -126,7 +126,10 @@ Seven Seas Entertainment publishes the ongoing English series. 7+ volumes curren
 
 ## Where to Buy
 
-[Get Bibliophile Princess Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bibliophile+Princess+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Bibliophile+Princess+manga&i=stripbooks)
+
 
 ---
 

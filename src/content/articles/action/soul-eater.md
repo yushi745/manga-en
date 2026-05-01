@@ -1,6 +1,7 @@
 ---
 title: "Soul Eater Review: Where Weapons Have Souls and Madness Is a World-Ending Threat"
 slug: "soul-eater"
+coverImage: "/covers/soul-eater.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Soul Eater"
@@ -192,8 +193,10 @@ Start from Volume 1. The world-building is established across the early volumes 
 
 ## Where to Buy
 
-- [📱 Soul Eater Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Soul+Eater+manga&i=stripbooks)
-- [📚 Soul Eater Vol. 1 — Paperback](https://www.amazon.com/s?k=Soul+Eater+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Soul+Eater+manga&i=stripbooks)
+
 
 ---
 

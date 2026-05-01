@@ -141,7 +141,10 @@ Seven Seas Entertainment published all 14 volumes in English. Complete and avail
 
 ## Where to Buy
 
-[**View How to Keep a Mummy on Amazon →**](https://www.amazon.com/dp/1626929319?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1626929319?tag=dearmanga-20)
+
 
 ---
 

@@ -124,7 +124,10 @@ VIZ Media published this single volume. Complete and available.
 
 ## Where to Buy
 
-[Get Sensor on Amazon →](https://www.amazon.com/s?k=Sensor+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Sensor+manga&i=stripbooks)
+
 
 ---
 

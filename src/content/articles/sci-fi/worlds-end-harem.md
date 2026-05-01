@@ -1,6 +1,7 @@
 ---
 title: "World's End Harem Review: A Man Wakes From Cryosleep to a World Where Almost All Men Are Gone"
 slug: "worlds-end-harem"
+coverImage: "/covers/worlds-end-harem.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "World's End Harem"
@@ -120,7 +121,10 @@ Seven Seas Entertainment published all 16 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get World's End Harem Vol. 1 on Amazon →](https://www.amazon.com/s?k=World%27s+End+Harem+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=World%27s+End+Harem+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Hana yori Dango Review: The Shojo That Defined an Era"
 slug: "hana-yori-dango"
+coverImage: "/covers/hana-yori-dango.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Hana yori Dango"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Hana yori Dango* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Hana yori Dango on Amazon](https://www.amazon.com/s?k=Hana%20yori%20Dango&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Hana%20yori%20Dango&tag=dearmanga-20)
+
 
 ---
 

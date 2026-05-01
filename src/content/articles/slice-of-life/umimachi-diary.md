@@ -135,6 +135,7 @@ Umimachi Diary has a complete official English translation (all 9 volumes) from 
 
 ## Where to Buy
 
-Umimachi Diary is available in English from Drawn & Quarterly.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---

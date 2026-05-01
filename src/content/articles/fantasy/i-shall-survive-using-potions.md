@@ -124,7 +124,10 @@ Seven Seas Entertainment is publishing the English edition, currently at 7 volum
 
 ## Where to Buy
 
-[Get I Shall Survive Using Potions Vol. 1 on Amazon →](https://www.amazon.com/s?k=I+Shall+Survive+Using+Potions%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=I+Shall+Survive+Using+Potions%21+manga&i=stripbooks)
+
 
 ---
 

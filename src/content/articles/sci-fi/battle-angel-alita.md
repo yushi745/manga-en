@@ -1,6 +1,7 @@
 ---
 title: "Battle Angel Alita Review: A Warrior Without a Past in a World Without Mercy"
 slug: "battle-angel-alita"
+coverImage: "/covers/battle-angel-alita.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Battle Angel Alita"
@@ -134,7 +135,10 @@ Kodansha USA publishes the current English editions. The deluxe editions (2-in-1
 
 ## Where to Buy
 
-[Get Battle Angel Alita Deluxe Vol. 1 on Amazon →](https://www.amazon.com/s?k=Battle+Angel+Alita+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Battle+Angel+Alita+manga&i=stripbooks)
+
 
 ---
 

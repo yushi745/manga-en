@@ -1,6 +1,7 @@
 ---
 title: "Higanjima Review: The Vampire Island Horror That Kept Me Up at Night"
 slug: "higanjima"
+coverImage: "/covers/higanjima.jpg"
 genre: "Horror / Action"
 genreSlug: "horror"
 mangaTitle: "Higanjima"
@@ -142,6 +143,7 @@ DrMaster published 8 volumes in English, covering the initial island arc. These 
 
 ## Where to Buy
 
-[Get Higanjima on Amazon →](https://www.amazon.com/dp/B000BFHVPE?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B000BFHVPE?tag=dearmanga-20)
+

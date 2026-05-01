@@ -144,7 +144,10 @@ Viz Media published all 15 volumes of the main series in English. Translation is
 
 ## Where to Buy
 
-[**View Library Wars: Love & War on Amazon →**](https://www.amazon.com/dp/B00CDXVSOC?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/B00CDXVSOC?tag=dearmanga-20)
+
 
 ---
 

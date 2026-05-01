@@ -126,7 +126,10 @@ VIZ Media published volumes in English. Series is ongoing; check current availab
 
 ## Where to Buy
 
-[Get Bio-Boosted Armor Guyver Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bio-Boosted+Armor+Guyver+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Bio-Boosted+Armor+Guyver+manga&i=stripbooks)
+
 
 ---
 

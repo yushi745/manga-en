@@ -1,6 +1,7 @@
 ---
 title: "xxxHOLiC Review: A Boy Who Sees Spirits Becomes Indentured to a Witch Who Grants Wishes"
 slug: "xxxholic"
+coverImage: "/covers/xxxholic.jpg"
 genre: "Fantasy / Supernatural"
 genreSlug: "fantasy"
 mangaTitle: "xxxHOLiC"
@@ -128,7 +129,10 @@ Del Rey / Kodansha USA published the complete 19-volume series. All volumes avai
 
 ## Where to Buy
 
-[Get xxxHOLiC Vol. 1 on Amazon →](https://www.amazon.com/s?k=xxxHOLiC+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=xxxHOLiC+manga&i=stripbooks)
+
 
 ---
 

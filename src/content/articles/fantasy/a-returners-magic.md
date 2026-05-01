@@ -129,9 +129,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *A Returner's Magic Should Be Special* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for A Returner's Magic Should Be Special on Amazon](https://www.amazon.com/s?k=A%20Returner%27s%20Magic%20Should%20Be%20Special&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=A%20Returner%27s%20Magic%20Should%20Be%20Special&tag=dearmanga-20)
+
 
 ---
 

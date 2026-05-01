@@ -147,6 +147,7 @@ Yen Press has been publishing Yotsuba&! in English since 2005. All 15 volumes ar
 
 ## Where to Buy
 
-[Get Yotsuba&! on Amazon →](https://www.amazon.com/dp/B00F3CXN8W?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B00F3CXN8W?tag=dearmanga-20)
+

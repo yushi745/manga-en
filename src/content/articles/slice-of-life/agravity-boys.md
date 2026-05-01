@@ -122,9 +122,10 @@ Complete in 6 volumes. Read start to finish.
 
 ## Where to Buy
 
-You can find **Agravity Boys** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Agravity Boys on Amazon](https://www.amazon.com/dp/1974720934?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974720934?tag=dearmanga-20)
+
 
 ---
 

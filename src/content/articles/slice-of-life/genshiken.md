@@ -127,7 +127,10 @@ Del Rey (now Kodansha USA) published the complete 9-volume original series. The 
 
 ## Where to Buy
 
-[Get Genshiken Vol. 1 on Amazon →](https://www.amazon.com/s?k=Genshiken+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Genshiken+manga&i=stripbooks)
+
 
 ---
 

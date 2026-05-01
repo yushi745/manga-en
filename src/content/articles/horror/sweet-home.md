@@ -1,6 +1,7 @@
 ---
 title: "Sweet Home Review: When the Apartment Building Becomes the Whole World"
 slug: "sweet-home"
+coverImage: "/covers/sweet-home.jpg"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Sweet Home"
@@ -131,9 +132,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Sweet Home* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Sweet Home on Amazon](https://www.amazon.com/s?k=Sweet%20Home&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Sweet%20Home&tag=dearmanga-20)
+
 
 ---
 

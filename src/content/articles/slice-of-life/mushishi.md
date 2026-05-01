@@ -1,6 +1,7 @@
 ---
 title: "Mushishi Review: The Man Who Walks Between the Living World and Something Older"
 slug: "mushishi"
+coverImage: "/covers/mushishi.jpg"
 genre: "Slice of Life / Fantasy"
 genreSlug: "slice-of-life"
 mangaTitle: "Mushishi"
@@ -132,7 +133,10 @@ Kodansha USA published the complete 10-volume series in English. All volumes ava
 
 ## Where to Buy
 
-[Get Mushishi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mushishi+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Mushishi+manga&i=stripbooks)
+
 
 ---
 

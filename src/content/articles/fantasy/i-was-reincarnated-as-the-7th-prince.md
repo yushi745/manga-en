@@ -126,7 +126,10 @@ Kodansha Comics publishes the ongoing series. 9+ volumes currently available in 
 
 ## Where to Buy
 
-[Get I Was Reincarnated as the 7th Prince Vol. 1 on Amazon →](https://www.amazon.com/s?k=I+Was+Reincarnated+as+the+7th+Prince%2C+so+I+Can+Take+My+Time+Perfecting+My+Magic+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=I+Was+Reincarnated+as+the+7th+Prince%2C+so+I+Can+Take+My+Time+Perfecting+My+Magic+manga&i=stripbooks)
+
 
 ---
 

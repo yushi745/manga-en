@@ -1,6 +1,7 @@
 ---
 title: "Sweetness & Lightning Review: A Widowed Father and His Daughter Learn to Cook Together, One Recipe at a Time"
 slug: "sweetness-lightning"
+coverImage: "/covers/sweetness-lightning.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Sweetness & Lightning"
@@ -125,7 +126,10 @@ Kodansha Comics published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Sweetness & Lightning Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sweetness+%26+Lightning+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Sweetness+%26+Lightning+manga&i=stripbooks)
+
 
 ---
 

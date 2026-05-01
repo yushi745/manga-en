@@ -1,6 +1,7 @@
 ---
 title: "Dirty Pair Review: The Sci-Fi Action Duo Who Save the Universe While Destroying Everything Else"
 slug: "dirty-pair"
+coverImage: "/covers/dirty-pair.jpg"
 genre: "Action / Sci-Fi"
 genreSlug: "action"
 mangaTitle: "Dirty Pair"
@@ -132,6 +133,7 @@ The Japanese Dirty Pair manga has no official English translation. The Adam Warr
 
 ## Where to Buy
 
-The original Japanese Dirty Pair manga is available in Japanese only. Adam Warren's English adaptations are available from Dark Horse.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Knights of Sidonia Review: The Last Humans, Drifting in Space, Fighting Monsters"
 slug: "knights-of-sidonia"
+coverImage: "/covers/knights-of-sidonia.jpg"
 genre: "Sci-Fi / Mecha"
 genreSlug: "sci-fi"
 mangaTitle: "Knights of Sidonia"
@@ -128,7 +129,10 @@ Vertical published the complete 15-volume series in English. All volumes availab
 
 ## Where to Buy
 
-[Get Knights of Sidonia Vol. 1 on Amazon →](https://www.amazon.com/s?k=Knights+of+Sidonia+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Knights+of+Sidonia+manga&i=stripbooks)
+
 
 ---
 

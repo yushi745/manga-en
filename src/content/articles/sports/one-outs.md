@@ -122,9 +122,10 @@ Start from Volume 1. Complete at 20 volumes.
 
 ## Where to Buy
 
-You can find **One Outs** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy One Outs on Amazon](https://www.amazon.com/dp/142155097X?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/142155097X?tag=dearmanga-20)
+
 
 ---
 

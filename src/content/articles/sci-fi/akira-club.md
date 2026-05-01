@@ -1,6 +1,7 @@
 ---
 title: "Akira Club Review: The Otomo Companion You Didn't Know You Needed"
 slug: "akira-club"
+coverImage: "/covers/akira-club.jpg"
 genre: "Sci-Fi / Art Book"
 genreSlug: "sci-fi"
 mangaTitle: "Akira Club"
@@ -124,9 +125,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Akira Club* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Akira Club on Amazon](https://www.amazon.com/s?k=Akira%20Club&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Akira%20Club&tag=dearmanga-20)
+
 
 ---
 

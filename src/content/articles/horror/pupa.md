@@ -1,6 +1,7 @@
 ---
 title: "Pupa Review: A Sister Becomes a Monster and Her Brother Lets Her Eat Him to Keep Her Alive"
 slug: "pupa"
+coverImage: "/covers/pupa.jpg"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Pupa"
@@ -122,7 +123,10 @@ Yen Press published all 5 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Pupa Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pupa+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Pupa+manga&i=stripbooks)
+
 
 ---
 

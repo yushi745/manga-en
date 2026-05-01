@@ -133,7 +133,10 @@ VIZ Media published the complete 20-volume series in English. All volumes are av
 
 ## Where to Buy
 
-[Get The Promised Neverland Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Promised+Neverland+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Promised+Neverland+manga&i=stripbooks)
+
 
 ---
 

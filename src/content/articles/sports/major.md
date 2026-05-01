@@ -1,6 +1,7 @@
 ---
 title: "Major Review: A Boy Who Wants to Be a Pro Baseball Player Like His Father Pursues That Dream Through Every Obstacle Life Creates"
 slug: "major"
+coverImage: "/covers/major.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Major"
@@ -122,9 +123,8 @@ Not available in English. This series has not been officially licensed in Englis
 
 ## Where to Buy
 
-Find the Japanese edition of *Major* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=MAJOR&tag=yushi745-22)
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Loveless Review: A Boy Investigates His Brother's Death and Finds Himself in a World of Fighter Pairs and Incomplete Names"
 slug: "loveless"
+coverImage: "/covers/loveless.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Loveless"
@@ -127,7 +128,10 @@ Tokyopop originally published volumes 1-8; VIZ Media Blu has continued from volu
 
 ## Where to Buy
 
-[Get Loveless Vol. 1 on Amazon →](https://www.amazon.com/s?k=Loveless+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Loveless+manga&i=stripbooks)
+
 
 ---
 

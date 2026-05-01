@@ -1,6 +1,7 @@
 ---
 title: "Sugar Sugar Rune Review: Two Best Friends Compete to Become Queen of the Magic World by Collecting Human Hearts"
 slug: "sugar-sugar-rune"
+coverImage: "/covers/sugar-sugar-rune.jpg"
 genre: "Fantasy / Magical Girl"
 genreSlug: "fantasy"
 mangaTitle: "Sugar Sugar Rune"
@@ -127,7 +128,10 @@ Del Rey Manga published the complete 8-volume run. All volumes available (check 
 
 ## Where to Buy
 
-[Get Sugar Sugar Rune Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sugar+Sugar+Rune+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Sugar+Sugar+Rune+manga&i=stripbooks)
+
 
 ---
 

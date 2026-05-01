@@ -131,7 +131,10 @@ Kodansha USA published the complete 11-volume series. All volumes available in p
 
 ## Where to Buy
 
-[Get Your Lie in April Vol. 1 on Amazon →](https://www.amazon.com/s?k=Your+Lie+in+April+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Your+Lie+in+April+manga&i=stripbooks)
+
 
 ---
 

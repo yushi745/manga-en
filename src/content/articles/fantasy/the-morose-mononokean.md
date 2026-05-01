@@ -1,6 +1,7 @@
 ---
 title: "The Morose Mononokean Review: Yokai Business Has Never Been So Heartwarming"
 slug: "the-morose-mononokean"
+coverImage: "/covers/the-morose-mononokean.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "The Morose Mononokean"
@@ -127,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *The Morose Mononokean* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for The Morose Mononokean on Amazon](https://www.amazon.com/s?k=The%20Morose%20Mononokean&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=The%20Morose%20Mononokean&tag=dearmanga-20)
+
 
 ---
 

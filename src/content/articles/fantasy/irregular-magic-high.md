@@ -128,7 +128,10 @@ Yen Press published the complete 18-volume manga series. All volumes available.
 
 ## Where to Buy
 
-[Get The Irregular at Magic High School Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Irregular+at+Magic+High+School+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Irregular+at+Magic+High+School+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Detective School Q Review: Five Students, One Academy, and Mysteries That Would Break a Professional"
 slug: "detective-school-q"
+coverImage: "/covers/detective-school-q.jpg"
 genre: "Action / Mystery"
 genreSlug: "action"
 mangaTitle: "Detective School Q"
@@ -128,6 +129,7 @@ Detective School Q has a complete official English translation available in all 
 
 ## Where to Buy
 
-Detective School Q is available in English from Kodansha Comics.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---

@@ -128,7 +128,10 @@ Kodansha USA has published the complete series. All volumes available.
 
 ## Where to Buy
 
-[Get Peach Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Peach+Girl+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Peach+Girl+manga&i=stripbooks)
+
 
 ---
 

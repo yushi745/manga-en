@@ -1,6 +1,7 @@
 ---
 title: "Gundam SEED Review: The Gundam Entry That Made Genetic Destiny Its Central Conflict"
 slug: "gundam-seed"
+coverImage: "/covers/gundam-seed.jpg"
 genre: "Sci-Fi / Mecha"
 genreSlug: "sci-fi"
 mangaTitle: "Mobile Suit Gundam SEED"
@@ -128,9 +129,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Mobile Suit Gundam SEED* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Mobile Suit Gundam SEED on Amazon](https://www.amazon.com/s?k=Mobile%20Suit%20Gundam%20SEED&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Mobile%20Suit%20Gundam%20SEED&tag=dearmanga-20)
+
 
 ---
 

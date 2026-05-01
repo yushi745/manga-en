@@ -1,6 +1,7 @@
 ---
 title: "Q.E.D. Review: The High School Genius Who Solves Mysteries the Way Mathematicians Solve Proofs"
 slug: "qed"
+coverImage: "/covers/qed.jpg"
 genre: "Action / Mystery"
 genreSlug: "action"
 mangaTitle: "Q.E.D."
@@ -128,6 +129,7 @@ Q.E.D. had 2 volumes released in English by Kodansha Comics. The series is curre
 
 ## Where to Buy
 
-Q.E.D. is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

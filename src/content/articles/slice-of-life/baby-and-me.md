@@ -143,7 +143,10 @@ Viz Media published all 18 volumes in English. The series is complete and widely
 
 ## Where to Buy
 
-[**View Baby and Me on Amazon →**](https://www.amazon.com/s?k=baby+and+me+manga+ragawa&tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=baby+and+me+manga+ragawa&tag=dearmanga-20)
+
 
 ---
 

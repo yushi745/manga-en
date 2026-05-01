@@ -131,6 +131,7 @@ Asaki Yumemishi has no official English translation. The Tale of Genji itself ha
 
 ## Where to Buy
 
-Asaki Yumemishi is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

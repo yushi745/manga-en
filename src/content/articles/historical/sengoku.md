@@ -1,6 +1,7 @@
 ---
 title: "Sengoku Review: The Warring States Period Through the Eyes of a Foot Soldier"
 slug: "sengoku"
+coverImage: "/covers/sengoku.jpg"
 genre: "Historical / Action"
 genreSlug: "historical"
 mangaTitle: "Sengoku"
@@ -130,6 +131,7 @@ Sengoku has no official English translation. Available in Japanese only.
 
 ## Where to Buy
 
-Sengoku is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

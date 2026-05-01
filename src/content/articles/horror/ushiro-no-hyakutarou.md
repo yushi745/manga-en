@@ -1,6 +1,7 @@
 ---
 title: "Ushiro no Hyakutarou Review: The Boy Who Carries 100 Spirits"
 slug: "ushiro-no-hyakutarou"
+coverImage: "/covers/ushiro-no-hyakutarou.jpg"
 genre: "Horror / Supernatural"
 genreSlug: "horror"
 mangaTitle: "Ushiro no Hyakutarou"
@@ -126,9 +127,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Ushiro no Hyakutarou* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%81%86%E3%81%97%E3%82%8D%E3%81%AE%E7%99%BE%E5%A4%AA%E9%83%8E&tag=yushi745-22)
 
 ---
 

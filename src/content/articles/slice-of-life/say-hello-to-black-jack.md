@@ -133,6 +133,7 @@ Say Hello to Black Jack has no official English translation. Available in Japane
 
 ## Where to Buy
 
-Say Hello to Black Jack is currently available in Japanese only. The author has made it freely available online.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

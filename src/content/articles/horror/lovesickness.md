@@ -125,9 +125,10 @@ Works as a standalone. Reading other Ito anthologies first helps you appreciate 
 
 ## Where to Buy
 
-You can find **Lovesickness: Junji Ito Story Collection** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Lovesickness: Junji Ito Story Collection on Amazon](https://www.amazon.com/dp/1974724476?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974724476?tag=dearmanga-20)
+
 
 ---
 

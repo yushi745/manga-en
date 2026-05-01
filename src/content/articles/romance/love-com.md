@@ -1,6 +1,7 @@
 ---
 title: "Love★Com Review: The Comedy Duo Romance That Made Me Believe in Unlikely Pairs"
 slug: "love-com"
+coverImage: "/covers/love-com.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Love★Com"
@@ -138,7 +139,10 @@ Viz Media published all 17 volumes in English under their Shojo Beat imprint. Co
 
 ## Where to Buy
 
-[**View Love★Com on Amazon →**](https://www.amazon.com/dp/B00CDXVPIE?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/B00CDXVPIE?tag=dearmanga-20)
+
 
 ---
 

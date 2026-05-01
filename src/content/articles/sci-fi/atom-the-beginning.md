@@ -1,6 +1,7 @@
 ---
 title: "Atom: The Beginning Review: The Origin Story of Astro Boy's World, Told Through Two Young Scientists and Their Robot"
 slug: "atom-the-beginning"
+coverImage: "/covers/atom-the-beginning.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Atom: The Beginning"
@@ -125,7 +126,10 @@ VIZ Media publishes the ongoing series. 12+ volumes currently available in Engli
 
 ## Where to Buy
 
-[Get Atom: The Beginning Vol. 1 on Amazon →](https://www.amazon.com/s?k=Atom%3A+The+Beginning+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Atom%3A+The+Beginning+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Heartbroken Chocolatier Review: The Josei Manga About Making Art Out of Unrequited Love"
 slug: "heartbroken-chocolatier"
+coverImage: "/covers/heartbroken-chocolatier.jpg"
 genre: "Romance / Josei"
 genreSlug: "romance"
 mangaTitle: "Heartbroken Chocolatier"
@@ -128,9 +129,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Heartbroken Chocolatier* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Heartbroken Chocolatier on Amazon](https://www.amazon.com/s?k=Heartbroken%20Chocolatier&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Heartbroken%20Chocolatier&tag=dearmanga-20)
+
 
 ---
 

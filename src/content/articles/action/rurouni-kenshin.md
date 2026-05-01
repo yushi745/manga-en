@@ -199,8 +199,10 @@ Start from Volume 1. The series builds its characters carefully before the Kyoto
 
 ## Where to Buy
 
-- [📱 Rurouni Kenshin Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Rurouni+Kenshin+manga&i=stripbooks)
-- [📚 Rurouni Kenshin Vol. 1 — Paperback](https://www.amazon.com/s?k=Rurouni+Kenshin+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Rurouni+Kenshin+manga&i=stripbooks)
+
 
 ---
 

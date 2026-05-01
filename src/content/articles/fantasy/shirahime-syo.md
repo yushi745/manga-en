@@ -1,6 +1,7 @@
 ---
 title: "Shirahime-Syo Review: CLAMP Goes Folkloric and Heartbreaking"
 slug: "shirahime-syo"
+coverImage: "/covers/shirahime-syo.jpg"
 genre: "Drama / Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Shirahime-Syo: Snow Goddess Tales"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Shirahime-Syo: Snow Goddess Tales* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Shirahime-Syo: Snow Goddess Tales on Amazon](https://www.amazon.com/s?k=Shirahime-Syo%3A%20Snow%20Goddess%20Tales&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Shirahime-Syo%3A%20Snow%20Goddess%20Tales&tag=dearmanga-20)
+
 
 ---
 

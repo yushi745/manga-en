@@ -201,8 +201,10 @@ The complete series is available in English. You can read the whole story right 
 
 ## Where to Buy
 
-- [📱 Demon Slayer Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Demon+Slayer%3A+Kimetsu+no+Yaiba+manga&i=stripbooks)
-- [📚 Demon Slayer Vol. 1 — Paperback](https://www.amazon.com/s?k=Demon+Slayer%3A+Kimetsu+no+Yaiba+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Demon+Slayer%3A+Kimetsu+no+Yaiba+manga&i=stripbooks)
+
 
 ---
 

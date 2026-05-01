@@ -141,7 +141,10 @@ One Peace Books published 4 omnibus volumes covering the complete story in Engli
 
 ## Where to Buy
 
-[**View Haikara-san on Amazon →**](https://www.amazon.com/dp/1944937218?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1944937218?tag=dearmanga-20)
+
 
 ---
 

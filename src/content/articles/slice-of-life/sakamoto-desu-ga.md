@@ -129,7 +129,10 @@ Seven Seas Entertainment published the complete 4-volume run. All volumes availa
 
 ## Where to Buy
 
-[Get Haven't You Heard? I'm Sakamoto Vol. 1 on Amazon →](https://www.amazon.com/s?k=Haven%27t+You+Heard%3F+I%27m+Sakamoto+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Haven%27t+You+Heard%3F+I%27m+Sakamoto+manga&i=stripbooks)
+
 
 ---
 

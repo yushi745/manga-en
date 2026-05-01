@@ -1,6 +1,7 @@
 ---
 title: "All You Need Is Kill Review: Die. Reset. Get Better. Kill the Enemy."
 slug: "all-you-need-is-kill"
+coverImage: "/covers/all-you-need-is-kill.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "All You Need Is Kill"
@@ -126,7 +127,10 @@ VIZ Media published the complete 2-volume series. Both volumes available.
 
 ## Where to Buy
 
-[Get All You Need Is Kill Vol. 1 on Amazon →](https://www.amazon.com/s?k=All+You+Need+Is+Kill+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=All+You+Need+Is+Kill+manga&i=stripbooks)
+
 
 ---
 

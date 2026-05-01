@@ -126,7 +126,10 @@ Seven Seas published the complete English series. All 22 volumes available.
 
 ## Where to Buy
 
-[Get Yuuna and the Haunted Hot Springs Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yuuna+and+the+Haunted+Hot+Springs+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yuuna+and+the+Haunted+Hot+Springs+manga&i=stripbooks)
+
 
 ---
 

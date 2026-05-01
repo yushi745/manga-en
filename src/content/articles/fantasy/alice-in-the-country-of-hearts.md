@@ -1,6 +1,7 @@
 ---
 title: "Alice in the Country of Hearts Review: Alice Falls Into Wonderland and Must Navigate Its Armed, Romantic Chaos"
 slug: "alice-in-the-country-of-hearts"
+coverImage: "/covers/alice-in-the-country-of-hearts.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Alice in the Country of Hearts"
@@ -123,7 +124,10 @@ Yen Press published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Alice in the Country of Hearts Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alice+in+the+Country+of+Hearts+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Alice+in+the+Country+of+Hearts+manga&i=stripbooks)
+
 
 ---
 

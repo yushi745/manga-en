@@ -1,6 +1,7 @@
 ---
 title: "The Super Dimension Fortress Macross Review: The Mecha That Used Music as a Weapon"
 slug: "macross"
+coverImage: "/covers/macross.jpg"
 genre: "Sci-Fi / Mecha"
 genreSlug: "sci-fi"
 mangaTitle: "The Super Dimension Fortress Macross"
@@ -128,9 +129,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *The Super Dimension Fortress Macross* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for The Super Dimension Fortress Macross on Amazon](https://www.amazon.com/s?k=The%20Super%20Dimension%20Fortress%20Macross&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=The%20Super%20Dimension%20Fortress%20Macross&tag=dearmanga-20)
+
 
 ---
 

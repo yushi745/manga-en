@@ -122,7 +122,10 @@ Tokyopop published the complete 5-volume English series. Tokyopop is now defunct
 
 ## Where to Buy
 
-[Get Kanon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kanon+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kanon+manga&i=stripbooks)
+
 
 ---
 

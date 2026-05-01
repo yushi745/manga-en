@@ -1,6 +1,7 @@
 ---
 title: "+Anima Review: Children Who Can Transform Into Animals Navigate a World That Fears Them"
 slug: "plus-anima"
+coverImage: "/covers/plus-anima.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "+Anima"
@@ -127,7 +128,10 @@ Tokyopop published the complete 10-volume English edition. Available through sec
 
 ## Where to Buy
 
-[Get +Anima Vol. 1 on Amazon →](https://www.amazon.com/s?k=%2BAnima+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=%2BAnima+manga&i=stripbooks)
+
 
 ---
 

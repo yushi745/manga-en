@@ -129,6 +129,7 @@ The Tailor of the King has no official English translation.
 
 ## Where to Buy
 
-The Tailor of the King is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

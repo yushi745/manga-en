@@ -124,7 +124,10 @@ Drawn & Quarterly published the complete four-volume English translation. All vo
 
 ## Where to Buy
 
-[Get Showa 1926-1939 on Amazon →](https://www.amazon.com/s?k=Showa+1926-1939%3A+A+History+of+Japan+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Showa+1926-1939%3A+A+History+of+Japan+manga&i=stripbooks)
+
 
 ---
 

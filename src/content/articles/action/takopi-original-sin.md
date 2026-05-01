@@ -124,7 +124,10 @@ VIZ Media published the complete 2-volume series. Both volumes available.
 
 ## Where to Buy
 
-[Get Takopi's Original Sin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Takopi%27s+Original+Sin+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Takopi%27s+Original+Sin+manga&i=stripbooks)
+
 
 ---
 

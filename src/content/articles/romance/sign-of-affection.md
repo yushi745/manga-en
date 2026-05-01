@@ -1,6 +1,7 @@
 ---
 title: "A Sign of Affection Review: A Deaf College Student Falls for a Boy Who Learns Sign Language to Talk to Her"
 slug: "sign-of-affection"
+coverImage: "/covers/sign-of-affection.jpg"
 genre: "Romance / Slice of Life"
 genreSlug: "romance"
 mangaTitle: "A Sign of Affection"
@@ -127,7 +128,10 @@ Kodansha Comics has published the complete English series. All 10 volumes availa
 
 ## Where to Buy
 
-[Get A Sign of Affection Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Sign+of+Affection+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=A+Sign+of+Affection+manga&i=stripbooks)
+
 
 ---
 

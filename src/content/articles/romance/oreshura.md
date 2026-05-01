@@ -1,6 +1,7 @@
 ---
 title: "Oreshura Review: A Fake Relationship Comedy That Gets Surprisingly Honest"
 slug: "oreshura"
+coverImage: "/covers/oreshura.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Oreshura"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Oreshura* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Oreshura on Amazon](https://www.amazon.com/s?k=Oreshura&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Oreshura&tag=dearmanga-20)
+
 
 ---
 

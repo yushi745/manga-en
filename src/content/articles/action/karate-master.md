@@ -1,6 +1,7 @@
 ---
 title: "Karate Master Review: The Manga That Made Bruce Lee Look Restrained"
 slug: "karate-master"
+coverImage: "/covers/karate-master.jpg"
 genre: "Action / Martial Arts"
 genreSlug: "action"
 mangaTitle: "Karate Master"
@@ -125,9 +126,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Karate Master* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E7%A9%BA%E6%89%8B%E3%83%90%E3%82%AB%E4%B8%80%E4%BB%A3&tag=yushi745-22)
 
 ---
 

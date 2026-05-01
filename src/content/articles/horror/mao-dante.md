@@ -127,9 +127,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Mao Dante* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E9%AD%94%E7%8E%8B%E3%83%80%E3%83%B3%E3%83%86&tag=yushi745-22)
 
 ---
 

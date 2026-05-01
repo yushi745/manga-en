@@ -124,7 +124,10 @@ Seven Seas Entertainment is publishing the English edition, currently at 14 volu
 
 ## Where to Buy
 
-[Get Didn't I Say to Make My Abilities Average? Vol. 1 on Amazon →](https://www.amazon.com/s?k=Didn%27t+I+Say+to+Make+My+Abilities+Average+in+the+Next+Life%3F%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Didn%27t+I+Say+to+Make+My+Abilities+Average+in+the+Next+Life%3F%21+manga&i=stripbooks)
+
 
 ---
 

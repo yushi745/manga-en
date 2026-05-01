@@ -1,6 +1,7 @@
 ---
 title: "Me & The Devil Blues Review: Robert Johnson's Deal at the Crossroads, Reimagined as Horror Manga"
 slug: "me-devil-blues"
+coverImage: "/covers/me-devil-blues.jpg"
 genre: "Horror / Historical"
 genreSlug: "horror"
 mangaTitle: "Me & The Devil Blues"
@@ -125,7 +126,10 @@ VIZ Media published 2 volumes. Complete as published; the series was not continu
 
 ## Where to Buy
 
-[Get Me & The Devil Blues Vol. 1 on Amazon →](https://www.amazon.com/s?k=Me+%26+The+Devil+Blues+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Me+%26+The+Devil+Blues+manga&i=stripbooks)
+
 
 ---
 

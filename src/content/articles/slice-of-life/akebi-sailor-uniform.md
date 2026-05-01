@@ -1,6 +1,7 @@
 ---
 title: "Akebi's Sailor Uniform Review: A Country Girl Gets Her Wish to Wear the Sailor Uniform and Discovers Everything That Comes With It"
 slug: "akebi-sailor-uniform"
+coverImage: "/covers/akebi-sailor-uniform.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Akebi's Sailor Uniform"
@@ -125,7 +126,10 @@ Seven Seas is publishing the ongoing English series. 8 volumes available.
 
 ## Where to Buy
 
-[Get Akebi's Sailor Uniform Vol. 1 on Amazon →](https://www.amazon.com/s?k=Akebi%27s+Sailor+Uniform+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Akebi%27s+Sailor+Uniform+manga&i=stripbooks)
+
 
 ---
 

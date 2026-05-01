@@ -1,6 +1,7 @@
 ---
 title: "H2 Review: The Baseball Manga That Breaks Your Heart and Mends It Again"
 slug: "h2-manga"
+coverImage: "/covers/h2-manga.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "H2"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *H2* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for H2 on Amazon](https://www.amazon.com/s?k=H2&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=H2&tag=dearmanga-20)
+
 
 ---
 

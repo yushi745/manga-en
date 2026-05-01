@@ -1,6 +1,7 @@
 ---
 title: "Thermae Romae Review: A Roman Bathhouse Architect Time-Travels to Modern Japan Through Drain Holes"
 slug: "thermae-romae"
+coverImage: "/covers/thermae-romae.jpg"
 genre: "Sci-Fi / Comedy"
 genreSlug: "sci-fi"
 mangaTitle: "Thermae Romae"
@@ -123,7 +124,10 @@ Yen Press published the complete 6-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Thermae Romae Vol. 1 on Amazon →](https://www.amazon.com/s?k=Thermae+Romae+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Thermae+Romae+manga&i=stripbooks)
+
 
 ---
 

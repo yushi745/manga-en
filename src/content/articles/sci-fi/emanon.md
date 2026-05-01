@@ -1,6 +1,7 @@
 ---
 title: "Emanon Review: A Woman Who Remembers Every Life She Has Ever Lived Meets a Young Man on a Ferry"
 slug: "emanon"
+coverImage: "/covers/emanon.jpg"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Emanon"
@@ -123,7 +124,10 @@ Dark Horse Comics has published the complete English series. All 4 volumes avail
 
 ## Where to Buy
 
-[Get Emanon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Emanon+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Emanon+manga&i=stripbooks)
+
 
 ---
 

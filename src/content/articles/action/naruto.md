@@ -208,13 +208,10 @@ All 72 volumes are available in English in both digital and physical formats. No
 
 ## Where to Buy
 
-You can find all Naruto volumes on Amazon — Kindle, paperback, and omnibus editions are all available.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-**Start here:**
+[Start with Volume 1 →](https://www.amazon.com/s?k=Naruto+manga&i=stripbooks)
 
-- [📱 Naruto Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Naruto+manga&i=stripbooks) — Best way to try it first
-- [📚 Naruto Vol. 1 — Paperback](https://www.amazon.com/s?k=Naruto+manga&i=stripbooks) — Classic physical edition
-- [📦 Naruto 3-in-1 Omnibus Vol. 1 (vols. 1–3)](https://www.amazon.com/s?k=Naruto+manga&i=stripbooks) — Best value for physical readers
 
 ---
 

@@ -124,7 +124,10 @@ VIZ Media published 13 selected volumes through VIZ Signature. Complete selectio
 
 ## Where to Buy
 
-[Get Golgo 13 Vol. 1 on Amazon →](https://www.amazon.com/s?k=Golgo+13+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Golgo+13+manga&i=stripbooks)
+
 
 ---
 

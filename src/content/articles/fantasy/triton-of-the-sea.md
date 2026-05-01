@@ -126,9 +126,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Triton of the Sea* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E6%B5%B7%E3%81%AE%E3%83%88%E3%83%AA%E3%83%88%E3%83%B3&tag=yushi745-22)
 
 ---
 

@@ -129,7 +129,10 @@ Dark Horse Comics has published the complete English series. All 48 volumes avai
 
 ## Where to Buy
 
-[Get Oh My Goddess! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Oh+My+Goddess%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Oh+My+Goddess%21+manga&i=stripbooks)
+
 
 ---
 

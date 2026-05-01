@@ -129,9 +129,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Tokyo Tarareba Girls* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Tokyo Tarareba Girls on Amazon](https://www.amazon.com/s?k=Tokyo%20Tarareba%20Girls&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Tokyo%20Tarareba%20Girls&tag=dearmanga-20)
+
 
 ---
 

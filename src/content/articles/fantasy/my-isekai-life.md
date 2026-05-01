@@ -1,6 +1,7 @@
 ---
 title: "My Isekai Life Review: He Gained Two Job Classes and Accidentally Became the World's Strongest Sage"
 slug: "my-isekai-life"
+coverImage: "/covers/my-isekai-life.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World!"
@@ -121,7 +122,10 @@ Square Enix Manga is publishing the English edition, currently at 14 volumes. On
 
 ## Where to Buy
 
-[Get My Isekai Life Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Isekai+Life%3A+I+Gained+a+Second+Character+Class+and+Became+the+Strongest+Sage+in+the+World%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=My+Isekai+Life%3A+I+Gained+a+Second+Character+Class+and+Became+the+Strongest+Sage+in+the+World%21+manga&i=stripbooks)
+
 
 ---
 

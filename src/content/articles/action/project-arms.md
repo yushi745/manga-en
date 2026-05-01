@@ -124,9 +124,10 @@ Start from Volume 1. Complete at 22 volumes.
 
 ## Where to Buy
 
-You can find **Project ARMS** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Project ARMS on Amazon](https://www.amazon.com/dp/1591168562?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1591168562?tag=dearmanga-20)
+
 
 ---
 

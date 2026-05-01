@@ -1,6 +1,7 @@
 ---
 title: "Serial Experiments Lain Review: A Girl Becomes the Network in a Manga That Still Feels Ahead of Its Time"
 slug: "serial-experiments-lain"
+coverImage: "/covers/serial-experiments-lain.jpg"
 genre: "Sci-Fi / Psychological"
 genreSlug: "sci-fi"
 mangaTitle: "Serial Experiments Lain"
@@ -119,7 +120,10 @@ Dark Horse Comics published this single volume. Complete and available.
 
 ## Where to Buy
 
-[Get Serial Experiments Lain on Amazon →](https://www.amazon.com/s?k=Serial+Experiments+Lain+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Serial+Experiments+Lain+manga&i=stripbooks)
+
 
 ---
 

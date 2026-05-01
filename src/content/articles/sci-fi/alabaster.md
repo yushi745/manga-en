@@ -124,7 +124,10 @@ Vertical published the English edition as a single omnibus.
 
 ## Where to Buy
 
-[Get Alabaster on Amazon →](https://www.amazon.com/s?k=Alabaster+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Alabaster+manga&i=stripbooks)
+
 
 ---
 

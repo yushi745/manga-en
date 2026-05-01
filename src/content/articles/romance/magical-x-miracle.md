@@ -1,6 +1,7 @@
 ---
 title: "Magical × Miracle Review: She Was Summoned as a Substitute King and Nobody Knows She's a Girl"
 slug: "magical-x-miracle"
+coverImage: "/covers/magical-x-miracle.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Magical × Miracle"
@@ -127,9 +128,10 @@ Start from volume 1 — this series builds carefully from its opening pages. Don
 
 ## Where to Buy
 
-You can find *Magical × Miracle* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Find Magical × Miracle on Amazon](https://www.amazon.com/s?k=Magical+×+Miracle&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Magical+×+Miracle&tag=dearmanga-20)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Kuro Review: A Little Girl's Beloved Cat May Not Be a Cat at All"
 slug: "kuro-manga"
+coverImage: "/covers/kuro-manga.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Kuro"
@@ -127,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Kuro* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Kuro on Amazon](https://www.amazon.com/s?k=Kuro&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kuro&tag=dearmanga-20)
+
 
 ---
 

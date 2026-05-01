@@ -128,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *My ID is Gangnam Beauty* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for My ID is Gangnam Beauty on Amazon](https://www.amazon.com/s?k=My%20ID%20is%20Gangnam%20Beauty&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=My%20ID%20is%20Gangnam%20Beauty&tag=dearmanga-20)
+
 
 ---
 

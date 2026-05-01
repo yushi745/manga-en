@@ -1,6 +1,7 @@
 ---
 title: "Young Black Jack Review: The Origin Story That Earns Its Place Next to Tezuka's Masterpiece"
 slug: "young-black-jack"
+coverImage: "/covers/young-black-jack.jpg"
 genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Young Black Jack"
@@ -126,6 +127,7 @@ Young Black Jack has a complete official English translation available in all 17
 
 ## Where to Buy
 
-Young Black Jack is available in English from Vertical Comics.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---

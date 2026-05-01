@@ -127,9 +127,10 @@ Start from Volume 1 — the series builds its world and character relationships 
 
 ## Where to Buy
 
-You can find **The Kurosagi Corpse Delivery Service** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy The Kurosagi Corpse Delivery Service on Amazon](https://www.amazon.com/dp/1593074255?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1593074255?tag=dearmanga-20)
+
 
 ---
 

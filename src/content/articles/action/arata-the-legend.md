@@ -124,9 +124,10 @@ Start from Volume 1. Complete series — 24 volumes.
 
 ## Where to Buy
 
-You can find **Arata: The Legend** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Arata: The Legend on Amazon](https://www.amazon.com/dp/1421537907?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1421537907?tag=dearmanga-20)
+
 
 ---
 

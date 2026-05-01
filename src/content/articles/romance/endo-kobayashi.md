@@ -1,6 +1,7 @@
 ---
 title: "Endo and Kobayashi Live! Review: The Villainess Gets Commentary From Gods Who Know She's in a Game"
 slug: "endo-kobayashi"
+coverImage: "/covers/endo-kobayashi.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte"
@@ -127,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte on Amazon](https://www.amazon.com/s?k=Endo%20and%20Kobayashi%20Live%21%20The%20Latest%20on%20Tsundere%20Villainess%20Lieselotte&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Endo%20and%20Kobayashi%20Live%21%20The%20Latest%20on%20Tsundere%20Villainess%20Lieselotte&tag=dearmanga-20)
+
 
 ---
 

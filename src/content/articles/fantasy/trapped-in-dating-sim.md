@@ -124,7 +124,10 @@ Seven Seas Entertainment is publishing the English edition, currently at 10 volu
 
 ## Where to Buy
 
-[Get Trapped in a Dating Sim Vol. 1 on Amazon →](https://www.amazon.com/s?k=Trapped+in+a+Dating+Sim%3A+The+World+of+Otome+Games+Is+Tough+for+Mobs+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Trapped+in+a+Dating+Sim%3A+The+World+of+Otome+Games+Is+Tough+for+Mobs+manga&i=stripbooks)
+
 
 ---
 

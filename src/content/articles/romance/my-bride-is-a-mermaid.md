@@ -1,6 +1,7 @@
 ---
 title: "My Bride is a Mermaid Review: A Boy Nearly Drowns, Gets Saved by a Mermaid, and Must Now Marry Her"
 slug: "my-bride-is-a-mermaid"
+coverImage: "/covers/my-bride-is-a-mermaid.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "My Bride is a Mermaid"
@@ -129,7 +130,10 @@ VIZ Media published the complete English series in omnibus format (2-in-1 volume
 
 ## Where to Buy
 
-[Get My Bride is a Mermaid Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Bride+is+a+Mermaid+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=My+Bride+is+a+Mermaid+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Hi Score Girl Review: A Boy Who Only Cares About Arcade Games Meets a Girl Who Beats Him at All of Them"
 slug: "hi-score-girl"
+coverImage: "/covers/hi-score-girl.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Hi Score Girl"
@@ -123,7 +124,10 @@ Square Enix Manga published the complete English series. All 9 volumes available
 
 ## Where to Buy
 
-[Get Hi Score Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hi+Score+Girl+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Hi+Score+Girl+manga&i=stripbooks)
+
 
 ---
 

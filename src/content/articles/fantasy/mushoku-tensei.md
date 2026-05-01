@@ -181,8 +181,10 @@ Start from Volume 1. The series is continuous.
 
 ## Where to Buy
 
-- [📱 Mushoku Tensei Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Mushoku+Tensei%3A+Jobless+Reincarnation+manga&i=stripbooks)
-- [📚 Mushoku Tensei Vol. 1 — Paperback](https://www.amazon.com/s?k=Mushoku+Tensei%3A+Jobless+Reincarnation+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Mushoku+Tensei%3A+Jobless+Reincarnation+manga&i=stripbooks)
+
 
 ---
 

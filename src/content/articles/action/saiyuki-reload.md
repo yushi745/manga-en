@@ -1,6 +1,7 @@
 ---
 title: "Saiyuki Reload Review: Four Dangerous Men Drive West in a Jeep to Stop an Ancient Resurrection"
 slug: "saiyuki-reload"
+coverImage: "/covers/saiyuki-reload.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Saiyuki Reload"
@@ -129,9 +130,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Saiyuki Reload* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Saiyuki Reload on Amazon](https://www.amazon.com/s?k=Saiyuki%20Reload&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Saiyuki%20Reload&tag=dearmanga-20)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Rozen Maiden Review: A Withdrawn Boy Winds a Doll and Finds Himself in a Battle Between Living Dolls"
 slug: "rozen-maiden"
+coverImage: "/covers/rozen-maiden.jpg"
 genre: "Horror / Fantasy"
 genreSlug: "horror"
 mangaTitle: "Rozen Maiden"
@@ -127,7 +128,10 @@ Tokyopop published the complete English series. All 8 volumes available (may req
 
 ## Where to Buy
 
-[Get Rozen Maiden Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rozen+Maiden+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Rozen+Maiden+manga&i=stripbooks)
+
 
 ---
 

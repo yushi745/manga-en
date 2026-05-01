@@ -124,7 +124,10 @@ Yen Press published the complete 3-volume English series.
 
 ## Where to Buy
 
-[Get Three Days of Happiness on Amazon →](https://www.amazon.com/s?k=Three+Days+of+Happiness+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Three+Days+of+Happiness+manga&i=stripbooks)
+
 
 ---
 

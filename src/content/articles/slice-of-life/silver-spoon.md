@@ -133,7 +133,10 @@ Yen Press published the complete 15-volume series in English. All volumes availa
 
 ## Where to Buy
 
-[Get Silver Spoon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Silver+Spoon+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Silver+Spoon+manga&i=stripbooks)
+
 
 ---
 

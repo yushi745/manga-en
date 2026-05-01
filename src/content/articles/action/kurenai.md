@@ -1,6 +1,7 @@
 ---
 title: "Kurenai Review: The Manga About a Child Bodyguard and a Little Girl Who Changed Everything"
 slug: "kurenai"
+coverImage: "/covers/kurenai.jpg"
 genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Kurenai"
@@ -142,6 +143,7 @@ Bandai Entertainment published all 5 volumes in English. Note: Bandai Entertainm
 
 ## Where to Buy
 
-[Get Kurenai on Amazon →](https://www.amazon.com/dp/B002HBE53W?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B002HBE53W?tag=dearmanga-20)
+

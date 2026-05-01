@@ -128,7 +128,10 @@ One Peace Books is publishing the ongoing English release.
 
 ## Where to Buy
 
-[Get Yuru Yuri Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yuru+Yuri+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yuru+Yuri+manga&i=stripbooks)
+
 
 ---
 

@@ -125,7 +125,10 @@ Yen Press published the complete 5-volume manga. The light novel series is also 
 
 ## Where to Buy
 
-[Get Adachi and Shimamura Vol. 1 on Amazon →](https://www.amazon.com/s?k=Adachi+and+Shimamura+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Adachi+and+Shimamura+manga&i=stripbooks)
+
 
 ---
 

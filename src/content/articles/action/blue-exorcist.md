@@ -1,6 +1,7 @@
 ---
 title: "Blue Exorcist Review: The Devil's Son Who Chose to Fight the Devil"
 slug: "blue-exorcist"
+coverImage: "/covers/blue-exorcist.jpg"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Blue Exorcist"
@@ -188,8 +189,10 @@ Start from Volume 1. The series is continuous and the early arc is essential for
 
 ## Where to Buy
 
-- [📱 Blue Exorcist Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Blue+Exorcist+manga&i=stripbooks)
-- [📚 Blue Exorcist Vol. 1 — Paperback](https://www.amazon.com/s?k=Blue+Exorcist+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Blue+Exorcist+manga&i=stripbooks)
+
 
 ---
 

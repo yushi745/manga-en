@@ -1,6 +1,7 @@
 ---
 title: "Riki-Oh Review: The Bloodiest Prison Manga Ever Made"
 slug: "riki-oh"
+coverImage: "/covers/riki-oh.jpg"
 genre: "Action / Martial Arts"
 genreSlug: "action"
 mangaTitle: "Riki-Oh"
@@ -127,9 +128,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Riki-Oh* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E5%8A%9B%E7%8E%8B&tag=yushi745-22)
 
 ---
 

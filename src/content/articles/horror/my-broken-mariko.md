@@ -128,9 +128,10 @@ Single volume — read in one sitting for full emotional impact.
 
 ## Where to Buy
 
-You can find **My Broken Mariko** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy My Broken Mariko on Amazon](https://www.amazon.com/dp/1975339185?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1975339185?tag=dearmanga-20)
+
 
 ---
 

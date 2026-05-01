@@ -132,7 +132,10 @@ Kodansha Comics is publishing Raise wa Tanin ga Ii in English. Ongoing.
 
 ## Where to Buy
 
-[**View Raise wa Tanin ga Ii on Amazon →**](https://www.amazon.com/dp/1646517342?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1646517342?tag=dearmanga-20)
+
 
 ---
 

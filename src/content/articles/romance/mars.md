@@ -1,6 +1,7 @@
 ---
 title: "Mars Review: A Quiet Girl and a Motorcycle Racer Find Each Other and Discover What They Were Hiding"
 slug: "mars"
+coverImage: "/covers/mars.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Mars"
@@ -127,7 +128,10 @@ Tokyopop published the complete English series. All 15 volumes available (may re
 
 ## Where to Buy
 
-[Get Mars Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mars+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Mars+manga&i=stripbooks)
+
 
 ---
 

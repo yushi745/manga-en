@@ -1,6 +1,7 @@
 ---
 title: "Saint Seiya Review: Boys in Legendary Armor Fight to Protect a Goddess and the World"
 slug: "saint-seiya"
+coverImage: "/covers/saint-seiya.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Saint Seiya"
@@ -125,7 +126,10 @@ VIZ Media has published the complete English series. All 28 volumes available.
 
 ## Where to Buy
 
-[Get Saint Seiya Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saint+Seiya+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Saint+Seiya+manga&i=stripbooks)
+
 
 ---
 

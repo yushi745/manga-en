@@ -1,6 +1,7 @@
 ---
 title: "Kurozuka Review: A Samurai Meets an Immortal Woman and Wakes Up a Thousand Years Later"
 slug: "kurozuka"
+coverImage: "/covers/kurozuka.jpg"
 genre: "Horror / Sci-Fi"
 genreSlug: "horror"
 mangaTitle: "Kurozuka"
@@ -121,7 +122,10 @@ VIZ Media (Viz Signature) published all 10 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Kurozuka Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kurozuka+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kurozuka+manga&i=stripbooks)
+
 
 ---
 

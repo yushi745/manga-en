@@ -126,7 +126,10 @@ Tokyopop published the 2-volume English series. Tokyopop is defunct; availabilit
 
 ## Where to Buy
 
-[Get Air manga on Amazon →](https://www.amazon.com/s?k=Air+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Air+manga&i=stripbooks)
+
 
 ---
 

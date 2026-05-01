@@ -124,9 +124,10 @@ Start from Volume 1. Push through early volumes — the series rewards patience.
 
 ## Where to Buy
 
-You can find **Ragna Crimson** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Ragna Crimson on Amazon](https://www.amazon.com/dp/1646091795?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1646091795?tag=dearmanga-20)
+
 
 ---
 

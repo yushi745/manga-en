@@ -1,6 +1,7 @@
 ---
 title: "Spring Has Come Review: The Manga About Grief, Guilt, and the Sister Who Was Left Behind"
 slug: "spring-has-come"
+coverImage: "/covers/spring-has-come.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Spring Has Come"
@@ -138,6 +139,7 @@ Seven Seas Entertainment published all 4 volumes in English. The series is compl
 
 ## Where to Buy
 
-[Get Spring Has Come on Amazon →](https://www.amazon.com/dp/B09GKYGPV2?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B09GKYGPV2?tag=dearmanga-20)
+

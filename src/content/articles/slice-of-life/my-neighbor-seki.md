@@ -1,6 +1,7 @@
 ---
 title: "My Neighbor Seki Review: The Boy Next to Her in Class Is Always Doing Something Incredible"
 slug: "my-neighbor-seki"
+coverImage: "/covers/my-neighbor-seki.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "My Neighbor Seki"
@@ -121,7 +122,10 @@ Vertical published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get My Neighbor Seki Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Neighbor+Seki+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=My+Neighbor+Seki+manga&i=stripbooks)
+
 
 ---
 

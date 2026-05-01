@@ -1,6 +1,7 @@
 ---
 title: "The Strongest Sage with the Weakest Crest Review: A Legendary Mage Reincarnates to Finally Surpass Himself"
 slug: "strongest-sage"
+coverImage: "/covers/strongest-sage.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "The Strongest Sage with the Weakest Crest"
@@ -123,7 +124,10 @@ Square Enix Manga publishes the ongoing English series. Current volumes availabl
 
 ## Where to Buy
 
-[Get The Strongest Sage with the Weakest Crest Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Strongest+Sage+with+the+Weakest+Crest+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Strongest+Sage+with+the+Weakest+Crest+manga&i=stripbooks)
+
 
 ---
 

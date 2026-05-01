@@ -126,7 +126,10 @@ VIZ Media published the complete English series. All 12 volumes available in pri
 
 ## Where to Buy
 
-[Get Kakuriyo: Bed & Breakfast for Spirits Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kakuriyo%3A+Bed+%26+Breakfast+for+Spirits+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kakuriyo%3A+Bed+%26+Breakfast+for+Spirits+manga&i=stripbooks)
+
 
 ---
 

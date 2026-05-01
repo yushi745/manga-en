@@ -1,6 +1,7 @@
 ---
 title: "My Boy Review: The Manga That Showed Me What Mentorship Really Looks Like"
 slug: "my-boy"
+coverImage: "/covers/my-boy.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "My Boy"
@@ -134,6 +135,7 @@ Seven Seas Entertainment published all 7 volumes in English. Complete.
 
 ## Where to Buy
 
-My Boy is currently available in Japanese and English through Seven Seas Entertainment.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---

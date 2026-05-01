@@ -1,6 +1,7 @@
 ---
 title: "W Juliet Review: A Cross-Dressing Actor and the Girl Who Keeps His Secret"
 slug: "w-juliet"
+coverImage: "/covers/w-juliet.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "W Juliet"
@@ -124,7 +125,10 @@ VIZ Media published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get W Juliet Vol. 1 on Amazon →](https://www.amazon.com/s?k=W+Juliet+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=W+Juliet+manga&i=stripbooks)
+
 
 ---
 

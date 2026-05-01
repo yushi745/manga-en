@@ -128,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Majin Tantei Nougami Neuro* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Majin Tantei Nougami Neuro on Amazon](https://www.amazon.com/s?k=Majin%20Tantei%20Nougami%20Neuro&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Majin%20Tantei%20Nougami%20Neuro&tag=dearmanga-20)
+
 
 ---
 

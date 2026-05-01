@@ -124,9 +124,10 @@ Works as mostly self-contained gag chapters. Start anywhere, though Volume 1 est
 
 ## Where to Buy
 
-You can find **Sgt. Frog** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Sgt. Frog on Amazon](https://www.amazon.com/dp/1591827167?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1591827167?tag=dearmanga-20)
+
 
 ---
 

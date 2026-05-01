@@ -1,6 +1,7 @@
 ---
 title: "Clannad Review: The Visual Novel Adaptation That Captures Why This Story Still Makes People Cry"
 slug: "clannad-manga"
+coverImage: "/covers/clannad-manga.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Clannad"
@@ -129,9 +130,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Clannad* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Clannad on Amazon](https://www.amazon.com/s?k=Clannad&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Clannad&tag=dearmanga-20)
+
 
 ---
 

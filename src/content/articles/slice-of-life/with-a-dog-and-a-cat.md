@@ -139,6 +139,7 @@ Kodansha Comics has been publishing the English edition. Multiple volumes are av
 
 ## Where to Buy
 
-[Get With a Dog AND a Cat on Amazon →](https://www.amazon.com/dp/B08P4C7WNW?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B08P4C7WNW?tag=dearmanga-20)
+

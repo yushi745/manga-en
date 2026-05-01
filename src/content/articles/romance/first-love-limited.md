@@ -1,6 +1,7 @@
 ---
 title: "First Love Limited Review: The Ensemble Romance That Knows Everyone's Story at Once"
 slug: "first-love-limited"
+coverImage: "/covers/first-love-limited.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "First Love Limited"
@@ -130,6 +131,7 @@ VIZ Media published all 4 volumes in English. The series is complete.
 
 ## Where to Buy
 
-[Get First Love Limited on Amazon →](https://www.amazon.com/dp/B005M9EKUG?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B005M9EKUG?tag=dearmanga-20)
+

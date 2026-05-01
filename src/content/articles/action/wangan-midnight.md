@@ -128,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Wangan Midnight* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Wangan Midnight on Amazon](https://www.amazon.com/s?k=Wangan%20Midnight&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Wangan%20Midnight&tag=dearmanga-20)
+
 
 ---
 

@@ -124,7 +124,10 @@ Kodansha Comics is publishing the ongoing English series. 12 volumes available.
 
 ## Where to Buy
 
-[Get Ya Boy Kongming! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ya+Boy+Kongming%21+%28Paripi+Koumei%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Ya+Boy+Kongming%21+%28Paripi+Koumei%29+manga&i=stripbooks)
+
 
 ---
 

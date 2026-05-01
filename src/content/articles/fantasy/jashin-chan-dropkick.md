@@ -137,6 +137,7 @@ Seven Seas Entertainment has been publishing the English edition. Several volume
 
 ## Where to Buy
 
-[Get Jashin-chan Dropkick on Amazon →](https://www.amazon.com/dp/B07WPJR9Y7?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B07WPJR9Y7?tag=dearmanga-20)
+

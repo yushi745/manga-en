@@ -1,6 +1,7 @@
 ---
 title: "The Bride Was a Boy Review: A Manga Artist Tells the Story of Her Transition and Her Marriage to the Man Who Loved Her Through It"
 slug: "the-bride-was-a-boy"
+coverImage: "/covers/the-bride-was-a-boy.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "The Bride Was a Boy"
@@ -123,7 +124,10 @@ Seven Seas published the complete English edition. 1 volume available.
 
 ## Where to Buy
 
-[Get The Bride Was a Boy on Amazon →](https://www.amazon.com/s?k=The+Bride+Was+a+Boy+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Bride+Was+a+Boy+manga&i=stripbooks)
+
 
 ---
 

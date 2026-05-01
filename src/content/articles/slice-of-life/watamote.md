@@ -128,7 +128,10 @@ Yen Press is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get WataMote Vol. 1 on Amazon →](https://www.amazon.com/s?k=WataMote%3A+No+Matter+How+I+Look+at+It%2C+It%27s+You+Guys%27+Fault+I%27m+Not+Popular%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=WataMote%3A+No+Matter+How+I+Look+at+It%2C+It%27s+You+Guys%27+Fault+I%27m+Not+Popular%21+manga&i=stripbooks)
+
 
 ---
 

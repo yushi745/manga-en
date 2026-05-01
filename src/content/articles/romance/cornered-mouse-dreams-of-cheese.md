@@ -124,7 +124,10 @@ SuBLime (Viz Media imprint) published the complete English edition. 1 volume ava
 
 ## Where to Buy
 
-[Get The Cornered Mouse Dreams of Cheese on Amazon →](https://www.amazon.com/s?k=The+Cornered+Mouse+Dreams+of+Cheese+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Cornered+Mouse+Dreams+of+Cheese+manga&i=stripbooks)
+
 
 ---
 

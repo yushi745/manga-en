@@ -126,7 +126,10 @@ Seven Seas Entertainment published the complete 18-volume series. All volumes av
 
 ## Where to Buy
 
-[Get Haganai: I Don't Have Many Friends Vol. 1 on Amazon →](https://www.amazon.com/s?k=Haganai%3A+I+Don%27t+Have+Many+Friends+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Haganai%3A+I+Don%27t+Have+Many+Friends+manga&i=stripbooks)
+
 
 ---
 

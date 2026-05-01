@@ -131,6 +131,7 @@ The manga adaptation has no official English translation. The source novel has b
 
 ## Where to Buy
 
-Japan Sinks (manga) is currently available in Japanese only. The original novel is available in English.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

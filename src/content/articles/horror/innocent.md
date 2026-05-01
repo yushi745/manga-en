@@ -1,6 +1,7 @@
 ---
 title: "Innocent Review: The Son of France's Master Executioner Inherits a Role He Did Not Choose and Cannot Escape"
 slug: "innocent"
+coverImage: "/covers/innocent.jpg"
 genre: "Horror / Historical"
 genreSlug: "horror"
 mangaTitle: "Innocent"
@@ -123,7 +124,10 @@ VIZ Media published all 7 volumes. Complete and available. Innocent Rouge (the s
 
 ## Where to Buy
 
-[Get Innocent Vol. 1 on Amazon →](https://www.amazon.com/s?k=Innocent+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Innocent+manga&i=stripbooks)
+
 
 ---
 

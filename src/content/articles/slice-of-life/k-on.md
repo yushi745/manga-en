@@ -129,7 +129,10 @@ Yen Press published the complete 4-volume series (plus K-On! College and K-On! H
 
 ## Where to Buy
 
-[Get K-On! Vol. 1 on Amazon →](https://www.amazon.com/s?k=K-On%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=K-On%21+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Kekkaishi Review: Two Families, One Sacred Ground, and the Barriers That Protect It"
 slug: "kekkaishi"
+coverImage: "/covers/kekkaishi.jpg"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Kekkaishi"
@@ -125,7 +126,10 @@ Viz Media published the complete 35-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Kekkaishi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kekkaishi+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kekkaishi+manga&i=stripbooks)
+
 
 ---
 

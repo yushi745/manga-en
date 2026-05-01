@@ -128,7 +128,10 @@ Viz Media published the complete 13-volume run in their Shojo Beat imprint. All 
 
 ## Where to Buy
 
-[Get A Devil and Her Love Song Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Devil+and+Her+Love+Song+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=A+Devil+and+Her+Love+Song+manga&i=stripbooks)
+
 
 ---
 

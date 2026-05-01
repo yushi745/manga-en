@@ -189,8 +189,10 @@ Start from Volume 1. The political depth only works because the early adventurou
 
 ## Where to Buy
 
-- [📱 Magi Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Magi%3A+The+Labyrinth+of+Magic+manga&i=stripbooks)
-- [📚 Magi Vol. 1 — Paperback](https://www.amazon.com/s?k=Magi%3A+The+Labyrinth+of+Magic+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Magi%3A+The+Labyrinth+of+Magic+manga&i=stripbooks)
+
 
 ---
 

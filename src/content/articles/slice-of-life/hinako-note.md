@@ -1,6 +1,7 @@
 ---
 title: "Hinako Note Review: A Shy Girl Who Freezes Like a Scarecrow Joins a Theater Club to Overcome Her Fear"
 slug: "hinako-note"
+coverImage: "/covers/hinako-note.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Hinako Note"
@@ -121,7 +122,10 @@ Seven Seas published the complete 7-volume English series.
 
 ## Where to Buy
 
-[Get Hinako Note Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hinako+Note+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Hinako+Note+manga&i=stripbooks)
+
 
 ---
 

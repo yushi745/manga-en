@@ -122,7 +122,10 @@ Yen Press publishes the ongoing English series.
 
 ## Where to Buy
 
-[Get Accomplishments of the Duke of Magics Vol. 1 on Amazon →](https://www.amazon.com/s?k=Accomplishments+of+the+Duke+of+Magics+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Accomplishments+of+the+Duke+of+Magics+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Sanctuary Review: Two Men Who Survived the Killing Fields Plan to Change Japan"
 slug: "sanctuary"
+coverImage: "/covers/sanctuary.jpg"
 genre: "Sci-Fi / Political"
 genreSlug: "sci-fi"
 mangaTitle: "Sanctuary"
@@ -127,7 +128,10 @@ VIZ Media published all 9 volumes. Complete; older publication, available in sec
 
 ## Where to Buy
 
-[Get Sanctuary Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sanctuary+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Sanctuary+manga&i=stripbooks)
+
 
 ---
 

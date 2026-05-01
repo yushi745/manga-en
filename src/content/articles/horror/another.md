@@ -1,6 +1,7 @@
 ---
 title: "Another Review: Class 3-3 Has a Secret, and Students Are Dying to Keep It"
 slug: "another"
+coverImage: "/covers/another.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Another"
@@ -126,7 +127,10 @@ Yen Press published the complete 4-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Another Vol. 1 on Amazon →](https://www.amazon.com/s?k=Another+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Another+manga&i=stripbooks)
+
 
 ---
 

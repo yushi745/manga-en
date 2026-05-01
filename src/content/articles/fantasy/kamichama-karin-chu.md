@@ -1,6 +1,7 @@
 ---
 title: "Kamichama Karin Chu Review: Karin and Kazune's Story Continues with Time Travel, a Future Son, and New Divine Battles"
 slug: "kamichama-karin-chu"
+coverImage: "/covers/kamichama-karin-chu.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Kamichama Karin Chu"
@@ -125,7 +126,10 @@ Del Rey/Kodansha published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Kamichama Karin Chu Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kamichama+Karin+Chu+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kamichama+Karin+Chu+manga&i=stripbooks)
+
 
 ---
 

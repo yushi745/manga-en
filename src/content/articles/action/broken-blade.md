@@ -126,9 +126,10 @@ Start from Volume 1. Series is ongoing — 12 volumes in English currently.
 
 ## Where to Buy
 
-You can find **Broken Blade** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Broken Blade on Amazon](https://www.amazon.com/dp/1626920613?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1626920613?tag=dearmanga-20)
+
 
 ---
 

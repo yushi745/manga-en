@@ -143,8 +143,10 @@ Seven Seas Entertainment published the complete 14-volume English run. Available
 
 ## Where to Buy
 
-- [📱 The Sacred Blacksmith Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Sacred+Blacksmith+manga&i=stripbooks)
-- [📚 The Sacred Blacksmith Vol. 1 — Paperback](https://www.amazon.com/s?k=Sacred+Blacksmith+manga+Seven+Seas&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Sacred+Blacksmith+manga&i=stripbooks)
+
 
 ---
 *This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*

@@ -1,6 +1,7 @@
 ---
 title: "Oreimo Review: The Awkward Sibling Reunion Comedy That Refuses to Be Simple"
 slug: "ore-imo"
+coverImage: "/covers/ore-imo.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "My Little Sister Can't Be This Cute"
@@ -127,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *My Little Sister Can't Be This Cute* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for My Little Sister Can't Be This Cute on Amazon](https://www.amazon.com/s?k=My%20Little%20Sister%20Can%27t%20Be%20This%20Cute&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=My%20Little%20Sister%20Can%27t%20Be%20This%20Cute&tag=dearmanga-20)
+
 
 ---
 

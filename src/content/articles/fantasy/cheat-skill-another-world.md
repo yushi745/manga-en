@@ -1,6 +1,7 @@
 ---
 title: "I Got a Cheat Skill in Another World Review: An Abused Boy Discovers a Door to a Fantasy World and Becomes the Ultimate Being in Both"
 slug: "cheat-skill-another-world"
+coverImage: "/covers/cheat-skill-another-world.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too"
@@ -125,7 +126,10 @@ Yen Press publishes the ongoing English series. 7+ volumes currently available.
 
 ## Where to Buy
 
-[Get I Got a Cheat Skill in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=I+Got+a+Cheat+Skill+in+Another+World+and+Became+Unrivaled+in+The+Real+World%2C+Too+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=I+Got+a+Cheat+Skill+in+Another+World+and+Became+Unrivaled+in+The+Real+World%2C+Too+manga&i=stripbooks)
+
 
 ---
 

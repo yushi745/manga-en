@@ -1,6 +1,7 @@
 ---
 title: "I Want to Wear Your Clothes Review: A Fashion Manga About Who You Are When You Dress"
 slug: "i-want-to-wear-your-clothes"
+coverImage: "/covers/i-want-to-wear-your-clothes.jpg"
 genre: "Slice of Life / Romance"
 genreSlug: "slice-of-life"
 mangaTitle: "I Want to Wear Your Clothes"
@@ -133,7 +134,10 @@ Seven Seas Entertainment is publishing I Want to Wear Your Clothes in English. O
 
 ## Where to Buy
 
-[**View I Want to Wear Your Clothes on Amazon →**](https://www.amazon.com/dp/1638585571?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1638585571?tag=dearmanga-20)
+
 
 ---
 

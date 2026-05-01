@@ -126,7 +126,10 @@ Tokyopop published the complete English series. All 7 volumes available (may req
 
 ## Where to Buy
 
-[Get FAKE Vol. 1 on Amazon →](https://www.amazon.com/s?k=FAKE+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=FAKE+manga&i=stripbooks)
+
 
 ---
 

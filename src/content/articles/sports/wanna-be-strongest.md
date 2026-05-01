@@ -121,7 +121,10 @@ Seven Seas Entertainment published all 4 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Wanna Be the Strongest in the World! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wanna+Be+the+Strongest+in+the+World%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Wanna+Be+the+Strongest+in+the+World%21+manga&i=stripbooks)
+
 
 ---
 

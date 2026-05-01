@@ -126,7 +126,10 @@ Viz Media published the complete 25-volume English edition. All volumes availabl
 
 ## Where to Buy
 
-[Get Nura: Rise of the Yokai Clan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nura%3A+Rise+of+the+Yokai+Clan+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Nura%3A+Rise+of+the+Yokai+Clan+manga&i=stripbooks)
+
 
 ---
 

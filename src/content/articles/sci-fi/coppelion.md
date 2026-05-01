@@ -1,6 +1,7 @@
 ---
 title: "Coppelion Review: Genetically Engineered Schoolgirls Search a Nuclear-Devastated Tokyo for Survivors"
 slug: "coppelion"
+coverImage: "/covers/coppelion.jpg"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Coppelion"
@@ -123,7 +124,10 @@ Viz Media published the complete 26-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Coppelion Vol. 1 on Amazon →](https://www.amazon.com/s?k=Coppelion+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Coppelion+manga&i=stripbooks)
+
 
 ---
 

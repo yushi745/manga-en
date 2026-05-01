@@ -1,6 +1,7 @@
 ---
 title: "Overlord Review: The Guild Master Who Became a God in a World That Has No Respawn"
 slug: "overlord"
+coverImage: "/covers/overlord.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "Overlord"
@@ -188,8 +189,10 @@ Start from Volume 1.
 
 ## Where to Buy
 
-- [📱 Overlord Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Overlord+manga&i=stripbooks)
-- [📚 Overlord Vol. 1 — Paperback](https://www.amazon.com/s?k=Overlord+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Overlord+manga&i=stripbooks)
+
 
 ---
 

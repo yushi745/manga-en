@@ -122,9 +122,10 @@ Any volume works as entry — 4-koma format means minimal continuity requirement
 
 ## Where to Buy
 
-You can find **Play It Cool, Guys** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Play It Cool, Guys on Amazon](https://www.amazon.com/dp/1646091469?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1646091469?tag=dearmanga-20)
+
 
 ---
 

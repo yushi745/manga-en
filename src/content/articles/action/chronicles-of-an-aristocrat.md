@@ -1,6 +1,7 @@
 ---
 title: "Chronicles of an Aristocrat Born in Another World Review: A Modern Japanese Man Reincarnates as a Noble and Builds His Domain Right"
 slug: "chronicles-of-an-aristocrat"
+coverImage: "/covers/chronicles-of-an-aristocrat.jpg"
 genre: "Fantasy / Action"
 genreSlug: "action"
 mangaTitle: "Chronicles of an Aristocrat Reborn in Another World"
@@ -123,7 +124,10 @@ Seven Seas Entertainment publishes the ongoing English series. 11+ volumes curre
 
 ## Where to Buy
 
-[Get Chronicles of an Aristocrat Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chronicles+of+an+Aristocrat+Reborn+in+Another+World+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Chronicles+of+an+Aristocrat+Reborn+in+Another+World+manga&i=stripbooks)
+
 
 ---
 

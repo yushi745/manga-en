@@ -124,9 +124,10 @@ Start from Volume 1. Series is ongoing — current English release is about 8 vo
 
 ## Where to Buy
 
-You can find **Akane-Banashi** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Akane-Banashi on Amazon](https://www.amazon.com/dp/1974740552?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974740552?tag=dearmanga-20)
+
 
 ---
 

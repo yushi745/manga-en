@@ -1,6 +1,7 @@
 ---
 title: "Free! Review: The Swimming Anime Manga That Turned Competitive Friendship Into Art"
 slug: "free-manga"
+coverImage: "/covers/free-manga.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Free!"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Free!* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Free! on Amazon](https://www.amazon.com/s?k=Free%21&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Free%21&tag=dearmanga-20)
+
 
 ---
 

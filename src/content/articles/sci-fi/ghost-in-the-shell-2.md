@@ -119,7 +119,10 @@ Dark Horse published the complete English translation. Single volume, available.
 
 ## Where to Buy
 
-[Get Ghost in the Shell 2: Man-Machine Interface on Amazon →](https://www.amazon.com/s?k=Ghost+in+the+Shell+2%3A+Man-Machine+Interface+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Ghost+in+the+Shell+2%3A+Man-Machine+Interface+manga&i=stripbooks)
+
 
 ---
 

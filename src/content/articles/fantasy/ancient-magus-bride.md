@@ -191,8 +191,10 @@ Start from Volume 1. The healing arc requires the foundation.
 
 ## Where to Buy
 
-- [📱 The Ancient Magus' Bride Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=The+Ancient+Magus%27+Bride+manga&i=stripbooks)
-- [📚 The Ancient Magus' Bride Vol. 1 — Paperback](https://www.amazon.com/s?k=The+Ancient+Magus%27+Bride+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Ancient+Magus%27+Bride+manga&i=stripbooks)
+
 
 ---
 

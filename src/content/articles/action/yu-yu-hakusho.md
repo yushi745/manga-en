@@ -200,8 +200,10 @@ Start from Volume 1. The early Spirit Detective arc is lighter but establishes c
 
 ## Where to Buy
 
-- [📱 Yu Yu Hakusho Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Yu+Yu+Hakusho+manga&i=stripbooks)
-- [📚 Yu Yu Hakusho Vol. 1 — Paperback](https://www.amazon.com/s?k=Yu+Yu+Hakusho+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yu+Yu+Hakusho+manga&i=stripbooks)
+
 
 ---
 

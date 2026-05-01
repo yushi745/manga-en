@@ -1,6 +1,7 @@
 ---
 title: "Witch Craft Works Review: The Most Popular Girl in School Is Also a Powerful Witch Who Has Been Secretly Protecting One Ordinary Boy"
 slug: "witch-craft-works"
+coverImage: "/covers/witch-craft-works.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Witch Craft Works"
@@ -125,7 +126,10 @@ Vertical (Kodansha) publishes the ongoing English series. 16+ volumes currently 
 
 ## Where to Buy
 
-[Get Witch Craft Works Vol. 1 on Amazon →](https://www.amazon.com/s?k=Witch+Craft+Works+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Witch+Craft+Works+manga&i=stripbooks)
+
 
 ---
 

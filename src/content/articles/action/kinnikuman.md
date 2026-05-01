@@ -143,7 +143,10 @@ Viz Media is releasing Kinnikuman digitally through their Jump catalog. The seri
 
 ## Where to Buy
 
-[**View Kinnikuman on Amazon →**](https://www.amazon.com/dp/1974711501?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1974711501?tag=dearmanga-20)
+
 
 ---
 

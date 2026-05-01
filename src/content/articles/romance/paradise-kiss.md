@@ -131,7 +131,10 @@ Vertical published the complete 5-volume series. Omnibus editions available.
 
 ## Where to Buy
 
-[Get Paradise Kiss Omnibus on Amazon →](https://www.amazon.com/s?k=Paradise+Kiss+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Paradise+Kiss+manga&i=stripbooks)
+
 
 ---
 

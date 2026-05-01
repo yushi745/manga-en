@@ -1,6 +1,7 @@
 ---
 title: "Water Flows to the Sea Review: The Manga That Understood Loneliness Before It Named It"
 slug: "water-flows-to-the-sea"
+coverImage: "/covers/water-flows-to-the-sea.jpg"
 genre: "Romance / Slice of Life"
 genreSlug: "romance"
 mangaTitle: "Water Flows to the Sea"
@@ -131,7 +132,10 @@ Kodansha Comics published all 6 volumes in English. Complete.
 
 ## Where to Buy
 
-[**View Water Flows to the Sea on Amazon →**](https://www.amazon.com/dp/1646512448?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1646512448?tag=dearmanga-20)
+
 
 ---
 

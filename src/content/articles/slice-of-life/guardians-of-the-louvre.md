@@ -123,7 +123,10 @@ NBM published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get Guardians of the Louvre on Amazon →](https://www.amazon.com/s?k=Guardians+of+the+Louvre+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Guardians+of+the+Louvre+manga&i=stripbooks)
+
 
 ---
 

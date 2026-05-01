@@ -131,6 +131,7 @@ Dragon Zakura has no official English translation. Available in Japanese. A sequ
 
 ## Where to Buy
 
-Dragon Zakura is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

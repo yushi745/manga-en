@@ -143,9 +143,8 @@ No official English release as of this writing. The manga is unlicensed in Engli
 
 ## Where to Buy
 
-Find the Japanese edition of *Nagi's Long Vacation* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E5%87%AA%E3%81%AE%E3%81%8A%E6%9A%87&tag=yushi745-22)
 
 ---
 *This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*

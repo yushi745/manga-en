@@ -1,6 +1,7 @@
 ---
 title: "Blue Period Review: A High School Boy Discovers Art at Seventeen and Decides It Is the Only Thing He Has Ever Wanted"
 slug: "blue-period"
+coverImage: "/covers/blue-period.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Blue Period"
@@ -125,7 +126,10 @@ Kodansha USA published the complete 14-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Blue Period Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blue+Period+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Blue+Period+manga&i=stripbooks)
+
 
 ---
 

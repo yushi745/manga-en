@@ -126,7 +126,10 @@ CPM Manga published the complete English series. All 3 volumes available (CPM is
 
 ## Where to Buy
 
-[Get Alien Nine Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alien+Nine+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Alien+Nine+manga&i=stripbooks)
+
 
 ---
 

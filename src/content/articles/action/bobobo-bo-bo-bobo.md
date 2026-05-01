@@ -126,9 +126,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Bobobo-bo Bo-bobo* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Bobobo-bo Bo-bobo on Amazon](https://www.amazon.com/s?k=Bobobo-bo%20Bo-bobo&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Bobobo-bo%20Bo-bobo&tag=dearmanga-20)
+
 
 ---
 

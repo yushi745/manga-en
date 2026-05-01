@@ -133,7 +133,10 @@ VIZ Media published the complete 56-volume series. VIZ Big omnibus editions are 
 
 ## Where to Buy
 
-[Get InuYasha VIZ Big Vol. 1 on Amazon →](https://www.amazon.com/s?k=InuYasha+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=InuYasha+manga&i=stripbooks)
+
 
 ---
 

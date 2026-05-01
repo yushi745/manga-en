@@ -122,9 +122,10 @@ Start from Volume 1. Complete at 9 volumes.
 
 ## Where to Buy
 
-You can find **Robot x Laserbeam** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Robot x Laserbeam on Amazon](https://www.amazon.com/dp/1974700009?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974700009?tag=dearmanga-20)
+
 
 ---
 

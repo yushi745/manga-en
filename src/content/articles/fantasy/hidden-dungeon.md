@@ -128,7 +128,10 @@ Yen Press publishes the ongoing English series. 8+ volumes currently available.
 
 ## Where to Buy
 
-[Get The Hidden Dungeon Only I Can Enter Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Hidden+Dungeon+Only+I+Can+Enter+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Hidden+Dungeon+Only+I+Can+Enter+manga&i=stripbooks)
+
 
 ---
 

@@ -124,7 +124,10 @@ Yen Press publishes the ongoing English series. 10+ volumes available.
 
 ## Where to Buy
 
-[Get The Genius Prince's Guide Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Genius+Prince%27s+Guide+to+Raising+a+Nation+Out+of+Debt+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Genius+Prince%27s+Guide+to+Raising+a+Nation+Out+of+Debt+manga&i=stripbooks)
+
 
 ---
 

@@ -149,9 +149,10 @@ The digital version is particularly good here — bright colors and clean lines 
 
 ## Where to Buy
 
-Magic Kaito is available on Amazon as both physical and digital volumes.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[**View Magic Kaito on Amazon →**](https://www.amazon.com/dp/B00OJH58CS?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/B00OJH58CS?tag=dearmanga-20)
+
 
 ---
 

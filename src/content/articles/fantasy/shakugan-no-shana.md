@@ -1,6 +1,7 @@
 ---
 title: "Shakugan no Shana Review: The Flame-Haired Sword Dancer Who Taught Me About Existence"
 slug: "shakugan-no-shana"
+coverImage: "/covers/shakugan-no-shana.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Shakugan no Shana"
@@ -142,8 +143,10 @@ VIZ Media published the complete 10-volume English run. Available in digital and
 
 ## Where to Buy
 
-- [📱 Shakugan no Shana Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Shakugan+no+Shana+manga&i=stripbooks)
-- [📚 Shakugan no Shana Vol. 1 — Paperback](https://www.amazon.com/s?k=Shakugan+no+Shana+manga+VIZ&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Shakugan+no+Shana+manga&i=stripbooks)
+
 
 ---
 *This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*

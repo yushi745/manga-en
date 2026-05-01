@@ -1,6 +1,7 @@
 ---
 title: "Tower of God Review: The Manhwa That Rewrote What Webtoons Could Be"
 slug: "tower-of-god"
+coverImage: "/covers/tower-of-god.jpg"
 genre: "Action / Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Tower of God"
@@ -128,9 +129,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Tower of God* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Tower of God on Amazon](https://www.amazon.com/s?k=Tower%20of%20God&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Tower%20of%20God&tag=dearmanga-20)
+
 
 ---
 

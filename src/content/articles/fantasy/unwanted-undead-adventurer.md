@@ -1,6 +1,7 @@
 ---
 title: "The Unwanted Undead Adventurer Review: A Failed Adventurer Dies and Becomes a Skeleton Determined to Evolve"
 slug: "unwanted-undead-adventurer"
+coverImage: "/covers/unwanted-undead-adventurer.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "The Unwanted Undead Adventurer"
@@ -124,7 +125,10 @@ J-Novel Club publishes the ongoing English manga series. Current volumes availab
 
 ## Where to Buy
 
-[Get The Unwanted Undead Adventurer Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Unwanted+Undead+Adventurer+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Unwanted+Undead+Adventurer+manga&i=stripbooks)
+
 
 ---
 

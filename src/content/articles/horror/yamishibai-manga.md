@@ -1,6 +1,7 @@
 ---
 title: "Yamishibai Review: The Anime Got Big — The Manga Is Quietly Better"
 slug: "yamishibai-manga"
+coverImage: "/covers/yamishibai-manga.jpg"
 genre: "Horror / Anthology"
 genreSlug: "horror"
 mangaTitle: "Yamishibai"
@@ -126,9 +127,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Yamishibai* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E9%97%87%E8%8A%9D%E5%B1%85&tag=yushi745-22)
 
 ---
 

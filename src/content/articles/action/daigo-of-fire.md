@@ -129,6 +129,7 @@ Daigo of Fire Company M has no official English translation.
 
 ## Where to Buy
 
-Daigo of Fire Company M is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

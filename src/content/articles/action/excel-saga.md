@@ -128,7 +128,10 @@ VIZ Media published 18 volumes of the English series. The complete Japanese run 
 
 ## Where to Buy
 
-[Get Excel Saga Vol. 1 on Amazon →](https://www.amazon.com/s?k=Excel+Saga+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Excel+Saga+manga&i=stripbooks)
+
 
 ---
 

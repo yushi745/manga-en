@@ -127,9 +127,10 @@ Standalone. Approach only if you are an adult reader who understands what you're
 
 ## Where to Buy
 
-You can find **Litchi Hikari Club** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Litchi Hikari Club on Amazon](https://www.amazon.com/dp/1935654748?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1935654748?tag=dearmanga-20)
+
 
 ---
 

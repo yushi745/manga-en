@@ -1,6 +1,7 @@
 ---
 title: "Skip Beat! Review: The Best Revenge Is Becoming a Better Actor Than Him"
 slug: "skip-beat"
+coverImage: "/covers/skip-beat.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Skip Beat!"
@@ -130,7 +131,10 @@ VIZ Media is publishing the ongoing series in English. Currently 49 volumes rele
 
 ## Where to Buy
 
-[Get Skip Beat! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Skip+Beat%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Skip+Beat%21+manga&i=stripbooks)
+
 
 ---
 

@@ -124,7 +124,8 @@ Available digitally via Kodansha USA (all 47 volumes complete). No English print
 
 ## Where to Buy
 
-*This title is not available in English print.*
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---
 

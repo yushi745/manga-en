@@ -1,6 +1,7 @@
 ---
 title: "Maicching Machiko-sensei Review: The Ecchi School Comedy That Defined an Era of Shonen Manga"
 slug: "maicching-machiko"
+coverImage: "/covers/maicching-machiko.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Maicching Machiko-sensei"
@@ -128,6 +129,7 @@ Maicching Machiko-sensei has no official English translation.
 
 ## Where to Buy
 
-Maicching Machiko-sensei is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

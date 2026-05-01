@@ -126,7 +126,10 @@ Tokyopop published the complete 7-volume English series (now out of print but fi
 
 ## Where to Buy
 
-[Find Gokinjo Monogatari on Amazon →](https://www.amazon.com/s?k=Gokinjo+Monogatari+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Gokinjo+Monogatari+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Beautiful Bones: Sakurako's Investigation Review: A Woman Who Speaks for the Dead"
 slug: "beautiful-bones-sakurako"
+coverImage: "/covers/beautiful-bones-sakurako.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Beautiful Bones: Sakurako's Investigation"
@@ -125,7 +126,10 @@ Yen Press published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Beautiful Bones: Sakurako's Investigation Vol. 1 on Amazon →](https://www.amazon.com/s?k=Beautiful+Bones%3A+Sakurako%27s+Investigation+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Beautiful+Bones%3A+Sakurako%27s+Investigation+manga&i=stripbooks)
+
 
 ---
 

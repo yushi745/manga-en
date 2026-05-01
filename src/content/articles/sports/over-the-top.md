@@ -121,9 +121,10 @@ Single volume — read at any time.
 
 ## Where to Buy
 
-You can find **Over the Top** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Over the Top on Amazon](https://www.amazon.com/dp/1646512332?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1646512332?tag=dearmanga-20)
+
 
 ---
 

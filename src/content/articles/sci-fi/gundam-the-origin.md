@@ -129,7 +129,10 @@ Vertical published the complete 12-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Mobile Suit Gundam: The Origin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mobile+Suit+Gundam%3A+The+Origin+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Mobile+Suit+Gundam%3A+The+Origin+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Angel Beats! Review: Dead Teenagers Fight Against God in an Afterlife High School"
 slug: "angel-beats-manga"
+coverImage: "/covers/angel-beats-manga.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Angel Beats!"
@@ -123,7 +124,10 @@ Yen Press published the complete 3-volume English series.
 
 ## Where to Buy
 
-[Get Angel Beats! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Angel+Beats%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Angel+Beats%21+manga&i=stripbooks)
+
 
 ---
 

@@ -128,7 +128,10 @@ VIZ Media published the complete 27-volume series in an Omnibus hardcover format
 
 ## Where to Buy
 
-[Get Fist of the North Star Omnibus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Fist+of+the+North+Star+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Fist+of+the+North+Star+manga&i=stripbooks)
+
 
 ---
 

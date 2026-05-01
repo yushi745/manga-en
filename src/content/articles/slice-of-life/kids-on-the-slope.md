@@ -1,6 +1,7 @@
 ---
 title: "Kids on the Slope Review: A Classical Music Prodigy and a Jazz Drummer Become Friends Over Music and Everything Else"
 slug: "kids-on-the-slope"
+coverImage: "/covers/kids-on-the-slope.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Kids on the Slope"
@@ -125,7 +126,10 @@ Vertical published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Kids on the Slope Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kids+on+the+Slope+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kids+on+the+Slope+manga&i=stripbooks)
+
 
 ---
 

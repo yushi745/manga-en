@@ -203,8 +203,10 @@ Part 1 is fully available in English. Part 2 is releasing simultaneously with Ja
 
 ## Where to Buy
 
-- [📱 Chainsaw Man Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Chainsaw+Man+manga&i=stripbooks)
-- [📚 Chainsaw Man Vol. 1 — Paperback](https://www.amazon.com/s?k=Chainsaw+Man+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Chainsaw+Man+manga&i=stripbooks)
+
 
 ---
 

@@ -137,7 +137,10 @@ Yen Press is publishing the ongoing series in English. Currently 13 volumes avai
 
 ## Where to Buy
 
-[Get Laid-Back Camp Vol. 1 on Amazon →](https://www.amazon.com/s?k=Laid-Back+Camp+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Laid-Back+Camp+manga&i=stripbooks)
+
 
 ---
 

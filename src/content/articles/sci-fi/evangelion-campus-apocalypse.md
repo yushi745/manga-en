@@ -1,6 +1,7 @@
 ---
 title: "Evangelion: Campus Apocalypse Review: The Angels Come to High School and Everything Changes"
 slug: "evangelion-campus-apocalypse"
+coverImage: "/covers/evangelion-campus-apocalypse.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Evangelion: Campus Apocalypse"
@@ -123,7 +124,10 @@ Dark Horse published all 5 volumes. Complete series available.
 
 ## Where to Buy
 
-[Get Evangelion: Campus Apocalypse on Amazon →](https://www.amazon.com/s?k=Evangelion%3A+Campus+Apocalypse+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Evangelion%3A+Campus+Apocalypse+manga&i=stripbooks)
+
 
 ---
 

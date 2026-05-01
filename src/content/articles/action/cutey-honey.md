@@ -1,6 +1,7 @@
 ---
 title: "Cutey Honey Review: Go Nagai's Trailblazing Magical Girl"
 slug: "cutey-honey"
+coverImage: "/covers/cutey-honey.jpg"
 genre: "Action / Sci-Fi"
 genreSlug: "action"
 mangaTitle: "Cutey Honey"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Cutey Honey* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Cutey Honey on Amazon](https://www.amazon.com/s?k=Cutey%20Honey&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Cutey%20Honey&tag=dearmanga-20)
+
 
 ---
 

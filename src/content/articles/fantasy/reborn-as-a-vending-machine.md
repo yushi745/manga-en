@@ -126,7 +126,10 @@ Yen Press published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Reborn as a Vending Machine Vol. 1 on Amazon →](https://www.amazon.com/s?k=Reborn+as+a+Vending+Machine%2C+I+Now+Wander+the+Dungeon+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Reborn+as+a+Vending+Machine%2C+I+Now+Wander+the+Dungeon+manga&i=stripbooks)
+
 
 ---
 

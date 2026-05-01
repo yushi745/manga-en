@@ -128,7 +128,10 @@ Viz Media published the complete English volume. 1 volume available.
 
 ## Where to Buy
 
-[Get Jujutsu Kaisen 0 on Amazon →](https://www.amazon.com/s?k=Jujutsu+Kaisen+0+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Jujutsu+Kaisen+0+manga&i=stripbooks)
+
 
 ---
 

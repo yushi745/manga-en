@@ -126,7 +126,10 @@ Viz Media published the complete 15-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Library Wars: Love & War Vol. 1 on Amazon →](https://www.amazon.com/s?k=Library+Wars%3A+Love+%26+War+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Library+Wars%3A+Love+%26+War+manga&i=stripbooks)
+
 
 ---
 

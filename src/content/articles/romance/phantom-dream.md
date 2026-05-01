@@ -1,6 +1,7 @@
 ---
 title: "Phantom Dream Review: Natsuki Takaya's Dark Supernatural Romance About Sacrifice, Duty, and the Love That Survives Both"
 slug: "phantom-dream"
+coverImage: "/covers/phantom-dream.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Phantom Dream"
@@ -135,7 +136,10 @@ TOKYOPOP published the complete English series. All 5 volumes available; note TO
 
 ## Where to Buy
 
-[Get Phantom Dream manga on Amazon →](https://www.amazon.com/s?k=Phantom+Dream+manga+Takaya&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Phantom+Dream+manga+Takaya&i=stripbooks)
+
 
 ---
 

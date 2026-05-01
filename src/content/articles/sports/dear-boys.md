@@ -122,7 +122,10 @@ Tokyopop published all 14 volumes as "Hoop Days." Complete; older publication, a
 
 ## Where to Buy
 
-[Get Dear Boys Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dear+Boys+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Dear+Boys+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Yu-Gi-Oh! Review: A Bullied Kid Solves an Ancient Puzzle and Shares His Body with a Dark Game-Playing Spirit"
 slug: "yu-gi-oh"
+coverImage: "/covers/yu-gi-oh.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Yu-Gi-Oh!"
@@ -125,7 +126,10 @@ VIZ Media has published the complete English series. All 38 volumes available.
 
 ## Where to Buy
 
-[Get Yu-Gi-Oh! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yu-Gi-Oh%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yu-Gi-Oh%21+manga&i=stripbooks)
+
 
 ---
 

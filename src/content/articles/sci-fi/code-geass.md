@@ -1,6 +1,7 @@
 ---
 title: "Code Geass Review: A Brilliant Exile Uses a Power That Forces Absolute Obedience to Remake the World"
 slug: "code-geass"
+coverImage: "/covers/code-geass.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Code Geass: Lelouch of the Rebellion"
@@ -123,7 +124,10 @@ VIZ Media published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Code Geass Vol. 1 on Amazon →](https://www.amazon.com/s?k=Code+Geass%3A+Lelouch+of+the+Rebellion+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Code+Geass%3A+Lelouch+of+the+Rebellion+manga&i=stripbooks)
+
 
 ---
 

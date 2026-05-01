@@ -1,6 +1,7 @@
 ---
 title: "Happy Marriage!? Review: The Office Romance Manga With the Most Chaotic Premise"
 slug: "hapi-mari"
+coverImage: "/covers/hapi-mari.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Happy Marriage!?"
@@ -134,6 +135,7 @@ VIZ Media (Shojo Beat) published all 10 volumes in English. The series is comple
 
 ## Where to Buy
 
-[Get Happy Marriage!? on Amazon →](https://www.amazon.com/dp/B00AUIJUJK?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B00AUIJUJK?tag=dearmanga-20)
+

@@ -1,6 +1,7 @@
 ---
 title: "A Certain Magical Index Review: Science and Magic Collide in Academy City"
 slug: "a-certain-magical-index"
+coverImage: "/covers/a-certain-magical-index.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "A Certain Magical Index"
@@ -125,7 +126,10 @@ Yen Press published the complete 27-volume English series.
 
 ## Where to Buy
 
-[Get A Certain Magical Index Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Certain+Magical+Index+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=A+Certain+Magical+Index+manga&i=stripbooks)
+
 
 ---
 

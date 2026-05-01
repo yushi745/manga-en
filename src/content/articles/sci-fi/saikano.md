@@ -1,6 +1,7 @@
 ---
 title: "Saikano Review: She, the Ultimate Weapon — the Girl You Love Is Also a Country's Last Hope for Survival"
 slug: "saikano"
+coverImage: "/covers/saikano.jpg"
 genre: "Sci-Fi / Romance"
 genreSlug: "sci-fi"
 mangaTitle: "Saikano"
@@ -123,7 +124,10 @@ VIZ Media published all 7 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Saikano Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saikano+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Saikano+manga&i=stripbooks)
+
 
 ---
 

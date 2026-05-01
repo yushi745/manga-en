@@ -199,7 +199,10 @@ New volumes release in English close to the Japanese release date.
 
 ## Where to Buy
 
-- [📚 Spy x Family Vol. 1 — Paperback](https://www.amazon.com/s?k=Spy+x+Family+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Spy+x+Family+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Ao Ashi Review: The Soccer Prodigy Who Sees the Whole Field and the Team That Teaches Him Why That Matters"
 slug: "ao-ashi"
+coverImage: "/covers/ao-ashi.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Ao Ashi"
@@ -123,7 +124,10 @@ VIZ Media is publishing the English edition. Ongoing; the Japanese run is comple
 
 ## Where to Buy
 
-[Get Ao Ashi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ao+Ashi+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Ao+Ashi+manga&i=stripbooks)
+
 
 ---
 

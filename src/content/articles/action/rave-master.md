@@ -1,6 +1,7 @@
 ---
 title: "Rave Master Review: A Boy With a Legendary Sword Sets Out to Destroy All of the World's Dark Stones"
 slug: "rave-master"
+coverImage: "/covers/rave-master.jpg"
 genre: "Action / Adventure"
 genreSlug: "action"
 mangaTitle: "Rave Master (Groove Adventure Rave)"
@@ -127,7 +128,10 @@ Tokyopop published the complete 35-volume run. Out of print in physical format b
 
 ## Where to Buy
 
-[Get Rave Master Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rave+Master+%28Groove+Adventure+Rave%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Rave+Master+%28Groove+Adventure+Rave%29+manga&i=stripbooks)
+
 
 ---
 

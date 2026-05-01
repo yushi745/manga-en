@@ -126,7 +126,10 @@ Yen Press publishes the ongoing English series. 12+ volumes currently available.
 
 ## Where to Buy
 
-[Get Chivalry of a Failed Knight Vol. 1 on Amazon →](https://www.amazon.com/s?k=Chivalry+of+a+Failed+Knight+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Chivalry+of+a+Failed+Knight+manga&i=stripbooks)
+
 
 ---
 

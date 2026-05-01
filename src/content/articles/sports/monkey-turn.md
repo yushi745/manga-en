@@ -131,6 +131,7 @@ Monkey Turn has no official English translation. Available in Japanese.
 
 ## Where to Buy
 
-Monkey Turn is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Haikyu!! Review: The Sports Manga That Will Make You Care About Volleyball"
 slug: "haikyu"
+coverImage: "/covers/haikyu.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Haikyu!!"
@@ -209,9 +210,10 @@ If you finish Volume 6 and want more, you're committed. Most readers are.
 
 ## Where to Buy
 
-- [📱 Haikyu!! Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Haikyu%21%21+manga&i=stripbooks)
-- [📚 Haikyu!! Vol. 1 — Paperback](https://www.amazon.com/s?k=Haikyu%21%21+manga&i=stripbooks)
-- [📦 Haikyu!! 3-in-1 Omnibus Vol. 1](https://www.amazon.com/s?k=Haikyu%21%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Haikyu%21%21+manga&i=stripbooks)
+
 
 ---
 

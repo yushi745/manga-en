@@ -125,9 +125,10 @@ Works standalone. Best approached after reading his more accessible work.
 
 ## Where to Buy
 
-You can find **The Liminal Zone** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy The Liminal Zone on Amazon](https://www.amazon.com/dp/1974726797?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974726797?tag=dearmanga-20)
+
 
 ---
 

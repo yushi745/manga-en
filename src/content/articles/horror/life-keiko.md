@@ -1,6 +1,7 @@
 ---
 title: "Life Review: When the Pressure to Be Perfect Breaks Something That Can't Be Fixed"
 slug: "life-keiko"
+coverImage: "/covers/life-keiko.jpg"
 genre: "Horror / Drama"
 genreSlug: "horror"
 mangaTitle: "Life"
@@ -129,9 +130,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Life* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Life on Amazon](https://www.amazon.com/s?k=Life&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Life&tag=dearmanga-20)
+
 
 ---
 

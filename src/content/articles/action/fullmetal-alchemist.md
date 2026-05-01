@@ -205,9 +205,10 @@ The complete series is available, including a premium hardcover "Fullmetal Editi
 
 ## Where to Buy
 
-- [📱 Fullmetal Alchemist Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Fullmetal+Alchemist+manga&i=stripbooks)
-- [📚 Fullmetal Alchemist Vol. 1 — Paperback](https://www.amazon.com/s?k=Fullmetal+Alchemist+manga&i=stripbooks)
-- [📦 Fullmetal Alchemist 3-in-1 Omnibus Vol. 1](https://www.amazon.com/s?k=Fullmetal+Alchemist+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Fullmetal+Alchemist+manga&i=stripbooks)
+
 
 ---
 

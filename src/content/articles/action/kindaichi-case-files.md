@@ -1,6 +1,7 @@
 ---
 title: "The Kindaichi Case Files Review: The Grandson of Japan's Greatest Detective Solves Impossible Murders in Impossible Locations"
 slug: "kindaichi-case-files"
+coverImage: "/covers/kindaichi-case-files.jpg"
 genre: "Mystery / Action"
 genreSlug: "action"
 mangaTitle: "The Kindaichi Case Files"
@@ -124,7 +125,10 @@ Tokyopop published the English series. All 27 volumes available (though some may
 
 ## Where to Buy
 
-[Get The Kindaichi Case Files Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Kindaichi+Case+Files+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Kindaichi+Case+Files+manga&i=stripbooks)
+
 
 ---
 

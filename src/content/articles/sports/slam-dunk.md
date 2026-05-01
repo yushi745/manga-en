@@ -137,7 +137,10 @@ VIZ Media published the complete series. The current Omnibus edition (3-in-1) is
 
 ## Where to Buy
 
-[Get Slam Dunk Omnibus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Slam+Dunk+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Slam+Dunk+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Odd Taxi Review: Every Passenger Has a Secret, and the Walrus Driver Sees Everything"
 slug: "odd-taxi"
+coverImage: "/covers/odd-taxi.jpg"
 genre: "Slice of Life / Mystery"
 genreSlug: "slice-of-life"
 mangaTitle: "Odd Taxi"
@@ -131,7 +132,10 @@ VIZ Media published all 3 volumes in English. Complete.
 
 ## Where to Buy
 
-[**View Odd Taxi on Amazon →**](https://www.amazon.com/dp/1974736660?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1974736660?tag=dearmanga-20)
+
 
 ---
 

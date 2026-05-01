@@ -121,9 +121,10 @@ Read Slam Dunk first. Then Buzzer Beater as a companion.
 
 ## Where to Buy
 
-You can find **Buzzer Beater** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Buzzer Beater on Amazon](https://www.amazon.com/dp/1591169887?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1591169887?tag=dearmanga-20)
+
 
 ---
 

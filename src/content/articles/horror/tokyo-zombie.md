@@ -1,6 +1,7 @@
 ---
 title: "Tokyo Zombie Review: Two Judo Friends Fight Zombies and Then Capitalism Takes Over"
 slug: "tokyo-zombie"
+coverImage: "/covers/tokyo-zombie.jpg"
 genre: "Horror / Comedy"
 genreSlug: "horror"
 mangaTitle: "Tokyo Zombie"
@@ -119,7 +120,10 @@ Last Gasp published the English edition. Complete; available.
 
 ## Where to Buy
 
-[Get Tokyo Zombie on Amazon →](https://www.amazon.com/s?k=Tokyo+Zombie+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Tokyo+Zombie+manga&i=stripbooks)
+
 
 ---
 

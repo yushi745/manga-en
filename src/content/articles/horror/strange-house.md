@@ -1,6 +1,7 @@
 ---
 title: "Strange House Review: The Architecture Mystery That Became Japan's Bestselling Thriller"
 slug: "strange-house"
+coverImage: "/covers/strange-house.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Strange House"
@@ -137,7 +138,10 @@ MANGA Plus (Shueisha's international platform) published the English version. Av
 
 ## Where to Buy
 
-[**View Strange House on Amazon →**](https://www.amazon.com/dp/1974742121?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1974742121?tag=dearmanga-20)
+
 
 ---
 

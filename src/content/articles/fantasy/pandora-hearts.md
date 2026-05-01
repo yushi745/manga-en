@@ -1,6 +1,7 @@
 ---
 title: "Pandora Hearts Review: A Boy Cast Into the Abyss, and the Conspiracy Waiting When He Returns"
 slug: "pandora-hearts"
+coverImage: "/covers/pandora-hearts.jpg"
 genre: "Fantasy / Mystery"
 genreSlug: "fantasy"
 mangaTitle: "Pandora Hearts"
@@ -126,7 +127,10 @@ Yen Press published the complete 24-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Pandora Hearts Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pandora+Hearts+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Pandora+Hearts+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Cooking Master Boy Review: Tournament Cooking Before It Was a Genre"
 slug: "cooking-master-boy"
+coverImage: "/covers/cooking-master-boy.jpg"
 genre: "Cooking / Action"
 genreSlug: "slice-of-life"
 mangaTitle: "Cooking Master Boy"
@@ -124,9 +125,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Cooking Master Boy* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E4%B8%AD%E8%8F%AF%E4%B8%80%E7%95%AA%EF%BC%81&tag=yushi745-22)
 
 ---
 

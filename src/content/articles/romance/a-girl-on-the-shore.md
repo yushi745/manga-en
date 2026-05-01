@@ -124,7 +124,10 @@ Vertical published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get A Girl on the Shore on Amazon →](https://www.amazon.com/s?k=A+Girl+on+the+Shore+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=A+Girl+on+the+Shore+manga&i=stripbooks)
+
 
 ---
 

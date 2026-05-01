@@ -121,9 +121,10 @@ Any volume works as entry, but start from Volume 1 for family dynamics context.
 
 ## Where to Buy
 
-You can find **Slow Loop** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Slow Loop on Amazon](https://www.amazon.com/dp/1975348036?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1975348036?tag=dearmanga-20)
+
 
 ---
 

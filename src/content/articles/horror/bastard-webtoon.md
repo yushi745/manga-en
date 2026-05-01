@@ -1,6 +1,7 @@
 ---
 title: "Bastard Review: Living With the Monster Who Raised You"
 slug: "bastard-webtoon"
+coverImage: "/covers/bastard-webtoon.jpg"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Bastard"
@@ -130,9 +131,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Bastard* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Bastard on Amazon](https://www.amazon.com/s?k=Bastard&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Bastard&tag=dearmanga-20)
+
 
 ---
 

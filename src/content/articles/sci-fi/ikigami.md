@@ -1,6 +1,7 @@
 ---
 title: "Ikigami Review: The Government Sends You a Notice — You Have 24 Hours to Live"
 slug: "ikigami"
+coverImage: "/covers/ikigami.jpg"
 genre: "Sci-Fi / Thriller"
 genreSlug: "sci-fi"
 mangaTitle: "Ikigami: The Ultimate Limit"
@@ -125,7 +126,10 @@ Viz Media published the complete 10-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Ikigami Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ikigami%3A+The+Ultimate+Limit+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Ikigami%3A+The+Ultimate+Limit+manga&i=stripbooks)
+
 
 ---
 

@@ -128,7 +128,10 @@ Kodansha Comics is actively publishing the ongoing series. Check for latest volu
 
 ## Where to Buy
 
-[Get The Heroic Legend of Arslan Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Heroic+Legend+of+Arslan+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Heroic+Legend+of+Arslan+manga&i=stripbooks)
+
 
 ---
 

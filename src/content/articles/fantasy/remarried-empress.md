@@ -129,9 +129,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Remarried Empress* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Remarried Empress on Amazon](https://www.amazon.com/s?k=Remarried%20Empress&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Remarried%20Empress&tag=dearmanga-20)
+
 
 ---
 

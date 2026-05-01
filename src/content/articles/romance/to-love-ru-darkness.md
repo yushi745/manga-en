@@ -126,7 +126,10 @@ Yen Press has published the complete English series. All 18 volumes available.
 
 ## Where to Buy
 
-[Get To Love-Ru Darkness Vol. 1 on Amazon →](https://www.amazon.com/s?k=To+Love-Ru+Darkness+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=To+Love-Ru+Darkness+manga&i=stripbooks)
+
 
 ---
 

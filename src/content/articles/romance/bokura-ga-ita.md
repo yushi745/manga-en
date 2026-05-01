@@ -1,6 +1,7 @@
 ---
 title: "We Were There Review: A Romance That Refuses to Let You Off Easy"
 slug: "bokura-ga-ita"
+coverImage: "/covers/bokura-ga-ita.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "We Were There"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *We Were There* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for We Were There on Amazon](https://www.amazon.com/s?k=We%20Were%20There&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=We%20Were%20There&tag=dearmanga-20)
+
 
 ---
 

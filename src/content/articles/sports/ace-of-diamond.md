@@ -122,9 +122,10 @@ Start from Volume 1. Note: English is ongoing and behind Japanese.
 
 ## Where to Buy
 
-You can find **Ace of Diamond** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Ace of Diamond on Amazon](https://www.amazon.com/dp/1612629172?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1612629172?tag=dearmanga-20)
+
 
 ---
 

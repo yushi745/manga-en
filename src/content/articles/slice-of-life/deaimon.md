@@ -1,6 +1,7 @@
 ---
 title: "Deaimon Review: A Failed Musician Returns to His Family's Wagashi Shop and Meets the Girl Living There"
 slug: "deaimon"
+coverImage: "/covers/deaimon.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Deaimon: Recipe for Happiness"
@@ -125,7 +126,10 @@ Yen Press is actively publishing the ongoing English edition. Check for the late
 
 ## Where to Buy
 
-[Get Deaimon: Recipe for Happiness Vol. 1 on Amazon →](https://www.amazon.com/s?k=Deaimon%3A+Recipe+for+Happiness+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Deaimon%3A+Recipe+for+Happiness+manga&i=stripbooks)
+
 
 ---
 

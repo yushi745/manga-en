@@ -143,6 +143,7 @@ VIZ Media published all 19 volumes in English. The series is complete. All volum
 
 ## Where to Buy
 
-[Get Strawberry 100% on Amazon →](https://www.amazon.com/dp/B00AAHJ1CE?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B00AAHJ1CE?tag=dearmanga-20)
+

@@ -124,7 +124,10 @@ Seven Seas Entertainment is publishing the ongoing English series. 7 volumes ava
 
 ## Where to Buy
 
-[Get Otaku Elf Vol. 1 on Amazon →](https://www.amazon.com/s?k=Otaku+Elf+%28Edomae+Elf%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Otaku+Elf+%28Edomae+Elf%29+manga&i=stripbooks)
+
 
 ---
 

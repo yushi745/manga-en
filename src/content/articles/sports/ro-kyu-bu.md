@@ -122,7 +122,10 @@ Yen Press published the complete 10-volume manga adaptation. All volumes availab
 
 ## Where to Buy
 
-[Get Ro-Kyu-Bu! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Ro-Kyu-Bu%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Ro-Kyu-Bu%21+manga&i=stripbooks)
+
 
 ---
 

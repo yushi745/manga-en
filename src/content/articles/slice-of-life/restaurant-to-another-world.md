@@ -126,7 +126,10 @@ Square Enix Manga published the complete 11-volume series. All volumes available
 
 ## Where to Buy
 
-[Get Restaurant to Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Restaurant+to+Another+World+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Restaurant+to+Another+World+manga&i=stripbooks)
+
 
 ---
 

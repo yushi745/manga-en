@@ -1,6 +1,7 @@
 ---
 title: "Jarinko Chie Review: The Ten-Year-Old Who Runs Osaka Better Than Any Adult Around Her"
 slug: "jarinko-chie"
+coverImage: "/covers/jarinko-chie.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Jarinko Chie"
@@ -130,6 +131,7 @@ Jarinko Chie has no official English translation.
 
 ## Where to Buy
 
-Jarinko Chie is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

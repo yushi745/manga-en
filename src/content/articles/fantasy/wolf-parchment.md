@@ -1,6 +1,7 @@
 ---
 title: "Wolf & Parchment: New Theory Spice & Wolf Review: A Young Monk and a Wolf Deity's Daughter Travel a World Shaped by Faith"
 slug: "wolf-parchment"
+coverImage: "/covers/wolf-parchment.jpg"
 genre: "Fantasy / Adventure"
 genreSlug: "fantasy"
 mangaTitle: "Wolf & Parchment: New Theory Spice & Wolf"
@@ -125,7 +126,10 @@ Yen Press publishes the ongoing English series. 7+ volumes currently available.
 
 ## Where to Buy
 
-[Get Wolf & Parchment Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wolf+%26+Parchment%3A+New+Theory+Spice+%26+Wolf+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Wolf+%26+Parchment%3A+New+Theory+Spice+%26+Wolf+manga&i=stripbooks)
+
 
 ---
 

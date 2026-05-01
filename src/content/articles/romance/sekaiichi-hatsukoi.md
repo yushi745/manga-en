@@ -126,7 +126,10 @@ SuBLime (Viz Media imprint) published the complete English series. All 16 volume
 
 ## Where to Buy
 
-[Get Sekaiichi Hatsukoi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sekaiichi+Hatsukoi+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Sekaiichi+Hatsukoi+manga&i=stripbooks)
+
 
 ---
 

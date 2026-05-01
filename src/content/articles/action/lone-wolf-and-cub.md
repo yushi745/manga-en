@@ -1,6 +1,7 @@
 ---
 title: "Lone Wolf and Cub Review: A Disgraced Shogunate Executioner Travels the Road to Hell with His Infant Son"
 slug: "lone-wolf-and-cub"
+coverImage: "/covers/lone-wolf-and-cub.jpg"
 genre: "Action / Historical"
 genreSlug: "action"
 mangaTitle: "Lone Wolf and Cub"
@@ -127,7 +128,10 @@ Dark Horse published the complete English series. All 28 volumes available.
 
 ## Where to Buy
 
-[Get Lone Wolf and Cub Vol. 1 on Amazon →](https://www.amazon.com/s?k=Lone+Wolf+and+Cub+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Lone+Wolf+and+Cub+manga&i=stripbooks)
+
 
 ---
 

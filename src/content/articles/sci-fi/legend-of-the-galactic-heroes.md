@@ -130,7 +130,8 @@ Seven Seas Entertainment published the complete 10-volume manga adaptation. All 
 
 ## Where to Buy
 
-*Not available in English print.*
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---
 

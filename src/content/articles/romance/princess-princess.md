@@ -1,6 +1,7 @@
 ---
 title: "Princess Princess Review: New Student Has to Dress as a Girl — and the Whole School Is Okay with This"
 slug: "princess-princess"
+coverImage: "/covers/princess-princess.jpg"
 genre: "Comedy / Romance"
 genreSlug: "romance"
 mangaTitle: "Princess Princess"
@@ -127,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Princess Princess* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Princess Princess on Amazon](https://www.amazon.com/s?k=Princess%20Princess&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Princess%20Princess&tag=dearmanga-20)
+
 
 ---
 

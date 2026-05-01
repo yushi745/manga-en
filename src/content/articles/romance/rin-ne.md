@@ -126,7 +126,10 @@ VIZ Media has published the complete English series. All 40 volumes available.
 
 ## Where to Buy
 
-[Get Rin-ne Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rin-ne+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Rin-ne+manga&i=stripbooks)
+
 
 ---
 

@@ -133,7 +133,10 @@ Yen Press is publishing the ongoing series in English. Currently 19 volumes avai
 
 ## Where to Buy
 
-[Get Yowamushi Pedal Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yowamushi+Pedal+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yowamushi+Pedal+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Lone Wolf 2100 Review: Cyberpunk Reboot of the Samurai Classic"
 slug: "lone-wolf-2100"
+coverImage: "/covers/lone-wolf-2100.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Lone Wolf 2100"
@@ -125,9 +126,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Lone Wolf 2100* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Lone Wolf 2100 on Amazon](https://www.amazon.com/s?k=Lone%20Wolf%202100&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Lone%20Wolf%202100&tag=dearmanga-20)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Gals! Review: Shibuya's Most Fearless Teenager and Her Impossible Sense of Justice"
 slug: "gals"
+coverImage: "/covers/gals.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Gals!"
@@ -130,6 +131,7 @@ Gals! has a complete official English translation (all 10 volumes) from Viz Medi
 
 ## Where to Buy
 
-Gals! is available in English from Viz Media.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---

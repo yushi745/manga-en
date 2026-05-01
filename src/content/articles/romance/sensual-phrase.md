@@ -1,6 +1,7 @@
 ---
 title: "Sensual Phrase Review: Rock Stars, Dark Romance, and the Lyrics That Changed Everything"
 slug: "sensual-phrase"
+coverImage: "/covers/sensual-phrase.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Sensual Phrase"
@@ -136,7 +137,10 @@ Viz Media published all 18 volumes in English. The series is complete and availa
 
 ## Where to Buy
 
-[**View Sensual Phrase on Amazon →**](https://www.amazon.com/s?k=sensual+phrase+manga&tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=sensual+phrase+manga&tag=dearmanga-20)
+
 
 ---
 

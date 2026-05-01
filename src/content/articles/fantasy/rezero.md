@@ -154,8 +154,7 @@ The original light novel is also available from Yen Press if you want the full s
 
 ## Where to Buy
 
-Re:ZERO manga Volume 1 is available on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Get Re:ZERO on Amazon →](https://www.amazon.com/dp/B07BXQKJ4Z?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/B07BXQKJ4Z?tag=dearmanga-20)
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*

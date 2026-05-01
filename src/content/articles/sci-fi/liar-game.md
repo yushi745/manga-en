@@ -126,7 +126,10 @@ Viz Media offers digital volumes. Physical editions are limited.
 
 ## Where to Buy
 
-[Get Liar Game on Amazon →](https://www.amazon.com/s?k=Liar+Game+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Liar+Game+manga&i=stripbooks)
+
 
 ---
 

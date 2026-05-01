@@ -135,9 +135,10 @@ VIZ Media published a deluxe hardcover edition that is the definitive version fo
 
 ## Where to Buy
 
-The deluxe hardcover collects all three volumes in one beautiful book and is absolutely the edition to own.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Get Uzumaki (Deluxe Edition) on Amazon →](https://www.amazon.com/s?k=Uzumaki+manga&i=stripbooks)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Uzumaki+manga&i=stripbooks)
+
 
 ---
 

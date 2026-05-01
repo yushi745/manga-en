@@ -120,7 +120,10 @@ VIZ Media published both volumes in their Signature imprint. Complete and availa
 
 ## Where to Buy
 
-[Get Cat-Eyed Boy on Amazon →](https://www.amazon.com/s?k=Cat-Eyed+Boy+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Cat-Eyed+Boy+manga&i=stripbooks)
+
 
 ---
 

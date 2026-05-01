@@ -1,6 +1,7 @@
 ---
 title: "Clean Freak! Aoyama-kun Review: Soccer and OCD Make for Unexpectedly Charming Sports Comedy"
 slug: "keppeki-aoyama"
+coverImage: "/covers/keppeki-aoyama.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Clean Freak! Aoyama-kun"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Clean Freak! Aoyama-kun* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Clean Freak! Aoyama-kun on Amazon](https://www.amazon.com/s?k=Clean%20Freak%21%20Aoyama-kun&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Clean%20Freak%21%20Aoyama-kun&tag=dearmanga-20)
+
 
 ---
 

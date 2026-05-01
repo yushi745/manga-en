@@ -1,6 +1,7 @@
 ---
 title: "LDK Review: A Shared Apartment With the School's Most Untouchable Boy Is Not How She Planned Her High School Year"
 slug: "l-dk"
+coverImage: "/covers/l-dk.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "LDK"
@@ -123,7 +124,10 @@ Kodansha Comics published all 22 volumes in English. Complete and available.
 
 ## Where to Buy
 
-[Get LDK Vol. 1 on Amazon →](https://www.amazon.com/s?k=LDK+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=LDK+manga&i=stripbooks)
+
 
 ---
 

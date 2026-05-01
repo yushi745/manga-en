@@ -1,6 +1,7 @@
 ---
 title: "Full Metal Panic! Review: A Teenage Military Specialist Assigned to Protect a High School Girl Has Never Heard of Normal"
 slug: "fullmetal-panic"
+coverImage: "/covers/fullmetal-panic.jpg"
 genre: "Sci-Fi / Comedy"
 genreSlug: "sci-fi"
 mangaTitle: "Full Metal Panic!"
@@ -125,7 +126,10 @@ Seven Seas Entertainment published all 9 volumes (completing the Tokyopop run). 
 
 ## Where to Buy
 
-[Get Full Metal Panic! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Full+Metal+Panic%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Full+Metal+Panic%21+manga&i=stripbooks)
+
 
 ---
 

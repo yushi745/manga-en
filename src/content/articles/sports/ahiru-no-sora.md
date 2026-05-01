@@ -123,9 +123,10 @@ Start from Volume 1. Note: English release is ongoing and far behind Japanese.
 
 ## Where to Buy
 
-You can find **Ahiru no Sora** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Ahiru no Sora on Amazon](https://www.amazon.com/dp/1632365863?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1632365863?tag=dearmanga-20)
+
 
 ---
 

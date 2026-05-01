@@ -149,7 +149,10 @@ Viz Media published all 28 volumes in English under the Shonen Jump imprint. Tra
 
 ## Where to Buy
 
-[**View Kaguya-sama: Love Is War on Amazon →**](https://www.amazon.com/dp/1974700887?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1974700887?tag=dearmanga-20)
+
 
 ---
 

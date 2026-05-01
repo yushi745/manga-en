@@ -1,6 +1,7 @@
 ---
 title: "V.B. Rose Review: Wedding Dress Design Is the Setting for a Romance About People Who Make Beautiful Things"
 slug: "v-b-rose"
+coverImage: "/covers/v-b-rose.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "V.B. Rose"
@@ -121,7 +122,10 @@ TOKYOPOP published all 12 volumes. Out of print but available used.
 
 ## Where to Buy
 
-[Get V.B. Rose Vol. 1 on Amazon →](https://www.amazon.com/s?k=V.B.+Rose+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=V.B.+Rose+manga&i=stripbooks)
+
 
 ---
 

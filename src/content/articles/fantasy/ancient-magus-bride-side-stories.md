@@ -133,6 +133,7 @@ Yen Press published all 5 volumes in English. The series is complete.
 
 ## Where to Buy
 
-[Get The Ancient Magus' Bride: Side Stories on Amazon →](https://www.amazon.com/dp/B07H3JTZM2?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B07H3JTZM2?tag=dearmanga-20)
+

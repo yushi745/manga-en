@@ -1,6 +1,7 @@
 ---
 title: "Scorching Ping Pong Girls Review: A Ping Pong Prodigy Meets Someone Who Loves the Game as Much as She Does"
 slug: "scorching-ping-pong-girls"
+coverImage: "/covers/scorching-ping-pong-girls.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Shakunetsu no Takkyuu Musume (Scorching Ping Pong Girls)"
@@ -127,7 +128,10 @@ Seven Seas Entertainment published the complete 10-volume run. All volumes avail
 
 ## Where to Buy
 
-[Get Scorching Ping Pong Girls Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shakunetsu+no+Takkyuu+Musume+%28Scorching+Ping+Pong+Girls%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Shakunetsu+no+Takkyuu+Musume+%28Scorching+Ping+Pong+Girls%29+manga&i=stripbooks)
+
 
 ---
 

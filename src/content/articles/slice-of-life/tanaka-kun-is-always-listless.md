@@ -127,7 +127,8 @@ Available digitally via Square Enix Manga UP! No English print edition exists.
 
 ## Where to Buy
 
-*This title is not available in English print.*
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---
 

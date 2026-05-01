@@ -121,9 +121,10 @@ Start from Volume 1. Complete at 5 volumes — perfect for one reading session.
 
 ## Where to Buy
 
-You can find **I Think Our Son Is Gay** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy I Think Our Son Is Gay on Amazon](https://www.amazon.com/dp/1646090761?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1646090761?tag=dearmanga-20)
+
 
 ---
 

@@ -126,9 +126,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Mujirushi: The Sign of Dreams* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Mujirushi: The Sign of Dreams on Amazon](https://www.amazon.com/s?k=Mujirushi%3A%20The%20Sign%20of%20Dreams&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Mujirushi%3A%20The%20Sign%20of%20Dreams&tag=dearmanga-20)
+
 
 ---
 

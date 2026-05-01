@@ -1,6 +1,7 @@
 ---
 title: "Cells at Work! Bacteria Review: The Bacteria Living Inside You Are Working Hard Too"
 slug: "cells-at-work-bacteria"
+coverImage: "/covers/cells-at-work-bacteria.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Cells at Work! Bacteria"
@@ -123,7 +124,10 @@ Kodansha Comics published the complete 4-volume English series.
 
 ## Where to Buy
 
-[Get Cells at Work! Bacteria Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cells+at+Work%21+Bacteria+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Cells+at+Work%21+Bacteria+manga&i=stripbooks)
+
 
 ---
 

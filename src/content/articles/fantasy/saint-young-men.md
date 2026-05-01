@@ -1,6 +1,7 @@
 ---
 title: "Saint Young Men Review: Jesus and Buddha Take a Vacation in Tokyo and Try to Blend In"
 slug: "saint-young-men"
+coverImage: "/covers/saint-young-men.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Saint Young Men"
@@ -125,7 +126,10 @@ Kodansha USA is publishing the ongoing series in English. Multiple volumes avail
 
 ## Where to Buy
 
-[Get Saint Young Men Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saint+Young+Men+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Saint+Young+Men+manga&i=stripbooks)
+
 
 ---
 

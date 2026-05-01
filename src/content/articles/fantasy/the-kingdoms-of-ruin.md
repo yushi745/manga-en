@@ -126,7 +126,10 @@ Seven Seas Entertainment publishes the ongoing series. 10+ volumes currently ava
 
 ## Where to Buy
 
-[Get The Kingdoms of Ruin Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Kingdoms+of+Ruin+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Kingdoms+of+Ruin+manga&i=stripbooks)
+
 
 ---
 

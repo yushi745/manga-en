@@ -124,9 +124,10 @@ Start from Volume 1. Complete at 4 volumes — read in one sitting.
 
 ## Where to Buy
 
-You can find **Levius** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Levius on Amazon](https://www.amazon.com/dp/1421591855?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1421591855?tag=dearmanga-20)
+
 
 ---
 

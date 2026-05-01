@@ -127,7 +127,10 @@ VIZ Media published the English edition as a single volume. Available in print a
 
 ## Where to Buy
 
-[Get Remina on Amazon →](https://www.amazon.com/s?k=Remina+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Remina+manga&i=stripbooks)
+
 
 ---
 

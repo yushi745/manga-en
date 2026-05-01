@@ -124,9 +124,10 @@ Works as standalone with basic Naruto knowledge. Read main Naruto first for full
 
 ## Where to Buy
 
-You can find **Rock Lee's Springtime of Youth Full Power Ninja Chronicles** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Rock Lee's Springtime of Youth Full Power Ninja Chronicles on Amazon](https://www.amazon.com/dp/1421558564?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1421558564?tag=dearmanga-20)
+
 
 ---
 

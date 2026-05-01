@@ -1,6 +1,7 @@
 ---
 title: "Omniscient Reader's Viewpoint Review: The Last Reader of a Web Novel Watches It Come True Around Him"
 slug: "omniscient-readers-viewpoint"
+coverImage: "/covers/omniscient-readers-viewpoint.jpg"
 genre: "Fantasy / Action"
 genreSlug: "action"
 mangaTitle: "Omniscient Reader's Viewpoint"
@@ -127,7 +128,10 @@ Yen Press publishes the ongoing English manhwa adaptation. 7+ volumes currently 
 
 ## Where to Buy
 
-[Get Omniscient Reader's Viewpoint Vol. 1 on Amazon →](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Omniscient+Reader%27s+Viewpoint+manga&i=stripbooks)
+
 
 ---
 

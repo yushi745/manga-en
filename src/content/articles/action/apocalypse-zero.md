@@ -1,6 +1,7 @@
 ---
 title: "Apocalypse Zero Review: Body Horror Meets Tokusatsu"
 slug: "apocalypse-zero"
+coverImage: "/covers/apocalypse-zero.jpg"
 genre: "Action / Horror"
 genreSlug: "action"
 mangaTitle: "Apocalypse Zero"
@@ -127,9 +128,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Apocalypse Zero* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E9%BB%99%E7%A4%BA%E9%8C%B2%E3%82%BC%E3%83%AD&tag=yushi745-22)
 
 ---
 

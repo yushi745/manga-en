@@ -130,7 +130,10 @@ VIZ Media published the complete 25-volume series in 2020-2021. All volumes now 
 
 ## Where to Buy
 
-[Get Dragon Quest: The Adventure of Dai Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dragon+Quest%3A+The+Adventure+of+Dai+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Dragon+Quest%3A+The+Adventure+of+Dai+manga&i=stripbooks)
+
 
 ---
 

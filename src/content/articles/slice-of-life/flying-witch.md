@@ -1,6 +1,7 @@
 ---
 title: "Flying Witch Review: A Witch Moves to the Country and Mostly Tends Her Garden"
 slug: "flying-witch"
+coverImage: "/covers/flying-witch.jpg"
 genre: "Slice of Life / Fantasy"
 genreSlug: "slice-of-life"
 mangaTitle: "Flying Witch"
@@ -124,7 +125,10 @@ Kodansha USA is publishing the ongoing series. Currently 11 volumes available in
 
 ## Where to Buy
 
-[Get Flying Witch Vol. 1 on Amazon →](https://www.amazon.com/s?k=Flying+Witch+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Flying+Witch+manga&i=stripbooks)
+
 
 ---
 

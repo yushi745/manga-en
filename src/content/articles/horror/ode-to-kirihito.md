@@ -123,7 +123,10 @@ Vertical published the English omnibus edition.
 
 ## Where to Buy
 
-[Get Ode to Kirihito on Amazon →](https://www.amazon.com/s?k=Ode+to+Kirihito+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Ode+to+Kirihito+manga&i=stripbooks)
+
 
 ---
 

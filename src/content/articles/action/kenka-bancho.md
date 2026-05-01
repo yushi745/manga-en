@@ -1,6 +1,7 @@
 ---
 title: "Kenka Bancho Review: The Delinquent Manga Where You Win Japan by Fighting Its Strongest"
 slug: "kenka-bancho"
+coverImage: "/covers/kenka-bancho.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Kenka Bancho"
@@ -130,6 +131,7 @@ DrMaster published 7 volumes in English. The localized run is complete as publis
 
 ## Where to Buy
 
-[Get Kenka Bancho on Amazon →](https://www.amazon.com/dp/B001TPA7AS?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B001TPA7AS?tag=dearmanga-20)
+

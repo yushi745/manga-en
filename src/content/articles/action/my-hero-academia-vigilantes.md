@@ -147,7 +147,10 @@ Viz Media published all 14 volumes in English. Complete and available in both di
 
 ## Where to Buy
 
-[**View My Hero Academia: Vigilantes on Amazon →**](https://www.amazon.com/dp/1974710866?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1974710866?tag=dearmanga-20)
+
 
 ---
 

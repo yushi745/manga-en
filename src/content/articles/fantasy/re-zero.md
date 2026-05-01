@@ -191,8 +191,10 @@ Start from Volume 1. The series is continuous and the psychological depth builds
 
 ## Where to Buy
 
-- [📱 Re:Zero Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Re%3AZero+%E2%88%92+Starting+Life+in+Another+World+manga&i=stripbooks)
-- [📚 Re:Zero Vol. 1 — Paperback](https://www.amazon.com/s?k=Re%3AZero+%E2%88%92+Starting+Life+in+Another+World+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Re%3AZero+%E2%88%92+Starting+Life+in+Another+World+manga&i=stripbooks)
+
 
 ---
 

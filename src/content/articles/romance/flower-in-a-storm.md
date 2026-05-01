@@ -124,7 +124,10 @@ Viz Media published the complete English series. Both volumes available.
 
 ## Where to Buy
 
-[Get Flower in a Storm Vol. 1 on Amazon →](https://www.amazon.com/s?k=Flower+in+a+Storm+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Flower+in+a+Storm+manga&i=stripbooks)
+
 
 ---
 

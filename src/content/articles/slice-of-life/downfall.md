@@ -1,6 +1,7 @@
 ---
 title: "Downfall Review"
 slug: "downfall"
+coverImage: "/covers/downfall.jpg"
 genre: "Drama / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Downfall"
@@ -124,9 +125,10 @@ Best read after familiarity with Asano's other work. Single volume.
 
 ## Where to Buy
 
-You can find **Downfall** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Downfall on Amazon](https://www.amazon.com/dp/1974721752?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974721752?tag=dearmanga-20)
+
 
 ---
 

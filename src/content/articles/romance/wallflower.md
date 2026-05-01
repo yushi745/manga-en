@@ -1,6 +1,7 @@
 ---
 title: "The Wallflower Review: Four Pretty Boys Must Turn a Horror Obsessed Girl Into a Lady — and Fail Entertainingly"
 slug: "wallflower"
+coverImage: "/covers/wallflower.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "The Wallflower (Yamato Nadeshiko Shichihenge)"
@@ -122,7 +123,10 @@ Del Rey (later Kodansha Comics) published the complete 36-volume run. All volume
 
 ## Where to Buy
 
-[Get The Wallflower Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Wallflower+%28Yamato+Nadeshiko+Shichihenge%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Wallflower+%28Yamato+Nadeshiko+Shichihenge%29+manga&i=stripbooks)
+
 
 ---
 

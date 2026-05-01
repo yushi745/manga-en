@@ -127,9 +127,10 @@ Start from Volume 1 — the character establishment is important for the late-se
 
 ## Where to Buy
 
-You can find **Hellsing** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Hellsing on Amazon](https://www.amazon.com/dp/1593070063?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1593070063?tag=dearmanga-20)
+
 
 ---
 

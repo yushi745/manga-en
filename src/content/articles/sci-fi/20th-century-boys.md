@@ -135,7 +135,10 @@ VIZ Media published the complete 22-volume series plus 21st Century Boys. All vo
 
 ## Where to Buy
 
-[Get 20th Century Boys Vol. 1 on Amazon →](https://www.amazon.com/s?k=20th+Century+Boys+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=20th+Century+Boys+manga&i=stripbooks)
+
 
 ---
 

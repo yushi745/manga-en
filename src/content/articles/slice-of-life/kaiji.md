@@ -124,7 +124,10 @@ Denpa Books is publishing the ongoing English translation. 11 volumes available.
 
 ## Where to Buy
 
-[Get Gambling Apocalypse Kaiji Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gambling+Apocalypse+Kaiji+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Gambling+Apocalypse+Kaiji+manga&i=stripbooks)
+
 
 ---
 

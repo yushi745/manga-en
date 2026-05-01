@@ -124,7 +124,10 @@ Vertical Inc. published the complete 8-volume English edition. All volumes avail
 
 ## Where to Buy
 
-[Get Buddha Vol. 1 on Amazon →](https://www.amazon.com/s?k=Buddha+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Buddha+manga&i=stripbooks)
+
 
 ---
 

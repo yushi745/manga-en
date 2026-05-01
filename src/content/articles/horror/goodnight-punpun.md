@@ -130,7 +130,10 @@ VIZ Media published the complete 13-volume series in an omnibus format. All volu
 
 ## Where to Buy
 
-[Get Goodnight Punpun Omnibus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Goodnight+Punpun+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Goodnight+Punpun+manga&i=stripbooks)
+
 
 ---
 

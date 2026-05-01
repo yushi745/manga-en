@@ -128,7 +128,10 @@ VIZ Media has published the complete English series. All 5 volumes available.
 
 ## Where to Buy
 
-[Get Yurara Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yurara+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yurara+manga&i=stripbooks)
+
 
 ---
 

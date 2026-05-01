@@ -127,9 +127,10 @@ Complete in 5 volumes — read straight through.
 
 ## Where to Buy
 
-You can find **Basilisk: The Kouga Ninja Scrolls** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Basilisk: The Kouga Ninja Scrolls on Amazon](https://www.amazon.com/dp/0345481658?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/0345481658?tag=dearmanga-20)
+
 
 ---
 

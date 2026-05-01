@@ -1,6 +1,7 @@
 ---
 title: "Clockwork Planet Review: A World Rebuilt from Gears Where a Boy Finds a Legendary Automaton"
 slug: "clockwork-planet"
+coverImage: "/covers/clockwork-planet.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Clockwork Planet"
@@ -125,7 +126,10 @@ Vertical Comics published the complete English series. All 9 volumes available.
 
 ## Where to Buy
 
-[Get Clockwork Planet Vol. 1 on Amazon →](https://www.amazon.com/s?k=Clockwork+Planet+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Clockwork+Planet+manga&i=stripbooks)
+
 
 ---
 

@@ -126,7 +126,10 @@ Seven Seas Entertainment published the complete 9-volume series. All volumes ava
 
 ## Where to Buy
 
-[Get Somali and the Forest Spirit Vol. 1 on Amazon →](https://www.amazon.com/s?k=Somali+and+the+Forest+Spirit+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Somali+and+the+Forest+Spirit+manga&i=stripbooks)
+
 
 ---
 

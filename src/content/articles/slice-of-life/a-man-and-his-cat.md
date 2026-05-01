@@ -1,6 +1,7 @@
 ---
 title: "A Man and His Cat Review: The Oldest Cat at the Pet Store Gets Adopted by a Lonely Widower, and They Save Each Other"
 slug: "a-man-and-his-cat"
+coverImage: "/covers/a-man-and-his-cat.jpg"
 genre: "Slice of Life / Heartwarming"
 genreSlug: "slice-of-life"
 mangaTitle: "A Man and His Cat"
@@ -127,7 +128,10 @@ Square Enix Manga is publishing the ongoing series. Multiple volumes available.
 
 ## Where to Buy
 
-[Get A Man and His Cat Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Man+and+His+Cat+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=A+Man+and+His+Cat+manga&i=stripbooks)
+
 
 ---
 

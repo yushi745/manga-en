@@ -1,6 +1,7 @@
 ---
 title: "7 Billion Needles Review: A Teenage Girl Fused with an Alien Entity Must Hunt Another Alien Hiding Among Humans"
 slug: "7-billion-needles"
+coverImage: "/covers/7-billion-needles.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "7 Billion Needles"
@@ -123,7 +124,10 @@ Vertical published the complete English series. All 4 volumes available.
 
 ## Where to Buy
 
-[Get 7 Billion Needles Vol. 1 on Amazon →](https://www.amazon.com/s?k=7+Billion+Needles+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=7+Billion+Needles+manga&i=stripbooks)
+
 
 ---
 

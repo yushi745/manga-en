@@ -128,7 +128,10 @@ Yen Press publishes the English series. 7+ volumes currently available, nearing 
 
 ## Where to Buy
 
-[Get I'm the Villainess, So I'm Taming the Final Boss Vol. 1 on Amazon →](https://www.amazon.com/s?k=I%27m+the+Villainess%2C+So+I%27m+Taming+the+Final+Boss+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=I%27m+the+Villainess%2C+So+I%27m+Taming+the+Final+Boss+manga&i=stripbooks)
+
 
 ---
 

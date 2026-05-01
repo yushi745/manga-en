@@ -126,7 +126,10 @@ Yen Press is publishing the ongoing series. Available in English as volumes rele
 
 ## Where to Buy
 
-[Get Kakegurui Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kakegurui+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kakegurui+manga&i=stripbooks)
+
 
 ---
 

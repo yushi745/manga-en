@@ -135,6 +135,7 @@ Tokimeki Tonight has no official English translation. Available in Japanese.
 
 ## Where to Buy
 
-Tokimeki Tonight is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

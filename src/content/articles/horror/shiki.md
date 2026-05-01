@@ -1,6 +1,7 @@
 ---
 title: "Shiki Review: A Quiet Village, Strange Deaths, and the Question of Who the Real Monsters Are"
 slug: "shiki"
+coverImage: "/covers/shiki.jpg"
 genre: "Horror / Supernatural"
 genreSlug: "horror"
 mangaTitle: "Shiki"
@@ -125,9 +126,8 @@ Not available in English print. The Shiki manga has not been officially licensed
 
 ## Where to Buy
 
-Find the Japanese edition of *Shiki* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E5%9B%9B%E5%AD%A3&tag=yushi745-22)
 
 ---
 

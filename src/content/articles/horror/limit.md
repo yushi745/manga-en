@@ -1,6 +1,7 @@
 ---
 title: "Limit Review: A School Bus Crash Leaves Survivors Stranded, and the Social Hierarchies That Defined Them Begin to Break Down"
 slug: "limit"
+coverImage: "/covers/limit.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Limit"
@@ -123,7 +124,10 @@ Kodansha Comics published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Limit Vol. 1 on Amazon →](https://www.amazon.com/s?k=Limit+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Limit+manga&i=stripbooks)
+
 
 ---
 

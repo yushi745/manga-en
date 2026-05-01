@@ -128,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Chronicles of the Heavenly Demon* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Chronicles of the Heavenly Demon on Amazon](https://www.amazon.com/s?k=Chronicles%20of%20the%20Heavenly%20Demon&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Chronicles%20of%20the%20Heavenly%20Demon&tag=dearmanga-20)
+
 
 ---
 

@@ -126,7 +126,10 @@ Seven Seas Entertainment publishes the ongoing English series. 14+ volumes curre
 
 ## Where to Buy
 
-[Get The Duke of Death and His Maid Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Duke+of+Death+and+His+Maid+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Duke+of+Death+and+His+Maid+manga&i=stripbooks)
+
 
 ---
 

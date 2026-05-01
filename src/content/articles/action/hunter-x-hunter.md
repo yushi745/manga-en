@@ -216,8 +216,10 @@ If you finish Volume 5 and want more, you're in for the long haul.
 
 ## Where to Buy
 
-- [📱 Hunter x Hunter Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Hunter+x+Hunter+manga&i=stripbooks)
-- [📚 Hunter x Hunter Vol. 1 — Paperback](https://www.amazon.com/s?k=Hunter+x+Hunter+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Hunter+x+Hunter+manga&i=stripbooks)
+
 
 ---
 

@@ -124,7 +124,10 @@ Viz Media published the complete 5-volume English series under the Viz Signature
 
 ## Where to Buy
 
-[Get Children of the Sea Vol. 1 on Amazon →](https://www.amazon.com/s?k=Children+of+the+Sea+%28Kaijuu+no+Kodomo%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Children+of+the+Sea+%28Kaijuu+no+Kodomo%29+manga&i=stripbooks)
+
 
 ---
 

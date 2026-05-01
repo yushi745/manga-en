@@ -131,7 +131,10 @@ Kodansha USA published the complete 12-volume series in an unedited edition. All
 
 ## Where to Buy
 
-[Get Cardcaptor Sakura Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cardcaptor+Sakura+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Cardcaptor+Sakura+manga&i=stripbooks)
+
 
 ---
 

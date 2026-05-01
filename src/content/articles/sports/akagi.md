@@ -1,6 +1,7 @@
 ---
 title: "Akagi Review: A Genius Who Plays Mahjong Like He Has Nothing to Lose — Because He Doesn't"
 slug: "akagi"
+coverImage: "/covers/akagi.jpg"
 genre: "Sports / Psychological Thriller"
 genreSlug: "sports"
 publisher: "Takeshobo / Viz Media (Digital)"
@@ -128,7 +129,10 @@ Viz Media offers digital volumes. Physical editions are limited; check digital p
 
 ## Where to Buy
 
-[Get Akagi on Amazon →](https://www.amazon.com/s?k=Akagi%3A+The+Genius+Who+Descended+Into+the+Darkness+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Akagi%3A+The+Genius+Who+Descended+Into+the+Darkness+manga&i=stripbooks)
+
 
 ---
 

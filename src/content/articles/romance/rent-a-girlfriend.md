@@ -1,6 +1,7 @@
 ---
 title: "Rent-a-Girlfriend Review: A Broke College Student Rents a Girlfriend Service and It Spirals Into Something He Cannot Control"
 slug: "rent-a-girlfriend"
+coverImage: "/covers/rent-a-girlfriend.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Rent-a-Girlfriend"
@@ -125,7 +126,10 @@ Kodansha USA published the complete 30-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Rent-a-Girlfriend Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rent-a-Girlfriend+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Rent-a-Girlfriend+manga&i=stripbooks)
+
 
 ---
 

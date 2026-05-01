@@ -1,6 +1,7 @@
 ---
 title: "That Time I Got Reincarnated as a Slime Review: The Isekai That Actually Builds a World"
 slug: "slime-isekai"
+coverImage: "/covers/slime-isekai.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "That Time I Got Reincarnated as a Slime"
@@ -186,8 +187,10 @@ Start from Volume 1. The nation-building premise is established quickly.
 
 ## Where to Buy
 
-- [📱 Slime Isekai Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=That+Time+I+Got+Reincarnated+as+a+Slime+manga&i=stripbooks)
-- [📚 Slime Isekai Vol. 1 — Paperback](https://www.amazon.com/s?k=That+Time+I+Got+Reincarnated+as+a+Slime+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=That+Time+I+Got+Reincarnated+as+a+Slime+manga&i=stripbooks)
+
 
 ---
 

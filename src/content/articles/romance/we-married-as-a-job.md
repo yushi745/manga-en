@@ -141,7 +141,10 @@ Kodansha USA published all 11 volumes in English. Complete and available in both
 
 ## Where to Buy
 
-[**View We Married as a Job! on Amazon →**](https://www.amazon.com/dp/1632367572?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1632367572?tag=dearmanga-20)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Alice & Zouroku Review: A Girl With Reality-Warping Powers Is Found by a Stubborn Old Florist"
 slug: "alice-and-zouroku"
+coverImage: "/covers/alice-and-zouroku.jpg"
 genre: "Sci-Fi / Slice of Life"
 genreSlug: "sci-fi"
 mangaTitle: "Alice & Zouroku"
@@ -123,7 +124,10 @@ Yen Press published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Alice & Zouroku Vol. 1 on Amazon →](https://www.amazon.com/s?k=Alice+%26+Zouroku+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Alice+%26+Zouroku+manga&i=stripbooks)
+
 
 ---
 

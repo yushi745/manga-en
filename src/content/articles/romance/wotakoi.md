@@ -123,7 +123,10 @@ Yen Press published the complete 11-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Wotakoi: Love is Hard for Otaku Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wotakoi%3A+Love+is+Hard+for+Otaku+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Wotakoi%3A+Love+is+Hard+for+Otaku+manga&i=stripbooks)
+
 
 ---
 

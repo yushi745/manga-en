@@ -1,6 +1,7 @@
 ---
 title: "Radiant Review: A Young Wizard Infected by Nemeses Hunts the Source of the Monsters While Being Persecuted by the Inquisition"
 slug: "radiant"
+coverImage: "/covers/radiant.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Radiant"
@@ -125,7 +126,10 @@ VIZ Media is publishing the ongoing series. Over 20 volumes available with consi
 
 ## Where to Buy
 
-[Get Radiant Vol. 1 on Amazon →](https://www.amazon.com/s?k=Radiant+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Radiant+manga&i=stripbooks)
+
 
 ---
 

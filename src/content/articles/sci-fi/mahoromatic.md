@@ -1,6 +1,7 @@
 ---
 title: "Mahoromatic Review: A Combat Android Becomes a Maid and Finds Something Worth Protecting"
 slug: "mahoromatic"
+coverImage: "/covers/mahoromatic.jpg"
 genre: "Sci-Fi / Comedy"
 genreSlug: "sci-fi"
 mangaTitle: "Mahoromatic: Automatic Maiden"
@@ -125,7 +126,10 @@ Tokyopop published all 8 volumes. Complete; older release, available in the seco
 
 ## Where to Buy
 
-[Get Mahoromatic Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mahoromatic%3A+Automatic+Maiden+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Mahoromatic%3A+Automatic+Maiden+manga&i=stripbooks)
+
 
 ---
 

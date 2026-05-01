@@ -1,6 +1,7 @@
 ---
 title: "My Master Has No Tail Review: The Fox Demon Who Wanted to Hear Human Stories"
 slug: "my-master-has-no-tail"
+coverImage: "/covers/my-master-has-no-tail.jpg"
 genre: "Fantasy / Slice of Life"
 genreSlug: "fantasy"
 mangaTitle: "My Master Has No Tail"
@@ -129,7 +130,10 @@ Kodansha Comics is publishing My Master Has No Tail in English. Ongoing.
 
 ## Where to Buy
 
-[**View My Master Has No Tail on Amazon →**](https://www.amazon.com/dp/1646512421?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1646512421?tag=dearmanga-20)
+
 
 ---
 

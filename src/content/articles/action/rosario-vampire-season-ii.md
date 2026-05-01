@@ -136,9 +136,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Rosario+Vampire Season II* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Rosario+Vampire Season II on Amazon](https://www.amazon.com/s?k=Rosario%2BVampire%20Season%20II&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Rosario%2BVampire%20Season%20II&tag=dearmanga-20)
+
 
 ---
 

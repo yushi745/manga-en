@@ -1,6 +1,7 @@
 ---
 title: "Outer Zone Review: Japan's Answer to The Twilight Zone — And Sometimes Better"
 slug: "outer-zone"
+coverImage: "/covers/outer-zone.jpg"
 genre: "Horror / Sci-Fi"
 genreSlug: "horror"
 mangaTitle: "Outer Zone"
@@ -130,6 +131,7 @@ English editions have been published. Check current availability — the series 
 
 ## Where to Buy
 
-[Get Outer Zone on Amazon →](https://www.amazon.com/dp/B09NWGX9NF?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B09NWGX9NF?tag=dearmanga-20)
+

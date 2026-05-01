@@ -1,6 +1,7 @@
 ---
 title: "Zombie Powder Review: Tite Kubo's Cancelled First Series Still Shows What He Was"
 slug: "zombie-powder"
+coverImage: "/covers/zombie-powder.jpg"
 genre: "Action / Adventure"
 genreSlug: "action"
 mangaTitle: "Zombie Powder"
@@ -125,7 +126,10 @@ Viz Media published the complete 4-volume English edition. All volumes available
 
 ## Where to Buy
 
-[Get Zombie Powder Vol. 1 on Amazon →](https://www.amazon.com/s?k=Zombie+Powder+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Zombie+Powder+manga&i=stripbooks)
+
 
 ---
 

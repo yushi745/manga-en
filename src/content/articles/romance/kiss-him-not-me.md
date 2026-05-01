@@ -126,7 +126,10 @@ Kodansha USA published the complete 15-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Kiss Him, Not Me! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kiss+Him%2C+Not+Me%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kiss+Him%2C+Not+Me%21+manga&i=stripbooks)
+
 
 ---
 

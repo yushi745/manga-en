@@ -1,6 +1,7 @@
 ---
 title: "The Misfit of Demon King Academy Review: The Demon King Reincarnates 2000 Years Later and Is Told He's Too Powerful to Be the Demon King"
 slug: "misfit-demon-king-academy"
+coverImage: "/covers/misfit-demon-king-academy.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "The Misfit of Demon King Academy"
@@ -124,7 +125,10 @@ Square Enix Manga (Manga UP!) publishes the ongoing English series. 10+ volumes 
 
 ## Where to Buy
 
-[Get The Misfit of Demon King Academy Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Misfit+of+Demon+King+Academy+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Misfit+of+Demon+King+Academy+manga&i=stripbooks)
+
 
 ---
 

@@ -126,7 +126,10 @@ Square Enix Manga is actively publishing the ongoing English edition. Check for 
 
 ## Where to Buy
 
-[Get My Dress-Up Darling Vol. 1 on Amazon →](https://www.amazon.com/s?k=My+Dress-Up+Darling+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=My+Dress-Up+Darling+manga&i=stripbooks)
+
 
 ---
 

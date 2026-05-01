@@ -1,6 +1,7 @@
 ---
 title: "xxxHOLiC: Rei Review: Watanuki Returns to the Wish Shop, and the Past Is Not What He Remembers"
 slug: "xxxholic-rei"
+coverImage: "/covers/xxxholic-rei.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "xxxHOLiC: Rei"
@@ -123,7 +124,10 @@ Kodansha Comics published all 4 volumes in English. Complete series available.
 
 ## Where to Buy
 
-[Get xxxHOLiC: Rei on Amazon →](https://www.amazon.com/s?k=xxxHOLiC%3A+Rei+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=xxxHOLiC%3A+Rei+manga&i=stripbooks)
+
 
 ---
 

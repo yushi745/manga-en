@@ -126,7 +126,10 @@ VIZ Media published the complete 23-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Hikaru no Go Vol. 1 on Amazon →](https://www.amazon.com/s?k=Hikaru+no+Go+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Hikaru+no+Go+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Chronos Ruler Review: The Time Demon Hunter Manga You Missed"
 slug: "chronos-ruler"
+coverImage: "/covers/chronos-ruler.jpg"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Chronos Ruler"
@@ -125,9 +126,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Chronos Ruler* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E6%99%82%E9%96%93%E3%81%AE%E6%94%AF%E9%85%8D%E8%80%85&tag=yushi745-22)
 
 ---
 

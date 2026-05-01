@@ -1,6 +1,7 @@
 ---
 title: "It's Not Meguro-san's First Time Review: Two Adults Who Are Not Inexperienced Navigate Romance With Surprising Honesty"
 slug: "meguro-san"
+coverImage: "/covers/meguro-san.jpg"
 genre: "Slice of Life / Romance"
 genreSlug: "slice-of-life"
 mangaTitle: "It's Not Meguro-san's First Time"
@@ -121,7 +122,10 @@ Kodansha Comics published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get It's Not Meguro-san's First Time Vol. 1 on Amazon →](https://www.amazon.com/s?k=It%27s+Not+Meguro-san%27s+First+Time+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=It%27s+Not+Meguro-san%27s+First+Time+manga&i=stripbooks)
+
 
 ---
 

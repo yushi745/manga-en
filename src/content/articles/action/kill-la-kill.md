@@ -1,6 +1,7 @@
 ---
 title: "Kill la Kill Review: The Manga About Clothes That Made Me Think About Power"
 slug: "kill-la-kill"
+coverImage: "/covers/kill-la-kill.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Kill la Kill"
@@ -144,6 +145,7 @@ UDON Entertainment published all 3 volumes in English. The series is complete. A
 
 ## Where to Buy
 
-[Get Kill la Kill on Amazon →](https://www.amazon.com/dp/B01N4JDHZB?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B01N4JDHZB?tag=dearmanga-20)
+

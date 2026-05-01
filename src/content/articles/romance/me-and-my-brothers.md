@@ -1,6 +1,7 @@
 ---
 title: "Me and My Brothers Review: A Girl Discovers She Has Four Older Brothers Who Want to Take Care of Her"
 slug: "me-and-my-brothers"
+coverImage: "/covers/me-and-my-brothers.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Me and My Brothers"
@@ -123,7 +124,10 @@ Tokyopop published the complete English series. All 9 volumes available (may req
 
 ## Where to Buy
 
-[Get Me and My Brothers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Me+and+My+Brothers+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Me+and+My+Brothers+manga&i=stripbooks)
+
 
 ---
 

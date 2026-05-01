@@ -138,7 +138,10 @@ VIZ Media is publishing Do Not Say Mystery in English. Ongoing.
 
 ## Where to Buy
 
-[**View Do Not Say Mystery on Amazon →**](https://www.amazon.com/dp/1974737160?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1974737160?tag=dearmanga-20)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Fourteen Review: A Mutant Chicken Named Chicken George Decides to Save or Destroy the World"
 slug: "fourteen"
+coverImage: "/covers/fourteen.jpg"
 genre: "Horror / Sci-Fi"
 genreSlug: "horror"
 mangaTitle: "Fourteen"
@@ -120,7 +121,10 @@ VIZ Media published both volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Fourteen on Amazon →](https://www.amazon.com/s?k=Fourteen+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Fourteen+manga&i=stripbooks)
+
 
 ---
 

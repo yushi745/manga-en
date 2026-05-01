@@ -1,6 +1,7 @@
 ---
 title: "Wagnaria!! Review: A Family Restaurant Full of Employees With Problems, and the Boy Who Has to Work Alongside All of Them"
 slug: "wagnaria"
+coverImage: "/covers/wagnaria.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Wagnaria!! (Working!!)"
@@ -126,7 +127,8 @@ Yen Press published the complete 13-volume series. All volumes available.
 
 ## Where to Buy
 
-*Not available in English print.*
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---
 

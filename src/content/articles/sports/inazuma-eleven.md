@@ -1,6 +1,7 @@
 ---
 title: "Inazuma Eleven Review: The Football Manga Where Elemental Soccer Moves Save the World"
 slug: "inazuma-eleven"
+coverImage: "/covers/inazuma-eleven.jpg"
 genre: "Sports / Supernatural"
 genreSlug: "sports"
 mangaTitle: "Inazuma Eleven"
@@ -125,9 +126,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Inazuma Eleven* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Inazuma Eleven on Amazon](https://www.amazon.com/s?k=Inazuma%20Eleven&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Inazuma%20Eleven&tag=dearmanga-20)
+
 
 ---
 

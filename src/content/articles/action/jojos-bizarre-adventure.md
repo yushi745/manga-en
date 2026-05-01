@@ -139,7 +139,10 @@ VIZ Media is publishing the ongoing series. Parts 1-8 are available or in public
 
 ## Where to Buy
 
-[Get JoJo's Bizarre Adventure Part 1 Vol. 1 on Amazon →](https://www.amazon.com/s?k=JoJo%27s+Bizarre+Adventure+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=JoJo%27s+Bizarre+Adventure+manga&i=stripbooks)
+
 
 ---
 

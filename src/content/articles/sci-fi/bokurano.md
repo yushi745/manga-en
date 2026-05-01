@@ -1,6 +1,7 @@
 ---
 title: "Bokurano Review: Fifteen Children Sign a Contract to Pilot a Giant Robot — and Learn What It Will Cost Them"
 slug: "bokurano"
+coverImage: "/covers/bokurano.jpg"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Bokurano"
@@ -125,7 +126,10 @@ Viz Media published the complete 11-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Bokurano Vol. 1 on Amazon →](https://www.amazon.com/s?k=Bokurano+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Bokurano+manga&i=stripbooks)
+
 
 ---
 

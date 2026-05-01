@@ -124,7 +124,10 @@ Kodansha Comics publishes the ongoing English series. 17+ volumes currently avai
 
 ## Where to Buy
 
-[Get Don't Toy With Me, Miss Nagatoro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Don%27t+Toy+With+Me%2C+Miss+Nagatoro+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Don%27t+Toy+With+Me%2C+Miss+Nagatoro+manga&i=stripbooks)
+
 
 ---
 

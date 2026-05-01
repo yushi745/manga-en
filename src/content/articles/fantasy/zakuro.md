@@ -126,7 +126,10 @@ Yen Press published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Otome Youkai Zakuro Vol. 1 on Amazon →](https://www.amazon.com/s?k=Otome+Youkai+Zakuro+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Otome+Youkai+Zakuro+manga&i=stripbooks)
+
 
 ---
 

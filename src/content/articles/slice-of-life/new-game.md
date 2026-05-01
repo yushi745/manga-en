@@ -1,6 +1,7 @@
 ---
 title: "New Game! Review: A Game Developer Fresh Out of High School Learns What Making Games Actually Looks Like"
 slug: "new-game"
+coverImage: "/covers/new-game.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "New Game!"
@@ -127,7 +128,10 @@ Seven Seas Entertainment published all 13 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get New Game! Vol. 1 on Amazon →](https://www.amazon.com/s?k=New+Game%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=New+Game%21+manga&i=stripbooks)
+
 
 ---
 

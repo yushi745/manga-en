@@ -123,9 +123,10 @@ Start from Volume 1. Series nearing completion in English.
 
 ## Where to Buy
 
-You can find **School Babysitters** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy School Babysitters on Amazon](https://www.amazon.com/dp/0316471143?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/0316471143?tag=dearmanga-20)
+
 
 ---
 

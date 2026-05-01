@@ -1,6 +1,7 @@
 ---
 title: "Peach Boy Riverside Review: A Princess Leaves Home to Explore the World and Encounters Oni Hunters"
 slug: "peach-boy-riverside"
+coverImage: "/covers/peach-boy-riverside.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Peach Boy Riverside"
@@ -125,7 +126,10 @@ Seven Seas published the complete English series. All 11 volumes available.
 
 ## Where to Buy
 
-[Get Peach Boy Riverside Vol. 1 on Amazon →](https://www.amazon.com/s?k=Peach+Boy+Riverside+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Peach+Boy+Riverside+manga&i=stripbooks)
+
 
 ---
 

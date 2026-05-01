@@ -1,6 +1,7 @@
 ---
 title: "New Prince of Tennis Review: The Tennis Players Get Sent to a Training Camp Where Normal Physics Stop Applying"
 slug: "new-prince-of-tennis"
+coverImage: "/covers/new-prince-of-tennis.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "New Prince of Tennis"
@@ -122,7 +123,10 @@ VIZ Media publishes the English edition. Ongoing.
 
 ## Where to Buy
 
-[Get New Prince of Tennis Vol. 1 on Amazon →](https://www.amazon.com/s?k=New+Prince+of+Tennis+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=New+Prince+of+Tennis+manga&i=stripbooks)
+
 
 ---
 

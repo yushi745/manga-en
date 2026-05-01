@@ -131,6 +131,7 @@ Police in a Pod is being released in English by Kodansha Comics. Multiple volume
 
 ## Where to Buy
 
-Police in a Pod is available in English from Kodansha Comics.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---

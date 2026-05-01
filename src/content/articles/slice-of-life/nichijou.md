@@ -1,6 +1,7 @@
 ---
 title: "Nichijou Review: Ordinary Life, Extraordinarily Absurd"
 slug: "nichijou"
+coverImage: "/covers/nichijou.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Nichijou: My Ordinary Life"
@@ -124,7 +125,10 @@ Vertical published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Nichijou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nichijou%3A+My+Ordinary+Life+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Nichijou%3A+My+Ordinary+Life+manga&i=stripbooks)
+
 
 ---
 

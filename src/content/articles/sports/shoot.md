@@ -1,6 +1,7 @@
 ---
 title: "Shoot! Review: The Soccer Dream That Came Before the J-League Was Real"
 slug: "shoot"
+coverImage: "/covers/shoot.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Shoot!"
@@ -137,6 +138,7 @@ Shoot! has no official English translation. Available in Japanese only.
 
 ## Where to Buy
 
-Shoot! is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Not Simple Review: A Man's Entire Life Told in Reverse, and What It Meant to Someone Who Loved Him"
 slug: "not-simple"
+coverImage: "/covers/not-simple.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "not simple"
@@ -124,7 +125,10 @@ Viz Media published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get not simple on Amazon →](https://www.amazon.com/s?k=not+simple+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=not+simple+manga&i=stripbooks)
+
 
 ---
 

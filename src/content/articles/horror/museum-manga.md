@@ -1,6 +1,7 @@
 ---
 title: "Museum Review: A Serial Killer Leaves Art Installations Made of His Victims"
 slug: "museum-manga"
+coverImage: "/covers/museum-manga.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Museum"
@@ -127,9 +128,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Museum* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Museum on Amazon](https://www.amazon.com/s?k=Museum&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Museum&tag=dearmanga-20)
+
 
 ---
 

@@ -128,7 +128,10 @@ Yen Press has published the complete English series. All 13 volumes available.
 
 ## Where to Buy
 
-[Get Tales of Wedding Rings Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tales+of+Wedding+Rings+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Tales+of+Wedding+Rings+manga&i=stripbooks)
+
 
 ---
 

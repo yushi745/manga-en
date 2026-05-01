@@ -121,7 +121,10 @@ Udon Entertainment published the complete English edition. All volumes available
 
 ## Where to Buy
 
-[Get The Rose of Versailles Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Rose+of+Versailles+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Rose+of+Versailles+manga&i=stripbooks)
+
 
 ---
 

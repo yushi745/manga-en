@@ -1,6 +1,7 @@
 ---
 title: "Free and Easy Review: The Salaryman Who Lives for Fishing and the Boss Who Can't Stop Him"
 slug: "free-and-easy"
+coverImage: "/covers/free-and-easy.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Free and Easy"
@@ -130,6 +131,7 @@ Free and Easy has no official English translation.
 
 ## Where to Buy
 
-Free and Easy is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

@@ -126,7 +126,10 @@ Tokyopop published 29 volumes before the publisher closed. The series is complet
 
 ## Where to Buy
 
-[Get GetBackers Vol. 1 on Amazon →](https://www.amazon.com/s?k=GetBackers+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=GetBackers+manga&i=stripbooks)
+
 
 ---
 

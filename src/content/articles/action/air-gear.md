@@ -120,7 +120,10 @@ Del Rey published early volumes; Kodansha USA continued. All 37 volumes availabl
 
 ## Where to Buy
 
-[Get Air Gear Vol. 1 on Amazon →](https://www.amazon.com/s?k=Air+Gear+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Air+Gear+manga&i=stripbooks)
+
 
 ---
 

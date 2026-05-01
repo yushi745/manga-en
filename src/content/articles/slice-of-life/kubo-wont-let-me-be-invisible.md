@@ -121,9 +121,10 @@ Start from Volume 1. Series is near completion in English.
 
 ## Where to Buy
 
-You can find **Kubo Won't Let Me Be Invisible** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Kubo Won't Let Me Be Invisible on Amazon](https://www.amazon.com/dp/1974734447?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974734447?tag=dearmanga-20)
+
 
 ---
 

@@ -126,9 +126,10 @@ Black Paradox works standalone. Best read when you're already familiar with Ito'
 
 ## Where to Buy
 
-You can find **Black Paradox** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Black Paradox on Amazon](https://www.amazon.com/dp/1974736458?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974736458?tag=dearmanga-20)
+
 
 ---
 

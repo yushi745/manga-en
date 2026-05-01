@@ -147,7 +147,10 @@ The 2-in-1 omnibus format is the best way to own this — slim and efficient.
 
 ## Where to Buy
 
-[**View Erased on Amazon →**](https://www.amazon.com/dp/0316315079?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/0316315079?tag=dearmanga-20)
+
 
 ---
 

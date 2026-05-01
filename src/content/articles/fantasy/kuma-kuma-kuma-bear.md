@@ -1,6 +1,7 @@
 ---
 title: "Kuma Kuma Kuma Bear Review: A Girl Gets Trapped in a VRMMO with a Broken Bear Suit and Refuses to Take It Off"
 slug: "kuma-kuma-kuma-bear"
+coverImage: "/covers/kuma-kuma-kuma-bear.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Kuma Kuma Kuma Bear"
@@ -127,7 +128,10 @@ Seven Seas Entertainment publishes the ongoing English series. 9+ volumes curren
 
 ## Where to Buy
 
-[Get Kuma Kuma Kuma Bear Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kuma+Kuma+Kuma+Bear+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kuma+Kuma+Kuma+Bear+manga&i=stripbooks)
+
 
 ---
 

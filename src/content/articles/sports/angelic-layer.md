@@ -124,7 +124,10 @@ Dark Horse Comics published all 5 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Angelic Layer Vol. 1 on Amazon →](https://www.amazon.com/s?k=Angelic+Layer+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Angelic+Layer+manga&i=stripbooks)
+
 
 ---
 

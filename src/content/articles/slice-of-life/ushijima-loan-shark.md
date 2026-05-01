@@ -131,6 +131,7 @@ Ushijima the Loan Shark has no official English translation.
 
 ## Where to Buy
 
-Ushijima the Loan Shark is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

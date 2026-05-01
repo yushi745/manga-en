@@ -1,6 +1,7 @@
 ---
 title: "Pretear Review: A New Legend of Snow White Where the Prince Needs the Princess to Save the World"
 slug: "pretear"
+coverImage: "/covers/pretear.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Pretear: New Legend of Snow White"
@@ -125,7 +126,10 @@ ADV Manga published the complete English series. All 4 volumes available (may re
 
 ## Where to Buy
 
-[Get Pretear Vol. 1 on Amazon →](https://www.amazon.com/s?k=Pretear%3A+New+Legend+of+Snow+White+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Pretear%3A+New+Legend+of+Snow+White+manga&i=stripbooks)
+
 
 ---
 

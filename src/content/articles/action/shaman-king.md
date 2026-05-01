@@ -131,7 +131,10 @@ VIZ Media published the Complete Edition (27 volumes in the complete format). Al
 
 ## Where to Buy
 
-[Get Shaman King Complete Edition Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shaman+King+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Shaman+King+manga&i=stripbooks)
+
 
 ---
 

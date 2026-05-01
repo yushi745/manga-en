@@ -125,9 +125,10 @@ Perfect starting point. After this, move to Shiver, then Uzumaki, then explore f
 
 ## Where to Buy
 
-You can find **Junji Ito Maniac: Japanese Tales of the Macabre** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Junji Ito Maniac: Japanese Tales of the Macabre on Amazon](https://www.amazon.com/dp/1974741079?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974741079?tag=dearmanga-20)
+
 
 ---
 

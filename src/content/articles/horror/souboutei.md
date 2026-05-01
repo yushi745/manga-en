@@ -128,9 +128,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Souboutei Kowasu Beshi* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E5%8F%8C%E4%BA%A1%E4%BA%AD%E5%A3%8A%E3%81%99%E3%81%B9%E3%81%97&tag=yushi745-22)
 
 ---
 

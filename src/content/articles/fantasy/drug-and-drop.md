@@ -1,6 +1,7 @@
 ---
 title: "Drug and Drop Review: The CLAMP Sequel That Never Quite Ended"
 slug: "drug-and-drop"
+coverImage: "/covers/drug-and-drop.jpg"
 genre: "Romance / Supernatural"
 genreSlug: "fantasy"
 mangaTitle: "Drug and Drop"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Drug and Drop* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Drug and Drop on Amazon](https://www.amazon.com/s?k=Drug%20and%20Drop&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Drug%20and%20Drop&tag=dearmanga-20)
+
 
 ---
 

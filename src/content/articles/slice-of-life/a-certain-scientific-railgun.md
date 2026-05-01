@@ -1,6 +1,7 @@
 ---
 title: "A Certain Scientific Railgun Review: The Most Powerful Level 5 Esper in Academy City Solves Problems Her Own Way"
 slug: "a-certain-scientific-railgun"
+coverImage: "/covers/a-certain-scientific-railgun.jpg"
 genre: "Slice of Life / Action"
 genreSlug: "slice-of-life"
 mangaTitle: "A Certain Scientific Railgun"
@@ -125,7 +126,10 @@ Seven Seas Entertainment is publishing the ongoing English release.
 
 ## Where to Buy
 
-[Get A Certain Scientific Railgun Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Certain+Scientific+Railgun+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=A+Certain+Scientific+Railgun+manga&i=stripbooks)
+
 
 ---
 

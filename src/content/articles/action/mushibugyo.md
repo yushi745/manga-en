@@ -1,6 +1,7 @@
 ---
 title: "Mushibugyo Review: Edo Period Bug Hunting That Hits Harder Than It Has Any Right To"
 slug: "mushibugyo"
+coverImage: "/covers/mushibugyo.jpg"
 genre: "Action / Historical"
 genreSlug: "action"
 mangaTitle: "Mushibugyo"
@@ -142,6 +143,7 @@ VIZ Media published 26 volumes in English. Note: the English release covers most
 
 ## Where to Buy
 
-[Get Mushibugyo on Amazon →](https://www.amazon.com/dp/B00INN25MU?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B00INN25MU?tag=dearmanga-20)
+

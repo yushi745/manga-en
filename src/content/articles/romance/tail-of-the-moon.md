@@ -1,6 +1,7 @@
 ---
 title: "Tail of the Moon Review: A Clumsy Kunoichi Tries to Be Worthy of the Ninja She Loves"
 slug: "tail-of-the-moon"
+coverImage: "/covers/tail-of-the-moon.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Tail of the Moon"
@@ -123,7 +124,10 @@ Viz Media published the complete 15-volume English series.
 
 ## Where to Buy
 
-[Get Tail of the Moon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tail+of+the+Moon+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Tail+of+the+Moon+manga&i=stripbooks)
+
 
 ---
 

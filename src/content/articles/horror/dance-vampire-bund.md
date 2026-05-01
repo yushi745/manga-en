@@ -1,6 +1,7 @@
 ---
 title: "Dance in the Vampire Bund Review: A Vampire Queen Establishes a Haven in Tokyo Bay and the World Isn't Ready"
 slug: "dance-vampire-bund"
+coverImage: "/covers/dance-vampire-bund.jpg"
 genre: "Horror / Fantasy"
 genreSlug: "horror"
 mangaTitle: "Dance in the Vampire Bund"
@@ -121,7 +122,10 @@ Seven Seas Entertainment published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Dance in the Vampire Bund Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dance+in+the+Vampire+Bund+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Dance+in+the+Vampire+Bund+manga&i=stripbooks)
+
 
 ---
 

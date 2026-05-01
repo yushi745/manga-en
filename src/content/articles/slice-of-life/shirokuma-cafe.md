@@ -1,6 +1,7 @@
 ---
 title: "Shirokuma Cafe Review: A Polar Bear Runs a Café and Makes Terrible Puns — Perfectly"
 slug: "shirokuma-cafe"
+coverImage: "/covers/shirokuma-cafe.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Shirokuma Cafe"
@@ -125,7 +126,10 @@ Viz Media published the complete 5-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get Shirokuma Cafe Vol. 1 on Amazon →](https://www.amazon.com/s?k=Shirokuma+Cafe+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Shirokuma+Cafe+manga&i=stripbooks)
+
 
 ---
 

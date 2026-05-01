@@ -1,6 +1,7 @@
 ---
 title: "Crime and Punishment Review: Tezuka Adapts Dostoevsky"
 slug: "crime-and-punishment-tezuka"
+coverImage: "/covers/crime-and-punishment-tezuka.jpg"
 genre: "Drama / Historical"
 genreSlug: "slice-of-life"
 mangaTitle: "Crime and Punishment"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Crime and Punishment* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Crime and Punishment on Amazon](https://www.amazon.com/s?k=Crime%20and%20Punishment&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Crime%20and%20Punishment&tag=dearmanga-20)
+
 
 ---
 

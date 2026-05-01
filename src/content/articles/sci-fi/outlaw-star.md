@@ -1,6 +1,7 @@
 ---
 title: "Outlaw Star Review: The Space Western Manga That Did Everything On Its Own Terms"
 slug: "outlaw-star"
+coverImage: "/covers/outlaw-star.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Outlaw Star"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Outlaw Star* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Outlaw Star on Amazon](https://www.amazon.com/s?k=Outlaw%20Star&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Outlaw%20Star&tag=dearmanga-20)
+
 
 ---
 

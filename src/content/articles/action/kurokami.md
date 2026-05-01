@@ -1,6 +1,7 @@
 ---
 title: "Kurokami: The Animation Review: A Boy Who Learns His Existence Dooms Others Teams With the Being Who Can Change That"
 slug: "kurokami"
+coverImage: "/covers/kurokami.jpg"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Kurokami: The Animation (Black God)"
@@ -125,7 +126,10 @@ Seven Seas Entertainment published all 22 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Kurokami Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kurokami%3A+The+Animation+%28Black+God%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kurokami%3A+The+Animation+%28Black+God%29+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Sugar Princess Review: A Natural Skater Who Learns Figure Skating in a Day Partners with a Boy Who Needs Her to Compete"
 slug: "sugar-princess"
+coverImage: "/covers/sugar-princess.jpg"
 genre: "Romance / Sports"
 genreSlug: "romance"
 mangaTitle: "Sugar Princess: Skating to Win"
@@ -123,7 +124,10 @@ VIZ Media has published the complete English series. Both volumes available.
 
 ## Where to Buy
 
-[Get Sugar Princess Vol. 1 on Amazon →](https://www.amazon.com/s?k=Sugar+Princess%3A+Skating+to+Win+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Sugar+Princess%3A+Skating+to+Win+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Tiger & Bunny Review"
 slug: "tiger-and-bunny"
+coverImage: "/covers/tiger-and-bunny.jpg"
 genre: "Action / Superhero"
 genreSlug: "action"
 mangaTitle: "Tiger & Bunny"
@@ -124,9 +125,10 @@ Works standalone, but watching the anime first adds context.
 
 ## Where to Buy
 
-You can find **Tiger & Bunny** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Tiger & Bunny on Amazon](https://www.amazon.com/dp/1421564602?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1421564602?tag=dearmanga-20)
+
 
 ---
 

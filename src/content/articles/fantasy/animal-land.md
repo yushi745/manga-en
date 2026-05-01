@@ -126,7 +126,10 @@ Kodansha published the complete English series. All 15 volumes available.
 
 ## Where to Buy
 
-[Get Animal Land Vol. 1 on Amazon →](https://www.amazon.com/s?k=Animal+Land+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Animal+Land+manga&i=stripbooks)
+
 
 ---
 

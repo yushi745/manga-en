@@ -1,6 +1,7 @@
 ---
 title: "Devils' Line Review: A Half-Vampire Detective Tries to Stay Human for the Woman He Loves"
 slug: "devils-line"
+coverImage: "/covers/devils-line.jpg"
 genre: "Horror / Romance"
 genreSlug: "horror"
 mangaTitle: "Devils' Line"
@@ -125,7 +126,10 @@ Vertical published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Devils' Line Vol. 1 on Amazon →](https://www.amazon.com/s?k=Devils%27+Line+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Devils%27+Line+manga&i=stripbooks)
+
 
 ---
 

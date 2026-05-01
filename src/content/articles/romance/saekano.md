@@ -1,6 +1,7 @@
 ---
 title: "Saekano Review: The Dating Sim Creator Who Discovered His Ideal Heroine Was Real All Along"
 slug: "saekano"
+coverImage: "/covers/saekano.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Saekano: How to Raise a Boring Girlfriend"
@@ -129,9 +130,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Saekano: How to Raise a Boring Girlfriend* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Saekano: How to Raise a Boring Girlfriend on Amazon](https://www.amazon.com/s?k=Saekano%3A%20How%20to%20Raise%20a%20Boring%20Girlfriend&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Saekano%3A%20How%20to%20Raise%20a%20Boring%20Girlfriend&tag=dearmanga-20)
+
 
 ---
 

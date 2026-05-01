@@ -1,6 +1,7 @@
 ---
 title: "Always Sunset on Third Street Review: The Manga That Made Japan Nostalgic for Its Own Past"
 slug: "always-sunset-on-third-street"
+coverImage: "/covers/always-sunset-on-third-street.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Always Sunset on Third Street"
@@ -135,6 +136,7 @@ Always Sunset on Third Street has no official English translation. Available in 
 
 ## Where to Buy
 
-Always Sunset on Third Street is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

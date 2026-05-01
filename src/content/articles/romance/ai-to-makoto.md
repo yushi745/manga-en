@@ -1,6 +1,7 @@
 ---
 title: "Ai to Makoto Review: The Violent Romance That Defined a Generation of Delinquent Love Stories"
 slug: "ai-to-makoto"
+coverImage: "/covers/ai-to-makoto.jpg"
 genre: "Romance / Action"
 genreSlug: "romance"
 mangaTitle: "Ai to Makoto"
@@ -128,6 +129,7 @@ Ai to Makoto has no official English translation.
 
 ## Where to Buy
 
-Ai to Makoto is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

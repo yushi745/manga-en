@@ -126,7 +126,10 @@ Square Enix Manga publishes the ongoing series in English.
 
 ## Where to Buy
 
-[Get The Apothecary Diaries Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Apothecary+Diaries+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Apothecary+Diaries+manga&i=stripbooks)
+
 
 ---
 

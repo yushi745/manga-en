@@ -1,6 +1,7 @@
 ---
 title: "I'm a Demon Lord, I Got a Slave Elf as a Bride, but How Did It Become a Love Comedy? Review: Isekai Romance With Genuine Warmth Under the Provocative Title"
 slug: "maou-no-ore-ga"
+coverImage: "/covers/maou-no-ore-ga.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medatte mo Rabukome ni Natteshimau"
@@ -134,7 +135,10 @@ Seven Seas Entertainment published the complete English series. All 9 volumes av
 
 ## Where to Buy
 
-[Search for Maou no Ore ga on Amazon →](https://www.amazon.com/s?k=Maou+no+Ore+ga+Slave+Elf+manga+Seven+Seas&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Maou+no+Ore+ga+Slave+Elf+manga+Seven+Seas&i=stripbooks)
+
 
 ---
 

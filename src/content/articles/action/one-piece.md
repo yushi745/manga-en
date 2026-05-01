@@ -213,12 +213,10 @@ New volumes are released in English very close to the Japanese release dates. Yo
 
 ## Where to Buy
 
-All One Piece volumes are available on Amazon US in digital and physical formats.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-**Start here:**
+[Start with Volume 1 →](https://www.amazon.com/s?k=One+Piece+manga&i=stripbooks)
 
-- [📱 One Piece Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=One+Piece+manga&i=stripbooks) — Best way to start
-- [📚 One Piece Vol. 1 — Paperback](https://www.amazon.com/s?k=One+Piece+manga&i=stripbooks) — Physical edition
 
 ---
 

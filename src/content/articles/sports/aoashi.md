@@ -138,7 +138,10 @@ Kodansha Comics is publishing Aoashi in English. Ongoing, releasing regularly.
 
 ## Where to Buy
 
-[**View Aoashi on Amazon →**](https://www.amazon.com/dp/1646519914?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1646519914?tag=dearmanga-20)
+
 
 ---
 

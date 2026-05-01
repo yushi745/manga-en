@@ -1,6 +1,7 @@
 ---
 title: "High School Family Review: A Nuclear Family Goes Back to High School Together and Tries to Be Normal"
 slug: "high-school-family"
+coverImage: "/covers/high-school-family.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "High School Family: Kokosei Kazoku"
@@ -125,7 +126,10 @@ Kodansha Comics publishes the ongoing English series. 8+ volumes currently avail
 
 ## Where to Buy
 
-[Get High School Family Vol. 1 on Amazon →](https://www.amazon.com/s?k=High+School+Family%3A+Kokosei+Kazoku+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=High+School+Family%3A+Kokosei+Kazoku+manga&i=stripbooks)
+
 
 ---
 

@@ -135,7 +135,10 @@ VIZ Media is publishing Blue Box as part of its Shonen Jump lineup. Ongoing, rel
 
 ## Where to Buy
 
-[**View Blue Box on Amazon →**](https://www.amazon.com/dp/1974738051?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1974738051?tag=dearmanga-20)
+
 
 ---
 

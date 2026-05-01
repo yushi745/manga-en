@@ -124,7 +124,10 @@ Seven Seas Entertainment is publishing the ongoing series. Available in English 
 
 ## Where to Buy
 
-[Get Skeleton Knight in Another World Vol. 1 on Amazon →](https://www.amazon.com/s?k=Skeleton+Knight+in+Another+World+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Skeleton+Knight+in+Another+World+manga&i=stripbooks)
+
 
 ---
 

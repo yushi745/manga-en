@@ -1,6 +1,7 @@
 ---
 title: "The Case Study of Vanitas Review: A Human Who Hates Vampires Partners With a Vampire to Save Other Vampires"
 slug: "vanitas-no-carte"
+coverImage: "/covers/vanitas-no-carte.jpg"
 genre: "Fantasy / Supernatural"
 genreSlug: "fantasy"
 mangaTitle: "The Case Study of Vanitas"
@@ -123,7 +124,10 @@ Yen Press publishes the English edition. Ongoing; check current volume count.
 
 ## Where to Buy
 
-[Get The Case Study of Vanitas Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Case+Study+of+Vanitas+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Case+Study+of+Vanitas+manga&i=stripbooks)
+
 
 ---
 

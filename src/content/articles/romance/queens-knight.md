@@ -1,6 +1,7 @@
 ---
 title: "The Queen's Knight Review: She Was Summoned to a Fantasy Kingdom and Now Must Become a Knight to Return Home"
 slug: "queens-knight"
+coverImage: "/covers/queens-knight.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "The Queen's Knight"
@@ -128,9 +129,10 @@ Start from volume 1 — this series builds carefully from its opening pages. Don
 
 ## Where to Buy
 
-You can find *The Queen's Knight* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Find The Queen's Knight on Amazon](https://www.amazon.com/s?k=The+Queen's+Knight&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Queen's+Knight&tag=dearmanga-20)
+
 
 ---
 

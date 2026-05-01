@@ -1,6 +1,7 @@
 ---
 title: "Higurashi: When They Cry Review: Every Time the Summer Festival Ends, Everyone Dies"
 slug: "higurashi"
+coverImage: "/covers/higurashi.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Higurashi: When They Cry"
@@ -127,7 +128,10 @@ Yen Press published the complete 26-volume manga run. All volumes available.
 
 ## Where to Buy
 
-[Get Higurashi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Higurashi%3A+When+They+Cry+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Higurashi%3A+When+They+Cry+manga&i=stripbooks)
+
 
 ---
 

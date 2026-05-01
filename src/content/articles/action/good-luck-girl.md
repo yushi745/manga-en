@@ -124,7 +124,10 @@ Viz Media published the complete English series. All 16 volumes available.
 
 ## Where to Buy
 
-[Get Good Luck Girl! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Good+Luck+Girl%21+%28Binbougami-ga%21%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Good+Luck+Girl%21+%28Binbougami-ga%21%29+manga&i=stripbooks)
+
 
 ---
 

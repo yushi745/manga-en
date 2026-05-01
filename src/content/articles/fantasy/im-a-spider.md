@@ -1,6 +1,7 @@
 ---
 title: "So I'm a Spider, So What? Review: Reincarnated as the Weakest Monster in a Dungeon — and Surviving Anyway"
 slug: "im-a-spider"
+coverImage: "/covers/im-a-spider.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "So I'm a Spider, So What?"
@@ -125,7 +126,10 @@ Yen Press published the complete 16-volume run. All volumes available.
 
 ## Where to Buy
 
-[Get So I'm a Spider, So What? Vol. 1 on Amazon →](https://www.amazon.com/s?k=So+I%27m+a+Spider%2C+So+What%3F+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=So+I%27m+a+Spider%2C+So+What%3F+manga&i=stripbooks)
+
 
 ---
 

@@ -128,6 +128,7 @@ Gaku had 1 volume published in English. The series is currently unlicensed for c
 
 ## Where to Buy
 
-Gaku is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

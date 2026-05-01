@@ -1,6 +1,7 @@
 ---
 title: "Saint Tail Review: A Phantom Thief by Night, a Classmate by Day — and Only One Boy Knows Her Secret"
 slug: "saint-tail"
+coverImage: "/covers/saint-tail.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Saint Tail"
@@ -125,7 +126,10 @@ Tokyopop published the complete English series. All 7 volumes available (may req
 
 ## Where to Buy
 
-[Get Saint Tail Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saint+Tail+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Saint+Tail+manga&i=stripbooks)
+
 
 ---
 

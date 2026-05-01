@@ -124,7 +124,10 @@ Viz Media published the complete 7-volume English series under the Viz Signature
 
 ## Where to Buy
 
-[Get Saturn Apartments Vol. 1 on Amazon →](https://www.amazon.com/s?k=Saturn+Apartments+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Saturn+Apartments+manga&i=stripbooks)
+
 
 ---
 

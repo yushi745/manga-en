@@ -131,7 +131,10 @@ VIZ Media (VIZ Signature) is publishing the ongoing series. Currently 38 volumes
 
 ## Where to Buy
 
-[Get Yona of the Dawn Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yona+of+the+Dawn+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yona+of+the+Dawn+manga&i=stripbooks)
+
 
 ---
 

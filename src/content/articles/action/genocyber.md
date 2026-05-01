@@ -1,6 +1,7 @@
 ---
 title: "Genocyber Review: Cyberpunk Horror at Its Most Extreme"
 slug: "genocyber"
+coverImage: "/covers/genocyber.jpg"
 genre: "Action / Sci-Fi"
 genreSlug: "action"
 mangaTitle: "Genocyber"
@@ -126,9 +127,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Genocyber* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%B8%E3%82%A7%E3%83%8E%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC&tag=yushi745-22)
 
 ---
 

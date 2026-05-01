@@ -125,9 +125,10 @@ Read the original Pet Shop of Horrors first. Tokyo is a direct sequel.
 
 ## Where to Buy
 
-You can find **Pet Shop of Horrors: Tokyo** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Pet Shop of Horrors: Tokyo on Amazon](https://www.amazon.com/dp/1427808228?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1427808228?tag=dearmanga-20)
+
 
 ---
 

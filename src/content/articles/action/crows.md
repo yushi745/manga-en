@@ -1,6 +1,7 @@
 ---
 title: "Crows Review: The Delinquent Manga That Made Fighting a Philosophy"
 slug: "crows"
+coverImage: "/covers/crows.jpg"
 genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Crows"
@@ -130,6 +131,7 @@ Crows has no official English translation.
 
 ## Where to Buy
 
-Crows is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

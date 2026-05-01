@@ -126,9 +126,10 @@ Start from Volume 1 — the story builds continuously across all 13 volumes.
 
 ## Where to Buy
 
-You can find **Hell's Paradise: Jigokuraku** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Hell's Paradise: Jigokuraku on Amazon](https://www.amazon.com/dp/1974720977?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1974720977?tag=dearmanga-20)
+
 
 ---
 

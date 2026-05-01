@@ -1,6 +1,7 @@
 ---
 title: "Sanpei the Fisherman Review: The Boy and the River, and Everything a Fish Can Teach You"
 slug: "sanpei-the-fisherman"
+coverImage: "/covers/sanpei-the-fisherman.jpg"
 genre: "Sports / Slice of Life"
 genreSlug: "sports"
 mangaTitle: "Sanpei the Fisherman"
@@ -130,6 +131,7 @@ Sanpei the Fisherman has no official English translation.
 
 ## Where to Buy
 
-Sanpei the Fisherman is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

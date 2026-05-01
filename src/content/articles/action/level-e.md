@@ -124,7 +124,10 @@ Viz Media published the complete 3-volume English edition. All volumes available
 
 ## Where to Buy
 
-[Get Level E Vol. 1 on Amazon →](https://www.amazon.com/s?k=Level+E+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Level+E+manga&i=stripbooks)
+
 
 ---
 

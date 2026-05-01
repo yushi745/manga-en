@@ -128,6 +128,7 @@ Yankee-kun to Megane-chan has a complete English release from Kodansha USA — a
 
 ## Where to Buy
 
-Yankee-kun to Megane-chan is available in English through Amazon and major bookstores — search for the Kodansha USA edition.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---

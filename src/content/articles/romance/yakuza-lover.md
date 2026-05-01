@@ -124,7 +124,10 @@ Viz Media is publishing the ongoing English series. 11 volumes available.
 
 ## Where to Buy
 
-[Get Yakuza Lover Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yakuza+Lover+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yakuza+Lover+manga&i=stripbooks)
+
 
 ---
 

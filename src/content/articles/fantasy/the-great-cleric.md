@@ -124,7 +124,10 @@ Kodansha Comics is publishing the English edition, currently at 11 volumes. Ongo
 
 ## Where to Buy
 
-[Get The Great Cleric Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Great+Cleric+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Great+Cleric+manga&i=stripbooks)
+
 
 ---
 

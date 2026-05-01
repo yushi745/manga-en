@@ -1,6 +1,7 @@
 ---
 title: "The Vision of Escaflowne Review: A Girl From Earth Falls Into a World of Giant Armored Dragons and Prophecy"
 slug: "vision-of-escaflowne"
+coverImage: "/covers/vision-of-escaflowne.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "The Vision of Escaflowne"
@@ -122,7 +123,10 @@ Tokyopop published all 8 volumes. Complete; older publication, available in seco
 
 ## Where to Buy
 
-[Get The Vision of Escaflowne Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Vision+of+Escaflowne+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Vision+of+Escaflowne+manga&i=stripbooks)
+
 
 ---
 

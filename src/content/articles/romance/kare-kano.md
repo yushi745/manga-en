@@ -124,7 +124,10 @@ TOKYOPOP published all 21 volumes. The TOKYOPOP edition is out of print but avai
 
 ## Where to Buy
 
-[Get Kare Kano Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kare+Kano%3A+His+and+Her+Circumstances+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kare+Kano%3A+His+and+Her+Circumstances+manga&i=stripbooks)
+
 
 ---
 

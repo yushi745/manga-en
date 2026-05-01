@@ -122,7 +122,10 @@ Del Rey and later Kodansha Comics published the complete 13-volume English serie
 
 ## Where to Buy
 
-[Get Moyashimon Vol. 1 on Amazon →](https://www.amazon.com/s?k=Moyashimon%3A+Tales+of+Agriculture+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Moyashimon%3A+Tales+of+Agriculture+manga&i=stripbooks)
+
 
 ---
 

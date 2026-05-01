@@ -1,6 +1,7 @@
 ---
 title: "Senryu Girl Review: A Girl Who Only Speaks in Haiku-Like Poems Falls for a Former Delinquent"
 slug: "senryu-girl"
+coverImage: "/covers/senryu-girl.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Senryu Girl"
@@ -125,7 +126,10 @@ Yen Press published the complete English series. All 13 volumes available in pri
 
 ## Where to Buy
 
-[Get Senryu Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=Senryu+Girl+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Senryu+Girl+manga&i=stripbooks)
+
 
 ---
 

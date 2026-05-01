@@ -126,7 +126,10 @@ Kodansha USA published the complete 10-volume series. All volumes available.
 
 ## Where to Buy
 
-[Get Living-Room Matsunaga-san Vol. 1 on Amazon →](https://www.amazon.com/s?k=Living-Room+Matsunaga-san+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Living-Room+Matsunaga-san+manga&i=stripbooks)
+
 
 ---
 

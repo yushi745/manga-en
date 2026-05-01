@@ -1,6 +1,7 @@
 ---
 title: "A Certain Scientific Accelerator Review: The Most Powerful Esper in Academy City Protects a Damaged Girl"
 slug: "a-certain-scientific-accelerator"
+coverImage: "/covers/a-certain-scientific-accelerator.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "A Certain Scientific Accelerator"
@@ -127,7 +128,10 @@ Seven Seas published the complete English series. All 16 volumes available.
 
 ## Where to Buy
 
-[Get A Certain Scientific Accelerator Vol. 1 on Amazon →](https://www.amazon.com/s?k=A+Certain+Scientific+Accelerator+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=A+Certain+Scientific+Accelerator+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Chihayafuru Review: A Girl Who Fell in Love With Karuta at Eight Years Old and Has Never Stopped Running Toward It"
 slug: "chihayafuru"
+coverImage: "/covers/chihayafuru.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Chihayafuru"
@@ -127,7 +128,8 @@ Available digitally via Kodansha USA (all 50 volumes). No current English print 
 
 ## Where to Buy
 
-*This title is not available in English print.*
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---
 

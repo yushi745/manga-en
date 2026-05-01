@@ -1,6 +1,7 @@
 ---
 title: "Rent-A-Girlfriend Review: A College Student Rents a Girlfriend and Falls Into Real Feelings"
 slug: "rental-girlfriend"
+coverImage: "/covers/rental-girlfriend.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Rent-A-Girlfriend"
@@ -124,7 +125,10 @@ Kodansha Comics is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get Rent-A-Girlfriend Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rent-A-Girlfriend+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Rent-A-Girlfriend+manga&i=stripbooks)
+
 
 ---
 

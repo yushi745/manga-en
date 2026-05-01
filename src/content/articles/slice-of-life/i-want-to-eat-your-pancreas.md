@@ -123,7 +123,10 @@ Seven Seas published the manga adaptation (one volume). Complete and available. 
 
 ## Where to Buy
 
-[Get I Want to Eat Your Pancreas (manga) on Amazon →](https://www.amazon.com/s?k=I+Want+to+Eat+Your+Pancreas+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=I+Want+to+Eat+Your+Pancreas+manga&i=stripbooks)
+
 
 ---
 

@@ -142,7 +142,10 @@ VIZ Media published all 13 volumes in English. Complete and available in physica
 
 ## Where to Buy
 
-[**View Blue Spring Ride on Amazon →**](https://www.amazon.com/dp/1421587483?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1421587483?tag=dearmanga-20)
+
 
 ---
 

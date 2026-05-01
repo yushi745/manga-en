@@ -148,6 +148,7 @@ Kochikame has no complete English translation. Viz Comics released a limited sel
 
 ## Where to Buy
 
-Kochikame is primarily available in Japanese. The limited English edition is out of print but available used online.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

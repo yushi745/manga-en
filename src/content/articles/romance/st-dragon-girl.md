@@ -132,7 +132,10 @@ VIZ Media published the complete English series under the Shojo Beat imprint. Al
 
 ## Where to Buy
 
-[Get St. Dragon Girl Vol. 1 on Amazon →](https://www.amazon.com/s?k=St.+Dragon+Girl+manga+Matsumoto&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=St.+Dragon+Girl+manga+Matsumoto&i=stripbooks)
+
 
 ---
 

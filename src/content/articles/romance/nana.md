@@ -135,7 +135,10 @@ VIZ Media published 21 volumes before the hiatus. All 21 are available. No new v
 
 ## Where to Buy
 
-[Get Nana Vol. 1 on Amazon →](https://www.amazon.com/s?k=Nana+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Nana+manga&i=stripbooks)
+
 
 ---
 

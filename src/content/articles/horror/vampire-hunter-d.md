@@ -1,6 +1,7 @@
 ---
 title: "Vampire Hunter D Review: A Half-Vampire Loner Hunts Nobility's Monsters Across a Post-Apocalyptic Wasteland"
 slug: "vampire-hunter-d"
+coverImage: "/covers/vampire-hunter-d.jpg"
 genre: "Horror / Sci-Fi"
 genreSlug: "horror"
 mangaTitle: "Vampire Hunter D"
@@ -125,7 +126,10 @@ Dark Horse Comics published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Vampire Hunter D Vol. 1 on Amazon →](https://www.amazon.com/s?k=Vampire+Hunter+D+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Vampire+Hunter+D+manga&i=stripbooks)
+
 
 ---
 

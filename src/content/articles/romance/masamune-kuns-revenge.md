@@ -1,6 +1,7 @@
 ---
 title: "Masamune-kun's Revenge Review: The Boy Who Was Called Fat Now Has the Perfect Body and a Revenge Plan That Gets Complicated"
 slug: "masamune-kuns-revenge"
+coverImage: "/covers/masamune-kuns-revenge.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Masamune-kun's Revenge"
@@ -125,7 +126,10 @@ Yen Press published all 13 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Masamune-kun's Revenge Vol. 1 on Amazon →](https://www.amazon.com/s?k=Masamune-kun%27s+Revenge+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Masamune-kun%27s+Revenge+manga&i=stripbooks)
+
 
 ---
 

@@ -127,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *The Ryuo's Work Is Never Done!* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for The Ryuo's Work Is Never Done! on Amazon](https://www.amazon.com/s?k=The%20Ryuo%27s%20Work%20Is%20Never%20Done%21&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=The%20Ryuo%27s%20Work%20Is%20Never%20Done%21&tag=dearmanga-20)
+
 
 ---
 

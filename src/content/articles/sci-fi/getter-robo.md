@@ -1,6 +1,7 @@
 ---
 title: "Getter Robo Review: The Original Combining Robot Manga and Its Terrifying Mythology"
 slug: "getter-robo"
+coverImage: "/covers/getter-robo.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Getter Robo"
@@ -134,6 +135,7 @@ Dynamic International published the English edition. Complete in 5 volumes. Chec
 
 ## Where to Buy
 
-[Get Getter Robo on Amazon →](https://www.amazon.com/dp/B01BQXS3WQ?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+[Start with Volume 1 →](https://www.amazon.com/dp/B01BQXS3WQ?tag=dearmanga-20)
+

@@ -1,6 +1,7 @@
 ---
 title: "Sand Land Review: A Demon Prince and a Sheriff Drive Tanks Through a Desert in Search of Water"
 slug: "sand-land"
+coverImage: "/covers/sand-land.jpg"
 genre: "Action / Adventure"
 genreSlug: "action"
 mangaTitle: "Sand Land"
@@ -123,7 +124,10 @@ VIZ Media published the single complete volume. Available.
 
 ## Where to Buy
 
-[Get Sand Land on Amazon →](https://www.amazon.com/s?k=Sand+Land+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Sand+Land+manga&i=stripbooks)
+
 
 ---
 

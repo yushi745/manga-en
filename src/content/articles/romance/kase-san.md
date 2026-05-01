@@ -125,7 +125,10 @@ Seven Seas Entertainment published the complete 5-volume series. A sequel series
 
 ## Where to Buy
 
-[Get Kase-san and Morning Glories Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kase-san+and+Morning+Glories+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kase-san+and+Morning+Glories+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Wind Breaker Review: A Loner Who Moved to Town for Its Toughest School Discovers the School Protects the Town"
 slug: "wind-breaker"
+coverImage: "/covers/wind-breaker.jpg"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Wind Breaker"
@@ -125,7 +126,10 @@ Kodansha Comics is publishing the ongoing English release.
 
 ## Where to Buy
 
-[Get Wind Breaker Vol. 1 on Amazon →](https://www.amazon.com/s?k=Wind+Breaker+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Wind+Breaker+manga&i=stripbooks)
+
 
 ---
 

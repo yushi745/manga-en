@@ -1,6 +1,7 @@
 ---
 title: "Cells at Work! Review: The Inside of a Human Body Is an Entire City and Everyone Is Working Very Hard"
 slug: "cells-at-work"
+coverImage: "/covers/cells-at-work.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Cells at Work!"
@@ -121,7 +122,10 @@ Kodansha Comics published all 6 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Cells at Work! Vol. 1 on Amazon →](https://www.amazon.com/s?k=Cells+at+Work%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Cells+at+Work%21+manga&i=stripbooks)
+
 
 ---
 

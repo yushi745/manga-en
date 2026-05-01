@@ -1,6 +1,7 @@
 ---
 title: "Rokka: Braves of the Six Flowers Review: Six Heroes Are Chosen to Fight Evil — But Seven Showed Up"
 slug: "rokka-braves-six-flowers"
+coverImage: "/covers/rokka-braves-six-flowers.jpg"
 genre: "Fantasy / Mystery"
 genreSlug: "action"
 mangaTitle: "Rokka: Braves of the Six Flowers"
@@ -127,7 +128,10 @@ Yen Press has published the complete English series. All 7 volumes available.
 
 ## Where to Buy
 
-[Get Rokka: Braves of the Six Flowers Vol. 1 on Amazon →](https://www.amazon.com/s?k=Rokka%3A+Braves+of+the+Six+Flowers+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Rokka%3A+Braves+of+the+Six+Flowers+manga&i=stripbooks)
+
 
 ---
 

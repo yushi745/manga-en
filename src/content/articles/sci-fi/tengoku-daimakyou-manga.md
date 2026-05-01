@@ -137,7 +137,10 @@ Kodansha Comics is publishing the ongoing English series. Currently through volu
 
 ## Where to Buy
 
-[Search for Tengoku Daimakyou on Amazon →](https://www.amazon.com/s?k=Tengoku+Daimakyou+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Tengoku+Daimakyou+manga&i=stripbooks)
+
 
 ---
 

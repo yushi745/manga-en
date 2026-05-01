@@ -128,7 +128,10 @@ Yen Press publishes the ongoing English series. 9+ volumes currently available.
 
 ## Where to Buy
 
-[Get Faraway Paladin Vol. 1 on Amazon →](https://www.amazon.com/s?k=Faraway+Paladin+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Faraway+Paladin+manga&i=stripbooks)
+
 
 ---
 

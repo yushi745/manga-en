@@ -124,7 +124,10 @@ Yen Press published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Dagashi Kashi Vol. 1 on Amazon →](https://www.amazon.com/s?k=Dagashi+Kashi+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Dagashi+Kashi+manga&i=stripbooks)
+
 
 ---
 

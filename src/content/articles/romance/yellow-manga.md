@@ -1,6 +1,7 @@
 ---
 title: "Yellow Review: Two Drug Agents Who Can't Stand Each Other Have to Pretend to Be a Couple"
 slug: "yellow-manga"
+coverImage: "/covers/yellow-manga.jpg"
 genre: "Action / Romance"
 genreSlug: "romance"
 mangaTitle: "Yellow"
@@ -129,9 +130,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Yellow* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Yellow on Amazon](https://www.amazon.com/s?k=Yellow&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yellow&tag=dearmanga-20)
+
 
 ---
 

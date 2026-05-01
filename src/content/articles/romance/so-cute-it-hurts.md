@@ -1,6 +1,7 @@
 ---
 title: "So Cute It Hurts!! Review: Twin Siblings Swap Schools and Both Fall in Love in Each Other's Identity"
 slug: "so-cute-it-hurts"
+coverImage: "/covers/so-cute-it-hurts.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "So Cute It Hurts!!"
@@ -123,7 +124,10 @@ VIZ Media published all 11 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get So Cute It Hurts!! Vol. 1 on Amazon →](https://www.amazon.com/s?k=So+Cute+It+Hurts%21%21+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=So+Cute+It+Hurts%21%21+manga&i=stripbooks)
+
 
 ---
 

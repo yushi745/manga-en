@@ -126,7 +126,8 @@ Kodansha USA is publishing the series. Currently 20 volumes available in English
 
 ## Where to Buy
 
-*Not available in English print.*
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
 
 ---
 

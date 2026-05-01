@@ -1,6 +1,7 @@
 ---
 title: "Yokohama Kaidashi Kikou Review: A Robot Runs a Café at the End of the World and Finds It Sufficient"
 slug: "yokohama-shopping-log"
+coverImage: "/covers/yokohama-shopping-log.jpg"
 genre: "Slice of Life / Sci-Fi"
 genreSlug: "slice-of-life"
 mangaTitle: "Yokohama Kaidashi Kikou"
@@ -128,7 +129,10 @@ Digital Manga Publishing released the complete 14-volume series. All volumes ava
 
 ## Where to Buy
 
-[Get Yokohama Kaidashi Kikou Vol. 1 on Amazon →](https://www.amazon.com/s?k=Yokohama+Kaidashi+Kikou+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Yokohama+Kaidashi+Kikou+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Elfen Lied Review: The Diclonius Girl Who Escaped the Lab and the Horror That Follows Her"
 slug: "elfen-lied"
+coverImage: "/covers/elfen-lied.jpg"
 genre: "Horror / Sci-Fi"
 genreSlug: "horror"
 mangaTitle: "Elfen Lied"
@@ -125,7 +126,10 @@ Dark Horse Comics published all 12 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Elfen Lied Vol. 1 on Amazon →](https://www.amazon.com/s?k=Elfen+Lied+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Elfen+Lied+manga&i=stripbooks)
+
 
 ---
 

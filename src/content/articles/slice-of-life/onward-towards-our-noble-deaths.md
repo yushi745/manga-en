@@ -124,7 +124,10 @@ Drawn & Quarterly published the English translation. Single volume, complete.
 
 ## Where to Buy
 
-[Get Onward Towards Our Noble Deaths on Amazon →](https://www.amazon.com/s?k=Onward+Towards+Our+Noble+Deaths+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Onward+Towards+Our+Noble+Deaths+manga&i=stripbooks)
+
 
 ---
 

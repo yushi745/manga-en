@@ -1,6 +1,7 @@
 ---
 title: "The Sword of Paros Review: One of the Earliest Yuri Manga"
 slug: "paros-no-ken"
+coverImage: "/covers/paros-no-ken.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "The Sword of Paros"
@@ -126,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *The Sword of Paros* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for The Sword of Paros on Amazon](https://www.amazon.com/s?k=The%20Sword%20of%20Paros&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=The%20Sword%20of%20Paros&tag=dearmanga-20)
+
 
 ---
 

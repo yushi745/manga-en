@@ -1,6 +1,7 @@
 ---
 title: "Girl Got Game Review: A Girl Disguised as a Boy Joins the Basketball Team and Falls Into Unexpected Feelings"
 slug: "girl-got-game"
+coverImage: "/covers/girl-got-game.jpg"
 genre: "Sports / Romance"
 genreSlug: "sports"
 mangaTitle: "Girl Got Game (Power!)"
@@ -125,7 +126,10 @@ Tokyopop published all 10 volumes. Complete — may require used/secondhand mark
 
 ## Where to Buy
 
-[Get Girl Got Game Vol. 1 on Amazon →](https://www.amazon.com/s?k=Girl+Got+Game+%28Power%21%29+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Girl+Got+Game+%28Power%21%29+manga&i=stripbooks)
+
 
 ---
 

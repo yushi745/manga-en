@@ -141,6 +141,7 @@ Miyuki has no official English translation. The series is beloved in Japan but h
 
 ## Where to Buy
 
-Miyuki is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

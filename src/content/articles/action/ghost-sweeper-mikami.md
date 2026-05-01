@@ -1,6 +1,7 @@
 ---
 title: "Ghost Sweeper Mikami Review: Exorcism for Money"
 slug: "ghost-sweeper-mikami"
+coverImage: "/covers/ghost-sweeper-mikami.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Ghost Sweeper Mikami"
@@ -125,9 +126,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Ghost Sweeper Mikami* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=GS%E7%BE%8E%E7%A5%9E%20%E6%A5%B5%E6%A5%BD%E5%A4%A7%E4%BD%9C%E6%88%A6%21%21&tag=yushi745-22)
 
 ---
 

@@ -187,7 +187,10 @@ Start from Volume 1. The comedy builds on established character dynamics, and th
 
 ## Where to Buy
 
-- [📚 Kaguya-sama Vol. 1 — Paperback](https://www.amazon.com/s?k=Kaguya-sama%3A+Love+Is+War+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kaguya-sama%3A+Love+Is+War+manga&i=stripbooks)
+
 
 ---
 

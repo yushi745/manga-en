@@ -128,7 +128,10 @@ Yen Press published the complete English series. All 9 volumes available in prin
 
 ## Where to Buy
 
-[Get Gushing over Magical Girls Vol. 1 on Amazon →](https://www.amazon.com/s?k=Gushing+over+Magical+Girls+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Gushing+over+Magical+Girls+manga&i=stripbooks)
+
 
 ---
 

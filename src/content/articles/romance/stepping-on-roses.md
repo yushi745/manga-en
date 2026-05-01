@@ -123,7 +123,10 @@ VIZ Media published all 9 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Stepping on Roses Vol. 1 on Amazon →](https://www.amazon.com/s?k=Stepping+on+Roses+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Stepping+on+Roses+manga&i=stripbooks)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Solo Leveling Review: The World's Weakest Hunter Receives the Power to Level Up Alone and Becomes Something Beyond Human"
 slug: "solo-leveling"
+coverImage: "/covers/solo-leveling.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Solo Leveling"
@@ -127,7 +128,10 @@ Yen Press has published the complete English manhwa adaptation. All 8 volumes av
 
 ## Where to Buy
 
-[Get Solo Leveling Vol. 1 on Amazon →](https://www.amazon.com/s?k=Solo+Leveling+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Solo+Leveling+manga&i=stripbooks)
+
 
 ---
 

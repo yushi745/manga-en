@@ -1,6 +1,7 @@
 ---
 title: "Tonikawa Review: A Boy Marries a Mysterious Girl at First Sight"
 slug: "tonikawa"
+coverImage: "/covers/tonikawa.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Tonikawa: Over the Moon for You"
@@ -123,7 +124,10 @@ Viz Media is publishing the ongoing English series.
 
 ## Where to Buy
 
-[Get Tonikawa Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tonikawa%3A+Over+the+Moon+for+You+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Tonikawa%3A+Over+the+Moon+for+You+manga&i=stripbooks)
+
 
 ---
 

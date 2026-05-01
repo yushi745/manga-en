@@ -124,7 +124,10 @@ Yen Press published the complete 15-volume English series.
 
 ## Where to Buy
 
-[Get Midnight Occult Civil Servants Vol. 1 on Amazon →](https://www.amazon.com/s?k=Midnight+Occult+Civil+Servants+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Midnight+Occult+Civil+Servants+manga&i=stripbooks)
+
 
 ---
 

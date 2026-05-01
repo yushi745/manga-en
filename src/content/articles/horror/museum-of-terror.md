@@ -127,9 +127,10 @@ Best for Ito readers who have already explored his VIZ catalog. Start with VIZ r
 
 ## Where to Buy
 
-You can find **Museum of Terror** on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Buy Museum of Terror on Amazon](https://www.amazon.com/dp/1593070292?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1593070292?tag=dearmanga-20)
+
 
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Blood Lad Review: A Vampire Boss Who Is Obsessed with Japanese Otaku Culture Tries to Resurrect a Dead Human Girl"
 slug: "blood-lad"
+coverImage: "/covers/blood-lad.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Blood Lad"
@@ -125,7 +126,10 @@ Yen Press published the complete English series. All 17 volumes available.
 
 ## Where to Buy
 
-[Get Blood Lad Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blood+Lad+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Blood+Lad+manga&i=stripbooks)
+
 
 ---
 

@@ -135,6 +135,7 @@ The Road to Manga has no official English translation.
 
 ## Where to Buy
 
-The Road to Manga is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

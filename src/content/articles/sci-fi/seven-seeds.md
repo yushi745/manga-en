@@ -1,6 +1,7 @@
 ---
 title: "Seven Seeds Review: Thirty-Four People Wake From Cryosleep to Find That the Future Destroyed Human Civilization"
 slug: "seven-seeds"
+coverImage: "/covers/seven-seeds.jpg"
 genre: "Sci-Fi / Survival"
 genreSlug: "sci-fi"
 mangaTitle: "Seven Seeds"
@@ -126,9 +127,8 @@ Not available in English. Seven Seeds has not been officially licensed in Englis
 
 ## Where to Buy
 
-Find the Japanese edition of *Seven Seeds* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E3%82%BB%E3%83%96%E3%83%B3%E3%80%80SEVEN&tag=yushi745-22)
 
 ---
 

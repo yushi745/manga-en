@@ -124,7 +124,10 @@ TOKYOPOP published all 10 volumes. Out of print but widely available used. No cu
 
 ## Where to Buy
 
-[Get Kodocha Vol. 1 on Amazon →](https://www.amazon.com/s?k=Kodocha%3A+Sana%27s+Stage+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Kodocha%3A+Sana%27s+Stage+manga&i=stripbooks)
+
 
 ---
 

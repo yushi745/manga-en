@@ -196,8 +196,10 @@ Start from Volume 1. The VIZBIG omnibus editions reduce 37 volumes to about 12, 
 
 ## Where to Buy
 
-- [📱 Vagabond Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=Vagabond+manga&i=stripbooks)
-- [📚 Vagabond VIZBIG Vol. 1 — Paperback](https://www.amazon.com/s?k=Vagabond+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Vagabond+manga&i=stripbooks)
+
 
 ---
 

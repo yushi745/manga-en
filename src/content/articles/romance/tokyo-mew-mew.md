@@ -1,6 +1,7 @@
 ---
 title: "Tokyo Mew Mew Review: Five Girls Infused with Endangered Animal DNA Become Magical Defenders of the Planet"
 slug: "tokyo-mew-mew"
+coverImage: "/covers/tokyo-mew-mew.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Tokyo Mew Mew"
@@ -125,7 +126,10 @@ Kodansha USA has published the complete English series. All 7 volumes available 
 
 ## Where to Buy
 
-[Get Tokyo Mew Mew Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tokyo+Mew+Mew+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Tokyo+Mew+Mew+manga&i=stripbooks)
+
 
 ---
 

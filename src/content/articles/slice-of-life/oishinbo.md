@@ -127,9 +127,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Oishinbo: A la Carte* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Oishinbo: A la Carte on Amazon](https://www.amazon.com/s?k=Oishinbo%3A%20A%20la%20Carte&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Oishinbo%3A%20A%20la%20Carte&tag=dearmanga-20)
+
 
 ---
 

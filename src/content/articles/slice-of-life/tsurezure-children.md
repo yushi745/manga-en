@@ -1,6 +1,7 @@
 ---
 title: "Tsurezure Children Review: A Hundred Different Ways to Confess Your Feelings and Mean Every One"
 slug: "tsurezure-children"
+coverImage: "/covers/tsurezure-children.jpg"
 genre: "Slice of Life / Romance"
 genreSlug: "slice-of-life"
 mangaTitle: "Tsurezure Children"
@@ -126,7 +127,10 @@ Square Enix Manga published all 20 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Tsurezure Children Vol. 1 on Amazon →](https://www.amazon.com/s?k=Tsurezure+Children+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Tsurezure+Children+manga&i=stripbooks)
+
 
 ---
 

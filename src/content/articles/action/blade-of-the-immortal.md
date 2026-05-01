@@ -131,7 +131,10 @@ Dark Horse Comics published the complete 31-volume English edition, also availab
 
 ## Where to Buy
 
-[Get Blade of the Immortal Omnibus Vol. 1 on Amazon →](https://www.amazon.com/s?k=Blade+of+the+Immortal+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Blade+of+the+Immortal+manga&i=stripbooks)
+
 
 ---
 

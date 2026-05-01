@@ -135,7 +135,10 @@ VIZ Media published all 3 volumes in English. The series is out of print but ava
 
 ## Where to Buy
 
-[**View RahXephon on Amazon →**](https://www.amazon.com/dp/1591161533?tag=dearmanga-20)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/dp/1591161533?tag=dearmanga-20)
+
 
 ---
 

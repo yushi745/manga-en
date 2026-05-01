@@ -1,6 +1,7 @@
 ---
 title: "The Rising of the Shield Hero Review: When the Hero Is the Villain's Target"
 slug: "rising-shield-hero"
+coverImage: "/covers/rising-shield-hero.jpg"
 genre: "Fantasy / Isekai"
 genreSlug: "fantasy"
 mangaTitle: "The Rising of the Shield Hero"
@@ -184,8 +185,10 @@ Start from Volume 1. The opening arc is essential.
 
 ## Where to Buy
 
-- [📱 Shield Hero Vol. 1 — Kindle Edition](https://www.amazon.com/s?k=The+Rising+of+the+Shield+Hero+manga&i=stripbooks)
-- [📚 Shield Hero Vol. 1 — Paperback](https://www.amazon.com/s?k=The+Rising+of+the+Shield+Hero+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Rising+of+the+Shield+Hero+manga&i=stripbooks)
+
 
 ---
 

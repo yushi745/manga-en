@@ -129,9 +129,10 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find *Steel Ball Run* on Amazon:
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-👉 [Search for Steel Ball Run on Amazon](https://www.amazon.com/s?k=Steel%20Ball%20Run&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Steel%20Ball%20Run&tag=dearmanga-20)
+
 
 ---
 

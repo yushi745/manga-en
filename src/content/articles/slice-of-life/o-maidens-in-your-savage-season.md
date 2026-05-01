@@ -128,7 +128,10 @@ Kodansha Comics published all 8 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get O Maidens in Your Savage Season Vol. 1 on Amazon →](https://www.amazon.com/s?k=O+Maidens+in+Your+Savage+Season+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=O+Maidens+in+Your+Savage+Season+manga&i=stripbooks)
+
 
 ---
 

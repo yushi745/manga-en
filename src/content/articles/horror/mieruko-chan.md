@@ -126,7 +126,10 @@ Yen Press is publishing the ongoing series. 9 volumes available in English.
 
 ## Where to Buy
 
-[Get Mieruko-chan Vol. 1 on Amazon →](https://www.amazon.com/s?k=Mieruko-chan+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Mieruko-chan+manga&i=stripbooks)
+
 
 ---
 

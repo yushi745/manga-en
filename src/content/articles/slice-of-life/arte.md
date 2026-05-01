@@ -1,6 +1,7 @@
 ---
 title: "Arte Review: A Noblewoman in Renaissance Florence Decides to Become a Craftsman"
 slug: "arte"
+coverImage: "/covers/arte.jpg"
 genre: "Slice of Life / Historical"
 genreSlug: "slice-of-life"
 mangaTitle: "Arte"
@@ -121,7 +122,10 @@ Seven Seas published all 14 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Arte Vol. 1 on Amazon →](https://www.amazon.com/s?k=Arte+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Arte+manga&i=stripbooks)
+
 
 ---
 

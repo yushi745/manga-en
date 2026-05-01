@@ -126,7 +126,10 @@ Seven Seas Entertainment is publishing the ongoing English series. 12 volumes av
 
 ## Where to Buy
 
-[Get The Girl I Like Forgot Her Glasses Vol. 1 on Amazon →](https://www.amazon.com/s?k=The+Girl+I+Like+Forgot+Her+Glasses+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=The+Girl+I+Like+Forgot+Her+Glasses+manga&i=stripbooks)
+
 
 ---
 

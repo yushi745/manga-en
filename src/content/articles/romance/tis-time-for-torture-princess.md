@@ -1,6 +1,7 @@
 ---
 title: "'Tis Time for 'Torture,' Princess Review: A Demon King's Army Tries to Break a Captured Hero With Things She Actually Likes"
 slug: "tis-time-for-torture-princess"
+coverImage: "/covers/tis-time-for-torture-princess.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "'Tis Time for 'Torture,' Princess"
@@ -125,7 +126,10 @@ Seven Seas Entertainment publishes the ongoing English series. 15+ volumes curre
 
 ## Where to Buy
 
-[Get 'Tis Time for "Torture," Princess Vol. 1 on Amazon →](https://www.amazon.com/s?k=%27Tis+Time+for+%27Torture%2C%27+Princess+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=%27Tis+Time+for+%27Torture%2C%27+Princess+manga&i=stripbooks)
+
 
 ---
 

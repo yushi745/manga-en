@@ -133,7 +133,10 @@ Dark Horse published the English omnibus. Original TOKYOPOP release also availab
 
 ## Where to Buy
 
-[Get Wish manga on Amazon →](https://www.amazon.com/s?k=Wish+manga+CLAMP&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Wish+manga+CLAMP&i=stripbooks)
+
 
 ---
 

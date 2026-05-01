@@ -127,6 +127,7 @@ Sazae-san has no official English translation. There is a partial translation (5
 
 ## Where to Buy
 
-Sazae-san is currently available in Japanese only.
+No English release yet. That just means you find it before everyone else does.
+
 
 ---

@@ -120,7 +120,10 @@ VIZ Media published both volumes in an omnibus deluxe edition. Complete and avai
 
 ## Where to Buy
 
-[Get Gyo Deluxe Edition on Amazon →](https://www.amazon.com/s?k=Gyo+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Gyo+manga&i=stripbooks)
+
 
 ---
 

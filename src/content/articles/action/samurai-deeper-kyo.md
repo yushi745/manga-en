@@ -127,7 +127,10 @@ Tokyopop published the complete 38-volume run. All volumes available (check used
 
 ## Where to Buy
 
-[Get Samurai Deeper Kyo Vol. 1 on Amazon →](https://www.amazon.com/s?k=Samurai+Deeper+Kyo+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Samurai+Deeper+Kyo+manga&i=stripbooks)
+
 
 ---
 

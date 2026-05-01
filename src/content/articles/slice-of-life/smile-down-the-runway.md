@@ -1,6 +1,7 @@
 ---
 title: "Smile Down the Runway Review: Too Short for a Model, Too Stubborn to Quit"
 slug: "smile-down-the-runway"
+coverImage: "/covers/smile-down-the-runway.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Smile Down the Runway"
@@ -123,7 +124,10 @@ Kodansha Comics published the complete 23-volume English series.
 
 ## Where to Buy
 
-[Get Smile Down the Runway Vol. 1 on Amazon →](https://www.amazon.com/s?k=Smile+Down+the+Runway+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Smile+Down+the+Runway+manga&i=stripbooks)
+
 
 ---
 

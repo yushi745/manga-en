@@ -126,7 +126,10 @@ VIZ Media (Viz Signature) published all 17 volumes. Complete and available.
 
 ## Where to Buy
 
-[Get Arpeggio of Blue Steel Vol. 1 on Amazon →](https://www.amazon.com/s?k=Arpeggio+of+Blue+Steel+manga&i=stripbooks)
+Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+
+[Start with Volume 1 →](https://www.amazon.com/s?k=Arpeggio+of+Blue+Steel+manga&i=stripbooks)
+
 
 ---
 

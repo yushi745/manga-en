@@ -1,6 +1,7 @@
 ---
 title: "Shibito no Koe wo Kiku ga Yoi Review: Detective Stories with Ghosts"
 slug: "shibito-no-koe"
+coverImage: "/covers/shibito-no-koe.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Shibito no Koe wo Kiku ga Yoi"
@@ -127,9 +128,8 @@ Start from volume 1. This series builds its world and characters carefully from 
 
 ## Where to Buy
 
-Find the Japanese edition of *Shibito no Koe wo Kiku ga Yoi* on Amazon.co.jp:
+No English release yet. That just means you find it before everyone else does.
 
-👉 [Japanese Edition on Amazon.co.jp](https://www.amazon.co.jp/s?k=%E6%AD%BB%E4%BA%BA%E3%81%AE%E5%A3%B0%E3%82%92%E3%81%8D%E3%81%8F%E3%81%8C%E3%82%88%E3%81%84&tag=yushi745-22)
 
 ---
 
