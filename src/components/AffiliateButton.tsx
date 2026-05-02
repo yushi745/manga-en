@@ -1,12 +1,19 @@
 export default function AffiliateButton({
   url,
   mangaTitle,
+  showTeaser = false,
 }: {
   url: string;
   mangaTitle: string;
+  showTeaser?: boolean;
 }) {
   return (
     <div className="my-6 text-center">
+      {showTeaser && (
+        <p className="mb-3 text-sm text-gray-600">
+          Read the first volume. If it doesn&apos;t hook you, put it down. It&apos;ll hook you.
+        </p>
+      )}
       <a
         href={url}
         target="_blank"

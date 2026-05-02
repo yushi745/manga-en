@@ -140,7 +140,7 @@ export default async function ArticlePage({ params }: Props) {
           </div>
         </header>
 
-        <AffiliateButton url={buyUrl} mangaTitle={frontmatter.mangaTitle} />
+        <AffiliateButton url={buyUrl} mangaTitle={frontmatter.mangaTitle} showTeaser />
 
         <MarkdownContent content={content} />
 

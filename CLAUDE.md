@@ -90,8 +90,21 @@ hasAffiliate: true               # FTC開示フラグ（アフィリリンクあ
 15. ## Reading Order / Where to Start（どの巻から買うべきか）
 16. ## Official English Translation Status（英語版の状況）
 17. ## Pros & Cons（購買判断の最終チェック）
-18. ## Format Comparison（Physical / Digital / Omnibus の比較）
-19. ## Where to Buy（AmazonリンクCTA）
+    ※ Consの最後に「this won't work for everyone」系フレーズを1行加える
+      例: "The pacing is slow — that's either a flaw or a feature depending on you."
+      例: "The style is an acquired taste. It won't land for everyone."
+      例: "If you need fast pacing, this isn't your book."
+      理由: 読者に「自分向きか判断する余地」を与えることでクリック率が上がる
+
+18. ## Is [Manga Title] Worth Reading?（SEO H2・新規追加）
+    ※ 検索クエリ "Is [X] worth reading?" を拾うためのセクション
+    ※ Pros & Consを1〜2文で凝縮してまとめ直すだけでOK（重複コンテンツでよい）
+    ※ タイトルは作品名を入れて "Is [Manga Title] Worth Reading?" を基本形にする
+      例: "Is Do Not Say Mystery Worth Reading?"
+      例: "Is Vinland Saga Worth Reading?"
+
+19. ## Format Comparison（Physical / Digital / Omnibus の比較）
+20. ## Where to Buy（AmazonリンクCTA）
     FTC Disclosure（フッター固定）
 ```
 
@@ -133,6 +146,21 @@ No English release yet. That just means you find it before everyone else does.
 
 Safe for most readers. Nothing graphic.
 ```
+
+### Similar Manga フォーマット（3列テーブル）
+
+```markdown
+## Similar Manga
+
+| Title | Its Approach | How [This Manga] Differs |
+|---|---|---|
+| Manga A | What it does | What this does differently |
+| Manga B | What it does | What this does differently |
+```
+
+※ 箇条書きではなく3列テーブルを使う
+※ 「違い」を明示することで「この作品を選ぶ理由」が一目で伝わる
+※ 列3は "How [This Manga] Differs" の [This Manga] を実際のタイトルに変える
 
 ### FTC Disclosure（フッター固定文言）
 
