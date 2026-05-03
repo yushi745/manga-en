@@ -1,6 +1,7 @@
 ---
 title: "Shonen Ashibe Review: The Boy and the Seal Who Were Too Chaotic for Any Normal Family"
 slug: "shonen-ashibe"
+coverImage: "/covers/shonen-ashibe.jpg"
 genre: "Comedy / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Shonen Ashibe"

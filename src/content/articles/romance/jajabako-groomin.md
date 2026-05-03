@@ -1,6 +1,7 @@
 ---
 title: "Jajabako Groomin UP! Review: The Horse Racing Romance That Made You Care About Both"
 slug: "jajabako-groomin"
+coverImage: "/covers/jajabako-groomin.jpg"
 genre: "Sports / Romance"
 genreSlug: "romance"
 mangaTitle: "Jajabako Groomin UP!"

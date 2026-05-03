@@ -1,11 +1,12 @@
 ---
 title: "Bara no Tame ni Review: The Secret That Rewrote the Entire Family"
 slug: "bara-no-tame-ni"
+coverImage: "/covers/bara-no-tame-ni.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Bara no Tame ni"
 mangaTitleJa: "薔薇のために"
-mangaAuthor: "Fumie Akizuki"
+mangaAuthor: "Akemi Yoshimura"
 serialization: "Petit Comic"
 publisher: "Shogakukan"
 volumes: 13

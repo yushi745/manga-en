@@ -1,6 +1,7 @@
 ---
 title: "Galaxy Express 999 Review: The Boy Who Rode a Train to the Stars and Learned That Forever Is Not What He Thought"
 slug: "galaxy-express-999"
+coverImage: "/covers/galaxy-express-999.jpg"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Galaxy Express 999"

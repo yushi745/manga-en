@@ -1,6 +1,7 @@
 ---
 title: "Tonde Saitama Review: The Most Absurd Satire of Regional Snobbery Ever Committed to Paper"
 slug: "tonde-saitama"
+coverImage: "/covers/tonde-saitama.jpg"
 genre: "Comedy / Parody"
 genreSlug: "slice-of-life"
 mangaTitle: "Tonde Saitama"

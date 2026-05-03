@@ -1,12 +1,13 @@
 ---
 title: "Subaru Review: The Ballet Dancer Who Was Born to Move and Couldn't Be Stopped"
 slug: "subaru"
+coverImage: "/covers/subaru.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Subaru"
 mangaTitleJa: "昴"
-mangaAuthor: "Waki Yamato"
-serialization: "Big Comic Original"
+mangaAuthor: "Masahito Soda"
+serialization: "Big Comic Spirits"
 publisher: "Shogakukan"
 volumes: 12
 status: "Completed"

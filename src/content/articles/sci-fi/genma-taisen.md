@@ -1,6 +1,7 @@
 ---
 title: "Genma Taisen Review: The War at the End of the Universe, Told Through One Boy's Journey"
 slug: "genma-taisen"
+coverImage: "/covers/genma-taisen.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Genma Taisen"

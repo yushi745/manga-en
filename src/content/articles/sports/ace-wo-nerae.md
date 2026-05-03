@@ -1,6 +1,7 @@
 ---
 title: "Ace wo Nerae! Review: The Tennis Manga That Made Suffering Into a Form of Love"
 slug: "ace-wo-nerae"
+coverImage: "/covers/ace-wo-nerae.jpg"
 genre: "Sports / Shojo"
 genreSlug: "sports"
 mangaTitle: "Ace wo Nerae!"

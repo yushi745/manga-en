@@ -1,6 +1,7 @@
 ---
 title: "Kyofu Shinbun Review: The Newspaper That Tells You When You're Going to Die"
 slug: "kyofu-shinbun"
+coverImage: "/covers/kyofu-shinbun.jpg"
 genre: "Horror / Thriller"
 genreSlug: "horror"
 mangaTitle: "Kyofu Shinbun"

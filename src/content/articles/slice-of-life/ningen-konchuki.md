@@ -1,6 +1,7 @@
 ---
 title: "Ningen Konchuki Review: The Woman Who Stole Identities and Called It Survival"
 slug: "ningen-konchuki"
+coverImage: "/covers/ningen-konchuki.jpg"
 genre: "Drama / Thriller"
 genreSlug: "slice-of-life"
 mangaTitle: "Ningen Konchuki"
