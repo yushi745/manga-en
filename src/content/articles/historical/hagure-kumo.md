@@ -1,6 +1,7 @@
 ---
 title: "Hagure Kumo Review: The Samurai Who Had Already Decided He Didn't Care"
 slug: "hagure-kumo"
+coverImage: "/covers/hagure-kumo.jpg"
 genre: "Historical / Slice of Life"
 genreSlug: "historical"
 mangaTitle: "Hagure Kumo"

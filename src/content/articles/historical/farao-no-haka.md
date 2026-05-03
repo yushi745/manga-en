@@ -1,11 +1,12 @@
 ---
 title: "Farao no Haka Review: Ancient Egypt as a Stage for Timeless Human Obsession"
 slug: "farao-no-haka"
+coverImage: "/covers/farao-no-haka.jpg"
 genre: "Historical / Shojo"
 genreSlug: "historical"
 mangaTitle: "Farao no Haka"
 mangaTitleJa: "ファラオの墓"
-mangaAuthor: "Makoto Takahashi"
+mangaAuthor: "Keiko Takemiya"
 serialization: "Shojo Friend"
 publisher: "Kodansha"
 volumes: 11

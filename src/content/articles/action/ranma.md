@@ -1,6 +1,7 @@
 ---
 title: "Ranma 1/2 Review: The Martial Artist Who Turned Into a Girl in Cold Water and Nobody Could Handle It"
 slug: "ranma"
+coverImage: "/covers/ranma.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Ranma 1/2"
