@@ -1,6 +1,7 @@
 ---
 title: "Macaroni Houren-sou Review: The Gag Manga That Forgot It Was Supposed to Make Sense"
 slug: "macaroni-houren-sou"
+coverImage: "/covers/macaroni-houren-sou.jpg"
 genre: "Comedy / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Macaroni Houren-sou"

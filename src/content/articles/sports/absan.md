@@ -1,6 +1,7 @@
 ---
 title: "Absan Review: The Slugger Who Made a Career Out of Not Being the Best"
 slug: "absan"
+coverImage: "/covers/absan.jpg"
 genre: "Sports / Slice of Life"
 genreSlug: "sports"
 mangaTitle: "Absan"

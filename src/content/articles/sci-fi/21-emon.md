@@ -1,6 +1,7 @@
 ---
 title: "21 Emon Review: The Hotel Heir Who Preferred Aliens to Humans"
 slug: "21-emon"
+coverImage: "/covers/21-emon.jpg"
 genre: "Sci-Fi / Comedy"
 genreSlug: "sci-fi"
 mangaTitle: "21 Emon"

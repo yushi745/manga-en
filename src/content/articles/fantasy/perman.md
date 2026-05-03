@@ -1,6 +1,7 @@
 ---
 title: "Perman Review: The Ordinary Kid Who Got Superpowers and Stayed Ordinary"
 slug: "perman"
+coverImage: "/covers/perman.jpg"
 genre: "Fantasy / Slice of Life"
 genreSlug: "fantasy"
 mangaTitle: "Perman"
