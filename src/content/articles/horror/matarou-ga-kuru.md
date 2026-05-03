@@ -1,6 +1,7 @@
 ---
 title: "Matarou ga Kuru!! Review: The Curse That Comes for Everyone Who Wrongs the Weak"
 slug: "matarou-ga-kuru"
+coverImage: "/covers/matarou-ga-kuru.jpg"
 genre: "Horror / Comedy"
 genreSlug: "horror"
 mangaTitle: "Matarou ga Kuru!!"
