@@ -212,6 +212,11 @@ titles_ja, titles_en, slugs = load_existing()
 - `mangaTitle`（小文字）が一致 → 重複、スキップ
 - スラッグが一致 → ファイル上書きになるため必ずスキップ
 
+**重複チェックのタイミング（必須）：**
+- バッチ開始前（セッション開始時）に1回
+- **各バッチのgit commit直後、次のバッチ開始前にも必ず再実行**
+- 同一セッション内の複数バッチでも毎回実行すること（バッチ1の記事がバッチ2の候補に重複する可能性があるため）
+
 ---
 
 ## 記事生成ワークフロー
@@ -232,43 +237,106 @@ titles_ja, titles_en, slugs = load_existing()
 ### バッチスクリプトの絶対ルール
 
 - **`coverImage` フィールドをMDに書いてはならない**（OpenLibraryは画像が不正確なため全面禁止）
-- カバー画像は必ず `python3 scripts/download_covers_rakuten.py` で別途取得する
+- カバー画像は**バッチ対象スラッグのみ**をターゲットにしたインラインPythonで個別取得する
+- `scripts/download_covers_rakuten.py` は**絶対に使わない**（全記事を上書きするため）
 - OpenLibrary・MangaDex・ハードコードISBNによる画像取得は禁止
 
 ---
 
 ## カバー画像取得フロー（確定）
 
-バッチ記事作成後、`scripts/download_covers_rakuten.py` を実行して一括取得。
-失敗した記事のみ以下の順で個別対応する。
+バッチ記事作成後、**バッチ対象スラッグだけ**を対象にしたインラインPythonスクリプトを書いて実行する。
+`scripts/download_covers_rakuten.py` は全記事を上書きするため使用禁止。
 
-### ステップ1: 楽天Books API（主）
-- `mangaTitleJa`（日本語タイトル）で検索
-- `scripts/download_covers_rakuten.py` が自動実行
-- エンドポイント: `https://openapi.rakuten.co.jp/services/api/BooksBook/Search/20170404`
-- キー: `.env.local` の `RAKUTEN_APP_ID` / `RAKUTEN_ACCESS_KEY`
-- `Origin: https://www.dearmanga.com` ヘッダー必須
+### ステップ1: 楽天Books API（主）+ Google Books（補助）のインラインスクリプト
 
-### ステップ2: Google Books API（補助）
-- 楽天でNOT FOUNDの場合、同スクリプトが自動でフォールバック
-- 追加の設定不要
+バッチ対象スラッグのリストを明示し、そのスラッグに対応する MD ファイルから `mangaTitleJa` を読み取って検索する。
 
-### ステップ3: 個別対応（失敗した記事のみ）
-1. `amazon.co.jp` で正式な日本語タイトルを確認
-2. `mangaTitleJa` を修正
-3. 楽天APIで再検索（スクリプト or 手動）
+```python
+import urllib.request, urllib.parse, json, os, time, re
 
-### ステップ4: 目視確認（必須）
-`download_covers_rakuten.py` 実行後、バッチ全記事のカバー画像を Read ツールで1枚ずつ開いて目視確認する。
+RAKUTEN_APP_ID = open("/Users/yushi/Documents/manga-en/.env.local").read()
+RAKUTEN_APP_ID = re.search(r"RAKUTEN_APP_ID=(\S+)", RAKUTEN_APP_ID).group(1)
+
+SLUGS = ["slug-1", "slug-2", ...]  # バッチ対象スラッグのみ
+
+def get_title_ja(slug):
+    import glob
+    for f in glob.glob(f"src/content/articles/**/{slug}.md", recursive=True):
+        for line in open(f):
+            if line.startswith("mangaTitleJa:"):
+                return re.sub(r'^mangaTitleJa:\s*"?|"?\s*$', "", line).strip()
+    return None
+
+def rakuten(title):
+    q = urllib.parse.quote(title)
+    url = f"https://app.rakuten.co.jp/services/api/BooksBook/Search/20170404?applicationId={RAKUTEN_APP_ID}&title={q}&hits=3&imageFlag=1"
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "manga-en/1.0"})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            j = json.loads(r.read())
+        items = j.get("Items", [])
+        if items:
+            img_url = items[0]["Item"]["largeImageUrl"]
+            with urllib.request.urlopen(img_url, timeout=10) as r:
+                data = r.read()
+            return data if len(data) > 5000 else None
+    except: pass
+    return None
+
+def google_books(title):
+    q = urllib.parse.quote(title)
+    try:
+        with urllib.request.urlopen(f"https://www.googleapis.com/books/v1/volumes?q={q}&maxResults=5", timeout=10) as r:
+            j = json.loads(r.read())
+        for item in j.get("items", []):
+            img = item.get("volumeInfo", {}).get("imageLinks", {}).get("thumbnail", "")
+            if img:
+                img = img.replace("zoom=1", "zoom=3").replace("http://", "https://")
+                with urllib.request.urlopen(img, timeout=10) as r:
+                    data = r.read()
+                if len(data) > 5000:
+                    return data
+    except: pass
+    return None
+
+for slug in SLUGS:
+    out = f"public/covers/{slug}.jpg"
+    if os.path.exists(out): print(f"SKIP {slug}"); continue
+    title = get_title_ja(slug)
+    if not title: print(f"NO TITLE {slug}"); continue
+    data = rakuten(title) or google_books(title)
+    if data:
+        open(out, "wb").write(data)
+        print(f"OK {slug} ({len(data)})")
+    else:
+        print(f"FAIL {slug}")
+    time.sleep(0.3)
+```
+
+### ステップ2: coverImage フィールドを MD に追加
+
+```bash
+for slug in slug-1 slug-2 ...; do
+  f=$(find src/content/articles -name "${slug}.md")
+  if [ -f "public/covers/${slug}.jpg" ]; then
+    sed -i '' "s|^slug: \"${slug}\"|slug: \"${slug}\"\ncoverImage: \"/covers/${slug}.jpg\"|" "$f"
+  fi
+done
+```
+
+### ステップ3: 目視確認（必須）
+バッチ全記事のカバー画像を Read ツールで1枚ずつ開いて目視確認する。
 - タイトル文字・キャラ・デザインが `mangaTitle` と一致すること
 - 別作品・Coming Soon・真っ白・ロゴのみ → NGとして coverImage 削除 + 画像ファイル削除
 - **目視確認なしでコミット禁止**
 
-### ステップ5: coverImage 削除
-- ステップ3でも見つからない場合、またはステップ4でNGの場合は `coverImage` フィールドを frontmatter から削除
+### ステップ4: coverImage 削除
+- ステップ3でNGの場合は `coverImage` フィールドを frontmatter から削除
 - 画像なし表示になる（page.tsx が `coverImage` の有無で条件分岐済み）
 
 ### 注意
+- `scripts/download_covers_rakuten.py` は**使用禁止**（全記事上書きするため）
 - MangaDexは使わない（非公式・著作権グレー・URL不安定）
 - ASINを推測・でっち上げしてはならない（Amazonリンクは現在すべて検索URLで運用中）
 
