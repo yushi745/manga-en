@@ -1,6 +1,7 @@
 ---
 title: "Tokyo Crazy Paradise Review: A Girl Raised as a Boy Who Became a Yakuza Boss's Bodyguard in 2020 Tokyo"
 slug: "tokyo-crazy-paradise"
+coverImage: "/covers/tokyo-crazy-paradise.jpg"
 genre: "Action / Romance"
 genreSlug: "action"
 mangaTitle: "Tokyo Crazy Paradise"
