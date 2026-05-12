@@ -1,6 +1,7 @@
 ---
 title: "Boys Next Door Review: A Single Volume That Does More Than Most Series Do in Ten"
-slug: "boys-next-door"
+
+coverImage: "/covers/boys-next-door.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Boys Next Door"

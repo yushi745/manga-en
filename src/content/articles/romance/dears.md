@@ -1,6 +1,7 @@
 ---
 title: "DearS Review: An Alien Slave Comedy That's More Earnest Than Its Premise Deserves"
-slug: "dears"
+
+coverImage: "/covers/dears.jpg"
 genre: "Romance / Sci-Fi"
 genreSlug: "romance"
 mangaTitle: "DearS"

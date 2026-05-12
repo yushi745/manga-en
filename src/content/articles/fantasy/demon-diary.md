@@ -1,6 +1,7 @@
 ---
 title: "Demon Diary Review: The Accidental Demon Lord and the Tutor Who Didn't Sign Up for This"
-slug: "demon-diary"
+
+coverImage: "/covers/demon-diary.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Demon Diary"
