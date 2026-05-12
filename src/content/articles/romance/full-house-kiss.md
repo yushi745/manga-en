@@ -1,6 +1,7 @@
 ---
 title: "Full House Kiss Review: She Bet Her House on a Stranger. He Won. Then They Had to Live Together."
 slug: "full-house-kiss"
+coverImage: "/covers/full-house-kiss.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Full House Kiss"

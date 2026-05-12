@@ -1,6 +1,7 @@
 ---
 title: "The Ryuo's Work Is Never Done! Review: Shogi, Prodigies, and the Weight of Expectation"
 slug: "ryuuou-no-oshigoto"
+coverImage: "/covers/ryuuou-no-oshigoto.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "The Ryuo's Work Is Never Done!"

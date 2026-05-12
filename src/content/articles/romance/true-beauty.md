@@ -1,6 +1,7 @@
 ---
 title: "True Beauty Review: The Manhwa About the Weight of Appearance That Took the World By Storm"
 slug: "true-beauty"
+coverImage: "/covers/true-beauty.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "True Beauty"

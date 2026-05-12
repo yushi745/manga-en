@@ -1,6 +1,7 @@
 ---
 title: "The Youngest Princess Review: The Most Pampered Princess in the Empire Has Plans"
 slug: "the-youngest-princess"
+coverImage: "/covers/the-youngest-princess.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "The Youngest Princess"

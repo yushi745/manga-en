@@ -1,6 +1,7 @@
 ---
 title: "DNA² Review: Time Travel, Accidental Womanizing, and the Grandfather Paradox as Romantic Comedy"
 slug: "dna2"
+coverImage: "/covers/dna2.jpg"
 genre: "Sci-Fi / Romance"
 genreSlug: "sci-fi"
 mangaTitle: "DNA²"

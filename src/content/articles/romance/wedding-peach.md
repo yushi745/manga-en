@@ -1,6 +1,7 @@
 ---
 title: "Wedding Peach Review: Love Angels Fight Demons with the Power of Marriage and Friendship"
 slug: "wedding-peach"
+coverImage: "/covers/wedding-peach.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Wedding Peach"

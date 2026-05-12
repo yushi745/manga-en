@@ -1,6 +1,7 @@
 ---
 title: "My In-Laws Are Obsessed with Me Review: Even the Villain Arc Couldn't Prepare Her Family"
 slug: "my-in-laws-are-obsessed"
+coverImage: "/covers/my-in-laws-are-obsessed.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "My In-Laws Are Obsessed with Me"
