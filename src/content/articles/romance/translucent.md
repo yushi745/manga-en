@@ -1,6 +1,7 @@
 ---
 title: "Translucent Review: A Middle School Girl Who Is Slowly Becoming Invisible Learns to Be Seen"
 slug: "translucent"
+coverImage: "/covers/translucent.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Translucent"

@@ -1,6 +1,7 @@
 ---
 title: "Taisho Otome Fairytale Review: A Gentle Historical Romance About Two Lonely People"
 slug: "taisho-otome"
+coverImage: "/covers/taisho-otome.jpg"
 genre: "Romance / Historical"
 genreSlug: "romance"
 mangaTitle: "Taisho Otome Fairytale"

@@ -1,6 +1,7 @@
 ---
 title: "Cowboy Bebop: Shooting Star Review: The Alt-Universe Bebop That Goes Its Own Way"
 slug: "cowboy-bebop-shooting-star"
+coverImage: "/covers/cowboy-bebop-shooting-star.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Cowboy Bebop: Shooting Star"

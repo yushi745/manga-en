@@ -1,6 +1,7 @@
 ---
 title: "Buster Keel! Review: An Underrated Fantasy Adventure With Genuine Heart and Creative Fights"
 slug: "buster-keel"
+coverImage: "/covers/buster-keel.jpg"
 genre: "Action / Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Buster Keel!"

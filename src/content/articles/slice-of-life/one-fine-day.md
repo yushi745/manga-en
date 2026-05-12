@@ -1,6 +1,7 @@
 ---
 title: "One Fine Day Review: A Cat, a Wizard, and the Specific Warmth of Doing Nothing in Particular"
 slug: "one-fine-day"
+coverImage: "/covers/one-fine-day.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "One Fine Day"

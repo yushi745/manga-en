@@ -1,6 +1,7 @@
 ---
 title: "Devilman Grimoire Review"
 slug: "devilman-grimoire"
+coverImage: "/covers/devilman-grimoire.jpg"
 genre: "Horror / Action"
 genreSlug: "horror"
 mangaTitle: "Devilman Grimoire"

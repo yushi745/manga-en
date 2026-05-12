@@ -1,6 +1,7 @@
 ---
 title: "Living Game Review: A Widowed Salaryman and a Young Woman Share an Apartment — and Build Something Neither Expected"
 slug: "living-game"
+coverImage: "/covers/living-game.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Living Game"

@@ -1,6 +1,7 @@
 ---
 title: "Bring It On! Review: Korean High School Sports Manhwa With a Distinctive Female Lead"
 slug: "bring-it-on"
+coverImage: "/covers/bring-it-on.jpg"
 genre: "Sports / Romance"
 genreSlug: "sports"
 mangaTitle: "Bring It On!"

@@ -1,6 +1,7 @@
 ---
 title: "Ao-chan Can't Study! Review: The Romance Manga That Gets Embarrassment Perfectly Right"
 slug: "ao-chan-cant-study"
+coverImage: "/covers/ao-chan-cant-study.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Ao-chan Can't Study!"

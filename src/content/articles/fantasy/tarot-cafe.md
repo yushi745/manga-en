@@ -1,6 +1,7 @@
 ---
 title: "Tarot Cafe Review: She Reads Cards for Monsters and Is Herself the Saddest Story in the Cafe"
 slug: "tarot-cafe"
+coverImage: "/covers/tarot-cafe.jpg"
 genre: "Fantasy / Mystery"
 genreSlug: "fantasy"
 mangaTitle: "Tarot Cafe"

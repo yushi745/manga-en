@@ -1,6 +1,7 @@
 ---
 title: "I Hate You More Than Anyone Review: The Eldest Daughter of Seven Siblings Falls for Her Childhood Nemesis in Banri Hidaka's Warm Family Romance"
 slug: "i-hate-you-more-than-anyone"
+coverImage: "/covers/i-hate-you-more-than-anyone.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "I Hate You More Than Anyone"

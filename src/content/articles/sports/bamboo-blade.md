@@ -1,6 +1,7 @@
 ---
 title: "Bamboo Blade Review"
 slug: "bamboo-blade"
+coverImage: "/covers/bamboo-blade.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Bamboo Blade"

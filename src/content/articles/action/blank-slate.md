@@ -1,6 +1,7 @@
 ---
 title: "Blank Slate Review: A Criminal With No Memory and Everyone Who Wants to Use Him"
 slug: "blank-slate"
+coverImage: "/covers/blank-slate.jpg"
 genre: "Action / Mystery"
 genreSlug: "action"
 mangaTitle: "Blank Slate"

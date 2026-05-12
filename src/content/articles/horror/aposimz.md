@@ -1,6 +1,7 @@
 ---
 title: "APOSIMZ Review: On a Frozen World Built Around a Tower, Humans Fight to Remain Human"
 slug: "aposimz"
+coverImage: "/covers/aposimz.jpg"
 genre: "Horror / Sci-Fi"
 genreSlug: "horror"
 mangaTitle: "APOSIMZ"

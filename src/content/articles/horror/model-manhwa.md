@@ -1,6 +1,7 @@
 ---
 title: "Model Review: The Vampire Who Chose an Artist, and the Price That Came With the Choice"
 slug: "model-manhwa"
+coverImage: "/covers/model-manhwa.jpg"
 genre: "Horror / Romance"
 genreSlug: "horror"
 mangaTitle: "Model"

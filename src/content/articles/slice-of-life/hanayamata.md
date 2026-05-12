@@ -1,6 +1,7 @@
 ---
 title: "Hanayamata Review: Five Girls Learning Yosakoi Dance and How to Need Each Other"
 slug: "hanayamata"
+coverImage: "/covers/hanayamata.jpg"
 genre: "Slice of Life / School"
 genreSlug: "slice-of-life"
 mangaTitle: "Hanayamata"
