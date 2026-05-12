@@ -1,6 +1,7 @@
 ---
 title: "Lovely Complex Review: Too Tall and Too Short, and Perfect Together"
 slug: "lovely-complex"
+coverImage: "/covers/lovely-complex.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Lovely Complex"

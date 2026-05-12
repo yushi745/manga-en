@@ -1,6 +1,7 @@
 ---
 title: "Tsuri Kichi Sanpei Review: The Boy Who Taught a Generation of Japanese Kids to Love Rivers"
 slug: "tsuri-kichi-sanpei"
+coverImage: "/covers/tsuri-kichi-sanpei.jpg"
 genre: "Sports / Slice of Life"
 genreSlug: "sports"
 mangaTitle: "Tsuri Kichi Sanpei"

@@ -1,6 +1,7 @@
 ---
 title: "Tsurumoku Dokusin-ryo Review: The Bachelor Dormitory Comedy That Captures Young Adult Life Perfectly"
 slug: "tsurumoku-dokusin-ryou"
+coverImage: "/covers/tsurumoku-dokusin-ryou.jpg"
 genre: "Slice of Life / Romance"
 genreSlug: "slice-of-life"
 mangaTitle: "Tsurumoku Dokusin-ryo"

@@ -1,6 +1,7 @@
 ---
 title: "Stranger by the Shore Review: The BL Romance That Earns Every Feeling"
 slug: "stranger-by-the-shore"
+coverImage: "/covers/stranger-by-the-shore.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Stranger by the Shore"

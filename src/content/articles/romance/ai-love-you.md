@@ -1,6 +1,7 @@
 ---
 title: "A.I. Love You Review: He Programmed the Perfect Girl. Then She Escaped Into Reality."
 slug: "ai-love-you"
+coverImage: "/covers/ai-love-you.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "A.I. Love You"

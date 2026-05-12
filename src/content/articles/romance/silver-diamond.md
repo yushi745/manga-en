@@ -1,6 +1,7 @@
 ---
 title: "Silver Diamond Review: A Boy Who Can Grow Plants Is the Promised Savior of a Dying Desert World"
 slug: "silver-diamond"
+coverImage: "/covers/silver-diamond.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "romance"
 mangaTitle: "Silver Diamond"

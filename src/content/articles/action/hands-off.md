@@ -1,6 +1,7 @@
 ---
 title: "Hands Off! Review: He Can See Your Memories When He Touches You. He Would Very Much Prefer Not To."
 slug: "hands-off"
+coverImage: "/covers/hands-off.jpg"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Hands Off!"

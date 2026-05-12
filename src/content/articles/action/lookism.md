@@ -1,6 +1,7 @@
 ---
 title: "Lookism Review: Woke Up in a Hot Body — Now What?"
 slug: "lookism"
+coverImage: "/covers/lookism.jpg"
 genre: "Action"
 genreSlug: "action"
 mangaTitle: "Lookism"

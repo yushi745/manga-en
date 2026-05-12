@@ -1,6 +1,7 @@
 ---
 title: "Slow Loop Review"
 slug: "slow-loop"
+coverImage: "/covers/slow-loop.jpg"
 genre: "Slice of Life / Sports"
 genreSlug: "sports"
 mangaTitle: "Slow Loop"

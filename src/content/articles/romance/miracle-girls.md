@@ -1,6 +1,7 @@
 ---
 title: "Miracle Girls Review: Twin Telepathy and the Specific Complications of Being Connected to Someone Who Is Also You"
 slug: "miracle-girls"
+coverImage: "/covers/miracle-girls.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Miracle Girls"

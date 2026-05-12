@@ -1,6 +1,7 @@
 ---
 title: "Magus of the Library Review: A Boy Who Loves Books Dreams of Becoming a Guardian of the Great Library"
 slug: "magus-of-the-library"
+coverImage: "/covers/magus-of-the-library.jpg"
 genre: "Fantasy / Adventure"
 genreSlug: "fantasy"
 mangaTitle: "Magus of the Library"

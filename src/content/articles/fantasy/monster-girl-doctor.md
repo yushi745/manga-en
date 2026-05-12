@@ -1,6 +1,7 @@
 ---
 title: "Monster Girl Doctor Review: Medical Care in a Fantasy World Where Patients Have Scales and Wings"
 slug: "monster-girl-doctor"
+coverImage: "/covers/monster-girl-doctor.jpg"
 genre: "Fantasy / Slice of Life"
 genreSlug: "fantasy"
 mangaTitle: "Monster Girl Doctor"

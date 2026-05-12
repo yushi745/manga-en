@@ -1,6 +1,7 @@
 ---
 title: "Time Stranger Kyoko Review: A Princess Who Hates Her Royal Duties Must Wake Her Sleeping Twin Sister — Arina Tanemura's Most Compact Adventure"
 slug: "time-stranger-kyoko"
+coverImage: "/covers/time-stranger-kyoko.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Time Stranger Kyoko"

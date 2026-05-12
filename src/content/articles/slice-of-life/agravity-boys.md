@@ -1,6 +1,7 @@
 ---
 title: "Agravity Boys Review"
 slug: "agravity-boys"
+coverImage: "/covers/agravity-boys.jpg"
 genre: "Slice of Life / Comedy / Sci-Fi"
 genreSlug: "slice-of-life"
 mangaTitle: "Agravity Boys"

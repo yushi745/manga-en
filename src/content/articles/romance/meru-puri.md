@@ -1,6 +1,7 @@
 ---
 title: "Meru Puri Review: A Prince from a Fairy Tale Kingdom Keeps Growing Up Overnight in My Bed"
 slug: "meru-puri"
+coverImage: "/covers/meru-puri.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Meru Puri: Märchen Prince"

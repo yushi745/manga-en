@@ -1,6 +1,7 @@
 ---
 title: "Seraphic Feather Review: Hard SF Anime Aesthetics and the Question of What Makes a Person Real"
 slug: "seraphic-feather"
+coverImage: "/covers/seraphic-feather.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Seraphic Feather"

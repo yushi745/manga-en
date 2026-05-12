@@ -1,6 +1,7 @@
 ---
 title: "Ten Dance Review: The Ballroom Dancing BL Manga That Treats Competition With Serious Craft"
 slug: "ten-dance"
+coverImage: "/covers/ten-dance.jpg"
 genre: "Sports / Romance"
 genreSlug: "sports"
 mangaTitle: "Ten Dance"

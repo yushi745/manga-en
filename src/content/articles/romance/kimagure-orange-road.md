@@ -1,6 +1,7 @@
 ---
 title: "Kimagure Orange Road Review: The Love Triangle That Made You Choose and Then Made You Question Your Choice"
 slug: "kimagure-orange-road"
+coverImage: "/covers/kimagure-orange-road.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Kimagure Orange Road"

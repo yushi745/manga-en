@@ -1,6 +1,7 @@
 ---
 title: "Peacemaker Kurogane Review: The Boy Who Wanted to Be a Demon and Found Something Worse"
 slug: "peacemaker-kurogane"
+coverImage: "/covers/peacemaker-kurogane.jpg"
 genre: "Action / Historical"
 genreSlug: "action"
 mangaTitle: "Peacemaker Kurogane"

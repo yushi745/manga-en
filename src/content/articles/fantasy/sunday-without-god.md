@@ -1,6 +1,7 @@
 ---
 title: "Sunday Without God Review: The Fantasy Manga Where God Abandoned the World But Left Something Behind"
 slug: "sunday-without-god"
+coverImage: "/covers/sunday-without-god.jpg"
 genre: "Fantasy / Drama"
 genreSlug: "fantasy"
 mangaTitle: "Sunday Without God"

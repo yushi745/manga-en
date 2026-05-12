@@ -1,6 +1,7 @@
 ---
 title: "Cherry Project Review: The Figure Skating Manga That Showed Who Naoko Takeuchi Was Before Sailor Moon"
 slug: "cherry-project"
+coverImage: "/covers/cherry-project.jpg"
 genre: "Sports / Romance"
 genreSlug: "sports"
 mangaTitle: "Cherry Project"

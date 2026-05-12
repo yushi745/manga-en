@@ -1,6 +1,7 @@
 ---
 title: "Douki-chan Review: The Office Romance Where She's Been Waiting for Him to Notice for Years"
 slug: "douki-chan"
+coverImage: "/covers/douki-chan.jpg"
 genre: "Romance / Slice of Life"
 genreSlug: "romance"
 mangaTitle: "Douki-chan"

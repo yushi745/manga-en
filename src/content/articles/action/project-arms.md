@@ -1,6 +1,7 @@
 ---
 title: "Project ARMS Review"
 slug: "project-arms"
+coverImage: "/covers/project-arms.jpg"
 genre: "Action / Sci-Fi"
 genreSlug: "action"
 mangaTitle: "Project ARMS"

@@ -1,6 +1,7 @@
 ---
 title: "Takopi's Original Sin Review: Two Volumes That Will Ruin You Completely"
 slug: "takopis-original-sin"
+coverImage: "/covers/takopis-original-sin.jpg"
 genre: "Slice of Life / Dark Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Takopi's Original Sin"

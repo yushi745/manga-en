@@ -1,6 +1,7 @@
 ---
 title: "Our Happy Hours Review: A Korean Manhwa About Finding Peace On Death Row"
 slug: "our-happy-hours"
+coverImage: "/covers/our-happy-hours.jpg"
 genre: "Drama / Romance"
 genreSlug: "romance"
 mangaTitle: "Our Happy Hours"

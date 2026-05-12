@@ -1,6 +1,7 @@
 ---
 title: "Ice Revolution Review: She Was Too Clumsy for Judo — But Too Stubborn to Quit Figure Skating"
 slug: "ice-revolution"
+coverImage: "/covers/ice-revolution.jpg"
 genre: "Romance / Sports"
 genreSlug: "romance"
 mangaTitle: "Ice Revolution"

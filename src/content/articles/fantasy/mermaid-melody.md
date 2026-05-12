@@ -1,6 +1,7 @@
 ---
 title: "Mermaid Melody Pichi Pichi Pitch Review: Seven Mermaid Princesses Who Defeat Evil With Songs"
 slug: "mermaid-melody"
+coverImage: "/covers/mermaid-melody.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Mermaid Melody Pichi Pichi Pitch"

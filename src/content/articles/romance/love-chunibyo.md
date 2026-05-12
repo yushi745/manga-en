@@ -1,6 +1,7 @@
 ---
 title: "Love, Chunibyo & Other Delusions Review: Middle School Fantasy Refuses to Die"
 slug: "love-chunibyo"
+coverImage: "/covers/love-chunibyo.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Love, Chunibyo & Other Delusions"

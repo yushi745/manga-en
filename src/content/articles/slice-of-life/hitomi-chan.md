@@ -1,6 +1,7 @@
 ---
 title: "Hitomi-chan Is Shy With Strangers Review"
 slug: "hitomi-chan"
+coverImage: "/covers/hitomi-chan.jpg"
 genre: "Romance / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Hitomi-chan Is Shy With Strangers"

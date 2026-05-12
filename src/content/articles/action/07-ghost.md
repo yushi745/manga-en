@@ -1,6 +1,7 @@
 ---
 title: "07-Ghost Review: A Former Military Slave Discovers He Is the Target of a God and the Heir to a Kingdom"
 slug: "07-ghost"
+coverImage: "/covers/07-ghost.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "07-Ghost"

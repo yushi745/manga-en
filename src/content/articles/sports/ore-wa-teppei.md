@@ -1,6 +1,7 @@
 ---
 title: "Ore wa Teppei Review: The Judo Manga Where the Wild Kid Became the Disciplined Champion"
 slug: "ore-wa-teppei"
+coverImage: "/covers/ore-wa-teppei.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Ore wa Teppei"

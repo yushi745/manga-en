@@ -1,6 +1,7 @@
 ---
 title: "Marmalade Boy Little Review: The Next Generation of Complicated Family Feelings"
 slug: "marmalade-boy-little"
+coverImage: "/covers/marmalade-boy-little.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Marmalade Boy Little"

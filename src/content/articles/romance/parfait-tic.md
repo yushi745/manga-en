@@ -1,6 +1,7 @@
 ---
 title: "Parfait Tic! Review: A Long-Running Shojo Love Triangle With Genuine Emotional Stakes"
 slug: "parfait-tic"
+coverImage: "/covers/parfait-tic.jpg"
 genre: "Romance / Shojo"
 genreSlug: "romance"
 mangaTitle: "Parfait Tic!"

@@ -1,6 +1,7 @@
 ---
 title: "Midori Days Review: He Wanted a Girlfriend. He Got One. In His Right Hand."
 slug: "midori-days"
+coverImage: "/covers/midori-days.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Midori Days"
