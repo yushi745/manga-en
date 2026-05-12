@@ -1,6 +1,7 @@
 ---
 title: "Silver Fang Review: The Dog Who Led an Army to Defeat a Bear God"
 slug: "ginga-nagareboshi-gin"
+coverImage: "/covers/ginga-nagareboshi-gin.jpg"
 genre: "Action / Adventure"
 genreSlug: "action"
 mangaTitle: "Silver Fang"

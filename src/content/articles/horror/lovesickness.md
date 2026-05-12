@@ -1,6 +1,7 @@
 ---
 title: "Lovesickness: Junji Ito Story Collection Review"
 slug: "lovesickness"
+coverImage: "/covers/lovesickness.jpg"
 genre: "Horror / Supernatural"
 genreSlug: "horror"
 mangaTitle: "Lovesickness: Junji Ito Story Collection"

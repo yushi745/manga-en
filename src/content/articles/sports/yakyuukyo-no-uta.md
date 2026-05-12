@@ -1,6 +1,7 @@
 ---
 title: "Yakyuukyo no Uta Review: The Baseball Manga That Gave the Diamond to a Woman Who Was Never Supposed to Be There"
 slug: "yakyuukyo-no-uta"
+coverImage: "/covers/yakyuukyo-no-uta.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Yakyuukyo no Uta"

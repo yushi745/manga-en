@@ -1,6 +1,7 @@
 ---
 title: "When Supernatural Battles Became Commonplace Review: Powers That Change Nothing"
 slug: "supernatural-battles"
+coverImage: "/covers/supernatural-battles.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "When Supernatural Battles Became Commonplace"

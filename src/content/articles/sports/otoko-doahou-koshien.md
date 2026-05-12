@@ -1,6 +1,7 @@
 ---
 title: "Otoko Doahou Koshien Review: The Baseball Manga That Made Stubbornness Into Genius"
 slug: "otoko-doahou-koshien"
+coverImage: "/covers/otoko-doahou-koshien.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Otoko Doahou Koshien"

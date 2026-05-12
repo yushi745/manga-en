@@ -1,6 +1,7 @@
 ---
 title: "The Liminal Zone: Junji Ito Review"
 slug: "the-liminal-zone"
+coverImage: "/covers/the-liminal-zone.jpg"
 genre: "Horror / Supernatural"
 genreSlug: "horror"
 mangaTitle: "The Liminal Zone"

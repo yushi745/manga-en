@@ -1,6 +1,7 @@
 ---
 title: "Ore no Sora Review: The Manga Where One Man Beat Every Establishment He Entered"
 slug: "ore-no-sora"
+coverImage: "/covers/ore-no-sora.jpg"
 genre: "Action / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Ore no Sora"

@@ -1,6 +1,7 @@
 ---
 title: "Hidamari Sketch Review: Art School Girls in a Tiny Apartment Building, Living a Life That Is Mostly Very Good"
 slug: "hidamari-sketch"
+coverImage: "/covers/hidamari-sketch.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Hidamari Sketch"

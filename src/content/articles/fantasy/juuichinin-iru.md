@@ -1,6 +1,7 @@
 ---
 title: "11 Robots Review: The Sci-Fi Mystery That Trapped Eleven People in Space"
 slug: "juuichinin-iru"
+coverImage: "/covers/juuichinin-iru.jpg"
 genre: "Sci-Fi / Mystery"
 genreSlug: "fantasy"
 mangaTitle: "11 Robots"

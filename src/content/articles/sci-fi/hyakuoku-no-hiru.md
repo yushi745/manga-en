@@ -1,6 +1,7 @@
 ---
 title: "Hyakuoku no Hiru to Senoku no Yoru Review: The SF Manga That Asked What Remains When God Dies"
 slug: "hyakuoku-no-hiru"
+coverImage: "/covers/hyakuoku-no-hiru.jpg"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Hyakuoku no Hiru to Senoku no Yoru"

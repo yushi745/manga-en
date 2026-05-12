@@ -1,6 +1,7 @@
 ---
 title: "Asteroid in Love Review: Two Girls Who Promised to Name a Star Find Each Other Again"
 slug: "asteroid-in-love"
+coverImage: "/covers/asteroid-in-love.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Asteroid in Love"

@@ -1,6 +1,7 @@
 ---
 title: "Futari Ecchi Review: The Newlywed Manga That Treated Sexual Education as a Love Story"
 slug: "futari-ecchi"
+coverImage: "/covers/futari-ecchi.jpg"
 genre: "Romance / Adult"
 genreSlug: "romance"
 mangaTitle: "Futari Ecchi"

@@ -1,6 +1,7 @@
 ---
 title: "Submarine 707 Review: The Submarine Manga That Made the Ocean a Battlefield"
 slug: "submarine-707"
+coverImage: "/covers/submarine-707.jpg"
 genre: "Action / Adventure"
 genreSlug: "sports"
 mangaTitle: "Submarine 707"

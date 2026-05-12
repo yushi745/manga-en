@@ -1,6 +1,7 @@
 ---
 title: "Tondemo-kun Review: The Delinquent Comedy That Made Stupid Feel Like Strategy"
 slug: "tondemo-kun"
+coverImage: "/covers/tondemo-kun.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Tondemo-kun"

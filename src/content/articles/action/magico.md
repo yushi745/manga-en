@@ -1,6 +1,7 @@
 ---
 title: "Magico Review: A Powerful Mage Must Perform Wedding Rituals to Prevent His New Wife From Destroying the World"
 slug: "magico"
+coverImage: "/covers/magico.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Magico"

@@ -1,6 +1,7 @@
 ---
 title: "Sakura Hime Kaden Review: A Princess With the Power to Destroy Everything She Loves"
 slug: "sakura-hime-kaden"
+coverImage: "/covers/sakura-hime-kaden.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Sakura Hime: The Legend of Princess Sakura"

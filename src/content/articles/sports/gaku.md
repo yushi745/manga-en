@@ -1,6 +1,7 @@
 ---
 title: "Gaku: Minna no Yama Review: The Mountain Rescue Manga That Will Change How You See Mountains"
 slug: "gaku"
+coverImage: "/covers/gaku.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Gaku: Minna no Yama"

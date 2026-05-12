@@ -1,6 +1,7 @@
 ---
 title: "Chameleon Review: The Wannabe Delinquent Who Kept Pretending to Be Tougher Than He Was"
 slug: "chameleon"
+coverImage: "/covers/chameleon.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Chameleon"

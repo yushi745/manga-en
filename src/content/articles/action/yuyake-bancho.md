@@ -1,6 +1,7 @@
 ---
 title: "Yuyake Bancho Review: The Delinquent Manga That Made Sunset Mean Something"
 slug: "yuyake-bancho"
+coverImage: "/covers/yuyake-bancho.jpg"
 genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Yuyake Bancho"

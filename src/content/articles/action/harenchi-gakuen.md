@@ -1,6 +1,7 @@
 ---
 title: "Harenchi Gakuen Review: The Manga That Scandalized Japan and Invented the Ecchi Genre"
 slug: "harenchi-gakuen"
+coverImage: "/covers/harenchi-gakuen.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Harenchi Gakuen"

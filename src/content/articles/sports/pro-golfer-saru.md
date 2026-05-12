@@ -1,6 +1,7 @@
 ---
 title: "Pro Golfer Saru Review: The Boy Who Made Golf the Most Exciting Sport in Manga"
 slug: "pro-golfer-saru"
+coverImage: "/covers/pro-golfer-saru.jpg"
 genre: "Sports / Adventure"
 genreSlug: "sports"
 mangaTitle: "Pro Golfer Saru"

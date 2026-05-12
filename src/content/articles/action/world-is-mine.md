@@ -1,6 +1,7 @@
 ---
 title: "The World Is Mine Review: The Crime Manga That Made Violence Feel Inevitable"
 slug: "world-is-mine"
+coverImage: "/covers/world-is-mine.jpg"
 genre: "Action / Crime"
 genreSlug: "action"
 mangaTitle: "The World Is Mine"

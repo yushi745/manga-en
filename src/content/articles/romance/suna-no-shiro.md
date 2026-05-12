@@ -1,6 +1,7 @@
 ---
 title: "Suna no Shiro Review: The Romance Manga Where Beauty Was a Trap and Love Was the Only Escape"
 slug: "suna-no-shiro"
+coverImage: "/covers/suna-no-shiro.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Suna no Shiro"

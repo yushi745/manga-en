@@ -1,6 +1,7 @@
 ---
 title: "Kotaro Makaritoru Review: The Martial Arts Comedy That Ran for 25 Years"
 slug: "kotaro-makaritoru"
+coverImage: "/covers/kotaro-makaritoru.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Kotaro Makaritoru"

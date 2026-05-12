@@ -1,6 +1,7 @@
 ---
 title: "Nante Suteki ni Japonesque Review: The Heian Romance That Made the Imperial Court Feel Like an Adventure"
 slug: "japonesque"
+coverImage: "/covers/japonesque.jpg"
 genre: "Romance / Historical"
 genreSlug: "romance"
 mangaTitle: "Nante Suteki ni Japonesque"

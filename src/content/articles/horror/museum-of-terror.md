@@ -1,6 +1,7 @@
 ---
 title: "Museum of Terror: Junji Ito Review"
 slug: "museum-of-terror"
+coverImage: "/covers/museum-of-terror.jpg"
 genre: "Horror / Supernatural"
 genreSlug: "horror"
 mangaTitle: "Museum of Terror"

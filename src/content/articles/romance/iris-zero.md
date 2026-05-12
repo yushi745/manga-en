@@ -1,6 +1,7 @@
 ---
 title: "Iris Zero Review: In a World Where Everyone Has a Special Eye Power, One Boy Has Nothing"
 slug: "iris-zero"
+coverImage: "/covers/iris-zero.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Iris Zero"

@@ -1,6 +1,7 @@
 ---
 title: "Rumic World Review: Rumiko Takahashi's Short Story Collection"
 slug: "rumic-world"
+coverImage: "/covers/rumic-world.jpg"
 genre: "Drama / Slice-of-Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Rumic World"

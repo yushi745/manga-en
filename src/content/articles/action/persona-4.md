@@ -1,6 +1,7 @@
 ---
 title: "Persona 4 Review: The Game's Manga — and Why the Friendships Hit Even Harder in Print"
 slug: "persona-4"
+coverImage: "/covers/persona-4.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Persona 4"

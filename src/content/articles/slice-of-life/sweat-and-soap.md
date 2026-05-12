@@ -1,6 +1,7 @@
 ---
 title: "Sweat and Soap Review: A Man Who Loves Scent Falls for the Woman Whose Sweat Smells Perfect to Him"
 slug: "sweat-and-soap"
+coverImage: "/covers/sweat-and-soap.jpg"
 genre: "Slice of Life / Romance"
 genreSlug: "slice-of-life"
 mangaTitle: "Sweat and Soap"

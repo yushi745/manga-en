@@ -1,6 +1,7 @@
 ---
 title: "Battle Vixens Review: Romance of the Three Kingdoms, But Ecchi"
 slug: "battle-vixens"
+coverImage: "/covers/battle-vixens.jpg"
 genre: "Action"
 genreSlug: "action"
 mangaTitle: "Battle Vixens"

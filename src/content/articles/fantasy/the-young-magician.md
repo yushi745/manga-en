@@ -1,6 +1,7 @@
 ---
 title: "The Young Magician Review: A Boy With Extraordinary Power and No Understanding of What It Will Cost Him"
 slug: "the-young-magician"
+coverImage: "/covers/the-young-magician.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "The Young Magician"

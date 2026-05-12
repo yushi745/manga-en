@@ -1,6 +1,7 @@
 ---
 title: "Worst Review: The Sequel That Made Suzuran's Legend Even Bigger"
 slug: "worst"
+coverImage: "/covers/worst.jpg"
 genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Worst"

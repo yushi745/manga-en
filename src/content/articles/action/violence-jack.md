@@ -1,6 +1,7 @@
 ---
 title: "Violence Jack Review: Go Nagai's Bleakest Post-Apocalyptic Epic"
 slug: "violence-jack"
+coverImage: "/covers/violence-jack.jpg"
 genre: "Action / Horror"
 genreSlug: "action"
 mangaTitle: "Violence Jack"

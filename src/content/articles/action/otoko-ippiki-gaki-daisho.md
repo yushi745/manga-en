@@ -1,6 +1,7 @@
 ---
 title: "Otoko Ippiki Gaki Daisho Review: The Delinquent Who Conquered Japan One Town at a Time"
 slug: "otoko-ippiki-gaki-daisho"
+coverImage: "/covers/otoko-ippiki-gaki-daisho.jpg"
 genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Otoko Ippiki Gaki Daisho"

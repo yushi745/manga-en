@@ -1,6 +1,7 @@
 ---
 title: "Gravitation EX Review: The Band, the Love, and the Chaos Continue in a New Chapter"
 slug: "gravitation-ex"
+coverImage: "/covers/gravitation-ex.jpg"
 genre: "Romance / Music"
 genreSlug: "romance"
 mangaTitle: "Gravitation EX"

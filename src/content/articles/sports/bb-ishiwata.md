@@ -1,6 +1,7 @@
 ---
 title: "B.B. Review: The Boxing Manga That Made Becoming a Boxer the Whole Question"
 slug: "bb-ishiwata"
+coverImage: "/covers/bb-ishiwata.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "B.B."

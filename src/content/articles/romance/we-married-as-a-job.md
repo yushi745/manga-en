@@ -1,6 +1,7 @@
 ---
 title: "We Married as a Job! Review: A Contract Marriage That Sneaks Up on Your Heart"
 slug: "we-married-as-a-job"
+coverImage: "/covers/we-married-as-a-job.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "We Married as a Job!"

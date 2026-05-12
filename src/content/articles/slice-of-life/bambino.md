@@ -1,6 +1,7 @@
 ---
 title: "Bambino Review: Italian Kitchen Realism in Tokyo"
 slug: "bambino"
+coverImage: "/covers/bambino.jpg"
 genre: "Cooking / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Bambino!"

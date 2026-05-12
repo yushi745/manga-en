@@ -1,6 +1,7 @@
 ---
 title: "Kamikaze Girls Review: A Lolita and a Yankii Walk Into an Unlikely Friendship and Neither of Them Expected It"
 slug: "kamikaze-girls"
+coverImage: "/covers/kamikaze-girls.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Kamikaze Girls"

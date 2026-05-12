@@ -1,6 +1,7 @@
 ---
 title: "Cobra Review: The Space Pirate Who Made Cool an Art Form"
 slug: "cobra"
+coverImage: "/covers/cobra.jpg"
 genre: "Action / Sci-Fi"
 genreSlug: "action"
 mangaTitle: "Cobra"

@@ -1,6 +1,7 @@
 ---
 title: "The One Review: Two Identical Twins, One Modeling World, Zero Simple Answers About Identity"
 slug: "the-one"
+coverImage: "/covers/the-one.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "The One"

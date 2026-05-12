@@ -1,6 +1,7 @@
 ---
 title: "Le Chevalier D'Eon Review: Versailles, Demons, and a Secret That Changes Who Gets to Exist"
 slug: "le-chevalier-deon"
+coverImage: "/covers/le-chevalier-deon.jpg"
 genre: "Fantasy / Historical"
 genreSlug: "fantasy"
 mangaTitle: "Le Chevalier D'Eon"

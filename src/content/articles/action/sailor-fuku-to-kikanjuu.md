@@ -1,6 +1,7 @@
 ---
 title: "Sailor Fuku to Kikanjuu Review: The Schoolgirl-Yakuza Manga That Owned Its Own Absurdity"
 slug: "sailor-fuku-to-kikanjuu"
+coverImage: "/covers/sailor-fuku-to-kikanjuu.jpg"
 genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Sailor Fuku to Kikanjuu"

@@ -1,6 +1,7 @@
 ---
 title: "Tsurune Review: A Boy Who Lost His Shot Comes Back to Archery and Learns to Release Again"
 slug: "tsurune"
+coverImage: "/covers/tsurune.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Tsurune"

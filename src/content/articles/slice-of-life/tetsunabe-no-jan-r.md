@@ -1,6 +1,7 @@
 ---
 title: "Tetsunabe no Jan R Review: The Sequel That Brought the Cooking Villain Back Without Apology"
 slug: "tetsunabe-no-jan-r"
+coverImage: "/covers/tetsunabe-no-jan-r.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Tetsunabe no Jan R"

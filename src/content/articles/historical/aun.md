@@ -1,6 +1,7 @@
 ---
 title: "Aun Review: The Buddhist Historical Manga That Made Faith Into Action"
 slug: "aun"
+coverImage: "/covers/aun.jpg"
 genre: "Historical / Drama"
 genreSlug: "historical"
 mangaTitle: "Aun"

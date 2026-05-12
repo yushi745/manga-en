@@ -1,6 +1,7 @@
 ---
 title: "Wataru ga Pyun! Review: The Baseball Manga Where the Hero Was Faster Than the Plot Could Catch"
 slug: "wataru-ga-pyun"
+coverImage: "/covers/wataru-ga-pyun.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Wataru ga Pyun!"

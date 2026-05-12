@@ -1,6 +1,7 @@
 ---
 title: "Love Mode Review: The Host Club's Most Popular Employee Isn't Who Anyone Thinks He Is"
 slug: "love-mode"
+coverImage: "/covers/love-mode.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Love Mode"

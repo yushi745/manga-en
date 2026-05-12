@@ -1,6 +1,7 @@
 ---
 title: "Gorillaman Review: The Delinquent Manga Where the Most Intimidating Guy in School Just Wanted to Be Left Alone"
 slug: "gorillaman"
+coverImage: "/covers/gorillaman.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Gorillaman"

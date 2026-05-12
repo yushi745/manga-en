@@ -1,6 +1,7 @@
 ---
 title: "Mixed Vegetables Review: Two People Who Want Each Other's Lives and End Up Wanting Each Other"
 slug: "mixed-vegetables"
+coverImage: "/covers/mixed-vegetables.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Mixed Vegetables"

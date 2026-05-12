@@ -1,6 +1,7 @@
 ---
 title: "Eden It's an Endless World Review: Cyberpunk Without Compromise"
 slug: "eden-its-an-endless-world"
+coverImage: "/covers/eden-its-an-endless-world.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Eden: It's an Endless World!"

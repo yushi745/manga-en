@@ -1,6 +1,7 @@
 ---
 title: "Buzzer Beater Review"
 slug: "buzzer-beater"
+coverImage: "/covers/buzzer-beater.jpg"
 genre: "Sports / Sci-Fi"
 genreSlug: "sports"
 mangaTitle: "Buzzer Beater"

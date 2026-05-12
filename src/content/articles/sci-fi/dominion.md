@@ -1,6 +1,7 @@
 ---
 title: "Dominion Review: Masamune Shirow's Gleefully Chaotic Tank Police Manga"
 slug: "dominion"
+coverImage: "/covers/dominion.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Dominion"

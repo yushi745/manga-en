@@ -1,6 +1,7 @@
 ---
 title: "Ladies versus Butlers! Review: A Delinquent-Faced Boy Enrolls in an Elite School's Butler Course and Navigates Two Rival Girls Who Both Have Designs on Him"
 slug: "ladies-versus-butlers"
+coverImage: "/covers/ladies-versus-butlers.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Ladies versus Butlers!"

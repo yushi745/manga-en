@@ -1,6 +1,7 @@
 ---
 title: "The World of Narue Review: The Alien Girlfriend Who Is Entirely Too Earnest About Everything"
 slug: "narue-no-sekai"
+coverImage: "/covers/narue-no-sekai.jpg"
 genre: "Romance / Sci-Fi"
 genreSlug: "romance"
 mangaTitle: "The World of Narue"

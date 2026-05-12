@@ -1,6 +1,7 @@
 ---
 title: "Tensai Bakabon Review: The Manga That Made Nonsense Into Philosophy"
 slug: "tensai-bakabon"
+coverImage: "/covers/tensai-bakabon.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Tensai Bakabon"

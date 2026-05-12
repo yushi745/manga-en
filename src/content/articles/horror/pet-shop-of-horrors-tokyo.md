@@ -1,6 +1,7 @@
 ---
 title: "Pet Shop of Horrors: Tokyo Review"
 slug: "pet-shop-of-horrors-tokyo"
+coverImage: "/covers/pet-shop-of-horrors-tokyo.jpg"
 genre: "Horror / Supernatural"
 genreSlug: "horror"
 mangaTitle: "Pet Shop of Horrors: Tokyo"

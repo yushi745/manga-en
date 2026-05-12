@@ -1,6 +1,7 @@
 ---
 title: "Shojo Fight Review: The Volleyball Manga That Refused to Make Its Protagonist Likeable Right Away"
 slug: "shojo-fight"
+coverImage: "/covers/shojo-fight.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Shojo Fight"

@@ -1,6 +1,7 @@
 ---
 title: "3x3 Eyes Review: An Immortal Boy and the Last of Her Kind"
 slug: "3x3-eyes"
+coverImage: "/covers/3x3-eyes.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "3x3 Eyes"

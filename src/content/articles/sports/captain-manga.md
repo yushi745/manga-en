@@ -1,6 +1,7 @@
 ---
 title: "Captain Review: The Baseball Manga About Leading Without Being the Best"
 slug: "captain-manga"
+coverImage: "/covers/captain-manga.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Captain"

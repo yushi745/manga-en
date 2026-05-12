@@ -1,6 +1,7 @@
 ---
 title: "Pretty Face Review: The Body-Swap Premise That's Kinder Than It Has Any Right to Be"
 slug: "pretty-face"
+coverImage: "/covers/pretty-face.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Pretty Face"

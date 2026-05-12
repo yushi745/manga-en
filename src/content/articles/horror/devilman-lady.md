@@ -1,6 +1,7 @@
 ---
 title: "Devilman Lady Review: Go Nagai Goes Even Bleaker"
 slug: "devilman-lady"
+coverImage: "/covers/devilman-lady.jpg"
 genre: "Horror / Action"
 genreSlug: "horror"
 mangaTitle: "Devilman Lady"

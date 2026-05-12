@@ -1,6 +1,7 @@
 ---
 title: "Tsubasa: Spring Thunder Review: The Story That Closes What the Main Series Left Open"
 slug: "tsubasa-spring-thunder"
+coverImage: "/covers/tsubasa-spring-thunder.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Tsubasa: WoRLD CHRoNiCLE – Nirai Kanai-Hen"

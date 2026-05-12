@@ -1,6 +1,7 @@
 ---
 title: "Tiger Mask Review: The Villain Who Turned Good and Couldn't Turn Back"
 slug: "tiger-mask"
+coverImage: "/covers/tiger-mask.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Tiger Mask"

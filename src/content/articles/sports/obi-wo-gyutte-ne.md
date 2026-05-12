@@ -1,6 +1,7 @@
 ---
 title: "Obi wo Gyutto ne! Review: The Judo Manga That Made the Mat Feel Like a Battlefield and a Love Letter"
 slug: "obi-wo-gyutte-ne"
+coverImage: "/covers/obi-wo-gyutte-ne.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Obi wo Gyutto ne!"

@@ -1,6 +1,7 @@
 ---
 title: "Wild 7 Review: The Vigilante Police Squad That Fights Crime Outside the Law"
 slug: "wild-7"
+coverImage: "/covers/wild-7.jpg"
 genre: "Action / Crime"
 genreSlug: "action"
 mangaTitle: "Wild 7"

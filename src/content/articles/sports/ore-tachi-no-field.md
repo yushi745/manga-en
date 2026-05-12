@@ -1,6 +1,7 @@
 ---
 title: "Ore-tachi no Field Review: The Soccer Manga That Grew Up With the J-League"
 slug: "ore-tachi-no-field"
+coverImage: "/covers/ore-tachi-no-field.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Ore-tachi no Field"

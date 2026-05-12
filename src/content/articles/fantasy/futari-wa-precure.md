@@ -1,6 +1,7 @@
 ---
 title: "Futari wa Pretty Cure Review: The Magical Girl Duo That Fought With Their Fists First"
 slug: "futari-wa-precure"
+coverImage: "/covers/futari-wa-precure.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Futari wa Pretty Cure"

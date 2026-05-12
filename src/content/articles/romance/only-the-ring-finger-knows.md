@@ -1,6 +1,7 @@
 ---
 title: "Only the Ring Finger Knows Review: Matching Rings, Misunderstandings, and One Very Slow Burn"
 slug: "only-the-ring-finger-knows"
+coverImage: "/covers/only-the-ring-finger-knows.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Only the Ring Finger Knows"

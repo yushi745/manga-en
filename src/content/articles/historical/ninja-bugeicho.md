@@ -1,6 +1,7 @@
 ---
 title: "Ninja Bugeicho Review: The Black-and-White Manga That Changed What Comics Could Say"
 slug: "ninja-bugeicho"
+coverImage: "/covers/ninja-bugeicho.jpg"
 genre: "Historical / Action"
 genreSlug: "historical"
 mangaTitle: "Ninja Bugeicho"

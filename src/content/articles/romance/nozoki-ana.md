@@ -1,6 +1,7 @@
 ---
 title: "Nozoki Ana Review: A Peephole, an Agreement, and the Relationship That Grows From an Impossible Start"
 slug: "nozoki-ana"
+coverImage: "/covers/nozoki-ana.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Nozoki Ana"

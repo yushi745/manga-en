@@ -1,6 +1,7 @@
 ---
 title: "The Pumpkin Wine Review: The School Comedy Where Love Was a Disaster Every Week"
 slug: "the-pumpkin-wine"
+coverImage: "/covers/the-pumpkin-wine.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "The Pumpkin Wine"

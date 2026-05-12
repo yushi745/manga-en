@@ -1,6 +1,7 @@
 ---
 title: "Tokyo Boys & Girls Review: Four People, One Shared Past, and the Specific Mess That Follows"
 slug: "tokyo-boys-girls"
+coverImage: "/covers/tokyo-boys-girls.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Tokyo Boys & Girls"

@@ -1,6 +1,7 @@
 ---
 title: "Namaikizakari Review: The Basketball Romance Where the Boy Is Shamelessly Forward"
 slug: "namaikizakari"
+coverImage: "/covers/namaikizakari.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Namaikizakari"

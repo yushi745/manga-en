@@ -1,6 +1,7 @@
 ---
 title: "Kyojin no Hoshi Review: The Baseball Manga That Made Suffering Into Spectacle"
 slug: "kyojin-no-hoshi"
+coverImage: "/covers/kyojin-no-hoshi.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Kyojin no Hoshi"

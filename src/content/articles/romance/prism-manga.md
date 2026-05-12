@@ -1,6 +1,7 @@
 ---
 title: "Prism Review: Identical Twins, Switched Lives, and the Feelings That Survive the Confusion"
 slug: "prism-manga"
+coverImage: "/covers/prism-manga.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Prism"

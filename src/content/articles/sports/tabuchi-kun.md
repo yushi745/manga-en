@@ -1,6 +1,7 @@
 ---
 title: "Ganbare!! Tabuchi-kun!! Review: The Baseball Player Who Became a 4-Koma Legend"
 slug: "tabuchi-kun"
+coverImage: "/covers/tabuchi-kun.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Ganbare!! Tabuchi-kun!!"

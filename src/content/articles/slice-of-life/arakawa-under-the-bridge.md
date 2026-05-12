@@ -1,6 +1,7 @@
 ---
 title: "Arakawa Under the Bridge Review: The Comedy About the People Under the Bridge Who Changed My Life"
 slug: "arakawa-under-the-bridge"
+coverImage: "/covers/arakawa-under-the-bridge.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Arakawa Under the Bridge"

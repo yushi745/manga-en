@@ -1,6 +1,7 @@
 ---
 title: "Eko Eko Azarak Review: The Witch Who Doesn't Save Anyone"
 slug: "eko-eko-azarak"
+coverImage: "/covers/eko-eko-azarak.jpg"
 genre: "Horror / Action"
 genreSlug: "action"
 mangaTitle: "Eko Eko Azarak"

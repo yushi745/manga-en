@@ -1,6 +1,7 @@
 ---
 title: "Crescent Moon Review: A Girl Who Discovers Her Magical Heritage and the Demon Who Hates That She Exists"
 slug: "crescent-moon"
+coverImage: "/covers/crescent-moon.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Crescent Moon"

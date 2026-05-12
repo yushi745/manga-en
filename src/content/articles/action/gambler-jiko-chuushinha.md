@@ -1,6 +1,7 @@
 ---
 title: "Gambler Jiko Chuushinha Review: The Mahjong Comedy That Made the Player Funny Without Making the Game Easy"
 slug: "gambler-jiko-chuushinha"
+coverImage: "/covers/gambler-jiko-chuushinha.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Gambler Jiko Chuushinha"

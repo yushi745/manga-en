@@ -1,6 +1,7 @@
 ---
 title: "Hana no Keiji Review: The Samurai Who Chose Beauty Over Loyalty"
 slug: "hana-no-keiji"
+coverImage: "/covers/hana-no-keiji.jpg"
 genre: "Historical / Action"
 genreSlug: "historical"
 mangaTitle: "Hana no Keiji"

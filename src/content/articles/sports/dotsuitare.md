@@ -1,6 +1,7 @@
 ---
 title: "Dotsuitare Review: The Boxing Manga That Hit as Hard as Its Title Promised"
 slug: "dotsuitare"
+coverImage: "/covers/dotsuitare.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Dotsuitare"

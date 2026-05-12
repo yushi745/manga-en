@@ -1,6 +1,7 @@
 ---
 title: "Haruka 17 Review: The Idol Manga That Wasn't About Becoming Famous, It Was About Becoming Real"
 slug: "haruka-17"
+coverImage: "/covers/haruka-17.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Haruka 17"

@@ -1,6 +1,7 @@
 ---
 title: "Angel Bank Review: The Career Manga That Asks What Work Is Actually For"
 slug: "angel-bank"
+coverImage: "/covers/angel-bank.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Angel Bank: Tenshoku Dairi-nin"

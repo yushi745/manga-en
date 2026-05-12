@@ -1,6 +1,7 @@
 ---
 title: "Taisho Baseball Girls Review: Nine Girls Challenge the Boys to a Game in 1920s Japan"
 slug: "taisho-baseball-girls"
+coverImage: "/covers/taisho-baseball-girls.jpg"
 genre: "Sports / Historical"
 genreSlug: "sports"
 mangaTitle: "Taisho Baseball Girls"

@@ -1,6 +1,7 @@
 ---
 title: "Yankee-kun to Megane-chan Review: The Delinquent and the Class Rep Who Were Both Wrong About Each Other"
 slug: "yankee-kun-megane-chan"
+coverImage: "/covers/yankee-kun-megane-chan.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Yankee-kun to Megane-chan"

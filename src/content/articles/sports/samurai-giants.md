@@ -1,6 +1,7 @@
 ---
 title: "Samurai Giants Review: The Pitcher Whose Fire Came From Everything He Had Left to Lose"
 slug: "samurai-giants"
+coverImage: "/covers/samurai-giants.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Samurai Giants"

@@ -1,6 +1,7 @@
 ---
 title: "Dokaben Pro Yakyuhen Review: What Happens to the Heroes After the Tournament Ends"
 slug: "dokaben-pro-yakyuhen"
+coverImage: "/covers/dokaben-pro-yakyuhen.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Dokaben Pro Yakyuhen"

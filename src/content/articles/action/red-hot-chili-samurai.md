@@ -1,6 +1,7 @@
 ---
 title: "Red Hot Chili Samurai Review: A Samurai Who Runs on Spicy Food and Has No Business Being This Effective"
 slug: "red-hot-chili-samurai"
+coverImage: "/covers/red-hot-chili-samurai.jpg"
 genre: "Action / Comedy"
 genreSlug: "action"
 mangaTitle: "Red Hot Chili Samurai"

@@ -1,6 +1,7 @@
 ---
 title: "Peacock King Review: The Exorcist Manga That Made Buddhist Mythology Look This Cool"
 slug: "peacock-king"
+coverImage: "/covers/peacock-king.jpg"
 genre: "Action / Horror"
 genreSlug: "action"
 mangaTitle: "Peacock King"

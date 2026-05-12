@@ -1,6 +1,7 @@
 ---
 title: "Crayon Days Review: Mio Chizuru's Quiet Drama of Adolescence"
 slug: "crayon-days"
+coverImage: "/covers/crayon-days.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Crayon Days"

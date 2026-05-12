@@ -1,6 +1,7 @@
 ---
 title: "Over Drive Review: The Cycling Manga That Got the Sport Right Before the Boom"
 slug: "over-drive"
+coverImage: "/covers/over-drive.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Over Drive"

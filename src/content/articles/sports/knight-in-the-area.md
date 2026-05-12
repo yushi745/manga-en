@@ -1,6 +1,7 @@
 ---
 title: "Knight in the Area Review: A Soccer Prodigy's Brother Teaches Him That Hard Work Can Rival Raw Talent"
 slug: "knight-in-the-area"
+coverImage: "/covers/knight-in-the-area.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Knight in the Area"

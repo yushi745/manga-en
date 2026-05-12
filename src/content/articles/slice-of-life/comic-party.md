@@ -1,6 +1,7 @@
 ---
 title: "Comic Party Review: Making Doujinshi at Comiket Turns Out to Be Harder Than Falling in Love"
 slug: "comic-party"
+coverImage: "/covers/comic-party.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Comic Party"

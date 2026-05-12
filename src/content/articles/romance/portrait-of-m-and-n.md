@@ -1,6 +1,7 @@
 ---
 title: "Portrait of M & N Review: The Manga Where the Punchline Is Also the Point"
 slug: "portrait-of-m-and-n"
+coverImage: "/covers/portrait-of-m-and-n.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Portrait of M & N"

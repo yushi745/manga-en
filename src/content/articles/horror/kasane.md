@@ -1,6 +1,7 @@
 ---
 title: "Kasane Review: The Manga About Beauty as Theft, and What Theft Costs"
 slug: "kasane"
+coverImage: "/covers/kasane.jpg"
 genre: "Horror / Drama"
 genreSlug: "horror"
 mangaTitle: "Kasane"

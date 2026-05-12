@@ -1,6 +1,7 @@
 ---
 title: "Hyouge Mono Review: The Samurai Who Fought Wars Over Tea Bowls"
 slug: "hyouge-mono"
+coverImage: "/covers/hyouge-mono.jpg"
 genre: "Historical / Drama"
 genreSlug: "historical"
 mangaTitle: "Hyouge Mono"

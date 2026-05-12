@@ -1,6 +1,7 @@
 ---
 title: "Isekai Izakaya Review: The Fantasy World That Just Wants a Good Drink and an Honest Meal"
 slug: "isekai-izakaya"
+coverImage: "/covers/isekai-izakaya.jpg"
 genre: "Slice of Life / Fantasy"
 genreSlug: "slice-of-life"
 mangaTitle: "Isekai Izakaya: Japanese Food From Another World"

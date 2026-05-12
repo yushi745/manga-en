@@ -1,6 +1,7 @@
 ---
 title: "Taisho Otome Fairy Tale Review: A Sickly Nobleman's Son Is Sent a Wife He Didn't Know Was Coming"
 slug: "taisho-otome-fairy-tale"
+coverImage: "/covers/taisho-otome-fairy-tale.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Taisho Otome Fairy Tale"

@@ -1,6 +1,7 @@
 ---
 title: "Juvenile Orion Review: High School Students Awakening as Supernatural Warriors in an Ancient War"
 slug: "juvenile-orion"
+coverImage: "/covers/juvenile-orion.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Juvenile Orion"

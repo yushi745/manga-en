@@ -1,6 +1,7 @@
 ---
 title: "Kiss of the Rose Princess Review: She Has Four Knight Cards and Has to Kiss Them to Summon Their Power"
 slug: "kiss-of-the-rose-princess"
+coverImage: "/covers/kiss-of-the-rose-princess.jpg"
 genre: "Fantasy / Romance"
 genreSlug: "fantasy"
 mangaTitle: "Kiss of the Rose Princess"

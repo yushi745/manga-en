@@ -1,6 +1,7 @@
 ---
 title: "Shugo Chara!! Encore Review: A Short Perfect Coda to One of Shoujo's Best Series"
 slug: "shugo-chara-encore"
+coverImage: "/covers/shugo-chara-encore.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Shugo Chara!! Encore"

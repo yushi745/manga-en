@@ -1,6 +1,7 @@
 ---
 title: "Negima! Review: A 10-Year-Old Teacher With 31 Students and Zero Sense of Scale"
 slug: "negima"
+coverImage: "/covers/negima.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Negima!: Magister Negi Magi"

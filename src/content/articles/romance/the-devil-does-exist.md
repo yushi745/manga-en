@@ -1,6 +1,7 @@
 ---
 title: "The Devil Does Exist Review: The Bad Boy Next Door Was Supposed to Be the Villain"
 slug: "the-devil-does-exist"
+coverImage: "/covers/the-devil-does-exist.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "The Devil Does Exist"

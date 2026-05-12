@@ -1,6 +1,7 @@
 ---
 title: "Zero the Man of the Creation Review: The Master of Disguise Who Could Be Anyone and Chose to Be Himself"
 slug: "zero"
+coverImage: "/covers/zero.jpg"
 genre: "Action / Thriller"
 genreSlug: "action"
 mangaTitle: "Zero the Man of the Creation"

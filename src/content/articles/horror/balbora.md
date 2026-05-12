@@ -1,6 +1,7 @@
 ---
 title: "Balbora Review: Tezuka's Most Disturbing Portrait of Addiction and Art"
 slug: "balbora"
+coverImage: "/covers/balbora.jpg"
 genre: "Horror / Drama"
 genreSlug: "horror"
 mangaTitle: "Balbora"

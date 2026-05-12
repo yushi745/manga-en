@@ -1,6 +1,7 @@
 ---
 title: "Tokyo Mew Mew New Review: A New Generation Takes the Café, With All the Responsibility That Comes With It"
 slug: "tokyo-mew-mew-new"
+coverImage: "/covers/tokyo-mew-mew-new.jpg"
 genre: "Fantasy / Action"
 genreSlug: "fantasy"
 mangaTitle: "Tokyo Mew Mew new"

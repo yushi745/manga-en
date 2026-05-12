@@ -1,6 +1,7 @@
 ---
 title: "Wolfsmund Review: A Mountain Pass in Medieval Switzerland Controlled by a Merciless Bailiff Becomes History's Most Brutal Checkpoint"
 slug: "wolfsmund"
+coverImage: "/covers/wolfsmund.jpg"
 genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Wolfsmund"

@@ -1,6 +1,7 @@
 ---
 title: "Season of Blossom Review: High School Romance That Takes Grief Seriously"
 slug: "season-of-blossom"
+coverImage: "/covers/season-of-blossom.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Season of Blossom"

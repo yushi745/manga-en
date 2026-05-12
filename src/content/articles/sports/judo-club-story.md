@@ -1,6 +1,7 @@
 ---
 title: "Judo Club Story Review: The Reluctant Judoka Who Became the Best Anyway"
 slug: "judo-club-story"
+coverImage: "/covers/judo-club-story.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Judo Club Story"

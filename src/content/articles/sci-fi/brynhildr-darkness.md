@@ -1,6 +1,7 @@
 ---
 title: "Brynhildr in the Darkness Review: Girls Engineered as Weapons Escape a Laboratory and Are Hunted"
 slug: "brynhildr-darkness"
+coverImage: "/covers/brynhildr-darkness.jpg"
 genre: "Sci-Fi / Horror"
 genreSlug: "sci-fi"
 mangaTitle: "Brynhildr in the Darkness"

@@ -1,6 +1,7 @@
 ---
 title: "Ring ni Kakero 2 Review: The Boxing Sequel That Brought Hyper-Spectacle Back Without Pretending to Restraint"
 slug: "ring-ni-kakero-2"
+coverImage: "/covers/ring-ni-kakero-2.jpg"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Ring ni Kakero 2"

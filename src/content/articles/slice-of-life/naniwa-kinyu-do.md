@@ -1,6 +1,7 @@
 ---
 title: "Naniwa Kinyuudo Review: The Finance Manga That Made Loan Sharks the Heroes"
 slug: "naniwa-kinyu-do"
+coverImage: "/covers/naniwa-kinyu-do.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Naniwa Kinyuudo"

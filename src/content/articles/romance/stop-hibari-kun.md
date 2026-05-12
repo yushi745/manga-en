@@ -1,6 +1,7 @@
 ---
 title: "Stop!! Hibari-kun! Review: The Unfinished Manga That Finished Its Cultural Work Anyway"
 slug: "stop-hibari-kun"
+coverImage: "/covers/stop-hibari-kun.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Stop!! Hibari-kun!"

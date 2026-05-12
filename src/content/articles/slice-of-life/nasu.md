@@ -1,6 +1,7 @@
 ---
 title: "Nasu Review: The Short Stories That Made Vegetables Feel Like Life"
 slug: "nasu"
+coverImage: "/covers/nasu.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Nasu"

@@ -1,6 +1,7 @@
 ---
 title: "Fatal Fury Review: The Manga Adaptation That Punched Past the Game It Came From"
 slug: "fatal-fury"
+coverImage: "/covers/fatal-fury.jpg"
 genre: "Action"
 genreSlug: "action"
 mangaTitle: "Fatal Fury"

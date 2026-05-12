@@ -1,6 +1,7 @@
 ---
 title: "Ring ni Kakero Review: The Boxing Manga That Forgot Physics and Found Something Better"
 slug: "ring-ni-kakero"
+coverImage: "/covers/ring-ni-kakero.jpg"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Ring ni Kakero"

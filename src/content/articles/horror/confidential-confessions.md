@@ -1,6 +1,7 @@
 ---
 title: "Confidential Confessions Review: The Manga That Didn't Look Away"
 slug: "confidential-confessions"
+coverImage: "/covers/confidential-confessions.jpg"
 genre: "Horror / Drama"
 genreSlug: "horror"
 mangaTitle: "Confidential Confessions"

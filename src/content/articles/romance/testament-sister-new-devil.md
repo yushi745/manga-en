@@ -1,6 +1,7 @@
 ---
 title: "The Testament of Sister New Devil Review: A Demon Lord's Daughter and Her Succubus Companion Become a Boy's Stepsisters"
 slug: "testament-sister-new-devil"
+coverImage: "/covers/testament-sister-new-devil.jpg"
 genre: "Romance / Action"
 genreSlug: "romance"
 mangaTitle: "The Testament of Sister New Devil"

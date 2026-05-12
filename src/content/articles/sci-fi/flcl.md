@@ -1,6 +1,7 @@
 ---
 title: "FLCL Review: The Manga That's About Puberty, Even Though It Appears to Be About Robots"
 slug: "flcl"
+coverImage: "/covers/flcl.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "FLCL"

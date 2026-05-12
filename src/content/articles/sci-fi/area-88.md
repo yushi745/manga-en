@@ -1,6 +1,7 @@
 ---
 title: "Area 88 Review: A Japanese Pilot Trapped in a Desert War Fights to Survive Long Enough to Go Home"
 slug: "area-88"
+coverImage: "/covers/area-88.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Area 88"

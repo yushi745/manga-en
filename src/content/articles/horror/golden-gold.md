@@ -1,6 +1,7 @@
 ---
 title: "Golden Gold Review: The Horror Manga About What Luck Actually Costs"
 slug: "golden-gold"
+coverImage: "/covers/golden-gold.jpg"
 genre: "Horror / Drama"
 genreSlug: "horror"
 mangaTitle: "Golden Gold"

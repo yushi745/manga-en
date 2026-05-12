@@ -1,6 +1,7 @@
 ---
 title: "JaJa Review: The Motorcycle Manga That Ran Hard Because Standing Still Wasn't an Option"
 slug: "jaja"
+coverImage: "/covers/jaja.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "JaJa"

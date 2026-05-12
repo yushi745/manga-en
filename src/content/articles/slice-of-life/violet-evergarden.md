@@ -1,6 +1,7 @@
 ---
 title: "Violet Evergarden Review: Learning to Feel in the Language of Letters"
 slug: "violet-evergarden"
+coverImage: "/covers/violet-evergarden.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Violet Evergarden"

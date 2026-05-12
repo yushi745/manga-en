@@ -1,6 +1,7 @@
 ---
 title: "Kabachitare! Review: The Legal Manga That Made Paralegals Sound Like Action Heroes"
 slug: "kabachitare"
+coverImage: "/covers/kabachitare.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Kabachitare!"

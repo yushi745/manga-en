@@ -1,6 +1,7 @@
 ---
 title: "Genshiken Review: A University Otaku Club Navigates Fandom, Friendship, and the Question of Who Gets to Be a Fan"
 slug: "genshiken"
+coverImage: "/covers/genshiken.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Genshiken"

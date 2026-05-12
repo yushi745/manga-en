@@ -1,6 +1,7 @@
 ---
 title: "Ultra Cute Review: Two Girls, One Boy, and the Specific Chaos of Middle School Feelings"
 slug: "ultra-cute"
+coverImage: "/covers/ultra-cute.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Ultra Cute"

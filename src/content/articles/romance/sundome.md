@@ -1,6 +1,7 @@
 ---
 title: "Sundome Review: The Ecchi Manga That Turns Out to Be About Dying"
 slug: "sundome"
+coverImage: "/covers/sundome.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Sundome"

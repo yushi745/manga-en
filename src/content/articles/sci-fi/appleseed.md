@@ -1,6 +1,7 @@
 ---
 title: "Appleseed Review: A Soldier and Her Partner Enter the Perfect City — and Find What Perfect Costs"
 slug: "appleseed"
+coverImage: "/covers/appleseed.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Appleseed"

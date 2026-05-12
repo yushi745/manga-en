@@ -1,6 +1,7 @@
 ---
 title: "Tenshi Ja Nai!! Review: The Idol With a Secret and the Roommate Who Found Out"
 slug: "tenshi-ja-nai"
+coverImage: "/covers/tenshi-ja-nai.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Tenshi Ja Nai!!"

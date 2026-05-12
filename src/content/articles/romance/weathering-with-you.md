@@ -1,6 +1,7 @@
 ---
 title: "Weathering With You Review: A Runaway Boy Meets a Girl Who Can Stop the Rain"
 slug: "weathering-with-you"
+coverImage: "/covers/weathering-with-you.jpg"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Weathering With You (Tenki no Ko)"

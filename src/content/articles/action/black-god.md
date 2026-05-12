@@ -1,6 +1,7 @@
 ---
 title: "Black God Review: The Keito Who Didn't Ask for a Contract and the Kami Who Needed One"
 slug: "black-god"
+coverImage: "/covers/black-god.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Black God"

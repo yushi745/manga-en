@@ -1,6 +1,7 @@
 ---
 title: "Moe Kare!! Review: What Happens When Your Real-Life Crush Is Exactly Your 2D Type"
 slug: "moe-kare"
+coverImage: "/covers/moe-kare.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Moe Kare!!"

@@ -1,6 +1,7 @@
 ---
 title: "Suikoden III Manga Review: Three Perspectives on a War Nobody Wanted"
 slug: "suikoden-III-manga"
+coverImage: "/covers/suikoden-III-manga.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "Suikoden III"

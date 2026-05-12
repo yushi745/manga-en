@@ -1,6 +1,7 @@
 ---
 title: "Magical Girl Spec-Ops Asuka Review: The War Is Over — But the Magical Girls Who Fought It Are Not Okay"
 slug: "magical-girl-spec-ops"
+coverImage: "/covers/magical-girl-spec-ops.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Magical Girl Spec-Ops Asuka"

@@ -1,6 +1,7 @@
 ---
 title: "Godchild Review: A Victorian Earl Unravels Dark Family Secrets While Death Follows His Every Step"
 slug: "godchild"
+coverImage: "/covers/godchild.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Godchild"

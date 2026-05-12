@@ -1,6 +1,7 @@
 ---
 title: "Kamakura Story Review: The Supernatural Slice-of-Life Hidden Inside a Love Story"
 slug: "kamakura-story"
+coverImage: "/covers/kamakura-story.jpg"
 genre: "Fantasy / Slice of Life"
 genreSlug: "fantasy"
 mangaTitle: "Kamakura Story"

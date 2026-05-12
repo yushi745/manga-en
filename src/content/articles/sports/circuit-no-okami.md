@@ -1,6 +1,7 @@
 ---
 title: "Circuit Wolf Review: The Racing Manga That Made Every Japanese Kid Want to Drive"
 slug: "circuit-no-okami"
+coverImage: "/covers/circuit-no-okami.jpg"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Circuit Wolf"

@@ -1,6 +1,7 @@
 ---
 title: "Shokuking Review: The Cooking Manga That Believed Food Was a Battlefield Worth Dying For"
 slug: "shokuking"
+coverImage: "/covers/shokuking.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Shokuking"

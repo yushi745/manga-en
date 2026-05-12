@@ -1,6 +1,7 @@
 ---
 title: "8 Man Review: The Detective Who Died and Came Back as Something Faster Than Human"
 slug: "8-man"
+coverImage: "/covers/8-man.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "8 Man"

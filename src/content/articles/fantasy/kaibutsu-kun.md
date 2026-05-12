@@ -1,6 +1,7 @@
 ---
 title: "Kaibutsu-kun Review: The Monster Prince Who Came to the Human World and Loved It Too Much"
 slug: "kaibutsu-kun"
+coverImage: "/covers/kaibutsu-kun.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Kaibutsu-kun"

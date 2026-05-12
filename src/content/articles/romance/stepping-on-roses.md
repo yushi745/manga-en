@@ -1,6 +1,7 @@
 ---
 title: "Stepping on Roses Review: A Poor Girl's Marriage of Convenience Becomes Something She Didn't Plan For"
 slug: "stepping-on-roses"
+coverImage: "/covers/stepping-on-roses.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Stepping on Roses"

@@ -1,6 +1,7 @@
 ---
 title: "Those Snow White Notes Review: A Shamisen Prodigy Runs from His Grandfather's Legacy to Find His Own Sound"
 slug: "those-snow-white-notes"
+coverImage: "/covers/those-snow-white-notes.jpg"
 genre: "Slice of Life / Music"
 genreSlug: "slice-of-life"
 mangaTitle: "Those Snow White Notes"

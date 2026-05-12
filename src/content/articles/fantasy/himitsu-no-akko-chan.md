@@ -1,6 +1,7 @@
 ---
 title: "Himitsu no Akko-chan Review: The Magic Mirror That Started Japan's Magical Girl Tradition"
 slug: "himitsu-no-akko-chan"
+coverImage: "/covers/himitsu-no-akko-chan.jpg"
 genre: "Fantasy / Slice of Life"
 genreSlug: "fantasy"
 mangaTitle: "Himitsu no Akko-chan"

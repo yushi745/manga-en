@@ -1,6 +1,7 @@
 ---
 title: "Dame Oyaji Review: The Dark Comedy That Made a Punching Bag Into a Hero"
 slug: "dame-oyaji"
+coverImage: "/covers/dame-oyaji.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Dame Oyaji"

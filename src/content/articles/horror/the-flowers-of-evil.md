@@ -1,6 +1,7 @@
 ---
 title: "The Flowers of Evil Review: The Manga That Made Me Uncomfortable in the Best Way"
 slug: "the-flowers-of-evil"
+coverImage: "/covers/the-flowers-of-evil.jpg"
 genre: "Horror / Drama"
 genreSlug: "horror"
 mangaTitle: "The Flowers of Evil"

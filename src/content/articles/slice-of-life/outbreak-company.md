@@ -1,6 +1,7 @@
 ---
 title: "Outbreak Company Review: An Otaku Is Sent to a Fantasy Kingdom to Spread Japanese Pop Culture"
 slug: "outbreak-company"
+coverImage: "/covers/outbreak-company.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Outbreak Company"

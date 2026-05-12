@@ -1,6 +1,7 @@
 ---
 title: "Astro Kyudan Review: Baseball as Supernatural War, Played by People Who Should Not Survive"
 slug: "astro-kyudan"
+coverImage: "/covers/astro-kyudan.jpg"
 genre: "Sports / Action"
 genreSlug: "sports"
 mangaTitle: "Astro Kyudan"

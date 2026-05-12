@@ -1,6 +1,7 @@
 ---
 title: "Stargazing Dog Review: A Dog's Complete Devotion to His Owner, Told from Beginning to End"
 slug: "stargazing-dog"
+coverImage: "/covers/stargazing-dog.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Stargazing Dog"

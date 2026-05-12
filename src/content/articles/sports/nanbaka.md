@@ -1,6 +1,7 @@
 ---
 title: "Nanbaka Review"
 slug: "nanbaka"
+coverImage: "/covers/nanbaka.jpg"
 genre: "Comedy / Action"
 genreSlug: "sports"
 mangaTitle: "Nanbaka"

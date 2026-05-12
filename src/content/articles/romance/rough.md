@@ -1,6 +1,7 @@
 ---
 title: "Rough Review: The Swimming Manga Where Love Was the Deeper Water"
 slug: "rough"
+coverImage: "/covers/rough.jpg"
 genre: "Romance / Sports"
 genreSlug: "romance"
 mangaTitle: "Rough"

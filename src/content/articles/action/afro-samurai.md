@@ -1,6 +1,7 @@
 ---
 title: "Afro Samurai Review: The Most American-Japanese Manga Ever Made"
 slug: "afro-samurai"
+coverImage: "/covers/afro-samurai.jpg"
 genre: "Action / Samurai"
 genreSlug: "action"
 mangaTitle: "Afro Samurai"

@@ -1,6 +1,7 @@
 ---
 title: "Metropolis Review: Osamu Tezuka's Science Fiction Epic That Built a City to Ask One Question"
 slug: "metropolis-manga"
+coverImage: "/covers/metropolis-manga.jpg"
 genre: "Sci-Fi / Drama"
 genreSlug: "sci-fi"
 mangaTitle: "Metropolis"

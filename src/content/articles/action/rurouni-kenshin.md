@@ -1,6 +1,7 @@
 ---
 title: "Rurouni Kenshin Review: The Assassin Who Swore Never to Kill Again"
 slug: "rurouni-kenshin"
+coverImage: "/covers/rurouni-kenshin.jpg"
 genre: "Action / Historical"
 genreSlug: "action"
 mangaTitle: "Rurouni Kenshin"

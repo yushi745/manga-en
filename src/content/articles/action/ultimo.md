@@ -1,6 +1,7 @@
 ---
 title: "Ultimo Review: Stan Lee and Hiroyuki Takei's Good vs. Evil Robot Doji Battle Across Reincarnations"
 slug: "ultimo"
+coverImage: "/covers/ultimo.jpg"
 genre: "Action / Sci-Fi"
 genreSlug: "action"
 mangaTitle: "Ultimo"

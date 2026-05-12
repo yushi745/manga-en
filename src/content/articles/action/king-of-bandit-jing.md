@@ -1,6 +1,7 @@
 ---
 title: "King of Bandit Jing Review: The Thief Who Steals What Can't Be Stolen"
 slug: "king-of-bandit-jing"
+coverImage: "/covers/king-of-bandit-jing.jpg"
 genre: "Action / Fantasy"
 genreSlug: "action"
 mangaTitle: "King of Bandit Jing"

@@ -1,6 +1,7 @@
 ---
 title: "Himouto! Umaru-chan Review: The Perfect Student Is a Couch-Potato Gremlin at Home and Her Brother Knows the Truth"
 slug: "himouto-umaru-chan"
+coverImage: "/covers/himouto-umaru-chan.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Himouto! Umaru-chan"

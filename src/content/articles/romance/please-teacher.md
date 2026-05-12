@@ -1,6 +1,7 @@
 ---
 title: "Please! Teacher Review: A Romantic Comedy Built on One Elaborate, Increasingly Unsustainable Secret"
 slug: "please-teacher"
+coverImage: "/covers/please-teacher.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Please! Teacher"

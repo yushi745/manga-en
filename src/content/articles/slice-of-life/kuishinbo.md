@@ -1,6 +1,7 @@
 ---
 title: "Kuishinbo Review: The Eating Manga That Treated Hunger as Art"
 slug: "kuishinbo"
+coverImage: "/covers/kuishinbo.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Kuishinbo"

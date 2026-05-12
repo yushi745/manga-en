@@ -1,6 +1,7 @@
 ---
 title: "Shinobi Life Review: A Ninja From the Past Who Refuses to Let the Present Change His Mission"
 slug: "shinobi-life"
+coverImage: "/covers/shinobi-life.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Shinobi Life"

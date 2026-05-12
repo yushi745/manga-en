@@ -1,6 +1,7 @@
 ---
 title: "1-2 no Sanshiro Review: The Wrestling Comedy Manga That Made Friendship the Real Tag Team"
 slug: "1-2-no-sanshiro"
+coverImage: "/covers/1-2-no-sanshiro.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "1-2 no Sanshiro"

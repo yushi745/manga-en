@@ -1,6 +1,7 @@
 ---
 title: "Trigun Review: The Most Dangerous Man in the Universe Won't Hurt a Fly"
 slug: "trigun"
+coverImage: "/covers/trigun.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Trigun Maximum"

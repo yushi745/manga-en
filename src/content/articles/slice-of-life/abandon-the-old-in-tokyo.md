@@ -1,6 +1,7 @@
 ---
 title: "Abandon the Old in Tokyo Review: Working-Class Lives in the City, Rendered Without Sentimentality"
 slug: "abandon-the-old-in-tokyo"
+coverImage: "/covers/abandon-the-old-in-tokyo.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Abandon the Old in Tokyo"

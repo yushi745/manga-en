@@ -1,6 +1,7 @@
 ---
 title: "Sayonara, Zetsubou-Sensei Review: A Profoundly Pessimistic Teacher and His Pathologically Optimistic Student Navigate Modern Japan"
 slug: "sayonara-zetsubou-sensei"
+coverImage: "/covers/sayonara-zetsubou-sensei.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Sayonara, Zetsubou-Sensei"

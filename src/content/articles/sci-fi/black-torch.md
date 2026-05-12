@@ -1,6 +1,7 @@
 ---
 title: "Black Torch Review: A Ninja Descendant Who Talks to Animals Merges With a Powerful Spirit"
 slug: "black-torch"
+coverImage: "/covers/black-torch.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Black Torch"

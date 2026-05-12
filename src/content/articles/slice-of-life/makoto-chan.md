@@ -1,6 +1,7 @@
 ---
 title: "Makoto-chan Review: The Gag Manga That Was Too Honest About Childhood"
 slug: "makoto-chan"
+coverImage: "/covers/makoto-chan.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Makoto-chan"

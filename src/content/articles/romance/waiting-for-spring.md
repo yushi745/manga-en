@@ -1,6 +1,7 @@
 ---
 title: "Waiting for Spring Review: A Shy Girl Becomes Friends With the Basketball Team — and Falls for the One She Shouldn't"
 slug: "waiting-for-spring"
+coverImage: "/covers/waiting-for-spring.jpg"
 genre: "Romance / Sports"
 genreSlug: "romance"
 mangaTitle: "Waiting for Spring"

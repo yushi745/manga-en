@@ -1,6 +1,7 @@
 ---
 title: "Young Miss Holmes Review: Sherlock Holmes's Niece Solves Crimes in Victorian London"
 slug: "young-miss-holmes"
+coverImage: "/covers/young-miss-holmes.jpg"
 genre: "Mystery / Historical"
 genreSlug: "action"
 mangaTitle: "Young Miss Holmes"

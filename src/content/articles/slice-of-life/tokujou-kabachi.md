@@ -1,6 +1,7 @@
 ---
 title: "Tokujou Kabachi!! Review: The Legal Drama Manga That Makes Administrative Law Thrilling"
 slug: "tokujou-kabachi"
+coverImage: "/covers/tokujou-kabachi.jpg"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Tokujou Kabachi!!"

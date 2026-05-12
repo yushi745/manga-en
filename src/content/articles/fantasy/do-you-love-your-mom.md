@@ -1,6 +1,7 @@
 ---
 title: "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks? Review: A Son Gets Isekai'd with His Mom and Cannot Escape Her"
 slug: "do-you-love-your-mom"
+coverImage: "/covers/do-you-love-your-mom.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?"

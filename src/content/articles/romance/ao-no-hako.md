@@ -1,6 +1,7 @@
 ---
 title: "Blue Box Review: When Your Crush Is Your Roommate and Your Rival"
 slug: "ao-no-hako"
+coverImage: "/covers/ao-no-hako.jpg"
 genre: "Romance / Sports"
 genreSlug: "romance"
 mangaTitle: "Blue Box"

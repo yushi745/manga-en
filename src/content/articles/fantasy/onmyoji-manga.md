@@ -1,6 +1,7 @@
 ---
 title: "Onmyoji Review: The Heian Supernatural Manga That Made Japan's Most Famous Exorcist Complicated"
 slug: "onmyoji-manga"
+coverImage: "/covers/onmyoji-manga.jpg"
 genre: "Fantasy / Historical"
 genreSlug: "fantasy"
 mangaTitle: "Onmyoji"

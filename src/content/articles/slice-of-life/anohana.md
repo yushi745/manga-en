@@ -1,6 +1,7 @@
 ---
 title: "AnoHana Review: A Dead Friend's Ghost Asks Her Childhood Friends to Grant Her Wish"
 slug: "anohana"
+coverImage: "/covers/anohana.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "AnoHana: The Flower We Saw That Day"

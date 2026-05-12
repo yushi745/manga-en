@@ -1,6 +1,7 @@
 ---
 title: "Yakitate!! Japan Review: A Bread-Baking Battle Manga That Takes Bread More Seriously Than You Ever Will"
 slug: "yakitate-japan"
+coverImage: "/covers/yakitate-japan.jpg"
 genre: "Sports / Comedy"
 genreSlug: "sports"
 mangaTitle: "Yakitate!! Japan"

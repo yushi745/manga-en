@@ -1,6 +1,7 @@
 ---
 title: "Please Twins! Review: The Sequel That Makes The Teacher Look Even More Complicated"
 slug: "please-twins"
+coverImage: "/covers/please-twins.jpg"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Please Twins!"

@@ -1,6 +1,7 @@
 ---
 title: "Golden Lucky Review: The Absurdist Manga That Made No Sense and Perfect Sense"
 slug: "golden-lucky"
+coverImage: "/covers/golden-lucky.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Golden Lucky"

@@ -1,6 +1,7 @@
 ---
 title: "Guardians of the Louvre Review: A Japanese Painter Falls Ill in Paris and the Louvre's Ghosts Find Him"
 slug: "guardians-of-the-louvre"
+coverImage: "/covers/guardians-of-the-louvre.jpg"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Guardians of the Louvre"

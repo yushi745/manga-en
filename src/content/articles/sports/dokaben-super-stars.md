@@ -1,6 +1,7 @@
 ---
 title: "Dokaben Super Stars Review: What Happens When Legends Return to the Game They Never Left"
 slug: "dokaben-super-stars"
+coverImage: "/covers/dokaben-super-stars.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Dokaben Super Stars"

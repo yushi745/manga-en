@@ -1,6 +1,7 @@
 ---
 title: "Outlanders Review: The 1985 Sci-Fi That Refused to Be Just an Alien Invasion Story"
 slug: "outlanders"
+coverImage: "/covers/outlanders.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Outlanders"

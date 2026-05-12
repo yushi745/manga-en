@@ -1,6 +1,7 @@
 ---
 title: "Unico Review: Tezuka's Tenderest Fantasy and His Saddest Premise"
 slug: "unico"
+coverImage: "/covers/unico.jpg"
 genre: "Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Unico"

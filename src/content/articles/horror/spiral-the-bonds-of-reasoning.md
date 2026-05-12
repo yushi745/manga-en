@@ -1,6 +1,7 @@
 ---
 title: "Spiral: The Bonds of Reasoning Review: A Mystery That Dares to Admit It Has No Answer"
 slug: "spiral-the-bonds-of-reasoning"
+coverImage: "/covers/spiral-the-bonds-of-reasoning.jpg"
 genre: "Mystery / Thriller"
 genreSlug: "horror"
 mangaTitle: "Spiral: The Bonds of Reasoning"

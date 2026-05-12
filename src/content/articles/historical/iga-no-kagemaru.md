@@ -1,6 +1,7 @@
 ---
 title: "Iga no Kagemaru Review: The Ninja Who Moved Through History Like a Shadow"
 slug: "iga-no-kagemaru"
+coverImage: "/covers/iga-no-kagemaru.jpg"
 genre: "Historical / Action"
 genreSlug: "historical"
 mangaTitle: "Iga no Kagemaru"

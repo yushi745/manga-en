@@ -1,6 +1,7 @@
 ---
 title: "Dokonjo Gaeru Review: The Comedy About a Boy and a Frog Stuck on His Shirt"
 slug: "dokonjo-gaeru"
+coverImage: "/covers/dokonjo-gaeru.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Dokonjo Gaeru"

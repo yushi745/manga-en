@@ -1,6 +1,7 @@
 ---
 title: "Ghost in the Shell 2: Man-Machine Interface Review: Motoko's Consciousness Distributed Across the Net"
 slug: "ghost-in-the-shell-2"
+coverImage: "/covers/ghost-in-the-shell-2.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Ghost in the Shell 2: Man-Machine Interface"

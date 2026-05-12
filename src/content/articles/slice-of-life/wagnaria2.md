@@ -1,6 +1,7 @@
 ---
 title: "WWW.Working!! Review: A Different Set of Weirdos in a Different Family Restaurant"
 slug: "wagnaria2"
+coverImage: "/covers/wagnaria2.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "WWW.Working!!"

@@ -1,6 +1,7 @@
 ---
 title: "Five Review: The Basketball Manga That Played Quieter Than Slam Dunk and Hit Different"
 slug: "five-basketball"
+coverImage: "/covers/five-basketball.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Five"

@@ -1,6 +1,7 @@
 ---
 title: "Shura no Mon Review: The Martial Art That Has No Technique — Only Killing"
 slug: "shura-no-mon"
+coverImage: "/covers/shura-no-mon.jpg"
 genre: "Action / Martial Arts"
 genreSlug: "action"
 mangaTitle: "Shura no Mon"

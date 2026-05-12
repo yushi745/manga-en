@@ -1,6 +1,7 @@
 ---
 title: "Dai Koshien Review: The Baseball Crossover That Brought Every Mizushima Hero Together"
 slug: "dai-koshien"
+coverImage: "/covers/dai-koshien.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Dai Koshien"

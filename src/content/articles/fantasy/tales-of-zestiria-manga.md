@@ -1,6 +1,7 @@
 ---
 title: "Tales of Zestiria the X Review: The Shepherd's Journey Between Two Worlds"
 slug: "tales-of-zestiria-manga"
+coverImage: "/covers/tales-of-zestiria-manga.jpg"
 genre: "Fantasy / Adventure"
 genreSlug: "fantasy"
 mangaTitle: "Tales of Zestiria the X"

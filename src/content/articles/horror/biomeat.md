@@ -1,6 +1,7 @@
 ---
 title: "BioMeat Review: Imagine Junji Ito Wrote a Hunger Manga"
 slug: "biomeat"
+coverImage: "/covers/biomeat.jpg"
 genre: "Horror / Sci-Fi"
 genreSlug: "horror"
 mangaTitle: "BioMeat: Nectar"

@@ -1,6 +1,7 @@
 ---
 title: "Kyudo-kun Review: The Pitcher from Osaka Who Threw Everything He Had at Every Ball"
 slug: "kyudo-kun"
+coverImage: "/covers/kyudo-kun.jpg"
 genre: "Sports"
 genreSlug: "sports"
 mangaTitle: "Kyudo-kun"

@@ -1,6 +1,7 @@
 ---
 title: "Legendz Review: The Pokemon Knockoff That's Better Than It Should Be"
 slug: "legendz"
+coverImage: "/covers/legendz.jpg"
 genre: "Action / Fantasy"
 genreSlug: "fantasy"
 mangaTitle: "Legendz"

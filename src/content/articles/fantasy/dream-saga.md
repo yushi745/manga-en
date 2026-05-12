@@ -1,6 +1,7 @@
 ---
 title: "Dream Saga Review: She Fell Asleep on an Acorn and Woke Up in Japanese Mythology"
 slug: "dream-saga"
+coverImage: "/covers/dream-saga.jpg"
 genre: "Fantasy / Adventure"
 genreSlug: "fantasy"
 mangaTitle: "Dream Saga"

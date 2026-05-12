@@ -1,6 +1,7 @@
 ---
 title: "Rookies Review: The Teacher Who Believed in the Team Nobody Else Would Coach"
 slug: "rookies"
+coverImage: "/covers/rookies.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
 mangaTitle: "Rookies"

@@ -1,6 +1,7 @@
 ---
 title: "Kimen-Gumi Review: The Weirdest Class in School Was Also the Best One"
 slug: "kimen-gumi"
+coverImage: "/covers/kimen-gumi.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Kimen-Gumi"

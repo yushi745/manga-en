@@ -1,6 +1,7 @@
 ---
 title: "Suppli Review: What It Actually Costs to Be a Woman Working Late in Tokyo"
 slug: "suppli"
+coverImage: "/covers/suppli.jpg"
 genre: "Slice of Life / Romance"
 genreSlug: "slice-of-life"
 mangaTitle: "Suppli"

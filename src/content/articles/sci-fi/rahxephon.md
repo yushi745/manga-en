@@ -1,6 +1,7 @@
 ---
 title: "RahXephon Review: The Mecha Manga That Was Really About Music All Along"
 slug: "rahxephon"
+coverImage: "/covers/rahxephon.jpg"
 genre: "Sci-Fi / Mecha"
 genreSlug: "sci-fi"
 mangaTitle: "RahXephon"
