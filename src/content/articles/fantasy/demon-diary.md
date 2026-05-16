@@ -1,6 +1,7 @@
 ---
 title: "Demon Diary Review: The Accidental Demon Lord and the Tutor Who Didn't Sign Up for This"
-
+
+
 coverImage: "/covers/demon-diary.jpg"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
@@ -15,9 +16,9 @@ englishVolumes: 7
 englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["fantasy violence", "shounen-ai elements"]
-description: "A review of Demon Diary — the Korean manhwa fantasy comedy about a sweet, pacifist young man who unexpectedly inherits the role of Demon Lord and the exasperated demon Eclipse who has to teach him how to be one."
-amazonASIN: "1591820561"
-publishedAt: "2026-05-02"
+description: "A review of Demon Diary — the Korean manhwa fantasy comedy about a sweet, pacifist young man who unepectedly inherits the role of Demon Lord and the easperated demon Eclipse who has to teach him how to be one."
+amazonASIN: "159182561"
+publishedAt: "226-5-2"
 tags: ["fantasy", "comedy", "manhwa", "korean", "shounen-ai"]
 rating: 3
 hasAffiliate: true
@@ -75,21 +76,21 @@ The underlying narrative involves a genuine threat — a cleric from the opposin
 
 ## Art Style
 
-Lee Yun Hee's art is clean, attractive manhwa with expressive character work. The fantasy setting is rendered with detail — castles, demon aesthetics, holy knight designs — that makes the world feel inhabited. Character designs are distinctive and appealing. The art has aged well for its era.
+Lee Yun Hee's art is clean, attractive manhwa with epressive character work. The fantasy setting is rendered with detail — castles, demon aesthetics, holy knight designs — that makes the world feel inhabited. Character designs are distinctive and appealing. The art has aged well for its era.
 
-## Cultural Context
+## Cultural Contet
 
 *Demon Diary* was published during the early wave of Korean manhwa reaching Western audiences through Tokyopop — before the distinction between Japanese manga and Korean manhwa was widely understood by Western readers. Many readers encountered it as simply "manga" and appreciated it on those terms.
 
-The "demon lord who is actually gentle" premise has become more common since *Demon Diary* was published, but the manhwa was an early example of a premise that works because it genuinely likes its protagonist rather than using the comedic contrast as the point.
+The "demon lord who is actually gentle" premise has become more common since *Demon Diary* was published, but the manhwa was an early eample of a premise that works because it genuinely likes its protagonist rather than using the comedic contrast as the point.
 
 ## What I Love About It
 
-Eclipse's restraint. Throughout the series, he has the power to resolve most problems immediately and chooses not to — because what Raenef needs isn't to be saved, it's to develop. Watching a character with overwhelming power express care through patience rather than action is unusual enough to be genuinely touching.
+Eclipse's restraint. Throughout the series, he has the power to resolve most problems immediately and chooses not to — because what Raenef needs isn't to be saved, it's to develop. Watching a character with overwhelming power epress care through patience rather than action is unusual enough to be genuinely touching.
 
 ## What English-Speaking Fans Say
 
-Fondly remembered by readers from the early 2000s manhwa wave. The Eclipse-Raenef dynamic is the consistent praise point. Frequently cited as one of the better entries from the Tokyopop manhwa catalog. The shounen-ai subtext is noted without being considered the primary appeal or a problem.
+Fondly remembered by readers from the early 2s manhwa wave. The Eclipse-Raenef dynamic is the consistent praise point. Frequently cited as one of the better entries from the Tokyopop manhwa catalog. The shounen-ai subtet is noted without being considered the primary appeal or a problem.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
@@ -141,7 +142,7 @@ For fantasy comedy fans and early manhwa history enthusiasts — yes. It's warm,
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/dp/1591820561?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/159182561?tag=dearmanga-2)
 
 ---
-*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
+*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no etra cost to you. As an Amazon Associate, I earn from qualifying purchases.*

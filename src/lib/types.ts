@@ -40,6 +40,23 @@ export const GENRES: Record<string, string> = {
   "sci-fi": "Sci-Fi",
 };
 
+export interface GuideFrontmatter {
+  title: string;
+  slug: string;
+  description: string;
+  genreSlugs: string[];
+  publishedAt: string;
+  updatedAt?: string;
+  tags: string[];
+  hasAffiliate?: boolean;
+}
+
+export interface Guide {
+  frontmatter: GuideFrontmatter;
+  content: string;
+  slug: string;
+}
+
 export const SITE_CONFIG = {
   name: "DearManga",
   subtitle: "Japanese Manga Reviews & Guides",

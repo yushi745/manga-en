@@ -1,6 +1,7 @@
 ---
 title: "Mai the Psychic Girl Review: Cold War Telekinesis"
-
+
+
 coverImage: "/covers/mai-psychic-girl.jpg"
 genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"

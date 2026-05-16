@@ -1,5 +1,6 @@
 import { notFound } from "next/navigation";
 import { getArticle, getArticleSlugs } from "@/lib/articles";
+import { getGuidesByGenre } from "@/lib/guides";
 import { GENRES, SITE_CONFIG } from "@/lib/types";
 import { generateBookPageUrl, generateBookSearchUrl } from "@/lib/affiliate";
 import Breadcrumb from "@/components/Breadcrumb";
@@ -7,6 +8,7 @@ import MarkdownContent from "@/components/MarkdownContent";
 import AuthorBox from "@/components/AuthorBox";
 import AffiliateButton from "@/components/AffiliateButton";
 import CoverImage from "@/components/CoverImage";
+import RelatedGuides from "@/components/RelatedGuides";
 import type { Metadata } from "next";
 
 interface Props {
@@ -51,6 +53,7 @@ export default async function ArticlePage({ params }: Props) {
   const genreName = GENRES[genre] || frontmatter.genre;
 
   const buyUrl = generateBookSearchUrl(frontmatter.mangaTitle);
+  const relatedGuides = getGuidesByGenre(genre);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -145,6 +148,8 @@ export default async function ArticlePage({ params }: Props) {
         <MarkdownContent content={content} />
 
         <AffiliateButton url={buyUrl} mangaTitle={frontmatter.mangaTitle} />
+
+        <RelatedGuides guides={relatedGuides} />
 
         <AuthorBox />
 
