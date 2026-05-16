@@ -21,6 +21,7 @@ publishedAt: "2025-11-28"
 tags: ["sci-fi", "action", "seinen", "completed", "tokusatsu", "VIZ"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

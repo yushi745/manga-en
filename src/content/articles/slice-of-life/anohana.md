@@ -21,6 +21,7 @@ publishedAt: "2025-12-08"
 tags: ["slice-of-life", "drama", "completed", "teen", "viz-media", "grief", "ghost", "childhood"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

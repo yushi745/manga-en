@@ -21,6 +21,7 @@ publishedAt: "2026-04-18"
 tags: ["sports", "basketball", "shonen", "classic", "completed", "comedy"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

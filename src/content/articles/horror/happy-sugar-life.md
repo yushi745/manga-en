@@ -21,6 +21,7 @@ publishedAt: "2025-03-27"
 tags: ["horror", "psychological", "completed", "mature", "yandere", "disturbing"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

@@ -21,6 +21,7 @@ publishedAt: "2024-08-17"
 tags: ["shonen", "demons", "action", "historical", "completed", "anime"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

@@ -21,6 +21,7 @@ publishedAt: "2025-07-20"
 tags: ["romance", "comedy", "completed", "classic", "harem", "shonen"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

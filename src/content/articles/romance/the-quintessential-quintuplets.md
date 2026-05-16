@@ -20,6 +20,7 @@ publishedAt: "2025-09-10"
 tags: ["romance", "comedy", "harem", "shonen", "completed", "mystery"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

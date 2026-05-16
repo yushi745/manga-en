@@ -21,6 +21,7 @@ publishedAt: "2024-11-09"
 tags: ["historical", "action", "mature", "ongoing", "war", "philosophical"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

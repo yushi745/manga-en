@@ -28,6 +28,7 @@ tags:
   - "powers"
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

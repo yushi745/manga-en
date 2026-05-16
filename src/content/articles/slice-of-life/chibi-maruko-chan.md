@@ -28,6 +28,7 @@ tags:
   - "autobiographical"
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

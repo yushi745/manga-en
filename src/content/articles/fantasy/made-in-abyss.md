@@ -21,6 +21,7 @@ publishedAt: "2025-01-06"
 tags: ["fantasy", "adventure", "mature", "ongoing", "dark", "world-building"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

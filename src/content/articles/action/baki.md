@@ -21,6 +21,7 @@ publishedAt: "2024-07-28"
 tags: ["action", "fighting", "martial-arts", "shonen", "completed"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

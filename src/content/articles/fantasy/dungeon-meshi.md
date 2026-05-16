@@ -21,6 +21,7 @@ publishedAt: "2024-12-07"
 tags: ["fantasy", "adventure", "comedy", "food", "completed", "world-building"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

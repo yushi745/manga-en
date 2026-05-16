@@ -21,6 +21,7 @@ publishedAt: "2025-11-27"
 tags: ["sci-fi", "action", "western", "completed", "pacifism", "space-western"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

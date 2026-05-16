@@ -21,6 +21,7 @@ publishedAt: "2026-01-24"
 tags: ["slice-of-life", "romance", "completed", "teen", "viz-media", "classic", "rumiko-takahashi"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

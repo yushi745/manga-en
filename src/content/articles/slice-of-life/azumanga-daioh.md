@@ -21,6 +21,7 @@ publishedAt: "2025-12-11"
 tags: ["slice-of-life", "comedy", "school", "classic", "completed", "4-koma"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

@@ -21,6 +21,7 @@ publishedAt: "2025-12-16"
 tags: ["slice-of-life", "art", "seinen", "completed", "school", "coming-of-age"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

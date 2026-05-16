@@ -21,6 +21,7 @@ publishedAt: "2026-01-28"
 tags: ["slice-of-life", "comedy", "completed", "dragons", "found-family", "Seven-Seas"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

@@ -21,6 +21,7 @@ publishedAt: "2024-11-02"
 tags: ["action", "thriller", "time-travel", "gang", "completed", "drama"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

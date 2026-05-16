@@ -21,6 +21,7 @@ publishedAt: "2025-12-26"
 tags: ["slice-of-life", "comedy", "children", "completed", "all-ages", "viz", "classic", "tezuka-era"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

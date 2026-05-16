@@ -21,6 +21,7 @@ publishedAt: "2025-11-11"
 tags: ["sci-fi", "mecha", "psychological", "classic", "completed"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

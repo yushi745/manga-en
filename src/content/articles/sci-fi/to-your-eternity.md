@@ -21,6 +21,7 @@ publishedAt: "2025-11-26"
 tags: ["sci-fi", "fantasy", "shonen", "completed-in-Japan", "emotional", "immortality", "grief"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

@@ -21,6 +21,7 @@ publishedAt: "2024-11-03"
 tags: ["action", "adventure", "shonen", "food", "completed"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

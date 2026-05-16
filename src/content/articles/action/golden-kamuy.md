@@ -21,6 +21,7 @@ publishedAt: "2024-08-30"
 tags: ["action", "adventure", "historical", "mature", "completed", "seinen", "Ainu"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

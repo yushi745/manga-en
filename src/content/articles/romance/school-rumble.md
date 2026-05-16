@@ -21,6 +21,7 @@ publishedAt: "2025-08-23"
 tags: ["romance", "comedy", "completed", "school", "love-triangle", "shonen"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

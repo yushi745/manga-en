@@ -21,6 +21,7 @@ publishedAt: "2025-08-06"
 tags: ["romance", "shonen", "completed", "harem", "comedy", "VIZ"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

@@ -21,6 +21,7 @@ publishedAt: "2024-10-19"
 tags: ["action", "shonen", "ongoing", "vampires", "dark-fantasy", "post-apocalyptic"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

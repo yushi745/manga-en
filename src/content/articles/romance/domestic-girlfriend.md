@@ -20,6 +20,7 @@ publishedAt: "2025-06-07"
 tags: ["romance", "drama", "seinen", "mature", "completed"]
 rating: 3
 hasAffiliate: false
+noindex: true
 ---
 
 ## Quick Take

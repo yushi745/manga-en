@@ -21,6 +21,8 @@ export interface ArticleFrontmatter {
   tags: string[];
   rating: number;
   hasAffiliate?: boolean;
+  noindex?: boolean;
+  rewritten?: boolean;
 }
 
 export interface Article {
@@ -49,6 +51,8 @@ export interface GuideFrontmatter {
   updatedAt?: string;
   tags: string[];
   hasAffiliate?: boolean;
+  noindex?: boolean;
+  rewritten?: boolean;
 }
 
 export interface Guide {

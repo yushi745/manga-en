@@ -21,6 +21,7 @@ publishedAt: "2024-08-25"
 tags: ["action", "post-apocalyptic", "classic", "mature", "completed", "shonen", "iconic"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

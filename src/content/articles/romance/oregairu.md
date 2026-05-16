@@ -21,6 +21,7 @@ publishedAt: "2025-08-10"
 tags: ["romance", "comedy", "completed", "teen", "yen-press", "light-novel-adaptation", "cynical-protagonist", "high-school"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

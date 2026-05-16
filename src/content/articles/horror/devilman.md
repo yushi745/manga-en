@@ -21,6 +21,7 @@ publishedAt: "2025-03-16"
 tags: ["horror", "dark-fantasy", "classic", "completed", "tragedy"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

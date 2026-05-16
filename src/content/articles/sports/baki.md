@@ -21,6 +21,7 @@ publishedAt: "2026-03-16"
 tags: ["sports", "action", "martial-arts", "mature", "viz-media", "fighting"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

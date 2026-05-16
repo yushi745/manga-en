@@ -30,6 +30,7 @@ tags:
   - "jojo"
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

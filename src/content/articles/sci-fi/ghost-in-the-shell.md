@@ -21,6 +21,7 @@ publishedAt: "2025-10-30"
 tags: ["sci-fi", "cyberpunk", "action", "classic", "philosophical", "completed"]
 rating: 5
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

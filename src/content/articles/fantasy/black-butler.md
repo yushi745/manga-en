@@ -21,6 +21,7 @@ publishedAt: "2024-11-23"
 tags: ["fantasy", "mystery", "gothic", "ongoing", "historical"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take

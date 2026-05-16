@@ -21,6 +21,7 @@ publishedAt: "2025-10-20"
 tags: ["sci-fi", "mecha", "action", "completed", "teen-plus", "viz", "political", "anime-adaptation"]
 rating: 4
 hasAffiliate: true
+noindex: true
 ---
 
 ## Quick Take
