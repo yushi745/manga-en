@@ -22,7 +22,7 @@ export interface ArticleFrontmatter {
   rating: number;
   hasAffiliate?: boolean;
   noindex?: boolean;
-  rewritten?: boolean;
+  rewritten?: string;
 }
 
 export interface Article {
@@ -52,7 +52,7 @@ export interface GuideFrontmatter {
   tags: string[];
   hasAffiliate?: boolean;
   noindex?: boolean;
-  rewritten?: boolean;
+  rewritten?: string;
 }
 
 export interface Guide {

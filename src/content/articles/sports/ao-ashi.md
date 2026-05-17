@@ -22,7 +22,7 @@ updatedAt: "2026-05-17"
 tags: ["sports", "soccer", "completed", "teen", "viz-media", "big-comic-spirits", "seinen"]
 rating: 5
 hasAffiliate: true
-rewritten: true
+rewritten: "2026-05-17"
 ---
 
 When I was in high school, my football coach moved me from striker to defensive midfielder. I was furious. I thought he was punishing me. Two years later, I understood he had seen something in me that I couldn't see in myself.

@@ -94,7 +94,7 @@ def collect_articles():
             'hasCover':    '○' if slug in tracked_covers else '×',
             'englishStatus': get_field(content, 'englishStatus'),
             'noindex':     '○' if re.search(r'^noindex:\s*true', content, re.MULTILINE) else '',
-            'rewritten':   '○' if re.search(r'^rewritten:\s*true', content, re.MULTILINE) else '',
+            'rewritten':   (lambda m: m.group(1).strip('"') if m else '')(re.search(r'^rewritten:\s*"?([^"\n]+)"?', content, re.MULTILINE)),
         })
     return articles
 

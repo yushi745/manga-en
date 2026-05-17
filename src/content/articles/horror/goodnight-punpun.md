@@ -22,7 +22,7 @@ updatedAt: "2026-05-17"
 tags: ["horror", "slice-of-life", "mature", "completed", "asano", "psychological", "devastating"]
 rating: 5
 hasAffiliate: true
-rewritten: true
+rewritten: "2026-05-17"
 ---
 
 When I was in middle school, a teacher asked our class what we wanted to be when we grew up. Everyone answered. I don't remember what I said. I remember thinking: what if I grow up and things are still like this?
