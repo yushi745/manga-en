@@ -126,14 +126,15 @@ const nextConfig: NextConfig = {
       { source: '/horror/junji-ito-collection', destination: '/horror/shiver-junji-ito', permanent: true },
       { source: '/fantasy/sergeant-frog', destination: '/action/sgt-frog', permanent: true },
       { source: '/fantasy/x-clamp', destination: '/fantasy/x1999', permanent: true },
+      { source: '/romance/kare-kano', destination: '/romance/his-and-her-circumstances', permanent: true },
+      { source: '/sci-fi/gundam', destination: '/sci-fi/gundam-the-origin', permanent: true },
+      { source: '/sci-fi/ran-and-the-gray-world', destination: '/fantasy/ran-and-gray-world', permanent: true },
+      { source: '/fantasy/maou-gakuin', destination: '/fantasy/misfit-demon-king-academy', permanent: true },
+      { source: '/fantasy/hero-is-overpowered-cautious', destination: '/fantasy/cautious-hero', permanent: true },
 
-      // === Genuinely missing articles (7 URLs) — will 404 naturally and drop from Google's index ===
-      // - /sci-fi/darker-than-black + /action/darker-than-black-manga (both duplicates deleted, no replacement)
-      // - /sci-fi/ran-and-the-gray-world
-      // - /fantasy/maou-gakuin
-      // - /fantasy/hero-is-overpowered-cautious
-      // - /sci-fi/gundam (too generic — gundam-wing, gundam-seed, gundam-the-origin all exist)
-      // - /romance/kare-kano (Kareshi Kanojo no Jijou — never written)
+      // === Genuinely 404 (2 URLs) — "Darker Than Black" canonical does not exist ===
+      // Both /sci-fi/darker-than-black and /action/darker-than-black-manga were duplicates deleted in 46a1a55 with no surviving canonical.
+      // Will drop from Google's index naturally over 1–2 months.
     ];
   },
 };
