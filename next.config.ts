@@ -120,18 +120,20 @@ const nextConfig: NextConfig = {
       { source: '/fantasy/dungeon-ni-deai', destination: '/fantasy/danmachi', permanent: true },
       { source: '/slice-of-life/otoyomegatari', destination: '/romance/brides-story', permanent: true },
 
-      // === Note: the following 12 URLs in the 404 report have no corresponding article ===
-      // They will naturally drop out of Google's index over time:
-      // - /sci-fi/darker-than-black, /action/darker-than-black-manga (article never existed)
+      // Articles that existed as duplicates (deleted commit 46a1a55), canonical version found:
+      { source: '/sports/march-comes-in-like-a-lion', destination: '/slice-of-life/3-gatsu-no-lion', permanent: true },
+      { source: '/romance/march-comes-in-like-a-lion', destination: '/slice-of-life/3-gatsu-no-lion', permanent: true },
+      { source: '/horror/junji-ito-collection', destination: '/horror/shiver-junji-ito', permanent: true },
+      { source: '/fantasy/sergeant-frog', destination: '/action/sgt-frog', permanent: true },
+      { source: '/fantasy/x-clamp', destination: '/fantasy/x1999', permanent: true },
+
+      // === Genuinely missing articles (7 URLs) — will 404 naturally and drop from Google's index ===
+      // - /sci-fi/darker-than-black + /action/darker-than-black-manga (both duplicates deleted, no replacement)
       // - /sci-fi/ran-and-the-gray-world
-      // - /horror/junji-ito-collection
-      // - /fantasy/sergeant-frog (Keroro Gunso - never written)
-      // - /fantasy/x-clamp (X by CLAMP - never written)
-      // - /sports/march-comes-in-like-a-lion, /romance/march-comes-in-like-a-lion
-      // - /fantasy/maou-gakuin (Demon King Academy - never written)
+      // - /fantasy/maou-gakuin
       // - /fantasy/hero-is-overpowered-cautious
-      // - /sci-fi/gundam (too generic - multiple gundam articles exist)
-      // - /romance/kare-kano (Kareshi Kanojo - never written)
+      // - /sci-fi/gundam (too generic — gundam-wing, gundam-seed, gundam-the-origin all exist)
+      // - /romance/kare-kano (Kareshi Kanojo no Jijou — never written)
     ];
   },
 };
