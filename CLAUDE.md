@@ -121,10 +121,13 @@ titles_ja, titles_en, slugs = load_existing()
    ```bash
    python3 scripts/sync_sheets.py
    ```
-   実行タイミング：
-   - 新規記事の3バッチ完了ごと
-   - **記事リライト完了時（必ず実行）** — `rewritten:` フィールドを追加した場合は同セッション内で必ず実行する
-   - frontmatterを変更した場合（slug・genre・status・rewrittenなど）
+   **実行タイミング（記事に変更を加えた場合は必ず実行）：**
+   - 新規記事を作成したとき
+   - 記事をリライトしたとき（`rewritten:` フィールド追加時）
+   - カバー画像を追加・削除・差し替えしたとき
+   - `noindex` フラグを変更したとき
+   - frontmatterを変更したとき（slug・genre・status・タイトル等）
+   - ファイルを移動・リネームしたとき
 
 ---
 
