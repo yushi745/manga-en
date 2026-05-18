@@ -1,9 +1,9 @@
 ---
 title: "Trigun Maximum Review — The Most Wanted Man on a Desert Planet Refuses to Kill, and the Manga Asks What That Costs"
-slug: "trigun"
-coverImage: "/covers/trigun.jpg"
-genre: "Sci-Fi / Action"
-genreSlug: "sci-fi"
+slug: "trigun-maximum"
+coverImage: "/covers/trigun-maximum.jpg"
+genre: "Action / Sci-Fi"
+genreSlug: "action"
 mangaTitle: "Trigun Maximum"
 mangaTitleJa: "トライガンマキシマム"
 mangaAuthor: "Yasuhiro Nightow"

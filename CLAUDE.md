@@ -117,10 +117,14 @@ titles_ja, titles_en, slugs = load_existing()
 4. **自己チェック**（`CLAUDE-article.md` のチェックリストを実行）
 5. **カバー画像取得**（`CLAUDE-covers.md` の手順に従う）
 6. git commit & push → Vercel自動デプロイ
-7. **スプレッドシート更新**（3バッチ完了ごとに実行）
+7. **スプレッドシート更新**
    ```bash
    python3 scripts/sync_sheets.py
    ```
+   実行タイミング：
+   - 新規記事の3バッチ完了ごと
+   - **記事リライト完了時（必ず実行）** — `rewritten:` フィールドを追加した場合は同セッション内で必ず実行する
+   - frontmatterを変更した場合（slug・genre・status・rewrittenなど）
 
 ---
 
