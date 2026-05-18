@@ -114,6 +114,24 @@ const nextConfig: NextConfig = {
       { source: '/fantasy/d-n-angel', destination: '/romance/dn-angel', permanent: true },
       { source: '/slice-of-life/komi-san', destination: '/slice-of-life/komi-cant-communicate', permanent: true },
       { source: '/action/origin', destination: '/sci-fi/origin-boichi', permanent: true },
+
+      // === Stage 3: additional renames (2026-05-18) ===
+      { source: '/fantasy/is-it-wrong-pick-up-girls', destination: '/fantasy/danmachi', permanent: true },
+      { source: '/fantasy/dungeon-ni-deai', destination: '/fantasy/danmachi', permanent: true },
+      { source: '/slice-of-life/otoyomegatari', destination: '/romance/brides-story', permanent: true },
+
+      // === Note: the following 12 URLs in the 404 report have no corresponding article ===
+      // They will naturally drop out of Google's index over time:
+      // - /sci-fi/darker-than-black, /action/darker-than-black-manga (article never existed)
+      // - /sci-fi/ran-and-the-gray-world
+      // - /horror/junji-ito-collection
+      // - /fantasy/sergeant-frog (Keroro Gunso - never written)
+      // - /fantasy/x-clamp (X by CLAMP - never written)
+      // - /sports/march-comes-in-like-a-lion, /romance/march-comes-in-like-a-lion
+      // - /fantasy/maou-gakuin (Demon King Academy - never written)
+      // - /fantasy/hero-is-overpowered-cautious
+      // - /sci-fi/gundam (too generic - multiple gundam articles exist)
+      // - /romance/kare-kano (Kareshi Kanojo - never written)
     ];
   },
 };
