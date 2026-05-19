@@ -71,6 +71,47 @@ export function getArticlesByGenre(genreSlug: string): Article[] {
   return getAllArticles().filter((a) => a.genreSlug === genreSlug);
 }
 
+export function getRelatedArticles(
+  current: Article,
+  limit: number = 6
+): Article[] {
+  const all = getAllArticles().filter(
+    (a) =>
+      a.slug !== current.slug &&
+      !a.frontmatter.noindex
+  );
+
+  const currentTags = new Set(current.frontmatter.tags || []);
+
+  const scored = all.map((a) => {
+    const sameGenre = a.genreSlug === current.genreSlug ? 1 : 0;
+    const tagOverlap = (a.frontmatter.tags || []).filter((t) =>
+      currentTags.has(t)
+    ).length;
+    // Genre match weighted 3, each tag overlap = 1, rating adds tiebreaker
+    const score = sameGenre * 3 + tagOverlap + (a.frontmatter.rating || 0) * 0.01;
+    return { article: a, score };
+  });
+
+  return scored
+    .filter((s) => s.score > 0)
+    .sort((a, b) => b.score - a.score)
+    .slice(0, limit)
+    .map((s) => s.article);
+}
+
+export function getTitleToUrlMap(): Map<string, string> {
+  const map = new Map<string, string>();
+  for (const article of getAllArticles()) {
+    if (article.frontmatter.noindex) continue;
+    const title = article.frontmatter.mangaTitle;
+    if (title) {
+      map.set(title.toLowerCase(), `/${article.genreSlug}/${article.slug}`);
+    }
+  }
+  return map;
+}
+
 export function getGenresWithCount(): { slug: string; name: string; count: number }[] {
   const articles = getAllArticles();
   const genreCounts: Record<string, number> = {};

@@ -1,5 +1,10 @@
 import { notFound } from "next/navigation";
-import { getArticle, getArticleSlugs } from "@/lib/articles";
+import {
+  getArticle,
+  getArticleSlugs,
+  getRelatedArticles,
+  getTitleToUrlMap,
+} from "@/lib/articles";
 import { getGuidesByGenre } from "@/lib/guides";
 import { GENRES, SITE_CONFIG } from "@/lib/types";
 import { generateBookPageUrl, generateBookSearchUrl } from "@/lib/affiliate";
@@ -9,6 +14,7 @@ import AuthorBox from "@/components/AuthorBox";
 import AffiliateButton from "@/components/AffiliateButton";
 import CoverImage from "@/components/CoverImage";
 import RelatedGuides from "@/components/RelatedGuides";
+import RelatedArticles from "@/components/RelatedArticles";
 import type { Metadata } from "next";
 
 interface Props {
@@ -55,6 +61,10 @@ export default async function ArticlePage({ params }: Props) {
 
   const buyUrl = generateBookSearchUrl(frontmatter.mangaTitle);
   const relatedGuides = getGuidesByGenre(genre);
+  const relatedArticles = getRelatedArticles(article, 6);
+  const titleMap = getTitleToUrlMap();
+  // Avoid self-link from the auto-link feature
+  titleMap.delete(frontmatter.mangaTitle.toLowerCase());
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -146,11 +156,13 @@ export default async function ArticlePage({ params }: Props) {
 
         <AffiliateButton url={buyUrl} mangaTitle={frontmatter.mangaTitle} showTeaser />
 
-        <MarkdownContent content={content} />
+        <MarkdownContent content={content} titleMap={titleMap} />
 
         <AffiliateButton url={buyUrl} mangaTitle={frontmatter.mangaTitle} />
 
         <RelatedGuides guides={relatedGuides} />
+
+        <RelatedArticles articles={relatedArticles} />
 
         <AuthorBox />
 
