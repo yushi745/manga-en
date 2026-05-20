@@ -132,6 +132,8 @@ const nextConfig: NextConfig = {
       { source: '/fantasy/maou-gakuin', destination: '/fantasy/misfit-demon-king-academy', permanent: true },
       { source: '/fantasy/hero-is-overpowered-cautious', destination: '/fantasy/cautious-hero', permanent: true },
       { source: '/action/dont-call-it-mystery', destination: '/action/do-not-say-mystery', permanent: true },
+      { source: '/horror/hell-paradise', destination: '/action/jigokuraku', permanent: true },
+      { source: '/romance/ao-no-flag', destination: '/romance/blue-flag', permanent: true },
 
       // === Genuinely 404 (2 URLs) — "Darker Than Black" canonical does not exist ===
       // Both /sci-fi/darker-than-black and /action/darker-than-black-manga were duplicates deleted in 46a1a55 with no surviving canonical.
