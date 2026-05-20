@@ -20,7 +20,9 @@ amazonASIN: "B01F4IYNX2"
 publishedAt: "2026-03-29"
 tags: ["sports", "volleyball", "school", "friendship", "completed", "feel-good"]
 rating: 5
+read: true
 hasAffiliate: true
+rewritten: "2026-05-20"
 ---
 
 ## Quick Take
