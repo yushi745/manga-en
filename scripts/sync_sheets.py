@@ -9,6 +9,7 @@ from google.oauth2.service_account import Credentials
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 ARTICLES_DIR = os.path.join(PROJECT_ROOT, 'src', 'content', 'articles')
+ARCHIVED_DIR = os.path.join(PROJECT_ROOT, 'src', 'content', 'archived')
 
 CREDS_FILE = '/Users/yushi/Documents/ms-contents/portal_scripts/google_credentials.json'
 SHEET_ID = os.environ.get('DEARMANGA_SHEET_ID', '1n2XORLf0mNAk94wg5dpKI-gJHWUZf-os7C84PYBnVXQ')
@@ -72,34 +73,41 @@ def get_git_tracked_covers():
 def collect_articles():
     tracked_covers = get_git_tracked_covers()
     articles = []
-    pattern = os.path.join(ARTICLES_DIR, '**', '*.md')
-    for filepath in sorted(glob.glob(pattern, recursive=True)):
-        genre_dir = os.path.basename(os.path.dirname(filepath))
-        slug = os.path.basename(filepath).replace('.md', '')
-        with open(filepath, encoding='utf-8') as f:
-            content = f.read()
-        url = f"{SITE_URL}/{genre_dir}/{slug}"
-        articles.append({
-            'mangaTitle':    get_field(content, 'mangaTitle'),
-            'mangaTitleJa':  get_field(content, 'mangaTitleJa'),
-            'mangaAuthor':   get_field(content, 'mangaAuthor'),
-            'genre':       get_field(content, 'genre'),
-            'genreSlug':   get_field(content, 'genreSlug') or genre_dir,
-            'slug':        slug,
-            'url':         url,
-            'rating':      get_field(content, 'rating'),
-            'publishedAt': get_field(content, 'publishedAt'),
-            'addedAt':     get_git_added_date(filepath),
-            'tags':        get_list_field(content, 'tags'),
-            'hasCover':    '○' if slug in tracked_covers else '×',
-            'englishStatus': get_field(content, 'englishStatus'),
-            'read':        '○' if re.search(r'^read:\s*true', content, re.MULTILINE) else '',
-            'noindex':     '○' if re.search(r'^noindex:\s*true', content, re.MULTILINE) else '',
-            'effectiveIndex': ('○' if re.search(r'^read:\s*true', content, re.MULTILINE)
-                              and not re.search(r'^noindex:\s*true', content, re.MULTILINE)
-                              else '×'),
-            'rewritten':   (lambda m: m.group(1).strip('"') if m else '')(re.search(r'^rewritten:\s*"?([^"\n]+)"?', content, re.MULTILINE)),
-        })
+    sources = [
+        (ARTICLES_DIR, False),
+        (ARCHIVED_DIR, True),
+    ]
+    for base_dir, is_archived in sources:
+        pattern = os.path.join(base_dir, '**', '*.md')
+        for filepath in sorted(glob.glob(pattern, recursive=True)):
+            genre_dir = os.path.basename(os.path.dirname(filepath))
+            slug = os.path.basename(filepath).replace('.md', '')
+            with open(filepath, encoding='utf-8') as f:
+                content = f.read()
+            url = '' if is_archived else f"{SITE_URL}/{genre_dir}/{slug}"
+            articles.append({
+                'archived':      '○' if is_archived else '',
+                'mangaTitle':    get_field(content, 'mangaTitle'),
+                'mangaTitleJa':  get_field(content, 'mangaTitleJa'),
+                'mangaAuthor':   get_field(content, 'mangaAuthor'),
+                'genre':         get_field(content, 'genre'),
+                'genreSlug':     get_field(content, 'genreSlug') or genre_dir,
+                'slug':          slug,
+                'url':           url,
+                'rating':        get_field(content, 'rating'),
+                'publishedAt':   get_field(content, 'publishedAt'),
+                'addedAt':       get_git_added_date(filepath),
+                'tags':          get_list_field(content, 'tags'),
+                'hasCover':      '○' if slug in tracked_covers else '×',
+                'englishStatus': get_field(content, 'englishStatus'),
+                'read':          '○' if re.search(r'^read:\s*true', content, re.MULTILINE) else '',
+                'noindex':       '○' if re.search(r'^noindex:\s*true', content, re.MULTILINE) else '',
+                'effectiveIndex': ('' if is_archived
+                                   else '○' if re.search(r'^read:\s*true', content, re.MULTILINE)
+                                   and not re.search(r'^noindex:\s*true', content, re.MULTILINE)
+                                   else '×'),
+                'rewritten':     (lambda m: m.group(1).strip('"') if m else '')(re.search(r'^rewritten:\s*"?([^"\n]+)"?', content, re.MULTILINE)),
+            })
     return articles
 
 
@@ -115,7 +123,7 @@ def main():
     sh = get_sheet()
     headers = ['マンガタイトル', '日本語タイトル', '著者', 'ジャンル', 'ジャンルSlug', 'Slug', 'URL',
                '評価', '公開日', '追加日', 'タグ', '画像', '英語版',
-               'Read', 'Noindex', 'インデックス対象', 'リライト済']
+               'Read', 'Noindex', 'インデックス対象', 'リライト済', 'アーカイブ済み']
     rows = [headers]
     for a in articles:
         rows.append([
@@ -136,9 +144,10 @@ def main():
             a['noindex'],
             a['effectiveIndex'],
             a['rewritten'],
+            a['archived'],
         ])
 
-    ws = get_or_create_ws(sh, '記事一覧', rows=max(len(rows) + 100, 2000), cols=max(len(headers), 17))
+    ws = get_or_create_ws(sh, '記事一覧', rows=max(len(rows) + 100, 2000), cols=max(len(headers), 18))
     ws.clear()
     ws.update(rows, 'A1', value_input_option='USER_ENTERED')
 
