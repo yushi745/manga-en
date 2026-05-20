@@ -15,22 +15,23 @@ englishVolumes: 17
 englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["realistic surgical content", "life-and-death themes", "some horror chapters", "medical ethics dilemmas"]
-description: "Black Jack is an unlicensed surgeon of impossible skill who lives on a cliff, charges fees that would bankrupt corporations, and decides which patients are worth saving. Osamu Tezuka — the God of Manga, who was himself a trained doctor — spent ten years and 243 standalone chapters on him. Vertical Inc.'s 17-volume English edition is complete."
+description: "Black Jack is an unlicensed surgeon of impossible skill who lives on a cliff, charges fees that would bankrupt corporations, and decides which patients are worth saving. Osamu Tezuka — the God of Manga, who was himself a trained doctor — spent ten years and 242 standalone chapters on him. Vertical Inc.'s 17-volume English edition is complete."
 amazonASIN: "1934287253"
 publishedAt: "2025-12-13"
 rewritten: "2026-05-19"
 tags: ["drama", "medical", "tezuka", "classic", "manga-history", "anthology"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 
-My grandfather had a complete set of Black Jack on his bookshelf. Seventeen volumes, well-thumbed, with one chapter — I never figured out which one — that he'd marked with a Post-It he'd stopped looking at. When he died, my mother asked me which of his books I wanted. I asked for the Black Jack set. I read it the summer I was fourteen, in his old study, and I didn't understand why he'd kept it close until I was much older.
+Black Jack is one of the foundational works in manga history — Osamu Tezuka's most personal long-running project, and the manga most often cited when people argue that Japanese manga can carry the same literary weight as serious fiction in any medium. Tezuka was a trained physician who chose manga as his career. Black Jack is the work where those two halves of his life met.
 
-Now I do.
+Two hundred forty-two standalone chapters across ten years, each a complete medical-ethics case. Most other manga of its era did not survive that scale. Black Jack did, and is still being read today.
 
 ## Quick Take
 
-- Osamu Tezuka's greatest character work — 243 standalone chapters across ten years, each a complete medical ethics case
+- Osamu Tezuka's greatest character work — 242 standalone chapters across ten years, each a complete medical ethics case
 - Black Jack himself is one of manga's most fully realized antiheroes: capable of extraordinary tenderness and equally extraordinary cruelty in adjacent panels
 - Age rating: **T (Teen)** — realistic surgical content, life-and-death stakes, some horror; the violence is medical rather than action
 
@@ -55,7 +56,7 @@ The man you read about isn't a mercenary. He's a person who has decided that the
 If you found this article searching for *Young Black Jack* (ヤング ブラック・ジャック), that's a different manga:
 
 - **Young Black Jack** (2011–2019, 16 volumes) is a **prequel** written by Yoshiaki Tabata and illustrated by Yu-go Okuma. It is **not** by Osamu Tezuka. It depicts Kuroo Hazama as a medical student in the late 1960s and early 1970s, before he became Black Jack
-- **Original Black Jack** (1973–1983, 17 volumes, 243 chapters) is **Osamu Tezuka's** anthology — the canonical work
+- **Original Black Jack** (1973–1983, 17 volumes, 242 chapters) is **Osamu Tezuka's** anthology — the canonical work
 - Young Black Jack is licensed in English by Vertical (8 volumes published, license currently on hold)
 - The original Black Jack is the work this review covers
 
@@ -69,7 +70,7 @@ Each chapter is **a single case**, complete in itself. A girl whose immune syste
 
 Tezuka was a **trained physician**. The surgical content is rendered with anatomical knowledge other manga of the era did not have. But the medicine is not the manga's main interest. The medicine is the language in which Tezuka asks his actual questions: what is a life worth? Who decides? What does the official system protect, and what does it kill? Can a person who works outside that system be moral, or just useful?
 
-Two hundred forty-three chapters of these questions, in 10 years, without repeating himself.
+Two hundred forty-two chapters of these questions, in 10 years, without repeating himself.
 
 The series has one running character besides Black Jack: **Pinoko**. She is a creature Black Jack assembled from a teratoid cyst — a partially-formed twin that had been growing inside another person for eighteen years. Black Jack reconstructed her, gave her a body, and she has lived with him ever since, considering herself his wife despite her child-sized frame and her unique developmental situation. Pinoko is the manga's emotional anchor. Her absolute devotion to Black Jack and his quietly genuine care for her are the warmest sustained relationship in an otherwise cold examination of human worth.
 
@@ -127,19 +128,13 @@ He considered it among his most personal work. Some of the chapters are based on
 
 ## What I Love About It
 
-The chapter where Black Jack saves a patient he hates.
+Pinoko.
 
-I won't spoil which chapter. What I'll say: somewhere in the middle of the series, Black Jack is approached by a man whose past actions Tezuka has been clear were monstrous. The man needs surgery only Black Jack can perform. The man can pay any fee Black Jack demands.
+Among Tezuka's hundreds of characters across his career, Pinoko is one of the strangest and one of the most carefully written. Her introduction (volume 2 of the Vertical edition) is one of the most-discussed cases in the entire run: Black Jack operates on a young woman whose body has been carrying a teratoma — a developmentally arrested twin sister whose tissues and organs have been growing inside her for eighteen years. Black Jack extracts the teratoma and, using a synthetic body, gives it its own existence. The teratoma had its own consciousness during those eighteen years; it remembers. The being Black Jack reconstructs introduces herself as Pinoko and declares she is Black Jack's wife.
 
-Black Jack takes the case.
+What Tezuka does with this premise is the manga's quiet thesis. Pinoko is not a sidekick. She is not comic relief. She is a person whose existence is impossible by ordinary medical and ethical frameworks, and Black Jack — who has spent the series operating outside frameworks anyway — accepts her without trying to fit her into one. He cooks for her. He scolds her. He brings her to cases. He treats her, in every panel, as if her personhood is not in question.
 
-The chapter is built around the question of why. Black Jack doesn't explain. He doesn't lecture. He doesn't make a speech about the sanctity of life or the surgeon's oath. He just operates. He saves the patient. He sends him away. He takes the fee — which we then watch him donate, in the next panel, to a victim of the patient's past actions.
-
-What's beautiful is what the chapter refuses to do. It refuses to redeem the bad patient. It refuses to make Black Jack a hero for saving him. It refuses to resolve the moral question of whether the operation was the right choice. Tezuka leaves you in the discomfort. He shows you what Black Jack did and what came of it and lets you decide what kind of doctor — what kind of person — does this work.
-
-That's what I think about when I think about Black Jack. The manga isn't about miraculous medicine. It's about what you do when the rules and the right thing don't agree, and you're the only person in the room who can act on the difference. Most fiction settles those questions. Black Jack lets them stay unsettled. That's the gift Tezuka left.
-
-I think that's the chapter my grandfather marked.
+The implicit argument is the manga's ethic in compressed form: a life is not less of a life because the system did not authorize it. Pinoko exists. Black Jack chooses to take that existence seriously. The whole manga is, in some sense, the same choice repeated across 242 cases.
 
 ## What English-Speaking Fans Say
 
@@ -149,15 +144,15 @@ Medical readers (doctors, nurses, students) report that the surgical content hol
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The chapter that finally explains the origin of Black Jack's scars.
+The chapters that explain Black Jack's scars and his two-toned face.
 
-Late in the run, Tezuka returns to the childhood accident that nearly killed Kuroo Hazama. A bomb. A field. A child in pieces. A surgeon named **Dr. Honma** who refused to give up — who spent days assembling him from fragments, grafting tissue from a friend who volunteered the donation, rebuilding a face. The scars are the visible record of that reconstruction.
+When Kuroo Hazama (Black Jack's real name) was a child, he and his mother were caught in an explosion caused by land developers improperly handling buried unexploded ordnance. The injuries were severe; the doctor who saved his life was **Honma Joutarou** — a surgeon who refused to give up despite the establishment medicine of the time considering the case unsalvageable. Honma's work on Black Jack included a skin graft from his close childhood friend **Takashi**, whose mother was Black African. The graft is the reason Black Jack's face is visibly two-toned — one side of his skin is from Takashi.
 
-What makes the scene the manga's emotional center is what Black Jack feels about Honma. Not gratitude. Not exactly. Something more precise. Honma did something the medical establishment told him was impossible — and then died years later in conditions Black Jack still doesn't fully accept. Black Jack's career is, in some sense, an extended argument with the system that failed Honma even though it could not deny what Honma had done.
+The manga makes a specific moral choice about this skin. Black Jack has the surgical skill to replace it with matching tissue. He has chosen not to. The two-toned face is, in his ethical framework, a permanent acknowledgment of what Takashi's donation made possible. He carries the friendship on his face.
 
-The chapter ends with Black Jack visiting Honma's grave. He stays there a long time. The panel is small. The dialogue is minimal. Tezuka draws him from behind, alone, in front of the stone. Pinoko is not there. No patient is there. There's no case to solve. Black Jack just stands there, in the rain, and we are allowed to be in the silence with him.
+Honma later dies. The chapter depicting his death is **Chapter 29, "Sometimes Like Pearls"** in the original serialization. Black Jack is with him at the end. The relationship between them — what Honma did for Hazama, what Hazama owes the man who made his medical career possible, and what it means to be unable to save the doctor who saved you — is the foundation of everything Black Jack later becomes as a character.
 
-That's the moment the series stops being a procedural and becomes a portrait.
+Tezuka has said that the Honma backstory drew on his own life. As a wartime child, Tezuka developed a severe arm infection that nearly killed him. A doctor saved his arm and his life. That experience — being saved by a physician — was what led Tezuka to become a physician himself. Honma is, in some sense, the doctor who saved Tezuka, written into the manga as the doctor who saved Black Jack.
 
 ## Similar Manga
 
@@ -176,7 +171,7 @@ If you want the recommended starting points: **Volume 1** (foundational chapters
 
 ## Official English Translation Status
 
-**Vertical Inc.** published the complete 17-volume English edition (collecting all 243 chapters plus bonus material) between 2008 and 2011. The edition is in print and digital. **Young Black Jack** (the prequel by other authors) has 8 volumes in English; the license is currently on hold.
+**Vertical Inc.** published the complete 17-volume English edition (collecting all 242 chapters plus bonus material) between 2008 and 2011. The edition is in print and digital. **Young Black Jack** (the prequel by other authors) has 8 volumes in English; the license is currently on hold.
 
 ## Pros & Cons
 

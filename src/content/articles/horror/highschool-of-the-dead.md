@@ -21,12 +21,13 @@ publishedAt: "2025-03-30"
 rewritten: "2026-05-18"
 tags: ["horror", "action", "zombie", "mature", "post-apocalyptic", "incomplete"]
 rating: 3
+read: true
 hasAffiliate: true
 ---
 
-I read Highschool of the Dead in high school. I'm slightly embarrassed about that now, but it's the truth. I was fifteen, I had no friends at school, and the idea that maybe the bell would ring and everything would change — even if it changed into an apocalypse — was the kind of fantasy I needed.
+Highschool of the Dead is one of the most divisive zombie manga ever published in English. The series puts an apocalypse-grade outbreak inside a Japanese high school, hands a katana to a kendo club captain, and then proceeds to draw the entire ensemble with a level of fanservice that makes the work hard to recommend without serious caveats. Underneath all of that, the manga's character writing — particularly around Saeko Busujima — is more careful than the cover art suggests.
 
-Looking back, the series is messier than I remembered. It's also better than the discourse around it suggests. Both of those things are true at once.
+The series is messier than its reputation suggests in both directions. It's better than the discourse around it. It's also worse. Both things are true at once.
 
 ## Quick Take
 
@@ -87,7 +88,7 @@ Volumes 6–7 are an attempted escape from the Takagi compound to find a place t
 
 **Rei Miyamoto** — Rei is more complicated. Her backstory involves her father being a cop, her boyfriend (Takashi's friend Hisashi) dying in the first chapter, and her grief is the most emotionally serious thread the series carries. The romance triangle with Takashi and Saeko is awkward but the grief is real.
 
-**Saeko Busujima** — The character the series cares about most. She's a kendo prodigy from a family that raised her to be a weapon. Volume 4 has a long sequence where she and Takashi are separated from the group, and she confronts what she is — that she enjoys fighting, that she's afraid of what enjoying it makes her, that she can't tell whether what she did to a man who attacked her as a child was self-defense or something darker. Takashi's response is one of the moments the series is at its actual best. If HOTD had been finished, Saeko would have been the emotional core.
+**Saeko Busujima** — The character the series cares about most. She's a kendo prodigy. Volume 4 has the sequence where she and Takashi are separated from the group and spend the night in a shrine. There, she confides in him the incident she has been carrying since junior high — she was attacked by a man on her way home, she fought back with her wooden sword, and she injured him badly enough to break bones. What she has not been able to tell anyone before is that during the fight she felt something closer to pleasure than fear. She has been afraid since then that she is wrong inside. Takashi's response — that he accepts her without making the confession either dramatic or pathological — is the moment the series is at its actual best. If HOTD had been finished, Saeko would have been the emotional core.
 
 **Saya Takagi** — Bright, sharp-tongued, useless in a physical fight and aware of it. The Takagi estate arc is built around her relationship with her parents and the cost of being raised by a man who treats his daughter like a project.
 
@@ -101,13 +102,13 @@ The action panels alone justify the art rating. Whether you can read past the fa
 
 ## What I Love About It
 
-There's a sequence in volume 4 — Saeko and Takashi alone, separated from the group, finding shelter in an abandoned shrine — where the series briefly stops being a fanservice action manga and becomes something else. Saeko tells Takashi about an incident from her childhood. A man attacked her. She fought back. She injured him badly. Decades later she still doesn't know whether what she felt during it was fear or pleasure.
+The shrine sequence in volume 4.
 
-She's telling this to the boy she's started to love because she needs him to know what he might be choosing.
+After the EMP destroys the survivors' equipment and the Takagi estate is overrun, the group separates. Takashi and Saeko break off together to draw the zombies away, and they end up sheltering at an abandoned shrine for the night. There, the series briefly stops being a fanservice action manga and becomes something else.
 
-What Takashi does — and what the framing of the panels does — is treat her as a person rather than as a confessor or a project. He doesn't fix her. He doesn't lecture. He listens, and then he says one specific thing that the manga earns because it's been building toward exactly this moment without telling you it was. I'm not going to spoil the line.
+Saeko tells Takashi about an incident from her junior high school years. A man attacked her on the way home. She had her wooden sword with her. She fought back — and she did not stop fighting back when she could have. She injured him enough to break his leg and his shoulder. What she has not been able to say to anyone before is that during the fight she felt something closer to pleasure than to fear. She has spent the years since believing there is something wrong inside her.
 
-That scene is the answer to the question "why does anyone defend Highschool of the Dead." The series has a soul under the panty shots. It just doesn't always remember to show you.
+Takashi does not fix her. He does not lecture. He listens, and then he says one specific thing that the manga has been building toward without telling you it was. The chapter is the answer to the question "why does anyone defend Highschool of the Dead." The series has more underneath the panty shots than the cover art suggests. It just doesn't always remember to show you.
 
 ## What English-Speaking Fans Say
 
@@ -121,11 +122,11 @@ All three are correct. The anime brought the series global reach in 2010 but the
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The end of volume 4: Saeko, alone, surrounded, fighting through a mass of "them" on a flooded street. The water is dark. The lighting is dark. She's been pushed past the point where the series usually frames her with restraint, and Sato draws her in full — terrified, exhausted, pleased to be fighting, hating that she's pleased.
+The shrine confession in volume 4 (covered in the section above) is the moment the manga earns the rest of its existence.
 
-Takashi reaches her in time. The pages where he reaches her are some of the cleanest visual storytelling in horror manga. No dialogue. Just his face seeing what she is and choosing to keep being beside her anyway.
+The choice Saeko makes at the shrine — to stop running from what she is, to fight the zombies with all of herself rather than the censored version of herself she had been performing — propagates through the rest of the series. Every Saeko action sequence after volume 4 carries the weight of that confession. The kendo prodigy who in earlier volumes was an action set piece becomes, after the shrine, a person whose violence the reader is asked to understand rather than just enjoy.
 
-That's the page I think about when I think about HOTD. Everything else around it might be the series being what it is. But that page is the series being what it could have been.
+The series ends mid-arc with Daisuke Sato's death in 2017. The Saeko character arc, however, has a real resolution in volume 4 — and that resolution is enough to make the series worth defending even when so much around it is hard to defend.
 
 ## Similar Manga
 

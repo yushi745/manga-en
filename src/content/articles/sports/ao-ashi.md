@@ -9,20 +9,21 @@ mangaTitleJa: "アオアシ"
 mangaAuthor: "Yugo Kobayashi"
 serialization: "Big Comic Spirits"
 publisher: "Shogakukan / VIZ Media"
-volumes: 34
+volumes: 40
 status: "Completed"
 englishVolumes: 6
 englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["sports competition", "themes of failure and selection pressure"]
-description: "Yu's review of Ao Ashi — Ashito Aoi is recruited to the FC Tokyo youth academy with a rare gift: he can see every player on the field simultaneously. But his coach already knows he is not a striker. The best soccer manga in English."
+description: "Yu's review of Ao Ashi — Ashito Aoi is recruited to the Tokyo City Esperion youth academy with a rare gift: he can see every player on the field simultaneously. But his coach already knows he is not a striker. The best soccer manga in English."
 amazonASIN: "1974747859"
 publishedAt: "2026-03-15"
-updatedAt: "2026-05-17"
+updatedAt: "2026-05-20"
 tags: ["sports", "soccer", "completed", "teen", "viz-media", "big-comic-spirits", "seinen"]
 rating: 5
+read: true
 hasAffiliate: true
-rewritten: "2026-05-17"
+rewritten: "2026-05-20"
 ---
 
 When I was in high school, my football coach moved me from striker to defensive midfielder. I was furious. I thought he was punishing me. Two years later, I understood he had seen something in me that I couldn't see in myself.
@@ -80,7 +81,7 @@ Key arcs include:
 
 ## Characters
 
-**Ashito Aoi** — The story belongs to him, but he is not easy to root for at first. He is arrogant, impulsive, and repeatedly makes the same mistake: prioritizing what he wants over what the team needs. The series is patient with him. His development from instinct-driven striker to positionally intelligent left back takes years of story time, and Kobayashi earns every step of it. The player Ashito becomes by volume 34 is unrecognizable from the boy who showed up at the tryout.
+**Ashito Aoi** — The story belongs to him, but he is not easy to root for at first. He is arrogant, impulsive, and repeatedly makes the same mistake: prioritizing what he wants over what the team needs. The series is patient with him. His development from instinct-driven striker to positionally intelligent left back takes years of story time, and Kobayashi earns every step of it. The player Ashito becomes by the end of the series is unrecognizable from the boy who showed up at the tryout.
 
 **Coach Fukuda** — He is the series' most unusual character. He saw Ashito's talent before Ashito did, had a plan for it before they even spoke, and has not explained that plan in full to this day. His coaching style is indirect — he creates situations where players discover things themselves rather than being told. He played in Spain. He has a vision for what world-class soccer looks like, and he is building toward it with his youth players. He is one of the most convincingly written sports mentors in manga because his philosophy is specifically about soccer, not about life lessons.
 
@@ -147,11 +148,11 @@ This is what separates Ao Ashi from most sports manga. The setbacks are not step
 
 Volume 1 — Ashito's discovery and the academy trial. The first three volumes establish everything the series is built on.
 
-VIZ Media is publishing the English edition. At 6 volumes in English against 34 in Japanese, you will eventually hit the wall of the ongoing translation. The Japanese run is complete; the story has an ending.
+VIZ Media is publishing the English edition. At 6 volumes in English against 40 in Japanese, you will eventually hit the wall of the ongoing translation. The Japanese run is complete; the story has an ending.
 
 ## Official English Translation Status
 
-VIZ Media is actively publishing the English edition. The Japanese series is complete at 34 volumes. English publication is ongoing — expect the full story to take several more years to reach English readers.
+VIZ Media is actively publishing the English edition. The Japanese series is complete at 40 volumes (serialized 2015–2025 in Big Comic Spirits). English publication is ongoing — expect the full story to take several more years to reach English readers.
 
 Digital editions are available via VIZ's platform. The print volumes are also in wide release.
 
@@ -161,7 +162,7 @@ Digital editions are available via VIZ's platform. The print volumes are also in
 - The most tactically accurate soccer manga available in English — developed with real soccer journalists
 - Ashito's development is slow, earned, and genuinely satisfying over the full series
 - The professional youth academy setting is unique — realistic selection pressure, no high school nostalgia
-- 34 volumes complete in Japanese; the story has a proper ending
+- 40 volumes complete in Japanese (2015–2025); the story has a proper ending
 
 **Cons**
 - English translation is ongoing — you will catch up and then wait
@@ -184,7 +185,7 @@ The ongoing English translation is the only real obstacle. If you read six volum
 |--------|-------|
 | Individual Volumes | VIZ Media; ongoing English publication; 6 volumes available |
 | Digital | Available via VIZ; same content as print |
-| Japanese (complete) | 34 volumes; for readers who can't wait for the translation |
+| Japanese (complete) | 40 volumes; for readers who can't wait for the translation |
 
 ## Where to Buy
 

@@ -21,6 +21,7 @@ publishedAt: "2025-03-26"
 updatedAt: "2026-05-17"
 tags: ["horror", "slice-of-life", "mature", "completed", "asano", "psychological", "devastating"]
 rating: 5
+read: true
 hasAffiliate: true
 rewritten: "2026-05-17"
 ---

@@ -8,19 +8,20 @@ mangaTitleJa: "憂国のモリアーティ"
 mangaAuthor: "Ryousuke Takeuchi / Hikaru Miyoshi"
 serialization: "Jump Square"
 publisher: "Shueisha / Viz Media"
-volumes: 16
-status: "Completed"
-englishVolumes: 16
-englishStatus: "Complete"
+volumes: 22
+status: "Ongoing"
+englishVolumes: 18
+englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["murder as political method", "class violence", "social inequality themes", "non-graphic violence"]
-description: "William James Moriarty — Sherlock Holmes's future archenemy — reimagined as a young nobleman who decides Victorian England's class system can only be destroyed by murdering the people who benefit from it. 16 volumes complete; one of the most morally serious historical manga Viz has published."
+description: "William James Moriarty — Sherlock Holmes's future archenemy — reimagined as a young nobleman who decides Victorian England's class system can only be destroyed by murdering the people who benefit from it. Part 1 complete (19 volumes); Part 2 ongoing since December 2024. One of the most morally serious historical manga Viz has published."
 coverImage: "/covers/moriarty-the-patriot.jpg"
 amazonASIN: "1974720497"
 publishedAt: "2024-09-25"
-rewritten: "2026-05-18"
+rewritten: "2026-05-20"
 tags: ["action", "mystery", "historical", "sherlock-holmes", "victorian", "viz"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 
@@ -31,7 +32,7 @@ Moriarty the Patriot is what happens when two manga authors decide that empty sp
 ## Quick Take
 
 - Sherlock Holmes's archenemy reimagined as the protagonist — and the reframe is taken seriously enough that you'll have to actually argue with his ideology, not just dismiss it
-- One of the cleanest "villain you sympathize with" cases in recent manga; Doyle fans and newcomers both well-served
+- Part 1 is complete; Part 2 began serialization in Jump Square in December 2024 — VIZ is on volume 18 in English
 - Age rating: **T (Teen)** — themes are dark (murder, class violence) but visual content is restrained
 
 ## What Is the Age Rating for Moriarty the Patriot?
@@ -76,7 +77,7 @@ Their first real meeting — on the Noahtic, a luxury ship where a case has been
 - **Sherlock Holmes fans** who want a fresh angle on the canon without a cynical inversion
 - **Readers who like morally complicated protagonists** — William is not redeemed and not condemned
 - **Historical fiction fans** who appreciate Victorian England rendered with actual texture
-- **Completionists** — 16 volumes, all available in English, with a real ending
+- **Completionists** — Part 1 (the original main story) reaches a real ending; Part 2 is a continuation that just began
 
 ## Content Warnings & Age Rating
 
@@ -91,7 +92,7 @@ The series structures itself in three movements that I'll lay out without spoili
 
 **Volumes 5–9** are the Holmes-Moriarty period. The series gains a second protagonist whose perspective is fundamentally different. Holmes investigates cases William has engineered. The two men begin to read each other. The middle of the series is, in some ways, an extended chess game — but the stakes aren't just winning, they're whether William's plan will succeed before Holmes can stop him.
 
-**Volumes 10–16** are the endgame. William's real plan emerges. It is not "destroy aristocrats one by one." It is something larger and more theatrical — a single act designed to permanently change British society. The cost he has calculated to himself is total. The series moves toward the Reichenbach equivalent Doyle promised, and it gets there with weight.
+**The final arc** is the endgame. William's real plan emerges. It is not "destroy aristocrats one by one." It is something larger and more theatrical — a single act designed to permanently change British society. The cost he has calculated to himself is total. The series moves toward the Reichenbach equivalent Doyle promised, and it gets there with weight.
 
 ## Characters
 
@@ -121,11 +122,11 @@ The Victorian England they construct is the real one — class abuse documented 
 
 The bridge scene at the end. I won't tell you what happens on it — anyone who knows the Doyle canon already knows the rough shape — but the way this manga arrives at the bridge is one of the things I keep thinking about.
 
-The series has spent fifteen volumes positioning William as someone who has calculated everything. His plan, his costs, his ending. Holmes, meanwhile, has spent fifteen volumes becoming the only person in the world who can read William entirely. The bridge scene is what happens when those two facts collide.
+The series has spent many volumes positioning William as someone who has calculated everything. His plan, his costs, his ending. Holmes, meanwhile, has spent many volumes becoming the only person in the world who can read William entirely. The bridge scene is what happens when those two facts collide.
 
 What's specifically beautiful is what William says before the moment that the audience has been waiting for. It's a line about being seen. Not about ideology, not about justice, not about Britain. About being seen by one specific person, finally, after a life spent making himself unreadable to everyone else. Holmes says one thing back. It is correct in the way only the right reader's response can be correct. And then the panel turns.
 
-That's why this manga is great. It spent fifteen volumes building a protagonist whose entire structure was "I am alone because I have to be," and then it earned a moment where he isn't.
+That's why this manga is great. It spent many volumes building a protagonist whose entire structure was "I am alone because I have to be," and then it earned a moment where he isn't.
 
 ## What English-Speaking Fans Say
 
@@ -157,7 +158,7 @@ Volume 1. The Moriarty backstory is laid out from the beginning and you need it 
 
 ## Official English Translation Status
 
-Viz Media published all 16 volumes in English in print and digital. The series concluded its original run; a sequel ("Moriarty the Patriot - Part 2") began serialization in Jump Square in 2025 but has not yet been licensed.
+Viz Media has published 18 volumes in English in print and digital as of 2026, with remaining Part 1 volumes scheduled through 2026. Part 1 of the manga has reached its ending. Part 2 began serialization in Jump Square in December 2024 and continues; no English license for Part 2 has been announced yet.
 
 ## Pros & Cons
 
@@ -165,7 +166,7 @@ Viz Media published all 16 volumes in English in print and digital. The series c
 - One of the best villain-as-protagonist series in current manga, full stop
 - Holmes is handled with care and earns his arrival
 - Genuinely engages with the historical period rather than using it as wallpaper
-- The ending lands; sixteen volumes of buildup pay off
+- The ending lands; many volumes of buildup pay off
 
 **Cons**
 - The first 3–4 volumes are episodic and some readers want Holmes immediately
@@ -180,7 +181,7 @@ Yes. Especially if you have any interest in Sherlock Holmes or in morally comple
 
 | Format | Notes |
 |--------|-------|
-| Physical (Viz) | All 16 volumes available in English. Standard tankoubon size |
+| Physical (Viz) | 18 volumes available in English as of 2026. Standard tankoubon size |
 | Digital | Available via Viz Media and major digital storefronts |
 | Omnibus | Not available |
 

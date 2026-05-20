@@ -11,7 +11,7 @@ serialization: "Weekly Shonen Sunday"
 publisher: "Shogakukan / VIZ Media"
 volumes: 26
 status: "Completed"
-englishVolumes: 26
+englishVolumes: 12
 englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["major character death", "grief", "mild romance"]
@@ -21,6 +21,7 @@ publishedAt: "2026-04-21"
 rewritten: "2026-05-19"
 tags: ["sports", "baseball", "romance", "classic", "adachi"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 
@@ -133,7 +134,7 @@ When my uncle told me he couldn't decide whether to be Tatsuya or Kazuya, I thin
 
 ## What English-Speaking Fans Say
 
-Touch has a small but devoted English-language fan base. VIZ's 26-volume English release (2009–2012) brought the series to Western readers for the first time, and the consistent response from Anglophone Adachi readers is that Touch is the manga that converted them to the entire Adachi catalog.
+Touch has a small but devoted English-language fan base. VIZ Media's English release (12 omnibus volumes, 2009–2012) brought the series to Western readers for the first time, and the consistent response from Anglophone Adachi readers is that Touch is the manga that converted them to the entire Adachi catalog.
 
 The death in volume 6 is universally cited as one of the most emotionally affecting moments in any manga. The ending — the final game, the final panel — is universally cited as one of manga's best.
 
@@ -166,7 +167,7 @@ For Adachi-curious readers: Touch first, then either Cross Game or H2 depending 
 
 ## Official English Translation Status
 
-**VIZ Media** published all 26 volumes in English in 2009–2012. The edition is print and digital. The series is complete.
+**VIZ Media** published the complete series in English as 12 omnibus volumes (each collecting two Japanese tankōbon) from 2009 to 2012. The edition is available in print and digital. The series is complete.
 
 ## Pros & Cons
 
@@ -175,7 +176,7 @@ For Adachi-curious readers: Touch first, then either Cross Game or H2 depending 
 - One of the best-realized character studies in any manga (Tatsuya)
 - The death in volume 6 is among manga's most affecting moments
 - The Koshien arc and ending pay off everything
-- 26 volumes complete with no filler
+- All 26 Japanese volumes complete in English (12 omnibus) with no filler
 
 **Cons**
 - Adachi's slow pace is real; readers who want event-density will struggle with early volumes
@@ -191,7 +192,7 @@ Yes. If you have any interest in manga as a medium for emotional storytelling, T
 
 | Format | Notes |
 |--------|-------|
-| Physical (VIZ) | All 26 volumes in English. Standard tankoubon |
+| Physical (VIZ) | 12 omnibus volumes in English, collecting all 26 Japanese tankōbon |
 | Digital | Available via VIZ digital, Kindle |
 | Omnibus | Not available |
 

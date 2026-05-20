@@ -20,6 +20,7 @@ publishedAt: "2026-04-27"
 rewritten: "2026-05-18"
 tags: ["action", "gambling", "thriller", "psychological", "seinen", "unlicensed"]
 rating: 4
+read: true
 hasAffiliate: false
 ---
 
