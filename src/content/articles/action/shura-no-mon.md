@@ -19,9 +19,7 @@ description: "Shura no Mon follows Tsukumo Mutsu, inheritor of an ancient Japane
 publishedAt: "2026-04-22"
 tags: ["action", "martial-arts", "classic", "completed"]
 rating: 4
-read: true
 hasAffiliate: false
-rewritten: "2026-05-20"
 ---
 
 What if the deadliest martial art in history survived to the present — and its inheritor didn't want to kill, but the art didn't care?

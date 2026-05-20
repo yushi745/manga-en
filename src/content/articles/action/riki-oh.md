@@ -28,9 +28,7 @@ tags:
   - "prison"
   - "violence"
 rating: 4
-read: true
 hasAffiliate: true
-rewritten: "2026-05-20"
 ---
 
 ## Quick Take

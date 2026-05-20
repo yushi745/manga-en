@@ -20,9 +20,7 @@ amazonASIN: "1595823492"
 publishedAt: "2025-11-20"
 tags: ["sci-fi", "romance", "completed", "teen", "dark-horse", "evangelion", "alternate-universe", "romantic-comedy"]
 rating: 3
-read: true
 hasAffiliate: true
-rewritten: "2026-05-20"
 ---
 
 ## Quick Take

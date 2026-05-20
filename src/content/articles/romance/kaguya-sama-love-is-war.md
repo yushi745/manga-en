@@ -20,9 +20,7 @@ amazonASIN: "1974700887"
 publishedAt: "2026-04-29"
 tags: ["romance", "comedy", "school", "psychological", "student council"]
 rating: 5
-read: true
 hasAffiliate: true
-rewritten: "2026-05-20"
 ---
 
 ## Quick Take
