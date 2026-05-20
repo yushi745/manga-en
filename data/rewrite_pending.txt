@@ -1,0 +1,10 @@
+# 13-article batch (from rule clarification 2026-05-20) — remaining 8
+# Rule: 必ずフルリライト。WebFetchでデータ取れなかった場合のみアーカイブ。
+my-id-is-gangnam-beauty	src/content/articles/romance/
+omniscient-readers-viewpoint	src/content/articles/action/
+i-love-yoo	src/content/articles/romance/
+princess-princess	src/content/articles/romance/
+serial-experiments-lain	src/content/articles/sci-fi/
+tetsujin-28-go	src/content/articles/action/	# frontmatter修正済、本文未着手
+shura-no-mon	src/content/articles/action/
+shinji-ikari-raising-project	src/content/articles/sci-fi/
