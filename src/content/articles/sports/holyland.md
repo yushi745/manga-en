@@ -21,6 +21,7 @@ publishedAt: "2026-04-01"
 rewritten: "2026-05-19"
 tags: ["action", "martial-arts", "psychological", "seinen", "completed"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

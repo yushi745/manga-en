@@ -11,15 +11,16 @@ serialization: "Monthly Shonen Magazine"
 publisher: "Kodansha"
 volumes: 50
 status: "Completed"
-englishVolumes: 50
-englishStatus: "Ongoing"
+englishVolumes: 2
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["mystery violence", "death (off-page)", "mathematical content"]
-description: "Touma Sou graduated from MIT at fifteen and came home to attend a normal Japanese high school. The high school turns out to be full of murders, locked rooms, and impossible crimes. His classmate Kana Mizuhara keeps dragging him into them. Motohiro Katou's 50-volume honkaku mystery manga is one of the most intellectually rigorous in the genre. The full series is now available digitally in English from Kodansha USA."
+description: "Touma Sou graduated from MIT at fifteen and came home to attend a normal Japanese high school. The high school turns out to be full of murders, locked rooms, and impossible crimes. His classmate Kana Mizuhara keeps dragging him into them. Motohiro Katou's 50-volume honkaku mystery manga is one of the most intellectually rigorous in the genre. Only 2 volumes were released in English by Del Rey (2005–2006)."
 publishedAt: "2026-04-26"
 rewritten: "2026-05-20"
 tags: ["mystery", "detective", "logic", "math", "school", "shonen"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 
@@ -33,29 +34,13 @@ That's a rare thing for a manga to do. Most "genius protagonist" manga ask you t
 - Touma Sou is a 15-year-old MIT graduate who returned to Japan for normal adolescence and got mysteries instead
 - Age rating: **T (Teen)** — mystery violence and death are present but never graphic
 
-## Is Q.E.D. Available in English? (Kodansha USA Digital Release Status)
+## Is Q.E.D. Available in English?
 
-This is the question almost every English-speaking reader has about Q.E.D., so let me address it directly.
+The short answer: **mostly no**. Only the first 2 volumes of the original 50-volume run were translated into English, by Del Rey in 2005–2006. The release stopped after volume 2 and the manga's intellectual register didn't find its market in the US at the time. Those 2 volumes are out of print and collectors' items.
 
-**The short answer: Yes, Q.E.D. is now available digitally in English through Kodansha USA.**
+**No license has been confirmed for the remaining 48 volumes or for the sequel series Q.E.D. iff (2015–) and Q.E.D. UNIV. (2025–) as of 2026.** For English readers who want to continue past volume 2, the practical options are reading in Japanese or relying on scanlation.
 
-The history:
-- **2005–2006**: Kodansha Comics (then Del Rey) released **2 volumes** in physical English print. The release stopped after volume 2 and was widely considered a commercial failure — the manga's intellectual register didn't find its market in the US in the mid-2000s. Those 2 volumes are now out of print and collectors' items
-- **2022–onwards**: **Kodansha USA Digital** began releasing the manga digitally in English, starting from volume 1. The digital release has been steady — multiple volumes per year — and is now the primary way English readers access the series
-- **Current status (2026)**: Volumes are available digitally on Kindle, Comixology, and the Kodansha digital storefront. The entire 50-volume run is either available now or scheduled for release in the digital catalog
-
-**Where to read in English (digital)**:
-- Kindle / Amazon (search "Q.E.D. Kodansha")
-- Comixology (now part of Kindle)
-- Kodansha USA's digital storefront
-
-**Physical English edition**:
-- Only volumes 1–2 from the Del Rey era; out of print
-- No new physical release announced
-
-**The sequel** — **Q.E.D. iff** (証明終了, started 2015, ongoing in Japan) — is also being licensed digitally by Kodansha USA, releasing alongside the original series.
-
-If you searched "Q.E.D. manga English digital release Kodansha USA" hoping the manga was finally available — it is. Start with volume 1.
+This is genuinely one of the great untranslated mystery manga. A future license remains possible but is not currently announced.
 
 ## What Is Q.E.D. About?
 
@@ -155,7 +140,7 @@ That's the gift Katou gave me as a non-math reader. I don't have Touma's mind. B
 
 ## What English-Speaking Fans Say
 
-Q.E.D. has a small but devoted English-language fan community. The 2005–2006 Del Rey release built initial awareness; the 2022-onward Kodansha USA digital release has expanded it. Reddit and MAL discussions of the manga focus on:
+Q.E.D. has a small but devoted English-language fan community. The 2005–2006 Del Rey release built initial awareness, but stopped after only 2 volumes. Reddit and MAL discussions of the manga focus on:
 
 - The intellectual rigor of the mysteries (universally praised)
 - The slow-burn Touma-Kana relationship (loved by long-term readers, occasionally frustrating to new readers who want resolution)
@@ -187,20 +172,18 @@ The case ends with Touma writing the equivalent of Q.E.D. on the chalkboard — 
 
 Volume 1. Each volume is self-contained but the character relationships develop across the run.
 
-For new readers: **Kodansha USA's digital release**, starting from volume 1.
+For new English readers: the Del Rey volumes 1–2 give you a taste; beyond that, the rest of the series is currently only available in Japanese.
 
 ## Official English Translation Status
 
-**Kodansha USA Digital** is releasing the full series digitally in English (ongoing release as of 2026). The earlier 2-volume Del Rey print run (2005–2006) is out of print and not the current way to access the manga. Search "Q.E.D. Kodansha" on Kindle/Amazon or visit the Kodansha digital storefront.
-
-The sequel **Q.E.D. iff** is also being licensed digitally by Kodansha USA.
+Only 2 volumes of Q.E.D. were released in English (Del Rey, 2005–2006) before the line was discontinued. Those volumes are now out of print. The remaining 48 volumes of the original series, the sequel Q.E.D. iff, and Q.E.D. UNIV. have not been licensed in English as of 2026.
 
 ## Pros & Cons
 
 **Pros**
 - One of the most intellectually rigorous mystery manga ever made
 - 50 self-contained volumes — enormous content library
-- Now actually available in English through Kodansha USA Digital
+- Long-running, well-regarded across two decades in Japan
 - Fair-play mysteries respect the reader's intelligence
 - Touma is a well-constructed genius character
 
@@ -212,21 +195,19 @@ The sequel **Q.E.D. iff** is also being licensed digitally by Kodansha USA.
 
 ## Is Q.E.D. Worth Reading?
 
-If you have any interest in serious mystery fiction or in math/science as it appears in popular culture: yes, unconditionally. The manga is one of the most committed honkaku works in any medium. The current digital availability removes the historical barrier to English readership.
+If you have any interest in serious mystery fiction or in math/science as it appears in popular culture and you can read Japanese, yes. For English readers, the manga is currently only accessible as 2 out-of-print Del Rey volumes — a frustrating gap that may close in the future but hasn't yet.
 
 ## Format Comparison
 
 | Format | Notes |
 |--------|-------|
-| Digital English (Kodansha USA) | Primary current option; available via Kindle, Comixology, Kodansha storefront |
-| Physical English (Del Rey, 2005–2006) | Only 2 volumes; out of print; collector's item |
-| Japanese | All 50 volumes available physically; digital available in Japan |
+| Physical English (Del Rey, 2005–2006) | Only volumes 1–2; out of print; collector's item |
+| Japanese | All 50 volumes of the original series; sequels Q.E.D. iff (ongoing 2015–) and Q.E.D. UNIV. (2025–) available in Japan |
+| English digital | Not currently licensed for volumes 3–50 or the sequels |
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
-
-[Start with Volume 1 →](https://www.amazon.com/s?k=Q.E.D.+Kodansha+manga&i=stripbooks)
+No new English release yet. That just means you find it before everyone else does.
 
 
 ---

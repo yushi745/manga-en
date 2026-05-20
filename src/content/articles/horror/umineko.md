@@ -9,18 +9,19 @@ mangaTitleJa: "うみねこのなく頃に"
 mangaAuthor: "Ryukishi07 / 07th Expansion (various artists)"
 serialization: "Monthly GFantasy / Dragon Age"
 publisher: "Square Enix / Yen Press"
-volumes: 20
+volumes: 53
 status: "Completed"
-englishVolumes: 20
+englishVolumes: 53
 englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings: ["graphic murder", "torture", "psychological horror", "family violence", "body horror"]
-description: "On the private island of Rokkenjima in 1986, the Ushiromiya family gathers for an annual meeting. A typhoon traps them. The murders begin. Then they repeat. A golden witch named Beatrice claims responsibility — and the manga spends 20 volumes arguing about whether magic exists. Adapted from Ryukishi07's visual novel."
+description: "On the private island of Rokkenjima in 1986, the Ushiromiya family gathers for an annual meeting. A typhoon traps them. The murders begin. Then they repeat. A golden witch named Beatrice claims responsibility — and the manga spends 53 volumes across 8 Episodes arguing about whether magic exists. Adapted from Ryukishi07's visual novel."
 amazonASIN: "0316337676"
 publishedAt: "2025-05-05"
 rewritten: "2026-05-18"
 tags: ["horror", "mystery", "psychological", "supernatural", "visual-novel-adaptation", "mature"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 
@@ -62,7 +63,7 @@ The seagulls in the title are diegetic — they're the birds that fly over Rokke
 
 Umineko was created by **Ryukishi07 (竜騎士07)**, the Japanese writer and game designer who founded the doujin circle **07th Expansion** in 2002. His previous work, **Higurashi: When They Cry**, was the breakout doujin success of the 2000s and one of the most influential indie visual novels ever released.
 
-Umineko was developed as 07th Expansion's follow-up, released across eight "Episodes" between 2007 and 2010. The manga adaptation runs across multiple artists, one per Episode arc, with Ryukishi07 supervising the adaptation. Notable adaptation artists include Kei Natsumi (Episodes 1–4), Hinase Momoyama (Episodes 5–7), and others.
+Umineko was developed as 07th Expansion's follow-up, released across eight "Episodes" between 2007 and 2010. The manga adaptation runs across multiple artists, one per Episode arc, with Ryukishi07 supervising. Artists include Kei Natsumi (Episodes 1 and 3), Jiro Suzuki (Episode 2), Sōichirō (Episode 4), Akitaka (Episode 5), Hinase Momoyama (Episode 6), Eita Mizuno (Episode 7), and Kei Natsumi again for the final episode. The manga ran from 2007 to 2015 across **53 total volumes** spread across the eight individual episode series.
 
 The "07" in both Ryukishi07 and 07th Expansion is a reference to the Yamaha YZF750 motorcycle, not the year. The author is famously private; few photographs of him exist and he gives almost no interviews. He treats the work as the document, not the person behind it.
 
@@ -85,7 +86,7 @@ This is the structure. Eight Episodes. Eight murder scenarios. One escalating ph
 - **Higurashi fans** ready for the same author's longer, denser, more ambitious work
 - **Locked-room mystery readers** (Ellery Queen, John Dickson Carr) — the manga engages directly with this tradition
 - **Readers who like philosophical fiction** — the meta-space debates are real arguments about epistemology
-- **Long-series committers** — 20 volumes, rewards finishing
+- **Long-series committers** — 53 volumes across 8 episodes; rewards finishing
 - **Not for**: readers who need clean answers immediately; readers for whom graphic family violence is a hard no
 
 ## Content Warnings & Age Rating
@@ -97,9 +98,9 @@ This is the structure. Eight Episodes. Eight murder scenarios. One escalating ph
 
 The manga is structured in two halves.
 
-**Question Arcs (Episodes 1–4, volumes 1–10)** — Four iterations of the Rokkenjima murder scenario. Each iteration is its own complete mystery with different victims, different methods, different revelations. After each one, Battler and Beatrice debate in meta-space. The Question Arcs are constructed to make the supernatural explanation feel inevitable. By the end of Episode 4, the reader is supposed to be sympathetic to the witch.
+**Question Arcs (Episodes 1–4)** — Four iterations of the Rokkenjima murder scenario. Each iteration is its own complete mystery with different victims, different methods, different revelations. After each one, Battler and Beatrice debate in meta-space. The Question Arcs are constructed to make the supernatural explanation feel inevitable. By the end of Episode 4, the reader is supposed to be sympathetic to the witch.
 
-**Answer Arcs (Episodes 5–8, volumes 11–20)** — Four more iterations, but now the meta-space is more crowded. New characters appear — including some who claim the witch hypothesis can be defeated. The Answer Arcs are constructed to dismantle the supernatural explanation, but not in the way the reader expects. The final two Episodes (7 and 8) reframe the entire 20-volume series in ways that some readers find devastating and others find frustrating. Both responses are valid.
+**Answer Arcs (Episodes 5–8)** — Four more iterations, but now the meta-space is more crowded. New characters appear — including some who claim the witch hypothesis can be defeated. The Answer Arcs are constructed to dismantle the supernatural explanation, but not in the way the reader expects. The final two Episodes (7 and 8) reframe the entire series in ways that some readers find devastating and others find frustrating. Both responses are valid.
 
 The series ending is **divisive on purpose**. Ryukishi07 has stated repeatedly that the question Umineko asks is not "what happened" but "what kind of person you become when you decide what happened." The truth of Rokkenjima exists. Whether you are the kind of person who is allowed to know it is the actual question.
 
@@ -135,13 +136,13 @@ Umineko also draws on **Japanese postwar literature** about family secrets and t
 
 Episode 5's first meta-space scene.
 
-I won't say what happens. What I'll say is that after four Episodes of Battler arguing with Beatrice, Episode 5 introduces a new figure who claims that Beatrice's argument can be defeated using only the rules of fair-play mystery, applied properly. The new figure is brilliant. The new figure proceeds to systematically dismantle the witch hypothesis. For volumes 11–12, the reader is allowed to feel that the entire series is being unlocked.
+I won't say what happens. What I'll say is that after four Episodes of Battler arguing with Beatrice, Episode 5 introduces a new figure who claims that Beatrice's argument can be defeated using only the rules of fair-play mystery, applied properly. The new figure is brilliant. The new figure proceeds to systematically dismantle the witch hypothesis. For most of Episode 5, the reader is allowed to feel that the entire series is being unlocked.
 
 And then the manga does something extraordinary. It makes the dismantling itself the problem.
 
 The new figure's solution is technically correct. It is also profoundly wrong in a way the manga takes until the end of Episode 8 to fully articulate. The series is teaching you that being right about the facts is not the same as being right about the people. That the rational solution to a mystery can erase the human beings inside it. That sometimes the witch is the only person in the room who is treating the dead as people instead of as variables.
 
-That's what Umineko is for me. It's a 20-volume manga about how the desire to know what happened can become its own form of cruelty if the knower isn't careful about who they are when they look. It's about love as the prerequisite for understanding. It's about deciding what kind of reader you want to be.
+That's what Umineko is for me. It's a manga about how the desire to know what happened can become its own form of cruelty if the knower isn't careful about who they are when they look. It's about love as the prerequisite for understanding. It's about deciding what kind of reader you want to be.
 
 ## What English-Speaking Fans Say
 
@@ -155,7 +156,7 @@ The opening of Episode 8 — when Ange Ushiromiya, who has been a background fig
 
 What makes this scene unbearable is what the meta-space shows her. Not facts. Not solutions. People. The cousins she barely knew. The aunt who hated her. The servants. The witch. All of them framed by the manga as if they are still alive in the only place they could still be alive — inside the love of someone who chose to keep them.
 
-The page where Ange looks at her brother Battler and asks if any of this is real, and Battler answers, is the panel I think about when I think about this manga. He doesn't tell her the truth. He tells her something better. The manga has spent twenty volumes earning the right to make that distinction.
+The page where Ange looks at her brother Battler and asks if any of this is real, and Battler answers, is the panel I think about when I think about this manga. He doesn't tell her the truth. He tells her something better. The manga has spent eight Episodes earning the right to make that distinction.
 
 ## Similar Manga
 
@@ -168,32 +169,32 @@ The page where Ange looks at her brother Battler and asks if any of this is real
 
 ## Reading Order / Where to Start
 
-Volume 1. The 20-volume manga adaptation should be read in order. Episodes 1–4 are designed to be experienced in sequence; Episodes 5–8 only work if you've read 1–4. Do not skip ahead.
+Volume 1 of Episode 1 (Legend of the Golden Witch). The eight-Episode manga adaptation should be read in Episode order. Episodes 1–4 are designed to be experienced in sequence; Episodes 5–8 only work if you've read 1–4. Do not skip ahead.
 
 If you're choosing between formats: the visual novel (with the Witch Hunt translation patch or the Steam release) is more complete and is the source text. The manga is more accessible and is a better entry point for readers who prefer that medium. Both end at the same place.
 
 ## Official English Translation Status
 
-Yen Press published all 20 volumes of the manga adaptation in English in print and digital. The visual novel is available in English via the Witch Hunt fan patch (free, applied to the Japanese version) and via the official Steam re-release (paid, includes the Witch Hunt translation).
+Yen Press published all 53 volumes of the manga adaptation in English in print and digital — split across the eight Episode series (Legend, Turn, Banquet, Alliance, End, Dawn, Requiem, Twilight of the Golden Witch). The visual novel is available in English via the Witch Hunt fan patch (free, applied to the Japanese version) and via the official Steam re-release (paid, includes the Witch Hunt translation).
 
 ## Pros & Cons
 
 **Pros**
 - One of the most ambitious philosophical mysteries in the medium
-- The Battler-Beatrice debate sustains 20 volumes without flagging
+- The Battler-Beatrice debate sustains 53 volumes without flagging
 - The Knox's Decalogue framework is genuinely engaged with, not name-checked
 - Complete with a real ending
 - The character work in the final Episodes is some of the best in horror manga
 
 **Cons**
-- 20 volumes is a major commitment
+- 53 volumes across 8 episodes is a major commitment
 - Early Episodes are slow; the manga doesn't fully reveal what it is until Episode 4–5
 - Graphic violence and family abuse are heavy and frequent
 - The ending is divisive on purpose — if you need clean resolution, this isn't the manga for you. It's an acquired taste. It won't land for everyone.
 
 ## Is Umineko Worth Reading?
 
-If you can read 20 volumes of demanding mystery with heavy content and an ending that asks more from you than it gives: yes. Umineko is one of the few manga that operates at the level it does. The payoff is real.
+If you can read 53 volumes of demanding mystery with heavy content and an ending that asks more from you than it gives: yes. Umineko is one of the few manga that operates at the level it does. The payoff is real.
 
 If you want a tight, clean mystery: read Higurashi first. If Higurashi works for you, you're ready for Umineko.
 
@@ -201,7 +202,7 @@ If you want a tight, clean mystery: read Higurashi first. If Higurashi works for
 
 | Format | Notes |
 |--------|-------|
-| Physical (Yen Press) | All 20 volumes available. Standard tankoubon |
+| Physical (Yen Press) | All 53 volumes across 8 Episode series. Standard tankoubon |
 | Digital | Available via Yen Press digital and Kindle |
 | Visual Novel | The original source — Steam release available worldwide with the Witch Hunt translation included |
 

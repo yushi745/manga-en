@@ -21,6 +21,7 @@ publishedAt: "2025-09-17"
 rewritten: "2026-05-18"
 tags: ["horror", "action", "vampire", "survival", "seinen"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 
@@ -82,7 +83,7 @@ The English release covers what I'd call the **First Island Arc**:
 - **Volumes 3–5**: Survival. The protagonists hide, scavenge, learn the rules of the vampires (sunlight, the *log* — a heavy wooden weapon Akira improvises that becomes the manga's signature). The first attempt to find Atsushi
 - **Volumes 6–8**: Reunion and confrontation. Akira finds Atsushi. The state Atsushi is in is one of the manga's bleakest reveals. The arc ends with a major escape attempt and a partial resolution
 
-If you continue into Japanese-only volumes, the manga takes Akira off the island and back to Japan, where Miyabi follows and brings the war to the mainland. The continuations — Higanjima Saigo no 47 Hibi (Last 47 Days) and Higanjima Last 47 Days — escalate to apocalyptic scale before ending in 2021.
+If you continue into Japanese-only volumes, the manga takes Akira off the island and back to Japan, where Miyabi follows and brings the war to the mainland. The continuations — **Higanjima: Saigo no Yon-juu Nana Nichikan** (Last 47 Days, 16 volumes, 2010–2014) and **Higanjima: 48 Nichi Go...** (48 Days Later, ongoing since 2014, 53+ volumes) — escalate to apocalyptic scale.
 
 The English DrMaster volumes give you a complete-feeling arc. They don't give you the full story.
 
@@ -155,11 +156,11 @@ The rest of the manga is what Akira does with that knowledge. The horror genre r
 
 Volume 1. The English DrMaster release covers volumes 1–8, which is the complete First Island Arc.
 
-For readers who want the full series: continue with the Japanese editions of volumes 9–33 (original *Higanjima*), then *Higanjima: Saigo no 47 Hibi* (10 volumes), then *Higanjima: Last 47 Days* (16 volumes). The total is around 70 volumes if you count all three continuous series. This is a major commitment in Japanese.
+For readers who want the full series: continue with the Japanese editions of volumes 9–33 (original *Higanjima*), then *Higanjima: Last 47 Days* (16 volumes), then *Higanjima: 48 Days Later* (53+ volumes, ongoing). The total is over 100 volumes if you count all three continuous series. This is a major commitment in Japanese.
 
 ## Official English Translation Status
 
-DrMaster published the first 8 volumes in English between 2007 and 2008. The license was not renewed. The original 33-volume series and the two continuations (Saigo no 47 Hibi, Last 47 Days) are all **Japanese-only**.
+DrMaster published the first 8 volumes in English between 2007 and 2008. The license was not renewed. The remaining 25 volumes of the original 33-volume series, plus the continuations (Last 47 Days, 48 Days Later), are all **Japanese-only**.
 
 The DrMaster volumes are out of print. They can be found on secondhand markets (eBay, AbeBooks, Mercari) but prices for full sets have risen in recent years.
 
