@@ -21,6 +21,7 @@ publishedAt: "2025-12-21"
 rewritten: "2026-05-20"
 tags: ["baseball", "romance", "adachi", "classic"]
 rating: 5
+read: true
 hasAffiliate: false
 ---
 

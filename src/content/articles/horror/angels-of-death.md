@@ -21,6 +21,7 @@ publishedAt: "2025-03-04"
 rewritten: "2026-05-19"
 tags: ["horror", "psychological", "game-adaptation", "rpg-maker", "yen-press"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

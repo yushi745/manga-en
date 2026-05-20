@@ -20,6 +20,7 @@ publishedAt: "2026-04-19"
 rewritten: "2026-05-20"
 tags: ["go-nagai", "ecchi", "classic", "manga-history", "weekly-shonen-jump"]
 rating: 3
+read: true
 hasAffiliate: false
 ---
 

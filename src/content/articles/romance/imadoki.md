@@ -21,6 +21,7 @@ publishedAt: "2025-07-03"
 rewritten: "2026-05-20"
 tags: ["shoujo", "romance", "school", "class-dynamics", "viz", "watase"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

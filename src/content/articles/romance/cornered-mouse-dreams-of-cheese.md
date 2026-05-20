@@ -7,7 +7,7 @@ mangaTitle: "The Cornered Mouse Dreams of Cheese"
 mangaTitleJa: "窮鼠はチーズの夢を見る"
 mangaAuthor: "Setona Mizushiro"
 serialization: "Erotics F"
-publisher: "Shogakukan / SuBLime"
+publisher: "Shogakukan / Seven Seas Entertainment"
 volumes: 1
 status: "Completed"
 englishVolumes: 1
@@ -21,6 +21,7 @@ publishedAt: "2025-06-01"
 rewritten: "2026-05-20"
 tags: ["romance", "boys-love", "adult", "drama", "infidelity"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

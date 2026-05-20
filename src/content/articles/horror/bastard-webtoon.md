@@ -21,6 +21,7 @@ publishedAt: "2025-01-08"
 rewritten: "2026-05-20"
 tags: ["manhwa", "webtoon", "horror", "psychological", "korean", "serial-killer"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

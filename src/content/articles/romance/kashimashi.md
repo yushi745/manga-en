@@ -21,6 +21,7 @@ publishedAt: "2025-07-10"
 rewritten: "2026-05-20"
 tags: ["yuri", "romance", "gender-identity", "sci-fi", "seven-seas"]
 rating: 3
+read: true
 hasAffiliate: true
 ---
 

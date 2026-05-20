@@ -7,20 +7,21 @@ genreSlug: "romance"
 mangaTitle: "Smoking Behind the Supermarket With You"
 mangaTitleJa: "スーパーの裏でヤニ吸うふたり"
 mangaAuthor: "Jinushi"
-serialization: "Comic Days"
-publisher: "Kodansha / Kodansha USA"
-volumes: 4
-status: "Completed"
+serialization: "Monthly Big Gangan"
+publisher: "Square Enix / Square Enix Manga & Books"
+volumes: 8
+status: "Ongoing"
 englishVolumes: 4
-englishStatus: "Complete"
+englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["smoking (central premise)", "adult workplace setting", "age-gap romance (mild)"]
-description: "Sasaki is a quiet salaryman in his thirties. After work, he buys cigarettes at a supermarket and smokes them in the back alley. The cashier — a cheerful young woman named 'Yamada' he sees every day — turns out to be a completely different person when she joins him for a smoke in the same alley after closing. The girl smoking next to him is not the cashier he thought she was. Jinushi's 4-volume adult romance is complete in English from Kodansha USA."
+description: "Sasaki is a quiet salaryman in his thirties. After work, he buys cigarettes at a supermarket and smokes them in the back alley. The cashier — a cheerful young woman named 'Yamada' he sees every day — turns out to be a completely different person when she joins him for a smoke in the same alley after closing. The girl smoking next to him is not the cashier he thought she was. Jinushi's romantic comedy began as a Twitter webcomic in 2022 and runs ongoing at 8 volumes (as of 2026) in Square Enix's Monthly Big Gangan; Square Enix Manga & Books licenses the English edition."
 amazonASIN: "1646517857"
 publishedAt: "2026-04-28"
 rewritten: "2026-05-20"
 tags: ["romance", "slice-of-life", "workplace", "adult", "smoking", "kodansha"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

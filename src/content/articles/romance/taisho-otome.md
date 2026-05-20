@@ -21,6 +21,7 @@ publishedAt: "2026-04-27"
 rewritten: "2026-05-19"
 tags: ["romance", "historical", "taisho-era", "arranged-marriage", "healing"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

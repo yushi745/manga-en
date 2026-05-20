@@ -20,6 +20,7 @@ publishedAt: "2026-04-27"
 rewritten: "2026-05-20"
 tags: ["historical", "renaissance", "italy", "borgia", "seinen"]
 rating: 5
+read: true
 hasAffiliate: false
 ---
 

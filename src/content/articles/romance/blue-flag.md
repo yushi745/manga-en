@@ -21,6 +21,7 @@ publishedAt: "2025-05-21"
 rewritten: "2026-05-20"
 tags: ["romance", "drama", "LGBTQ", "high-school", "viz"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

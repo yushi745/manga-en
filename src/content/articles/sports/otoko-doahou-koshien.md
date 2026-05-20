@@ -8,7 +8,7 @@ mangaTitle: "Otoko Doahou Koshien"
 mangaTitleJa: "男どアホウ甲子園"
 mangaAuthor: "Mamoru Sasaki (story) / Shinji Mizushima (art)"
 serialization: "Weekly Shonen Sunday"
-publisher: "Shogakukan / Akita Shoten"
+publisher: "Shogakukan"
 volumes: 28
 status: "Completed"
 englishVolumes: 0
@@ -20,6 +20,7 @@ publishedAt: "2026-04-20"
 rewritten: "2026-05-20"
 tags: ["baseball", "sports", "classic", "mizushima", "showa"]
 rating: 4
+read: true
 hasAffiliate: false
 ---
 

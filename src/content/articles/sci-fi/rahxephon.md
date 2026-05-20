@@ -21,6 +21,7 @@ publishedAt: "2026-04-28"
 rewritten: "2026-05-20"
 tags: ["mecha", "sci-fi", "music", "tokyopop", "anime-adaptation"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

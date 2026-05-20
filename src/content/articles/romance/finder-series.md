@@ -21,6 +21,7 @@ publishedAt: "2025-06-11"
 rewritten: "2026-05-20"
 tags: ["romance", "boys-love", "yakuza", "mature", "sublime"]
 rating: 3
+read: true
 hasAffiliate: true
 ---
 

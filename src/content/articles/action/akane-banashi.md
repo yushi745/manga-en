@@ -21,6 +21,7 @@ publishedAt: "2024-07-20"
 rewritten: "2026-05-20"
 tags: ["drama", "rakugo", "weekly-shonen-jump", "performance-art", "young-shonen"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 
