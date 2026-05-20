@@ -1,8 +1,8 @@
 ---
 title: "Solanin Review: Two Young Adults in Tokyo Who Do Not Know What They Are For"
 slug: "solanin"
-genre: "Sci-Fi / Slice of Life"
-genreSlug: "sci-fi"
+genre: "Drama / Slice of Life"
+genreSlug: "slice-of-life"
 mangaTitle: "Solanin"
 mangaTitleJa: "ソラニン"
 mangaAuthor: "Inio Asano"
@@ -18,9 +18,11 @@ description: "Yu's review of Solanin — Meiko works a job she hates; her boyfri
 coverImage: "/covers/solanin.jpg"
 amazonASIN: "142152321X"
 publishedAt: "2025-11-20"
-tags: ["sci-fi", "slice-of-life", "music", "completed", "Asano", "youth", "bittersweet"]
+tags: ["drama", "slice-of-life", "music", "completed", "asano", "youth", "bittersweet"]
 rating: 5
+read: true
 hasAffiliate: true
+rewritten: "2026-05-20"
 ---
 
 ## Quick Take

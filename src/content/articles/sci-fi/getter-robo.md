@@ -6,21 +6,23 @@ genre: "Sci-Fi / Action"
 genreSlug: "sci-fi"
 mangaTitle: "Getter Robo"
 mangaTitleJa: "ゲッターロボ"
-mangaAuthor: "Ken Ishikawa"
+mangaAuthor: "Go Nagai (story) / Ken Ishikawa (art)"
 serialization: "Weekly Shonen Sunday"
-publisher: "Shogakukan / Dynamic International"
-volumes: 5
+publisher: "Shogakukan"
+volumes: 6
 status: "Completed"
-englishVolumes: 5
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["mecha violence", "action", "intense themes in later volumes"]
-description: "A review of Getter Robo by Ken Ishikawa — the original combining mecha manga that gave the genre its most mythologically intense ideas about evolution, consciousness, and what machines become."
+description: "The original 1974–1975 Getter Robo manga by Go Nagai and Ken Ishikawa — three pilots, one combining machine powered by the cosmic Getter Rays, against the Dinosaur Empire. Six volumes complete in Japanese; unlicensed in English."
 amazonASIN: "B01BQXS3WQ"
 publishedAt: "2025-07-22"
 tags: ["sci-fi", "mecha", "action", "classic", "combining-robot"]
 rating: 4
+read: true
 hasAffiliate: true
+rewritten: "2026-05-20"
 ---
 
 ## Quick Take
@@ -110,7 +112,7 @@ Start from Volume 1. Read the original before the later Shin Getter Robo continu
 
 ## Official English Translation Status
 
-Dynamic International published the English edition. Complete in 5 volumes. Check current availability.
+The original Getter Robo by Nagai and Ishikawa is **unlicensed in English** at scale. Later franchise entries — particularly **Getter Robo Devolution** and **Getter Robo Arc** — have had English releases via Seven Seas Entertainment. For the original 1974 manga, English readers either rely on fan scanlations or read the various Getter Robo sequels that have been licensed.
 
 ## Pros & Cons
 
@@ -129,9 +131,9 @@ Dynamic International published the English edition. Complete in 5 volumes. Chec
 
 | Format | Notes |
 |--------|-------|
-| Physical | Dynamic International volumes; may require secondary market |
-| Digital | Limited digital availability |
-| Omnibus | Various collected formats have been published |
+| Japanese (original) | 6 Shogakukan volumes (1974–1975), later 3-volume Futabasha reprint |
+| English (original manga) | Unlicensed; not officially available |
+| English (later entries) | Getter Robo Devolution, Getter Robo Arc available via Seven Seas |
 
 ## Where to Buy
 

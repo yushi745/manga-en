@@ -9,7 +9,7 @@ mangaTitleJa: "鉄人28号"
 mangaAuthor: "Mitsuteru Yokoyama"
 serialization: "Shōnen"
 publisher: "Kobunsha / Dark Horse"
-volumes: 22
+volumes: 24
 status: "Completed"
 englishVolumes: 7
 englishStatus: "Complete"
@@ -20,7 +20,9 @@ amazonASIN: "1569718296"
 publishedAt: "2026-04-29"
 tags: ["classic", "giant robot", "action", "sci-fi", "historical", "postwar"]
 rating: 4
+read: true
 hasAffiliate: true
+rewritten: "2026-05-20"
 ---
 
 ## Quick Take

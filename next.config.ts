@@ -31,6 +31,7 @@ const nextConfig: NextConfig = {
       { source: '/sci-fi/log-horizon', destination: '/fantasy/log-horizon', permanent: true },
       { source: '/romance/wotakoi', destination: '/slice-of-life/wotakoi', permanent: true },
       { source: '/sci-fi/dusk-maiden-of-amnesia', destination: '/horror/dusk-maiden-of-amnesia', permanent: true },
+      { source: '/sci-fi/solanin', destination: '/slice-of-life/solanin', permanent: true },
 
       // === Stage 2: slug renames (2026-05-18) ===
       { source: '/fantasy/natsume-yuujinchou', destination: '/fantasy/natsumes-book-of-friends', permanent: true },
