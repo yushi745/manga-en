@@ -20,6 +20,7 @@ publishedAt: "2026-04-29"
 rewritten: "2026-05-20"
 tags: ["comedy", "classic", "weekly-shonen-jump", "police", "long-running"]
 rating: 4
+read: true
 hasAffiliate: false
 ---
 

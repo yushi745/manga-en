@@ -21,6 +21,7 @@ publishedAt: "2026-04-27"
 rewritten: "2026-05-20"
 tags: ["iyashikei", "sci-fi", "slice-of-life", "venice", "future-mars"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

@@ -23,6 +23,12 @@ export interface ArticleFrontmatter {
   hasAffiliate?: boolean;
   noindex?: boolean;
   rewritten?: string;
+  /**
+   * Set to true if Yu has actually read this manga. Required for the article
+   * to be indexable. Articles without `read: true` are automatically noindex'd
+   * regardless of the `noindex` field, per CLAUDE-article.md.
+   */
+  read?: boolean;
 }
 
 export interface Article {

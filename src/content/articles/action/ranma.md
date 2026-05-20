@@ -20,6 +20,7 @@ publishedAt: "2026-04-18"
 rewritten: "2026-05-20"
 tags: ["comedy", "martial-arts", "takahashi", "classic", "viz"]
 rating: 5
+read: true
 hasAffiliate: false
 ---
 

@@ -93,7 +93,11 @@ def collect_articles():
             'tags':        get_list_field(content, 'tags'),
             'hasCover':    '○' if slug in tracked_covers else '×',
             'englishStatus': get_field(content, 'englishStatus'),
+            'read':        '○' if re.search(r'^read:\s*true', content, re.MULTILINE) else '',
             'noindex':     '○' if re.search(r'^noindex:\s*true', content, re.MULTILINE) else '',
+            'effectiveIndex': ('○' if re.search(r'^read:\s*true', content, re.MULTILINE)
+                              and not re.search(r'^noindex:\s*true', content, re.MULTILINE)
+                              else '×'),
             'rewritten':   (lambda m: m.group(1).strip('"') if m else '')(re.search(r'^rewritten:\s*"?([^"\n]+)"?', content, re.MULTILINE)),
         })
     return articles
@@ -110,7 +114,8 @@ def main():
 
     sh = get_sheet()
     headers = ['マンガタイトル', '日本語タイトル', '著者', 'ジャンル', 'ジャンルSlug', 'Slug', 'URL',
-               '評価', '公開日', '追加日', 'タグ', '画像', '英語版', 'Noindex', 'リライト済']
+               '評価', '公開日', '追加日', 'タグ', '画像', '英語版',
+               'Read', 'Noindex', 'インデックス対象', 'リライト済']
     rows = [headers]
     for a in articles:
         rows.append([
@@ -127,11 +132,13 @@ def main():
             a['tags'],
             a['hasCover'],
             a['englishStatus'],
+            a['read'],
             a['noindex'],
+            a['effectiveIndex'],
             a['rewritten'],
         ])
 
-    ws = get_or_create_ws(sh, '記事一覧', rows=max(len(rows) + 100, 2000), cols=max(len(headers), 15))
+    ws = get_or_create_ws(sh, '記事一覧', rows=max(len(rows) + 100, 2000), cols=max(len(headers), 17))
     ws.clear()
     ws.update(rows, 'A1', value_input_option='USER_ENTERED')
 

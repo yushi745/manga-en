@@ -35,10 +35,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   const { frontmatter } = article;
 
+  // Default to noindex unless Yu has actually read the manga (`read: true`).
+  // The explicit `noindex` flag is still honored as an override.
+  // Rule source: CLAUDE-article.md — articles without verified reading must not be indexed.
+  const isNoindex = frontmatter.noindex === true || frontmatter.read !== true;
+
   return {
     title: frontmatter.title,
     description: frontmatter.description,
-    ...(frontmatter.noindex && { robots: { index: false, follow: false } }),
+    ...(isNoindex && { robots: { index: false, follow: false } }),
     openGraph: {
       title: frontmatter.title,
       description: frontmatter.description,

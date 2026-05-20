@@ -21,6 +21,7 @@ publishedAt: "2025-04-15"
 rewritten: "2026-05-20"
 tags: ["isekai", "fantasy", "time-loop", "psychological", "dark-fantasy", "yen-press"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

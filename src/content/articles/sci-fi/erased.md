@@ -21,6 +21,7 @@ publishedAt: "2026-04-29"
 rewritten: "2026-05-20"
 tags: ["mystery", "thriller", "time-travel", "childhood", "yen-press"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

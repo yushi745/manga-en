@@ -21,6 +21,7 @@ publishedAt: "2024-09-10"
 rewritten: "2026-05-20"
 tags: ["action", "dark-fantasy", "edo-period", "shinobi", "shonen-jump-plus"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 
