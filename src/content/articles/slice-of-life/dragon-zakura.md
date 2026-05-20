@@ -20,6 +20,7 @@ publishedAt: "2026-04-27"
 rewritten: "2026-05-20"
 tags: ["education", "drama", "seinen", "social-critique"]
 rating: 4
+read: true
 hasAffiliate: false
 ---
 

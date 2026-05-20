@@ -20,6 +20,7 @@ publishedAt: "2026-04-25"
 rewritten: "2026-05-20"
 tags: ["seinen", "social-realism", "dark", "tokyo", "predatory-lending"]
 rating: 4
+read: true
 hasAffiliate: false
 ---
 

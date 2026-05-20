@@ -21,6 +21,7 @@ publishedAt: "2025-09-20"
 rewritten: "2026-05-20"
 tags: ["fantasy", "action", "journey-to-the-west", "minekura", "seinen-adjacent"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

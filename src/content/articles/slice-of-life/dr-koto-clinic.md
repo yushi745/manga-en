@@ -20,6 +20,7 @@ publishedAt: "2026-04-28"
 rewritten: "2026-05-20"
 tags: ["medical", "drama", "rural-japan", "community", "ensemble"]
 rating: 5
+read: true
 hasAffiliate: false
 ---
 

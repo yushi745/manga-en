@@ -21,6 +21,7 @@ publishedAt: "2025-01-09"
 rewritten: "2026-05-20"
 tags: ["historical", "ancient-greece", "alexander-the-great", "seinen", "iwaaki"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

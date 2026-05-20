@@ -6,21 +6,22 @@ genre: "Action / Drama"
 genreSlug: "action"
 mangaTitle: "Lycoris Recoil"
 mangaTitleJa: "リコリス・リコイル"
-mangaAuthor: "Asaura (story, original) / Yasunori Yamada / Imigimuru (manga art)"
-serialization: "Dengeki Daioh g"
+mangaAuthor: "Spider Lily / Asaura (original) / Yasunori Bizen (manga)"
+serialization: "Monthly Comic Flapper"
 publisher: "Kadokawa / Yen Press"
-volumes: 3
-status: "Completed"
+volumes: 8
+status: "Ongoing"
 englishVolumes: 3
-englishStatus: "Complete"
+englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["gun violence", "themes of mortality", "yuri subtext", "child agents"]
-description: "Tokyo, present day. Order is maintained by Direct Attack, a hidden agency that employs young women as government assassins called Lycoris. Chisato Nishikigi is the greatest Lycoris ever produced — and she refuses to kill. Takina Inoue is the elite who got demoted for insubordination. They run a café together. Lycoris Recoil's 3-volume manga adapts the 2022 anime's story; complete in English from Yen Press."
+description: "Tokyo, present day. Order is maintained by Direct Attack, a hidden agency that employs young women as government assassins called Lycoris. Chisato Nishikigi is the greatest Lycoris ever produced — and she refuses to kill. Takina Inoue is the elite who got demoted for insubordination. They run a café together. Lycoris Recoil began as an original 2022 A-1 Pictures anime; the main manga adaptation by Yasunori Bizen runs in Monthly Comic Flapper (8 volumes as of 2026) and is being released in English by Yen Press."
 amazonASIN: "1975386264"
 publishedAt: "2026-04-28"
 rewritten: "2026-05-19"
 tags: ["action", "yuri", "duo", "guns", "drama"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

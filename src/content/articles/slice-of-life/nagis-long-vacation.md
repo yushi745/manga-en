@@ -21,6 +21,7 @@ publishedAt: "2025-01-30"
 rewritten: "2026-05-20"
 tags: ["josei", "burnout", "mental-health", "self-discovery", "drama"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

@@ -21,6 +21,7 @@ publishedAt: "2024-07-21"
 rewritten: "2026-05-20"
 tags: ["comedy", "school", "misunderstanding", "yagi", "monthly-shonen-jump"]
 rating: 5
+read: true
 hasAffiliate: false
 ---
 

@@ -20,6 +20,7 @@ publishedAt: "2026-04-26"
 rewritten: "2026-05-20"
 tags: ["comedy", "classic", "ecchi", "1980s", "showa"]
 rating: 3
+read: true
 hasAffiliate: false
 ---
 
