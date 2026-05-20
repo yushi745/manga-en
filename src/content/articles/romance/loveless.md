@@ -21,6 +21,7 @@ publishedAt: "2025-07-23"
 rewritten: "2026-05-20"
 tags: ["supernatural", "psychological", "identity", "dark-romance", "mature"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

@@ -7,20 +7,21 @@ genreSlug: "horror"
 mangaTitle: "Gannibal"
 mangaTitleJa: "ガンニバル"
 mangaAuthor: "Masaaki Ninomiya"
-serialization: "Manga Action"
-publisher: "Futabasha / Seven Seas Entertainment"
-volumes: 11
+serialization: "Weekly Manga Goraku"
+publisher: "Nihon Bungeisha / Ablaze Publishing"
+volumes: 13
 status: "Completed"
-englishVolumes: 11
-englishStatus: "Complete"
+englishVolumes: 13
+englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["cannibalism themes", "graphic violence", "child endangerment", "rural cult horror", "child abuse"]
-description: "Daigo Agawa transfers to Kuge village — a remote mountain community in the Japanese alps — after an incident at his previous police posting. The villagers are afraid of the Goto family. A drunk old man tells Daigo the Gotos eat people. The previous officer disappeared. Masaaki Ninomiya's 11-volume rural horror is complete in English from Seven Seas and was adapted as a Disney+ live-action series in 2022."
+description: "Daigo Agawa transfers to Kuge village — a remote mountain community in the Japanese alps — after an incident at his previous police posting. The villagers are afraid of the Goto family. A drunk old man tells Daigo the Gotos eat people. The previous officer disappeared. Masaaki Ninomiya's 13-volume rural horror (2018–2021) is being released in English by Ablaze Publishing and was adapted as a Disney+ live-action series in 2022."
 amazonASIN: "B0BM9YTYVC"
 publishedAt: "2025-12-05"
 rewritten: "2026-05-19"
 tags: ["horror", "thriller", "rural-horror", "cult", "seinen"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

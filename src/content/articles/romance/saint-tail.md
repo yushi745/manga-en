@@ -21,6 +21,7 @@ publishedAt: "2025-08-21"
 rewritten: "2026-05-20"
 tags: ["romance", "phantom-thief", "magical-girl", "nakayoshi", "all-ages"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

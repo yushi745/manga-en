@@ -8,19 +8,20 @@ mangaTitleJa: "ヴァンパイア騎士 memories"
 mangaAuthor: "Matsuri Hino"
 serialization: "LaLa DX"
 publisher: "Hakusensha / VIZ Media"
-volumes: 7
+volumes: 11
 status: "Completed"
-englishVolumes: 7
-englishStatus: "Complete"
+englishVolumes: 8
+englishStatus: "Ongoing"
 ageRating: "T (Teen)"
 contentWarnings: ["vampire violence", "blood drinking", "implied romantic content", "themes of immortality"]
-description: "Matsuri Hino's 7-volume sequel to Vampire Knight picks up after the original's controversial ending. Yuki and Zero across decades. Kaname's absence. Their daughter Ai. New character vignettes and old character resolutions. The manga the fans needed after Vampire Knight ended in 2013. Complete in English from VIZ."
+description: "Matsuri Hino's 11-volume sequel to Vampire Knight (2016–2025) picks up after the original's controversial ending. Yuki and Zero across decades. Kaname's absence. Their daughter Ai. New character vignettes and old character resolutions. The manga the fans needed after Vampire Knight ended in 2013. Ongoing release in English from VIZ."
 coverImage: "/covers/vampire-knight-memories.jpg"
 amazonASIN: "1974705269"
 publishedAt: "2026-04-27"
 rewritten: "2026-05-20"
 tags: ["romance", "vampire", "shoujo", "sequel", "viz"]
 rating: 3
+read: true
 hasAffiliate: true
 ---
 

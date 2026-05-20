@@ -6,21 +6,22 @@ genre: "Mystery / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Odd Taxi"
 mangaTitleJa: "オッドタクシー"
-mangaAuthor: "Neco Kanai (art) / Kazuya Konomoto (story)"
-serialization: "Monthly! SpiritsCoMi"
-publisher: "Shogakukan / VIZ Media"
-volumes: 3
+mangaAuthor: "Takeichi Abaraya (art) / Kazuya Konomoto (story)"
+serialization: "Superior Dalpana"
+publisher: "Shogakukan / Denpa"
+volumes: 5
 status: "Completed"
-englishVolumes: 3
-englishStatus: "Complete"
+englishVolumes: 1
+englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["organized crime", "violence", "missing person investigation", "addiction themes", "dark comedy"]
-description: "Hiroshi Odokawa drives a taxi in Tokyo. He looks like a walrus. He has no friends, no romantic interests, and a memory good enough to recall every conversation in every fare he's driven. A teenage girl is missing. Every passenger Odokawa picks up turns out to be connected to her disappearance — and to each other. Kazuya Konomoto's mystery thriller was an anime first; the 3-volume manga adaptation is complete in English from VIZ."
+description: "Hiroshi Odokawa drives a taxi in Tokyo. He looks like a walrus. He has no friends, no romantic interests, and a memory good enough to recall every conversation in every fare he's driven. A teenage girl is missing. Every passenger Odokawa picks up turns out to be connected to her disappearance — and to each other. Kazuya Konomoto's mystery thriller was an anime first; the 5-volume manga adaptation by Takeichi Abaraya is being released in English by Denpa starting in 2026."
 amazonASIN: "1974736660"
 publishedAt: "2026-04-28"
 rewritten: "2026-05-20"
 tags: ["mystery", "thriller", "anthropomorphic", "noitamina", "dark-comedy"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

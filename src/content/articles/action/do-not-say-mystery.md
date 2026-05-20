@@ -8,7 +8,7 @@ mangaTitle: "Do Not Say Mystery"
 mangaTitleJa: "ミステリと言う勿れ"
 mangaAuthor: "Yumi Tamura"
 serialization: "Monthly Flowers"
-publisher: "Shogakukan / VIZ Media"
+publisher: "Shogakukan / Seven Seas Entertainment"
 volumes: 16
 status: "Ongoing"
 englishVolumes: 8
@@ -21,6 +21,7 @@ publishedAt: "2026-04-28"
 rewritten: "2026-05-19"
 tags: ["mystery", "drama", "social-critique", "philosophy", "josei"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

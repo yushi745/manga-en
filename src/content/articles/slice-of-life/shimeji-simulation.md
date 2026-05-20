@@ -6,21 +6,22 @@ genreSlug: "slice-of-life"
 mangaTitle: "Shimeji Simulation"
 mangaTitleJa: "シメジ シミュレーション"
 mangaAuthor: "Tsukumizu"
-serialization: "Manga Time Kirara Forward"
-publisher: "Houbunsha / Yen Press"
-volumes: 7
+serialization: "Comic Cune"
+publisher: "Media Factory / Yen Press"
+volumes: 5
 status: "Completed"
-englishVolumes: 7
+englishVolumes: 5
 englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["existential themes", "surreal/uncanny content", "implicit eschatological imagery"]
-description: "By the creator of Girls' Last Tour. Shijima emerges from a hole in the ground and goes to high school. Her friend Majime has a mushroom growing on her head. Their classmates are subtly wrong. The teachers don't ask questions. The world is ending or has already ended or maybe was never started. Tsukumizu's 7-volume follow-up to Girls' Last Tour is complete in English."
+description: "By the creator of Girls' Last Tour. Shijima emerges from a hole in the ground and goes to high school. Mushrooms grow from her head. Her friend Majime has a fried egg on hers. Their classmates are subtly wrong. The teachers don't ask questions. The world is ending or has already ended or maybe was never started. Tsukumizu's 5-volume follow-up to Girls' Last Tour is complete in English."
 coverImage: "/covers/shimeji-simulation.jpg"
 amazonASIN: "1975343352"
 publishedAt: "2026-02-18"
 rewritten: "2026-05-19"
 tags: ["slice-of-life", "surreal", "tsukumizu", "existential", "yen-press"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 
