@@ -8,19 +8,20 @@ mangaTitleJa: "86―エイティシックス―"
 mangaAuthor: "Asato Asato (Story) / Motoki Yoshihara (Art)"
 serialization: "Monthly GFantasy"
 publisher: "Square Enix / Yen Press"
-volumes: 9
-status: "Ongoing"
-englishVolumes: 7
-englishStatus: "Ongoing"
+volumes: 3
+status: "Hiatus"
+englishVolumes: 3
+englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["war violence", "child soldiers", "systemic discrimination", "ethnic cleansing themes", "death"]
-description: "The Republic of San Magnolia tells its citizens the war is fought by unmanned drones. The drones have pilots — children stripped of citizenship and conscripted to die in squadrons the republic refuses to count. Lena is a military officer who refuses to lie. Shin is the squadron leader who has stopped expecting to live. The manga adaptation of Asato Asato's light novel runs 9 volumes in Japan, 7 in English."
+description: "The Republic of San Magnolia tells its citizens the war is fought by unmanned drones. The drones have pilots — children stripped of citizenship and conscripted to die in squadrons the republic refuses to count. Lena is a military officer who refuses to lie. Shin is the squadron leader who has stopped expecting to live. The manga adaptation of Asato Asato's light novel ran 3 volumes (2018–2021) before being suspended due to the artist's health; the LN and anime cover the full story."
 coverImage: "/covers/86-eighty-six.jpg"
 amazonASIN: "1975337204"
 publishedAt: "2025-10-02"
 rewritten: "2026-05-19"
 tags: ["sci-fi", "military", "mecha", "dystopian", "yen-press"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 
@@ -76,7 +77,7 @@ The light novel and manga then track:
 4. What happens when the squadron's final mission parameters are revealed
 5. (Later arcs) Shin's survival, the geopolitical implications of what was uncovered, and the Federation of Giad — a neighboring nation that does not run on the Republic's lies
 
-The manga adaptation is currently at the end of the first major arc (volumes 1–7 cover the Spearhead Squadron arc; volume 8–9 begin the Federation arc). The original light novel is significantly ahead.
+The manga adaptation by Motoki Yoshihara ran in *Young Gangan* from February 2018 to June 2021 and was suspended at volume 3 (announced cancellation July 2022) due to the artist's health issues. The 3 manga volumes cover the opening of the Spearhead Squadron arc only. Readers who want the rest of the story should turn to the original light novels (Yen Press has released over a dozen volumes in English) or the A-1 Pictures anime adaptation.
 
 ## The Title: Why "86"?
 
@@ -99,9 +100,9 @@ The Republic's policy is to refer to Eighty-Sixers as "Eighty-Sixes" or "86s" �
 
 ## Story Overview: The Arcs
 
-**Spearhead Squadron arc (Volumes 1–7)** — The bulk of what English readers currently have. Lena's assignment to the squadron, the development of the radio relationship, the squadron's missions, the political pressure on Lena from within the Republic's military, and the eventual revelation of what the Republic actually plans for the Spearhead Squadron. The arc ends with the Special Reconnaissance Mission — the squadron's final assignment, which is structurally a death sentence. What the squadron chooses to do with that assignment is the arc's emotional climax.
+**Spearhead Squadron arc (the manga's 3 volumes)** — Yoshihara's adaptation covers the opening of this arc: Lena's assignment to the squadron, the establishment of the radio relationship, the early Spearhead missions. The full climax of the arc — the Special Reconnaissance Mission, the squadron's final assignment, and what the squadron chooses to do with it — is in the light novels (volumes 1–3 in English) and in the A-1 Pictures anime.
 
-**Federation arc (Volumes 8–9, ongoing)** — The continuation after Spearhead. Without spoiling: the Federation of Giad is a different kind of nation than the Republic, and Shin and the squadron survivors discover what it's like to fight a war where their countrymen treat them as human beings. The arc raises new moral questions — what does combat mean when you choose it rather than being forced into it? — that the first arc could not.
+**Federation arc (LN volumes 4+, anime season 1 part 2)** — The continuation after Spearhead. Without spoiling: the Federation of Giad is a different kind of nation than the Republic, and Shin and the squadron survivors discover what it's like to fight a war where their countrymen treat them as human beings. This material is not in the manga but is available in the LN and anime.
 
 ## Characters
 
@@ -153,7 +154,7 @@ That's what makes 86 great. It's not anti-war exactly. It's anti-lie. The war is
 
 The most common comments:
 - The Lena-Shin radio relationship is consistently cited as one of the most emotionally affecting in recent anime/manga
-- The end of the Spearhead arc (covered in episodes 10–11 of the anime, volumes 6–7 of the manga) is one of the most-discussed sequences in recent anime fan history
+- The end of the Spearhead arc (covered in episodes 10–11 of the anime) is one of the most-discussed sequences in recent anime fan history — this material is past the manga's cutoff point
 - The Federation arc (post-Spearhead) divides readers — some prefer the tighter Spearhead focus; others appreciate the wider geopolitical scope
 
 The political/allegorical content is taken seriously in English-language criticism of recent military anime.
@@ -191,7 +192,7 @@ Most readers' optimal path: watch the anime first (it's the highest-impact versi
 
 ## Official English Translation Status
 
-**Yen Press** publishes the manga in English (7 volumes available as of 2026). The Japanese manga is at 9 volumes, ongoing. The **original light novel series** is also published by Yen Press in English (12 volumes available; the LN runs ahead of the manga). The anime is available on Crunchyroll.
+**Yen Press** published all 3 manga volumes in English. The manga is suspended (Yoshihara's health) and there is no announced resumption. The **original light novel series** is published by Yen Press in English with more than a dozen volumes available — this is the way to read the full story. The anime is available on Crunchyroll.
 
 ## Pros & Cons
 

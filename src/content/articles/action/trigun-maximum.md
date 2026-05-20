@@ -21,6 +21,7 @@ publishedAt: "2025-11-27"
 rewritten: "2026-05-18"
 tags: ["sci-fi", "action", "space-western", "pacifism", "completed"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

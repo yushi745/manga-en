@@ -9,7 +9,7 @@ mangaTitleJa: "ヤマノススメ"
 mangaAuthor: "Shiro"
 serialization: "Comic Earth Star"
 publisher: "Earth Star Entertainment"
-volumes: 26
+volumes: 27
 status: "Ongoing"
 englishVolumes: 0
 englishStatus: "Unlicensed"
@@ -20,6 +20,7 @@ publishedAt: "2026-04-24"
 rewritten: "2026-05-18"
 tags: ["sports", "slice-of-life", "hiking", "mountaineering", "anxiety", "moe"]
 rating: 4
+read: true
 hasAffiliate: false
 ---
 

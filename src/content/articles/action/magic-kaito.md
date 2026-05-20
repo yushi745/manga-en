@@ -21,6 +21,7 @@ publishedAt: "2026-04-29"
 rewritten: "2026-05-20"
 tags: ["mystery", "action", "phantom-thief", "comedy", "detective-conan-universe"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 

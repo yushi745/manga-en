@@ -21,6 +21,7 @@ publishedAt: "2026-02-02"
 rewritten: "2026-05-18"
 tags: ["slice-of-life", "cats", "seinen", "wholesome", "grief"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

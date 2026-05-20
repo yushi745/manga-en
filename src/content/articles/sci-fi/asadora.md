@@ -21,6 +21,7 @@ publishedAt: "2026-04-09"
 rewritten: "2026-05-18"
 tags: ["drama", "sci-fi", "urasawa", "historical", "kaiju-adjacent"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 
