@@ -20,6 +20,7 @@ publishedAt: "2026-04-27"
 rewritten: "2026-05-20"
 tags: ["medical", "social-critique", "seinen", "drama", "morning"]
 rating: 5
+read: true
 hasAffiliate: false
 ---
 

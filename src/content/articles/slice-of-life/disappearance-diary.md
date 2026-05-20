@@ -21,6 +21,7 @@ publishedAt: "2025-12-25"
 rewritten: "2026-05-20"
 tags: ["memoir", "autobiography", "dark-comedy", "alcoholism", "manga-history"]
 rating: 5
+read: true
 hasAffiliate: true
 ---
 

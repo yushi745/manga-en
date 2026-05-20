@@ -20,6 +20,7 @@ publishedAt: "2026-04-23"
 rewritten: "2026-05-20"
 tags: ["sports", "boxing", "classic", "drama", "unlicensed"]
 rating: 4
+read: true
 hasAffiliate: false
 ---
 

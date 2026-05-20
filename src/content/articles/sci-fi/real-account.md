@@ -8,19 +8,20 @@ mangaTitleJa: "リアルアカウント"
 mangaAuthor: "Okushou (Story) / Shizumu Watanabe (Art)"
 serialization: "Bessatsu Shounen Magazine"
 publisher: "Kodansha / Kodansha Comics"
-volumes: 23
+volumes: 24
 status: "Completed"
 englishVolumes: 16
 englishStatus: "Ongoing (English release paused)"
 ageRating: "T+ (Older Teen)"
 contentWarnings: ["death game", "graphic deaths", "psychological violence", "social media themes", "child endangerment"]
-description: "Ataru Kashiwagi opens the Real Account social media app one evening. He and millions of other users are pulled into a virtual world. The rules: complete the challenges to escape. The catch: when a player dies, every follower they have in Real Account dies in the real world. The first challenge is mass-broadcast to every player simultaneously. Okushou and Shizumu Watanabe's death game thriller ran 23 volumes in Japan; 16 are available in English from Kodansha Comics."
+description: "Ataru Kashiwagi opens the Real Account social media app one evening. He and millions of other users are pulled into a virtual world. The rules: complete the challenges to escape. The catch: when a player dies, every follower they have in Real Account dies in the real world. The first challenge is mass-broadcast to every player simultaneously. Okushou and Shizumu Watanabe's death game thriller ran 24 volumes in Japan (2014–2019); 16 are available in English from Kodansha Comics."
 coverImage: "/covers/real-account.jpg"
 amazonASIN: "1632362724"
 publishedAt: "2025-11-16"
 rewritten: "2026-05-20"
 tags: ["thriller", "death-game", "social-media", "psychological", "kodansha"]
 rating: 4
+read: true
 hasAffiliate: true
 ---
 
