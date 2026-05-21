@@ -1,137 +1,115 @@
 ---
-title: "My ID is Gangnam Beauty Review: The Manhwa That Takes Beauty Surgery and Identity Seriously"
+title: "My ID is Gangnam Beauty Review: A Webtoon That Asks Why the New Face Didn't Fix Anything"
 slug: "my-id-is-gangnam-beauty"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "My ID is Gangnam Beauty"
 mangaTitleJa: "내 ID는 강남미인!"
-mangaAuthor: "Maenggi"
+mangaAuthor: "Gi Maeng-gi (Maenggi)"
 serialization: "Naver Webtoon"
-publisher: "Webtoon / Yen Press"
-volumes: 8
+publisher: "Naver Webtoon / LINE Webtoon (English)"
+volumes: 85
 status: "Completed"
-englishVolumes: 8
+englishVolumes: 84
 englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings:
-  - "beauty standards critique"
   - "bullying"
-  - "identity themes"
-description: "A review of My ID is Gangnam Beauty, the manhwa about a girl who had plastic surgery before college and still struggles with how she is perceived."
+  - "plastic surgery themes"
+  - "stalking"
+  - "body image"
+description: "A review of My ID is Gangnam Beauty, the Naver webtoon by Gi Maeng-gi about a college freshman whose new face didn't end the judgment — it just changed who was doing the judging."
 amazonASIN: ""
 publishedAt: "2026-04-27"
+rewritten: "2026-05-21"
+read: true
 tags:
   - "romance"
   - "manhwa"
-  - "identity"
-  - "beauty"
+  - "webtoon"
+  - "korea"
   - "college"
   - "drama"
 rating: 4
 hasAffiliate: true
 ---
 
+I came to this webtoon late — long after the K-drama had aired, long after the "Gangnam beauty" phrase had stopped being a meme on Korean Twitter. I read it on the LINE Webtoon app on my commute, scrolling vertically through Mi-rae's first days at college, and I remember sitting at the train station after one episode because I wasn't ready to walk into work yet. Something about her hesitating before saying hi to a classmate hit a part of me I didn't expect this story to reach.
+
+I'm Yu. I grew up in Japan, not Korea, and I'm not a woman, and I've never had plastic surgery — but I was bullied for years for the way I looked, and reading this in my late twenties felt like the story was older than me, kinder than I would have been to myself at her age.
+
 ## Quick Take
 
-- Brave in its willingness to critique plastic surgery culture from a place of empathy rather than judgment.
-- Mi-rae's journey — from surgery to self-acceptance — resonates because it doesn't take easy positions.
-- Kyung Seok is a male lead who actually calls out lookism consistently and convincingly.
-
-## Who Is This Manga For?
-
-- Fans of romance readers interested in identity and self-image themes
-- Readers who enjoy manhwa that addresses Korean beauty culture directly
-- Anyone interested in stories about college life and finding yourself outside school
-- People who like readers who want romance with substance and perspective
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: beauty standards critique, bullying, identity themes
-
-Safe for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
-
-**Overall: 4/5** — Thoughtful romance that handles difficult beauty culture themes with honesty.
+- A webtoon about a girl who had cosmetic surgery before college — and the harder question the story actually asks: why her self-image didn't change with her face.
+- Hyun Soo-a is one of the best "rival" characters I've read; her arc is brutal in a way the K-drama softened.
+- Rated **T (Teen)** — bullying, stalking, and body-image content but no explicit material.
 
 ## Story Overview
 
-Mi-rae Kang was bullied relentlessly for her looks throughout school. Before college, she underwent plastic surgery — and arrives at university as a "Gangnam beauty" (a term for someone who looks like they had cosmetic surgery). Despite her new face, she is still dismissed, now for being "artificial." Chemistry student Kyung Seok Do doesn't judge people by appearance — and sees through the social games around beauty that everyone else plays.
+Kang Mi-rae spent her entire childhood being mocked for being ugly. She had major facial plastic surgery the summer before university, hoping it would erase her past. It doesn't. On her first day at her chemistry program, she's labeled a "Gangnam beauty" — Korean slang for someone with an obviously surgical, cookie-cutter look — and the gossip starts before she's even spoken.
+
+The story follows her freshman year. She meets Do Kyung-seok, a classmate who is famously beautiful himself and famously uninterested in talking about it. She also collides with Hyun Soo-a, the department's natural beauty, whose composure cracks every time Mi-rae enters the room. The middle of the story pivots from "will Mi-rae be accepted" to "why does Soo-a hate this so much" — and the answer is a flashback that recontextualizes everything.
+
+The final act introduces a stalker — a male classmate, Dong-won, posting creepshots of Soo-a online. Woo-young is the one who first realizes what's happening and gets help; the arc pushes both women toward a version of themselves that doesn't depend on being looked at. It ends with the romance resolved but quietly, and with Soo-a, alone, cutting her hair short.
 
 ## Characters
 
-The cast of *My ID is Gangnam Beauty* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
+**Kang Mi-rae** — The protagonist. Quiet, anxious, observant. The surgery gave her a face her bullies wouldn't recognize; it didn't give her permission to stop bracing for them. Her arc is learning to react to the present instead of the past.
 
-## Art Style
+**Do Kyung-seok** — Chemistry student, conventionally beautiful, refuses to play the social game around looks. Easy to misread as a wish-fulfillment love interest, but the manhwa gives him a family backstory (his mother, his half-sister) that explains why he flinches whenever someone reduces a person to their appearance.
 
-Maenggi's visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
+**Hyun Soo-a** — The "natural beauty" rival, and the character the story is really about. She's a child of neglect; the only time her life ever got better was a brief period when her absentee mother bathed her, dressed her up, and the bullying at school stopped. She has built her entire adult life on the lesson she learned at eight: beautiful girls are loved, plain girls are alone. Mi-rae's existence — a built-in-Gangnam beauty getting attention — threatens that lesson.
 
-## Cultural Context
-
-*My ID is Gangnam Beauty* comes from Korean beauty standards, the Gangnam district's association with cosmetic surgery, and college culture in Korea. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
+**Yeon Woo-young** — A classmate of Mi-rae's, quietly in love with her, and the manhwa's third corner of the romance. Easy to dismiss as the "second male lead," but his role in the late stalker arc — being the one who actually notices what's happening to Soo-a and intervenes — gives him more weight than the trope usually carries.
 
 ## What I Love About It
 
-This manhwa refuses to say plastic surgery was wrong or right. It asks a harder question: why is Mi-rae's confidence still so fragile after getting what society told her she needed? That's genuinely brave storytelling.
+The episode where Soo-a's childhood is finally shown — it's a single chapter, mostly silent, and it broke me.
 
-## What English-Speaking Fans Say
+The flashback opens with her as a small kid, raised by her grandmother while her parents are absent from her life, going to school with greasy hair and dirty clothes, getting called ugly by classmates. Then her mother briefly reappears, bathes her, brushes her hair, dresses her in something clean. She walks into school the next day and the same kids stare and tell her she's pretty now. The bullying stops. Her mother leaves again a few days later. Soo-a is alone again, but now she has a theory of how the world works, and she will spend the next fifteen years protecting it.
 
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
+What I love is that the manhwa never asks you to forgive her. It just makes sure you understand what she was eight years old when she learned. Every cruel thing she does to Mi-rae later is a kid who got bathed once trying to make sure the bathwater never runs out. I have read a lot of "mean girl" stories. This is the only one that made me sit with one for that long without flinching.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
+The stalker arc late in the story is hard to read, and the moment that stayed with me isn't the reveal of who the stalker is — it's after.
 
-## Similar Manga
+Soo-a, who has spent the entire manhwa wearing her hair long and styled because that is part of the version of herself she has been selling, sits down and cuts it off. Short. Uneven. In a way someone does when they are not trying to look good, they are just trying to be a different shape than the one a stranger was photographing.
 
-If you enjoyed *My ID is Gangnam Beauty*, try:
-
-- **True Beauty** by Yaongyi — similar beauty standards themes
-- **Goong** — similarly emotionally rich manhwa romance
-- **A Silent Voice** by Yoshitoki Oima — redemption and identity after bullying
-
-## Reading Order / Where to Start
-
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
-
-## Official English Translation Status
-
-*My ID is Gangnam Beauty* has been fully published in English. All 8 volumes are available.
+It's not framed as triumphant. It's not framed as a glow-up. It's a girl rejecting, for the first time in her life, the rule she taught herself at eight years old. And the manhwa lets her do it alone, off in her own panels, not as a scene Mi-rae witnesses and reacts to. That choice — letting her be the protagonist of her own escape, not a side story in Mi-rae's romance — is what made me trust this writer.
 
 ## Pros & Cons
 
 **Pros:**
-- Complete story with no wait for new volumes
-- Strong character work and genuine emotional investment
-- College setting feels distinctly different from the usual high school romance
+- Reads quickly (it's a vertical-scroll webtoon) but the emotional beats hit harder than the format usually allows.
+- The "rival" character has more interior life than most leads in other romance webtoons.
+- Honest about plastic surgery without taking a political position on it.
 
 **Cons:**
-- Romance is somewhat secondary to the identity/beauty themes
-- Secondary characters could be more developed
+- The college-romance plot can feel slight next to the heavier Soo-a material — uneven by design but uneven all the same.
+- The stalker arc is a real spike in tone and won't be for everyone.
+- Vertical-scroll format means there's no print English edition to collect — this is either fine or a dealbreaker for you.
 
-## Format Comparison
+## Is My ID is Gangnam Beauty Worth Reading?
 
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+Yes, if you want a romance that takes its premise seriously enough to follow its hardest implication — that surgery doesn't fix what bullying did. The romance is the lighter half of the book; the part you'll remember is Soo-a.
+
+## Who Is This Manga For?
+
+- Readers who liked the *A Silent Voice* approach to bullying and self-image.
+- People who enjoy romance webtoons but want one with a heavier rival character.
+- K-drama fans who watched the 2018 adaptation and want the version with Soo-a's interior intact.
+- Anyone interested in Korean beauty culture told from inside, not as commentary.
+
+## Official English Translation Status
+
+*My ID is Gangnam Beauty!* is available in English on LINE Webtoon (now WEBTOON). The English simulcast/translation completed in September 2021, covering all 84 published episodes plus the epilogue. There is no licensed English print edition; the official English version is the free webtoon on the WEBTOON app and site.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+Because there's no print English release, the easiest way to read it in English is the official WEBTOON app — free, with the original vertical-scroll layout intact. If you want to support the author through Amazon, the Korean-language print volumes are available there as well.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=My%20ID%20is%20Gangnam%20Beauty&tag=dearmanga-20)
-
+[Find Korean print volumes on Amazon →](https://www.amazon.com/s?k=My+ID+is+Gangnam+Beauty&tag=dearmanga-20)
 
 ---
 
