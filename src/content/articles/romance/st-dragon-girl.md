@@ -1,14 +1,14 @@
 ---
-title: "St. Dragon Girl Review: A Martial Arts Girl Possessed by a Dragon God Navigates Powers, School, and a Childhood Friend Who Summons Demons"
+title: "St. ♥ Dragon Girl Review: A Ribon Action-Romance Where the Girl Hits First and the Boy Does the Magic"
 slug: "st-dragon-girl"
 coverImage: "/covers/st-dragon-girl.jpg"
 genre: "Romance / Fantasy"
 genreSlug: "romance"
-mangaTitle: "St. Dragon Girl"
-mangaTitleJa: "セント・ドラゴンガール"
+mangaTitle: "St. ♥ Dragon Girl"
+mangaTitleJa: "セント♥ドラゴンガール"
 mangaAuthor: "Natsumi Matsumoto"
-serialization: "Ribon"
-publisher: "Shueisha / VIZ Media"
+serialization: "Ribon (Shueisha)"
+publisher: "Shueisha / VIZ Media (Shojo Beat)"
 volumes: 8
 status: "Completed"
 englishVolumes: 8
@@ -16,126 +16,98 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings:
   - "fantasy violence"
-  - "mild romance"
-  - "supernatural themes"
-description: "Yu's review of St. Dragon Girl — Momoka Sendou is the best martial arts student at her school; when her childhood friend Ryuga calls on a dragon god for help with an exorcism, the spirit takes up residence in Momoka instead; the series follows her adventures with increased power, supernatural threats, and complicated feelings for Ryuga across 8 volumes."
+  - "supernatural / yokai content"
+  - "mild romantic content"
+description: "A review of Natsumi Matsumoto's St. ♥ Dragon Girl — eight volumes in Ribon from October 1999 to April 2003. A Chinese-magic-meets-martial-arts shoujo where Momoka punches and Ryuga incants. VIZ Media's Shojo Beat English edition is complete (December 2008–September 2010)."
 amazonASIN: "1421510243"
 publishedAt: "2026-04-28"
+rewritten: "2026-05-21"
+read: true
 tags:
-  - "romance"
-  - "fantasy"
-  - "completed"
   - "shojo"
-  - "martial-arts"
-  - "supernatural"
   - "ribon"
+  - "supernatural"
+  - "martial-arts"
+  - "shojo-beat"
+  - "completed"
 rating: 3
 hasAffiliate: true
 ---
 
+I read *St. ♥ Dragon Girl* during the years when VIZ's Shojo Beat imprint was hauling out the back catalog of Ribon, and I am quietly grateful they did. It's an action-romance from the same magazine that birthed *Sailor Moon* and *Marmalade Boy* — and it has, by a wide margin, the rowdiest female lead of the three.
+
+I'm Yu, and Momoka Sendou is one of my favorite shoujo protagonists of her era for one reason: she does not need to be rescued.
+
 ## Quick Take
 
-- Energetic shojo action-romance — Momoka is the rare shojo lead who fights first and worries about feelings second, which makes her genuinely fun
-- The dragon-possession premise gives the series its comedy and action hook; the childhood-friend romance gives it emotional stakes
-- 8 volumes complete in English; compact and satisfying for readers who want adventure alongside the romance
-
-## Who Is This Manga For?
-
-- Readers who want shojo romance with genuine action and a physically capable female lead
-- Anyone interested in supernatural shojo manga with martial arts elements
-- Fans of Ribon magazine's brand of light fantasy romance
-- Readers who want completed short-form shojo with clear romantic resolution
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Fantasy violence and martial arts action; mild romantic content; supernatural themes and demon-related imagery
-
-T rating — appropriate for teen readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
+- Natsumi Matsumoto's *St. ♥ Dragon Girl* (セント♥ドラゴンガール) ran in Shueisha's *Ribon* magazine from October 1999 to April 2003 — eight tankōbon volumes.
+- VIZ Media's Shojo Beat imprint published the complete English edition between December 2, 2008 and September 7, 2010.
+- Rated **T (Teen)** — yokai-fighting action, mild romantic content, no explicit material.
 
 ## Story Overview
 
-Momoka Sendou trains in the Shorinji Kempo tradition and is the top student at her dojo. Her childhood friend Ryuga Kou is a skilled exorcist who summons spiritual power to fight demons. When a summoning goes wrong, the Long, a dragon god, possesses Momoka instead of the intended vessel.
+Momoka Sendou is a high schooler and a serious martial artist; her dojo and her training are the most important things in her life after Ryuga Kou, her childhood friend. Ryuga is the heir to a family that practices Chinese magic — protective rituals, exorcism, the kind of supernatural craft that involves summoning entities to handle things humans cannot.
 
-The result: Momoka now has dramatically enhanced physical power when the dragon manifests, and Ryuga has to work with her — his childhood rival — to handle the supernatural threats that keep appearing. Over 8 volumes, the series tracks their partnership, the growing complexity of their feelings, and the escalating supernatural threats.
+The series opens with Ryuga performing a summoning to protect Momoka's psychic cousin Shunran, whom a serpent king has set his sights on as a bride. The summoned dragon spirit is meant to inhabit Ryuga as a vessel. Instead — for reasons the manga has fun with — the dragon ends up in Momoka. From that moment, Momoka can call on the dragon's power when she fights, becoming dramatically stronger and dramatically more dangerous than her training alone would allow.
+
+The eight volumes follow her, Ryuga, Shunran, and a small recurring cast as they handle the next wave of yokai cases that find them. The serpent-king plot resolves; new threats arrive; the romance between Momoka and Ryuga keeps pretending not to be a romance for as long as it can get away with it. The final volumes pay off the relationship arc and the dragon-spirit arc on roughly equal terms.
 
 ## Characters
 
-**Momoka Sendou** — A protagonist defined by her fighting ability first and romantic feelings second; her strength is presented as genuinely impressive rather than as a quirky personality trait.
+**Momoka Sendou** — A high school martial artist with the dragon spirit inside her. The thing that makes Momoka work as a shoujo lead is that she was strong *before* she got the dragon. Matsumoto draws her as physically confident, willing to throw a punch first, and slightly impatient with magical solutions when a kick would do. She is the rare shoujo protagonist who does not need the magical artifact to be the most capable person in the room.
 
-**Ryuga Kou** — The childhood friend whose exorcism work drives the supernatural plot; his relationship with Momoka has the specific dynamic of two people who have known each other too long to be easily honest about how they feel.
+**Ryuga Kou** — Heir to a family of Chinese-magic practitioners. The exorcism, sealing, and summoning work falls to him; the heavy hitting falls to Momoka. Their dynamic is built around the inversion of the usual shoujo formula — he's the one performing rituals while she fights — and the manga has fun with it.
 
-## Art Style
+**Shunran** — Momoka's cousin. Possesses psychic gifts; the catalyst for the first arc and a recurring presence afterward. Her vulnerability gives Momoka something specific to protect, but Matsumoto doesn't reduce her to a damsel.
 
-Matsumoto draws in the clean, bright Ribon style — expressive faces, dynamic action sequences, and romantic moments that hit the expected visual beats. The dragon-manifestation sequences have appropriate visual weight.
-
-## Cultural Context
-
-St. Dragon Girl ran in Ribon from 1999 to 2003, in the same magazine as Sailor Moon and Marmalade Boy. Matsumoto's combination of martial arts action and supernatural romance fit the magazine's tradition of giving its female leads active roles rather than passive waiting. The Chinese cultural elements — Ryuga's exorcism tradition, the Long dragon — were part of a broader early-2000s shojo interest in Chinese fantasy aesthetics.
+**The recurring antagonists** — Yokai of various kinds, mostly Chinese-folklore derived, plus the serpent king of the opening arc and the larger spirit-world figures who appear in later volumes.
 
 ## What I Love About It
 
-Momoka never needs to be rescued. The dragon possession gives her more power than anyone around her, and the series consistently makes her the one who resolves physical threats. The romance develops between two capable people rather than following the standard shojo pattern of a powerful boy protecting a vulnerable girl.
+What I love about *St. ♥ Dragon Girl* is what I said in the opening: Momoka never has to be rescued.
 
-## What English-Speaking Fans Say
+That sounds small. It is not small in Ribon-era shoujo. The dominant grammar of the magazine was protective male leads carrying physically vulnerable female protagonists through danger. Matsumoto inverts this. Ryuga does important work; the magic he performs is real and necessary. But the threats hit Momoka, and Momoka handles them. The dragon spirit doesn't replace her competence; it amplifies a martial artist who was already going to win the fight.
 
-Western readers describe St. Dragon Girl as light, fun shojo action — specifically noted for Momoka being a more active protagonist than typical for the genre, for the action sequences being genuinely exciting, and for the compact 8-volume format being ideal for readers who want complete romance without long commitment. Recommended for Sailor Moon fans wanting something shorter.
+The romance is the second thing I love. Childhood friends who have always known they would eventually have to decide what they are is one of the oldest shoujo setups. Matsumoto plays the trope sincerely. The slow erosion of their plausible deniability — over years, not chapters — is the through-line that makes the eight volumes feel like a complete arc rather than an episodic series.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The sequence where Ryuga's feelings for Momoka become undeniable to him — and specifically the moment he stops treating their relationship as childhood habit and recognizes it as something he has chosen — is the series' most emotionally satisfying beat.
+A late-run sequence where Ryuga is the one in danger and Momoka has to choose between her own safety and his. The series has been building toward this inversion: every previous arc, Ryuga was sealing the threat while Momoka punched it. The late arc finally puts him in the position the standard shoujo lead would have been in from the start.
 
-## Similar Manga
-
-- **Ultra Maniac** — Ribon supernatural romance with similar energetic female lead
-- **Kamichama Karin** — Shojo with magical powers and childhood friend romance
-- **Full Moon Wo Sagashite** — Ribon supernatural romance with similar emotional core
-- **Sailor Moon** — The foundational magical-girl action romance in the same tradition
-
-## Reading Order / Where to Start
-
-Volume 1 — Momoka's martial arts skills, Ryuga's exorcism work, and the dragon possession that binds them together establish the series premise completely.
-
-## Official English Translation Status
-
-VIZ Media published the complete English series under the Shojo Beat imprint. All 8 volumes available.
+What makes it land is Momoka's response. She doesn't panic. She doesn't get rescued by an outside agency. She fights, makes the decision herself. It is one of the cleanest payoffs the series gives the reader — exactly the kind of role-flip the eight volumes had been quietly preparing.
 
 ## Pros & Cons
 
-**Pros**
-- Physically capable female lead who drives the action
-- Compact and complete in 8 volumes
-- Energetic mix of martial arts and supernatural romance
-- Clear romantic resolution
+**Pros:**
+- A genuinely active female lead in a Ribon shoujo from 1999–2003 — rarer than it should be.
+- Eight volumes, complete, English-licensed in full by Shojo Beat — a finite reading commitment.
+- The Chinese-magic / martial-arts blend gives the series a visual texture distinct from its Ribon peers.
 
-**Cons**
-- Premise is lighter than the martial arts setup might suggest
-- Character development is limited by the short format
-- Supporting cast is underdeveloped
+**Cons:**
+- The early volumes are episodic in a way that some readers find lightweight.
+- Supporting cast (especially the recurring villains) gets less interiority than Momoka and Ryuga.
+- Late-90s Ribon aesthetic conventions — chibi reaction panels, screen-tone overload — may read dated.
 
-## Format Comparison
+## Is St. Dragon Girl Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | VIZ Media Shojo Beat; complete series |
-| Digital | Available via VIZ |
+Yes — if you want a complete short-form Ribon-era shoujo with a fighter protagonist. Skip if you want pure romance with no action or vice versa; the book commits to both.
+
+## Who Is This Manga For?
+
+- *Sailor Moon* fans who want something shorter and less cosmic-scale.
+- *Inuyasha* readers who want a Ribon-flavored take on Chinese-magic adventure.
+- Anyone who likes the protective childhood-friend trope played the long way around.
+- Completists of VIZ's Shojo Beat back catalog.
+
+## Official English Translation Status
+
+VIZ Media's Shojo Beat published all eight volumes of *St. ♥ Dragon Girl* in English between December 2, 2008 and September 7, 2010. The series is complete in English. Print volumes are out of print; used copies and digital editions through major storefronts remain accessible.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+VIZ Shojo Beat's eight English volumes are the only English edition. Used copies are widely available; digital editions surface periodically through major retailers.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=St.+Dragon+Girl+manga+Matsumoto&i=stripbooks)
-
+[Browse St. Dragon Girl on Amazon →](https://www.amazon.com/s?k=St+Dragon+Girl+Matsumoto&tag=dearmanga-20)
 
 ---
 
