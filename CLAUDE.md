@@ -23,8 +23,14 @@ Amazon.com（Kindle / ペーパーバック / Omnibus）へのアフィリリン
 
 - **ターゲット**: 日本漫画に興味のある英語圏ユーザー（北米・欧州）
 - **コンテンツ**: 日本漫画のレビュー・おすすめまとめ記事（英語）
-- **収益**: Amazon Associates US（tag=dearmanga-20はプレースホルダー）/ JP tag: yushi745-22登録済み
-- **対象作品**: 公式英語版が存在する作品（englishStatus が Complete または Ongoing）
+- **収益**:
+  - Amazon Associates US (`tag=dearmanga-20` はプレースホルダー、未登録)
+  - Amazon Japan Associates (`tag=yushi745-22` 登録済み 2026-04-30) — 未ライセンス作品の amazon.co.jp 日本語版リンク用
+- **対象作品**:
+  - 公式英語版が存在する作品（`englishStatus` = Complete / Ongoing）→ amazon.com リンク（dearmanga-20）
+  - **公式英語版が無い作品でも、日本語版が amazon.co.jp で買えるものは対象に含める**（`englishStatus` = Unlicensed）→ amazon.co.jp リンク（yushi745-22）
+  - 漫画版自体が存在しない作品（例: katanagatari、serial-experiments-lain）はアーカイブ対象
+- **アーカイブ基準**: WebFetch/WebSearch で要約や具体シーンの裏取りができない場合のみ。「英語版未ライセンス」単独でのアーカイブは禁止
 
 ---
 
