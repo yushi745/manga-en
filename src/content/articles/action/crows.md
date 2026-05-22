@@ -7,20 +7,35 @@ genreSlug: "action"
 mangaTitle: "Crows"
 mangaTitleJa: "クローズ"
 mangaAuthor: "Hiroshi Takahashi"
-serialization: "Bessatsu Shonen Champion"
+serialization: "Bessatsu Shōnen Champion (Akita Shoten)"
 publisher: "Akita Shoten"
 volumes: 26
 status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "M (Mature)"
-contentWarnings: ["delinquent violence", "gang fights", "strong language", "masculine confrontation culture"]
-description: "Crows follows Harumichi Bouya as he transfers to Suzuran All-Boys High School — notorious as Japan's most dangerous school — and begins fighting his way through every strong opponent he can find, motivated by nothing more complex than wanting to find someone who can beat him."
+contentWarnings:
+  - "delinquent violence"
+  - "gang fights"
+  - "strong language"
+description: "A review of Hiroshi Takahashi's Crows (クローズ) — 26 volumes in Bessatsu Shōnen Champion from 1990 to 1998. Harumichi Bouya arrives at Suzuran All-Boys High looking for a real fight and finds the most dangerous school in Japan."
 publishedAt: "2026-04-26"
-tags: ["action", "delinquent", "fighting", "school", "seinen", "classic", "male-protagonist"]
+rewritten: "2026-05-22"
+read: true
+tags:
+  - "action"
+  - "delinquent"
+  - "fighting"
+  - "school"
+  - "classic"
+  - "completed"
 rating: 4
-hasAffiliate: false
+hasAffiliate: true
 ---
+
+I read *Crows* over several months, one volume at a time, and by the end I had given up trying to explain to people why a manga about high school delinquents fighting in a parking lot had managed to become one of my favorites. The premise resists summary. The experience doesn't.
+
+I'm Yu. Harumichi Bouya is the purest protagonist in delinquent manga, and Takahashi's work on Suzuran established an entire universe that still has active fans in Japan thirty years later.
 
 ## Quick Take
 
@@ -34,23 +49,6 @@ hasAffiliate: false
 - **Readers of Worst** (the same school's next generation) who want to go back to the source
 - **Action manga enthusiasts** who appreciate fighting as both spectacle and character expression
 - **Anyone who loves absurdly intense characters** doing intensely focused things with maximum commitment
-
-## Content Warnings & Age Rating
-
-**Age Rating**: M (Mature)
-**Content Warnings**: Sustained delinquent violence, gang fights, strong language throughout, the school environment is explicitly dangerous
-
-Mature content appropriate to the genre — this is not softened.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
 
 ## Story Overview
 
@@ -86,52 +84,44 @@ Most protagonists want something complicated — power, recognition, love, reven
 
 This sounds simple, but watching it play out across 26 volumes reveals unexpected depth. Bouya's simplicity turns out to be a kind of moral purity — he treats people exactly according to one criterion, applied consistently, without politics or strategy. In the complicated world of Suzuran's factions and grudges and reputation, this makes him a strange center of clarity.
 
-## What English-Speaking Fans Say
-
-Not widely known in English-speaking markets due to lack of translation. Known in delinquent manga communities as one of the foundational works of the genre. The Crows/Worst universe (multiple interconnected series set in the same school at different time periods) has a devoted Japanese fanbase and some dedicated English-speaking fans who read in Japanese or find scans.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
 The first confrontation between Bouya and Rindaman — much anticipated, long delayed — which does not resolve the way the series has been building toward and is all the more interesting for it. The scene demonstrates that Takahashi's understanding of his own premise goes deeper than the fighting would suggest.
 
-## Similar Manga
+## Pros & Cons
 
-- **Worst**: Same school, next generation — can be read before or after
-- **Rokudenashi Blues**: Earlier delinquent manga in the same tradition
-- **Shonan Junai Gumi**: GTO prequel, same genre, more comedy mixed in
+**Pros:**
+- Bouya is a genuinely original protagonist — no hidden agenda, no tragedy, just absolute clarity of purpose.
+- The Crows/Worst universe (multiple interconnected series at Suzuran across different eras) is one of manga's most developed shared settings.
+- Complete at 26 volumes; the escalation is consistent and the payoff with Rindaman earns its buildup.
+- Takahashi's character design work is instantly distinctive — every fighter has a silhouette.
 
-## Reading Order / Where to Start
+**Cons:**
+- No English translation; readable only in Japanese.
+- Genre conventions (yankee/delinquent subculture, 1990s aesthetics) are specific and may not translate for all readers.
+- The episodic structure in early volumes can feel repetitive before the longer arcs take shape.
 
-Volume 1. The Suzuran universe is best approached chronologically — start with Crows, then Worst.
+## Is Crows Worth Reading?
+
+Yes — if you can read Japanese and have any interest in delinquent manga. This is the genre at its most essential: the premise is pure, the protagonist is original, and the series commits completely. Read Worst (the sequel, same school, next generation) afterward.
+
+## Who Is This Manga For?
+
+- Readers who want to understand where modern delinquent manga comes from — *Crows* is the foundation.
+- Fans of *Worst*, *Rainbow*, or *Rokudenashi Blues* looking for more of the genre.
+- Anyone who wants a complete, long-form series with a distinctive protagonist and consistent internal logic.
 
 ## Official English Translation Status
 
-Crows has no official English translation.
-
-## Pros & Cons
-
-**Pros**
-- Definitively excellent version of the delinquent manga genre
-- Bouya is a genuinely original protagonist
-- Complete at 26 volumes
-- Enormously influential on subsequent manga
-
-**Cons**
-- No English translation
-- Genre conventions may not appeal to readers outside the delinquent manga tradition
-- Some cultural specificity around the yankee subculture
-
-## Format Comparison
-
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available |
-| Digital | Available in Japanese |
-| Omnibus | Various compilation formats available in Japan |
+*Crows* has no official English translation. The series is unlicensed outside Japan as of 2026.
 
 ## Where to Buy
 
-No English release yet. That just means you find it before everyone else does.
+The series is available in Japanese from Akita Shoten. All 26 volumes are in print.
 
+[Browse Crows on Amazon Japan →](https://www.amazon.co.jp/s?k=%E3%82%AF%E3%83%AD%E3%83%BC%E3%82%BA+%E9%AB%98%E6%A9%8B%E3%81%B2%E3%82%8D%E3%81%97&tag=yushi745-22)
 
 ---
+
+*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you.*

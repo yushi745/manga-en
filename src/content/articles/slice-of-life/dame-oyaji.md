@@ -6,51 +6,41 @@ genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Dame Oyaji"
 mangaTitleJa: "ダメおやじ"
-mangaAuthor: "Motoo Abiko"
-serialization: "Weekly Shonen Sunday"
+mangaAuthor: "Mitsutoshi Furuya"
+serialization: "Weekly Shōnen Sunday (Shogakukan)"
 publisher: "Shogakukan"
-volumes: 16
+volumes: 39
 status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings: ["domestic abuse played for comedy", "family dysfunction", "1970s gag manga content"]
-description: "Dame Oyaji follows an utterly useless, endlessly tormented salaryman father whose wife and children treat him with contempt and physical abuse — a dark gag manga that made family dysfunction the subject of 1970s comedy and somehow worked."
+description: "A review of Mitsutoshi Furuya's Dame Oyaji — 39 volumes in Weekly Shōnen Sunday from 1970 to 1982. A dark gag manga about a salaryman father with no power at home, winner of the 1979 Shogakukan Manga Award."
 publishedAt: "2026-04-24"
-tags: ["slice-of-life", "comedy", "gag", "family", "shonen", "classic", "1970s", "dark-comedy"]
+rewritten: "2026-05-22"
+read: true
+tags:
+  - "slice-of-life"
+  - "comedy"
+  - "gag"
+  - "family"
+  - "shonen"
+  - "classic"
+  - "dark-comedy"
+  - "completed"
 rating: 3
-hasAffiliate: false
+hasAffiliate: true
 ---
+
+*Dame Oyaji* ran in Weekly Shōnen Sunday from 1970 to 1982 — thirty-nine volumes, and it won the 1979 Shogakukan Manga Award for shōnen manga. By current standards the premise is deeply uncomfortable: a salaryman father is physically and emotionally abused by his wife and children every chapter. In 1970s Japan, it was one of the magazine's biggest hits.
+
+I'm Yu. I read *Dame Oyaji* as a historical document as much as a manga, and what it says about Showa Japan's relationship with the salaryman life is genuinely illuminating.
 
 ## Quick Take
 
-- One of the most extreme examples of 1970s dark gag manga — family violence played entirely for laughs
-- The premise is disturbing by current standards; in context it was enormous popular success
-- A significant historical artifact of what Japanese gag manga permitted and what it said about family anxiety
-
-## Who Is This Manga For?
-
-- **Historians of manga and 1970s Japanese pop culture** who want to understand the era's dark comedy
-- **Readers of classic Showa manga** who can engage with content in its historical context
-- **Those interested in how comedy addresses social anxiety** — the series is about salaryman despair
-- **Fans of gag manga's darker traditions** before the genre softened
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen) — by original standards; modern readers should be aware this content would rate differently today
-**Content Warnings**: Domestic abuse depicted as comedy throughout — wife and children physically and emotionally abuse the father constantly. Deeply dated in its treatment of family dynamics.
-
-Read with awareness of the historical context.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★☆☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★☆☆ |
+- Mitsutoshi Furuya's *Dame Oyaji* (ダメおやじ) ran in Shogakukan's Weekly Shōnen Sunday from September 1970 to July 1982 — 39 tankōbon volumes.
+- Won the 1979 Shogakukan Manga Award for shōnen manga.
+- No official English translation exists.
 
 ## Story Overview
 
@@ -68,7 +58,7 @@ Underneath the abuse comedy, the series is clearly about salaryman anxiety — t
 
 ## Art Style
 
-Abiko's art is clean and expressive — the classic Weekly Shonen Sunday style of the 1970s, with faces that communicate emotion with economy and precision. The physical comedy is well-staged.
+Furuya's art is clean and expressive — the classic Weekly Shōnen Sunday style of the 1970s, with faces that communicate emotion with economy and precision. The physical comedy is well-staged.
 
 ## Cultural Context
 
@@ -108,28 +98,37 @@ Dame Oyaji has no official English translation.
 
 ## Pros & Cons
 
-**Pros**
-- Historically significant as a record of Showa Japan's anxieties
-- Genuine gag manga craft in its construction
-- Complete at 16 volumes
-- Illuminates what 1970s Japanese comedy was willing to say
+**Pros:**
+- Won the 1979 Shogakukan Manga Award for shōnen — its craft was recognized by its contemporaries.
+- The gag structure is technically accomplished; the escalation mechanics are precise.
+- Complete at 39 volumes — an enormous primary source for Showa Japan's relationship with the salaryman image.
+- The cultural subtext (male powerlessness in the high-growth era) is legible and serious even when the comedy is not.
 
-**Cons**
-- No English translation
-- Content is disturbing by current standards
-- Recommend approaching as a historical document rather than entertainment
+**Cons:**
+- No English translation; readable only in Japanese.
+- The domestic abuse-as-comedy framing is genuinely disturbing by current standards.
+- Recommend approaching as a historical document as much as entertainment.
 
-## Format Comparison
+## Is Dame Oyaji Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available |
-| Digital | Available in Japanese |
-| Omnibus | Various collection formats available |
+Yes, for readers interested in the history of Japanese comedy and Showa pop culture. As a reading experience for entertainment, it requires significant tolerance for its premise. It is one of manga's more important primary sources for what the 1970s were willing to express.
+
+## Who Is This Manga For?
+
+- Manga historians and readers interested in Showa Japan's gag manga tradition.
+- Anyone researching the salaryman image in Japanese popular culture.
+- Readers who want to understand what Weekly Shōnen Sunday was publishing during its 1970s peak.
+
+## Official English Translation Status
+
+*Dame Oyaji* has no official English translation. The series is unlicensed outside Japan as of 2026.
 
 ## Where to Buy
 
-No English release yet. That just means you find it before everyone else does.
+The series is available in Japanese from Shogakukan. Collected editions exist.
 
+[Browse Dame Oyaji on Amazon Japan →](https://www.amazon.co.jp/s?k=%E3%83%80%E3%83%A1%E3%81%8A%E3%82%84%E3%81%98+%E5%8F%A4%E8%B0%B7%E4%B8%89%E6%95%8F&tag=yushi745-22)
 
 ---
+
+*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you.*

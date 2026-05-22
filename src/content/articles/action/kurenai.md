@@ -7,18 +7,25 @@ genreSlug: "action"
 mangaTitle: "Kurenai"
 mangaTitleJa: "紅"
 mangaAuthor: "Kentaro Katayama (story) / Yamato Yamamoto (art)"
-serialization: "Monthly Shonen Ace"
-publisher: "Kadokawa / Bandai Entertainment"
-volumes: 5
+serialization: "Jump Square (Shueisha)"
+publisher: "Shueisha / Bandai Entertainment (English)"
+volumes: 10
 status: "Completed"
 englishVolumes: 5
 englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["violence", "child in danger", "complex family dynamics", "action"]
-description: "A review of Kurenai, the manga about Shinkuro Kurenai — a 16-year-old dispute mediator — who is tasked with hiding and protecting a young girl from a powerful family that wants her back."
+description: "A review of Kurenai — 10 volumes in Jump Square from 2007 to 2012. A teenage dispute mediator hides and protects a sheltered seven-year-old girl from one of Japan's most powerful aristocratic families."
 amazonASIN: "B002HBE53W"
 publishedAt: "2025-06-28"
-tags: ["action", "drama", "seinen", "bodyguard", "family"]
+rewritten: "2026-05-22"
+read: true
+tags:
+  - "action"
+  - "drama"
+  - "bodyguard"
+  - "family"
+  - "completed"
 rating: 4
 hasAffiliate: true
 ---
@@ -27,7 +34,7 @@ hasAffiliate: true
 
 - A teenage dispute mediator protects a seven-year-old girl from a powerful family
 - The relationship between Shinkuro and Murasaki is the heart — funny, warm, and eventually devastating
-- Short (5 volumes) but complete and emotionally satisfying
+- 10 volumes complete in Japanese; Bandai published 5 English volumes before closing
 
 ## Who Is This Manga For?
 
@@ -97,7 +104,7 @@ The final volume is exceptional. The conclusion of Shinkuro and Murasaki's arc i
 
 Western readers who discovered Kurenai often note that it gets more emotionally complex than its initial premise suggests. The guardian-charge relationship is played with genuine feeling, and the Kuhoin family arc resolves in a way that satisfies while being honest about what it costs.
 
-The short series length (5 volumes) is frequently mentioned as both appropriate and slightly frustrating — some readers wanted more.
+The series length (10 volumes) is tight but complete; Western readers who found the English edition often note the Bandai run stops at volume 5, right as the story deepens.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
@@ -114,36 +121,41 @@ She is seven years old and she is more perceptive than he is. The series has bee
 
 ## Reading Order / Where to Start
 
-Start from Volume 1. The series is 5 volumes and complete. A manageable and rewarding commitment.
-
-## Official English Translation Status
-
-Bandai Entertainment published all 5 volumes in English. Note: Bandai Entertainment closed operations; the books may be out of print but are findable on secondary markets. Check current availability.
+Start from Volume 1. The series runs 10 volumes in Japanese. The Bandai English edition covers the first 5; secondary market copies of those are findable.
 
 ## Pros & Cons
 
-**Pros**
-- Murasaki is one of the best child characters in manga
-- The guardian relationship is handled with genuine emotional intelligence
-- Complete in 5 volumes with a satisfying conclusion
-- Both funny and serious at exactly the right moments
+**Pros:**
+- Murasaki is one of the best child characters in manga — written with specific intelligence, not as a device.
+- The guardian relationship earns its emotional weight; the comedy and the seriousness come from the same place.
+- Complete at 10 Japanese volumes with a satisfying conclusion.
+- Yamamoto's art is clean and distinctive — Shinkuro and Murasaki are drawn to match their characters.
 
-**Cons**
-- English editions may be difficult to find in print
-- Short enough that readers will want more
-- The action element is less developed than the character work
+**Cons:**
+- The English edition (Bandai Entertainment, 5 volumes) covers only the first half of the story; Bandai ceased operations in 2012.
+- The action element is less developed than the character work — the fights serve the story rather than driving it.
+- The Kuhoin family's "inner sanctum" concept requires some cultural context to fully understand.
 
-## Format Comparison
+## Is Kurenai Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Physical | Bandai Entertainment volumes; may require secondary market search |
-| Digital | Check availability — limited digital presence |
-| Omnibus | Not available |
+Yes — the Bandai English volumes cover a complete arc and are worth finding on the secondary market even if the run is incomplete. If you can read Japanese, the full 10-volume version is the right way to read it. The relationship between Shinkuro and Murasaki is worth the commitment.
+
+## Who Is This Manga For?
+
+- Readers who want character-focused action where the emotional relationship is more interesting than the fights.
+- Anyone who enjoyed *Hinamatsuri* or *The Ancient Magus' Bride*'s guardian-ward dynamics.
+- Readers looking for a complete series with a child character written with genuine respect.
+
+## Official English Translation Status
+
+Bandai Entertainment published volumes 1–5 in English before ceasing operations in 2012. The English edition covers the first half of the 10-volume Japanese series. Used copies are findable on secondary markets. No digital English edition exists.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+Bandai Entertainment's English volumes 1–5 are available on the secondary market.
 
-[Start with Volume 1 →](https://www.amazon.com/dp/B002HBE53W?tag=dearmanga-20)
+[Browse Kurenai on Amazon →](https://www.amazon.com/dp/B002HBE53W?tag=dearmanga-20)
 
+---
+
+*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
