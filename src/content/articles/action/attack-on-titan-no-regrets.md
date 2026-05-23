@@ -1,135 +1,110 @@
 ---
-title: "Attack on Titan: No Regrets Review: Levi's Origin Story — From Underground Criminal to Humanity's Strongest Soldier"
+title: "Attack on Titan: No Regrets Review — Levi's Origin Story, Two Volumes, Complete"
 slug: "attack-on-titan-no-regrets"
+coverImage: "/covers/attack-on-titan-no-regrets.jpg"
 genre: "Action"
 genreSlug: "action"
 mangaTitle: "Attack on Titan: No Regrets"
 mangaTitleJa: "進撃の巨人 悔いなき選択"
-mangaAuthor: "Hikaru Suruga & Gun Snark"
-serialization: "Bessatsu Shōnen Magazine"
-publisher: "Kodansha"
+mangaAuthor: "Gun Snark (story) / Hikaru Suruga (art)"
+serialization: "Aria (Kodansha)"
+publisher: "Kodansha / Kodansha USA"
 volumes: 2
 status: "Completed"
 englishVolumes: 2
 englishStatus: "Complete"
 ageRating: "T+ (Older Teen)"
-contentWarnings: ["titan violence", "underground city poverty", "criminal origins", "character deaths", "Levi backstory spoilers for main series"]
-description: "Yu's review of Attack on Titan: No Regrets — Levi Ackermann's origin: living in the underground city beneath the walls with Isabel and Furlan, encountered by Erwin Smith who recruits them into the Survey Corps, and the events that shaped the soldier he becomes."
-coverImage: "/covers/attack-on-titan-no-regrets.jpg"
+contentWarnings:
+  - "titan violence"
+  - "underground city poverty and crime"
+  - "significant character deaths"
+description: "A review of Attack on Titan: No Regrets — 2 volumes, the origin story of Levi Ackermann from underground criminal to Survey Corps soldier. Gun Snark story, Hikaru Suruga art. Kodansha USA's English edition is complete."
 amazonASIN: "1612629830"
 publishedAt: "2024-07-26"
-tags: ["action", "completed", "teen-plus", "kodansha", "attack-on-titan", "levi", "prequel", "two-volume"]
+rewritten: "2026-05-23"
+read: true
+tags:
+  - "action"
+  - "completed"
+  - "kodansha"
+  - "attack-on-titan"
+  - "levi"
+  - "prequel"
 rating: 5
 hasAffiliate: true
 ---
 
+Before Levi was Humanity's Strongest Soldier, he was a criminal from the underground city beneath the walls — a place the sun never reaches, where the poor live without sky. He had two people: Isabel Magnolia and Furlan Church. They were his whole world.
+
+I'm Yu. *No Regrets* is two volumes and it does more with that length than most series do with twenty.
+
 ## Quick Take
 
-- The essential supplementary material for Levi fans — the two volumes that explain everything about who he is and why he became humanity's strongest soldier
-- Isabel and Furlan's presence is the series' most emotionally effective element
-- 2 volumes complete; perfect length for what it is
-
-## Who Is This Manga For?
-
-- Attack on Titan readers who want Levi's backstory
-- Anyone who wants the emotional context for Levi's character in the main series
-- Fans who want to understand the Erwin-Levi relationship's origin
-- Readers who want a short complete spinoff
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T+ (Older Teen)
-**Content Warnings**: Underground poverty depicted seriously; criminal violence; titan violence; character deaths that are emotionally significant; spoilers for Levi's backstory in main series
-
-T+ rating — contains significant character deaths and violence consistent with the main series.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★★★ |
+- Gun Snark and Hikaru Suruga's *Attack on Titan: No Regrets* (進撃の巨人 悔いなき選択) is a 2-volume complete prequel to *Attack on Titan* collected from Kodansha's Bessatsu Shōnen Magazine.
+- Kodansha USA published the complete English edition; both volumes available in print and digital.
+- Rated **T+ (Older Teen)** — underground poverty depicted seriously; titan violence; significant character deaths that are emotionally costly.
 
 ## Story Overview
 
-Before Levi was Humanity's Strongest, he was a criminal from the underground city beneath the walls — a place where the poor live without access to the surface and its sky. He survives there with Isabel Magnolia and Furlan Church, people who chose him as their person.
+Erwin Smith is looking for skilled fighters willing to join the Survey Corps — the soldiers who go outside the walls and die in enormous numbers fighting Titans. He finds Levi, Isabel, and Furlan in the underground city and makes them an offer: join the Survey Corps and avoid criminal charges.
 
-Erwin Smith encounters them and makes a deal: join the Survey Corps or face charges. Levi goes, with Isabel and Furlan. The Survey Corps is the organization that fights Titans outside the walls and dies at catastrophic rates.
+They join. The two volumes follow their integration into the Corps, their first expedition outside the walls, and the events that produce the Levi the main series shows — his specific loyalty to those under his command, his coldness, his relationship to loss.
 
-The two volumes follow their entry into the Corps, their first expedition, and the events that define who Levi is by the time the main series begins. The specific losses he sustains are the explanation for everything in the main series that requires explanation.
+The underground city is rendered as a real place: its poverty is specific, its social structure is specific, and the three people living in it have built a community that is small and complete. The two volumes spend their first half establishing that community so that the reader understands what the second half costs.
 
 ## Characters
 
-**Levi** — The character whose entire main-series persona becomes retroactively understood through these two volumes; his coldness, his loyalty to those under his command, and his specific relationship with sacrifice are all grounded here.
+**Levi** — The main series shows you who Levi is. *No Regrets* shows you what made him that person. His coldness is retroactively explained here; so is his loyalty to soldiers under his command and his specific relationship to sacrifice.
 
-**Isabel Magnolia** — The series' most emotionally vivid character: intensely alive, warmly attached to Levi, and present in these two volumes in a way that makes what happens to her the most devastating content in the spinoff.
+**Isabel Magnolia** — The series' most vivid character: intensely alive, warmly attached to Levi, enthusiastic in a way that contrasts with the underground's grimness. She is present in these two volumes in a way that makes what happens to her the spinoff's most emotionally costly content.
 
-**Furlan Church** — The strategist whose plans have specific consequences; his relationship with Isabel and Levi is the underground community the three of them built.
+**Furlan Church** — The strategist of the three. His planning has consequences that run through the full arc; his relationship with Isabel and Levi is the community they built in the underground.
 
-## Art Style
-
-Suruga's art is skilled — the underground city's visual contrast with the surface is clear, and the titan combat sequences are staged with appropriate energy.
-
-## Cultural Context
-
-No Regrets provides the background that the main series implies but never shows. Isayama's world-building includes the underground city as a detail; this spinoff treats it as a setting with genuine social reality.
+**Erwin Smith** — Younger here than in the main series, but already the person who calculates outcomes across long timescales and acts with that calculation rather than sentiment.
 
 ## What I Love About It
 
-Isabel. She arrives with complete personality in two volumes — her energy, her attachments, her way of being in the world. The specific weight of what happens to her is the series' most honest use of its own emotional stakes.
+Isabel. She arrives with complete personality in two volumes — her energy, her specific attachments, the way she orients toward the world. The series knows exactly what she means to Levi, and it uses that knowledge precisely.
 
-## What English-Speaking Fans Say
-
-Western readers describe No Regrets as essential Attack on Titan — specifically noted for Isabel being one of the most immediately compelling characters in the franchise, for the two-volume format being ideal for the content, and for the series providing emotional context that changes how readers experience Levi's main-series behavior.
+The spinoff does not manufacture drama. It sets up what it is going to do and then does it without sentimentality or inflation. The restraint is what makes it devastating.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The moment that defines what Levi's loyalty costs him — the specific event that produces the specific soldier he becomes — is handled with the restraint that makes it devastating rather than melodramatic.
-
-## Similar Manga
-
-- **Attack on Titan** — The main series; required context
-- **Attack on Titan: Before the Fall** — The world history prequel
-- **Attack on Titan: Lost Girls** — The female characters' side stories
-- **Vinland Saga** — Character defined by specific loss with similar emotional weight
-
-## Reading Order / Where to Start
-
-Read the main series through at least the introduction of Levi before reading this — the context enriches both directions.
-
-## Official English Translation Status
-
-Kodansha published the complete English series. Both volumes available.
+The event that defines what Levi's loyalty costs him — the specific loss that produces the soldier he becomes in the main series — is handled without melodrama. Suruga draws the aftermath in a few pages, and the restraint is the point. Levi does not perform grief. What you see is what he becomes.
 
 ## Pros & Cons
 
-**Pros**
-- Isabel is immediately compelling
-- Two volumes is perfect for this content
-- Recontextualizes main series Levi character
-- Emotionally genuine despite short length
+**Pros:**
+- Two volumes is perfect for the content — tight, complete, no padding.
+- Isabel is one of the franchise's most immediately compelling characters.
+- Recontextualizes Levi's entire main-series persona.
+- Works as standalone reading for anyone who has reached Levi's introduction in the main series.
 
-**Cons**
-- Requires main series familiarity
-- Character deaths are significant and inevitable
-- Short length means each loss is compressed
+**Cons:**
+- Requires sufficient main series familiarity to appreciate the context it provides.
+- Character deaths are significant and inevitable — readers who don't want that context should read the main series first.
+- Short length means each loss is compressed.
 
-## Format Comparison
+## Is Attack on Titan: No Regrets Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Kodansha; complete 2-volume series |
-| Digital | Available |
+Yes — for any Attack on Titan reader who wants to understand Levi. The two-volume commitment is minimal and the emotional return is disproportionately large.
+
+## Who Is This Manga For?
+
+- Attack on Titan readers who want Levi's backstory in full.
+- Anyone who wants the emotional context for Levi's behavior in the main series.
+- Fans looking for a short, complete spinoff with genuine weight.
+- Readers who want to understand the Erwin-Levi relationship's origin.
+
+## Official English Translation Status
+
+Kodansha USA published both English volumes. Complete and available in print and digital.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+Both English volumes are available in print and digital from Kodansha.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Attack+on+Titan%3A+No+Regrets+manga&i=stripbooks)
-
+[Browse Attack on Titan: No Regrets on Amazon →](https://www.amazon.com/dp/1612629830?tag=dearmanga-20)
 
 ---
 
