@@ -6,9 +6,9 @@ genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Noblesse"
 mangaTitleJa: "ノブレス"
-mangaAuthor: "Jeho Son (story), Kwangsu Lee (art)"
+mangaAuthor: "Jeho Son (story) / Kwangsu Lee (art)"
 serialization: "Naver Webtoon"
-publisher: "Webtoon / Yen Press"
+publisher: "LINE Webtoon / WEBTOON Unscrolled"
 volumes: 16
 status: "Completed"
 englishVolumes: 16
@@ -17,9 +17,11 @@ ageRating: "T (Teen)"
 contentWarnings:
   - "action violence"
   - "supernatural themes"
-description: "A review of Noblesse, the Korean webtoon about a noble vampire who awakens after 820 years and enrolls in a Korean high school while battling secret organizations."
-amazonASIN: ""
+description: "A review of Noblesse — 16 volumes on Naver Webtoon. Cadis Etrama Di Raizel (Rai), an ancient noble who has slept for 820 years, awakens in modern Korea, reunites with his loyal servant Frankenstein, and enrolls in high school to understand the present world while a secret organization hunts those around him. WEBTOON Unscrolled's English edition is complete."
+amazonASIN: "1990778941"
 publishedAt: "2026-04-27"
+rewritten: "2026-05-24"
+read: true
 tags:
   - "action"
   - "supernatural"
@@ -27,111 +29,80 @@ tags:
   - "webtoon"
   - "vampire"
   - "school"
+  - "completed"
 rating: 4
 hasAffiliate: true
 ---
 
+Cadis Etrama Di Raizel — Rai — awakens in modern Korea after 820 years of self-imposed sleep. He does not know why the world looks like this now. He reunites with Frankenstein, his loyal servant, who has been maintaining a high school in his absence. Rai enrolls.
+
+I'm Yu. Rai approaches ramen with complete aristocratic seriousness. He becomes obsessed with it. This is the series in miniature.
+
 ## Quick Take
 
-- Cadis Etrama Di Raizel (Rai) is one of the great overpowered characters — all dignity, no explanation.
-- The contrast between Rai's ancient noble power and high school food club is consistently funny.
-- Long but rewarding — the friendship between Rai and Frankenstein is the heart of the series.
-
-## Who Is This Manga For?
-
-- Fans of fans of overpowered-but-composed protagonist archetypes
-- Readers who enjoy action manhwa with a supernatural historical mythology
-- Anyone interested in long-form webtoons with genuinely emotional moments
-- People who like readers who enjoy found family dynamics in action series
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: action violence, supernatural themes
-
-Safe for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
-
-**Overall: 4/5** — A landmark Korean webtoon — warm, funny, and genuinely epic.
+- Jeho Son and Kwangsu Lee's *Noblesse* (ノブレス) ran on *Naver Webtoon* — collected in 16 volumes.
+- WEBTOON Unscrolled published the complete 16-volume English edition.
+- Rated **T (Teen)** — action violence; supernatural themes; no heavy content.
 
 ## Story Overview
 
-Cadis Etrama Di Raizel — Rai — awakens after 820 years of self-imposed sleep in South Korea. He reunites with his loyal servant Frankenstein and enrolls in a high school to experience the modern world. As he adjusts to smartphones and ramen, a secret organization called the Union begins targeting him and his new friends. Rai must protect those around him using powers he rarely chooses to reveal.
+Rai is the Noblesse — the most powerful noble vampire in existence, whose power is so absolute that he has deliberately held himself back for 820 years to protect the world from what he could do. He awakens and attempts to understand the present: smartphones, school clubs, instant ramen.
+
+As Rai adjusts to modern life, a secret organization called the Union begins targeting the people around him — the high school students he has begun to care about, Frankenstein's associates, others drawn into Rai's orbit. The Union's plans require Rai's power. Rai's response to threats against those under his protection is definitive.
+
+The series runs the comedy of ancient noble dignity encountering modern convenience alongside genuine battles with high emotional stakes and a developed mythology about nobles, clan wars, and the history Rai carries.
 
 ## Characters
 
-The cast of *Noblesse* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
+**Cadis Etrama Di Raizel (Rai)** — All dignity, no explanation. He approaches everything — ramen, cell phones, homework — with the same serene seriousness. He is genuinely one of the great overpowered characters: his power is unquestioned, and the series is not about whether he can win but about whether winning costs something.
 
-## Art Style
+**Frankenstein** — Rai's loyal servant and, after 820 years of waiting, essentially the most devoted person in the world. His competence is matched only by his long-accumulated protectiveness. The Rai-Frankenstein relationship is the series' emotional core.
 
-Jeho Son (story), Kwangsu Lee (art)'s visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
-
-## Cultural Context
-
-*Noblesse* comes from Korean webtoon tradition and the "noble vampire" mythology blended with Korean contemporary school life. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
+**The high school trio** — Three ordinary students who become part of Rai's world and whose increasing involvement in supernatural conflict gives the series its warmest character dynamics.
 
 ## What I Love About It
 
-Rai's dignity is unassailable. He has never tasted ramen before, approaches it with complete aristocratic seriousness, and becomes obsessed with it. This comedy runs alongside genuinely moving moments about what it means to protect people you care about.
+The comedy runs alongside the genuine emotional weight without undermining it. Rai's bewilderment at ramen is funny. His willingness to permanently destroy himself to protect the people around him is not. The series holds both in the same space and treats both as true.
 
-## What English-Speaking Fans Say
-
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
+The friendship between Rai and Frankenstein is the series' best relationship — 820 years of loyalty, the specific devotion of someone who kept a promise for centuries, the reunion that makes all of that waiting legible.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
-
-## Similar Manga
-
-If you enjoyed *Noblesse*, try:
-
-- **Tower of God** by SIU — another landmark Korean webtoon
-- **The God of High School** by Yongje Park — action-focused webtoon
-- **Hellsing** by Kohta Hirano — similarly powerful vampire protagonist (darker tone)
-
-## Reading Order / Where to Start
-
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
-
-## Official English Translation Status
-
-*Noblesse* has been fully published in English. All 16 volumes are available.
+The sequence where Rai reveals the full cost of his power — what using it actually means for him — recontextualizes every battle that preceded it. He has been performing restraint the entire series. Understanding what that restraint was protecting changes how you read everything.
 
 ## Pros & Cons
 
 **Pros:**
-- Complete story with no wait for new volumes
-- Strong character work and genuine emotional investment
-- Completed series — a fully satisfying story from start to finish
+- Rai's dignity is one of the most distinctive protagonist qualities in the manhwa genre.
+- The comedy-and-stakes balance is handled with consistent skill.
+- Complete at 16 volumes — full narrative resolution.
+- The Rai-Frankenstein relationship is genuinely moving across the long run.
 
 **Cons:**
-- Early chapters have rough pacing and inconsistent art
-- Some battles can feel one-sided given Rai's extreme power
+- Early chapters have rough pacing and inconsistent art — the series improves significantly.
+- Some battles can feel one-sided given Rai's extreme power before the cost is established.
+- Long length requires investment.
 
-## Format Comparison
+## Is Noblesse Worth Reading?
 
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+Yes — for readers who want a Korean webtoon with the specific combination of overpowered-protagonist comedy and genuine emotional stakes. The Rai-Frankenstein dynamic alone justifies the commitment.
+
+## Who Is This Manga For?
+
+- Fans of overpowered-but-composed protagonist archetypes.
+- Readers who enjoy action manhwa with supernatural mythology and found-family warmth.
+- Anyone interested in Korean webtoon's landmark long-form works.
+- Readers who like series where the power fantasy is complicated by real cost.
+
+## Official English Translation Status
+
+WEBTOON Unscrolled published the complete 16-volume English edition. Available in print and digital.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+WEBTOON Unscrolled's complete 16-volume English edition.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Noblesse&tag=dearmanga-20)
-
+[Browse Noblesse on Amazon →](https://www.amazon.com/dp/1990778941?tag=dearmanga-20)
 
 ---
 

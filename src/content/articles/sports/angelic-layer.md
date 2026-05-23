@@ -1,6 +1,7 @@
 ---
 title: "Angelic Layer Review: A Girl Discovers a Game Where Small Dolls Fight With the Power of Their Owner's Heart"
 slug: "angelic-layer"
+coverImage: "/covers/angelic-layer.jpg"
 genre: "Sports / Sci-Fi"
 genreSlug: "sports"
 mangaTitle: "Angelic Layer"
@@ -13,121 +14,97 @@ status: "Completed"
 englishVolumes: 5
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["sports competition", "family separation themes"]
-description: "Yu's review of Angelic Layer — Misaki Suzuhara discovers Angelic Layer, a competition game involving small battle dolls called Angels controlled by the player's mind and movement; she creates her own Angel and enters the tournament circuit; a compact CLAMP sports manga that connects the competition arc to a personal family story."
-coverImage: "/covers/angelic-layer.jpg"
+contentWarnings:
+  - "sports competition"
+  - "family separation themes"
+description: "A review of CLAMP's Angelic Layer — 5 volumes in Monthly Shōnen Ace. Misaki Suzuhara arrives in Tokyo and discovers Angelic Layer, a competition game where small battle dolls fight under the mental and physical direction of their owners. Dark Horse Comics' English edition is complete."
 amazonASIN: "1595327304"
 publishedAt: "2026-03-14"
-tags: ["sports", "sci-fi", "competition", "completed", "teen", "dark-horse", "clamp", "classic"]
+rewritten: "2026-05-24"
+read: true
+tags:
+  - "sports"
+  - "sci-fi"
+  - "competition"
+  - "completed"
+  - "clamp"
+  - "classic"
+  - "dark-horse"
 rating: 4
 hasAffiliate: true
 ---
 
+At a large intersection in Tokyo, a small girl sees a giant screen showing two dolls fighting in mid-air. The crowd cheers. She does not understand what she is watching. She decides she has to learn.
+
+I'm Yu. *Angelic Layer* is CLAMP doing a tournament manga — which turns out to mean something quite different from what tournament manga usually is.
+
 ## Quick Take
 
-- CLAMP's sports manga — a tournament-based competition game involving small battle dolls (Angels) whose movements are controlled by the player's mind and physical empathy; the series is compact at 5 volumes but complete in its competitive arc and personal story
-- The protagonist Misaki's development from complete novice to competitive player is accomplished in 5 volumes with both the tournament arc and the family backstory resolved
-- 5 volumes complete; one of CLAMP's more accessible works for new readers
-
-## Who Is This Manga For?
-
-- Readers who want sports/competition manga with a shorter complete run
-- Anyone who enjoys CLAMP's work and wants something different from their fantasy titles
-- Fans of competition manga where the character's personal development and the tournament arc are integrated rather than separate
-- Readers looking for complete manga that can be read in a single sitting
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Sports competition; family separation themes (Misaki's relationship with her mother is a significant backstory element)
-
-A clean T rating appropriate for all teen readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★★☆ |
+- CLAMP's *Angelic Layer* (ANGELIC LAYER) ran in *Monthly Shōnen Ace* — collected in 5 volumes.
+- Dark Horse Comics published the complete 5-volume English edition.
+- Rated **T (Teen)** — competition-based action; family separation backstory; no heavy content.
 
 ## Story Overview
 
-Misaki Suzuhara moves to Tokyo to live with her aunt after growing up separated from her mother, who left when Misaki was very young. On arrival, she witnesses an Angelic Layer match on a giant screen — small dolls called Angels fighting in a competitive arena, controlled by their owners (Deus) through a headset that translates the player's mental and physical intent into the doll's movements.
+Misaki Suzuhara has come to Tokyo to live with her aunt while attending school — her mother has been absent from her life for years. On her first day, she witnesses Angelic Layer: a competition game where small customizable battle dolls called Angels fight in mental-physical sync with their owners. The owners, called Deus, control their Angels through a headset that translates mental and physical intent into the doll's movements — what you can make your Angel do depends on how well you understand movement, force, and your own intentions.
 
-Misaki creates her own Angel — Hikaru — and enters the competitive circuit with no experience and surprising natural ability. The series follows her tournament progression and, alongside it, the question of where her mother actually is and why she left.
+Misaki creates her own Angel named Hikaru and enters the competitive circuit with no experience and surprising natural ability. The series follows her tournament progression and, alongside it, the question of where her mother actually is and why she left.
+
+The series shares its universe with another CLAMP work — attentive readers will notice the world-building connections.
 
 ## Characters
 
-**Misaki Suzuhara** — A small, cheerful protagonist whose natural empathy translates directly into Angelic Layer performance — Angels fight as well as the emotional connection their Deus has with them. Her character arc integrates the competition with the family story.
+**Misaki Suzuhara** — A protagonist whose natural empathy translates directly into Angelic Layer performance. Her character arc integrates the competition with the family story rather than treating them separately.
 
-**Hikaru** — Misaki's Angel, whose design is intentionally non-intimidating. The dynamic between what Hikaru looks like and what she can do in combat is one of the series' deliberate themes.
+**Hikaru** — Misaki's Angel, designed to be non-intimidating in appearance. The gap between what Hikaru looks like and what she can do in combat is one of the series' deliberate themes.
 
 **Icchan (Mihara Ichirō)** — The eccentric man who introduces Misaki to Angelic Layer and whose connection to the game's creation is the series' most significant reveal.
 
-## Art Style
-
-CLAMP's art is beautiful — Angelic Layer benefits from their character design craft and the visual distinctiveness of the Angels in combat. The competition sequences are dynamic and the emotional moments are rendered with CLAMP's characteristic visual sensitivity.
-
-## Cultural Context
-
-Angelic Layer is set in the same universe as Chobits (another CLAMP work) and shares world-building elements — the technology is the same, and attentive readers will notice connections. The competition game premise draws on real Japanese competitive hobby culture — the investment in customized figures, the tournament circuit, the community of dedicated players.
+**Shuko** — A top-ranked competitor whose relationship to Misaki is the series' most emotionally significant disclosure.
 
 ## What I Love About It
 
-The series earns the final tournament arc by making Misaki's development genuine — not just improvement in fighting skill but in understanding what she's fighting for. The mother-daughter story and the competition story arrive at the same moment, which is the series' most complete structural achievement.
+CLAMP takes the tournament format seriously enough to make the fights technically interesting, but what they actually care about is the emotional logic of how Misaki relates to Hikaru. The best matches in this series are won through understanding — of the game, of the opponent, of what you actually want to be doing — rather than power escalation alone.
 
-## What English-Speaking Fans Say
-
-Western readers frequently cite Angelic Layer as one of the most accessible entry points to CLAMP's work — shorter than Cardcaptor Sakura, more focused than X/1999, and self-contained in a way that lets new readers experience the full arc. The connection to Chobits delights readers who know both series.
+The series earns its final arc by making the competition and the family story arrive at the same moment. They were always the same story.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The championship match, where the question of who Misaki is really fighting and why finally becomes explicit — and where the answer to her mother's absence is connected to the game she has been learning — is the series' most complete emotional achievement.
-
-## Similar Manga
-
-- **Cardcaptor Sakura** — Same creator, more famous, longer run
-- **Medabots** — Robot competition sports manga, similar premise
-- **Chobits** — Same universe, CLAMP, different genre emphasis
-- **Beyblade** — Competition sports manga, similar energy
-
-## Reading Order / Where to Start
-
-Volume 1 — Misaki's arrival in Tokyo and discovery of Angelic Layer are established immediately. The series reads in order as a single complete story.
-
-## Official English Translation Status
-
-Dark Horse Comics published all 5 volumes. Complete and available.
+The championship match, where the question of who Misaki is really fighting and why becomes explicit — and where the answer to her mother's absence connects to the game she has been learning — is the series' most complete emotional achievement. The reveal is prepared from the first volume in a way that feels inevitable.
 
 ## Pros & Cons
 
-**Pros**
-- Complete 5-volume run — a whole story in one sitting
-- CLAMP art at their accessible best
-- Competition and personal story integrated effectively
-- Family resolution is genuinely satisfying
+**Pros:**
+- Complete in 5 volumes — tight tournament arc with full resolution.
+- The family story and competition story are integrated rather than parallel.
+- CLAMP brings visual elegance to fight choreography.
+- Accessible to readers who don't typically read tournament manga.
 
-**Cons**
-- Short; some readers want more tournament depth
-- The family mystery is fairly predictable in hindsight
-- Older publication; secondary market for physical copies
+**Cons:**
+- Some tournament opponents are thinly drawn compared to the central cast.
+- Short format means the world-building stays minimal.
+- The family mystery is fairly predictable in hindsight.
 
-## Format Comparison
+## Is Angelic Layer Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Dark Horse; complete |
-| Digital | Available |
+Yes — especially for readers who want CLAMP's craft applied to a shorter, more accessible format. Five volumes with full emotional resolution. The tournament structure is the delivery mechanism for something more personal.
+
+## Who Is This Manga For?
+
+- Readers who want CLAMP's visual style applied to a different genre.
+- Anyone who enjoys competition manga with genuine emotional stakes.
+- Fans of short, complete series with satisfying endings.
+- Readers of Cardcaptor Sakura or Chobits who want more CLAMP in a different register.
+
+## Official English Translation Status
+
+Dark Horse Comics published the complete 5-volume English edition.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+Dark Horse Comics' complete English edition.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Angelic+Layer+manga&i=stripbooks)
-
+[Browse Angelic Layer on Amazon →](https://www.amazon.com/dp/1595327304?tag=dearmanga-20)
 
 ---
 

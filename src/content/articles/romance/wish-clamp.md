@@ -8,7 +8,7 @@ mangaTitle: "Wish"
 mangaTitleJa: "ウィッシュ"
 mangaAuthor: "CLAMP"
 serialization: "Asuka Fantasy DX"
-publisher: "Kadokawa / TOKYOPOP / Dark Horse"
+publisher: "Kadokawa / Dark Horse Comics"
 volumes: 4
 status: "Completed"
 englishVolumes: 4
@@ -17,10 +17,11 @@ ageRating: "T (Teen)"
 contentWarnings:
   - "bittersweet themes"
   - "angel and demon mythology"
-  - "gentle romance"
-description: "Yu's review of Wish — Kokuhaku Kohaku is a small angel who gets stuck in a tree and is rescued by a human doctor named Shuichiro Kudo; she offers him any wish as repayment and he cannot think of one; the series follows their cohabitation and the complications from heaven and hell that her presence attracts across 4 volumes."
+description: "A review of CLAMP's Wish — 4 volumes in Asuka Fantasy DX. A small angel named Kohaku gets stuck in a tree and is rescued by a doctor named Shuichiro who cannot think of anything to wish for; the cohabitation romance that follows is CLAMP's gentlest work. Dark Horse Comics' English edition is complete."
 amazonASIN: "1595327053"
 publishedAt: "2025-03-03"
+rewritten: "2026-05-24"
+read: true
 tags:
   - "romance"
   - "fantasy"
@@ -33,110 +34,79 @@ rating: 4
 hasAffiliate: true
 ---
 
+An angel is stuck in a tree in Tokyo. A doctor walking by cannot leave her there. She offers him any wish as payment for the rescue. He cannot think of one.
+
+I'm Yu. *Wish* is four volumes. It ends in the most honest way CLAMP could have chosen.
+
 ## Quick Take
 
-- CLAMP's most compact romance — 4 volumes of gentle warmth between a small angel and a quietly kind human doctor
-- The "I owe you a wish but you have no wish" premise is sweet and the series uses it honestly; Kohaku's developing feelings for Shuichiro are the story
-- Part of the CLAMP multiverse with connections to other works, but completely self-contained
-
-## Who Is This Manga For?
-
-- Readers who want a short, sweet CLAMP romance without X/1999's violence or Chobits' mature content
-- Anyone interested in angel-and-human romance with genuine warmth and no dark subtext
-- CLAMP fans who want to complete their shorter works
-- Readers who want completed fantasy romance in 4 volumes
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Angel and demon mythology; gentle bittersweet themes; mild supernatural conflict
-
-T rating — appropriate for teen readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★★☆ |
+- CLAMP's *Wish* (ウィッシュ) ran in *Asuka Fantasy DX* — complete in 4 tankōbon volumes.
+- Dark Horse Comics published the English edition; complete and available.
+- Rated **T (Teen)** — angel and demon mythology; bittersweet romance; gentle rather than heavy.
 
 ## Story Overview
 
-Kohaku is a cherub — small, cheerful, and carrying an enormous amount of divine goodwill. She gets stuck in a tree in Tokyo. A human doctor named Shuichiro Kudo rescues her.
+Kohaku is a cherub — small, cheerful, and carrying an enormous amount of goodwill. She gets stuck in a tree outside a hospital. A doctor named Shuichiro Kudo rescues her.
 
-Kohaku offers him any wish as repayment. Shuichiro cannot think of one — he has everything he needs and doesn't want anything in particular. He asks her to stay until he can think of a wish.
+Kohaku offers him any wish as repayment. Shuichiro cannot think of one. He has everything he needs and does not want anything in particular. He asks her to stay until he thinks of a wish.
 
-What follows is a cohabitation romance between a small angel and a quietly kind human, complicated by the attention her presence attracts from heaven (her supervisor, other angels) and hell (demons who want to use her proximity to a human for their own purposes). Kohaku's developing feelings for Shuichiro are the series' emotional center.
+What follows is a cohabitation romance between a small angel and a quiet human doctor, complicated by the attention her presence draws from heaven and hell. Kohaku's supervisor Hisui and a pair of demons become involved for different reasons. At the center of it: Kohaku's developing feelings for Shuichiro, and a man who has spent his entire life without a single desire.
+
+The series ran contemporaneously with CLAMP's X/1999, which was doing the opposite of everything *Wish* does — maximum darkness, maximum scale, maximum violence. *Wish* is four volumes of deliberate gentleness.
 
 ## Characters
 
-**Kohaku** — An angel whose cheerfulness is genuine and whose developing feelings for Shuichiro are drawn with care; CLAMP gives her specific emotional responses rather than treating her as a generic angelic presence.
+**Kohaku** — An angel whose cheerfulness is genuine and whose developing feelings for Shuichiro are drawn with real care. CLAMP gives her specific emotional responses rather than treating her as a placeholder for angelic innocence.
 
-**Shuichiro Kudo** — A human lead whose quiet kindness is his most important quality; his inability to wish for anything gives the series its specific premise and the romance its particular tension.
+**Shuichiro Kudo** — His inability to wish for anything is the series' premise and its emotional core. His quiet kindness and his particular lack of desire are related. The series' whole interest is in what eventually breaks through that.
 
-## Art Style
-
-CLAMP's art in Wish is among their most delicate and precise — the small-angel character design for Kohaku is charming and consistently expressive. The supernatural elements are drawn with the group's characteristic visual grace.
-
-## Cultural Context
-
-Wish ran in Asuka Fantasy DX from 1995 to 1998 and is part of CLAMP's early multiversal world-building. Its gentle tone contrasts with the contemporaneous X/1999, which was running at maximum emotional intensity at the same time. Wish demonstrates the range CLAMP operated in during their most prolific period.
+**Hisui** — Kohaku's supervisor in heaven, whose own complicated feelings add dimension to the divine-and-mortal premise.
 
 ## What I Love About It
 
-Shuichiro has no wish. The series spends 4 volumes with a premise where the expected genre mechanics (angel grants wish, story over) are stalled indefinitely by a person who simply does not want anything. That his eventual desire, when it comes, is what it is — that is the whole series in miniature.
+Shuichiro has no wish. The series spends four volumes with a premise where the expected genre mechanics — angel grants wish, story ends — are suspended indefinitely by a man who simply does not want anything.
 
-## What English-Speaking Fans Say
+What his eventual wish turns out to be is what makes everything before it retroactively complete.
 
-Western readers describe Wish as CLAMP's most immediately accessible work for newcomers — specifically noted for the gentle warmth being unusual in the group's catalog, for Kohaku's design being one of their most charming, and for the 4-volume format being perfectly calibrated to the story's emotional scope. Frequently recommended as the CLAMP entry point before heavier works.
+CLAMP understood what they were doing. The gentleness is not accidental. This is a series about the kind of desire that cannot be named until the right person gives it a name.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-Shuichiro's wish, when he finally articulates it, is the series' most precise emotional moment — and its specific nature makes everything that preceded it retroactively meaningful.
-
-## Similar Manga
-
-- **Kobato** — CLAMP's later bittersweet fantasy romance with similar gentle warmth
-- **Cardcaptor Sakura** — CLAMP's warmest long work
-- **Legal Drug** — CLAMP supernatural work with similar quiet tone
-
-## Reading Order / Where to Start
-
-Volume 1 — Kohaku's rescue by Shuichiro and the wish-debt premise establish the series completely.
-
-## Official English Translation Status
-
-Dark Horse published the English omnibus. Original TOKYOPOP release also available secondhand.
+Shuichiro's wish, when he finally articulates it, is the series' most precise emotional moment. Its specific nature makes everything that preceded it retroactively meaningful. It is the answer to a question that was always there.
 
 ## Pros & Cons
 
-**Pros**
-- Genuinely warm and gentle — a CLAMP rarity
-- Kohaku's character design and development are charming
-- Complete in 4 volumes
-- Accessible to CLAMP newcomers
+**Pros:**
+- CLAMP's gentlest work — a tonal rarity in their catalog.
+- Complete in 4 volumes; the emotional scope is perfectly matched to the length.
+- Kohaku's character design and emotional expressiveness are among CLAMP's best.
+- Accessible to CLAMP newcomers and to readers who prefer warmth over drama.
 
-**Cons**
-- Short format limits depth
-- Angel/demon mythology is light rather than developed
-- Bittersweet elements may surprise readers expecting pure sweetness
+**Cons:**
+- The angel-and-demon mythology is light rather than developed — supporting cast exists for narrative function rather than depth.
+- Bittersweet ending may surprise readers expecting pure sweetness.
+- Short format limits secondary character space.
 
-## Format Comparison
+## Is Wish Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Dark Horse omnibus; TOKYOPOP singles secondhand |
-| Digital | Available |
+Yes — for readers who want CLAMP's warmth without X/1999's tragedy or Chobits' maturity. Four volumes is a minimal commitment for what it offers. The ending earns its gentleness.
+
+## Who Is This Manga For?
+
+- Readers who want a short, complete CLAMP romance.
+- Anyone who enjoys angel-and-human stories with genuine warmth rather than dark undertones.
+- CLAMP fans who want to experience the full range of the group's work.
+- Readers looking for a contained fantasy romance that resolves completely.
+
+## Official English Translation Status
+
+Dark Horse Comics published the English edition. Original TOKYOPOP volumes also available secondhand.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+Dark Horse Comics' complete English edition.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Wish+manga+CLAMP&i=stripbooks)
-
+[Browse Wish on Amazon →](https://www.amazon.com/dp/1595327053?tag=dearmanga-20)
 
 ---
 
