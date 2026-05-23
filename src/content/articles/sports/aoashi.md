@@ -8,7 +8,7 @@ mangaTitle: "Aoashi"
 mangaTitleJa: "アオアシ"
 mangaAuthor: "Yuugo Kobayashi"
 serialization: "Weekly Big Comic Spirits"
-publisher: "Shogakukan / Kodansha Comics"
+publisher: "Shogakukan / Titan Comics"
 volumes: 36
 status: "Ongoing"
 englishVolumes: 12
@@ -17,7 +17,7 @@ ageRating: "T (Teen)"
 contentWarnings:
   - "sports competition"
   - "mild language"
-description: "A review of Yuugo Kobayashi's Aoashi — ongoing in Weekly Big Comic Spirits. Ashito Aoi, a rough soccer talent from rural Ehime, is scouted into Tokyo's FC Tokyo youth academy. The series is about learning what modern soccer actually is — through a boy who sees the entire field and has to be taught how to use what he sees. Kodansha Comics' English edition is ongoing."
+description: "A review of Yuugo Kobayashi's Aoashi — ongoing in Weekly Big Comic Spirits. Ashito Aoi, a rough soccer talent from rural Ehime, is scouted into Tokyo's FC Tokyo youth academy. The series is about learning what modern soccer actually is — through a boy who sees the entire field and has to be taught how to use what he sees. Titan Comics' English edition is ongoing."
 amazonASIN: "1646519914"
 publishedAt: "2026-04-28"
 rewritten: "2026-05-24"
@@ -40,7 +40,7 @@ I'm Yu. This manga changed how I watch soccer.
 ## Quick Take
 
 - Yuugo Kobayashi's *Aoashi* (アオアシ) runs in *Weekly Big Comic Spirits* — 36+ volumes ongoing in Japan.
-- Kodansha Comics is publishing the English edition; 12 volumes available, ongoing.
+- Titan Comics is publishing the English edition; 12 volumes available, ongoing.
 - Rated **T (Teen)** — sports competition; no significant content concerns.
 
 ## Story Overview
@@ -101,11 +101,11 @@ Yes — for soccer fans absolutely, and for non-soccer fans who want sports mang
 
 ## Official English Translation Status
 
-Kodansha Comics is publishing the ongoing English edition. 12 volumes currently available.
+Titan Comics is publishing the ongoing English edition. 12 volumes currently available.
 
 ## Where to Buy
 
-Kodansha Comics' ongoing English edition.
+Titan Comics' ongoing English edition.
 
 [Browse Aoashi on Amazon →](https://www.amazon.com/dp/1646519914?tag=dearmanga-20)
 
