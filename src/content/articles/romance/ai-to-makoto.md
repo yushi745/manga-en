@@ -6,7 +6,7 @@ genre: "Romance / Action"
 genreSlug: "romance"
 mangaTitle: "Ai to Makoto"
 mangaTitleJa: "愛と誠"
-mangaAuthor: "Ikki Kajiwara (story) / Takao Saito (art)"
+mangaAuthor: "Ikki Kajiwara (story) / Isamu Nagatani (art)"
 serialization: "Weekly Shonen Magazine"
 publisher: "Kodansha"
 volumes: 20
@@ -14,122 +14,111 @@ status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "M (Mature)"
-contentWarnings: ["delinquent violence", "abusive relationship dynamics", "class conflict", "physical confrontations", "dated gender depictions"]
-description: "Ai to Makoto follows the turbulent relationship between Ai Saotome, a girl from a wealthy family, and Makoto Taiga, a violent delinquent — as Ai's obsessive devotion to Makoto and his fierce resistance to that devotion define the most famous romance in 1970s manga."
+contentWarnings: ["delinquent violence", "abusive relationship dynamics framed romantically by the era", "class conflict", "physical confrontations", "dated gender depictions"]
+description: "Ai to Makoto follows the turbulent relationship between Ai Saotome, a girl from a wealthy family, and Makoto Taiga, a violent delinquent — one of 1970s manga's most culturally significant romances, and one that requires critical distance to read productively."
 publishedAt: "2026-04-26"
-tags: ["romance", "action", "delinquent", "classic", "1970s", "drama", "shonen"]
+rewritten: "2026-05-30"
+tags: ["romance", "action", "delinquent", "classic", "1970s", "drama", "shonen", "unlicensed"]
 rating: 3
 hasAffiliate: false
+read: true
 ---
+
+I want to be honest with you before we start: I cannot recommend this manga the way I recommend most things on this site. What I can do is explain why it matters — why it is still discussed in Japan decades after it ran, why a director like Takashi Miike remade it in 2012, and what it tells you about how Japanese popular culture thought about love in the 1970s.
+
+*Ai to Makoto* is important. It is also deeply uncomfortable, in ways that are worth understanding before you approach it.
 
 ## Quick Take
 
-- One of 1970s manga's most culturally significant romances — enormously popular and deeply of its era
-- The relationship dynamics are genuinely uncomfortable by contemporary standards and should be approached with that awareness
-- Important for understanding how Japanese popular culture thought about love, class, and masculinity in the 1970s
+- One of 1970s manga's most culturally significant romances — enormously popular in its era and influential on everything that followed
+- The relationship dynamics are genuinely coercive by contemporary standards; the narrative presents them as romantic devotion
+- **Age Rating: M (Mature)** — no English translation exists; important for understanding where delinquent romance as a genre came from
 
 ## Who Is This Manga For?
 
-- **Manga historians** studying the development of romance in shonen manga
-- **Readers interested in 1970s Japanese popular culture** and its representations of gender and class
-- **Fans of classic delinquent manga** who want the genre's romantic dimension
-- **Not recommended** for readers who cannot engage critically with dated relationship dynamics
+- Manga historians studying the development of romance in shonen manga
+- Readers interested in 1970s Japanese popular culture and its representations of gender and class
+- Fans of classic delinquent manga who want the genre's romantic dimension understood in context
+- **Not recommended** for readers who cannot engage critically with coercive relationship dynamics framed as romance
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: M (Mature)
-**Content Warnings**: Delinquent violence, the central relationship involves coercion and violence that the narrative frames romantically — this is a product of its era and should be read with critical awareness
+**Content Warnings**: Delinquent violence throughout; the central relationship involves coercion and physical force that the narrative frames as romantic devotion — this is a product of its era and should be approached with critical awareness
 
-Readers should approach this as a historical artifact, not a model.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★☆☆☆ |
+This is a historical artifact, not a model.
 
 ## Story Overview
 
-Ai Saotome is from a wealthy, refined family. As a child, she is saved from an accident by a boy named Makoto Taiga — who then disappears from her life. She spends years searching for him.
+As a child, Ai Saotome is saved from a dangerous situation by a boy named Makoto Taiga. He disappears from her life. She spends years searching for him.
 
-When she finds him, he is everything her family is not: violent, poor, a delinquent with no interest in respectability. Ai doesn't care. She has loved him since that childhood encounter. She will devote herself to him regardless of what he does or says.
+When she finds him, he is everything her wealthy family is not: violent, poor, a delinquent with no interest in respectability or in Ai's devotion. Ai does not care. She has decided she loves him. She will persist regardless of what he does or says.
 
-Makoto does not want to be loved like this. He pushes back with hostility, sometimes with violence. Ai persists. The series follows their relationship through the full spectrum of conflict — class warfare, gang fights, the opposition of Ai's family, the various people who come between them — with the premise that love of sufficient intensity can overcome any obstacle, including the beloved's explicit rejection.
+Makoto does not want to be loved this way. He responds with hostility — sometimes with violence. Ai does not leave. The series runs this dynamic across twenty volumes: class warfare, gang confrontations, the opposition of Ai's family, rivals and enemies who want to separate them, and through all of it Ai's complete self-abnegation in service of her love for a man who explicitly does not want it.
+
+The manga's ending is tragic: Makoto is stabbed on a beach in the climax. The violent conclusion was consistent with the genre conventions of the era.
+
+The series ran in Weekly Shonen Magazine from 1973 to 1976. It was adapted into multiple films — a 1974 version that earned approximately 900 million yen at the box office in Japan, and Takashi Miike's 2012 musical remake, which is worth watching for its critical distance on the source material.
 
 ## Characters
 
-**Ai Saotome**: A protagonist whose complete self-abnegation in service of her love for Makoto is the series' central emotional statement. Contemporary readers will recognize this as problematic; the 1970s narrative presents it as devotion.
+**Ai Saotome** — A protagonist whose complete devotion to Makoto is the series' central emotional statement. Contemporary readers will recognize the pattern as unhealthy at best; the 1970s narrative presents it as the highest form of love. Understanding the gap between those two readings is most of what the series is useful for.
 
-**Makoto Taiga**: The beloved whose hostility is the series' primary conflict. His gradual change — whether and how much the wall around him yields — is the question the series asks across 20 volumes.
+**Makoto Taiga** — The beloved whose hostility is the series' primary conflict. His gradual change — whether and how much the wall around him yields across twenty volumes — is the question the series asks throughout.
+
+**Iwashimizu Hiroshi** — A friend who carries his own quiet feelings for Ai, serving as the series' honest perspective on what Makoto is and what Ai is choosing.
 
 ## Art Style
 
-Takao Saito's art (the same artist as Golgo 13, working in a completely different register here) renders the characters with expressive distinctiveness. The delinquent world — its fashions, its hierarchies, its specific visual codes — is depicted with genuine knowledge. The fight scenes are dynamic.
+Isamu Nagatani's art renders the delinquent world — its fashions, hierarchies, and specific visual codes — with genuine knowledge. The fight scenes are dynamic. The expressiveness of the character work carries the emotional content of a story that relies heavily on unspoken feeling.
 
 ## Cultural Context
 
-Ai to Makoto ran in Weekly Shonen Magazine from 1973-1976 and was one of the most-read manga of its era. It was adapted into multiple live-action films (most recently a 2012 version by Takashi Miike). Its representation of love — obsessive, total, indifferent to the beloved's stated wishes — was romantic genre convention in 1970s Japan, not outlier content.
+*Ai to Makoto* ran from 1973 to 1976 and was one of the most-read manga of its era. The template it established — devoted girl, violent boy, love that overcomes the beloved's explicit rejection — appears across decades of subsequent manga, anime, and live-action drama. To understand later works in the delinquent romance genre — *Hana Yori Dango*, *Boys Over Flowers*, and their descendants — you need to understand what this series established and normalized.
 
-Understanding this doesn't excuse the content's problems but contextualizes their cultural function. This was what romantic devotion was supposed to look like.
+Understanding this does not excuse the content's problems; it contextualizes their cultural function. What the series presented as devotion was romantic genre convention in 1970s Japan, not outlier content.
 
 ## What I Love About It
 
-Honesty: I can't say I love this manga.
+Honesty: I cannot say I love this manga.
 
-What I can say is that reading it helped me understand where many subsequent cultural products came from. The template it established — the devoted girl, the violent boy, the romance that overcomes resistance — appears across decades of subsequent manga, anime, and live-action drama. Understanding the template means understanding the thing that generated it.
-
-The 2012 Miike adaptation is worth seeing for its critical distance on the material — Miike turns the premise into something between sincere melodrama and self-aware parody in a way that is genuinely interesting.
-
-## What English-Speaking Fans Say
-
-Not widely known in English-speaking markets. Referenced in academic discussions of Japanese gender representation and in scholarship on 1970s manga. Among Japanese readers of a certain generation, it is a cultural touchstone — the kind of thing that shaped the media environment they grew up in.
+What I can say is that Miike's 2012 adaptation is worth your time. He turns the same material into something between sincere melodrama and self-aware parody in a way that is genuinely interesting — he takes the premise seriously enough to feel it and critically enough to let you see it. Watching the two versions in conversation with each other is more illuminating than either alone.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The moment where Makoto, having done something that would end any reasonable relationship, observes Ai's response — and the combination of his confusion and her absolute consistency creates something that is simultaneously moving and troubling. The scene captures the series' central tension perfectly.
+The beach climax — Makoto stabbed, Ai's response to the violence that has been the story's constant companion finally landing in irreversible consequence — captures the series' central tension in its most direct form. The tragedy is not surprising; it is consistent with what the series has been saying about violence and devotion throughout.
 
 ## Similar Manga
 
-- **Crows**: The violent masculinity side of the same cultural moment, without the romance
-- **Hana Yori Dango**: Later era, similar class-conflict romance with updated gender dynamics
-- **Glass Mask**: Same 1970s era, different gender treatment — female protagonist with genuine interiority
-
-## Reading Order / Where to Start
-
-Volume 1. The series builds chronologically.
-
-## Official English Translation Status
-
-Ai to Makoto has no official English translation.
+| Title | Its Approach | How Ai to Makoto Differs |
+|---|---|---|
+| Hana Yori Dango | Later-era class-conflict romance, updated dynamics | Hana Yori Dango is in conversation with this series and offers a more complex update |
+| Crows | Violent delinquent masculinity, without the romance | Crows focuses on the masculine hierarchy side of the same cultural moment |
+| Glass Mask | Same 1970s era, different gender treatment | Glass Mask gives its female protagonist genuine interiority; Ai to Makoto does not |
 
 ## Pros & Cons
 
 **Pros**
 - Culturally significant artifact of 1970s Japanese popular romance
-- Influential on subsequent decades of manga and anime
-- Takao Saito's art is consistently strong
+- Influential on decades of subsequent manga and drama
+- Nagayasu's art is consistently strong
+- The 2012 Miike film is an excellent critical companion piece
 
 **Cons**
 - No English translation
-- Relationship dynamics are uncomfortable by contemporary standards
-- The romantic framing of coercion is a genuine problem
-- Requires critical distance to read productively
+- Relationship dynamics are coercive; requires genuine critical distance
+- The romantic framing of violence is a real problem, not a minor caveat
+- The ending is tragic without being cathartic
 
-## Format Comparison
+## Is Ai to Makoto Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available |
-| Digital | Available in Japanese |
-| Omnibus | Not available |
+For manga historians and readers interested in the genre's roots — yes, with full awareness of what you are engaging with. For general readers — the 2012 Miike film is a more accessible and critically aware version of the same material.
 
 ## Where to Buy
 
 No English release yet. That just means you find it before everyone else does.
 
+[日本語版を探す →](https://www.amazon.co.jp/s?k=愛と誠+梶原一騎&tag=yushi745-22)
 
 ---
+*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you.*
