@@ -73,7 +73,7 @@ The riverside community turns out to be populated by an extraordinary cast of pe
 
 **Nino** — The series' greatest creation: utterly sincere, completely impractical about everything except fishing, and somehow the most emotionally stable person under the bridge. Whether she's actually from Venus is never confirmed or denied. Her love for Kou is real and expressed entirely in her own way, and she's unforgettable.
 
-**The bridge community** — The Kappa village chief, Sister, Hoshi, the Mayor, and the rest form one of manga's finest ensemble casts — each a distinct, deadpan absurdity with an unexpected sliver of genuine humanity.
+**The bridge community** — The kappa Village Chief, Sister, Hoshi, the Iron Star Maria, and the rest form one of manga's finest ensemble casts — each a distinct, deadpan absurdity with an unexpected sliver of genuine humanity.
 
 ## What I Love About It
 

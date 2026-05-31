@@ -7,8 +7,8 @@ genreSlug: "slice-of-life"
 mangaTitle: "AnoHana: The Flower We Saw That Day"
 mangaTitleJa: "あの日見た花の名前を僕達はまだ知らない。"
 mangaAuthor: "Mari Okada (story) / Mitsu Izumi (art)"
-serialization: "Monthly Comic Alive"
-publisher: "Media Factory / VIZ Media"
+serialization: "Jump Square"
+publisher: "Shueisha / VIZ Media"
 volumes: 3
 status: "Completed"
 englishVolumes: 3
