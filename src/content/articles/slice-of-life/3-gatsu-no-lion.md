@@ -1,140 +1,100 @@
 ---
-title: "March Comes in Like a Lion Review: The Shogi Manga That Is Really About Depression"
+title: "March Comes in Like a Lion Review: A Lonely Teenage Shogi Pro and the Three Sisters Who Feed Him Back to Life"
 slug: "3-gatsu-no-lion"
-genre: "Slice of Life"
+coverImage: "/covers/3-gatsu-no-lion.jpg"
+genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "March Comes in Like a Lion"
 mangaTitleJa: "3月のライオン"
 mangaAuthor: "Chica Umino"
 serialization: "Young Animal"
 publisher: "Hakusensha / Denpa Books"
-volumes: 0
+volumes: 17
 status: "Ongoing"
-englishVolumes: 14
+englishVolumes: 17
 englishStatus: "Ongoing"
 ageRating: "T (Teen)"
-contentWarnings:
-  - "depression"
-  - "loneliness"
-  - "family dysfunction"
-  - "bullying"
-description: "A review of March Comes in Like a Lion — Chica Umino's manga about a teenage professional shogi player navigating depression, isolation, and the unexpected warmth of a family who takes him in."
-coverImage: "/covers/3-gatsu-no-lion.jpg"
-amazonASIN: ""
-publishedAt: "2024-09-30"
-tags:
-  - "slice-of-life"
-  - "drama"
-  - "shogi"
-  - "depression"
-  - "seinen"
-  - "healing"
-  - "family"
+contentWarnings: ["depression", "grief", "bullying", "emotional trauma"]
+description: "Yu's review of March Comes in Like a Lion — Rei Kiriyama is a 17-year-old professional shogi player drowning in isolation and depression, until three sisters in a small riverside house slowly pull him back toward being able to live."
+amazonASIN: "1942993668"
+publishedAt: "2026-04-21"
+tags: ["slice-of-life", "drama", "shogi", "depression", "found-family"]
 rating: 5
 hasAffiliate: true
+read: true
+rewritten: "2026-06-01"
 ---
+
+I have rarely seen a manga depict depression as accurately as March Comes in Like a Lion. Not the cinematic version — the real one, where the hardest thing in the day is eating a meal, and where someone setting an extra bowl out for you can feel like being thrown a rope. Rei Kiriyama is a teenager who is very good at one thing and barely surviving everything else, and watching three sisters quietly feed him back into the world undid me.
+
+This is one of the best manga I have ever read, full stop.
 
 ## Quick Take
 
-- The most honest manga about depression I've read — it knows the texture of it intimately.
-- The Kawamoto sisters are some of manga's greatest supporting characters — warm, real, and fully themselves.
-- The shogi is secondary; the emotional honesty is everything.
+- A professional shogi player at 17, isolated and depressed, is slowly drawn back to life by a warm family of three sisters
+- Chica Umino (Honey and Clover) renders depression, grief, and recovery with extraordinary honesty and tenderness
+- Rated T (Teen); ongoing, with the English edition published in 2-in-1 omnibus volumes by Denpa
 
 ## Who Is This Manga For?
 
-- Fans of readers who want a manga that understands depression from the inside rather than as a problem to solve
-- Readers who enjoy healing manga with real emotional weight — this earns its warmth
-- Anyone interested in slice-of-life seinen with the craft and seriousness of literary fiction
-- People who like anyone who has been alone and then, slowly, been brought back by people who refused to stop caring
+- Readers who want emotionally profound, character-driven drama
+- Anyone who has struggled with depression, isolation, or finding a place to belong
+- Fans of found-family stories and quiet, beautiful art
+- People who appreciate a story that earns its warmth through real darkness — no shogi knowledge required
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: T (Teen)
-**Content Warnings**: depression, loneliness, family dysfunction, bullying
+**Content Warnings**: Depression and isolation (central and depicted with unflinching honesty); grief and family loss; bullying (a major, harrowing arc involving Hinata); emotional trauma
 
-Safe for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
-
-**Overall: 5/5** — One of manga's great works — the most honest depiction of depression and healing.
+The T rating fits, but the emotional content is heavy. The bullying arc in particular is intense.
 
 ## Story Overview
 
-Rei Kiriyama is a 17-year-old professional shogi player living alone — the best in his age group, unable to feel anything about winning. He lives in isolation, numbed by years of family dysfunction and competitive pressure. Then he meets the three Kawamoto sisters — Akari, Hinata, and Momo — who feed him, check on him, and slowly, without pressure, remind him that warmth exists and that he's allowed to receive it.
+Rei Kiriyama is seventeen and a professional shogi player — a rare prodigy who turned pro young. He is also profoundly alone. Orphaned in a car accident as a child, he was taken in by a family friend largely because of his shogi talent, a situation that fractured that family and left Rei carrying guilt and a deep sense that he doesn't belong anywhere. He lives by himself, eats badly, and moves through life in a fog of quiet despair.
+
+His life begins to change when he's drawn into the orbit of the three Kawamoto sisters — eldest Akari, middle-schooler Hinata, and little Momo — who live in a warm, slightly chaotic house by the river with their grandfather, running the family's traditional sweets shop. The sisters, who have endured their own losses (their mother and grandmother have died, their father abandoned them), simply start feeding Rei and folding him into their lives. The series braids two worlds: the cold, high-pressure professional shogi circuit, where Rei battles rivals and his own self-worth, and the Kawamoto household, where he slowly relearns how to be a person. There's no single plot engine — it's the long, patient arc of one young man becoming able to live, punctuated by Hinata's devastating bullying arc, which forces Rei to find something to fight for outside himself.
 
 ## Characters
 
-The cast of *March Comes in Like a Lion* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
+**Rei Kiriyama** — One of manga's most honest portraits of depression. His isolation isn't aesthetic; it's the grinding, exhausting kind, and his recovery is measured in tiny, hard-won steps. His talent at shogi coexists with a near-total inability to value himself, and watching those two things slowly come into balance is the series' spine.
 
-## Art Style
+**Akari Kawamoto** — The eldest sister, who holds the household together with a maternal warmth that costs her more than she shows. Her instinct to feed and care for Rei is the first thread that pulls him back, and she has her own quiet burdens beneath the nurturing.
 
-Chica Umino's visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
+**Hinata Kawamoto** — The middle sister, whose fierce kindness and the brutal school-bullying arc she endures become the moral center of the series. Her courage gives Rei something to protect, and her arc is among the most powerful depictions of bullying in manga.
 
-## Cultural Context
-
-*March Comes in Like a Lion* comes from professional shogi culture in Japan — an ancient strategic game with competitive circuits that turn some players professional as teenagers, and the social isolation that professional mastery can create. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
+**Momo Kawamoto** — The youngest, a small child whose unguarded affection provides the household's lightness and some of its most healing moments.
 
 ## What I Love About It
 
-The chapter where Rei tries to identify what is wrong with him and cannot find words — where the visual representation of his depression fills the panel in grays and empty space — is one of the most precise depictions of that particular blankness in any medium. And then the Kawamoto sisters show up, and there is color and noise and food and the cat, and nothing is solved but something has been given. That contrast is the whole manga.
-
-## What English-Speaking Fans Say
-
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
+It understands that recovery isn't a triumphant arc — it's a slow, non-linear thing made of small mercies, mostly delivered by other people. Umino never has Rei "get better" in a clean way. Instead she shows the specific things that help: a hot meal made by someone who wanted you there, a reason to leave the house, a person whose suffering matters enough to pull you out of your own. The Kawamoto house is rendered with such warmth that you can practically feel the steam off the food, and that warmth is set against Rei's genuine darkness so that neither feels cheap. It's a manga that argues, gently and persuasively, that people save each other in ordinary ways.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
-
-## Similar Manga
-
-If you enjoyed *March Comes in Like a Lion*, try:
-
-- **Honey and Clover** — same creator, different life stage, similar emotional depth
-- **A Silent Voice** — similarly honest about mental health and the cost of isolation
-- **Goodnight Punpun** — darker treatment of similar depression themes
-
-## Reading Order / Where to Start
-
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
-
-## Official English Translation Status
-
-*March Comes in Like a Lion* is ongoing in English translation. New volumes are releasing regularly.
+Hinata's bullying arc. When Hinata stands up for a friend being bullied at school and becomes the target herself — enduring sustained cruelty with a courage that costs her enormously — the series shifts into its most powerful register. For Rei, who has spent the whole story unable to fight for himself, watching Hinata suffer for doing the right thing gives him the first cause he's willing to fully commit to: he resolves to win at shogi not for himself but to support and protect this family that took him in. It's the moment his recovery stops being about merely surviving and becomes about having something to live for, and Umino earns every bit of it.
 
 ## Pros & Cons
 
-**Pros:**
-- Ongoing with regular releases
-- Strong character work and genuine emotional investment
-- The shogi sequences are genuinely illuminating — you learn to see beauty in the game
+**Pros**
+- A profound, deeply honest portrayal of depression and recovery
+- A genuinely heartwarming found-family at its core
+- Beautiful, expressive art and exceptional emotional intelligence
+- Compelling even with zero prior interest in shogi
 
-**Cons:**
-- Ongoing — no conclusion yet, and the pace is deliberately slow
-- The depression content is sustained — requires emotional readiness
+**Cons**
+- Slow, contemplative pacing
+- Emotionally heavy — the depression and bullying content can be hard to sit with
+- Ongoing, so the story isn't yet complete — patience required
 
-## Format Comparison
+## Is March Comes in Like a Lion Worth Reading?
 
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+Without reservation, yes. It's one of the finest character dramas in manga — honest about darkness, generous about healing, and beautiful throughout. If you've ever needed someone to set out an extra bowl for you, it will land hard.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=March%20Comes%20in%20Like%20a%20Lion&tag=dearmanga-20)
-
+[Start with Volume 1 →](https://www.amazon.com/dp/1942993668?tag=dearmanga-20)
 
 ---
 

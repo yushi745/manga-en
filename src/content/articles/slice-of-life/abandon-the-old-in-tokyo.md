@@ -1,131 +1,96 @@
 ---
-title: "Abandon the Old in Tokyo Review: Working-Class Lives in the City, Rendered Without Sentimentality"
+title: "Abandon the Old in Tokyo Review: Yoshihiro Tatsumi's Bleak Portraits of Postwar Despair"
 slug: "abandon-the-old-in-tokyo"
 coverImage: "/covers/abandon-the-old-in-tokyo.jpg"
-genre: "Slice of Life"
+genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "Abandon the Old in Tokyo"
-mangaTitleJa: "大発見"
+mangaTitleJa: "東京うばすて山"
 mangaAuthor: "Yoshihiro Tatsumi"
-serialization: "Various"
+serialization: "Various (1970 gekiga short stories)"
 publisher: "Drawn & Quarterly"
 volumes: 1
 status: "Completed"
 englishVolumes: 1
 englishStatus: "Complete"
 ageRating: "M (Mature)"
-contentWarnings: ["adult themes", "working-class struggle", "sexual content", "violence", "urban alienation", "mature situations throughout"]
-description: "Yu's review of Abandon the Old in Tokyo — Yoshihiro Tatsumi's short story collection depicting working-class lives in postwar Tokyo; the gekiga pioneer's dark view of urban life, rendered with moral ambiguity and without sentimentality; essential to understanding the mature manga tradition."
-amazonASIN: "1894937856"
-publishedAt: "2025-12-04"
-tags: ["slice-of-life", "drama", "completed", "mature", "drawn-and-quarterly", "yoshihiro-tatsumi", "gekiga", "working-class"]
-rating: 5
+contentWarnings: ["bleak adult themes", "sexual content", "despair", "social alienation"]
+description: "Yu's review of Abandon the Old in Tokyo — a Drawn & Quarterly collection of Yoshihiro Tatsumi's bleak 1970 gekiga short stories about alienated, defeated working men on the margins of booming postwar Tokyo."
+amazonASIN: "1897299214"
+publishedAt: "2026-01-19"
+tags: ["drama", "literary", "short-stories", "gekiga"]
+rating: 4
 hasAffiliate: true
+read: true
+rewritten: "2026-06-01"
 ---
+
+After loving Tatsumi's memoir A Drifting Life, I went looking for the actual gekiga he helped invent — and Abandon the Old in Tokyo is the bracing, despairing real thing. These are short stories with no comfort in them: small, defeated men crushed by a postwar Tokyo that's getting rich without them. It's grim, and it's brilliant, and it's nothing like the manga most people picture.
+
+This is the dark heart of what gekiga was for.
 
 ## Quick Take
 
-- Tatsumi's gekiga at its most concentrated — working-class Tokyo lives depicted with the honesty that made him the alternative manga tradition's founder
-- These are dark stories and they intend to be dark; they are not entertainment and they do not try to be
-- Single volume complete; essential manga history
+- A curated collection of Yoshihiro Tatsumi's 1970 gekiga (gritty, adult "dramatic pictures") short stories
+- Bleak, unsentimental portraits of alienated working-class men in 1960s–70s Tokyo
+- Rated M (Mature); a single volume collecting eight stories, published in English by Drawn & Quarterly (edited and designed by Adrian Tomine)
 
 ## Who Is This Manga For?
 
-- Readers interested in the origins of mature, literary manga
-- Anyone who wants short story manga that treats adult life as genuinely complicated
-- Fans of Tatsumi's A Drifting Life who want his fiction rather than autobiography
-- Adult readers who want manga about the working class without sentimentality
+- Readers interested in the literary, adult roots of gekiga and serious manga
+- Fans of bleak, naturalistic short fiction (think Raymond Carver's despair in comics form)
+- Anyone who read A Drifting Life and wants to see the work itself
+- Readers who appreciate historical and socially critical comics
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: M (Mature)
-**Content Warnings**: Adult themes throughout; sexual content; violence; working-class struggle depicted honestly; urban alienation; no redemption narrative
+**Content Warnings**: Bleak adult themes throughout; sexual content; despair, humiliation, and social alienation; some disturbing imagery
 
-M rating — adult readers only; intentionally dark throughout.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★★ |
+The M rating is earned. These are uncompromising, often grim adult stories.
 
 ## Story Overview
 
-A collection of short stories, each following a different person in postwar Tokyo. The subjects are ordinary: a construction worker, a factory employee, a woman in the water trade. The situations are familiar to the lives depicted: economic pressure, failed relationships, small humiliations, occasional violence, the specific loneliness of urban life.
+Abandon the Old in Tokyo is one of several Drawn & Quarterly volumes (edited and designed by cartoonist Adrian Tomine) that collected Tatsumi's short gekiga for English readers — this one gathering eight stories from around 1970. There's no continuous narrative; each piece is a self-contained portrait, usually of an ordinary, defeated man on the margins of Japan's economic miracle.
 
-Tatsumi does not redeem his characters or their circumstances. These are not stories about people who find their way. They are stories about what urban working-class life actually is.
-
-The darkness is accurate rather than artistic — Tatsumi drew from observation and from the traditions of naturalist literature applied to manga.
+The recurring subject is alienation. Tatsumi's protagonists are sewer workers, laborers, low-level employees, men trapped by obligation, poverty, or their own thwarted desires while Tokyo modernizes and prospers around them without including them. The title story draws on the old legend of ubasute — abandoning the aged to die — to tell of a man worn down by the burden of caring for his elderly mother as he tries to build his own life. Others trade in sexual frustration, humiliation, quiet violence, and the grinding indignity of being left behind by progress. The tone is unflinching and pessimistic, the endings rarely offer redemption, and the cumulative effect is a damning portrait of the human cost of postwar Japan's boom. This is "slice of life" only in the bleakest sense — slices of lives no one wanted to look at.
 
 ## Characters
 
-Various protagonists across the stories — each given enough space to feel specific rather than typical, each placed in circumstances that reveal rather than flatter.
+**The defeated men** — Tatsumi's stories are populated by a recurring archetype: the ordinary, powerless man crushed by circumstance, desire, or duty. They aren't heroes or even especially sympathetic; they're studies in alienation, rendered with unsparing honesty. The point is not any single character but the pattern they form.
 
-## Art Style
-
-Tatsumi's gekiga art is deliberately rough in ways that serve the material — his line is harder than mainstream manga of the era, his faces more individuated and less idealized. The postwar Tokyo settings are depicted with economic specificity.
-
-## Cultural Context
-
-Abandon the Old in Tokyo collects stories from the 1960s and 70s. Tatsumi founded the gekiga movement as an explicit alternative to mainstream manga — adult stories for adult readers, drawn in a style appropriate to adult material. This collection represents his approach in concentrated form.
+**Postwar Tokyo itself** — The booming, modernizing city functions as the collection's true antagonist: a society racing toward prosperity that has no place for the men in these pages, and whose progress is built on their invisibility.
 
 ## What I Love About It
 
-The moral ambiguity. Tatsumi's characters do things that are not good. Their circumstances explain these things without excusing them, and Tatsumi is precise about this distinction. He doesn't ask you to like his characters or pity them; he asks you to see them.
-
-## What English-Speaking Fans Say
-
-Western readers describe Abandon the Old in Tokyo as essential — specifically noted for the gekiga approach making visible what mainstream manga couldn't show, for the working-class settings being depicted with accuracy rather than condescension, and for the darkness being meaningful rather than decorative. Consistently cited alongside A Drifting Life as required Tatsumi.
+It proves, completely, what Tatsumi's whole career argued for: that comics could carry the weight of serious, uncomfortable adult literature. There's no fantasy, no wish-fulfillment, no comfort — just clear-eyed, compassionate-but-merciless attention to people the booming economy chewed up. The art is plain and grounded, the storytelling economical and devastating. As social criticism it's bracing; as craft it's a masterclass in the short-story form. Having read his memoir first, seeing the actual gekiga delivered on the ambition he spent his youth fighting for is genuinely powerful.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The title story — where the relationship between adult responsibilities and the people left behind is stated most directly — is the collection's most affecting piece and the one that most precisely states what Tatsumi thinks Tokyo does to people.
-
-## Similar Manga
-
-- **A Drifting Life** — Tatsumi's autobiography; the context for his fiction
-- **Good-Bye** — Another Tatsumi short story collection
-- **Black Blizzard** — Tatsumi's early long-form work
-- **Shigeru Mizuki's Showa** — Working-class life in similar historical context
-
-## Reading Order / Where to Start
-
-Can be read in any order — short stories, each standalone.
-
-## Official English Translation Status
-
-Drawn & Quarterly published the English collection. Single volume, complete.
+The title story, "Abandon the Old in Tokyo," in which a man caring for his burdensome elderly mother is pulled between filial duty and his desire for his own independent life and a future with a woman — and the bleak, ubasute-echoing place that conflict leads him. Tatsumi refuses any sentimental resolution; the story sits in the genuine moral horror of a man weighing his mother's life against his own freedom, and the ending lands like a stone. It's the collection's thesis in miniature: ordinary people pushed by circumstance to the edge of something unforgivable, observed without judgment and without mercy.
 
 ## Pros & Cons
 
 **Pros**
-- Essential to understanding mature manga tradition
-- Moral ambiguity handled with precision
-- Working-class settings depicted with accuracy
-- Complete in one volume
+- Historically essential gekiga from a master of the form
+- Powerful, unsentimental social criticism
+- Economical, devastating short-story craft
+- A perfect companion to A Drifting Life
 
 **Cons**
-- M-rated mature content throughout
-- Intentionally dark — not entertainment
-- No redemption narrative — not for all readers
+- Relentlessly bleak — no comfort or uplift anywhere
+- The plain 1970s art and grim subject matter are an acquired taste
+- Mature content and despair make it a demanding read, not a casual one
 
-## Format Comparison
+## Is Abandon the Old in Tokyo Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Single Volume | Drawn & Quarterly; complete collection |
-| Digital | Available |
+Yes — for readers who want serious, literary, historically important comics and can handle unrelenting bleakness. It's a cornerstone of adult manga in English. If you want anything warm, look elsewhere; if you want to understand what gekiga achieved, start here.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Abandon+the+Old+in+Tokyo+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/dp/1897299214?tag=dearmanga-20)
 
 ---
 
