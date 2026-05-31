@@ -1,132 +1,100 @@
 ---
-title: "Agravity Boys Review"
+title: "Agravity Boys Review: Four Idiots, One Alien Planet, and the Survival of Humanity Going Exactly as Badly as You'd Expect"
 slug: "agravity-boys"
 coverImage: "/covers/agravity-boys.jpg"
-genre: "Slice of Life / Comedy / Sci-Fi"
+genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Agravity Boys"
-mangaTitleJa: "重力ボーイズ"
+mangaTitleJa: "アグラビティボーイズ"
 mangaAuthor: "Atsushi Nakamura"
-serialization: "Weekly Shonen Jump"
+serialization: "Weekly Shōnen Jump"
 publisher: "Shueisha / VIZ Media"
-volumes: 6
+volumes: 7
 status: "Completed"
-englishVolumes: 6
+englishVolumes: 7
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings:
-  - "crude humor"
-  - "mild sexual jokes"
-description: "A comprehensive review of Agravity Boys — plot, characters, art style, and whether it's worth reading."
+contentWarnings: ["crude humor", "comedic violence", "gender-swap comedy"]
+description: "Yu's review of Agravity Boys — a fast, absurd sci-fi gag manga from Shonen Jump about four young men who are among the last survivors of Earth, stranded together on the distant planet α-Jumbro and failing hilariously at saving humanity."
 amazonASIN: "1974720934"
-publishedAt: "2025-12-06"
-tags:
-  - "comedy"
-  - "sci-fi"
-  - "slice-of-life"
-  - "bromance"
-  - "space"
-rating: 4
+publishedAt: "2026-01-08"
+tags: ["comedy", "sci-fi", "shonen", "gag"]
+rating: 3
 hasAffiliate: true
+read: true
+rewritten: "2026-06-01"
 ---
+
+Most Shonen Jump series are about the burning will to protect the future. Agravity Boys is about four morons who are technically responsible for the future of the entire human race and would mostly rather mess around. It's a gag manga that knows exactly how stupid it is and commits completely. I laughed more than I expected to.
+
+It's brief, silly, and self-aware — junk food, but the good kind.
 
 ## Quick Take
 
-- Four male astronauts are stranded on an alien planet — everyone else on Earth is dead
-- To repopulate humanity, one of them must become a woman. The guys draw lots. Comedy ensues.
-- Crude but genuinely funny bromance with surprising heart
+- A fast, absurd sci-fi gag comedy from Weekly Shōnen Jump
+- A four-man crew stranded on the distant planet α-Jumbro after Earth becomes uninhabitable
+- Rated T (Teen); complete in 7 volumes, published in English by VIZ Media
 
 ## Who Is This Manga For?
 
-- Fans of comedy manga with absurd sci-fi premises
-- Readers who enjoy bromance and male friendship comedy
-- Anyone who wants something completely different from typical manga
-- Short, complete series hunters
+- Fans of gag manga (Bobobo-bo Bo-bobo, Gintama's sillier arcs)
+- Readers who want fast, low-commitment absurd comedy
+- Anyone who enjoys sci-fi parody and self-aware humor
+- People who want a short, complete series
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: T (Teen)
-**Content Warnings**: crude humor, mild sexual jokes
+**Content Warnings**: Crude humor; comedic cartoon violence; gender-swap comedy (one character is transformed into a woman as part of the premise)
 
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★★☆ |
+The T rating fits — the humor gets crude but stays cartoonish.
 
 ## Story Overview
 
-Four young male astronauts on a mission to Alpha Centauri B discover that Earth has been destroyed while they were in transit. They're the last humans. To continue the species, one of them must use an alien artifact to become biologically female. They draw lots. The loser becomes Chris, now a woman, and the four must figure out how to build a new human civilization while still being basically the same group of idiots they've always been.
+Earth has become uninhabitable, so humanity launches a last-ditch space mission. Four young men end up stranded together on α-Jumbro, a distant Earth-like planet, charged with the absurd responsibility of ensuring the survival and continuation of the human race. The problem: they are, collectively, a disaster.
+
+The crew is Baba, the earnest, easily flustered de facto leader; Chris, the flamboyant member who serves as the group's doctor; Geralt, the brooding serious one; and Saga, the cheerful wild card. To even attempt repopulating the species, one of them has to become biologically female via alien technology — and the comedy spins out from there as plans collapse under the weight of four incompatible personalities. The humor is fast and self-aware, layering sci-fi premises (alien biology, advanced tech, the genuine logistics of survival) on top of rapid-fire character gags. There's a loose throughline — twists about the mission, the planet, and the characters themselves — but the engine is always the gag rhythm and the chemistry of four idiots stuck together. It runs a tight seven volumes and ends before the joke wears out.
 
 ## Characters
 
-The four guys have distinct personalities that create natural comedy — Baba the schemer, Geralt the serious one, Ark the oblivious optimist, and Chris whose transformation doesn't change his fundamental personality. Their friendship is the emotional core; the romantic and reproductive complications are primarily comedy fuel.
+**Baba** — The overly serious, anxious de facto leader who actually takes the "save humanity" mandate seriously, which makes him the perfect straight man for everyone else's nonsense. His earnest exasperation is the comedic anchor.
 
-## Art Style
+**Chris** — The flamboyant, theatrical crew doctor whose dramatic personality reliably escalates situations past the point of control, and who ends up at the center of the series' gender-swap premise.
 
-Clean, expressive art well-suited to comedy — character reactions are exaggerated appropriately without becoming slapstick. The sci-fi setting is rendered with enough detail to feel real despite the absurdist premise.
+**Geralt** — The gloomy, deadpan one, whose dark mood and blunt commentary play off the others' chaos.
 
-## Cultural Context
-
-Agravity Boys plays with gender identity in ways more common in Japanese comedy manga than Western comics — Chris's transformation is played for comedy but the series maintains genuine affection for the character. The bromance tradition in Jump manga provides the emotional foundation.
+**Saga** — The cheerful, impulsive crew member whose enthusiasm sends plans careening in unexpected directions.
 
 ## What I Love About It
 
-The premise sounds offensive on paper. In practice, the series treats Chris with genuine respect while mining the absurdity of the situation for comedy. The friendship between the four is real. When the series gets serious — when they genuinely grapple with the weight of being the last humans — it earns that gravity (pun intended).
-
-## What English-Speaking Fans Say
-
-Agravity Boys has a enthusiastic international fanbase that discovered it through Jump's digital platform. Readers who approach it open-mindedly find it funnier and more heartfelt than expected. The gender transformation comedy divides some readers, while others find it handled with surprising sensitivity.
+The chemistry of the four leads. Agravity Boys lives or dies on whether its central quartet is funny together, and it is — each is a distinct, well-calibrated flavor of idiot, and the comedy comes from how predictably and disastrously they react to each other. Nakamura clearly understands gag-manga construction: the setups are quick, the escalation is sharp, and the series has the good sense to be short. It's a comedy that knows precisely what it is and doesn't overstay its welcome.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-**Spoiler Warning**: A late-series moment where the boys genuinely face the existential reality of their situation — they might truly be the last humans alive — and their response is simultaneously funny and genuinely moving.
-
-## Similar Manga
-
-- **[Grand Blue Dreaming](/slice-of-life/grand-blue)** — Male friendship comedy with similar energy
-- **[Genshiken](/slice-of-life/genshiken)** — Male friendship in otaku context
-- **[Space Brothers](/slice-of-life/space-brothers)** — Serious space exploration manga for contrast
-
-## Reading Order / Where to Start
-
-Complete in 6 volumes. Read start to finish.
-
-## Official English Translation Status
-
-**Status**: Complete
-**Publisher**: VIZ Media
-**Volumes Available in English**: 6 of 6
+The recurring engine of the series is any "serious mission" beat — the crew solemnly resolving to take a real step toward ensuring humanity's survival on the planet — immediately collapsing into absurdity because of who these four people are. The best gags take the genuine sci-fi premise (repopulation, alien resources, a hostile environment) completely seriously for half a panel before one of the four detonates it. There's no single plot climax to spoil; the defining experience is that reliable rhythm of a competent-sounding plan meeting four incompetent men.
 
 ## Pros & Cons
 
-**Pros:**
-- Genuinely funny
-- Male friendship is warm and real
-- Complete at 6 volumes
-- Premise handled better than it sounds
+**Pros**
+- Fun, fast, genuinely funny gag comedy
+- A distinct, likable quartet with strong chemistry
+- Self-aware and unpretentious
+- Short and complete at 7 volumes
 
-**Cons:**
-- Premise may put off some readers immediately
-- Crude humor not for everyone
-- Some jokes are juvenile
+**Cons**
+- Light on substance — it's a gag manga, not a story
+- Crude humor and the gender-swap premise won't land for everyone
+- As with any gag series, the jokes are hit-or-miss
 
-## Format Comparison
+## Is Agravity Boys Worth Reading?
 
-| Format | Link | Notes |
-|--------|------|-------|
-| Paperback | [Amazon](https://www.amazon.com/dp/1974720934?tag=dearmanga-20) | VIZ edition — all 6 volumes |
+Yes, if you want a short, silly, self-aware comedy to blow through. It's not deep and doesn't pretend to be — it's seven tight volumes of four idiots failing to save humanity, and it's a good time.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
 [Start with Volume 1 →](https://www.amazon.com/dp/1974720934?tag=dearmanga-20)
-
 
 ---
 
