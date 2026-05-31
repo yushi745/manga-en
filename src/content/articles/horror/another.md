@@ -1,136 +1,100 @@
 ---
-title: "Another Review: Class 3-3 Has a Secret, and Students Are Dying to Keep It"
+title: "Another Review: A Cursed Class Where Someone Already Dead Sits Among the Living"
 slug: "another"
 coverImage: "/covers/another.jpg"
 genre: "Horror / Mystery"
 genreSlug: "horror"
 mangaTitle: "Another"
 mangaTitleJa: "Another"
-mangaAuthor: "Yukito Ayatsuji (story) / Hiro Kiyohara (art)"
-serialization: "Dengeki Daioh"
-publisher: "ASCII Media Works / Yen Press"
+mangaAuthor: "Yukito Ayatsuji (original) / Hiro Kiyohara (art)"
+serialization: "Young Ace"
+publisher: "KADOKAWA / Yen Press"
 volumes: 4
 status: "Completed"
-englishVolumes: 4
+englishVolumes: 1
 englishStatus: "Complete"
 ageRating: "M (Mature)"
-contentWarnings: ["graphic death", "horror violence", "mystery around death", "classroom horror"]
-description: "Yu's review of Another — a transfer student arrives at a middle school and discovers that his class has been dealing with a curse for decades: an extra student appears every year, and people connected to the class die."
-amazonASIN: "0316245917"
-publishedAt: "2025-03-05"
-tags: ["horror", "mystery", "school", "completed", "curse"]
+contentWarnings: ["graphic violence", "death", "gore", "psychological horror"]
+description: "Yu's review of Another — a horror mystery adapted from Yukito Ayatsuji's novel, about a transfer student who joins a class haunted by a decades-old curse: every year an extra person who is secretly already dead joins Class 3-3, and people start dying gruesomely."
+amazonASIN: "0316245909"
+publishedAt: "2026-02-01"
+tags: ["horror", "mystery", "supernatural", "psychological", "thriller"]
 rating: 4
 hasAffiliate: true
+read: true
+rewritten: "2026-05-31"
 ---
+
+Japanese horror is at its best when it's quiet — when the dread comes from a rule you don't understand yet, not a monster jumping out. Another is built almost entirely on that kind of dread: a class with a curse, a girl with an eyepatch everyone pretends not to see, and a count of the dead that won't stop rising until someone figures out the rule.
+
+The first time the rule clicked for me, I had to put the book down.
 
 ## Quick Take
 
-- A transfer student discovers his middle school class has been cursed for decades — an extra, dead student appears among them each year, and elaborate precautions must be taken to stop people from dying
-- J-horror mystery manga with memorable death sequences and a satisfying mystery payoff
-- 4 volumes, complete — a short, intense reading experience
+- A chilling mystery-horror adapted from Yukito Ayatsuji's acclaimed novel
+- Built on a single eerie premise: Class 3-3 is cursed, and one student every year is secretly already dead
+- Rated M (Mature); 4 volumes in Japan, collected in English by Yen Press as a single complete omnibus
 
 ## Who Is This Manga For?
 
-- Readers who want J-horror with mystery structure and a clear resolution
-- Fans of horror that feels like a proper puzzle — there is a solution, and finding it matters
-- Anyone who wants a short, complete horror manga that commits to its premise
-- Readers interested in the novel (this is a faithful manga adaptation of Yukito Ayatsuji's acclaimed horror novel)
+- Fans of atmospheric Japanese horror and ghost stories
+- Readers who enjoy puzzle-box mysteries with a strict internal logic
+- Anyone who likes slow-burn dread punctuated by Final Destination-style deaths
+- Viewers of the anime who want the original manga's version
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: M (Mature)
-**Content Warnings**: Graphic and creative death sequences, horror atmosphere throughout, mystery around death in a school context
+**Content Warnings**: Graphic, often elaborate deaths; gore; psychological horror; the dread builds toward genuinely disturbing payoffs
 
-The death sequences are memorable and specific — not random gore, but elaborately staged events.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★★★ |
+The M rating is accurate. The deaths are creative and gruesome.
 
 ## Story Overview
 
-Kouichi Sakakibara transfers to a middle school in a small town and finds his class, Class 3-3, behaving strangely. One student — a girl named Mei Misaki, with an eyepatch — is treated as if she does not exist by the rest of the class. No one speaks to her or acknowledges her.
+Koichi Sakakibara transfers to Yomiyama North Middle School and joins Class 3-3. From the start, something is wrong. The other students are tense and evasive. A quiet, beautiful girl named Mei Misaki wears a patch over one eye — and the entire class, including the teachers, behaves as though she does not exist.
 
-The truth is revealed gradually: Class 3-3 has been under a curse since 1972. Every year, the class contains one extra person who should be dead. To prevent deaths, the class designates one student as "nonexistent" — treated as invisible, not spoken to, not acknowledged — in an attempt to balance the presence of the extra dead student.
+Koichi slowly uncovers the class's terrible history. Decades earlier, a popular student named Misaki died mid-year, and the grieving class pretended Misaki was still alive until graduation. Since then, Class 3-3 has been cursed: in certain years, an "extra" person joins the class — someone who is, in fact, already dead, slipped seamlessly into everyone's memory and records so that no one can tell who the dead one is. In those years, students and their families begin dying in gruesome accidents, one after another, until the year ends.
 
-But the countermeasure does not always work. People connected to the class die in elaborate, specific ways. The mystery: who is the dead extra student this year?
+The class has a countermeasure: choose one student to be treated as "not there" — ignored completely, as if they don't exist — to balance the extra and stop the deaths. This year, that student is Mei, which is why everyone ignores her. But the deaths begin anyway, which means the countermeasure has failed, and Koichi and Mei must work out who the extra is and how to end the curse before the body count consumes the class. The solution requires a horrifying realization about the rule itself.
 
 ## Characters
 
-**Kouichi Sakakibara** — The transfer student whose outside perspective allows the reader to learn the rules alongside him. His determination to acknowledge Mei when the rest of the class will not is the human choice that sets the mystery in motion.
+**Koichi Sakakibara** — The transfer student and audience surrogate, whose outsider status lets him ask the questions the cursed class has learned not to. His relationship with Mei, and his refusal to simply accept the class's silence, drives the investigation.
 
-**Mei Misaki** — The girl being treated as nonexistent; her eeriness is cultivated carefully by Kiyohara, and her actual nature and role in the mystery are the key to the resolution. Her heterochromia (one glass eye, one real eye) is the manga's most memorable visual element.
+**Mei Misaki** — The girl with the eyepatch, designated "the one who doesn't exist" this year. Quiet and watchful, she sees things others can't — and her eyepatch conceals a detail central to the curse. She is the still center of the story's dread.
 
-## Art Style
-
-Kiyohara's art creates effective atmosphere — the small-town school environment is drawn with a quiet unease that suits J-horror aesthetics, and the death sequences are staged with theatrical specificity. Mei's design is iconic in horror manga circles.
-
-## Cultural Context
-
-Another draws on a specific Japanese horror tradition — the cursed classroom, the supernatural bound to institutional spaces, the group obligation that forces individuals to comply with collective rules that seem monstrous from outside. The novel by Ayatsuji is one of Japan's most successful mystery-horror crossovers, and the manga captures its essential qualities.
+**Class 3-3** — Functionally a character in itself: a group of teenagers carrying a curse they didn't create, bound by rules they're terrified to break, slowly fracturing as the deaths mount and suspicion spreads.
 
 ## What I Love About It
 
-The reread. Once you know the answer to the mystery, everything in the early chapters reads differently. The signs are there. The manga is designed for second readings in the way the best mysteries are — not as a trick, but as an invitation to see what you missed when you were too focused on the surface.
-
-Mei's glass eye. Kiyohara's visual choice to give her one mechanical eye that "sees what should not be seen" is one of horror manga's most effective design elements, fully integrated with the story's logic.
-
-## What English-Speaking Fans Say
-
-Another has significant Western recognition from the anime adaptation, which is considered one of the better horror anime. Western readers who move to the manga find it faithful and effective. The novel is also available in English translation and provides more interiority than the manga allows. The reread value is consistently praised — the mystery is constructed fairly.
+The rule. Another is one of the cleanest examples of horror-as-logic-puzzle: the curse has strict mechanics, the countermeasure has a specific failure condition, and the solution depends on accepting a truth the characters desperately don't want to accept. The dread comes not from gore but from the slow understanding of how the system works and what it implies about who, exactly, the extra is. When you finally grasp the rule, every earlier scene reorganizes itself in your head. That's the pleasure of a great mystery, applied to horror.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The umbrella scene — one of the manga's most discussed death sequences — is the moment the horror becomes formally creative rather than simply dark. It is elaborately staged and establishes that the curse's kills follow a logic that is nightmarish in its specificity.
-
-## Similar Manga
-
-- **Uzumaki** — Isolated community horror with a spiral structure
-- **The Promised Neverland** — School horror with mystery structure
-- **Shiki** — Supernatural deaths in isolated community
-- **Higurashi When They Cry** — Village curse, repeating deaths
-
-## Reading Order / Where to Start
-
-Volume 1. Four volumes is a single-sitting experience if you have the time.
-
-## Official English Translation Status
-
-Yen Press published the complete 4-volume series. All volumes available.
+The realization of how to identify the extra — the discovery that the dead one has been so perfectly inserted into reality that even photographs and records have been altered, so no ordinary investigation can find them, and the only way to stop the deaths is to "return" the extra to death. The horror of the climax is that the solution requires the class to do something monstrous on incomplete information, in a panic, with deaths still happening around them. The chaos of the final act — when the countermeasure has failed and people are dying and the answer demands a terrible act — is where the slow-burn dread finally detonates.
 
 ## Pros & Cons
 
 **Pros**
-- Four volumes — complete horror mystery with genuine resolution
-- Exceptional reread value once the mystery is solved
-- Mei Misaki is one of horror manga's most memorable characters
-- The death sequences are memorably staged
+- An exceptionally clean horror premise with strict, satisfying internal logic
+- Atmospheric small-town dread, beautifully rendered by Kiyohara
+- Creative, shocking deaths that escalate the stakes
+- A faithful adaptation of a landmark J-horror novel; complete and self-contained
 
 **Cons**
-- Character development is subordinated to mystery structure
-- The resolution requires some suspension of disbelief
-- Short enough that the character investment is limited
+- The slow-burn pacing tests readers who want immediate scares
+- The large class cast means some victims are barely characterized before they die
+- The curse's logic, while satisfying, requires patience to assemble — that's the appeal or the frustration depending on you
 
-## Format Comparison
+## Is Another Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Standard Yen Press release; 4 volumes total |
-| Digital | Works well for this length |
-| Physical | Recommended |
+Yes — it's a standout of atmospheric Japanese horror, and the manga captures the novel's dread and the puzzle's payoff. For readers who like their horror built on a rule rather than a monster, it's essential.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Another+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/dp/0316245909?tag=dearmanga-20)
 
 ---
 

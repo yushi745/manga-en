@@ -1,134 +1,122 @@
 ---
-title: "Akuma-kun Review: Mizuki's Demon-Summoning Boy Genius"
+title: "Akuma-kun Review: Shigeru Mizuki's Boy Genius Who Summons a Demon to Build a Perfect World"
 slug: "akuma-kun"
-genre: "Supernatural / Adventure"
+coverImage: "/covers/akuma-kun.jpg"
+genre: "Horror / Supernatural"
 genreSlug: "horror"
 mangaTitle: "Akuma-kun"
 mangaTitleJa: "悪魔くん"
 mangaAuthor: "Shigeru Mizuki"
-serialization: "Various"
-publisher: "Kodansha"
-volumes: 8
+serialization: "Various (multiple versions, 1963–1990)"
+publisher: "Tōkōsha / Kodansha / Shueisha"
+volumes: 0
 status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
-contentWarnings:
-  - "supernatural-violence"
-  - "death"
-  - "occult-themes"
-description: "A boy genius summons demons to make a better world — Mizuki's other masterpiece besides Kitaro."
-coverImage: "/covers/akuma-kun.jpg"
+contentWarnings: ["demonic imagery", "occult themes", "violence"]
+description: "Yu's review of Akuma-kun — Shigeru Mizuki's early supernatural manga about a child prodigy who summons the demon Mephisto in his attempt to build a perfect world. A foundational occult work from the master of yokai manga, currently unlicensed in English."
 amazonASIN: ""
-publishedAt: "2026-04-01"
-tags:
-  - "supernatural"
-  - "horror"
-  - "mizuki"
-  - "classic"
-rating: 5
+publishedAt: "2026-02-22"
+tags: ["horror", "supernatural", "occult", "classic", "mizuki"]
+rating: 4
 hasAffiliate: true
+read: true
+rewritten: "2026-05-31"
 ---
+
+Everyone in the West knows Shigeru Mizuki for GeGeGe no Kitaro — the gentle, eerie yokai boy who became Mizuki's signature. Fewer know that before and alongside Kitaro, Mizuki was drawing a very different supernatural story: a boy genius who summons a demon to remake the world. Akuma-kun is darker, stranger, and more ambitious than its obscurity suggests.
+
+I came to it through my love of Mizuki's yokai work, and found something with a colder heart.
 
 ## Quick Take
 
-- Mizuki's other major series alongside Kitaro
-- A genius child trying to fix the world via demons
-- Multiple iterations across decades
+- An early, foundational supernatural work from Shigeru Mizuki, the master of Japanese yokai manga
+- A child prodigy who summons the demon Mephisto in pursuit of a utopian world that keeps colliding with human nature
+- Rated T (Teen); currently unlicensed in English — the Japanese editions are the way to read it
 
 ## Who Is This Manga For?
 
-- Fans of emotionally rich storytelling with memorable characters
-- Readers who enjoy complete series with satisfying conclusions
-- Anyone interested in discovering hidden gems from manga's golden era
-- People who like manga that stays with you long after the final page
+- Fans of Shigeru Mizuki who want to go beyond Kitaro into his occult work
+- Readers interested in Western occultism (Solomon's demons, grimoires) filtered through Japanese manga
+- Manga historians and collectors of classic supernatural work
+- Anyone who enjoyed GeGeGe no Kitaro and wants something with a sharper edge
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: T (Teen)
-**Content Warnings**: supernatural-violence, death, occult-themes
+**Content Warnings**: Demonic and occult imagery; magic-circle and grimoire content drawn from real occult traditions; period-typical violence
 
-Safe for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
-
-**Overall: 5/5** — A strong entry in its genre worth seeking out.
+A T rating appropriate for older readers. The horror is atmospheric and occult rather than graphic.
 
 ## Story Overview
 
-Akuma-kun is a child prodigy who believes that humans alone can't fix the world. He summons Mephistopheles and uses occult knowledge to confront injustice. Across multiple iterations of the series — '60s, '80s, modern — the basic question remains the same: if our tools to fix things are evil, do we use them anyway? Mizuki revisits the character throughout his career.
+Akuma-kun is the title given to a once-in-a-generation child prodigy — a genius so rare that the world produces one only at long intervals. Across Mizuki's various versions of the story (he returned to and reworked the concept several times over decades, with the protagonist's name and details shifting between iterations), the core remains constant: a brilliant boy believes humanity can be guided to a perfect, utopian world, and to achieve it he summons supernatural power.
+
+His key ally is Mephisto, a demon bound to serve him. Together they navigate a world of occult forces, yokai, supernatural threats, and — crucially — ordinary human greed, fear, and shortsightedness, which prove as much an obstacle to utopia as any monster. The series blends Mizuki's signature yokai aesthetic with Western occult tradition: Solomonic demonology, magic circles, alchemical and esoteric symbolism, ancient grimoires.
+
+The throughline of Mizuki's work is here in early form: the supernatural as a mirror for human folly, and the recurring suspicion that the real obstacle to a better world is not the demons but the people. Akuma-kun's utopian project keeps running aground on exactly that.
 
 ## Characters
 
-The cast of *Akuma-kun* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
+**Akuma-kun** — The boy genius at the center, convinced that intelligence and supernatural power can be marshaled to build a perfect world. His idealism is the engine of the story and, repeatedly, the source of its tragedy — the world he wants keeps proving incompatible with the world that exists.
+
+**Mephisto** — The demon summoned to serve Akuma-kun, drawn from the Faustian tradition but rendered in Mizuki's distinctive style. The relationship between a child's idealism and a demon's nature is the series' most interesting dynamic.
+
+**The world itself** — As in much of Mizuki's work, the human society around the protagonist functions almost as a character: greedy, fearful, and resistant to the very improvement Akuma-kun is trying to impose. Mizuki's skepticism about human nature is the story's quiet center.
 
 ## Art Style
 
-Shigeru Mizuki's visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
+Mizuki's art is unmistakable: meticulously detailed, atmospheric backgrounds — landscapes and interiors rendered with near-photographic density — set against cartoonishly simple, expressive human figures. His demons and supernatural beings are drawn with loving, eerie specificity. The contrast between the realistic worlds and the comic characters is the visual signature that makes a Mizuki page recognizable at a glance.
 
 ## Cultural Context
 
-*Akuma-kun* comes from a tradition of Japanese storytelling that blends personal drama with broader themes — family loyalty, social pressure, and the courage it takes to be yourself. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
+Akuma-kun is one of Mizuki's foundational supernatural works, predating or running alongside his rise to fame with Kitaro. It reflects his lifelong fascination with the supernatural, the clash between tradition and modernity, and human folly — themes he would explore across his entire career, including in his later autobiographical and historical work. Its specific contribution is the marriage of Japanese yokai sensibility with Western ceremonial occultism, an unusual synthesis for its era.
+
+The manga was popular enough to spawn multiple adaptations across decades, including anime — a sign that the demon-summoning prodigy struck a lasting chord in Japan even as the work stayed obscure abroad.
 
 ## What I Love About It
 
-Akuma-kun is one of Mizuki's most ambitious works. The premise — child genius using demons for good — is wild, but Mizuki treats the moral question seriously. Each iteration of the series engages with its time. Reading them in order is a tour through how Mizuki's worldview changed across decades.
-
-## What English-Speaking Fans Say
-
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
+The pessimism underneath the premise. Akuma-kun summons a demon to build a utopia — and the recurring lesson is that the demon is the easy part. Human nature is the hard part. There is something bracing about a children's-adjacent supernatural manga whose actual thesis is that people, not monsters, are what stand between us and a better world. That is pure Mizuki, and it is here in early, undiluted form.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
+The summoning of Mephisto itself — the moment a child completes an occult ritual drawn with Mizuki's characteristic density of esoteric detail and actually calls a demon into his service — is the series' defining image. Mizuki renders the magic circle and the demon's arrival with the same realistic care he gives his landscapes, so the supernatural feels grounded in something almost documentary. A boy standing at the center of a working summoning, certain he can use it for good, is the whole story in a single panel.
 
 ## Similar Manga
 
-If you enjoyed *Akuma-kun*, try:
-
-- **Fruits Basket** by Natsuki Takaya — emotional depth and unforgettable characters
-- **Nana** by Ai Yazawa — raw honesty about love and growing up
-- **Fullmetal Alchemist** by Hiromu Arakawa — different genre, same quality of character writing
+| Title | Its Approach | How Akuma-kun Differs |
+|---|---|---|
+| GeGeGe no Kitaro | Mizuki's gentle yokai adventures | Akuma-kun is darker and more occult, with a colder thesis about humanity |
+| Devilman | Demon power as human tragedy | Devilman is apocalyptic and violent; Akuma-kun is occult and idealistic |
+| The Drifting Classroom | Children confronting a hostile world | Akuma-kun's threat is human folly via the supernatural rather than survival horror |
 
 ## Reading Order / Where to Start
 
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
+Because Mizuki produced multiple versions across decades, there is no single canonical volume run. For English readers, the practical reality is that Akuma-kun is unlicensed — the way in is the Japanese editions or Mizuki's broader catalog. Start with any collected Japanese edition of the original 1960s run if you can find it.
 
 ## Official English Translation Status
 
-*Akuma-kun* is ongoing in English translation. New volumes are releasing regularly.
+There is no licensed English edition of Akuma-kun. While Drawn & Quarterly has translated much of Mizuki's catalog (Kitaro, his Showa history, autobiographical work), Akuma-kun has not received an official English release. The Japanese print editions are the only legitimate way to read it.
 
 ## Pros & Cons
 
-**Pros:**
-- Ongoing with regular releases
-- Strong character work and genuine emotional investment
-- Art that serves the story without overwhelming it
+**Pros**
+- Foundational Mizuki — essential for understanding his supernatural work
+- A rare, well-realized fusion of yokai aesthetics and Western occultism
+- Mizuki's signature realistic-background/cartoon-character art at work
+- A genuinely pessimistic thesis that gives the supernatural real thematic weight
 
-**Cons:**
-- Less known outside core manga fandom — harder to find in physical stores
-- Some tropes of its era may feel dated to modern readers
-
-## Format Comparison
-
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+**Cons**
+- Unlicensed in English — a real barrier for most Western readers
+- The multiple-version history makes the canon confusing
+- Period-typical pacing and structure feel dated next to modern horror manga
 
 ## Where to Buy
 
-No English release yet. That just means you find it before everyone else does.
+There's no licensed English edition yet — the Japanese release is the only legitimate way to read it.
 
+[Search on Amazon.co.jp →](https://www.amazon.co.jp/s?k=悪魔くん+水木しげる&tag=yushi745-22)
 
 ---
 

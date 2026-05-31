@@ -1,137 +1,100 @@
 ---
-title: "Alice in Murderland Review: Heirs to a Fortune Must Kill Each Other in Alice in Wonderland Costume"
+title: "Alice in Murderland Review: Nine Adopted Siblings, One Tea Party, and an Order to Kill Each Other"
 slug: "alice-in-murderland"
-genre: "Horror / Fantasy"
+coverImage: "/covers/alice-in-murderland.jpg"
+genre: "Horror"
 genreSlug: "horror"
 mangaTitle: "Alice in Murderland"
 mangaTitleJa: "架刑のアリス"
 mangaAuthor: "Kaori Yuki"
-serialization: "Monthly Asuka"
-publisher: "Kadokawa / VIZ Media"
-volumes: 9
+serialization: "Aria / Shōnen Magazine Edge"
+publisher: "Kodansha / Yen Press"
+volumes: 11
 status: "Completed"
-englishVolumes: 9
+englishVolumes: 11
 englishStatus: "Complete"
 ageRating: "M (Mature)"
-contentWarnings: ["forced killing game", "family murder", "psychological horror", "Alice in Wonderland twisted imagery", "gore"]
-description: "Yu's review of Alice in Murderland — the nine children of the Kuonji family gather annually in Alice in Wonderland costumes for their mother's party; this year the mother reveals that one of them must kill all the others to survive and claim the family legacy; the youngest, Stella, has a split personality whose other side is dangerous."
-coverImage: "/covers/alice-in-murderland.jpg"
-amazonASIN: "1421597071"
-publishedAt: "2025-03-04"
-tags: ["horror", "fantasy", "completed", "mature", "viz-media", "killing-game", "kaori-yuki", "psychological"]
-rating: 3
+contentWarnings: ["graphic violence", "gore", "death", "incest themes", "psychological horror"]
+description: "Yu's review of Alice in Murderland — Kaori Yuki's gothic horror where the nine adopted children of the wealthy Kuonji family are ordered to murder each other in a tea-party death game, and the meek heroine Stella hides a killer alter ego called Bloody Alice."
+amazonASIN: "0316272760"
+publishedAt: "2026-01-15"
+tags: ["horror", "gothic", "psychological", "death-game", "shojo"]
+rating: 4
 hasAffiliate: true
+read: true
+rewritten: "2026-05-31"
 ---
+
+Kaori Yuki built her reputation on gothic excess — angels, demons, family curses, beautiful people doing terrible things in ornate rooms. Alice in Murderland is her at her most concentrated: a death game between siblings, staged like a tea party, drawn like a fashion plate, escalating like a fever dream. It is melodramatic and overstuffed and I had a great time with it.
+
+If you want restraint, look elsewhere. Yuki has never been interested in restraint.
 
 ## Quick Take
 
-- Kaori Yuki's (Angel Sanctuary, Godchild) signature gothic horror applied to a killing-game framework with Alice in Wonderland imagery — the visual excess of her art makes the horror more stylized than frightening
-- The forced sibling murder premise is darker than most killing-game manga; the Alice imagery gives it an additional layer of wrongness
-- 9 volumes complete; mature complete gothic horror killing game
+- Gothic death-game horror from Kaori Yuki, the artist behind Angel Sanctuary
+- The nine adopted Kuonji siblings are ordered to kill each other in a deadly inheritance game until one survivor claims everything
+- Rated M (Mature); 11 volumes complete, published in English by Yen Press
 
 ## Who Is This Manga For?
 
-- Readers familiar with Kaori Yuki's work who want her taking on the killing-game genre
-- Anyone who wants gothic horror aesthetics applied to forced family conflict
-- Fans of killing-game manga who want more visual elaborateness than the genre usually provides
-- Readers who accept M-rated content and want complete gothic horror
+- Fans of Kaori Yuki's lavish gothic horror
+- Readers who enjoy death games with constant betrayals and shifting alliances
+- Anyone who loves ornate, baroque art paired with brutal violence
+- Readers who want melodrama embraced rather than apologized for
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: M (Mature)
-**Content Warnings**: Forced killing game within a family; graphic violence and gore consistent with Yuki's other work; psychological horror; split personality violence; mature content throughout
+**Content Warnings**: Graphic violence and gore; sibling-versus-sibling killing; incest themes (common to Yuki's work); psychological horror tied to Stella's split personality
 
-M rating — the violence is gothic horror level. Take the rating seriously.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
+The M rating is accurate. The violence is frequent and the family dynamics are deliberately transgressive.
 
 ## Story Overview
 
-The Kuonji family has nine children from their mother Elvira's various relationships. Every year they gather in Alice in Wonderland costumes — Stella as Alice, her brothers and sisters as various Wonderland characters — for their mother's party.
+Stella Kuonji is the meek, unremarkable adopted daughter of the immensely wealthy Kuonji family — the least notable of nine adopted children. At a grand party hosted by the family matriarch, the horror is revealed: the nine siblings are commanded to participate in a death game in which they must kill one another until a single survivor remains. The last one standing inherits the entire Kuonji fortune and legacy.
 
-This year, Elvira reveals the truth: the family legacy requires one heir. The rest must die. Whichever child survives will inherit everything. The party becomes a killing ground.
+Stella's apparent helplessness conceals a secret. Under threat, a second personality emerges — "Bloody Alice," a ruthless, capable killer utterly unlike the timid girl she usually is. This dual nature makes Stella both prey and predator, and the central tension of the series is whether she controls Alice or Alice controls her.
 
-Stella is the youngest and the most obviously unsuitable — she is gentle, afraid, and loves her siblings. Her other personality, however, who shares her body and emerges when she is in danger, is named Alice and is something else entirely.
-
-The series follows the killing game through the Wonderland setting, Stella's attempts to survive without becoming what Alice is, and the larger mystery of why Elvira has done this and what the Kuonji legacy actually is.
+As the siblings turn on each other, the series becomes a churn of shifting alliances, hidden agendas, buried family secrets, and escalating reveals about the Kuonji family's true history and the real rules of the game. Yuki layers gothic family melodrama — secret parentage, forbidden attachments, ancestral curses — over the death-game skeleton, and the body count climbs toward a finale that ties the bloodletting back to the family's origins.
 
 ## Characters
 
-**Stella / Alice** — The split protagonist whose conflict is between the person she is and the person she needs to become to survive; Alice is not a villain within Stella, but Alice's means are different from Stella's values.
+**Stella Kuonji / Bloody Alice** — The meek adopted daughter whose survival depends on the murderous alter ego she can't fully control. The psychological horror of the series lives in the gap between the two: Stella wants to protect people; Alice wants to kill them. Watching her negotiate with her own other self is the book's strongest thread.
 
-**The siblings** — A cast designed to be visually distinctive in their Wonderland costumes before the killing game reduces their numbers; Yuki gives each enough character to make their fates feel like losses.
+**The Kuonji siblings** — Eight other adopted children, each with a distinct gothic archetype, secret, and stake in the game. Yuki gives them flamboyant designs and competing agendas so that every alliance feels provisional and every death lands with a reveal.
 
-**Elvira** — The mother whose revelation begins the killing game; her reasons are the series' central mystery.
-
-## Art Style
-
-Kaori Yuki's art is the series' most important quality — the gothic elaborateness of her visual style turns Alice in Wonderland imagery into something genuinely disturbing. The costumes, the settings, the violence: all rendered with the maximalist detail that defines her work. This is a series that is worth reading for the art even when the narrative is lighter.
-
-## Cultural Context
-
-Alice in Murderland ran in Monthly Asuka from 2013 to 2018. Yuki's use of Alice in Wonderland imagery draws from the tradition of Wonderland-as-horror rather than Wonderland-as-whimsy — the original Carroll text's dreamlike wrongness amplified into explicit threat. The killing-game genre was well-established in manga by this point, and Yuki's version distinguishes itself through the art and the family-murder specificity.
+**The matriarch** — The architect of the death game, whose reasons for staging it are bound up in the Kuonji family's hidden history. Her motives unspool across the series.
 
 ## What I Love About It
 
-The Alice costume on Stella. Yuki draws the Wonderland imagery with full gothic elaborateness — it's beautiful and immediately wrong simultaneously, which is the correct visual language for a story where the Alice character is both the heroine and the thing the heroine doesn't want to become.
-
-## What English-Speaking Fans Say
-
-Western readers describe Alice in Murderland as essential Kaori Yuki — specifically noted for the art being at her usual exceptional standard, for the Alice in Wonderland horror imagery being used with genuine skill, and for the killing-game structure giving her art more action content than her usual work. Recommended directly for Yuki fans.
+The art does the heavy lifting, and it is glorious. Yuki draws the Crimson 13 like a couture nightmare — elaborate costumes, baroque interiors, flowers and blood arranged with the same care. The contrast between the elegance of the staging and the brutality of the killing is the entire aesthetic argument of the series, and Yuki commits to it completely. A tea party where the porcelain is perfect and the guests are being ordered to murder each other is a very Kaori Yuki image, and she sells it.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-Alice's first full emergence — when Stella's danger brings out the other personality completely and Alice acts with complete clarity about what the situation requires — is the series' most effective horror moment, because it is horror that comes from within the protagonist.
-
-## Similar Manga
-
-- **Angel Sanctuary** — Kaori Yuki's longer gothic fantasy at full length
-- **Godchild** — Yuki's Victorian gothic with similar visual elaborateness
-- **Fairy Cube** — Shorter Yuki work with similar possession/dual-self concept
-- **Future Diary** — Killing game manga at the same genre level
-
-## Reading Order / Where to Start
-
-Volume 1 — The family gathering, Elvira's revelation, and Alice's first emergence establish the horror premise immediately.
-
-## Official English Translation Status
-
-VIZ Media published the complete English series. All 9 volumes available.
+The party itself — the inciting scene where the matriarch calmly reveals the rules of the death game to the assembled siblings, and the polite gathering curdles into the realization that everyone present is now expected to kill everyone else. Yuki stages it for maximum gothic irony: the civility of the setting against the savagery of the announcement. The first emergence of Bloody Alice shortly after — Stella's transformation from victim to killer when cornered — is the moment the series shows its hand about what kind of protagonist it actually has.
 
 ## Pros & Cons
 
 **Pros**
-- Kaori Yuki's art at full gothic horror quality
-- Alice in Wonderland imagery used with genuine horror skill
-- Split personality concept creates internal dramatic tension
-- Complete in 9 volumes
+- Gorgeous, ornate gothic art — among Yuki's most lavish
+- The Stella/Bloody Alice split adds real psychological unpredictability
+- Constant betrayals and reveals keep the death game propulsive
+- Complete in 11 volumes with a finale that ties back to the premise
 
 **Cons**
-- M rating reflects real violence — not for all readers
-- Narrative depth secondary to visual impact
-- Some siblings undercharacterized before their fates
+- Deeply melodramatic — the plot twists pile up faster than they land
+- The large sibling cast means some die before they're fully developed
+- The transgressive family themes (incest, etc.) won't work for everyone — this is Yuki being Yuki, and that's either the appeal or the exit
 
-## Format Comparison
+## Is Alice in Murderland Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | VIZ Media; complete series |
-| Digital | Available |
+Yes — if you want gothic death-game horror with spectacular art and zero interest in subtlety. Fans of Kaori Yuki will adore it; newcomers should know they're signing up for full-throttle melodrama.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Alice+in+Murderland+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/dp/0316272760?tag=dearmanga-20)
 
 ---
 
