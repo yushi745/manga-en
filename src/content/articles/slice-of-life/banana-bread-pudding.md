@@ -1,14 +1,14 @@
 ---
-title: "Banana Bread Pudding Review: Yumiko Oshima's Quietest Masterpiece"
+title: "Banana Bread Pudding Review: The Girl Who Was Afraid of the Bathroom"
 slug: "banana-bread-pudding"
 genre: "Drama / Slice-of-Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Banana Bread Pudding"
 mangaTitleJa: "バナナブレッドのプディング"
 mangaAuthor: "Yumiko Oshima"
-serialization: "Monthly Lala"
-publisher: "Hakusensha"
-volumes: 4
+serialization: "Monthly Seventeen"
+publisher: "Shueisha"
+volumes: 1
 status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
@@ -16,119 +16,84 @@ ageRating: "T (Teen)"
 contentWarnings:
   - "mental-illness"
   - "psychological-trauma"
-description: "Yumiko Oshima writes a story about gender, marriage, and the people who feel like they don't fit either."
+  - "domestic-violence"
+description: "Yumiko Oshima's quiet 1970s shojo classic about a girl who can't grow up, a fake marriage, and the fear that lives in the dark."
 coverImage: "/covers/banana-bread-pudding.jpg"
 amazonASIN: ""
 publishedAt: "2025-05-28"
+read: true
+rewritten: "2026-06-01"
 tags:
   - "drama"
   - "slice-of-life"
   - "shojo"
   - "year-24"
-  - "lgbtq"
+  - "classic"
 rating: 5
 hasAffiliate: true
 ---
 
+I read a lot of loud manga when I was a kid. Big fights, big speeches, heroes who never gave up. That's the stuff that pulled me out of the worst years. But somewhere later I found the quiet ones, and *Banana Bread Pudding* is one I keep coming back to. It's short — one volume, drawn by Yumiko Oshima back in the late 1970s — and it doesn't shout at you at all. It just sits next to you, like someone who understands that you're scared and isn't going to make fun of you for it.
+
+I was a kid who was scared of stuff I couldn't explain. So a story about a girl who can't sleep because she's afraid of what's in the dark hit me somewhere I don't talk about much. I want to tell you about it honestly.
+
 ## Quick Take
 
-- From a Year 24 group master
-- Quiet, haunting, and unlike anything else in shojo
-- About gender identity decades before the conversation
-
-## Who Is This Manga For?
-
-- Fans of emotionally rich storytelling with memorable characters
-- Readers who enjoy complete series with satisfying conclusions
-- Anyone interested in discovering hidden gems from manga's golden era
-- People who like manga that stays with you long after the final page
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: mental-illness, psychological-trauma
-
-Safe for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
-
-**Overall: 5/5** — A strong entry in its genre worth seeking out.
+- A one-volume shojo classic from a master of the Year 24 generation, quiet and strange in the best way
+- About anxiety, growing up, and pretending to be okay — written with almost no melodrama
+- Age rating: T (Teen) — heavy themes (mental fragility, domestic violence) but nothing graphically shown
 
 ## Story Overview
 
-Mira is a young woman whose older sister has just married. Mira herself is convinced she's been cursed since childhood — that she'll be murdered before she can grow old. To stay safe, she enlists a gay friend, Saeki, to pretend to be her boyfriend. Their fake relationship slowly becomes real in a way neither of them expected.
+The main character is Ira (三浦衣良), a high-schooler with what the story frames as a childlike, almost arrested way of being in the world. She's emotionally fragile, and the thing tipping her over the edge is her older sister Sara getting married. Sara was the one who stood outside the bathroom door at night while Ira used it, because Ira is terrified of being alone in the dark — she's convinced something will get her. With Sara leaving, that safety is gone.
+
+The turning point is Ira's strange solution. Her childhood friend Saeko (御茶屋さえ子) thinks Ira just needs a boyfriend. But Ira's idea of an ideal partner is oddly specific: a gay man who feels a quiet guilt toward the world, someone who wouldn't really want her and so couldn't abandon her the way she fears. So Saeko introduces her to her own brother, Touge (御茶屋峠) — a college student and soccer coach who is *not* actually gay — and the two enter a fake marriage. Ira moves in.
+
+From there it spirals. Ira becomes fixated on a professor, Niigata, who actually is gay, and ends up entangled in his orbit even after learning his partner is violent. It climaxes in a real crisis. The ending pulls her back to Touge, who confesses he loves her, and they begin again — but Oshima refuses to wrap it up in a sugary bow. Sara's letter closes the book, and the "wonderful thing waiting for you" Ira is promised is left deliberately undefined.
 
 ## Characters
 
-The cast of *Banana Bread Pudding* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
+**Ira (三浦衣良)** — The center of everything. What I love is that Oshima never treats her fragility as cute or as a problem to be cured by romance. Her arc isn't "girl gets fixed." It's a girl slowly, messily learning that the dark won't kill her, and that needing people isn't the same as being a burden.
 
-## Art Style
+**Touge (御茶屋峠)** — He agrees to a fake marriage with a girl who explicitly wanted someone who *wouldn't* desire her, and then has to sit with the fact that he does. His arc is the patience of staying when leaving would be easier.
 
-Yumiko Oshima's visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
+**Saeko (御茶屋さえ子)** — Ira's friend and the one who sets the whole scheme in motion by offering up her brother. She carries her own unspoken feelings on the side, which keeps her from being just a plot device.
 
-## Cultural Context
-
-*Banana Bread Pudding* comes from a tradition of Japanese storytelling that blends personal drama with broader themes — family loyalty, social pressure, and the courage it takes to be yourself. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
+**Niigata** — The professor Ira drifts toward. He represents the "guilty, gentle outsider" she idealizes, but the reality around him — including a violent partner — is where her fantasy of a safe, undemanding love collides with how people actually hurt each other.
 
 ## What I Love About It
 
-Banana Bread Pudding is so quiet. Oshima writes about anxiety in a way that feels lived-in, not dramatic. Mira's fear isn't a device — it's a real psychic state. Saeki isn't a fantasy. They're both navigating identities the world doesn't have words for, and they help each other survive that. It's a manga I think about often.
+The thing I can't shake is how Oshima draws fear. Ira's terror of the bathroom at night isn't played for laughs and it isn't explained away. It's just true for her — a real psychic weather she lives inside. When I was small I had fears like that, the kind adults tell you are silly, and reading a manga that took a girl's irrational nighttime dread completely seriously did something to me. It said: this counts. Your fear was real even if the monster wasn't.
 
-## What English-Speaking Fans Say
-
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
+And the way it's drawn matters. Oshima's pages have this airy, soft quality where the emotional state leaks into the panels themselves. A dream-creature shows up in the night as Ira's mind frays — beautiful and deadly at the same time — and you feel her unraveling without a single line of expository dialogue telling you "Ira is getting worse." That restraint is the whole craft of this manga. It trusts you to sit in the discomfort instead of narrating it for you. I've read flashier psychological manga, but few that respect the reader this much.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
+The moment that stays with me is the knife. Tangled up in Niigata's world, Ira stabs him and becomes convinced she's killed him. She flees — runs straight back to Touge's place, the fake husband, the one safe door. It's the bathroom fear made literal and adult: the dark finally has a face, she thinks she's done something unforgivable, and the only instinct left is to run home to the person who waits outside the door.
 
-## Similar Manga
-
-If you enjoyed *Banana Bread Pudding*, try:
-
-- **Fruits Basket** by Natsuki Takaya — emotional depth and unforgettable characters
-- **Nana** by Ai Yazawa — raw honesty about love and growing up
-- **Fullmetal Alchemist** by Hiromu Arakawa — different genre, same quality of character writing
-
-## Reading Order / Where to Start
-
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
-
-## Official English Translation Status
-
-*Banana Bread Pudding* is ongoing in English translation. New volumes are releasing regularly.
+What makes it land is the contrast with everything before it. For most of the book the dread is internal, dreamlike, drawn in those soft Oshima lines. Then suddenly it's a blade and blood and a girl who thinks she's a murderer. And the answer to that terror isn't punishment — it's Touge taking her in and, eventually, telling her he loves her. The horror and the tenderness are stacked right on top of each other. That's the scene I think about when people say old shojo is just sweet romance. This one isn't.
 
 ## Pros & Cons
 
 **Pros:**
-- Ongoing with regular releases
-- Strong character work and genuine emotional investment
-- Art that serves the story without overwhelming it
+- A genuine classic from one of the great shojo artists, complete in a single volume
+- Takes anxiety and fragility seriously instead of curing them with romance
+- Soft, expressive 1970s art where the mood lives in the linework
 
 **Cons:**
-- Less known outside core manga fandom — harder to find in physical stores
-- Some tropes of its era may feel dated to modern readers
+- No official English release, so you're reading Japanese or fan translations
+- The plot's logic (parents accepting it all, the abusive entanglements) can feel unreal
+- It's slow, internal, and deliberately unresolved — if you want a clean, loud, plotted story, this quiet old book won't work for you
 
-## Format Comparison
+## Is Banana Bread Pudding Worth Reading?
 
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+Yes — if you're open to something quiet and strange. It's a short, serious-minded shojo classic that treats a fragile girl's fear with real care, and its softness is the point, not a flaw. If you only want fast plot and tidy endings, skip it. If you've ever been scared of the dark and wished someone took it seriously, this one is for you.
 
 ## Where to Buy
 
 No English release yet. That just means you find it before everyone else does.
 
+[Find the Japanese edition on Amazon.co.jp →](https://www.amazon.co.jp/s?k=バナナブレッドのプディング+大島弓子&tag=yushi745-22)
 
 ---
 
