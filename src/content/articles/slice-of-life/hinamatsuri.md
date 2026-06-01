@@ -1,139 +1,98 @@
 ---
-title: "Hinamatsuri Review: A Yakuza Man Suddenly Has a Psychic Girl to Take Care of, and Neither of Them Is Prepared"
+title: "Hinamatsuri Review: A Yakuza Picks Up a Telekinetic Girl, and Somehow It Becomes One of the Warmest Manga I Know"
 slug: "hinamatsuri"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Hinamatsuri"
 mangaTitleJa: "ヒナまつり"
 mangaAuthor: "Masao Ohtake"
-serialization: "Monthly Comic @BUNCH"
-publisher: "Houbunsha / One Peace Books"
+serialization: "Harta (formerly Fellows!)"
+publisher: "Enterbrain / One Peace Books"
 volumes: 19
 status: "Completed"
 englishVolumes: 19
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["yakuza content", "mild violence", "a child living on the street played for dark comedy"]
-description: "Yu's review of Hinamatsuri — a girl with psychic powers falls from the sky into a yakuza man's apartment; he reluctantly takes her in; she destroys things when she is not allowed to use her powers; together they navigate life in a way that makes no sense and is somehow very funny."
+contentWarnings: ["yakuza content", "mild violence", "a child living homeless played for comedy"]
+description: "Yu's review of Hinamatsuri — a metal pod drops a deadpan telekinetic girl named Hina onto a yakuza man's head, and the deadpan comedy slowly turns into one of the most quietly moving found-family manga I've ever read."
 coverImage: "/covers/hinamatsuri.jpg"
 amazonASIN: "164273005X"
 publishedAt: "2026-01-09"
-tags: ["slice-of-life", "comedy", "seinen", "completed", "yakuza", "psychic"]
+read: true
+rewritten: "2026-06-01"
+tags: ["slice-of-life", "comedy", "seinen", "completed", "yakuza", "telekinesis"]
 rating: 5
 hasAffiliate: true
 ---
 
+I started Hinamatsuri expecting a dumb comedy, and I will be honest with you, that is exactly what the first chapter is. A glowing metal egg falls out of nowhere and lands on a yakuza man's head while he is admiring his expensive vases. A blank-faced girl crawls out. She has psychic powers. He has no idea what to do with her. I laughed, I shrugged, I thought "okay, one-joke manga." I was so wrong, and I am glad I was. By the time I finished all 19 volumes, this dumb comedy had made me tear up over a homeless camp and a bowl of ramen. That is the magic of it, and I want to tell you about it.
+
 ## Quick Take
 
-- A yakuza man becomes the unlikely parent figure of a psychic girl, and the series is both the funniest comedy and the most affecting family story in recent manga
-- Ohtake runs multiple simultaneous storylines with complete control — the comedy and the genuine emotional content exist in perfect balance
-- 19 volumes, complete; one of the best manga of the 2010s
-
-## Who Is This Manga For?
-
-- Readers who want comedy manga that can also make them cry without warning
-- Fans of unlikely found-family stories
-- Anyone who wants completed manga that is funnier and more emotionally layered than it looks
-- Readers who enjoy the anime and want the full story
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Yakuza organizational content (treated as backdrop comedy), a subplot involving a child living on the street that is played darkly while still being comedic
-
-The dark content and the comedy coexist — sometimes in the same scene.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★★★ |
+- A deadpan telekinetic girl gets dropped into a yakuza man's apartment, and a series that looks like a one-joke gag comedy quietly becomes a real story about found family
+- Masao Ohtake juggles three or four storylines at once — Nitta and Hina, Anzu the homeless girl, Hitomi the accidental bartender — and lands both the comedy and the heart
+- Age rating: T (Teen) — yakuza setting and some rough situations, but the tone is comedic, not graphic
 
 ## Story Overview
 
-A metal egg falls from the sky into Nitta Yoshifumi's apartment. A girl named Hina emerges. She has psychic powers. She needs someone to take care of her or she will lose control of the powers and destroy things, which she will also do if she is bored.
+A capsule from the future drops a girl named Hina onto Yoshifumi Nitta, a mid-level yakuza who lives alone in a nice apartment and cares a lot about his collection of expensive vases. Hina has powerful telekinetic abilities, and if she does not release that power, it builds up and she loses control. So Nitta, very much against his will, ends up housing her, feeding her, and sending her to school.
 
-Nitta is a yakuza. He is particular about his vases. He did not ask for this.
+That is the setup, but the series does not stay there. Ohtake keeps introducing new people pulled into Hina's orbit. Anzu, another girl from the future, arrives to take Hina down, loses, and gets stranded with no way home — and her story takes a completely different, much harder direction. Hitomi, Hina's level-headed classmate, gets roped into bartending at a bar Hina frequents and cannot escape the adult world she accidentally falls into.
 
-He takes Hina in. She attends school. She is very bad at being a normal child and very good at psychic powers. Nitta manages a yakuza subordinate hierarchy while also managing homework, dinner, and a girl who can level a building if she decides to.
-
-The series also follows Anzu, another psychic girl who arrives separately and becomes homeless, and the bar hostess Hitomi, Hina's classmate, whose life is repeatedly and accidentally destroyed by her competence.
+The manga ran in Enterbrain's magazine Harta (formerly Fellows!) from 2010 to 2020, finished at 19 volumes, and closes with a time-skip that checks in on everyone a few years later. It does not just stop being funny — it earns a real ending for people you started out laughing at.
 
 ## Characters
 
-**Nitta Yoshifumi** — A man who wanted a simple yakuza life and got the most complicated one available. His specific parental affection for Hina — never stated, always present — is the series' emotional core.
+**Yoshifumi Nitta** — The yakuza who never asked for any of this. He is grumpy, money-minded, and weirdly competent at being a reluctant dad. The series never has him say out loud that he loves Hina; it just shows him doing the work, year after year, and at one point even wishing the responsible Anzu were his kid instead of the lazy one he got. That unspoken affection is the spine of the whole thing.
 
-**Hina** — Completely uninterested in anything except what she wants to eat, psychic destruction, and the quiet comfort of her current life. Her obliviousness to how much she has changed Nitta is the series' funniest and most touching sustained joke.
+**Hina** — The telekinetic girl. Deadpan, lazy, motivated almost entirely by food and comfort, and completely oblivious to how much she has reshaped Nitta's life. Her flatness is the engine of most of the comedy, and the gap between her not-caring and Nitta actually-caring is the long joke the series keeps paying off.
 
-**Anzu** — The other psychic girl; her arc — homeless, learning to work, finding a family in the people who take her in — is the series' most emotionally complete subplot and arguably its finest achievement.
+**Anzu** — The other girl from the future. She comes to defeat Hina, loses, and gets stuck with no capsule home. A homeless man takes her in at an encampment and teaches her to live honestly through hard work. She grows the most of anyone in the cast, eventually gets taken in by the Hayashi family who run a Chinese restaurant, and later runs her own mobile ramen stand. Her arc is the emotional heart of the manga.
 
-**Hitomi** — Hina's classmate whose competence at everything she does leads to her being recruited into increasingly serious adult responsibilities she cannot escape; her arc is the series' most purely absurdist comedy.
-
-## Art Style
-
-Ohtake's art handles the multiple tonal registers with precision — the yakuza scenes, the psychic destruction sequences, the quiet family moments, and the absurdist Hitomi comedy all require different visual approaches that Ohtake manages without losing the series' visual coherence.
-
-## Cultural Context
-
-The yakuza setting is specific to Japanese organized crime culture — the hierarchy, the offices, the specific social codes — and Ohtake uses it as comedy backdrop without either glamorizing or condemning it. The series' emotional content operates entirely in the domestic and school spaces, where the yakuza context is background texture.
+**Hitomi** — Hina's calm, capable classmate, cursed with an inability to say no. Left alone at a bar, she gets mistaken for an adult bartender, turns out to be brilliant at it, and gets blackmailed into the job. From there she keeps accidentally climbing the adult world — businesses, politics, eventually company president — while still trying and failing to just be a normal middle schooler. Pure escalating absurdist comedy.
 
 ## What I Love About It
 
-Anzu's arc. She arrives in Japan homeless, learns to survive through work and the kindness of the people who take her in, and becomes the most complete character in the series. Her finale — what she does with what she has built for herself — is the series' most moving sequence, and it arrives in a manga that is also extremely funny, which makes it more moving, not less.
+What I love is how Ohtake hides a real story inside a gag manga, and Anzu is where it lands hardest. She shows up as a villain — another future kid sent to deal with Hina — and after she loses, she is just a child alone in a country that is not hers, with no money and no way home. A homeless man finds her, brings her back to the encampment, and instead of pity, he gives her work and dignity. He teaches her to collect cans, to earn, to not steal, to live straight. I did not expect a comedy about a psychic girl to suddenly be the warmest portrait of a homeless community I had ever read in manga.
 
-## What English-Speaking Fans Say
-
-Western readers consistently describe Hinamatsuri as the manga that surprised them most — they expected comedy, they got comedy plus genuine emotional impact. The Anzu arc is universally cited as exceptional. The Hitomi running gag is cited as one of manga's finest sustained comedic elements. The series is frequently described as underrated despite having a devoted fanbase.
+The reason it hit me is that the series never plays Anzu's poverty as a punchline. The camp becomes her family. These are people society wrote off, and they are the ones who raise her right. When I was a lonely, friendless kid, the manga I loved were the ones that said the people the world ignores can still be the ones who save you. Anzu's stretch of Hinamatsuri is exactly that feeling, dropped into the middle of a goofy comedy where you let your guard down — which is precisely why it cuts so deep when it arrives.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-Anzu's final chapter — what she does, who is there, what she says — is one of manga's most affecting single chapters. Ohtake earned it by spending volumes building exactly the right foundation.
+The scene I will never forget is when the homeless camp gets evicted from the park. Anzu, who has come to love these people as family, is full of fight — she wants to make signs and protest, save their home. But the older homeless people have lived this before. They know how it ends. So they quietly arrange for Anzu to be taken in by the Hayashis, the couple who run the restaurant, so at least the kid will have a roof.
 
-## Similar Manga
-
-- **Gintama** — Comedy with multiple registers, unexpected emotional depth
-- **Komi Can't Communicate** — School life, warm comedy, character who is trying
-- **My Roommate Is a Cat** — Unlikely cohabitation, found family warmth
-- **One Punch Man** — Comedy character in unlikely domestic/social situations
-
-## Reading Order / Where to Start
-
-Volume 1 — all three major storylines establish within the first two volumes.
-
-## Official English Translation Status
-
-One Peace Books published the complete 19-volume series. All volumes available.
+And then they make her leave the only way they can. One of them shouts at her, harsh and cruel, telling her to get lost — crushing her, on purpose. Because gentle words would never get her to go. As Anzu walks away, the camera shows the homeless people, the ones who just yelled at her, all crying. They were cruel because it was the only way to make her leave without breaking, and they could not bear to watch her cry. That is the scene people point to as the best in the whole series, and they are right. A gag manga about a psychic girl made me sit there in silence.
 
 ## Pros & Cons
 
 **Pros**
-- 19 volumes, complete
-- Manages comedy and genuine emotion better than almost any manga
-- Anzu's arc is exceptional
-- Every character has a complete, satisfying arc
+- One of the best balances of comedy and genuine emotion I have read — the jokes never undercut the heart
+- Anzu's arc alone is worth the entire series
+- Hitomi's runaway-career gag is one of the funniest sustained jokes in manga
+- 19 volumes, complete, fully available in English from One Peace Books
 
 **Cons**
-- 19 volumes is a significant commitment
-- The Hitomi absurdist comedy requires accepting its own logic
-- Some yakuza cultural context helps
+- 19 volumes is a real commitment if you only came for the gags
+- The tone swings hard between absurd comedy and quiet drama, which can feel uneven
+- It is a slow-build, low-plot, vignette-style comedy — that rhythm won't work for everyone
 
-## Format Comparison
+## Is Hinamatsuri Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | One Peace Books; standard |
-| Digital | Available |
+Yes. It looks like a throwaway gag manga and turns into one of the most quietly moving found-family stories I know, without ever losing its sense of humor. If you want comedy that can sneak up and move you — and you do not mind a long, meandering ride to get there — Hinamatsuri is absolutely worth it.
+
+## Similar Manga
+
+| Title | Its Approach | How Hinamatsuri Differs |
+|---|---|---|
+| Gintama | Gag comedy that pivots into serious emotional arcs | Hinamatsuri is quieter and more grounded, no battle shonen scale |
+| The Way of the Househusband | A reformed yakuza in absurd domestic comedy | Hinamatsuri adds real drama and a found-family heart under the gags |
+| Mob Psycho 100 | A deadpan, powerful psychic kid played for comedy and warmth | Hinamatsuri centers on the adults around the kid, not the kid's growth |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Hinamatsuri+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/Hinamatsuri-1-Masao-Ohtake/dp/164273005X?tag=dearmanga-20)
 
 ---
 

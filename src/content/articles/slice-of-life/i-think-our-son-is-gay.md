@@ -1,13 +1,13 @@
 ---
-title: "I Think Our Son Is Gay Review"
+title: "I Think Our Son Is Gay Review: The Kindest Comedy About a Mother Who Already Knows"
 slug: "i-think-our-son-is-gay"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "I Think Our Son Is Gay"
 mangaTitleJa: "うちの息子はたぶんゲイ"
 mangaAuthor: "Okura"
-serialization: "Square Enix Digital"
-publisher: "Square Enix / Square Enix Manga"
+serialization: "Twitter / Gangan pixiv (Square Enix)"
+publisher: "Square Enix / Square Enix Manga & Books"
 volumes: 5
 status: "Completed"
 englishVolumes: 5
@@ -15,10 +15,12 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings:
   - "LGBTQ+ themes"
-description: "A comprehensive review of I Think Our Son Is Gay — plot, characters, art style, and whether it's worth reading."
+description: "A review of I Think Our Son Is Gay by Okura — a warm family comedy about a mother who quietly knows her son is gay and just waits, with love, for him to say it himself."
 coverImage: "/covers/i-think-our-son-is-gay.jpg"
 amazonASIN: "1646090761"
 publishedAt: "2026-01-12"
+read: true
+rewritten: "2026-06-01"
 tags:
   - "slice-of-life"
   - "comedy"
@@ -29,95 +31,68 @@ rating: 5
 hasAffiliate: true
 ---
 
+When I was a kid, I spent a lot of time hiding things. Not because anyone forced me to — just because I was a quiet, friendless boy who assumed the safest version of myself was the smallest one. So when I read the very first chapter of this manga, where Hiroki blurts out that one day he'll find "a boyfriend who's great at cooking" and then panics — "Guh—! Girlfriend!! Girlfriend!! I totally meant girlfriend!!" — I felt something tighten in my chest. I knew that panic. And then his mother, sitting right there, just thinks to herself, calmly, that her son slips and says "boyfriend" instead of "girlfriend" a lot. She doesn't pounce. She doesn't correct him. She just notices, and loves him anyway. I think I had to put the book down for a second.
+
 ## Quick Take
 
-- A mother gently suspects her teenage son is gay — and quietly creates space for him to come out
-- Warm, funny, and deeply kind — the most wholesome manga about sexuality you'll ever read
-- Hiroki's hopeless attempts to hide his crushes are both relatable and hilarious
-
-## Who Is This Manga For?
-
-- LGBTQ+ readers looking for warm, positive representation
-- Parents who want to understand their children's experiences
-- Anyone who loves family dynamics done right
-- Readers who want comedy that comes from kindness rather than mockery
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: LGBTQ+ themes
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★★☆ |
+- A warm family comedy about a mother who already knows her teenage son is gay — and quietly waits, with total love, for him to tell her himself
+- The humor comes from Hiroki being adorably terrible at hiding his crush, never from mocking him
+- Age rating: T (Teen) — clean, wholesome, safe for most readers; the only content note is its LGBTQ+ themes
 
 ## Story Overview
 
-Tomoko Aoyama notices that her teenage son Hiroki gets starry-eyed whenever he talks about his 'friend' Daigo. She doesn't ask directly — she just quietly creates an environment where Hiroki knows he can be honest when he's ready. The manga follows daily family life through Tomoko's perspective, watching Hiroki's transparent attempts to pretend he's not hopelessly in love with his classmate. His younger brother Akiyoshi is also on to him. Everyone waits, patiently and lovingly, for Hiroki to trust them with his secret.
+The setup is simple and the manga never pretends otherwise: it's episodic, a series of short domestic vignettes rather than one big plot. Tomoko Aoyama is a housewife and mother of two. Her eldest son, Hiroki, is a warm, open-hearted high schooler who is gay — and who is convinced he's keeping it a secret. He isn't. He comes home practically every day talking about his classmate Daigo, with what feels like every other sentence circling back to this one boy, and Tomoko long ago put the pieces together.
+
+The whole series lives in that gap: Tomoko knows, Hiroki doesn't know she knows, and she has quietly decided she will never out him. She wants him to say it on his own terms, when he's ready, if he ever is. So instead of confronting him, she spends her days gently steering conversations to make sure he never feels cornered — defusing his father's clumsier comments, smoothing over his slip-ups, leaving the door open. Across the five volumes the family relaxes into each other a little more, and Hiroki inches, very slowly, toward being comfortable in his own skin. There's no dramatic coming-out climax engineered for shock. The arc is emotional, not plotted: it's about a household quietly becoming a safe place.
 
 ## Characters
 
-Tomoko is a magnificent protagonist — her love for her son is unconditional and expressed through action rather than declaration. She's funny and a bit oblivious about other things, which makes her quiet perceptiveness about Hiroki more touching. Hiroki is endearing in his hopeless transparency. The family dynamics feel absolutely real.
+**Tomoko Aoyama** is the heart and narrator of the series. Most of the story is filtered through her internal monologue, and that's where its warmth lives. She's a little ditzy about some things, which makes her sharpness about Hiroki land harder — her love for him expresses itself as restraint. She has decided that the kindest thing she can do is *not* ask, and hold that line for years.
 
-## Art Style
+**Hiroki** is the eldest son: kind, earnest, and hopelessly transparent. His crush on Daigo leaks out of him constantly — verbal slips, the way he lights up talking about him, the bodybuilding book in his room. His "secret" is the worst-kept secret in the house, and his flustered overreactions when he thinks he's been caught are the engine of the comedy.
 
-Okura's art is clean and expressive — the comedy comes through in character expressions and reactions. The warm, domestic setting is rendered with the right level of detail to feel lived-in without being cluttered.
+**Yuri** is the younger brother, and he might be my favorite. He's deadpan and stoic, but underneath that flat expression he's fiercely protective — he's actually more openly accepting of Hiroki than Hiroki is of himself. When their father starts backing Hiroki into an awkward corner, Yuri is the one who steps in to shut it down, more aggressively than even their mother does.
 
-## Cultural Context
-
-Japan's relationship with LGBTQ+ visibility is complicated — more acceptance than stereotypes suggest, but less than many Western countries. The manga's approach — a mother who accepts immediately and simply waits for her son to feel safe — reflects the reality many Japanese LGBTQ+ individuals navigate.
+**Akiyoshi**, the father, is well-meaning but less perceptive, and his offhand "when you get a girlfriend" remarks are exactly the kind of small pressure Tomoko and Yuri spend the series quietly deflecting.
 
 ## What I Love About It
 
-I have never read a manga that made me want to call my parents immediately and tell them I love them. The central insight — that sometimes love means creating space rather than asking questions — is one of the most emotionally intelligent things I've encountered in manga. Tomoko doesn't need Hiroki to come out to her. She just needs him to know she'll love him when he does.
+What I love most is that this manga understood something it took me years to learn: that love is sometimes the decision *not* to demand something from a person. Tomoko could make this easy for herself. She could just ask Hiroki, get it over with, have the conversation. The whole premise is that she chooses, over and over, not to — because the only version of his coming out that matters is the one he gives freely. That's not passivity. That's discipline. Holding that space for years, never letting him feel exposed, is one of the most patient acts of parenting I've seen in fiction.
 
-## What English-Speaking Fans Say
-
-I Think Our Son Is Gay has an overwhelmingly positive reception internationally, frequently cited as one of the most wholesome and emotionally resonant manga about LGBTQ+ themes. LGBTQ+ readers and parents of LGBTQ+ children both report finding it meaningful. The comedy is universally praised.
+And the genius is that this never gets heavy, because the comedy and the tenderness are the same thing. When Hiroki says "boyfriend" and frantically corrects himself, it's funny — and it's also a tiny window into how scared he still is. Okura never laughs *at* Hiroki's fear; the joke is always how lovable his slip-ups are, how obvious his good heart is. By the time I finished, I genuinely wanted to call my own parents. A comedy about a kid bad at hiding a crush has no business being that moving, but it sneaks up on you, one warm little chapter at a time.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-**Spoiler Warning**: A moment late in the series where Tomoko overhears something that makes her son's feelings undeniable, and her internal monologue reveals exactly how much she already knew and how long she's been waiting — with complete, unconditional love — is one of the most moving passages in recent manga.
+**Spoiler Warning** for an early moment.
 
-## Similar Manga
+The one that stuck with me is from the very first chapter — the dinner-table slip. Hiroki, talking about food, casually says that when he's older he'll just find "a boyfriend who's great at cooking" to make it for him. There's a beat. Then the panic floods his face and he scrambles: "Girlfriend!! Girlfriend!! I totally meant girlfriend!!" And the camera, so to speak, cuts to his mother. While Yuri just keeps eating like nothing happened, Tomoko's internal voice notes — gently, almost fondly — that Hiroki does this *all the time*. He says "boyfriend" and then corrects it.
 
-- **[My Brother's Husband](/slice-of-life/brothers-husband)** — LGBTQ+ representation in family drama context
-- **[Seven Days](/slice-of-life/seven-days)** — LGBTQ+ romance
-- **[A Silent Voice](/slice-of-life/a-silent-voice)** — Family drama and emotional growth
-
-## Reading Order / Where to Start
-
-Start from Volume 1. Complete at 5 volumes — perfect for one reading session.
-
-## Official English Translation Status
-
-**Status**: Complete
-**Publisher**: Square Enix Manga
-**Volumes Available in English**: 5 of 5
+What makes the page unforgettable isn't the joke; it's her reaction to the joke. There's no shock, no judgment, no agenda. Just a mother quietly cataloguing one more small thing she loves about her son, while letting him believe he got away with it. In a single panel the whole series tells you its thesis: she already knows, and she's not going anywhere.
 
 ## Pros & Cons
 
 **Pros:**
-- Exceptionally warm and kind storytelling
-- Tomoko is a wonderful character
-- Complete at 5 volumes
-- Universal appeal despite LGBTQ+ focus
+- One of the kindest, most emotionally generous comedies I've read — the humor never punches down
+- Tomoko's restraint makes her a quietly extraordinary protagonist
+- Short and complete at 5 volumes — a perfect, satisfying read
+- Universally warm; you don't need to share Hiroki's experience to be moved by it
 
 **Cons:**
-- Very low stakes — not for readers wanting plot
-- Short at 5 volumes
+- Very low stakes and episodic — if you want plot momentum, there isn't much
+- The premise is gentle and repetitive by design; the "slip-up and reaction" rhythm recurs often
+- A quiet domestic comedy with no big dramatic payoff simply won't work for everyone — that softness is the whole point, and either it lands for you or it doesn't
 
-## Format Comparison
+## Is I Think Our Son Is Gay Worth Reading?
 
-| Format | Link | Notes |
-|--------|------|-------|
-| Paperback | [Amazon](https://www.amazon.com/dp/1646090761?tag=dearmanga-20) | Square Enix Manga edition — all 5 volumes |
+Yes — especially if you want something warm and short. It's a low-stakes, episodic family comedy whose entire appeal is its kindness: a mother who already knows, a son who's terrible at hiding it, and a household that quietly becomes a safe place. If you need plot and tension, look elsewhere. If you want a manga that makes you feel loved, this is one of the best.
+
+## Similar Manga
+
+| Title | Its Approach | How I Think Our Son Is Gay Differs |
+|---|---|---|
+| My Brother's Husband | Family processes a relative's sexuality through a visiting Canadian widower; warm but more contemplative | Stays inside one household and one mother's loving, comedic perspective |
+| Sweat and Soap | Adult romance built on intimacy and everyday tenderness | Not a romance — it's about a parent's love and the comedy of a kid's crush |
+| A Silent Voice | Heavy emotional drama about guilt, disability, and redemption | Light, funny, and gentle where Silent Voice is wrenching |
 
 ## Where to Buy
 

@@ -1,5 +1,5 @@
 ---
-title: "Hi Score Girl Review: A Boy Who Only Cares About Arcade Games Meets a Girl Who Beats Him at All of Them"
+title: "Hi Score Girl Review: A Boy Who Only Cares About Arcade Games Meets a Girl Who Beats Him at Every One"
 slug: "hi-score-girl"
 coverImage: "/covers/hi-score-girl.jpg"
 genre: "Slice of Life"
@@ -7,127 +7,92 @@ genreSlug: "slice-of-life"
 mangaTitle: "Hi Score Girl"
 mangaTitleJa: "ハイスコアガール"
 mangaAuthor: "Rensuke Oshikiri"
-serialization: "Monthly Big GFantasy"
-publisher: "Square Enix / Square Enix Manga"
-volumes: 9
+serialization: "Monthly Big Gangan"
+publisher: "Square Enix / Square Enix Manga & Books"
+volumes: 10
 status: "Completed"
-englishVolumes: 9
+englishVolumes: 10
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["arcade gaming culture", "1990s nostalgia content", "romantic comedy", "teenage romance"]
-description: "Yu's review of Hi Score Girl — set in the early 1990s, Haruo Yaguchi's world is the arcade; he is the best at fighting games in his school; Akira Oono, a rich and academically accomplished girl who never speaks, is better than him at all of them; the romance that develops from this competitive frustration is one of manga's most charming."
-amazonASIN: "1646090411"
+contentWarnings: ["mild violence (fighting-game context)", "a slap", "teenage romance"]
+description: "Yu's review of Hi Score Girl — Haruo Yaguchi lives for 1990s arcade fighting games, until silent rich-girl prodigy Akira Ono beats him 30 times in a row at Street Fighter II. Ten volumes, complete in English, and the most quietly devastating love story I know that never needs its heroine to say a word."
+amazonASIN: "1646090167"
 publishedAt: "2026-01-06"
+read: true
+rewritten: "2026-06-01"
 tags: ["slice-of-life", "romance", "completed", "teen", "square-enix-manga", "arcade", "1990s", "gaming"]
 rating: 5
 hasAffiliate: true
 ---
 
+When I was a kid, the arcade near the station was the one place nobody asked me why I had no friends. You put your coin on the cabinet, you waited your turn, and the machine did not care who you were. I was not good. But I loved sitting close enough to watch the people who were good, the ones whose hands moved like they were not even thinking. So when I finally read Hi Score Girl, I felt found out. Rensuke Oshikiri wrote a whole manga about that exact feeling — the kid who only matters when he is in front of a screen — and then he gave that kid the one thing I never had: a girl who sat down next to him and beat him so badly that he had to keep coming back.
+
 ## Quick Take
 
-- The best manga about video game culture — both a loving archive of early 90s arcade gaming and a genuinely romantic coming-of-age story
-- Akira Oono is one of manga's most charming romantic leads: she never speaks, her expressions say everything
-- 9 volumes complete; essential for anyone who grew up with arcade games
-
-## Who Is This Manga For?
-
-- Readers who grew up with early 90s gaming culture (Street Fighter II, the Neo Geo era)
-- Anyone who wants romantic comedy that earns its romance through character rather than plot devices
-- Fans of period-accurate nostalgia manga done right
-- Readers looking for complete romance with genuine character development
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: 1990s arcade gaming culture; teenage romance; some violence (in-game fighting game context)
-
-T rating — appropriate for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★★ |
+- The best manga I have read about 1990s arcade culture — and it earns its romance through one of the strangest, most touching relationships in the medium
+- Akira Ono never speaks a single word, and somehow she is the loudest character in the book
+- 10 volumes, complete in English; rated T (Teen) — mild fighting-game violence and one very famous slap
 
 ## Story Overview
 
-It is 1991. Haruo Yaguchi is a mediocre student who is excellent at exactly one thing: arcade fighting games. In his world, this matters more than grades.
+It is 1991. Haruo Yaguchi is twelve, a loner, a bad student, and the best Street Fighter II player at his elementary school — which, in his head, is the only ranking that counts. The arcade is his whole world.
 
-Akira Oono is the top student at his school, from a wealthy family, and by all external measures his opposite. At the arcade, she beats him at Street Fighter II without apparent effort. She is better than him.
+Then he meets Akira Ono. She is the top student in his grade, beautiful, and from the Ono zaibatsu, one of those impossibly wealthy families. She is also, it turns out, slumming it in the same grimy arcade Haruo treats as a temple — and she beats him at Street Fighter II thirty times in a row, without changing her expression once. Akira does not speak. Not to Haruo, not to anyone. Everything she communicates, she communicates through her face, her posture, and the characters she picks on the select screen.
 
-Haruo cannot accept this. He keeps challenging her. She keeps winning. Something begins to develop between them that neither of them has a name for, partly because they are twelve years old and partly because Akira has never spoken a word to anyone, and they have to figure out how to have a relationship in which only one of them talks.
+Haruo cannot stand losing to her, so he keeps coming back, and somewhere in the endless rematches a friendship forms that neither of them has the words for — literally, in her case. The manga follows them from age twelve to around seventeen, through the years when Akira's family ships her abroad, when a second girl named Koharu Hidaka enters the picture, and when the arcades themselves start slowly dying as home consoles take over. It is a coming-of-age story measured in console generations.
 
 ## Characters
 
-**Haruo Yaguchi** — A protagonist whose gaming skill is real and whose emotional intelligence develops across nine volumes at exactly the pace it should.
+**Haruo Yaguchi** — The loud one. Haruo says everything out loud, often the wrong thing, usually about games. His whole arc is learning that the feelings he has about Akira are not the same as the feelings he has about winning, and that he is far too dense to tell the difference at first. Watching him slowly grow a heart over ten volumes is the spine of the book.
 
-**Akira Oono** — One of manga's most distinctive romantic leads; her communication through facial expression, body language, and gaming choices is the series' most inventive characterization.
+**Akira Ono** — The silent prodigy. She never speaks, yet she is never blank. Oshikiri makes her readable entirely through art: a tilt of the head, a flicker of the eyes, the way she body-slams Haruo when she is happy. Her family has a future planned for her that has nothing to do with arcades or with a boy like Haruo, and the tension between what she wants and what she is allowed is the engine of the whole story.
 
-## Art Style
+**Koharu Hidaka** — A classmate who is shy and ordinary at the start, and who falls for Haruo after he teaches her games. She becomes genuinely skilled, and genuinely heartbroken, and the manga refuses to treat her as a disposable love-triangle obstacle. Her feelings are real and they cost her.
 
-Oshikiri's art is expressive and precise in its period detail — the arcade machines, the games, the clothing, and the specific atmosphere of early 90s Japan are rendered with evident love.
-
-## Cultural Context
-
-Hi Score Girl is a period piece about Japanese arcade culture at its peak — the early 90s when fighting games were social spaces, when arcade performance was genuine social currency, and when the specific culture around games was distinct from home gaming. This specific context is the series' texture.
+**Kotaro Miyao** — Haruo's friend from junior high, more casual about the arcade scene than Haruo is. He plays the role of the guy standing slightly outside the romance, watching these two idiots fail to understand each other, which is also how the reader feels.
 
 ## What I Love About It
 
-Akira's non-verbal communication. The entire romance is carried by a character who doesn't speak, communicated through visual means — facial expressions, what she chooses to do and not do in games. Oshikiri makes this work across nine volumes without it becoming a gimmick.
+What I love is that Oshikiri made a romance where the female lead never speaks, and instead of treating it as a gimmick, he treats it as a craft problem and solves it page after page. Akira's whole inner life has to land through drawing alone. So when Haruo says something stupid, you watch her eyebrows move a millimeter, and you know exactly how angry she is. When she is happy, she does not smile politely — she tackles him to the ground. The manga teaches you her language the same way Haruo learns it, slowly, by paying attention, and by the third volume I realized I was reading her face faster than I read the dialogue balloons.
 
-## What English-Speaking Fans Say
-
-Western readers describe Hi Score Girl as the definitive manga about early 90s gaming culture — specifically noted for the period gaming detail being accurate and nostalgic, for Akira being genuinely charming despite (because of?) never speaking, and for the romance development across nine volumes being one of the most satisfying in slice-of-life manga. Consistently recommended as essential.
+The other thing is the games. Oshikiri does not use "arcade" as set dressing. He draws the actual cabinets, the actual fighting-game match-ups, the specific feeling of the early '90s when being good at Street Fighter II was real social currency among kids who had nothing else. As someone who grew up haunting those places, I kept getting ambushed by recognition — the sticky buttons, the crowd watching over your shoulder, the way a thirty-loss streak feels like the end of the world when you are twelve. It made me believe these characters, because their world was rendered with a love I personally understood.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The first moment when Haruo realizes that what he feels about Akira losing is different from what he feels about losing himself — and has to figure out what this difference means — is the series' most precisely written romantic turn.
+Two scenes own me. The first is small: early on, desperate to finally beat Akira at Street Fighter II, Haruo resorts to cheap, underhanded tactics — and the silent girl, without a word, slaps him across the face. It is the first time she touches him and the first time he understands she has standards he just violated. That slap launches the entire relationship.
 
-## Similar Manga
-
-- **Monthly Girls' Nozaki-kun** — Creative subculture with similar character comedy
-- **Wotakoi** — Gaming/otaku culture with similar cultural specificity
-- **Kaguya-sama** — Romance where both protagonists refuse to say what they feel
-- **Bakuman** — Creative passion as romance foundation
-
-## Reading Order / Where to Start
-
-Volume 1 — 1991, the arcade, and the first encounter establish everything.
-
-## Official English Translation Status
-
-Square Enix Manga published the complete English series. All 9 volumes available.
+The second is the one I think about for days. Akira's family sends her abroad, and Haruo — who has spent the whole time pretending he does not care — shows up cold and distant at the airport, holding a cheap plastic ring he won out of an arcade machine. And Akira, the girl who never reacts, fights her way past the family minders escorting her, runs back, grabs him, and cries openly. The girl who has spent volumes saying nothing finally says everything, and she does it without a single word. I had to put the book down.
 
 ## Pros & Cons
 
 **Pros**
-- Period gaming detail is accurate and nostalgic
-- Akira is genuinely distinctive as a romantic lead
-- Romance development is satisfying
-- Complete at 9 volumes
+- A wordless heroine who is somehow the most expressive character in the manga
+- Period arcade detail that is accurate, specific, and rendered with obvious love
+- A love triangle (Koharu) that is given real weight instead of being a punchline
+- Complete at 10 volumes, with a real ending — no eternal hiatus
 
 **Cons**
-- Gaming culture specificity may not resonate for non-gamers
-- Period setting creates some historical distance
-- Akira's non-verbal communication requires patience
+- If you have zero nostalgia or curiosity for '90s arcade fighting games, some of the texture will pass you by
+- The early volumes are comedy-forward; the deeper emotion takes a while to build
+- A romance carried by facial expression instead of dialogue asks for patience — that's either the whole appeal or a dealbreaker, and it won't work for everyone
 
-## Format Comparison
+## Is Hi Score Girl Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Square Enix Manga; complete series |
-| Digital | Available |
+Yes. It is funny, it is specific, it is complete, and it pulls off the hardest trick in romance manga: making you fall for a character who never speaks. If you ever loved an arcade, or ever loved someone you could not find the words for, this one is for you.
+
+## Similar Manga
+
+| Title | Its Approach | How Hi Score Girl Differs |
+|---|---|---|
+| Wotakoi: Love Is Hard for Otaku | Adult gamers and otaku navigating romance through shared hobbies | Hi Score Girl is a coming-of-age set in childhood, with one lead who literally cannot speak |
+| Kaguya-sama: Love Is War | Two prideful geniuses who refuse to confess first | Hi Score Girl's silence is genuine, not strategic — Akira simply does not talk |
+| Yotsuba&! | Slice-of-life charm built almost entirely on expressive cartooning | Hi Score Girl aims that expressive art at a years-long teenage romance |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Hi+Score+Girl+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=Hi+Score+Girl+manga+volume+1&i=stripbooks&tag=dearmanga-20)
 
 ---
 

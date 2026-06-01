@@ -1,132 +1,107 @@
 ---
-title: "I Want to Eat Your Pancreas Review: A Girl Who Is Dying Chooses to Spend Her Remaining Time With Someone Who Doesn't Care"
+title: "I Want to Eat Your Pancreas Review: A Dying Girl Picks the One Classmate Who Won't Pity Her"
 slug: "i-want-to-eat-your-pancreas"
 genre: "Slice of Life / Drama"
 genreSlug: "slice-of-life"
 mangaTitle: "I Want to Eat Your Pancreas"
 mangaTitleJa: "君の膵臓をたべたい"
-mangaAuthor: "Yoru Sumino / Makoto Sugaru"
-serialization: "Standalone"
-publisher: "Square Enix / Seven Seas"
-volumes: 1
+mangaAuthor: "Yoru Sumino (original story) / Idumi Kirihara (art)"
+serialization: "Monthly Action"
+publisher: "Futabasha / Seven Seas Entertainment"
+volumes: 2
 status: "Completed"
 englishVolumes: 1
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["terminal illness", "death", "grief"]
-description: "Yu's review of I Want to Eat Your Pancreas — a high school boy accidentally discovers his classmate Sakura is dying of pancreatic disease; she decides she wants him, precisely because he doesn't react with pity, to share her remaining time; the title comes from a folk belief that eating a sick organ will heal it; an adaptation of the novel by Yoru Sumino."
+read: true
+rewritten: "2026-06-01"
+contentWarnings: ["terminal illness", "death", "grief", "violence"]
+description: "Yu's review of the I Want to Eat Your Pancreas manga — Idumi Kirihara's adaptation of Yoru Sumino's novel. A withdrawn boy finds classmate Sakura Yamauchi's secret diary and learns she's dying of a pancreatic illness. She chooses him precisely because he won't treat her like a dying girl. Seven Seas collected the two Japanese volumes into one English omnibus."
 coverImage: "/covers/i-want-to-eat-your-pancreas.jpg"
-amazonASIN: "1626927561"
+amazonASIN: "1642750328"
 publishedAt: "2026-01-12"
-tags: ["slice-of-life", "drama", "romance", "completed", "teen", "seven-seas", "one-volume"]
+tags: ["slice-of-life", "drama", "romance", "completed", "teen", "seven-seas"]
 rating: 5
 hasAffiliate: true
 ---
 
+I read this one on a train, which was a mistake. I told myself it was just a sad-girl story, the kind I'd put down halfway. By the last forty pages I was holding the book up close to my face so the person across from me wouldn't see I was crying. I'm not proud of how badly it got me. But I think you should know that going in.
+
+What stayed with me isn't the illness. It's the boy. A kid who decided, somewhere along the way, that the safest thing was to need no one — and a girl who walks straight into that and refuses to let him keep it.
+
 ## Quick Take
 
-- The title is deliberately provocative — the folk belief it references (eating a sick organ heals it) frames the protagonist's desire to live fully rather than being a morbid joke
-- Sumino's novel creates genuine emotional force through the specific dynamic: a girl who is dying and a boy who initially doesn't care, and what happens to both of them through proximity
-- One volume manga adaptation; the novel is the more complete experience; the manga captures the emotional core effectively
-
-## Who Is This Manga For?
-
-- Readers who want slice of life with genuine emotional weight and grief at its center
-- Anyone who has experienced terminal illness in someone close and wants fiction that handles it without sentimentality
-- Fans of the drama tradition in manga that treats death as something that actually changes people
-- Readers who want a complete, one-volume emotional experience
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Terminal illness is the premise; death occurs and is depicted with full emotional weight; grief is the work's primary subject
-
-The T rating is accurate. This is emotionally demanding but not graphic.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★★☆ |
+- This is the **manga adaptation by Idumi Kirihara** of Yoru Sumino's novel — not the novel, not the films. Seven Seas collected both Japanese volumes into a single complete English book.
+- The hook is a folk superstition (eat a sick person's organ and you take their illness, or you live on inside them) that the title turns into something tender instead of grotesque.
+- **Age rating: T (Teen).** Terminal illness and a sudden violent death are central, but nothing is drawn graphically.
 
 ## Story Overview
 
-The protagonist — whose name is not given until the end — finds Sakura Yamauchi's illness diary by accident in a hospital waiting room. Sakura is his classmate. She is dying of pancreatic disease and has told no one except her family. He keeps her secret, and she decides she wants to spend time with him precisely because he doesn't treat her differently.
+A quiet, withdrawn high schooler is killing time in a hospital waiting room when he finds a worn paperback on the floor. It's a diary titled *Living with Dying*. It belongs to Sakura Yamauchi — a bright, popular girl in his class — and it lays out a secret she's told no one outside her family: she has a pancreatic disease, and she doesn't have long.
 
-Their relationship over the time she has remaining is not a romance in any conventional sense — it is the specific intimacy that develops when two very different people are forced by circumstance into honest proximity. What he learns about what it means to be alive, and what she learns about having kept her dying secret, is the work's subject.
+She catches him reading it. And then she does the thing the whole story turns on: instead of swearing him to silence and pushing him away, she pulls him closer. Precisely because he doesn't gasp, doesn't pity her, doesn't soften his blunt edges — she decides she wants to spend her remaining time with him.
+
+What follows is a string of ordinary, slightly reckless days. They eat together, travel out to Fukuoka, visit shrines, dare each other, argue. She drags him into the world; he, almost despite himself, becomes someone she can be honest with. The turn comes near the end, and it's not the one the premise sets you up for. Sakura is killed — stabbed by a random attacker — before the illness ever takes her. The book's final stretch is the boy learning her real name for him, and what to do with the silence she left.
 
 ## Characters
 
-**The Protagonist** — His initial indifference to Sakura's dying is not coldness but the specific detachment of someone who has organized himself around minimal emotional engagement. His change through the course of the work is the most honest character arc the premise could generate.
+**Haruki Shiga (the protagonist)** — For most of the book he's just "Boku" (me); his name is held back on purpose until the end. He's organized his whole life around needing nobody, and he reads that as peace. Sakura's pull on him isn't a sudden personality swap — it's a slow, grudging admission that he wants to be chosen, and that he's terrified of it. His arc lands in the final pages, when he finally has a name to give.
 
-**Sakura Yamauchi** — She is not a symbol of vitality or a lesson for the protagonist — she has her own fears, her own specific relationship with what is happening to her, and her choice to spend time with him is not entirely selfless. She is complicated rather than saintly.
+**Sakura Yamauchi** — The crucial thing Kirihara protects is that Sakura is not a saintly dying angel. She's loud, pushy, sometimes cruel, often scared. Her cheerfulness is partly armor. Her reasons for picking Haruki aren't selfless either — she's curious about a person who treats her like a person and not a diagnosis. She's a full character, not a lesson.
 
-## Art Style
-
-Sugaru's manga art captures the warmth and melancholy of Sumino's novel effectively — the character designs convey the specific quality of the protagonists' relationship through visual language rather than relying on the prose. The quieter chapters, depicting ordinary time together, are the art's strongest moments.
-
-## Cultural Context
-
-I Want to Eat Your Pancreas belongs to a Japanese literary tradition of terminal illness narratives — a tradition that includes works like A Silent Voice and The Fault in Our Stars in terms of mainstream reception, but that is more specifically Japanese in its handling of the emotional restraint both protagonists maintain. The indirect communication of feelings is culturally specific and central to the work's emotional logic.
+**Kyoko** — Sakura's best friend, fiercely protective, who can't understand why Sakura keeps drifting toward this gloomy nobody. She doesn't know about the illness. Her role pays off after the ending, when Haruki seeks her out — the two people who loved Sakura most, finally able to grieve together.
 
 ## What I Love About It
 
-The scene where Sakura reveals what she has actually been afraid of — not dying but what dying means for the people who will remain — is the work's most emotionally precise moment and the fullest statement of what the novel understands about mortality that most fiction misses.
+There's a running joke that's also the emotional spine of the book: nicknames. Sakura refuses to call Haruki anything normal, cycling through dismissive labels for him, and he answers in kind. It reads as banter. But what Kirihara is quietly building is that these two have decided, without ever saying so, that the ordinary words — friend, girlfriend, boyfriend — are too small and too cliché for whatever this is. They invent their own language instead.
 
-## What English-Speaking Fans Say
-
-Western readers consistently describe I Want to Eat Your Pancreas as one of the most emotionally affecting manga available in English. The ending's specific construction — what happens and how — is described as either devastating or earned depending on readers' tolerance for narrative choices that subvert expectation. Almost all describe it as having made them cry.
+That's why the title hits the way it does. "I want to eat your pancreas" starts as the morbid folk belief Sakura jokes about — but by the end it's been re-pointed into the most direct confession either of them is capable of. It means *I want to take part of you into me. I want to keep living because of you.* Watching a phrase that gross become the tenderest thing in the book is the trick the whole adaptation is built to pull off, and Kirihara's art — soft, unshowy, strongest in the quiet panels of them just sitting together — sells it without ever getting sentimental. The restraint is the point. Two kids who can't say the real words, so they say the strangest one instead.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The final chapters — what actually happens to Sakura, and the protagonist's response — are the work's most important narrative choice. The specific nature of what happens (not her illness) is the work's refusal to be the story it appears to be, and it is either the most affecting or most frustrating choice depending on the reader.
+Sakura is released from a long hospital stay and they agree to meet at a café. Haruki, finally ready to stop hiding behind the joke, texts her the four words that have become their private vow: *I want to eat your pancreas.* She doesn't reply. She doesn't show up.
 
-## Similar Manga
+She never read it in time. On her way to him, she was stabbed to death by a random attacker in the street — nothing to do with the pancreas, nothing earned, nothing the story warned you about. That refusal is the book's bravest and most divisive move: the illness gave them borrowed time, and then time was stolen a second way entirely.
 
-- **A Silent Voice** — Drama with disability and communication at its center
-- **Your Lie in April** — Drama with terminal illness and music
-- **March Comes in Like a Lion** — Slice of life with depression and grief
-- **Fruits Basket** — Drama with loss and emotional recovery
-
-## Reading Order / Where to Start
-
-The manga (one volume) — or the novel first, for the fuller experience.
-
-## Official English Translation Status
-
-Seven Seas published the manga adaptation (one volume). Complete and available. The novel is also available from Seven Seas.
+The part that wrecked me comes after. Haruki can't bring himself to the funeral, but eventually goes to Sakura's house and her mother gives him the diary, as Sakura had asked. Inside is her will — and the line that she'd thought she loved him but wouldn't cheapen it with words like "girlfriend," that he was the first person she ever truly chose. She ends it the same way he texted her: *I want to eat your pancreas.* They'd both arrived at the same sentence, alone, and missed each other by a day. Then he finally tells her mother his name — Haruki, "spring trees," next to Sakura, "cherry blossom" — and you realize their names were quietly paired the whole time.
 
 ## Pros & Cons
 
 **Pros**
-- The protagonist dynamic is more honest than most terminal illness fiction
-- Sakura is not a symbol — she is a complete character
-- The ending's narrative choice is brave
-- Complete in one volume
+- The central dynamic — a girl who's dying, a boy who refuses to perform grief — is more honest than most stories with this setup
+- Sakura is written as a whole, contradictory person, not a tragic symbol
+- The nickname motif and the title's double meaning pay off beautifully
+- Self-contained: one complete English book, no commitment to a long series
 
 **Cons**
-- The ending's narrative choice is divisive
-- The manga is less complete than the source novel
-- The T rating understates the emotional weight
+- Some readers find the random-murder ending a cheap gut-punch rather than an earned one
+- As a 442-page adaptation it moves fast; the novel breathes more
+- It's a story built to make you cry about a dying teenager — that won't work for everyone, and that's fine
 
-## Format Comparison
+## Is I Want to Eat Your Pancreas Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Manga (Single Volume) | Seven Seas; complete |
-| Novel | Seven Seas; the source and more complete |
-| Digital | Available |
+Yes — if you want a short, complete, emotionally exact story about two teenagers and the words they can't say. It's honest where most terminal-illness fiction is manipulative, and its boldest choice (a death that has nothing to do with the illness) is also the thing that splits readers down the middle. Go in knowing it intends to break your heart, and let it.
+
+## Content Warnings & Age Rating
+
+**Age Rating**: T (Teen)
+**Content Warnings**: Terminal illness as the premise; a sudden violent death (stabbing); grief and loss throughout
+
+The T rating fits. It's emotionally heavy but never graphic.
+
+## Similar Manga
+
+| Title | Its Approach | How I Want to Eat Your Pancreas Differs |
+|---|---|---|
+| A Silent Voice | Guilt and repair built around disability and communication | Pancreas is shorter and centers a dying-but-defiant girl rather than a bully's redemption |
+| Your Lie in April | Music and slow-revealed terminal illness, lushly drawn | Pancreas is plainer, blunter, and refuses the "illness takes her" ending you expect |
+| Orange | Letters from the future try to prevent a classmate's death | Pancreas has no fix and no do-over; it's about accepting what can't be changed |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=I+Want+to+Eat+Your+Pancreas+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/Want-Eat-Your-Pancreas-Manga/dp/1642750328?tag=dearmanga-20)
 
 ---
 
