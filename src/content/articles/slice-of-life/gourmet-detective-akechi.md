@@ -1,5 +1,5 @@
 ---
-title: "Gourmet Detective Akechi Review: The Food Mystery Manga Where Every Clue Tasted Like Something"
+title: "Gourmet Detective Akechi Review: A Food Manga Where the Killer Is in the Recipe"
 slug: "gourmet-detective-akechi"
 coverImage: "/covers/gourmet-detective-akechi.jpg"
 genre: "Slice of Life / Mystery"
@@ -7,135 +7,102 @@ genreSlug: "slice-of-life"
 mangaTitle: "Gourmet Detective Akechi"
 mangaTitleJa: "美食探偵 明智五郎"
 mangaAuthor: "Akiko Higashimura"
-serialization: "Big Comic Spirits"
-publisher: "Shogakukan"
-volumes: 5
-status: "Completed"
+serialization: "Cocohana"
+publisher: "Shueisha"
+volumes: 10
+status: "Hiatus"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
-contentWarnings: ["mystery themes", "murder investigation", "food content"]
-description: "Gourmet Detective Akechi follows Akechi Goro, a brilliant and eccentric detective who solves crimes through his extraordinary sense of taste — Akiko Higashimura's food-mystery manga that combined culinary detail with detective structure."
+contentWarnings: ["murder", "poisoning", "mild violence"]
+description: "Gourmet Detective Akechi follows Goro Akechi, a gourmet private detective in Omotesando who solves murders through food — Akiko Higashimura's suspense manga where every recipe hides a motive and a serial killer named Maria of Magdala keeps circling back to him."
 publishedAt: "2026-04-16"
-tags: ["slice-of-life", "mystery", "food", "completed", "higashimura"]
+read: true
+rewritten: "2026-06-01"
+tags: ["slice-of-life", "mystery", "food", "higashimura", "suspense"]
 rating: 3
 hasAffiliate: false
 ---
 
-The crime scene was a restaurant. The evidence tasted like butter and regret.
+I came to this one for the wrong reason. I am a huge Akiko Higashimura fan — Princess Jellyfish got me through a bad winter — and I assumed "her food manga" would be a cozy, funny thing I could read with tea. It is not that. About forty pages in, a wife has murdered her husband, and Akechi has invited her to a fancy French dinner to gently pull her motive out of her over the meal. I put the tea down. This is a murder manga that happens to be obsessed with food, and the food is never just decoration.
 
 ## Quick Take
 
-- Akiko Higashimura's 5-volume food mystery — Akechi Goro, detective of extraordinary taste, solving cases through culinary perception
-- The manga that became a live-action drama adaptation — Higashimura's lighter register than Princess Jellyfish but unmistakably hers
-- Short, charming, and completely committed to the premise that flavor is evidence
+- Akiko Higashimura's suspense manga (10 volumes, on hiatus since 2022) about Goro Akechi, a gourmet detective who reads crimes through taste and ingredients
+- It pairs Higashimura's comedy with a genuinely dark serial-killer throughline — the antagonist "Maria of Magdala" recruits people who want to kill
+- Age rating: T (Teen) — murder and poisoning drive the plot, but nothing is drawn graphically
 
 ## Who Is This Manga For?
 
-- **Food manga fans** who want mystery structure alongside culinary detail
-- **Akiko Higashimura readers** who want to see the creator's range beyond her major works
-- **Mystery manga readers** who want an unusual detective premise
-- **Readers who want something short** — 5 volumes, complete, a single sitting experience
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Mystery investigations, murder cases, food content. Nothing graphic.
-
-Suitable for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
+- **Higashimura readers** who want to see her in suspense mode, far from the shoujo register
+- **Food manga fans** who want stakes higher than a cooking contest
+- **Mystery readers** who like a recurring nemesis more than a case-of-the-week reset
+- **Readers okay with an unfinished story** — it's been on hiatus, not completed
 
 ## Story Overview
 
-Akechi Goro is a detective who has devoted himself to food — not as pleasure but as information. His extraordinary palate allows him to detect poisons, identify ingredients, trace sources, and reconstruct the circumstances of a meal with forensic precision. His assistant Mariha is a professional food writer who is simultaneously essential to his investigations and completely overwhelmed by his personality.
+Goro Akechi runs the Edogawa Detective Agency out of a prime spot in Omotesando. He's a famous detective and an unapologetic gourmet — he wears a wine-red suit and a loop tie, and rates dishes by whether they make his shortlist for a hypothetical "last supper." The series opens on what looks like an ordinary infidelity case: a wife hires him, the husband she's been tailing turns up dead, and Akechi works out that the client herself is the killer. Instead of cuffing her, he takes her to an expensive French restaurant and lets the meal draw the motive out — she killed her husband because she discovered he'd been eating all kinds of wonderful food on his lunch breaks with another woman. Food as the wound, food as the confession.
 
-Each case uses food as both setting and evidence: a poisoned restaurant course, a dish that reveals its maker's emotional state, a flavor combination that proves impossible under stated circumstances. The mystery structure is classic — premise, investigation, revelation — but the specific evidence is always culinary, which makes the series distinct within the genre.
+That woman doesn't go to prison. She survives, renames herself "Maria of Magdala," and becomes the engine of the whole series — a serial killer who gathers people harboring murderous intent and helps them act on it, all while staying fixated on Akechi himself. So the structure isn't a clean monster-of-the-week. Individual food-and-murder cases keep threading back to Maria, and the real tension is the magnetic, poisonous pull between her and the detective who can't quite catch her. It builds toward late arcs involving mass poisonings — including aconite (torikabuto) hidden in food at a banquet.
 
-Higashimura's comedic instincts are present throughout: Akechi is eccentric in ways that are genuinely funny, Mariha's reactions ground the absurdity, and the food descriptions have the loving specificity of someone who finds cooking as interesting as the creator clearly does.
+The manga is serialized in Shueisha's Cocohana and ran from 2015, reaching ten collected volumes before going on hiatus in 2022, so the through-line is suspended rather than resolved.
 
 ## Characters
 
-**Akechi Goro**: A detective eccentric in the tradition of brilliant investigators — his food obsession is not quirk but method, which is the series' most interesting choice.
+**Goro Akechi** — The gourmet detective. His palate isn't a gimmick; it's his method. He reconstructs crimes from ingredients, preparation, and what a meal reveals about the person who made or ate it. His weakness is Maria: the smarter the case gets, the more it circles back to a killer he is dangerously drawn to.
 
-**Mariha**: The food writer assistant whose professional knowledge makes her more useful than a generic Watson, and whose exasperation is the series' main comic register.
+**Ichigo Kobayashi** — A 21-year-old who runs a bento wagon called Ichigo Deli and becomes Akechi's reluctant assistant. Her real value is food knowledge — she's a cook, so she catches culinary details Akechi needs. Higashimura mines a running gag here: Akechi insists on calling her "Kobayashi No. 1," and she corrects him every single time with "It's Ichigo!" It's the warmth that keeps the darkness readable.
 
-## Art Style
-
-Higashimura's character designs have the expressiveness her readers know from Princess Jellyfish and Tokyo Tarareba Girls — the faces carry comedy and weight in equal measure, and the food itself is rendered with the detail the premise requires. Presentation matters: the dishes look like they should be eaten.
-
-## Cultural Context
-
-Gourmet Detective Akechi ran in Big Comic Spirits from 2017 to 2019. It was adapted into a live-action drama series in Japan, which expanded the work's visibility beyond the manga readership. Higashimura's profile with more general audiences — not just manga readers — was established enough by this point that a drama adaptation was commercially viable.
-
-The manga fits the tradition of food-and-something hybrid manga: food-and-mystery rather than food-and-competition or food-and-culture.
+**Maria of Magdala** — The antagonist, and the manga's best idea. Real name and age unknown, she's the wife from the first case, reborn as a killer who supplies "wisdom and assistance" to others who want to murder. She's obsessed with Akechi, and the series treats their relationship as something close to a doomed romance — which is what makes the suspense personal instead of procedural.
 
 ## What I Love About It
 
-I love the premise's commitment.
+What I love is that Higashimura refuses to let the food be cute. In a lesser version of this premise, "a detective who solves crimes with his tongue" is a one-joke gimmick. Here, the food is always tied to *why* someone killed someone. The opening case is the clearest example: the murder weapon isn't really a knife, it's resentment built up over a husband secretly eating delicious meals with another woman. Akechi doesn't extract that confession in an interrogation room. He extracts it across a beautiful French dinner, because the only way to understand a food-shaped grievance is over food. That scene reframed the whole book for me. The eating isn't a break from the mystery — it *is* the mystery.
 
-Food as forensic evidence is a premise that could be played for one joke and then ignored. Higashimura takes it seriously throughout — every case uses taste and flavor as actual investigative tools, not just window dressing. The dedication to the bit is what makes it work.
-
-## What English-Speaking Fans Say
-
-Known primarily through the live-action drama adaptation internationally. The manga is recognized among Higashimura readers as a lighter, more genre-focused work than her major titles, and praised for its premise commitment and the Akechi/Mariha dynamic.
+And then there's the tone whiplash, which I didn't expect to love but did. Higashimura keeps her comedic instincts — Akechi's vanity, the "Kobayashi No. 1" bit, the loving over-description of every plate — sitting right next to genuine cruelty and a serial killer who keeps escalating. Most creators can't hold those two registers in the same panel. She can. The comedy doesn't undercut the dread; it makes the dread sneak up on you, because you let your guard down to laugh. By the time the cases turn to mass poisoning, I trusted that the silliness and the menace came from the same author on purpose.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-Akechi's first full demonstration of his method — tasting a dish and reconstructing not just its ingredients but the emotional and circumstantial context in which it was made. The scene establishes that his ability is genuinely unusual rather than just stylistically presented, and makes the reader believe the premise before it asks them to follow a case on its basis.
+The one that stuck with me is from the climactic poisoning plot. Maria and an accomplice disguise themselves as workers at a Japanese sweets shop and lace wagashi with aconite, a lethal poison, to be handed out before a banquet. Maria injects Ichigo with the same poison. It looks like the assistant we've spent the whole series with is simply gone.
+
+But the chef, Ito, had already swapped the poison out for a non-lethal substitute before the dinner, so after Maria escapes, Ichigo wakes up. What lands is the aftermath: Ichigo, alive, keeps quiet to Akechi about worrying over where Maria went, and goes back to quietly cooking at his side. It's such a Higashimura ending-beat for an arc — the violence is real, the survival is almost an anticlimax on purpose, and what's left is two people not saying the thing they're both feeling about a killer neither of them can let go of. Food saved a life here, literally, by being switched in a kitchen nobody was watching.
+
+## Pros & Cons
+
+**Pros**
+
+- A food-detective premise that actually commits — taste is the method, not a quirk
+- Maria of Magdala is a memorable, genuinely unsettling antagonist
+- Higashimura balances comedy and dread better than almost anyone
+- The art renders both the dishes and the menace with real expressiveness
+
+**Cons**
+
+- No official English edition
+- It's on hiatus — the central story isn't finished
+- The case-to-case structure can feel uneven next to the Maria throughline
+- The tonal swings between comedy and murder won't work for everyone — if you want either cozy food manga *or* a straight thriller, this is neither
+
+## Is Gourmet Detective Akechi Worth Reading?
+
+If you like Higashimura, or you want a food manga with actual stakes, yes — the premise is executed with care and Maria makes it linger. Just go in knowing two things: it's darker than its food-manga shelf placement suggests, and it's unfinished. As a suspense series where every recipe hides a motive, it delivers something I haven't found anywhere else.
 
 ## Similar Manga
 
 | Title | Its Approach | How Gourmet Detective Akechi Differs |
 |---|---|---|
-| Oishinbo | Food culture investigation with journalism structure | Mystery structure rather than journalism — the food is evidence, not subject |
-| Drops of God | Wine as mystery/revelation with family stakes | More traditional mystery structure; food (taste) is the method rather than the subject |
-| Yotsubato! (same creator) | Wait, different creator | Higashimura's Princess Jellyfish: female protagonist ensemble comedy — Akechi is her genre piece |
-
-## Reading Order / Where to Start
-
-Volume 1. The premise establishes immediately and the 5 volumes read most naturally in sequence.
-
-## Official English Translation Status
-
-Gourmet Detective Akechi has no official English translation.
-
-## Pros & Cons
-
-**Pros**
-- A genuinely novel detective premise executed with commitment
-- Higashimura's comedic instincts make the eccentricity work
-- Short — 5 volumes, a contained experience with no bloat
-- The food descriptions are genuinely good
-
-**Cons**
-- No English translation
-- The mystery structure is conventional aside from the food element
-- 5 volumes is short enough that character development is limited
-- Won't satisfy readers who want Higashimura's full emotional range — this is lighter than her major works
-
-## Is Gourmet Detective Akechi Worth Reading?
-
-For food manga fans and Higashimura readers who want to see the creator in a different register, yes — the premise is genuinely fun and executed with care. For readers who want deeper mystery or fuller character development, the 5-volume length limits what's possible. As a light, distinctive food mystery, it delivers exactly what it promises.
-
-## Format Comparison
-
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available |
-| Digital | Available in Japanese |
-| Omnibus | Not applicable (5 volumes) |
+| Oishinbo | Food culture explored through journalism | Akechi uses food as evidence in murder cases, not as a subject of reporting |
+| Drops of God | Taste as the key to a high-stakes inheritance mystery | Akechi's stakes are literal murder, and his nemesis is a recurring serial killer |
+| Princess Jellyfish (same author) | Ensemble shoujo comedy about misfits | Same comedic voice, but pointed at suspense and a body count |
 
 ## Where to Buy
 
 No English release yet. That just means you find it before everyone else does.
 
+You can read the Japanese edition (Shueisha / Margaret Comics) on Amazon Japan:
+
+[Find it on Amazon.co.jp →](https://www.amazon.co.jp/s?k=美食探偵+明智五郎&tag=yushi745-22)
+
 ---
+
+This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.

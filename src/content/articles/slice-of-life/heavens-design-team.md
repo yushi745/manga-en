@@ -1,142 +1,113 @@
 ---
-title: "Heaven's Design Team Review: God Outsourced Creation, and These Are the Consultants"
+title: "Heaven's Design Team Review: God Outsourced the Animals, and the Office Is a Mess"
 slug: "heavens-design-team"
 coverImage: "/covers/heavens-design-team.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Heaven's Design Team"
 mangaTitleJa: "天地創造デザイン部"
-mangaAuthor: "Hebi-zou / Tsuta Suzuki"
-serialization: "Monthly Morning Two"
+mangaAuthor: "Hebi-zou (creator), Tsuta Suzuki (story), Tarako (art)"
+serialization: "Morning Two"
 publisher: "Kodansha / Kodansha Comics"
-volumes: 10
-status: "Completed"
-englishVolumes: 10
-englishStatus: "Complete"
+volumes: 9
+status: "Ongoing"
+englishVolumes: 9
+englishStatus: "Ongoing"
 ageRating: "All Ages"
 contentWarnings: ["none significant"]
-description: "Heaven's Design Team follows a team of angels who have been contracted by God to design Earth's animals. Each chapter presents a new design brief — God says 'I want a creature that does X' — and the team debates, engineers, and argues their way to something that actually exists in nature."
-amazonASIN: "1646510321"
+description: "Heaven's Design Team imagines that God outsourced the creation of Earth's animals to a design firm of demigods. Each chapter is a new brief — 'I want a creature that does X' — and the team argues, prototypes, and engineers its way to an animal that actually exists, with real biology notes at the end."
+amazonASIN: "1646511131"
 publishedAt: "2026-04-27"
+read: true
+rewritten: "2026-06-01"
 tags: ["slice-of-life", "comedy", "biology", "animals", "educational", "office", "creative"]
 rating: 5
 hasAffiliate: true
 ---
 
+I was the kind of kid who read the little encyclopedia captions at the back of animal books and remembered them better than anything in class. When I had no friends, animals were safe to like. Nobody bullies you for knowing why a giraffe's neck works. So when I found Heaven's Design Team, it felt like someone had taken that lonely habit of mine and turned it into a comedy about a workplace. I did not expect to laugh this much at a manga that is, underneath the jokes, a biology textbook.
+
+The premise is simple and perfect. God made the heavens and the Earth — but, the manga says, he outsourced the animals. There is a design firm full of demigods, and God keeps sending them briefs. "I want something that can eat the leaves at the top of the trees." The team fights about it, builds prototypes that fail in funny ways, and lands on a creature that turns out to be real.
+
 ## Quick Take
 
-- The most educational manga disguised as workplace comedy — you will learn actual biology reading this
-- The office team dynamic is genuinely funny regardless of whether you care about biology
-- Complete at 10 volumes with consistent quality throughout
-
-## Who Is This Manga For?
-
-- **Biology and natural history enthusiasts** who want their interest served through manga
-- **Readers who love workplace comedy** — the design team's interpersonal dynamics are the series' comedy engine
-- **Parents or educators** looking for educational manga that's genuinely entertaining
-- **Anyone who has ever wondered** why animals are the way they are
-
-## Content Warnings & Age Rating
-
-**Age Rating**: All Ages
-**Content Warnings**: None significant — animal biology discussed casually including reproduction and diet
-
-Genuinely appropriate for all ages. One of the most family-friendly series in any genre.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★★★ |
+- A workplace comedy where the "products" are real animals, and the punchlines are actual evolutionary biology
+- The office dynamics carry it even if you do not care about nature — these designers argue like real coworkers
+- Age rating: All Ages — one of the most genuinely family-friendly manga I have read
 
 ## Story Overview
 
-God has outsourced the design of Earth's animal kingdom to a specialized team of angels. Each member has a specialty and a philosophy: one is obsessed with horses and keeps trying to make every animal horse-adjacent; one prefers elegance and clean design; one thinks poison is underused; one loves his snakes with unnerving dedication.
+There is almost no overarching plot, and the manga is honest about that — it is episodic by design. Each chapter opens with a request from God, delivered by Shimoda, the rookie angel who acts as liaison. Shimoda carries a notebook; the designers submit papers with their concepts, and the ones he approves become real animals while the rejects get sent back for revision.
 
-Each chapter presents a new design challenge. "God wants a creature that can eat plants no other animal can eat." The team debates approaches, tries prototypes (which sometimes exist as real animals), and eventually arrives at a solution that became reality. The comedy comes from watching experts argue over genuine constraints — bone density, metabolic requirements, ecological niches — through the lens of creative professionals competing for the best solution.
+Then the team gets to work. They debate the brief, sketch prototypes, run them through testing (Higuchi maintains a whole Galápagos simulation for trials), and watch most early attempts fail in instructive ways — the body collapses, it cannot drink water, the metabolism does not close. Eventually they arrive at a solution, and at the end of the chapter the manga reveals the real animal they "designed," with a page of actual biological notes explaining why it is built that way.
 
-And at the end of each chapter, the design they landed on is revealed as a real animal, with actual biological notes on why it is the way it is.
+The recurring spine, such as it is, comes from the personalities. The team chief is obsessed with making a winged horse / unicorn, and God keeps rejecting it because a flying horse simply does not work — that running gag threads through the series. The comedy is watching specialists argue real constraints (bone density, diet, ecological niche) as if they were a marketing department fighting over a product launch.
 
 ## Characters
 
-**Shimoda**: The angel liaison, new to the job, serving as the reader's proxy. His bewilderment at the team's eccentricities and his growing understanding of the work is the humanizing thread.
+**Shimoda** — the rookie angel assigned to oversee the team and relay God's often-baffling orders. He is the reader's proxy: sensible, friendly, easily bewildered, and the one who approves or kicks back each design. He is also, charmingly, a newly created angel with terrible handwriting who bakes pastries for the office.
 
-**The Design Team**: Each member is defined by their creative obsessions. The horse enthusiast who will not stop. The elegance devotee. The poison specialist. The snake person. They are office comedy archetypes who also happen to know a tremendous amount about animal physiology.
+**Tsuchiya (Saturn)** — the team chief, and the engine of the series' best running joke. He is obsessed with designing a horse-based winged creature / unicorn. His prototypes keep failing — they get osteoporosis, collapse from exhaustion, get the horn stuck in trees — and the design keeps getting rejected as impossible. His refusal to give up is the heart of the comedy.
 
-## Art Style
+**Mizushima (Mercury)** — stoic, efficiency-focused, and quietly fixated on snakes. He is the one who wants the cleanest, most elegant solution, and his deadpan love of reptiles is a recurring note.
 
-Clean, expressive, with the animal designs rendered accurately and appealingly. The "prototype" stages — weird intermediate creatures that didn't make the final cut — are visually inventive. The comedy beats land in the visual medium as well as the dialogue.
+**Kimura (Jupiter)** — the carefree foodie who tastes everything, including the creatures, including the poisonous ones. He is the chaos to Mizushima's order, and his blunt observations ("not being able to drink water would be a major design flaw") cut through debates.
 
-## Cultural Context
-
-The series participates in a Japanese tradition of "learning through entertainment" (gakushuu manga) that dates to Doraemon and is deeply embedded in the culture. The workplace comedy frame modernizes the educational premise — the design team reads as a recognizable contemporary office, with all the attendant dynamics.
-
-Each chapter's biology notes at the end are accurate — the series was developed with scientific input and reflects actual evolutionary biology.
+The wider office rounds it out — Kanamori the dramatic bird specialist, Pluto (Meido) who loves morbid and poisonous designs, the gentle Unabara who makes cute animals, and Higuchi who runs the testing simulation.
 
 ## What I Love About It
 
-This manga taught me things I still think about.
+What I love is that the manga makes natural selection feel like something you can hold in your hands. Most of my school biology was abstract — "organisms adapt to their environment," words that meant nothing. Heaven's Design Team flips it. The environment becomes a client brief, the constraints become engineering problems, and suddenly you understand *why* an animal looks the way it does, because you watched the team bang their heads against the same tradeoffs that real evolution did.
 
-Why don't animals have wheels? What are the actual constraints that produce the body plans we see? Why does the giraffe have a recurrent laryngeal nerve that routes down and back up the neck for no apparently good reason? (Chapter on the giraffe's design: genuinely illuminating.)
+The chapter I keep coming back to is the very first kind of problem: "design something that can eat the leaves at the top of the trees." You watch them reason toward a tall neck, then immediately run into the consequences — the blood pressure, the structural cost, the way a long neck creates new problems while solving one. And then the reveal: it is the giraffe, with real notes about its body. I finished that and went and looked up the giraffe's recurrent laryngeal nerve on my own, because the manga had made me curious in a way no textbook ever did. That is the whole magic. It does not just teach you facts; it teaches you to want them.
 
-Heaven's Design Team takes evolutionary constraints and presents them as design problems. The result is that you understand natural selection from the inside — not as an abstract process but as a series of specific tradeoffs that produced specific solutions. This is a pedagogically excellent approach, and it's wrapped in genuinely funny office comedy.
-
-I finished this manga and immediately started looking at animals differently. That's not something many books of any kind can claim.
-
-## What English-Speaking Fans Say
-
-Enthusiastically received — frequently recommended as the best educational manga currently available in English. Readers with biology backgrounds praise the accuracy; readers without biology backgrounds praise how accessible and entertaining it makes the material.
-
-The anime adaptation (12 episodes) brought wider attention, with viewers often reporting the manga for the more detailed biological notes.
+And the comedy is load-bearing, not decoration. The reason the biology lands is that you are laughing. Kimura eating the toxic prototype, Tsuchiya weeping over his collapsed flying horse, Mizushima defending snakes with a straight face — the jokes keep the science from feeling like homework. I have recommended this to people who say they "hate science manga" and watched them get hooked by the office, then realize they had learned something.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The episode where the team attempts to design the platypus — a creature so full of contradictory features that it reads as a design failure — and gradually realizes that the contradictions are not mistakes but the result of working from incompatible constraints simultaneously. The team's dawning respect for the platypus as a design document of impossible demands is the episode's punchline and its thesis simultaneously.
+The platypus.
 
-## Similar Manga
+The team gets an order to design a "chimera." Kimura (Jupiter) and Mizushima (Mercury) basically gamble for ideas — there is a slot-machine bit — and they end up reaching for a pile of their own failed designs to mash together. A griffin with a duck's head. A shark crossed with a koi that ends up being a shark with no stomach, so it is always hungry. A sea lion / camel / mole hybrid that was written off as a dud. None of these worked on their own.
 
-- **Cells at Work!**: Different approach to biology through manga — same genre of educational entertainment
-- **Dr. Stone**: Science as adventure; different tone, similar respect for actual science
-- **Moyasimon**: Another science-focused manga with similar educational-comedy DNA
-
-## Reading Order / Where to Start
-
-Volume 1. Complete at 10 volumes — fully satisfying from beginning to end.
-
-## Official English Translation Status
-
-Kodansha Comics published all 10 volumes in English. Complete.
+So they jam the rejects together — and out comes the platypus. A mammal that lays eggs, with a duck's bill, that looks like a creature assembled from spare parts because, in the joke's logic, it *was*. The punchline is that the platypus, the animal that real biologists genuinely struggled to classify because it breaks every category, is here the literal product of combining three failures. It is the series' whole thesis as a single gag: the weirdest animals are not mistakes, they are constraints colliding. I laughed, and then I sat there a little stunned, because it is also kind of true.
 
 ## Pros & Cons
 
 **Pros**
-- Genuinely educational AND genuinely funny — both, consistently
-- Complete — full series available
-- Accurate biology with professional consultation
-- Universally accessible across ages and backgrounds
+- Genuinely funny and genuinely educational at the same time — both, consistently
+- The office cast has real comic chemistry; the running gags pay off
+- Each chapter's end-of-chapter biology notes are accurate and make you want to learn more
+- About as accessible as manga gets — all ages, no cultural barrier
 
 **Cons**
-- Light on narrative arc — more anthology than story
-- Character development is not the series' strength
-- Some readers want more story and less educational content
+- It is episodic — there is almost no overarching story or character growth to follow
+- If you come for plot and arcs, the anthology structure will frustrate you
+- Slow-burn, low-stakes, "learn a thing each chapter" comedy won't work for everyone
 
-## Format Comparison
+## Is Heaven's Design Team Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Physical | Kodansha Comics, 10 volumes complete |
-| Digital | Available digitally |
-| Omnibus | Not available |
+Yes — as long as you know what it is. This is not a story with a destination; it is a sketch-comedy office where the bits happen to be real evolutionary biology. If that sounds delightful, it is one of the most rewarding rereads on my shelf. If you need an arc and stakes, look elsewhere.
+
+## Who Is This Manga For?
+
+- **Animal and natural-history nerds** who want their curiosity fed through comedy
+- **Workplace-comedy fans** — the design team bickers like a real office
+- **Parents and educators** wanting something genuinely entertaining and genuinely educational
+- **Anyone who ever wondered** why a specific animal is built the weird way it is
+
+## Similar Manga
+
+| Title | Its Approach | How Heaven's Design Team Differs |
+|---|---|---|
+| Cells at Work! | Teaches human biology by personifying cells as workers | Heaven's Design Team teaches evolution by framing animals as design briefs, not personifying the body |
+| Dr. Stone | Science as survival adventure with a continuous plot | Heaven's Design Team is episodic comedy with no overarching quest |
+| Moyasimon | Microbiology comedy set on a campus | Heaven's Design Team is an office anthology about whole animals, not microbes |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/dp/1646510321?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/1646511131?tag=dearmanga-20)
 
 
 ---
