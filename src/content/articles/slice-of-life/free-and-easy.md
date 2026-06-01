@@ -1,137 +1,105 @@
 ---
-title: "Free and Easy Review: The Salaryman Who Lives for Fishing and the Boss Who Can't Stop Him"
+title: "Tsuribaka Nisshi Review: The Salaryman Who Out-Ranked His Boss by Caring Less About Work"
 slug: "free-and-easy"
 coverImage: "/covers/free-and-easy.jpg"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
-mangaTitle: "Free and Easy"
+mangaTitle: "Tsuribaka Nisshi"
 mangaTitleJa: "釣りバカ日誌"
 mangaAuthor: "Juzo Yamasaki (story) / Kenichi Kitami (art)"
 serialization: "Big Comic Original"
 publisher: "Shogakukan"
-volumes: 110
-status: "Completed"
+volumes: 117
+status: "Ongoing"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
-contentWarnings: ["workplace comedy", "fishing content", "adult social themes", "mild workplace drinking culture"]
-description: "Free and Easy follows Densuke Hamasaki — a completely ordinary salaryman who is also completely obsessed with fishing — and his improbable friendship with Soichiro Suzuki, his company's president, who they first meet while fishing."
+contentWarnings: ["workplace comedy", "social drinking", "mild adult humor"]
+description: "Tsuribaka Nisshi follows Densuke 'Hama-chan' Hamasaki — a dead-average salaryman obsessed with fishing — who unknowingly befriends Ichinosuke 'Su-san' Suzuki, the president of the construction company he works for, after the two meet over a leftover grilled fish."
 publishedAt: "2026-04-26"
 tags: ["slice-of-life", "comedy", "workplace", "fishing", "adult", "classic", "long-running"]
 rating: 4
 hasAffiliate: false
+read: true
+rewritten: "2026-06-01"
 ---
+
+When I was a kid hiding from the people who made my days miserable, I dreamed about being a hero. Naruto. Luffy. People who changed the world. It took me a long time, and a manga about a middle-aged man who just wants to go fishing, to understand that there is another kind of victory — the quiet kind, where you simply arrange your life so the thing you love sits in the center of it. Tsuribaka Nisshi is about a man who won that quiet victory. I did not expect a fishing comedy from 1979 to move me. It did.
 
 ## Quick Take
 
-- One of the longest-running manga in history at 110 volumes — a testament to the universal appeal of its premise
-- The Hamasaki-Suzuki friendship across the corporate hierarchy is one of manga's great odd-couple relationships
-- Pure, warm comedy about a man who has successfully made fishing the center of his life
-
-## Who Is This Manga For?
-
-- **Fishing enthusiasts** who want the hobby's comic dimension alongside Sanpei's serious one
-- **Readers who enjoy Japanese workplace comedy** with an unconventional heart
-- **Fans of long-running comedies** where the pleasure is consistency and companionship
-- **Anyone who has a passion** they love more than their job and has managed to make peace with that fact
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Workplace comedy and social drinking as character beats; the fishing content is its own mild content warning for non-enthusiasts
-
-Very gentle — this is purely feel-good content.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★☆☆☆ |
-| Art Style | ★★★☆☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
+- One of the longest-running manga in publication — over 117 volumes since 1979, and it is still going in Big Comic Original
+- The Hama-chan / Su-san friendship — a nobody salaryman and his own company's president, who never lets rank get in the way — is one of manga's great odd couples
+- Age rating: T (Teen) — gentle adult comedy with some social drinking, nothing graphic
 
 ## Story Overview
 
-Densuke Hamasaki works at Suzuki Construction. He is not ambitious. He is not particularly skilled. He is, by every professional metric, exactly average. What he is is deeply, completely, entirely passionate about fishing — to a degree that should make him unemployable and somehow doesn't.
+Densuke Hamasaki — everyone calls him Hama-chan — is a permanent rank-and-file employee in the sales department of Suzuki Construction. He has no ambition to climb. His supervisor, Sasaki, mockingly calls him the "tsuri-baka," the fishing fool, because his whole life orbits one thing: fishing.
 
-The series begins with Hamasaki on a fishing trip where he encounters another angler: the two men fish together, bond over their shared obsession, and part as friends. The next day, at work, Hamasaki discovers that his new fishing friend is Soichiro Suzuki — the president of his company.
+The premise turns on a single meeting. At a diner near the office, Hama-chan notices an older man who has left the bones and half the meat on his grilled fish. Hama-chan, who believes finishing a fish properly is a kind of respect for the life that fed you, strikes up a conversation and ends up inviting this stranger fishing to cheer him up. He teaches the older man the basics, and the two become friends — a fishing master and his pupil.
 
-This relationship — the completely ordinary employee and the company president, united by fishing and genuinely fond of each other, navigating the absurdity of their friendship across the corporate hierarchy — is the series' engine. Over 110 volumes spanning more than thirty years, it produces comedy, warmth, and an affectionate portrait of adult male friendship.
+The joke, and the engine of the entire series, is that the old man is Ichinosuke Suzuki, the president of Suzuki Construction itself. Hama-chan never recognized his own company's boss. By the time anyone realizes it, the two of them are already calling each other "Su-san" and "Hama-chan" as equals. They keep it that way: Hama-chan insists on keeping public and private life separate, so at the office they are president and lowly employee, and on the water they are just two men who love to fish. The series runs on that contradiction, one episodic chapter at a time, across decades of Japanese working life.
 
 ## Characters
 
-**Densuke Hamasaki**: The protagonist whose complete investment in fishing and complete disengagement from career ambition is the series' premise. He is not stupid or lazy — he is simply correctly ranked in his own priorities. Fishing is first. Work is what he does to support fishing.
+**Densuke Hamasaki (Hama-chan)**: The protagonist. A forever-bottom-rung salesman who treats everyone — janitor or president — exactly the same, with warmth and zero deference to status. His indifference to promotion is not laziness; it is a man who has correctly ranked his own priorities and refuses to apologize for it.
 
-**Soichiro Suzuki**: The company president whose friendship with Hamasaki is completely genuine and completely baffling to everyone around them. His ability to simply be Hamasaki's friend — without the corporate dynamic interfering — requires constant navigation that is the series' comedy.
+**Ichinosuke Suzuki (Su-san)**: The president of Suzuki Construction. The gag is sharper than it first looks: behind his mild, grandfatherly face, Su-san is a hard-nosed boss who will coldly cut loose even founding executives. With Hama-chan he becomes something he is with no one else — a friend, a student, a man allowed to be ordinary.
 
-**Their wives**: Both women have complicated feelings about the fishing obsession that consumes their husbands, and their perspectives provide counterbalance to the male-centric fishing friendship.
+**Michiko Hamasaki**: Hama-chan's wife. She lives with a husband whose obsession would test any partner, and her exasperation and affection ground the comedy in a real marriage rather than a cartoon one.
 
-## Art Style
-
-Kitami's art is clean and warm — character designs that convey personality immediately, expressions that carry the comedy, fishing scenes rendered with genuine affection for the activity. The art is not technically ambitious but is entirely suited to its purpose.
-
-## Cultural Context
-
-釣りバカ日誌 ran from 1979 to 2019 — forty years — in Big Comic Original. This longevity itself is a cultural fact: the series outlasted multiple eras of Japanese workplace culture, adapting its premise through Japan's economic rise, its economic stagnation, and the transformation of corporate life.
-
-The live-action film series (22 films from 1988 to 2009) starring Toshiyuki Nishida as Hamasaki and Rentaro Mikuni as Suzuki is one of Japanese cinema's most beloved franchises. For many Japanese people, these films are as much of a cultural institution as the manga.
+**Sasaki**: Hama-chan's immediate supervisor, the one who pinned the "fishing fool" label on him — the voice of conventional corporate expectation that Hama-chan cheerfully ignores.
 
 ## What I Love About It
 
-I love that Hamasaki has won.
+I love that Hama-chan and Su-san meet over a half-eaten fish.
 
-Not in the dramatic sense — he's not accomplished anything remarkable. But he has managed to organize his life so that the thing he loves most is the center of it, and the things he loves less orbit the edges. He works enough to keep fishing. He is good enough at his job not to be fired. He is unashamed of his priorities.
+It is such a small, specific thing. A salaryman sees an old man who didn't finish his grilled fish and, instead of minding his own business, tells him that eating it properly is how you honor the life you took. That is the whole character in one gesture. Hama-chan doesn't care that this stranger might be important. He doesn't read the room for status. He just sees a person and treats him like one — and that is exactly why the most powerful man in his company falls for him. Not despite the lack of deference. Because of it.
 
-This is a difficult thing to achieve and almost never depicted as the goal in fiction. Usually the lesson is that work-life balance requires compromising the passion, or that the passion is secretly work, or that the passion must eventually yield to responsibility. Hamasaki just... kept fishing. For forty years. The series endorses this completely.
+The deeper thing I love is that the manga endorses Hama-chan completely. In most stories, a man this uninterested in his career would be a cautionary figure — the one who needs to learn responsibility, to grow up, to let the hobby yield to the job. Tsuribaka Nisshi never does that. It started in 1979 and it is still running, and across all those volumes Hama-chan just keeps fishing, keeps refusing to climb, keeps being right about what matters. The series watched Japan's economy boom and crash and reshape its entire idea of work, and through all of it Hama-chan never once apologized for putting fishing first. As someone who spent years being told my escape was a waste of time, I find that quietly radical.
 
-## What English-Speaking Fans Say
+## Memorable Scene ⚠️ Spoiler Warning
 
-Not known in English-speaking markets. The films have very limited international exposure. Among the small community of Japanese popular culture scholars, the series is noted as a significant artifact of how Japanese popular culture thought about work, leisure, and masculinity across four decades.
+The line that stuck with me is Hama-chan's marriage proposal to Michiko: "I'm not confident I can make you happy — but I'm confident I can make myself happy."
 
-## Memorable Scene
-
-A moment late in the series where Hamasaki and Suzuki, older now, are fishing at a spot they first visited decades ago — and the comedy of the chapter is intercut with the genuine weight of how much time has passed and how much the friendship has meant. The series allows itself this moment without sentimentality.
-
-## Similar Manga
-
-- **Sanpei the Fisherman**: Serious fishing manga by comparison — same passion, completely different register
-- **Cooking Papa**: Similar long-running workplace-plus-hobby comedy
-- **Wotakoi**: More recent workplace-plus-hobby comedy, very different execution
-
-## Reading Order / Where to Start
-
-Any volume — the episodic format makes any chapter accessible. Volume 1 for the beginning and the establishment of the Hamasaki-Suzuki friendship.
-
-## Official English Translation Status
-
-Free and Easy has no official English translation.
+It should be the worst proposal ever written. It is, on paper, completely selfish. And yet it is the most honest thing the character could possibly say, and it is funny and disarming in exactly the way Hama-chan is funny and disarming. He is not promising to be someone he isn't. He is telling her, up front, that he will always be the man who drops everything for the water — and somehow that radical honesty is its own kind of devotion. The series lets the joke land and lets the sincerity underneath it land at the same time. That is the whole manga in one sentence.
 
 ## Pros & Cons
 
 **Pros**
-- Pure feel-good comedy with no darkness
-- One of manga's great odd-couple friendships
-- Complete at 110 volumes — the series had a proper ending
-- The fishing premise generates endless comedy without repetition
+- A genuinely warm, feel-good comedy with no cynicism in it
+- One of manga's all-time great odd-couple friendships
+- The fishing premise generates endless episodic comedy without wearing out
+- A real cultural document of how Japan thought about work and leisure across four decades
 
 **Cons**
-- No English translation
-- 110 volumes is a commitment even for anthology reading
-- The simple premise is also the ceiling — don't expect narrative depth
+- No official English release — Japanese only
+- 100-plus volumes is a serious commitment, even with the easy episodic structure
+- The simple premise is also the ceiling; the slow, warm, low-stakes rhythm won't work for everyone
 
-## Format Comparison
+## Is Tsuribaka Nisshi Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available |
-| Digital | Available in Japanese |
-| Omnibus | Various compilation formats in Japan |
+If you want warmth over plot — a long, gentle, funny portrait of a man who refused to let work own him, and the unlikely friendship that came from it — yes, absolutely. If you need rising tension, arcs, and stakes, this episodic comedy will feel like it goes nowhere. It goes nowhere on purpose. That is the point, and it is lovely.
+
+## Who Is This Manga For?
+
+- **Readers who love Japanese workplace comedy** with an unconventional, generous heart
+- **Anyone who has a passion they love more than their job** and has made peace with that
+- **Fans of long-running, low-stakes comfort manga** where the pleasure is companionship and consistency
+- **People curious about classic Showa-era manga** that shaped Japanese pop culture
+
+## Similar Manga
+
+| Title | Its Approach | How Tsuribaka Nisshi Differs |
+|---|---|---|
+| Sanpei the Fisherman | Treats fishing as serious adventure and skill | Plays the same passion entirely for warm comedy |
+| Cooking Papa | Long-running salaryman-plus-hobby comfort series | Centers a cross-rank friendship rather than family cooking |
+| Wotakoi | Modern workplace comedy built on a shared hobby | Older, gentler, and about male friendship across hierarchy |
 
 ## Where to Buy
 
 No English release yet. That just means you find it before everyone else does.
 
+If you read Japanese, you can pick it up here: [Tsuribaka Nisshi on Amazon.co.jp →](https://www.amazon.co.jp/s?k=%E9%87%A3%E3%82%8A%E3%83%90%E3%82%AB%E6%97%A5%E8%AA%8C&tag=yushi745-22)
 
----
+This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.
