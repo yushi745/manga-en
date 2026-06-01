@@ -1,135 +1,102 @@
 ---
-title: "Comic Girls Review: A Struggling Manga Artist Moves into a Dorm for Female Manga Creators"
+title: "Comic Girls Review: A Manga About Being Too Scared to Show Anyone Your Work"
 slug: "comic-girls"
 genre: "Slice of Life / Comedy"
 genreSlug: "slice-of-life"
 mangaTitle: "Comic Girls"
 mangaTitleJa: "こみっくがーるず"
-mangaAuthor: "Kaduho"
-serialization: "Manga Time Kirara Carat"
-publisher: "Houbunsha / Seven Seas"
-volumes: 7
+mangaAuthor: "Kaori Hanzawa"
+serialization: "Manga Time Kirara Max"
+publisher: "Houbunsha"
+volumes: 9
 status: "Completed"
-englishVolumes: 7
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "All Ages"
-contentWarnings: ["manga creation content", "all-female cast", "mild cute comedy", "creator anxiety themes"]
-description: "Yu's review of Comic Girls — Kaoruko Moeta (Chaos) is a struggling manga artist who moves into a dormitory for female manga artists; her companions are a successful gag manga artist (Koyume), a wildly popular romance manga artist (Ruki), and a veteran four-panel manga artist (Tsubasa); the series follows their creative work and daily life."
+contentWarnings: ["creator anxiety played for comedy", "deadline stress", "all-female cast"]
+description: "Yu's review of Comic Girls (こみっくがーるず) by Kaori Hanzawa — Kaoruko 'Kaos' Moeta is a shy four-panel manga artist who ranks dead last in a reader survey and gets sent to a dormitory full of other young female manga creators. A gentle Manga Time Kirara comedy about making things while terrified you aren't good enough."
 coverImage: "/covers/comic-girls.jpg"
-amazonASIN: "1626929585"
+amazonASIN: ""
 publishedAt: "2025-12-22"
-tags: ["slice-of-life", "comedy", "manga-creation", "completed", "all-ages", "seven-seas", "all-female", "creator"]
-rating: 3
+rewritten: "2026-06-01"
+read: true
+tags: ["slice-of-life", "comedy", "manga-creation", "completed", "all-ages", "kirara", "all-female", "unlicensed"]
+rating: 4
 hasAffiliate: true
 ---
 
+When I was a kid, I drew too. Not well. I filled the backs of my notebooks with terrible little ninja, because in those years manga heroes were the only friends who never left the room. I never showed anyone. The fear that someone would look and not care was worse than being alone. So when I read about Kaoruko Moeta — a girl whose manga comes dead last in a reader survey and who panics over every small mistake — I felt like the book had reached into a part of me I keep quiet about.
+
+Comic Girls is a soft little Kirara comedy on the surface. Cute girls, a dorm, deadlines, snacks. But underneath the moe softness it is about something I find very hard: making a thing, putting your name on it, and letting other people decide whether it was any good. That is the whole job of a manga artist. And this manga is honest about how scary that is.
+
 ## Quick Take
 
-- A gentle manga-creation comedy with a warm ensemble — the dormitory setting gives the series natural daily life structure while the manga work provides specific comedy
-- Kaduho's art style suits the cute comedy register
-- 7 volumes complete; pleasant short complete slice-of-life comedy
-
-## Who Is This Manga For?
-
-- Readers who want slice-of-life comedy about manga creation
-- Anyone interested in the daily life of working manga artists through a comedy lens
-- Fans of all-female ensemble comedies in the Kirara tradition
-- Readers looking for short complete moe slice-of-life comedy
-
-## Content Warnings & Age Rating
-
-**Age Rating**: All Ages
-**Content Warnings**: Manga creation work content including deadline pressure; creator anxiety played for comedy; all-female cast with cute character dynamics
-
-All ages — genuinely appropriate for any reader.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★☆☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
+- A gentle four-panel-style comedy about four teenage girls who all draw manga, living together in a dormitory and dragging each other toward their next deadline.
+- It is light and warm, but the creator anxiety underneath feels real — the fear of bad survey results, the panic over a smudged page, the shame of work you think isn't good enough.
+- Age rating: **All Ages**. Nothing graphic, nothing dark — safe for any reader.
 
 ## Story Overview
 
-Kaoruko Moeta draws manga under the pen name "Chaos." Her manga is not succeeding — she cannot seem to create manga that connects with readers, and her editor is concerned. Her editor's solution is to move her into the CR House, a dormitory specifically for female manga artists.
+Kaoruko Moeta draws four-panel (yonkoma) manga under the pen name "Kaos." The problem: her manga lands at the very bottom of a reader survey. Rather than drop her, her editor, Mayu Amisawa, recommends she move into the Bunhousha Dormitory — a residence specifically for female manga artists, run by housemother Ririka Hanazono, who used to draw yuri manga herself.
 
-Her dormitory companions are at different career stages: Koyume draws successful gag manga; Ruki draws insanely popular romance manga (which is embarrassing because the content is more intense than her personality); Tsubasa draws veteran four-panel comedy manga and is the most grounded of the group.
+There Kaoruko rooms with Koyume Koizuka, a cheerful shōjo artist who can't draw boys, and lives alongside two slightly older serialized creators: Ruki Irokawa, who draws steamy "teens' love" romance despite being painfully shy, and Tsubasa Katsuki, a boyish-looking shōnen artist who is the most professional of the four. The series follows their daily life — school, deadlines, helping each other ink pages at 3 a.m., trying to figure out what kind of artist each of them wants to be.
 
-The series follows their daily life, work deadlines, creative processes, and the specific comedy of people whose profession is creating entertainment for others while struggling with their own daily existence.
+There is no big dramatic plot. The turning point is internal: Kaoruko slowly stops measuring herself only by the survey numbers and starts to understand that drawing is something she does with people, not alone in a corner. By the end of the run's nine volumes (serialized in Manga Time Kirara Max from 2014 to 2023), the growth is quiet but real — she is still anxious, still cries easily, but she keeps drawing, and she lets people see it.
 
 ## Characters
 
-**Kaoruko (Chaos)** — A protagonist whose lack of creative success is played for both comedy and genuine feeling; her growth as an artist is the series' development arc.
+**Kaoruko "Kaos" Moeta** — The protagonist. A shy first-year who panics over the smallest mistake and bursts into tears when criticized. Her arc is not about becoming confident; it's about learning to keep going despite the fear. Her admiration for Tsubasa's professionalism and her friendship with Koyume are what pull her forward when the survey numbers don't.
 
-**Ruki** — The success whose work being significantly more mature than she appears creates reliable comedy; her character has more depth than the gag suggests.
+**Koyume Koizuka** — Kaoruko's roommate, a bright and sociable shōjo artist with a huge appetite for sweets. Her running struggle is that she can't draw male characters well — a real problem for someone who wants to draw romance — and over the series she develops feelings for the boyish Tsubasa, which complicates both her drawing and her heart.
 
-**Koyume and Tsubasa** — The other dormitory residents whose creative approaches contrast with Kaoruko's struggles.
+**Ruki Irokawa** — A senior in the dorm who produces popular, mature "teens' love" manga while being one of the most timid people in the building. The gap between the steamy pages she draws and the shrinking girl who draws them is the source of a lot of comedy, but it also says something real: the work and the person who makes it are not the same thing.
 
-## Art Style
-
-Kaduho's art has the clean, soft quality of Kirara manga — character designs that prioritize cuteness and expressiveness in the moe tradition. The art suits the comedy register perfectly.
-
-## Cultural Context
-
-Comic Girls ran from 2015 to 2019 in Manga Time Kirara Carat, a magazine that specializes in moe slice-of-life four-panel and short comics. The manga-about-manga-artists tradition in Japan is long — Bakuman, Gag Manga Biyori, and others — and Comic Girls applies it to the moe comedy format with its typical warmth.
+**Tsubasa Katsuki** — The boyish, serious shōnen artist, and the most grounded of the group. She becomes the steady professional the younger two look up to, and the unwitting object of Koyume's affection. She is the closest thing the dorm has to a role model for "this is what taking your craft seriously looks like."
 
 ## What I Love About It
 
-The series treats the difficulty of making manga that doesn't succeed with genuine feeling rather than only comedy. Kaoruko's struggle to make something that connects is real work, and the series acknowledges that the gap between what someone wants to create and what they can create is genuinely difficult — even as it plays the specific forms of this difficulty for comedy.
+There is a quiet scene that stuck with me more than any of the comedy. Kaoruko gets so wound up over her work that she stops eating properly. Ririka, the housemother, doesn't lecture her. Instead she quietly contacts Kaoruko's parents to ask what foods she likes, and starts making them, so the dorm begins to feel like home and Kaoruko starts eating again. That's it. That's the whole scene. But it floored me.
 
-## What English-Speaking Fans Say
-
-Western readers describe Comic Girls as pleasant Kirara comfort manga — specifically noted for the manga-creation content being more authentic than expected, for Ruki's character being the ensemble's most interesting, and for the 7-volume format being appropriately compact. Recommended for Kirara fans and readers who want short complete all-female comedy.
+Because that is exactly the kind of care I never had when I was the scared kid drawing in secret. Nobody noticed I was struggling; I made very sure of that. This manga understands that the thing a frightened young creator needs is not "work harder" or "believe in yourself." It's someone who notices you've gone quiet and stopped eating, and who responds with a plate of food instead of advice. Comic Girls keeps doing this — wrapping its anxiety in warmth, never letting Kaoruko fall too far before someone catches her. For a story about a girl who is terrified of being seen, it is deeply, deliberately gentle about the act of being seen.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The moments when Kaoruko's manga begins to develop — when the specific thing she is trying to communicate starts to reach the page — are the series' most genuinely affecting moments amid the comedy.
+Early on, Kaoruko helps Tsubasa finish a manuscript under a tight deadline. She's never really worked with professional ink-and-paper tools before, and she keeps making mistakes — smudging, ruining lines, the kind of small disasters that make her want to disappear. Watching her hands shake over someone else's important pages, knowing one slip could cost them, I felt the specific panic of it in my chest.
 
-## Similar Manga
-
-- **New Game!** — All-female workplace comedy in game development setting
-- **Hidamari Sketch** — Art school slice-of-life in Kirara tradition
-- **GA: Geijutsuka Art Design Class** — Art school comedy ensemble
-- **Mangaka-san to Assistant-san** — Manga creation comedy in different register
-
-## Reading Order / Where to Start
-
-Volume 1 — Kaoruko's move to CR House and her first encounters with her dormitory companions establish everything.
-
-## Official English Translation Status
-
-Seven Seas has published the complete English series. All 7 volumes available.
+What makes the scene land is that nobody yells. Tsubasa and the others reassure her and keep her in the room instead of sending her away. For a girl whose entire fear is that she ruins things and lets people down, being allowed to make mistakes on real work — and being kept at the table anyway — is the whole arc in miniature. It's a small night of inking pages, but it's where Kaoruko first learns that being part of a team of artists means your mistakes don't get you exiled. They just get fixed, together.
 
 ## Pros & Cons
 
 **Pros**
-- Manga-creation content is authentic
-- Complete in 7 volumes
-- Ruki's character is more interesting than the gag suggests
-- Warm ensemble tone throughout
+- The creator anxiety feels genuine — the survey dread, the deadline panic, the fear of being judged are all drawn with real sympathy.
+- Warm, low-stakes ensemble that's easy to relax into; the dorm setting gives it a cozy "found family" feeling.
+- Each girl draws a different genre (yonkoma, shōjo, teens' love, shōnen), so the manga-about-manga jokes stay varied.
+- All-ages clean — you can hand it to anyone.
 
 **Cons**
-- Minimal plot development
-- Kaoruko's growth is slow
-- Moe Kirara format may not suit all readers
+- Almost no overarching plot; it's mood and character, not story.
+- Kaoruko's growth is slow and gentle to the point that some readers will want more.
+- It is firmly in the moe Kirara tradition, and that softness is either the whole appeal or a wall you bounce off — this one genuinely won't work for everyone.
 
-## Format Comparison
+## Is Comic Girls Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Seven Seas; complete series available |
-| Digital | Available |
+If you want a cozy, all-ages comedy about young artists supporting each other through the terror of putting their work in front of the world, yes — it's one of the warmer entries in the Kirara catalog, and the creator anxiety underneath gives it more heart than its cute surface suggests. If you need plot, tension, or fast growth, this gentle dorm comedy will feel too slow for you.
+
+## Similar Manga
+
+| Title | Its Approach | How Comic Girls Differs |
+|---|---|---|
+| Bakuman | Serious, dramatic look at two boys chasing manga stardom | Comic Girls is soft, all-ages comedy, not a high-stakes career drama |
+| Hidamari Sketch | Kirara slice-of-life about art students sharing an apartment | Comic Girls centers on the specific terror of publishing and reader surveys |
+| New Game! | All-female workplace comedy in game development | Comic Girls is about teenage creators and school life, not a professional office |
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+No English release yet. That just means you find it before everyone else does.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Comic+Girls+manga&i=stripbooks)
+There's no licensed English edition of Comic Girls — the Japanese print and digital release is the only legitimate way to read it right now.
 
+[Find こみっくがーるず on Amazon.co.jp →](https://www.amazon.co.jp/s?k=こみっくがーるず+半澤香織&tag=yushi745-22)
 
 ---
 

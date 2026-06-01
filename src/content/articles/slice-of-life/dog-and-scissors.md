@@ -1,135 +1,92 @@
 ---
-title: "Dog & Scissors Review: A Book-Loving Boy Is Killed and Reincarnated as a Dog Owned by His Favorite Author, Who Has a Scissors Fetish"
+title: "Dog & Scissors Review: He Died Wanting to Finish One Last Book, So He Came Back as His Favorite Author's Dog"
 slug: "dog-and-scissors"
 genre: "Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Dog & Scissors"
 mangaTitleJa: "犬とハサミは使いよう"
-mangaAuthor: "Nik Haruto & Daiju Haruno"
-serialization: "Monthly Dragon Age"
-publisher: "Fujimi Shobo / Yen Press"
-volumes: 9
+mangaAuthor: "Shunsuke Sarai (story) / Kamon Ōniwa (art)"
+serialization: "Monthly Shōnen Ace"
+publisher: "Kadokawa Shoten"
+volumes: 4
 status: "Completed"
-englishVolumes: 9
+englishVolumes: 4
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["death and reincarnation", "scissors-based comedy violence", "mystery elements", "dog perspective humor"]
-description: "Yu's review of Dog & Scissors — Kazuhito Harumi dies shielding a stranger and reincarnates as a dachshund; the stranger turns out to be his favorite mystery novelist Kirihime Natsuno; she can hear his thoughts; she also uses scissors on him constantly."
+contentWarnings: ["death and reincarnation", "comedic S&M / scissors humor", "comedic animal mistreatment"]
+description: "Yu's review of Dog & Scissors — Kazuhito Harumi is shot dead protecting a stranger in a café robbery, and because he refuses to die before finishing his favorite author's last book, he comes back as a dachshund — owned by that exact author, who terrorizes him with scissors."
 coverImage: "/covers/dog-and-scissors.jpg"
 amazonASIN: "0316376647"
 publishedAt: "2025-12-25"
-tags: ["slice-of-life", "comedy", "completed", "teen", "yen-press", "dog", "reincarnation", "mystery"]
+read: true
+rewritten: "2026-06-01"
+tags: ["slice-of-life", "comedy", "completed", "teen", "dog", "reincarnation", "mystery"]
 rating: 3
 hasAffiliate: true
 ---
 
+When I was a kid with no friends, books were the thing I'd carry around so I had something to do during lunch. So I understood Kazuhito Harumi faster than I expected to. He's a boy who loves books more than almost anything — and the joke of this whole manga is that his love of books is so stubborn it literally drags him back from death. He doesn't come back as a hero. He comes back as a small dog. I laughed, and then I felt a little seen, which is an embarrassing combination.
+
+I want to be honest up front: this is a short, silly comedy, four volumes long, and it is not deep. But it commits to its dumb premise so completely that I kept reading.
+
 ## Quick Take
 
-- The premise is immediately absurd and the series commits fully — a book-obsessed boy stuck as a dog while his favorite author exists in what should be his ideal but is actually dominated by scissors anxiety
-- The mystery-novel setting gives the comedy specific texture beyond pure dog-life humor
-- 9 volumes complete; absurdist comedy with a surprisingly bookish sensibility
-
-## Who Is This Manga For?
-
-- Readers who want absurdist comedy with a strong book-love premise
-- Anyone interested in light novel adaptation comedy
-- Fans of the dog-perspective comedy genre with an unusual setup
-- Readers looking for complete lighter comedy
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Scissors-based comic violence (not graphic); death in first chapter; dog treats humor
-
-T rating — appropriate for most readers; the comedy violence is cartoon-level.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★☆☆☆ |
-| Art Style | ★★★☆☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
+- A bookworm dies and is reincarnated as a dachshund because he can't stand the idea of dying before reading his favorite author's final book — and then gets adopted by that exact author
+- The comedy runs on two engines: Kazuhito's helpless dog-thoughts that only his owner can hear, and his owner's frankly alarming relationship with a pair of scissors
+- Rated T (Teen) — the violence is cartoon-level, but the humor leans on comedic S&M and comedic animal mistreatment, so know that going in
 
 ## Story Overview
 
-Kazuhito Harumi loves books. He loves them more than most things. He loves them especially as novels by his favorite author Kirihime Natsuno, whose mystery books he reads obsessively.
+Kazuhito Harumi is a high schooler who reads obsessively. His favorite author writes under the pen name Shinobu Akiyama, and Kazuhito is desperate to read Akiyama's not-yet-finished last book.
 
-He dies protecting a stranger from a robber. He wakes up as a dachshund.
+The turning point is brutal and fast: Kazuhito is in a café when a robber pulls a gun on a woman. He steps in front of her. He's shot, and he dies. But his regret — that he'll never finish that last book — and his sheer will to keep living pull him back into the world as a long-haired dachshund.
 
-The stranger he protected is Kirihime Natsuno. She can, somehow, hear his internal monologue. She finds this more mildly interesting than distressing. She names him Kazuhito, keeps him, and continues her eccentric life — which involves an enthusiasm for scissors that manifests in very specific and very alarming ways when Kazuhito irritates her.
-
-Kazuhito's position — trapped as a dog owned by his idol, who treats him as partly a pet and partly a very weird acquaintance — generates the comedy and the occasional genuine warmth.
+Then the gag locks into place. The woman he died saving adopts the stray dog she feels guilty about. Her name is Kirihime Natsuno, and she is Shinobu Akiyama. Kazuhito's idol is now his owner, she can hear his internal voice when no one else can, and she expresses affection mostly by threatening him with scissors. The rest of the series is episodic comedy and light mystery built around that relationship, ending after four volumes without overstaying its welcome.
 
 ## Characters
 
-**Kazuhito Harumi** — A protagonist whose entire value system is books; his dog existence would be unacceptable except that his owner is the one person whose books he would give up other things to read.
+**Kazuhito Harumi** — The bookworm-turned-dachshund. His arc is small but real: he goes from a kid whose love of fiction is a private escape to a dog who has to actually live alongside the author he idolized, scissors and all. His running internal monologue is the heart of the comedy.
 
-**Kirihime Natsuno** — A character whose combination of genuine literary talent and completely incomprehensible relationship with scissors makes her one of the funnier eccentric writer characters in manga.
+**Kirihime Natsuno** — The bestselling novelist behind the pen name Shinobu Akiyama, and Kazuhito's owner. She's genuinely talented, genuinely sadistic, and wields a pair of scissors she treats like a weapon. She develops real feelings for Kazuhito even as she torments him, and that tension between cruelty and care is the series' actual engine.
 
-## Art Style
+**Madoka Harumi** — Kazuhito's younger sister, who believes her brother is trapped in the dog. She's an aspiring cook whose food is borderline lethal, and she's constantly trying to feed Kazuhito her deadly curry.
 
-Haruno's art is clean and functional — the dog-life situations are clearly communicated, and Kirihime's scissors enthusiasm is drawn with the cartoon intensity the joke requires.
-
-## Cultural Context
-
-Dog & Scissors is adapted from a light novel by Nik Haruto, which is typical of the contemporary Japanese production path from light novel to manga. The book-obsession premise reflects genuine Japanese reading culture and the specific status of mystery novels in the literary landscape.
+**Suzuna Hiiragi** — Kirihime's editor, a hyperactive masochist who genuinely enjoys being tormented by her boss. She's the mirror image of Kazuhito's suffering — she signs up for it.
 
 ## What I Love About It
 
-Kirihime's actual writing. The series includes segments of her mystery novels and treats them as genuinely good rather than as props. The book-love that defines Kazuhito extends to the series' own attitude toward the fiction within the fiction.
+The thing I keep coming back to is the reason Kazuhito comes back at all. It's not love, it's not revenge, it's not some grand destiny. He refuses to die because there's a book he hasn't finished. As somebody who used to hide inside stories, that detail hit me harder than the premise probably deserves. The manga treats it as a punchline — and it is one — but underneath the joke there's a real statement about how a story can be the thing that keeps you tethered to the world.
 
-## What English-Speaking Fans Say
-
-Western readers describe Dog & Scissors as a specific and reliably funny comedy — specifically noted for the scissors joke having more comedic range than expected, for Kazuhito's book passion being the series' most relatable quality, and for the mystery-novel setting giving the comedy intellectual flavor. Recommended for readers who want absurdist comedy with bookish sensibilities.
+What makes it work as comedy rather than just a cute idea is that the manga never lets Kazuhito enjoy it. He gets exactly what he wanted — proximity to his favorite author, access to her bookshelves — and it's miserable, because she's terrifying and he's a dog who can't hold a book. That gap between "I got my wish" and "this is awful" is where almost every gag lives, and the manga mines it patiently across all four volumes. Kirihime cutting his fur, throwing scissors at him, hearing his panicked thoughts and choosing to torment him anyway — it's the same joke remixed, but the remix keeps landing because the relationship underneath it slowly grows warmer.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-Any scene where Kazuhito's dog existence becomes directly relevant to a mystery-plot element — where his animal perspective actually advances the investigation — is the series at its most creatively integrated.
+The scene that defines the whole series is the moment of his death and the reveal stacked right behind it. In the café, the robber turns the gun on Kirihime, and Kazuhito — a kid, not a fighter — puts his own body between them and takes the shot. He dies for a stranger. Then he wakes up as a dachshund, dragged back by a desire as petty and as human as "I never got to finish that book."
 
-## Similar Manga
-
-- **My Roommate Is a Cat** — Animal perspective and human companion with similar warmth
-- **Chi's Sweet Home** — Animal perspective comedy in gentler register
-- **Monthly Girls' Nozaki-kun** — Writer and unusual companion comedy with similar energy
-- **Haven't You Heard? I'm Sakamoto** — Absurdist comedy with similar genre awareness
-
-## Reading Order / Where to Start
-
-Volume 1 — Kazuhito's death, reincarnation, and meeting Kirihime are the entire setup.
-
-## Official English Translation Status
-
-Yen Press published the complete English series. All 9 volumes available.
+And the gut-punch payoff is that the stranger he died for turns out to be Shinobu Akiyama — the author of that exact unfinished book. The person he gave his human life to save is the one person whose work he couldn't bear to leave unread. The series plays it for laughs, but the shape of it — dying for the thing you love without knowing that's what you were doing — stuck with me long after the jokes faded.
 
 ## Pros & Cons
 
 **Pros**
-- Premises absurdity is fully committed
-- Scissors joke has more range than expected
-- Book-love sensibility is genuine
-- Complete at 9 volumes
+- A genuinely funny premise that the series fully commits to for all four volumes
+- Kazuhito's bookworm heart gives the comedy an emotional anchor
+- Kirihime and Kazuhito's relationship grows warmer underneath the cruelty
+- Short and complete — it doesn't overstay its welcome
 
 **Cons**
-- Light depth — absurdist comedy primarily
-- Kirihime's scissors thing may wear thin
-- Dog existence premise limits what stories are possible
+- It's light; this is comedy first, with mystery elements kept shallow
+- The scissors and S&M-flavored humor is repetitive by design
+- The comedic animal mistreatment won't sit right with every reader — that's either a harmless gag or a dealbreaker depending entirely on you
 
-## Format Comparison
+## Is Dog & Scissors Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Yen Press; complete series |
-| Digital | Available |
+If you want a short, absurd, four-volume comedy with a surprisingly bookish soul, yes. It's not deep and it's not trying to be — it's a dumb premise executed with full conviction, anchored by a protagonist whose love of stories I found genuinely touching. If comedic animal mistreatment or repetitive S&M humor bothers you, skip it; that's the whole texture of the joke.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Dog+%26+Scissors+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=Dog+%26+Scissors+manga&i=stripbooks&tag=dearmanga-20)
 
 ---
 
