@@ -1,5 +1,5 @@
 ---
-title: "Baby Steps Review: A Straight-A Student Applies Academic Discipline to Tennis and Goes Further Than Anyone Expected"
+title: "Baby Steps Review: The Tennis Manga Where Note-Taking Is the Superpower"
 slug: "baby-steps"
 genre: "Sports / Drama"
 genreSlug: "sports"
@@ -14,119 +14,87 @@ englishVolumes: 47
 englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings: ["competitive pressure", "injury"]
-description: "Yu's review of Baby Steps — Eiichiro Maruo is a straight-A student who takes perfect notes about everything; when he joins a tennis club, he applies the same systematic analysis to the sport and discovers that data and discipline can compete with natural talent."
+description: "Yu's review of Baby Steps — Eiichiro Maruo is a straight-A high schooler who takes obsessive notes on everything. When he wanders into a tennis club, he applies the same analysis to the sport and discovers that data and discipline can hang with raw talent — all the way to the professional tour."
 coverImage: "/covers/baby-steps.jpg"
 publishedAt: "2026-03-16"
+rewritten: "2026-06-03"
+read: true
 tags: ["sports", "shonen", "completed", "tennis", "academic"]
 rating: 4
 hasAffiliate: false
 ---
 
+When I was in school, I was the kid who color-coded his notebooks. Everybody else thought it was a waste of time. I kept them because they were the one thing I felt I was actually good at — the one place where being careful and patient paid off, when nothing on a playground ever did. So when I picked up *Baby Steps* and met a boy named Eiichiro Maruo who keeps a notebook for literally everything, I felt seen in a way I wasn't expecting from a tennis manga.
+
+Ei-chan doesn't have a special body. He doesn't have a genius serve or a hidden talent that wakes up in chapter three. What he has is the same dumb, stubborn thing I had: he writes everything down, and he refuses to skip steps. This is the manga that told me my one weird habit might actually be a strength. I love it for that more than I can say.
+
 ## Quick Take
 
-- A studious boy without natural athletic talent applies rigorous analysis to tennis and the manga follows him all the way to the top of the professional circuit
-- Katsuki's most distinctive achievement: actual tennis mechanics depicted with enough accuracy to be educational
-- 47 volumes, complete; one of the longest sports manga fully available in English
-
-## Who Is This Manga For?
-
-- Readers who want sports manga where the protagonist's path is analytical rather than instinctual
-- Tennis players who want manga that depicts their sport with technical accuracy
-- Anyone who wants a completed ultra-long-form sports manga with a full professional arc
-- Readers who enjoy the underdog-through-intelligence story
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Competitive pressure; injury sequences realistic to the sport
-
-Standard T-rated sports manga.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
+- A straight-A high schooler with zero athletic background applies academic note-taking to tennis, and the story follows him from total beginner all the way onto the professional tour
+- Katsuki draws tennis with real mechanical accuracy — footwork, shot selection, court positioning — so matches read like strategy, not super-moves
+- 47 volumes, available complete in English via K Manga (digital); rated **T (Teen)** — competitive pressure and realistic injury, nothing graphic
 
 ## Story Overview
 
-Eiichiro Maruo takes notes on everything. He has notebooks full of data, schedules, and analysis for every class. He has never done anything athletic. He wanders into the Southern Tennis Club when it is recruiting.
+Eiichiro Maruo is the kind of student who takes perfect notes for nine straight years. One day he realizes he's been so glued to his desk that his body is falling apart, sees a flyer for the Southern Tennis Club, and walks in on a whim. He's hopelessly out of shape and has never hit a ball in his life.
 
-He discovers that he can apply his note-taking discipline to tennis. He analyzes opponents, breaks down technique, identifies exactly what a top-level player does that he cannot do yet, and works backward from the gap. He is not talented. He is systematic.
+But then the gears start turning. Ei-chan figures out he can do to tennis what he does to a textbook: observe, record, analyze. He starts keeping a tennis notebook, logging opponents' habits, his own mistakes, and exactly what separates him from better players. His "dynamic vision" — his unusually sharp eyesight — lets him read shots, and his notes let him predict them. His guiding principle is brutally simple: if you can reach every ball and control it, in theory you cannot lose.
 
-The 47 volumes follow his development from beginner through the professional circuit — one of the few sports manga that actually depicts the professional level with sustained attention.
+From there the manga is a long, patient climb. Ei-chan grinds through prefectural Kanagawa juniors, then the Kanto regional tournament, then the All-Japan Junior championship — where he finishes fourth, not first. Katsuki refuses to hand him a fairy-tale title. Instead of winning juniors, Ei-chan sets himself a harder benchmark: he enters the open All-Japan Tennis Championship against full adults to decide whether he's good enough to turn pro, and reaches the semifinals against world-ranked Ayumu Monma. The series closes out on the lower rungs of the professional ladder — Futures and Challengers events — and ends mid-journey on the world tour, because that's honest about what going pro actually looks like.
 
 ## Characters
 
-**Eiichiro Maruo (Ei-chan)** — His specific mode of learning — data, analysis, deliberate practice — is unusual in shonen sports manga, where natural talent is typically the protagonist's asset. His specific limitation and his specific method make him a genuinely original sports manga protagonist.
+**Eiichiro Maruo (Ei-chan)** — The honor student who becomes a tennis player by treating the sport like an exam he can study for. He has no power game and no instinct; he wins through opponent analysis, relentless consistency, and that obsessive notebook. His arc is the whole point of the manga: watching someone with no gift catch up to people who were born with one, step by tiny step, never skipping the boring parts.
 
-**Natsu Takasaki** — A naturally talented tennis player whose relationship with Ei-chan begins as recruitment and develops into the series' central romance.
+**Natsu Takasaki (Nat-chan)** — A first-year girl who's played tennis since childhood and dreams of going pro. She's everything Ei-chan isn't: intuitive, emotional, talent-first. She pushes him into the club and becomes his closest partner. Their relationship grows from rivals-slash-training-partners into the series' central romance — Natsu confesses to him at the beach right before the Kanto Junior tournament, and they start dating from there.
 
-**Takuma Egawa** — A rival and eventual complicated ally whose natural talent is the contrast against which Ei-chan's analytical approach is measured.
+**Takuma Egawa** — An upperclassman at Southern who's already one of the best junior players in Japan and openly aiming for the pros. He's the early bar Ei-chan measures himself against, and the living proof of what "talent that also works hard" looks like.
 
-## Art Style
-
-Katsuki's art handles tennis sequences with genuine technical accuracy — the serve mechanics, the court positioning, the different shot types — depicted with clarity that rewards tennis players and remains comprehensible to readers who have never played. The character design is clean and consistent across 47 volumes.
-
-## Cultural Context
-
-Japanese high school and college tennis — the club system, the progression to professional ranking events — is depicted with accuracy. The series eventually reaches the international circuit, which provides Western readers with familiar tournament names (US Open, Wimbledon) as reference points.
+**Yuu Nabae** — Ei-chan's most important rival, and basically his evil twin. Nabae is an analytical player just like Ei-chan, except he's taken it further: he keeps his notes on a laptop and builds an exhaustive database on every opponent and on himself. He's the answer to the scary question "what if someone smarter did exactly what I do?" Their match is the intellectual peak of the series.
 
 ## What I Love About It
 
-Ei-chan's notebook. Every new opponent, every match, every technique he encounters gets analyzed and written down. The series shows the notebooks — the actual analytical work he does — as part of the narrative. A sports manga that shows the mental work, not just the athletic results, is genuinely rare.
+Ei-chan's notebook isn't a gimmick — it's the actual narrative. Katsuki shows the analytical work on the page: the logged habits, the diagrammed patterns, the "this is the gap and here's how I close it" reasoning. Most sports manga skip straight to the spike and the explosion. *Baby Steps* lingers on the mental labor, the part where a kid sits down and figures out why he lost. For someone whose only school superpower was being thorough, watching that get treated as heroic genuinely moved me.
 
-## What English-Speaking Fans Say
-
-Western readers who are tennis players describe Baby Steps as the most accurate sports depiction in any tennis manga. Non-tennis readers describe the protagonist's analytical approach as the series' most distinctive quality — different from any other sports protagonist they had read. The 47-volume length is cited as the primary barrier.
+The clearest example of why this matters is the Nabae match. Nabae is Ei-chan's exact method scaled up — same note-taking instinct, just with a laptop and a deeper database. So the duel can't be won by being more analytical, because Nabae is already more analytical. Ei-chan has to invent a growing stack of attack patterns to crack Nabae's defense and, crucially, control his own emotions to keep that stack alive under pressure, until he finally breaks Nabae's serve in the deciding set. It's a match about two careful minds, and it lands because the manga spent forty volumes earning the idea that thinking can be a weapon.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-Ei-chan's first professional match — where everything he has analyzed and prepared meets an opponent who plays at a level where preparation alone is not enough — is the series' most complete statement of what his method does and does not guarantee.
+The one that stuck with me isn't a match point — it's a quiet moment in chapter 234. Natsu tells Ei-chan that she feels like she's being left behind by him, that he's pulling ahead so fast it scares her, and that she wants both of them to win because more than anything she wants to stay beside him. He gets flustered — of course he does, he's Ei-chan — but then he reaches out and tells her he wants the same thing, that he wants to keep going together. She closes the gap and kisses him. Their first kiss.
 
-## Similar Manga
-
-- **Haikyu!!** — Team sports, similar enthusiasm for the sport's mechanics
-- **Chihayafuru** — Non-athletic protagonist succeeds through dedication
-- **Blue Period** — Academic mind applied to an unexpected discipline
-- **Prince of Tennis** — Tennis, different (more fantastical) approach
-
-## Reading Order / Where to Start
-
-Volume 1 — Ei-chan's introduction to tennis is straightforward.
-
-## Official English Translation Status
-
-Kodansha USA published the complete 47-volume series. All volumes available.
+What I love is that the manga frames this exactly like one of his tennis problems: there's a gap, he's scared of it, and the answer is to close it deliberately instead of waiting. The same boy who solves matches by working backward from a gap solves his own heart the same way. After hundreds of pages of him reaching for balls he couldn't quite get to, watching him reach for *her* — and actually make it — wrecked me a little.
 
 ## Pros & Cons
 
 **Pros**
-- 47 volumes, complete — the entire story from beginner to professional
-- Tennis mechanics are genuinely accurate
-- Ei-chan is a unique sports protagonist
-- The professional arc is handled with sustained care
+- 47 volumes, available complete in English via K Manga (digital) — the entire arc from clueless beginner to the professional tour
+- Tennis is depicted with real mechanical accuracy; matches read as strategy
+- Ei-chan is a genuinely original sports protagonist — brain, not body
+- The professional arc gets sustained, honest attention most sports manga never reach
 
 **Cons**
-- 47 volumes is the longest commitment on this list
-- The analytical approach can feel methodical in slower arcs
-- The romance subplot develops very slowly
+- 47 volumes is a huge commitment
+- The methodical, step-by-step pacing can feel slow in the quieter arcs
+- The romance develops at a glacial speed
+- The slow, analytical rhythm is either the whole appeal or a dealbreaker — that depends entirely on you.
 
-## Format Comparison
+## Is Baby Steps Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Kodansha USA; standard |
-| Digital | Available |
+Yes — if you want a sports manga where the hero wins by being thorough instead of gifted. It's long and deliberate, but that patience is the point: it's the rare series that treats studying, note-taking, and closing the gap one step at a time as genuinely heroic. If you've ever been the careful kid, it'll hit home.
+
+## Similar Manga
+
+| Title | Its Approach | How Baby Steps Differs |
+|---|---|---|
+| Haikyu!! | Team sport powered by passion and explosive talent | Solo, analytical, and built on note-taking over instinct |
+| Chihayafuru | Non-athletic discipline (karuta) won through dedication | A physical sport with real on-court mechanics |
+| The Prince of Tennis | Tennis as stylized, near-superhuman spectacle | Grounded, realistic tennis where strategy beats super-moves |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
+[Start with Volume 1 →](https://www.amazon.com/s?k=Baby+Steps+Hikaru+Katsuki+manga&tag=dearmanga-20)
 
 ---
 
