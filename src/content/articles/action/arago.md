@@ -1,132 +1,103 @@
 ---
-title: "Arago Review: A London Detective With His Dead Brother's Arm Hunts Serial Killers"
+title: "Arago Review: A London Cop Who Inherits His Brother's Arm and a Rotting Touch"
 slug: "arago"
 genre: "Action / Supernatural"
 genreSlug: "action"
 mangaTitle: "Arago"
-mangaTitleJa: "AR∀GO ―ロンドン市警特殊犯罪捜査官―"
-mangaAuthor: "Shinji Yoshida"
+mangaTitleJa: "AЯ∀GO ―ロンドン市警特殊犯罪捜査官―"
+mangaAuthor: "Takahiro Arai"
 serialization: "Weekly Shonen Sunday"
-publisher: "Shogakukan / Viz Media"
-volumes: 10
+publisher: "Shogakukan"
+volumes: 9
 status: "Completed"
-englishVolumes: 10
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
-contentWarnings: ["supernatural violence", "serial killer themes", "body horror elements", "loss and grief themes"]
-description: "Yu's review of Arago — Arago is a young man living in London whose twin brother Seth was killed by the supernatural serial killer Patchman; when Arago encounters Patchman, his dead brother's right arm attaches itself to Arago's body and gives him supernatural abilities; he joins the police to hunt Patchman and the supernatural criminals who follow him."
+contentWarnings: ["supernatural violence", "serial killer themes", "body horror", "loss and grief themes"]
+description: "Yu's review of Arago — Takahiro Arai's 9-volume Shonen Sunday series about Arago Hunt, a London man who loses his twin brother Ewan to the body-harvesting killer Patchman, inherits his brother's arm and the decaying Brionac power, and joins the Metropolitan Police to hunt the supernatural Four Horsemen."
 coverImage: "/covers/arago.jpg"
-amazonASIN: "1421535696"
+amazonASIN: ""
 publishedAt: "2024-07-22"
-tags: ["action", "supernatural", "mystery", "completed", "viz", "london"]
+tags: ["action", "supernatural", "mystery", "completed", "shonen-sunday", "london"]
 rating: 3
 hasAffiliate: true
+read: true
+rewritten: "2026-06-03"
 ---
+
+I have a soft spot for the manga nobody talks about. The ones that ran for nine volumes in a weekly magazine, did their job, and quietly ended without an anime or a movie or a fandom big enough to argue about. Arago is one of those for me. I picked up the first volume years ago because the cover had a young guy in London with a wrong-looking right arm, and I'm a sucker for that exact image — a person carrying a piece of someone they lost.
+
+What surprised me later is that the author, Takahiro Arai, actually lived in Scotland for a while before he became a mangaka. He'd already drawn the manga adaptation of Darren Shan — that British vampire horror series — so the UK setting in Arago isn't decoration grabbed off Google. It's a guy who liked dreary stone cities and Celtic mythology and built a shonen action manga out of them. That's the thing I keep coming back to with this one. It's not a great manga. But it knows exactly what it wants to be.
 
 ## Quick Take
 
-- The supernatural detective manga set in London with genuine visual atmosphere and a body horror twist on the "dead person's power transferred to protagonist" premise
-- Best as a quick action-mystery read rather than a deep investment — it delivers what it promises with consistency if not exceptional depth
-- 10 volumes complete; a satisfying short-form action manga for readers who enjoy supernatural detective settings
-
-## Who Is This Manga For?
-
-- Readers who want supernatural action manga set outside Japan — the London setting is used specifically, not decoratively
-- Anyone who enjoys detective-meets-supernatural-action hybrids with clear structure
-- Fans of short complete series that deliver escalation without overstaying their welcome
-- Readers who want accessible action manga with a distinctive visual style
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Supernatural violence; Patchman's killings are depicted with enough specificity to establish menace; the arm transplant premise involves body horror logic; grief over a sibling's death is the protagonist's core motivation
-
-The T rating is accurate.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★☆☆ |
+- A supernatural detective shonen set in London: a young man inherits his dead twin brother's arm and a power that rots whatever it touches, then joins the police to hunt the killer responsible
+- Nine volumes, complete, no padding — it escalates fast and ends on its own terms, which is rare for a weekly series
+- T (Teen): supernatural violence, a body-harvesting serial killer, and grief over a brother's death — disturbing in concept more than in gore
 
 ## Story Overview
 
-London. A supernatural serial killer called Patchman has been killing victims and taking their body parts to "complete" himself — he is literally assembling a body. He kills Seth, Arago's twin brother.
+The Hunt brothers — Arago and Ewan — grow up in London after their parents are slaughtered by a monster. Years pass. Arago is the directionless, vengeful twin; Ewan becomes an elite police officer. When killings start up again in the city, the two are pulled back into the thing that destroyed their childhood: a serial killer called Patchman.
 
-When Arago confronts Patchman, Seth's severed right arm reattaches to Arago's body and activates a power called ARMS — a supernatural ability that manifests through the arm. Arago can now fight Patchman on his level.
+Patchman is the engine of the early story. He's a Frankenstein-shaped horror who murders people to harvest their body parts and stitch himself toward completion. In the confrontation that opens the series, Patchman overpowers both brothers and mortally wounds Ewan. Arago finally defeats him — and in the aftermath, two things happen that define the whole manga: Arago inherits Ewan's severed right arm, and he wakes up with an unexplained ability called **Brionac**. Anything not made of metal or plastic decays the moment it touches his skin.
 
-He joins the London police's special division handling supernatural crime. He works with Officer Liv, who becomes his partner. The series follows him hunting Patchman and the supernatural criminals who appear in Patchman's wake, while gradually uncovering the mythology behind the ARMS power and what his brother's arm means for his own identity.
+That power, and the demons only he can now see crawling through London, get him recruited into the Metropolitan Police's special criminal investigation unit. From there the series turns into an escalating hunt against the **Four Horsemen** — four lieutenants modeled on the Horsemen of the Apocalypse — who are chasing mythological artifacts (the Lia Fáil, the Claíomh Solais) toward a larger plan. The reveal underneath it all is that Ewan didn't simply die: he was resurrected, tangled up with Patchman's own resurrection, still holding onto enough of himself to tell Arago to run. The final stretch sends Arago and his allies toward the Cauldron to pull Ewan back out of it. It's a clean arc — revenge story to rescue story — wrapped up inside nine volumes.
 
 ## Characters
 
-**Arago** — His grief for Seth is the constant background of the series. The arm is both tool and reminder — using it is using what remains of his brother. The series handles this as emotional weight rather than melodrama.
+**Arago Hunt** — Starts as the revenge-driven twin, the one with no direction, and the series is essentially the story of him being handed his brother's literal arm and having to decide what to do with the rest of his life. The Brionac power is a cruel gift: it makes him a weapon but also means he can't casually touch most of the world without rotting it. His arc is the inheritance — fighting with what's left of Ewan.
 
-**Liv** — His police partner provides the procedural grounding the supernatural elements require. Her competence in non-supernatural matters and her skepticism-turned-belief follows genre convention but is executed with enough personality to distinguish her.
+**Ewan Hunt** — The competent twin, the police officer, the one who had it together. His death is the hinge of the plot, but the better twist is that he isn't gone: resurrected and partially conscious, he becomes the thing the whole back half is reaching toward. The brother you're hunting through hell, not avenging.
 
-## Art Style
+**Patchman** — The opening antagonist and the strongest single image in the manga: a body-harvesting killer literally assembling himself from victims. Honestly the weakest as a *character* — beyond the Frankenstein concept he doesn't get much interior life — but as a monster to launch the story, he works.
 
-Yoshida's art establishes the London setting with visual specificity — Victorian and early modern architecture, fog, a color palette appropriate for supernatural crime fiction. The action sequences are clear and dynamic. Patchman's design is effectively disturbing.
+**Rio Butler** — Arago's childhood friend, back in London after fifteen years away. She's the human anchor, the person who disapproves of the dangerous road he's on, and — being honest, since the manga is honest about it — she spends most of the series sidelined from the supernatural events.
 
-## Cultural Context
-
-Arago uses London the way certain Japanese supernatural action manga use settings outside Japan — as a backdrop for mythology that feels different from Japanese supernatural tradition while remaining accessible. The series draws on general European supernatural conventions rather than specifically British ones, which makes it broadly accessible without deep cultural specificity.
+**Joe Sullivan & Coco** — The police side. Sullivan is the assistant inspector who vouches for Arago and ends up sacrificing himself to protect him. Coco is a detective who works with a K-9 partner and gets more room to breathe than most of the supporting cast.
 
 ## What I Love About It
 
-The arm dynamic. Arago using Seth's arm means that Seth's power and, occasionally, Seth's emotional responses influence what the arm does. The series is not consistent about this — sometimes it's purely mechanical, sometimes it carries personality — but the idea of carrying your dead sibling's capacity for violence and using it in his memory is genuinely interesting.
+The arm and the Brionac power, taken together. Most "protagonist inherits a dead person's strength" stories make the power feel like a clean upgrade. Arago's doesn't. He's carrying his brother's right arm — the brother he failed to save — and the ability that comes with it, Brionac, *destroys things on contact*. Anything that isn't metal or plastic rots when it touches him. That's a genuinely good piece of design, because it turns the gift into a sentence. He can't shake a hand. He can't hold someone without ruining them. The thing that makes him strong enough to hunt monsters is the same thing that walls him off from the ordinary life Rio keeps trying to pull him back toward.
 
-## What English-Speaking Fans Say
-
-Western readers describe Arago as a solid short-form supernatural action manga — nothing exceptional, but reliable and complete. The London setting is appreciated as a change from Japan-based supernatural action. The series is recommended for readers who want something to fill the gap between longer commitments.
+That's the tension I kept reading for. It externalizes grief into a physical rule: the dead brother's power literally degrades whatever Arago reaches for. You can read the whole manga as a guy learning to live with hands that break what they hold. The plot around it is standard escalating-shonen stuff, and I won't pretend otherwise — but that one mechanic gives the action a weight it wouldn't have if the arm were just a sword that came with a cool backstory.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The first time Arago's arm acts independently of his conscious control — responds to a threat with Seth's fighting instincts rather than Arago's own — is the series' best deployment of its central premise, and briefly makes the arm feel like a genuine presence rather than a plot device.
-
-## Similar Manga
-
-- **Blue Exorcist** — Supernatural entity within the protagonist, London-adjacent setting
-- **Pandora Hearts** — Supernatural mystery with London-esque setting
-- **D.Gray-man** — Supernatural weapon attached to protagonist, similar structure
-- **ARMS** — Same premise name, different execution, similar body-weapon dynamic
-
-## Reading Order / Where to Start
-
-Volume 1 — Seth's death, the arm, and Arago's first encounter with the London supernatural police.
-
-## Official English Translation Status
-
-Viz Media published the complete 10-volume English edition. All volumes available.
+The moment that stuck with me is the realization that Ewan was resurrected — that the brother Arago thought he'd lost in the opening fight is alive, dragged back alongside Patchman, still holding onto enough of himself to warn Arago away. It reframes everything. Up to that point the series reads as a revenge story: Arago hunting the thing that killed his family, carrying his dead twin's arm as a relic. Then it quietly becomes a rescue story. The arm isn't just a memorial anymore — it's a piece of someone who's still out there, trapped, and the whole final push toward the Cauldron is Arago trying to make him whole again. For a nine-volume action manga, turning the corpse you've been mourning into the goal you're fighting toward is a sharper move than I expected.
 
 ## Pros & Cons
 
 **Pros**
-- The London setting is used with genuine visual specificity
-- The brother's arm premise is emotionally interesting
-- Ten volumes with clear beginning and end
-- Consistent action-mystery hybrid throughout
+- The Brionac "everything you touch rots" power is a genuinely strong piece of design
+- London and the Celtic-myth scaffolding feel chosen, not decorative — the author actually lived in the UK
+- Nine volumes, complete, with a real beginning-to-end arc and no weekly-series bloat
 
 **Cons**
-- The plot follows supernatural action conventions without significant subversion
-- Secondary characters beyond Liv are undercharacterized
-- The mythology resolution is adequate rather than impressive
+- The plot leans hard on supernatural-shonen conventions without subverting them
+- Side characters outside the core few are thin; Rio especially gets pushed to the margins
+- The art can get scratchy and hard to follow in the busier fight scenes — that's either rough energy or a flaw depending on your taste
 
-## Format Comparison
+## Is Arago Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Viz Media; 10 volumes |
-| Digital | Available |
+If you want a short, complete supernatural-action shonen with a strong central hook and an unusual setting, yes — it's a satisfying weekend read. If you're after deep characterization or genre subversion, this isn't it. Arago is a clean, escalating revenge-into-rescue story carried by one excellent idea: a man fighting with his dead brother's arm and a touch that rots the world.
+
+## Similar Manga
+
+| Title | Its Approach | How Arago Differs |
+|---|---|---|
+| D.Gray-man | A weaponized arm and a war against monsters across a gothic European setting | Arago is far shorter and grounds its arm in a single dead-brother relationship rather than a long mythos |
+| Blue Exorcist | A protagonist carrying inherited supernatural power he didn't ask for | Arago's power actively isolates him — it rots what he touches rather than just marking him as different |
+| Darren Shan (Arai's own adaptation) | British-flavored supernatural horror with a young protagonist pulled into a hidden world | Arago is Arai's original take on that mood as a police-procedural action shonen, not an adaptation |
+
+## Official English Translation Status
+
+There is no licensed English edition of Arago. The series was published in Japanese by Shogakukan (nine volumes) and translated officially into languages like French and Italian, but it never got an English release. If you read Japanese, the original is the only legitimate way to own it.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+No English release yet. That just means you find it before everyone else does.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Arago+manga&i=stripbooks)
+[Find the Japanese edition on Amazon.co.jp →](https://www.amazon.co.jp/s?k=AЯ∀GO+ロンドン市警+新井隆広&tag=yushi745-22)
 
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Angel Heart Review: The City Hunter Sequel That Asks What Comes After the Pain Stops"
+title: "Angel Heart Review: The City Hunter Manga Where the Bullet-Proof Womanizer Becomes a Father"
 slug: "angel-heart"
 coverImage: "/covers/angel-heart.jpg"
 genre: "Action / Drama"
@@ -7,140 +7,106 @@ genreSlug: "action"
 mangaTitle: "Angel Heart"
 mangaTitleJa: "エンジェル・ハート"
 mangaAuthor: "Tsukasa Hojo"
-serialization: "Weekly Comic Bunch"
-publisher: "Shinchosha / Gutsoon! Entertainment"
+serialization: "Weekly Comic Bunch / Monthly Comic Zenon"
+publisher: "Shinchosha / Tokuma Shoten"
 volumes: 33
 status: "Completed"
-englishVolumes: 10
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
-contentWarnings: ["violence", "death", "assassin themes", "grief"]
-description: "A review of Angel Heart by Tsukasa Hojo — the spiritual sequel to City Hunter, following a young assassin who receives a transplanted heart and finds herself drawn into the world of the legendary sweeper Ryo Saeba."
-amazonASIN: "1932234071"
+contentWarnings: ["violence", "death", "assassin themes", "grief", "suicide"]
+description: "A review of Angel Heart by Tsukasa Hojo — the parallel-world City Hunter manga where a teenage assassin receives Kaori Makimura's transplanted heart and slowly turns the legendary sweeper Ryo Saeba into a father."
+amazonASIN: ""
 publishedAt: "2026-05-01"
+rewritten: "2026-06-03"
+read: true
 tags: ["action", "drama", "city-hunter", "assassin", "sequel"]
 rating: 4
 hasAffiliate: true
 ---
 
-A girl who survived by killing is given the heart of someone who died because she couldn't stop caring. That's the setup. The manga earns what it does with it.
+I grew up on *City Hunter*. The 100-ton hammer, the mokkori jokes, the way Ryo Saeba could shoot a coin out of the air and then get smacked across Shinjuku for hitting on a client — that was comfort reading for a kid who didn't have many friends. So the first time someone told me there was a manga where Ryo *raises a daughter*, I didn't believe them. The Ryo I knew was a perpetual teenager in a grown man's coat. The idea of him being a parent felt like a joke.
+
+It isn't a joke. *Angel Heart* is the strangest, most tender thing Tsukasa Hojo ever did with these characters, and it took me a long time to be ready for it. It starts with a death that I, as a *City Hunter* fan, was not prepared to read. And then it spends 33 volumes asking whether the part of a person that mattered can survive inside someone else.
 
 ## Quick Take
 
-- A spiritual sequel to *City Hunter*, following a young assassin with a transplanted heart
-- More emotionally grounded than its predecessor — grief is the engine, not comedy
-- Only 10 of 33 volumes available in English, but what's there is worth reading
-
-## Who Is This Manga For?
-
-- *City Hunter* fans who want to return to that world with more emotional weight
-- Readers who appreciate action manga that takes loss seriously
-- People drawn to the "assassin finding humanity" character type
-- Anyone who enjoys the specific genre of hardboiled drama with genuine tenderness
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Violence, assassin themes, character death, extended grief narrative
-
-Less comedic than *City Hunter*. The emotional register is more consistently serious.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★★☆ |
+- A parallel-world take on *City Hunter* where Kaori dies and a teenage assassin inherits her heart
+- The real subject isn't romance or revenge — it's Ryo learning to be a father
+- Rated **T (Teen)**: gun violence, a suicide attempt, assassin backstories, and a lot of grief
 
 ## Story Overview
 
-Glass is a teenage assassin — raised by a Taiwanese crime organization, shaped into a weapon, technically dead after a failed mission. She survives because she receives a heart transplant. The heart belonged to Kaori Makimura, the partner of legendary Shinjuku sweeper Ryo Saeba — who died at the end of *City Hunter*.
+In this story, Hojo does something brutal up front. Kaori Makimura — Ryo's partner through the entire run of *City Hunter*, and in this timeline his fiancée — is hit by a truck while pushing a child out of its path. She was on her way to take wedding photos with Ryo. Her heart is harvested for transplant.
 
-Glass begins to experience something she can't explain: memories, feelings, an impulse toward care that her training never installed. She traces these back to their source and finds Ryo, still grieving, still working, still occupying the space Kaori left.
+Across the sea, in Taiwan, a girl called Xiang-Ying has just tried to kill herself. She was raised by the Zhuque Corps, a unit of the Zheng Dao Hui crime syndicate, and trained from childhood into a weapon — designation Number 27, codename "Glass Heart." After a mission breaks something in her, she jumps. She should be dead. Instead, the syndicate intercepts Kaori's harvested heart and puts it inside her.
 
-What follows is a long story about grief and recovery — Glass finding what it means to be a person rather than a weapon, Ryo learning that life after loss is still life, and the two of them becoming something to each other that doesn't have a clean name.
+She wakes up changed. There's a name in her chest she's never heard — Ryo — and a pull toward a man and a city she has no memory of. The bulk of the manga is Glass Heart traveling to Shinjuku, finding Ryo, and the two of them building a life that neither of them was designed for: he, a sweeper who only knew how to grieve through his old womanizing habits; she, an assassin who doesn't know how to be a daughter. Ryo eventually adopts her. The later arcs unspool her real origins — she is the lost biological daughter of Li Jian-Qiang, the syndicate boss — and force both of them to choose the family they made over the blood they came from.
+
+Important framing: Hojo wrote in the first volume that *Angel Heart* shares characters with *City Hunter* but **is not its continuation**. It's a parallel world. Kaori dying here doesn't unwrite the *City Hunter* you love. That permission to read it as a "what if" is the only reason I could get through the opening.
 
 ## Characters
 
-**Glass** — One of the more carefully drawn "trained killer learning to feel" characters in manga. The transplanted heart premise gives her transformation a physical anchor — she isn't just deciding to change, she's experiencing something she was never built for.
+**Xiang-Ying / Glass Heart** — A killer learning to be a person, with a physical anchor most "assassin finds humanity" stories don't have: she isn't *choosing* to feel warmth, she's receiving it through a heart that isn't hers. Her arc runs from a hollow weapon who interprets the world in lethal terms toward a teenager who actually wants to live. Her fish-out-of-water moments are genuinely funny — she'll calmly suggest shooting out a car's engine to make it stop — and the comedy is the point: every absurd misunderstanding is a measure of how far she still has to travel toward normal.
 
-**Ryo Saeba** — Changed by *Angel Heart* in ways that readers of *City Hunter* will feel. The comedy is still present but it doesn't cover the sadness as completely as it once did. He's a person who lost someone irreplaceable and kept going. That's all he is in this story, and it's enough.
+**Ryo Saeba** — The same City Hunter, written older and sadder. Hojo lets the comedy stay — the leering, the goofball deflection — but reframes it as avoidance. This is a man who lost the one irreplaceable person and didn't know any way to hold the grief, so he reached for his oldest habits. Xiang-Ying's arrival is what gives him somewhere to put all of that: a kid to protect, a reason to grow up. Watching the eternal manchild of *City Hunter* slowly become a father is the spine of the whole series.
 
-## Art Style
+**Kaori Makimura** — Dead in the first act, and present on every page after. Her heart, and seemingly some echo of her, lives on inside Xiang-Ying, occasionally reaching Ryo through her. She's the absence the entire story is shaped around.
 
-Tsukasa Hojo's art is among the most polished in action manga from this era. Character designs are clean and expressive; action sequences are dynamic and well-paced. The visual distinction between moments of violence and moments of quiet is handled with real craft — the same setting reads differently depending on who's in it.
-
-## Cultural Context
-
-*City Hunter* ran from 1985-1991 and was one of the defining action-comedy manga of its era — Ryo Saeba as the charming, occasionally lecherous sweeper with unmatched marksmanship was a cultural touchstone. *Angel Heart* begins from the premise that the emotional core of that story was always Ryo and Kaori's relationship, and asks what that relationship meant by exploring its absence.
-
-The Shinjuku setting is used with the same specificity as *City Hunter* — the city as a character, its geography as a moral map.
+**Falcon (Umibozu)** — Ryo's old friend and rival, now running a café, blind but able to "read" anyone who walks in. He's the steady presence that holds Ryo together during the worst of the grief. **Saeko Nogami**, the Shinjuku police connection, and **Liu Xin-Hong** — Glass Heart's childhood friend from assassin training, Number 36, loyal to her unto death — round out the cast.
 
 ## What I Love About It
 
-The scene that convinced me this was worth following is fairly early: Ryo, working a job, catches himself about to say something to Kaori — and then doesn't, because Kaori isn't there. Not a dramatic flashback. Not a long speech. Just a stopped sentence.
+What gets me about *Angel Heart* is that it took the least serious character in my childhood and made fatherhood the most serious thing he ever did. The Ryo Saeba of *City Hunter* could not be trusted with a houseplant. The Ryo of *Angel Heart* is trying to raise a traumatized teenage assassin and keep her alive in a city full of people who want her dead. Hojo doesn't erase the old Ryo to do it — the mokkori gags are still there — he just lets you see them for what they always were: a man hiding from how much he feels.
 
-Hojo earns the emotional beats through accumulation of small moments like that. The loss is always present. The story doesn't demand you feel it; it just keeps showing you what was lost, until you feel it anyway.
-
-## What English-Speaking Fans Say
-
-*Angel Heart* is discussed primarily by *City Hunter* fans who approach it with the full context of Ryo and Kaori's history. The consensus: more melancholy than its predecessor, which some find enriching and some find depressing. The transplanted heart premise divides readers — either it works emotionally or it doesn't, and there's not much middle ground.
+And the central conceit is the kind of swing only a veteran would attempt. The heart transplant isn't sci-fi window dressing; it's the whole emotional engine. Xiang-Ying carries Kaori's heart, which means the family Ryo lost and the family he builds are *literally the same organ*. As Tia Kalla put it in her Women Write About Comics piece, Hojo "centers family in the story" rather than romance — the father-daughter bond is the real love story here. That's a bolder choice than another round of action-comedy, and it's why the manga has stayed with me longer than I expected.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The first time Glass does something that is recognizably Kaori — not an assassination, not a trained response, but something warm and slightly clumsy and entirely unplanned — and neither she nor Ryo quite knows what to do with that moment, is the scene that makes the whole premise land.
+The death that opens the story is the image I can't shake. Kaori, in her own clothes, on an ordinary day, on her way to take wedding photos with Ryo — and she sees a child in the path of a truck. She doesn't hesitate. She shoves the kid clear and takes the hit herself.
+
+What makes it land isn't gore or melodrama. It's that this is *exactly* who Kaori was in *City Hunter*: the one who looked after people, the one whose first instinct was to protect someone smaller. Hojo kills her doing the most Kaori thing imaginable, and then has her heart — that specific, protective heart — go into a girl who was raised never to protect anyone. The entire manga is the slow proof that the impulse survived the transplant. When Glass Heart later risks herself for someone weaker, you understand the heart is still beating the way it always did. That circle, set up in the first chapter and paid off across 33 volumes, is the kind of thing that makes me trust a creator completely.
+
+## Pros & Cons
+
+**Pros**
+- Turns Ryo Saeba's arrested development into a real, earned arc about fatherhood
+- The transplant premise is used as genuine emotional architecture, not a gimmick
+- Hojo's art is as polished and expressive as anything in his career
+- Glass Heart's fish-out-of-water comedy balances the grief without cheapening it
+
+**Cons**
+- Opens by killing a beloved *City Hunter* character — that's a wall for some fans
+- The "parallel world, not a sequel" framing matters; read it the wrong way and the death feels like a betrayal
+- 49 volumes total across both seasons is a long commitment
+- No complete official English edition exists, so you'll need Japanese or fan effort to finish it
+- It's far more somber than *City Hunter* — if you came for the comedy, this won't work for you
+
+## Is Angel Heart Worth Reading?
+
+For *City Hunter* fans, yes — as long as you read it as Hojo intended, a parallel "what if" rather than canon. It trades the action-comedy highs for a quieter, sadder story about a man becoming a father and a weapon becoming a person. If that trade sounds wrong to you, skip it; if it sounds brave, it's one of Hojo's best.
+
+## Cultural Context
+
+*City Hunter* ran 1985–1991 and made Ryo Saeba a cultural touchstone — the lecherous, unbeatable Shinjuku sweeper whose softer half was always Kaori. *Angel Heart* begins from the premise that the heart of that story was always Ryo and Kaori, and explores what that bond meant by taking it away. Shinjuku is rendered with the same specificity as the original: the city as a character, its streets as a moral map.
 
 ## Similar Manga
 
 | Title | Its Approach | How Angel Heart Differs |
 |---|---|---|
-| City Hunter | Action-comedy with the same protagonist | Angel Heart is the grief sequel — darker, more emotionally direct |
-| Gunslinger Girl | Young female assassins finding humanity | Gunslinger Girl is more coldly analytical; Angel Heart is warmer and more interested in recovery |
-| Black Lagoon | Hardboiled action with moral weight | Black Lagoon is more nihilistic; Angel Heart believes in the possibility of change |
-
-## Reading Order / Where to Start
-
-Familiarity with *City Hunter* is recommended — *Angel Heart* works as a standalone but its emotional weight depends on knowing who Kaori was. Read *City Hunter* first if you can.
+| City Hunter | Action-comedy with the same Ryo Saeba | Angel Heart is the somber parallel where grief and fatherhood replace the romance |
+| Gunslinger Girl | Young female assassins relearning humanity | Gunslinger Girl is coldly tragic; Angel Heart believes recovery is possible |
+| Black Lagoon | Hardboiled crime with moral weight | Black Lagoon is nihilistic; Angel Heart is built around tenderness and family |
 
 ## Official English Translation Status
 
-Gutsoon! Entertainment published 10 volumes in English. The complete Japanese series is 33 volumes. The English release is significantly incomplete.
-
-## Pros & Cons
-
-**Pros**
-- Hojo's art is excellent throughout
-- Glass is one of the better "finding humanity" characters in the genre
-- The grief at the core of the story is handled with genuine craft
-- Ryo's characterization here is among the most emotionally honest in his run
-
-**Cons**
-- English release covers only the beginning of a 33-volume story
-- Requires *City Hunter* background for full emotional impact
-- The premise requires accepting a somewhat fantastical setup
-- More somber than *City Hunter* — if you loved the comedy, this is different
-- The incomplete English release makes the full story inaccessible without Japanese
-
-## Is Angel Heart Worth Reading?
-
-For *City Hunter* fans, absolutely — with awareness that it's emotionally different and English-incomplete. For newcomers, read *City Hunter* first.
-
-## Format Comparison
-
-| Format | Pros | Cons |
-|---|---|---|
-| Physical | Art quality reads well in print | Incomplete; out of print |
-| Digital | More accessible | — |
-| Omnibus | No omnibus available | — |
+There is no complete licensed English edition. Gutsoon! Entertainment's Raijin Comics released only a handful of chapters in the early 2000s before the company went defunct in 2004, and the series has never been picked up for a full English run since. The complete story is 33 volumes (*Weekly Comic Bunch*) plus a 16-volume second season (*Monthly Comic Zenon*). To read it in full today, the Japanese print and digital editions are the only legitimate option.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+No English release yet. That just means you find it before everyone else does.
 
-[Start with Volume 1 →](https://www.amazon.com/dp/1932234071?tag=dearmanga-20)
+[Find it on Amazon.co.jp →](https://www.amazon.co.jp/s?k=%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%8F%E3%83%BC%E3%83%88+%E5%8C%97%E6%9D%A1%E5%8F%B8&tag=yushi745-22)
 
 ---
 *This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
