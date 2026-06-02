@@ -1,5 +1,5 @@
 ---
-title: "Abara Review: Nihei's Vision of Biological Weapons and the Ruins They Leave Told in Near-Wordless Architecture"
+title: "Abara Review: The 200-Page Nightmare That Secretly Built Chainsaw Man"
 slug: "abara"
 coverImage: "/covers/abara.jpg"
 genre: "Sci-Fi / Action"
@@ -11,125 +11,90 @@ serialization: "Ultra Jump"
 publisher: "Shueisha / VIZ Media"
 volumes: 2
 status: "Completed"
-englishVolumes: 2
+englishVolumes: 1
 englishStatus: "Complete"
 ageRating: "M (Mature)"
-contentWarnings: ["extreme sci-fi violence", "body horror", "biological weapon themes", "near-wordless storytelling"]
-description: "Yu's review of Abara — a short but dense Nihei work about Gauna, white biological weapons, and the city infrastructure they shatter; told almost entirely through visual storytelling with minimal dialogue, Abara is Nihei's most purely visual work."
-amazonASIN: "1421532085"
+contentWarnings: ["extreme sci-fi violence", "body horror", "cannibalism", "gore"]
+description: "Yu's review of Abara — Tsutomu Nihei's two-volume body-horror nightmare about Kudou Denji, a man who turns into a bone-armored Black Gauna to fight the human-eating White Gauna. The dense Nihei work that Tatsuki Fujimoto later called the blueprint for Chainsaw Man."
+amazonASIN: "1974702642"
 publishedAt: "2025-10-03"
-tags: ["sci-fi", "action", "completed", "mature", "viz-media", "nihei", "body-horror", "wordless"]
+tags: ["sci-fi", "action", "completed", "mature", "viz-media", "nihei", "body-horror"]
 rating: 4
 hasAffiliate: true
+read: true
+rewritten: "2026-06-03"
 ---
+
+I came to Abara backwards. I read Chainsaw Man first — like a lot of people my age — and somewhere around the third time Denji sprouted blades out of his own body, I went looking for what Tatsuki Fujimoto said inspired him. He's mentioned it more than once: when Chainsaw Man hit three million copies, he called his own manga "a pop Abara." A *pop* version. Which means the original is the un-pop one. The heavy one. The one without the jokes.
+
+So I tracked down Tsutomu Nihei's two-volume thing from 2005, sat down expecting another Blame!-style slog through a kilometers-tall megastructure, and instead got hit by something faster and meaner and more biological than I was ready for. Abara is short — you can read it in one sitting — but it does not feel short while you're inside it. It feels like being chewed.
 
 ## Quick Take
 
-- Nihei at his most purely visual — Abara is told almost entirely through architecture and action with minimal dialogue, which makes it both his most demanding and his most formally striking work
-- The Gauna biological weapon designs are among the most unsettling in manga sci-fi
-- 2 volumes complete in English; short enough to read in one sitting, dense enough to reward multiple
-
-## Who Is This Manga For?
-
-- Readers who engage with Nihei's visual storytelling and want his work in a compressed form
-- Anyone interested in wordless or near-wordless manga as a formal achievement
-- Fans of body horror sci-fi with sophisticated visual design
-- Readers who want complete Nihei that requires minimal time investment to access
-
-## Content Warnings & Age Rating
-
-**Age Rating**: M (Mature)
-**Content Warnings**: Extreme sci-fi violence; body horror and biological weapon designs; near-wordless storytelling may disorient; mature content throughout
-
-M rating — the body horror and violence are genuinely extreme.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★★★ |
+- This is the missing link between Nihei's cold architecture and Fujimoto's chainsaw chaos — bone armor erupting out of human bodies, two decades before Pochita
+- Only two volumes (collected as a single VIZ deluxe hardcover), but it's some of Nihei's densest, goriest, most disorienting work
+- M rating — there's cannibalism, body horror, and gore on nearly every spread; this is not a starter manga
 
 ## Story Overview
 
-There are white things. The white things are Gauna — biological weapons that move through the city's infrastructure with the systematic efficiency of something that was designed to destroy exactly this kind of space.
+The world of Abara is a ruined far future where humanity huddles in cities strung together by a single highway and a tangle of tubes, all under the shadow of impossibly huge ancient mausoleum-structures called the **Kōsa-byō**. Into this, an old horror returns: the **White Gauna** (白奇居子, *Shiro-Gauna*) — creatures that eat humans, grow as they feed, and eventually move to devour the mausoleums themselves.
 
-There are dark things. The dark things are something else — or someone else — that move through the same space in opposition.
+The only thing that can fight them is their mirror image. **Black Gauna** (黒奇居子, *Kuro-Gauna*) are engineered counter-weapons: people who can transform, growing a black skeletal exoskeleton where ribs literally fan out from the spine to armor and arm the body. That bone armor — *abara* means "ribs" in Japanese — is the whole title.
 
-Abara is told almost entirely through visual sequences: the architecture of a city being moved through, the movement of Gauna through that architecture, the response of whatever opposes them. Dialogue exists but is sparse. The story is told through action and space.
-
-What emerges is a narrative about biological warfare, urban destruction, and the specific tragedy of things designed to destroy and things designed to stop them meeting in the ruins of what both were presumably made to protect.
+The protagonist is **Kudou Denji** (駆動電次), a quiet young man working a grim job at a "main-oil aquaculture" facility. He's recruited because he's a secret weapon: he can become a Black Gauna. From there the story turns into a chase. An investigator named **Sakishima** digs into the killings, reaches the ancient corporation Daiyonki-ren and its scripture *The Book of the Other Phase* (異相の書), and learns that this exact catastrophe already happened roughly six hundred years ago — White Gauna rose, Black Gauna were made to stop them, and now the cycle is repeating. Nihei tells almost none of this cleanly. Plot arrives in fragments between full-page eruptions of violence, and the truth is closer to a sensation than an explanation — fitting, since Nihei himself has joked that he can barely remember the setting he built.
 
 ## Characters
 
-**The protagonist** — A dark form who moves through the Gauna-infected city; their nature and motivation emerge through action rather than explanation.
+**Kudou Denji** — The reluctant center of it. He isn't a hero who wants to fight; he's a tool that gets pointed at the White Gauna and fired. His transformation into the bone-skeletal Black Gauna is the visual spine of the book, and his detachment — doing monstrous things without seeming to want anything — is exactly the dead-eyed quality Fujimoto would later warm up and humanize in Chainsaw Man.
 
-**The Gauna** — Biological weapons whose design — white, architectural, moving through urban infrastructure with specific purpose — makes them more unsettling than traditional monster designs.
+**Tadohime** — Daughter of the head of the Ken'gan-ryō, the organization that wants to control and weaponize Denji. She's the institutional pressure on him, the reason he can't simply walk away from what he is.
 
-## Art Style
+**Nayuta** (那由多) — A second person who can transform into a Black Gauna, a female fighter who exists as Denji's parallel. The fact that he isn't unique reframes everything: he's not the chosen one, he's a model number.
 
-Nihei's art in Abara is exceptional even by his own standards — the city architecture, drawn with the technical specificity that characterizes all his work, becomes the primary visual grammar. The Gauna move through the city's spaces in ways that the art makes spatially coherent. The near-wordless storytelling demands visual literacy from the reader that rewards the investment.
+**Ayuta** (阿由多) — Nayuta's older sister, a wheelchair user, and the emotional tether of that pair. Where most of Abara is cold metal and white meat, the Nayuta/Ayuta relationship is the closest the book comes to tenderness.
 
-## Cultural Context
-
-Abara was published in Ultra Jump and collected in two volumes, positioning it as Nihei's most condensed complete work. Its visual storytelling approach — treating the narrative as something that happens through space rather than through dialogue — reflects the influence of European bande dessinée on Nihei's work, particularly the architectural science fiction of Moebius.
+**Sakishima** — The hot-blooded investigator from the Keihei-bushō (the enforcement bureau) whose digging surfaces the six-hundred-year cycle. He's the closest thing to a reader-surrogate: a human trying to understand a system built out of things that eat people.
 
 ## What I Love About It
 
-The Gauna don't explain themselves. They move through the city with purpose that the visual storytelling implies without stating. The horror of a biological weapon that is doing exactly what it was made to do — in a world where the thing it was made to destroy has already been destroyed — is the series' central image, and Nihei communicates it without requiring a single line of exposition.
+The single best idea in Abara is the rib transformation, and it's worth slowing down on, because it's the thing Fujimoto carried forward whole. When a Black Gauna activates, the human silhouette doesn't get a robot suit bolted onto it — the body *opens*. The spine becomes an axis and the ribs sweep out and around, knitting into a black skeletal shell, and then weapons grow out of that. It's armor that is also a wound. You're watching a person turn inside out into the shape of a weapon, and Nihei draws it with so much anatomical confidence that it reads as horrifyingly plausible rather than cool.
 
-## What English-Speaking Fans Say
-
-Western readers describe Abara as Nihei's most formally pure work — specifically noted for the near-wordless storytelling being more accessible than expected, for the Gauna designs being genuinely disturbing in ways that elaborate designs aren't, and for the two-volume format making the commitment easy for readers who want to understand Nihei without beginning Blame!. Frequently recommended as an entry point for his work.
+That's the panel that made the Chainsaw Man connection click for me. Pochita, Denji's chainsaw form, the blades-from-the-body grammar of that whole series — fans and Fujimoto both point straight back here, to the Black Gauna. Reading Abara after Chainsaw Man is like finding the bone X-ray under a finished painting. Fujimoto added warmth and stupidity and heart. Nihei gave him the skeleton, literally. And there's something I genuinely love about a two-volume oddity from 2005 quietly seeding one of the biggest manga of the 2020s.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-Any sequence where a Gauna moves through city infrastructure — specifically the architectural way they negotiate space, which implies intelligence and purpose without human movement — demonstrates the series' visual achievement at its most effective.
-
-## Similar Manga
-
-- **Blame!** — Nihei's major work; similar visual language and city-as-character
-- **Knights of Sidonia** — Nihei's more narrative work; Gauna appear here too
-- **Biomega** — Nihei's post-Blame! work; similar biological horror elements
-- **Noise** — Nihei's other short work; similar compressed storytelling
-
-## Reading Order / Where to Start
-
-Volume 1 — the two-volume work reads as a single complete story.
-
-## Official English Translation Status
-
-VIZ Media has published the complete English series. Both volumes available.
+The image that won't leave me is the White Gauna feeding and *scaling up*. These aren't fixed monsters — they eat, and what they eat becomes them, so an early threat that's bad enough at human-eating scale keeps escalating until the things are large enough to start consuming the Kōsa-byō, the mausoleum-mountains that define the entire skyline. Nihei stages it so the architecture you spent the book reading as permanent, geological, eternal becomes food. The most solid thing in the world turns out to be just more meat for the white things. That collapse of scale — from "monster eats a person" to "monster eats the world's tombs" — is the single image that justifies the whole nightmare for me. It's pure Nihei: the horror isn't a jump scare, it's a realization about size.
 
 ## Pros & Cons
 
 **Pros**
-- Nihei's most formally pure visual storytelling
-- Gauna designs are genuinely unsettling
-- Complete in 2 volumes — minimal commitment
-- Exceptional reread value as visual experience
+- The bone-armor transformation is one of the great body-horror designs in manga — and demonstrably influential
+- Dense, fast, complete; no filler, no decade-long wait
+- The VIZ deluxe hardcover is gorgeous and includes the bonus short story "Digimortal"
+- Essential reading if you love Chainsaw Man and want to see its DNA
 
 **Cons**
-- Near-wordless storytelling requires visual literacy
-- Minimal narrative explanation — ambiguity is intentional
-- M rating content is genuinely extreme
+- The plot is deliberately fragmented and hard to follow — even Nihei downplays the setting
+- Gore and cannibalism are constant and explicit
+- Short enough that readers wanting a long arc will feel it end abruptly — that opacity is either the appeal or a dealbreaker, and only you know which one you are
 
-## Format Comparison
+## Is Abara Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | VIZ Media; complete in 2 volumes |
-| Digital | Available |
+Yes — especially if Chainsaw Man sent you looking. It's a short, brutal, visually staggering body-horror nightmare whose central transformation directly shaped one of the most popular manga of the decade. Go in for the art and the ideas, not for a clean story, and it more than earns its two volumes.
+
+## Similar Manga
+
+| Title | Its Approach | How Abara Differs |
+|---|---|---|
+| Blame! | Nihei's silent epic through an endless megastructure | Abara is faster, gorier, and far more biological than architectural |
+| Biomega | Nihei's motorcycle-and-virus action horror | Abara is shorter and more abstract, less of a road-movie chase |
+| Chainsaw Man | Fujimoto's warm, chaotic "pop Abara" | Abara is the cold original — same bone-weapon body horror, none of the jokes |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Abara+manga&i=stripbooks)
-
+[Start with the Complete Deluxe Edition →](https://www.amazon.com/s?k=Abara+Nihei+manga&i=stripbooks&tag=dearmanga-20)
 
 ---
 
