@@ -9,128 +9,82 @@ mangaTitleJa: "ブラック・エンジェルズ"
 mangaAuthor: "Shinji Hiramatsu"
 serialization: "Weekly Shonen Jump"
 publisher: "Shueisha"
-volumes: 15
+volumes: 20
 status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "M (Mature)"
-contentWarnings: ["graphic violence", "vigilante themes", "crime content", "mature action"]
-description: "Black Angels follows a secret group of vigilantes who execute criminals that the justice system has failed to punish — a violent action manga that uses its premise to raise uncomfortable questions about justice, law, and who gets to make that call."
+contentWarnings: ["graphic violence", "vigilante killing", "sexual assault", "crime content"]
+description: "Black Angels follows Yoji Yukito, a meek-looking young man who kills criminals the law cannot touch with a single bicycle spoke. A 1980s Weekly Shonen Jump vigilante manga that uses extreme violence to ask who gets to decide who lives."
 publishedAt: "2026-04-22"
-tags: ["action", "crime", "classic", "completed", "seinen"]
+rewritten: "2026-06-03"
+read: true
+tags: ["action", "crime", "classic", "completed", "vigilante"]
 rating: 4
 hasAffiliate: false
 ---
 
-What if someone decided the legal system was too slow — and started doing the job themselves?
+When I was a kid, the older boys at school used to take my lunch and dare me to tell a teacher about it. I never did, because telling never fixed anything — the teacher would nod, nothing would change, and the next day it started again. So when I first read about a quiet young man who rides a bicycle around Japan and kills the people the courts let walk free, something in me leaned forward. I knew that feeling of "the system is supposed to protect you and it just doesn't." Black Angels is built entirely out of that feeling, and then it spends twenty volumes asking whether doing something about it yourself is any better.
 
 ## Quick Take
 
-- Saruwatari's vigilante action manga — graphic, intense, and more morally serious than the genre usually gets
-- The Black Angels are not presented as unambiguously heroic — the series asks the reader to sit with that discomfort
-- Influential on the darker edge of action manga in the 1980s and 1990s
-
-## Who Is This Manga For?
-
-- **Action manga readers** who want moral complexity alongside the violence
-- **Fans of crime and vigilante fiction** in the tradition of Death Note or Sanctuary
-- **Readers of 1980s Jump manga** interested in its harder edge
-- **Anyone who has wondered about justice** and whether the formal kind is sufficient
-
-## Content Warnings & Age Rating
-
-**Age Rating**: M (Mature)
-**Content Warnings**: Graphic violence throughout. Vigilante killing and crime content. Mature action. Not appropriate for younger readers.
-
-Mature content — take seriously.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★★☆ |
+- Shinji Hiramatsu's 1980s vigilante action manga — the same man who drew Doberman Cop, here at his bleakest and most violent
+- The hero kills with a bicycle spoke and the catchphrase "Go to hell!!" — pulpy on the surface, genuinely uncomfortable underneath
+- Age rating: M (Mature) — graphic killing, sexual assault as a plot element, no English license
 
 ## Story Overview
 
-A secret organization called the Black Angels targets criminals who have evaded legal punishment — people the court system acquitted, witnesses who were silenced, powerful figures who used their position to escape consequences. The Angels investigate, judge, and execute.
+Yoji Yukito looks like nobody. He is a thin, glasses-wearing young man who travels Japan by bicycle, polite and easy to overlook. He is also a "Black Angel" — an assassin who hunts down the evil that the law cannot punish, and who takes no money from the victims who beg him for help. His weapon is a single spoke pulled from his own bicycle wheel, and his line, every time, is "地獄へ落ちろ" — "Go to hell."
 
-The protagonist is drawn into this world and must confront what it actually means to operate this way: the certainty required to execute someone, the possibility of error, the corruption that unlimited power over life and death inevitably produces.
+The first stretch of the series is episodic: corrupt cops, kidnappers, killers who walked free on technicalities. The very first case sets the tone — a crooked detective frames a reforming diner worker named Seiji, then assaults Seiji's sister, and Yukito executes him for it. From there the scope keeps widening. The middle of the series turns into open war between the Black Angels (men and women who all carry a cross-shaped scar) and Ryuga-kai, a revolutionary organization running "Plan M," a scheme to destroy the Kanto region. Plan M is technically stopped — but Mt. Fuji erupts anyway, Kanto collapses, and the manga lurches into a post-apocalyptic wasteland reminiscent of Fist of the North Star.
 
-Saruwatari builds the series around escalating cases — each one more morally complex than the last, each one raising harder questions about where the Angels' authority comes from and whether it is real.
-
-The violence is graphic. The moral argument is real. Both are consistent with the manga's project — it is trying to make you feel the weight of what it is depicting rather than let you off the hook with easy heroism.
+The final third pulls the whole thing into stranger territory — mysterious coins, a "White Angels" faction wielding psychic powers, and a last enemy named Yuki who began as one of the good ones before being broken into something monstrous. The ending is not a clean, satisfying win. Yukito gathers the burdens of everyone who fought beside him and pays for the victory himself. Across 20 volumes Hiramatsu never lets "kill the bad guy" stay simple.
 
 ## Characters
 
-**The Black Angels**: A team rather than a single protagonist — different members with different moral frameworks, whose disagreements about the mission are the series' internal tension.
+**Yoji Yukito** — The protagonist. An orphan with no family, drifting by bicycle, deliberately unremarkable so nobody sees the killer underneath. The cross-shaped scar on his chest marks him as a Black Angel, and the Christian image of "carrying the cross" sits under the whole series. He starts as an almost machine-like executioner and slowly grows real emotional weight as the people around him die.
 
-**The targets**: Saruwatari is careful to make the criminals genuinely criminal — the reader understands why they were targeted. Then he complicates the picture.
+**Kyoji Matsuda** — A former detective who joined the police to avenge his father, then quit. He fights bare-handed with karate so brutal he can catch a bazooka shell with his hands. His volume-2 line, "Are you telling me it's wrong to keep dreaming?!", is one of the series' most-quoted moments.
 
-## Art Style
+**Reira** — A woman who fights by throwing knives, a former killer who ends up on Yukito's side. She is one of the recurring core members who give the later war arcs their stakes.
 
-Saruwatari's art is detailed and intense — appropriate for the content. Character expressions communicate moral weight. Action sequences are clear and unsparing.
-
-## Cultural Context
-
-Black Angels ran in Weekly Shonen Jump from 1981 to 1987. Its appearance in Jump — a magazine known for optimistic, values-driven content — was itself a statement. Saruwatari pushed the magazine's tolerance for moral ambiguity in ways that influenced what Jump subsequently became willing to publish.
+**Yuki** — The final antagonist. Originally a righteous boy, he is brainwashed and corrupted into the most powerful fighter in the story, a psychic force the Black Angels can barely stand against. He is the dark mirror the whole series has been building toward: the same impulse to fix the world by force, taken all the way to monstrousness.
 
 ## What I Love About It
 
-I love that the series doesn't let you stay comfortable.
+What stays with me is the bicycle spoke. It sounds almost silly when you describe it — the hero spins his front wheel, snatches a single thin spoke out of it, and that is the murder weapon. But Hiramatsu draws it so seriously that it stopped being silly to me. The spoke is the perfect object for who Yukito is: invisible, ordinary, the kind of thing nobody would ever search a polite young man for. A gun says "I came here to kill." A spoke pulled from the bike you rode in on says "I was always going to be able to do this, and you never noticed."
 
-The Angels are clearly doing something that feels justified at the start. Then the cases get harder. Then something goes wrong in a way that was predictable. Then the question the series has been building toward arrives: given that the legal system fails people, and given that private judgment also fails people, where does that leave you?
-
-The manga doesn't answer. It asks, which is rarer.
-
-## What English-Speaking Fans Say
-
-Not known in English-speaking markets. Among readers of older action manga, Black Angels is appreciated as one of the more serious entries in the vigilante genre — a series that uses extreme action to raise genuine ethical questions.
+The reason it hit me is that it makes the violence feel quiet and personal instead of explosive. There is no gunfire spectacle, just a man you underestimated, one motion, and "Go to hell." For a kid who used to fantasize about somebody finally stepping in when the adults wouldn't, that image — the smallest, most overlooked person turning out to be the one who acts — landed somewhere very specific. And then the series spends the rest of its run punishing me for finding it satisfying, which is exactly why I respect it.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-A case where the Angels' certainty about a target turns out to be wrong — where the evidence they relied on was manufactured — and the team must face what they have done. The scene is brief and the series does not dwell on it, which makes it more damaging than if it had. The fact that it moves on is part of the argument.
+The opening case is the one I cannot shake. A corrupt detective frames Seiji, a young diner worker who is genuinely trying to go straight, and then sexually assaults Seiji's sister — using his badge as cover the whole way. It is ugly on purpose. There is no clever plot, no twist; it is just power abusing the powerless, presented plainly. Then the meek young man everyone ignored steps out of his disguise, corners the detective, and kills him with the spoke.
 
-## Similar Manga
-
-- **Death Note**: Vigilante justice as a premise — more psychologically elaborate, similar moral territory
-- **Sanctuary**: Same era, similar interest in operating outside legitimate systems
-- **City Hunter**: Same era, lighter — same Jump action tradition
-
-## Reading Order / Where to Start
-
-Volume 1. The series builds its moral argument progressively.
-
-## Official English Translation Status
-
-Black Angels has no official English translation.
+What makes it stay is that it is the manga's thesis stated in chapter one. The law is the detective. The law is the thing that was supposed to stop this and instead became the predator. So when Yukito says "Go to hell," part of you cheers — and Black Angels spends 20 volumes making you wonder why you did, and whether a man who appoints himself executioner is really so different from the badge he just put in the ground.
 
 ## Pros & Cons
 
 **Pros**
-- Moral complexity unusual for action manga
-- Consistent and serious engagement with the vigilante premise
-- Complete at 15 volumes
-- Influential on the darker edge of Jump
+- A vigilante premise taken more seriously than the pulpy surface suggests
+- Yukito and the bicycle spoke are a genuinely iconic hero-and-weapon pairing
+- Complete at 20 volumes with a real, downbeat ending
+- A milestone of the 1980s "punishment manga" wave from one of Jump's heavy hitters
 
 **Cons**
-- No English translation
-- Graphic violence — genuinely mature content
-- The moral ambiguity may frustrate readers wanting clean heroism
+- No official English release — Japanese only
+- Graphic violence and sexual assault used as plot material; genuinely mature, sometimes lurid
+- The later arcs swerve into post-apocalypse and psychic powers, which is a tonal whiplash that won't work for everyone
 
-## Format Comparison
+## Is Black Angels Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available |
-| Digital | Available in Japanese |
-| Omnibus | Collected editions available |
+If you want a vigilante action manga that is darker, older, and more morally uneasy than the modern ones — and you can read Japanese or are willing to — yes. It is a 1980s Jump artifact with a hero who kills with a bicycle spoke and a story that refuses to let "killing bad people" feel clean. If you need a clear English release or a hero you can root for without flinching, this isn't the one.
 
 ## Where to Buy
 
-No English release yet. That just means you find it before everyone else does.
+No English release yet. That just means you find it before everyone else does. The Japanese print and digital editions are the only legitimate way to read it for now.
+
+[Search Black Angels on Amazon.co.jp →](https://www.amazon.co.jp/s?k=%E3%83%96%E3%83%A9%E3%83%83%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%82%BA+%E5%B9%B3%E6%9D%BE%E4%BC%B8%E4%BA%8C&tag=yushi745-22)
 
 ---
+
+This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.

@@ -1,5 +1,5 @@
 ---
-title: "Big Order Review: The Mirai Nikki Spiritual Successor That Swings for the Apocalypse"
+title: "Big Order Review: The Future Diary Author's Wish That Burned the World Down"
 slug: "big-order"
 coverImage: "/covers/big-order.jpg"
 genre: "Action / Supernatural"
@@ -11,138 +11,79 @@ serialization: "Monthly Shonen Ace"
 publisher: "Kadokawa / Yen Press"
 volumes: 10
 status: "Completed"
-englishVolumes: 10
+englishVolumes: 5
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["violence", "death", "apocalyptic themes", "power fantasy elements"]
-description: "A review of Big Order by Sakae Esuno — the follow-up to Future Diary, featuring world-altering wish powers, a protagonist blamed for destroying civilization, and the specific brand of escalation Esuno specializes in."
-amazonASIN: "0316272213"
+contentWarnings: ["violence", "death", "apocalyptic themes", "fanservice"]
+description: "A review of Big Order by Sakae Esuno — the Future Diary author's manga about a boy blamed for ending the world, the assassin sent to kill him, and the wish that was never what anyone thought."
+amazonASIN: "0316504629"
 publishedAt: "2026-05-01"
 tags: ["action", "supernatural", "powers", "apocalypse", "esuno"]
 rating: 3
 hasAffiliate: true
+read: true
+rewritten: "2026-06-03"
 ---
 
-A boy wished to rule the world as a child. The wish came true and destroyed civilization. Now everyone wants him dead. He's still the protagonist.
+I came to Big Order the same way a lot of people did — through Mirai Nikki (Future Diary). I loved that manga as a teenager, the way Esuno could make a phone full of diary entries feel like a loaded gun. So when I found out he had written another series about wishes and power and the end of the world, I bought it immediately. I think I expected another Future Diary. What I got was messier, sillier, and in some ways braver. I have made my peace with that, and honestly I am glad I read it.
 
 ## Quick Take
 
-- Sakae Esuno's follow-up to *Future Diary* — similar DNA, more explicitly power-fantasy
-- The escalation is relentless; the twists accumulate in ways that require total commitment
-- 10 volumes complete in English — fully available
-
-## Who Is This Manga For?
-
-- *Future Diary* fans who want more of Esuno's specific flavor of chaos
-- Readers who enjoy power escalation manga that doesn't flinch from its premise
-- People who can engage with a morally compromised protagonist without needing him to be likable
-- Anyone who enjoys supernatural action that commits fully to its world-ending stakes
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Violence, character deaths, apocalyptic destruction, morally complex protagonist
-
-More intense than a typical T-rating suggests. The stakes are genuinely world-scale.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
+- Sakae Esuno's follow-up to *Future Diary* — wishes granted as superpowers called "Orders," set in a world a boy supposedly destroyed
+- The plot keeps yanking the rug out: nothing about the hero's power, his crime, or his wish is what it first looks like
+- 10 Japanese volumes, complete in English through Yen Press (5 large editions); rated T (Teen), though the fanservice and destruction push that line
 
 ## Story Overview
 
-Eiji Hoshimiya wished, as a child, to rule the world. The fairy Daisy granted his wish — along with the wishes of nine others who all received world-altering "Orders." The result: civilization as it existed was largely destroyed.
+Ten years ago, a woman called Daisy appeared and granted people a single wish each, manifesting as a superpower called an "Order." A young boy named Eiji Hoshimiya was the first to wish — and his wish seemed to coincide with the "Great Destruction," a wave of disasters that killed millions and reshaped the world. Eiji has spent the decade since believing he is the one who broke everything, so he refuses to use his power. He lives in Kyushu, quietly, protecting his terminally ill little stepsister Sena.
 
-Ten years later, Eiji lives trying not to use his power and being blamed by most of the surviving population for what happened. Then the Daisy appears again, and the other Order wielders come into conflict with each other, and Eiji is drawn into a conflict over whether the world can be rebuilt — or whether someone will use the Orders to end it entirely.
+The turning point comes when a transfer student named Rin Kurenai tries to kill him. Her parents died in the Great Destruction, and she blames Eiji. The confrontation drags Eiji back into the world of Orders and forces him to actually use his power — and to start questioning the story he has told himself about who he is. He gets pulled into the orbit of the "Group of Ten," powerful Order users running things behind the scenes, who manipulate him into becoming a figurehead for a domination scheme by dangling the one thing he wants: a cure for Sena.
 
-The series follows Eiji as he reluctantly accepts that he has to use his power, assembles an improbable group of allies (including people with excellent reasons to want him dead), and escalates toward a confrontation with forces that operate on a genuinely apocalyptic scale.
+The series escalates from there toward an apocalyptic finale. Sena ends up summoning "God," which begins breaking through into the human world, and Eiji finally swears to kill his own sister to stop the catastrophe. The big reveal recontextualizes everything: Eiji's real Order was never about ruling or destroying. His true wish was "to take Sena's fault" — Sena caused the Great Destruction, and Eiji's power rewrote his own memories so he would carry the blame. The epilogue, years later, gives him something almost gentle: the Orders are gone, Sena lives, and the survivors are just kids going to school together.
 
 ## Characters
 
-**Eiji Hoshimiya** — The complication is that his wish did cause everything that's wrong with the world. He knows it. The story doesn't let him off the hook. His arc is about whether someone responsible for catastrophe can do something worth doing with that responsibility.
+**Eiji Hoshimiya** — A protagonist built entirely on a wrong premise. He thinks he ended the world, so his whole personality is guilt and refusal. The story slowly dismantles that: his power isn't "Bind Dominator" the way he believes, it's "Illegal Digger," which steals abilities and memories from others. His arc is the slow horror and relief of learning his own brain lied to him to protect the person he loves.
 
-**Rin Kurenai** — Introduced as an assassin with every reason to kill Eiji. Becomes something else. Her transition is the series' best character work.
+**Rin Kurenai** — Introduced as an assassin with airtight reasons to hate Eiji. Her Order is healing — she can mend herself, others, and things. She starts as the person sent to end Eiji and ends as the person standing beside him through the finale, including a romance that develops across the series. Her shift from vengeance to loyalty is the manga's most coherent character thread.
 
-**Gennai Hiiragi** — The antagonist whose Order makes him an interesting foil to Eiji's — different visions of what ruling the world means.
+**Sena Hoshimiya** — Eiji's terminally ill stepsister and the emotional engine of the whole plot. Everything Eiji does, every deal he accepts, is to keep her alive. The reveal that she — not Eiji — actually caused the Great Destruction turns her from a thing-to-protect into the center of the tragedy.
 
-## Art Style
-
-Esuno's art is kinetic and expressive — excellent at conveying the confusion of overlapping Order effects and the physical impact of large-scale abilities. Character designs are distinctive. The apocalyptic environments are rendered with consistent attention to scale. Some readers find the visual busyness overwhelming during peak escalation sequences; others find it appropriately chaotic for what it's depicting.
-
-## Cultural Context
-
-*Big Order* was Esuno's attempt to work in a more explicitly power-fantasy mode after *Future Diary*'s psychological-horror approach. The "wish granted with catastrophic consequences" premise draws on a long tradition in Japanese fantasy (from fairy tales to contemporary light novels) about the gap between what you ask for and what you actually want.
-
-The political structure — Order users as de facto rulers of territories — creates a medieval-fragmentary-state setup that allows for the kinds of alliance and conflict dynamics common to feudal-era historical fiction.
+**Daisy** — The wish-granter who started everything. She reappears to nudge Eiji into remembering what his wish really was, functioning less as a villain than as the mechanism that keeps forcing the truth back to the surface.
 
 ## What I Love About It
 
-The way the series commits to Eiji's responsibility for the original catastrophe. Esuno doesn't retroactively soften it or reveal that it wasn't really Eiji's fault. He wished for it. It happened. The story is about what comes after owning that, not about absolution.
+There is a single idea at the core of Big Order that I keep coming back to, and it's the reveal about Eiji's power. For most of the series you, like Eiji, believe his Order is dominion — that he wished to rule the world and that ambition is somehow tied to the catastrophe. The manga lets you sit in that interpretation for a long time. And then it pulls it apart: his power is Illegal Digger, theft of others' abilities and memories, and his actual wish was "to take Sena's fault." His mind rewrote itself. He convinced himself he was the monster so his sister wouldn't have to be.
 
-That's a harder line to hold than most wish-power manga bothers with.
-
-## What English-Speaking Fans Say
-
-Compared unfavorably to *Future Diary* by most readers, which is somewhat unfair — they're doing different things. The escalation is either enjoyable or exhausting depending on the reader. The complete 10-volume release is consistently cited as a reason to try it over ongoing series in the same space.
+That hit me harder than I expected from a series I'd been treating as goofy popcorn. Because it reframes ten years of self-hatred as an act of love so total it edited his own memory. The guilt Eiji carries the whole manga isn't even his — it's a gift he gave himself without knowing it. I think Esuno does something genuinely clever here that Future Diary fans will recognize: he hides a sincere emotional core under a pile of escalating chaos, so that when the sincerity surfaces it lands by surprise. I didn't cry, but I closed the volume and just sat there for a minute. For a manga I almost didn't take seriously, that is a real thing to pull off.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The sequence where multiple Orders interact in ways that create genuinely unpredictable consequences — where even the characters with the most information don't know what's happening — is the series at its most characteristically Esuno. The chaos is the point.
-
-## Similar Manga
-
-| Title | Its Approach | How Big Order Differs |
-|---|---|---|
-| Future Diary | Survival horror with a morally compromised protagonist | Future Diary is more psychologically focused; Big Order is more action-forward |
-| Code Geass | World domination through exceptional ability | Code Geass is more politically strategic; Big Order is more power-escalation focused |
-| AntiMagic Academy | Supernatural powers and institutional conflict | AntiMagic is more grounded; Big Order is more explicitly world-scale |
-
-## Reading Order / Where to Start
-
-Read *Future Diary* first if you can — understanding Esuno's sensibilities helps calibrate expectations. *Big Order* doesn't require it but benefits from context.
-
-## Official English Translation Status
-
-Yen Press published all 10 volumes in English. Complete and available.
+The image I can't shake is the finale's central choice: Sena has summoned "God," it's tearing its way through a gate into the human world, and Eiji — who has spent the entire story sacrificing everything to keep Sena alive — stands there and swears to kill her to stop it. After everything, after rewriting his own memory to take her blame, the story corners him into the one act his whole existence was built to avoid. It works because the manga earned the contradiction. Watching him hold both things at once — the will to protect her and the will to end her — is the most genuinely heavy beat in a series that often runs on spectacle. The epilogue softening it (Sena survives, the Orders vanish) almost feels like Esuno couldn't bear to leave it there either.
 
 ## Pros & Cons
 
 **Pros**
-- Complete 10-volume story with resolution
-- Commits to its premise's consequences more honestly than similar series
-- Rin's character arc is genuinely effective
-- The escalation, if you're in the right mood, is relentless entertainment
+- Complete story with a real, resolved ending — no dangling threads
+- The central reveal about Eiji's power and wish is genuinely well-built
+- Rin's arc from assassin to partner actually holds together
+- Esuno's kinetic art makes the Order battles easy to follow even when powers overlap
 
 **Cons**
-- Not as psychologically layered as *Future Diary*
-- Escalation can become overwhelming and incoherent in later volumes
-- Eiji is a difficult protagonist to engage with emotionally
-- The power interactions become hard to track as Orders multiply
-- Readers expecting *Future Diary* levels of psychological depth will be disappointed
+- Tonally all over the place — heavy tragedy sitting next to broad fanservice and slapstick
+- The escalation gets so fast it can feel like the plot is sprinting past its own ideas
+- Eiji's passivity for long stretches makes him hard to root for early on
+- The fanservice and rushed feel mean this won't work for everyone, especially readers hoping for Future Diary's tighter psychological focus
 
 ## Is Big Order Worth Reading?
 
-For power-escalation manga fans and *Future Diary* completionists, yes. Don't expect Future Diary. Expect something that commits to its own chaos and mostly follows through.
-
-## Format Comparison
-
-| Format | Pros | Cons |
-|---|---|---|
-| Physical | Art reads well in print | 10 volumes requires space |
-| Digital | Convenient | — |
-| Omnibus | No omnibus available | — |
+If you liked Future Diary and you go in expecting something looser and weirder rather than a sequel, yes. It's a short, complete series with a smart emotional twist buried under a lot of noise. If you need tonal consistency or a hero who drives the plot from page one, it'll frustrate you.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/dp/0316272213?tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/dp/0316504629?tag=dearmanga-20)
 
 ---
 *This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
