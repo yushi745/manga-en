@@ -1,135 +1,88 @@
 ---
-title: "Cheeky Brat Review: A High Schooler Who Treats His Older Colleague Like a Little Sister Realizes He Was Wrong"
+title: "Cheeky Brat Review: The Shojo Where the Pushy Underclassman Sees Through the Girl Who Hides Everything"
 slug: "cheeky-brat"
 genre: "Romance / Comedy"
 genreSlug: "romance"
 mangaTitle: "Cheeky Brat"
 mangaTitleJa: "なまいきざかり。"
 mangaAuthor: "Mitsubachi Miyuki"
-serialization: "Cheese!"
-publisher: "Shogakukan / VIZ Media (Shojo Beat)"
-volumes: 17
+serialization: "Hana to Yume"
+publisher: "Hakusensha / Yen Press"
+volumes: 23
 status: "Completed"
-englishVolumes: 17
-englishStatus: "Complete"
+englishVolumes: 15
+englishStatus: "Ongoing"
 ageRating: "T (Teen)"
-contentWarnings: ["age gap (high school / young adult)", "light romance", "workplace-adjacent dynamics"]
-description: "Yu's review of Cheeky Brat — Yuki Namito treats his older colleague Matsuri Ochiai like a younger sister despite her being his senior; when she starts to respond differently to his attention, both of them have to reckon with what they actually feel."
+contentWarnings: ["age gap (senpai-kohai)", "light sexual harassment played for comedy", "romance"]
+description: "Yu's review of Cheeky Brat (Namaikizakari) — Yuki Machida manages the basketball team and hides her heart behind a calm face, until Sho Naruse, a brash first-year, decides he can see right through her."
 coverImage: "/covers/cheeky-brat.jpg"
-amazonASIN: "1421598906"
+amazonASIN: "1975334353"
 publishedAt: "2025-05-27"
-tags: ["romance", "comedy", "shojo", "completed", "teen", "viz", "workplace", "age-gap"]
+tags: ["romance", "comedy", "shojo", "basketball", "sports", "school", "teen", "yen-press"]
 rating: 4
+read: true
+rewritten: "2026-06-03"
 hasAffiliate: true
 ---
 
+I have a soft spot for characters who learned too early how to keep their face still. When I was a kid hiding in the library at lunch, I got very good at looking like nothing was wrong — and that habit doesn't leave you. So when I picked up Cheeky Brat (なまいきざかり。, Namaikizakari) and met Yuki Machida, a girl who raised five younger siblings and learned to swallow every feeling before it shows, I felt like I already knew her. The whole hook of this manga is that one loud, shameless boy refuses to let her keep hiding. That landed for me harder than I expected from a series with a title this silly.
+
 ## Quick Take
 
-- A shojo romance that earns its central relationship by taking both characters' confusion seriously — the age-gap dynamic is handled with more care than the premise initially suggests
-- The slow-build from Yuki's patronizing assumption to genuine feeling is the series' most satisfying element
-- 17 volumes complete; a complete shojo romance with a satisfying ending
-
-## Who Is This Manga For?
-
-- Readers who enjoy slow-burn shojo romance with comedy
-- Anyone who wants a complete romance they can read in full without waiting
-- Fans of relationship dynamics where both parties have to update their assumptions about each other
-- Readers who want VIZ shojo that doesn't rely on melodrama for tension
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Mild age gap between high school protagonist and young adult female lead; workplace-adjacent dynamics; light romance content appropriate to T rating
-
-A T rating that reflects light, shojo-appropriate romantic content.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★★☆ |
+- A shojo basketball romance built on a great mismatch: a guarded older-girl manager and a younger boy who is too direct to let her pretend she's fine
+- The slow turn from "this kid is annoying" to "this kid actually sees me" is the engine, and Mitsubachi Miyuki keeps the comedy running the whole way
+- Rated T (Teen): school-life romance with some flirty harassment played for laughs early on; nothing graphic
 
 ## Story Overview
 
-Yuki Namito is a high schooler who works part-time at the same place as Matsuri Ochiai, an older woman he has decided, unilaterally, to treat as a little sister — someone to tease and manage rather than someone to take seriously.
+Yuki Machida is a second-year high schooler who manages her school's basketball team. She's calm, capable, and emotionally closed off — partly because, as the eldest of six, she spent her childhood raising five younger siblings and learned to keep her own feelings invisible. The reason she joined the team in the first place was a quiet crush on the captain, Kido.
 
-Matsuri, who is his senior in every practical sense, finds this both infuriating and, gradually, not infuriating in quite the same way.
+The story turns a week before the Winter Cup qualifier, when Yuki finds out Kido has a girlfriend and breaks down crying alone in the clubroom. The person who finds her is Sho Naruse — a brash, good-looking first-year who already knows about her feelings for Kido. Instead of comforting her gently, he needles her, and she writes him off as a cocky kid. But during that Winter Cup game, Naruse plays through an injured foot, partly so the team wins and Yuki doesn't have to be disappointed again. After the loss, while she's wrapping his ankle, he kisses her and tells her he likes her.
 
-The series follows the reversal of Yuki's assumption — the process by which he realizes that what he was feeling wasn't fraternal — and Matsuri's own reckoning with what it means that she started looking forward to his attention.
+From there it's a long, stubborn courtship. Yuki keeps her distance; Naruse keeps closing it. She slowly stops thinking about Kido and starts looking forward to Naruse, and around the end of the early arc she finally admits her own feelings — to which Naruse, characteristically, says he can wait. The series follows them through high school and into Osaki University, where Naruse keeps playing basketball and Yuki keeps managing, eventually setting up their lives together as adults.
 
 ## Characters
 
-**Yuki Namito** — A protagonist whose patronizing confidence is the series' opening joke and his arc's obstacle — the series is the story of him discovering that his certainty about what he felt was wrong, and what he does with that discovery.
+**Yuki Machida** — The real protagonist. Her flat, composed exterior isn't coldness, it's armor built from years of being the responsible eldest child. Her arc is about unlearning that armor: going from a girl whose "first love" was a safe, distant crush on Kido to someone who can actually let a person close enough to hurt her — and choosing to anyway.
 
-**Matsuri Ochiai** — Her resistance to Yuki's categorization of her is the series' most consistent thread — she knows she is not his little sister, and her awareness of what she actually feels is ahead of his throughout most of the series.
+**Sho Naruse** — The "cheeky brat" of the title. He starts as a shameless tease (his literal first scene is accidentally groping a classmate and bragging about it) and is easy to dismiss. But the joke of the series is that he's the only one who reads Yuki accurately. He stays bratty to the end, but he matures where it counts, and his patience — telling Yuki he'll wait — is the opposite of the pushiness he leads with.
 
-**Supporting cast** — Friends and coworkers who observe and occasionally complicate the central dynamic without melodrama.
+**Kido** — The team captain and Yuki's first love. He's the reason she's a manager at all, and his getting a girlfriend is the wound that opens the story. He functions less as a rival and more as the thing Yuki has to let go of.
 
-## Art Style
-
-Miyuki's art is clean and expressive shojo — the romantic moments are rendered with the specific emotional precision the genre demands, and the comedy of Yuki's condescension is visual as well as textual. The character designs are distinctive and appealing.
-
-## Cultural Context
-
-The kohai-senpai dynamic — junior-senior relationships with specific social expectations — underlies Cheeky Brat's premise. Yuki's assumption that he can treat his senpai as a little sister is an inversion of the expected respect structure, which makes his arc a correction in multiple directions simultaneously.
+**Shizuka Hakamada** — Naruse's childhood friend, a transfer student who falls for Yuki himself. He's a quiet romantic rival to Naruse, and he steps back only after seeing how completely Yuki has fallen for Naruse.
 
 ## What I Love About It
 
-The series understands that Yuki's patronizing stance comes from a specific kind of affection he doesn't have language for — and that discovering language for it is the emotional work the story is actually about. This is more interesting than most shojo setups, which tend to begin with clear desire rather than mislabeled desire.
+It's the clubroom scene at the very start. Yuki, who never lets anyone see her cry, is finally crying — over Kido — and the person who catches her is the worst possible witness: this smug first-year who already knows her secret. My stomach dropped reading it, because that's the nightmare. You spend your whole life keeping the mask on and then you break in front of exactly the person you'd never choose.
 
-## What English-Speaking Fans Say
-
-Western readers describe Cheeky Brat as a satisfying slow-burn romance with a more psychologically interesting setup than the premise suggests. The complete run is specifically cited as a virtue — readers can experience the full arc without waiting. Matsuri is consistently praised as a more interesting female lead than typical shojo heroines.
+What I love is what the series does with that. Naruse doesn't hand her a tissue and a soft speech. He pokes at her, he's annoying, he even tries to bargain for it. And yet — he saw her. That's the thing she's been terrified of and the thing she secretly needed. The manga understands that being truly seen is uncomfortable before it's a relief, and that a guarded person won't fall for the gentle boy who respects every wall; she falls for the loud one who walks straight through. Naruse playing the Winter Cup match on a hurt foot so Yuki won't be disappointed again, right after this, is the whole relationship in miniature: he's reckless and immature, but his attention is always pointed at her. That contrast — careless on the surface, dead serious underneath — is why the romance works instead of feeling like a joke.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The chapter where Yuki first becomes aware that his feelings for Matsuri cannot be contained within the "little sister" category he assigned her — and his specific reaction to that realization, which is neither clean nor heroic — is the series' most honest character moment.
-
-## Similar Manga
-
-- **Monthly Girls' Nozaki-kun** — Workplace romance comedy, similar humor
-- **Kare First Love** — Complete shojo romance with slow build
-- **My Love Story!!** — Complete shojo with unusual protagonist perspective
-- **Shortcake Cake** — Complete shojo with ensemble romance
-
-## Reading Order / Where to Start
-
-Volume 1 — The central dynamic and both characters' starting assumptions are established immediately.
-
-## Official English Translation Status
-
-VIZ Media (Shojo Beat) published all 17 volumes. Complete and available.
+After Ryuhoku loses the Winter Cup qualifier 72-65, Naruse sits getting his injured ankle wrapped — by Yuki. It's a small, ordinary post-game moment, the manager doing her job. And then he kisses her and tells her he likes her. It's the first chapter's closing beat, and it's perfect placement: he confesses not in a romantic spot but in the middle of defeat, sweat and tape and a lost game, which is exactly the unguarded register Yuki lives in. Later, when she finally confesses back near the end of the early arc, Naruse's answer — that he can wait half a year for her — is the quiet payoff that recontextualizes all his earlier pushiness as someone who actually knows how to be patient when it matters.
 
 ## Pros & Cons
 
 **Pros**
-- Complete 17-volume run — full story available now
-- Yuki's character arc is more psychologically specific than standard shojo leads
-- Matsuri is a compelling female lead whose awareness precedes his
-- Consistent comedy alongside the romance
+- A genuinely well-built central couple — the "guarded girl, blunt boy" dynamic has real emotional logic
+- Yuki is a stronger, more specific heroine than the shojo average, with a backstory that explains her
+- Naruse stays funny without the romance becoming a joke
+- The complete 23-volume Japanese run means the story actually has somewhere to go (high school into university)
 
 **Cons**
-- Age gap dynamic requires some tolerance for patronizing male lead initially
-- 17 volumes is a substantial commitment for the story it tells
-- Some readers will find the pace slow in the middle volumes
+- The early "cheeky" comedy includes flirty harassment played for laughs, which has aged unevenly
+- 23 volumes is a long commitment for a single romance
+- The English release is still catching up, so you can't binge the whole thing in English yet — that's either a dealbreaker or a non-issue depending on how you read, so it won't work for everyone
 
-## Format Comparison
+## Is Cheeky Brat Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | VIZ Media / Shojo Beat; complete 17-volume set |
-| Digital | Available |
+Yes, if you like slow-burn shojo with a heroine who feels real and a love interest whose pushiness actually pays off as devotion. The early harassment comedy and the long volume count are the main caveats, and the English edition is still ongoing rather than complete — but the central relationship is one of the better ones in the genre.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Cheeky+Brat+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=Cheeky+Brat+manga+Yen+Press&i=stripbooks&tag=dearmanga-20)
 
 ---
 

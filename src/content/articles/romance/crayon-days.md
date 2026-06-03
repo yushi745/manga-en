@@ -1,22 +1,22 @@
 ---
-title: "Crayon Days Review: Mio Chizuru's Quiet Drama of Adolescence"
+title: "Crayon Days Review: The Country Girl Who Wanted to Be Special"
 slug: "crayon-days"
 coverImage: "/covers/crayon-days.jpg"
 genre: "Romance / Drama"
 genreSlug: "romance"
 mangaTitle: "Crayon Days"
-mangaTitleJa: "クレヨン王国"
-mangaAuthor: "Mio Chizuru"
-serialization: "Hana to Yume"
-publisher: "Hakusensha"
-volumes: 3
+mangaTitleJa: "くれよん・でいず～大キライなアイツ～"
+mangaAuthor: "Kozue Chiba"
+serialization: "Sho-Comi"
+publisher: "Shogakukan"
+volumes: 4
 status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
 contentWarnings:
   - "mild-romance"
-description: "A quiet shojo about color, art, and growing up — from a rising voice in josei manga."
+description: "An ordinary country girl moves to an art school dorm and clashes with a so-called genius — a four-volume Sho-Comi romance about talent, jealousy, and wanting to be special."
 amazonASIN: ""
 publishedAt: "2024-12-03"
 tags:
@@ -24,109 +24,71 @@ tags:
   - "art"
   - "slice-of-life"
   - "shojo"
+read: true
+rewritten: "2026-06-03"
 rating: 3
 hasAffiliate: true
 ---
 
+When I was a kid, drawing was the one thing I did that nobody could take away from me. I wasn't good at it. I knew I wasn't good at it. But on the days when school felt like a wall I couldn't climb, a pencil and the back of a notebook were enough. So when I picked up *Crayon Days* — くれよん・でいず — and met a girl who is described, flat out, as completely ordinary in face, in figure, and in grades, but who loves to draw, I felt that old pull right away. This is a small four-volume shojo from Sho-Comi, and I read it in a couple of quiet evenings. It's not famous. But it knows something true about wanting to be more than you are.
+
 ## Quick Take
 
-- Gentle, art-school setting
-- Watercolor sensibility throughout
-- Three-volume length suits the story perfectly
-
-## Who Is This Manga For?
-
-- Fans of emotionally rich storytelling with memorable characters
-- Readers who enjoy complete series with satisfying conclusions
-- Anyone interested in discovering hidden gems from manga's golden era
-- People who like manga that stays with you long after the final page
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: mild-romance
-
-Safe for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★☆☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
-
-**Overall: 3/5** — A strong entry in its genre worth seeking out.
+- A four-volume Sho-Comi romance by Kozue Chiba about an art-school dorm, talent, and a girl who refuses to stay ordinary
+- The classic "I hate him / oh no I don't" setup, but grounded in real anxiety about whether you're actually any good at the thing you love
+- Rated T (Teen) — clean shojo romance, nothing explicit, safe for most readers
 
 ## Story Overview
 
-A high school student joins her school's art club and discovers that the way she sees color is different from everyone else around her. As she works on paintings, she meets classmates who help her understand what she's looking at — and what she might want to make. The romance is small, the art is everything.
+Shima Ichinose is sixteen and completely, painfully average. She grew up in the deep countryside, her grades are normal, her looks are normal, and at home her parents' attention goes mostly to her sickly younger sister. The one thing she has is that she loves to draw. So she decides she's going to become a "special" girl, and she leaves home for the city to enroll at Aoba Art Academy, a boarding school with its own dorm.
+
+The turning point comes on day one. She meets Akatsuki Saji, a boy already called a "genius" at sixteen — and whose personality is the exact opposite of what that word makes you expect. He mocks her, looks down on her, and even goads her by asking if she'll model nude for him. They end up classmates, seated right next to each other, the person she can least stand parked at the next desk over. From there it's the slow grind of a rival becoming something else: he starts noticing her work, and he's gradually overwhelmed less by her talent than by the raw, unguarded intensity she throws at everything.
+
+The back half complicates it. Akatsuki's ex-girlfriend, Touko, returns from abroad and pairs up with him as his painting partner, which leaves Shima to start a piece for the Aoba Festival entirely on her own. The story doesn't end on the festival, though — it carries through to the two of them chasing their dreams together, and the final pages jump forward to an ending I won't spoil up here. It's a happy resolution, even if some readers felt it wrapped a touch quickly.
 
 ## Characters
 
-The cast of *Crayon Days* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
+**Shima Ichinose** is the heart of it, and what makes her work is that she isn't secretly gifted. She's stubborn and earnest and tries too hard, and the gap between how much she loves drawing and how ordinary her results are is the actual engine of the book. The detail that gutted me: at home, her parents' focus is on her ill little sister, so part of "I want to be special" is really "I want to be seen." That's not a romance cliché. That's a real ache.
 
-## Art Style
+**Akatsuki Saji** is the "guy I hate" of the subtitle — a sixteen-year-old labeled a genius whose attitude is rotten enough to make you understand why she can't stand him. His arc is the slow erosion of that arrogance. He starts mocking her, and ends up unable to bear the thought of being apart from her, drawn in by the heat she puts into her work rather than by any polish.
 
-Mio Chizuru's visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
+**Touko** is the ex who comes back from overseas and becomes Akatsuki's painting partner. She's the wedge that splits the two leads for the climax, forcing Shima to stand on her own creative feet rather than leaning on him.
 
-## Cultural Context
-
-*Crayon Days* comes from a tradition of Japanese storytelling that blends personal drama with broader themes — family loyalty, social pressure, and the courage it takes to be yourself. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
+**Sarasa Ando and Sena Kisaragi** are Shima's dorm neighbors. Sarasa is beautiful and sharp-tongued; Sena is the soft-looking one — and the two of them are in a relationship with each other, which the book treats as simply part of dorm life rather than a spectacle. There's also Mayuge, a little parakeet with eyebrow-like markings on its face, which is exactly the kind of small warm detail this dorm-life manga is good at.
 
 ## What I Love About It
 
-Crayon Days doesn't try to be epic. It's about the moments when you realize how you see the world is your own — and someone else might be willing to learn it. I love manga that respect quiet stories. This one stays with you because of what it doesn't say.
+The thing I keep coming back to is the source of Shima's "I want to be special." On the surface this is a standard shojo motivation — country girl goes to the big city to chase a dream. But the manga grounds it in something quieter and sadder: at home, her parents pour their attention into her frail younger sister, and Shima has learned to take up as little space as possible. Going to art school isn't only ambition. It's the first time she lets herself want to be looked at.
 
-## What English-Speaking Fans Say
-
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
+That reframes the whole romance for me. When Akatsuki — the genius who has had eyes on him his entire life — starts actually seeing her, it isn't just a crush landing. It's a girl who has been background in her own family suddenly being treated as foreground by the one person whose attention is supposed to mean the most. I love that the manga puts her ordinariness right in the synopsis instead of pretending she's a secret prodigy. Most shojo heroines get told they're plain and then turn out to be quietly stunning. Shima is just normal, and the story respects that, and it makes her want to be more feel earned instead of false. As someone who drew badly and loved it anyway, that honesty about being average at the thing you love hit a spot most romance manga don't even aim for.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
+The beat that sticks with me is the Aoba Festival stretch in the back half. Touko comes back from abroad and becomes Akatsuki's painting partner, which pulls him out of orbit and leaves Shima to start her festival piece completely alone. After a whole series of being the one chasing him, being looked down on and then slowly noticed, she's suddenly the one left to prove something by herself — not as his rival, not as his project, just as a painter with a blank canvas.
 
-## Similar Manga
-
-If you enjoyed *Crayon Days*, try:
-
-- **Fruits Basket** by Natsuki Takaya — emotional depth and unforgettable characters
-- **Nana** by Ai Yazawa — raw honesty about love and growing up
-- **Fullmetal Alchemist** by Hiromu Arakawa — different genre, same quality of character writing
-
-## Reading Order / Where to Start
-
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
-
-## Official English Translation Status
-
-*Crayon Days* is ongoing in English translation. New volumes are releasing regularly.
+And the quiet turn is that it's *Akatsuki* who can't take the distance. The boy who opened the series mocking her and asking her to model finds he can't stand being separated from her. The power has flipped: the genius is the one who needs the ordinary girl, not the other way around. That inversion is the payoff the whole "I hate that guy" premise was building toward, and it lands because the manga spent four volumes earning it. The ending then leaps ahead in time — I'll leave the final image for you to find — and it recasts everything as a story that was always headed somewhere lasting.
 
 ## Pros & Cons
 
 **Pros:**
-- Ongoing with regular releases
-- Strong character work and genuine emotional investment
-- Art that serves the story without overwhelming it
+- A genuinely ordinary heroine whose drive to be "special" is rooted in real family neglect, not fake modesty
+- Tight four-volume length — it starts, develops the rivalry-to-romance, and lands without dragging
+- Warm dorm-life cast, including a casually-handled same-sex couple and one excellent eyebrowed parakeet
 
 **Cons:**
-- Less known outside core manga fandom — harder to find in physical stores
-- Some tropes of its era may feel dated to modern readers
+- The ending wraps up fast; even fans who enjoyed it noted it feels slightly rushed
+- Akatsuki's early behavior (the nude-model goading) is a hard "rude rival" opener that some readers will bounce off of
+- It's a short, low-key art-school romance with no English release — quiet and unflashy, so it won't work for everyone
 
-## Format Comparison
+## Is Crayon Days Worth Reading?
 
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+If you want a complete, four-volume shojo romance where the "plain girl" is actually plain and the dream of being special comes from somewhere genuinely tender, yes — it's worth the couple of evenings it takes. If you need a long epic or a flashy hook, this gentle little book probably isn't for you.
 
 ## Where to Buy
 
-No English release yet. That just means you find it before everyone else does.
+No English release yet. That just means you find it before everyone else does. There's no licensed English edition, so the Japanese print and digital release is the only legitimate way to read it.
 
+[Search for it on Amazon.co.jp →](https://www.amazon.co.jp/s?k=くれよん・でいず+千葉コズエ&tag=yushi745-22)
 
 ---
 

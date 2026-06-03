@@ -1,26 +1,28 @@
 ---
-title: "Challengers Review: The Little Brother's Friends Are Off-Limits — He Never Got That Memo"
+title: "Challengers Review: He Mistook the Goodbye Kiss for a Foreign Greeting"
 slug: "challengers-bl"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Challengers"
 mangaTitleJa: "チャレンジャーズ"
 mangaAuthor: "Hinako Takanaga"
-serialization: "Be Boy Comics"
-publisher: "Libre / Digital Manga Publishing"
-volumes: 2
+serialization: "Hanamaru Manga"
+publisher: "Hakusensha / Kaiohsha (JP), DramaQueen (EN)"
+volumes: 4
 status: "Completed"
-englishVolumes: 2
+englishVolumes: 4
 englishStatus: "Complete"
 ageRating: "M (Mature)"
 contentWarnings:
   - "BL/yaoi content"
   - "mature romance"
-  - "age gap"
-description: "Yu's review of Challengers — a cheerful young man falls for his cold older brother's best friend, and pursues him with zero awareness of how inconvenient this is for everyone involved."
+  - "reference to attempted assault"
+description: "Yu's review of Challengers — a lost student gets kissed at a train station, decides it must be a foreign custom, and moves in with the salaryman who did it. The BL comedy that gave us Souichi Tatsumi."
 coverImage: "/covers/challengers-bl.jpg"
-amazonASIN: "1569708770"
+amazonASIN: "0976604531"
 publishedAt: "2025-05-27"
+read: true
+rewritten: "2026-06-03"
 tags:
   - "yaoi"
   - "BL"
@@ -31,107 +33,67 @@ rating: 4
 hasAffiliate: true
 ---
 
+I found *Challengers* backwards. I read *The Tyrant Falls in Love* first — the famous one, the one with Souichi smashing things and Morinaga loving him anyway — and somewhere in those volumes I realized Souichi had a little brother, and that little brother had his own story that came first. So I went and tracked down *Challengers*. I expected a footnote. What I got was the gentler, sillier root that the whole Takanaga universe grew out of, and I ended up liking it more than I planned to.
+
+It is a small story. Four volumes, a lot of misunderstandings, one extremely oblivious college kid. But it has a warmth that stuck with me, and a first scene I still laugh about.
+
 ## Quick Take
 
-- Hinako Takanaga's breakout work — energetic, funny, and genuinely sweet.
-- Mitsuru's relentless optimism is infectious and endearing.
-- Short (2 volumes) but complete and satisfying.
-
-## Who Is This Manga For?
-
-- Fans of emotionally rich storytelling with memorable characters
-- Readers who enjoy complete series with satisfying conclusions
-- Anyone interested in discovering hidden gems from manga's golden era
-- People who like manga that stays with you long after the final page
-
-## Content Warnings & Age Rating
-
-**Age Rating**: M (Mature)
-**Content Warnings**: BL/yaoi content, mature romance, age gap
-
-Recommended for mature readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
-
-**Overall: 4/5** — A charming and energetic debut that established Takanaga as a major BL voice.
+- The origin point of Hinako Takanaga's BL world — sweet, goofy, and the series that spun off into *The Tyrant Falls in Love*.
+- A comedy built on one man being too earnest to read the room and another being too oblivious to notice he's being courted.
+- Rated **M (Mature)** for BL romantic content and a plot reference to attempted assault.
 
 ## Story Overview
 
-Mitsuru Naruse falls completely, helplessly in love with Souichi Tatsumi — his older brother's gruff, socially awkward best friend who makes no secret of disliking most people. Mitsuru's response to every rejection is to try harder. Souichi doesn't know what to do with someone this persistently cheerful and sincere. The chemistry between prickly tsundere and sunshine-boy has rarely been executed this well.
+Tomoe Tatsumi is a high school student from Nagoya who travels to Tokyo to sit a university entrance exam and promptly gets lost at night. He runs into Mitsugu Kurokawa, an office worker out drinking with his friend Isogai. Isogai throws up on Tomoe's coat — the coat that has the address of his hotel in the pocket — and when Kurokawa takes it to be cleaned, the address gets washed away with it. With nowhere to sleep, Tomoe accepts Kurokawa's offer of a spare room for the night. That is the whole engine of the series: an accident, a kindness, and one person quietly catching feelings.
+
+The turning point is the train platform the next morning. As Tomoe heads home, Kurokawa kisses him goodbye. Tomoe is shocked — and then decides it must have been some foreign greeting, since Kurokawa mentioned an American stepfather. Kurokawa assumes he'll never hear from this kid again. Instead a postcard arrives: Tomoe passed the exam, he's coming back to Tokyo. Kurokawa offers him the spare room as a subletter, the two start living together, and Kurokawa eventually confesses outright — forcing Tomoe to actually deal with the feelings he'd been cheerfully filing under "cultural customs."
+
+By the final volume the two have accepted each other and are getting ready for the next step in the relationship — at which point Tomoe gets cold feet, because the next step involves rather more than kissing. It's a soft, comedic landing rather than a dramatic one, and it fits the book.
 
 ## Characters
 
-The cast of *Challengers* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
+**Tomoe Tatsumi** is the lead, and his defining trait is obliviousness. He's sweet, a little scatterbrained, and so slow to recognize romance that he reframes a kiss as a handshake from another country. His arc is small but real: learning to notice what he feels instead of explaining it away.
 
-## Art Style
+**Mitsugu Kurokawa** is the salaryman who takes Tomoe in. He's the one who falls first and hardest, and a lot of the book is him patiently waiting for Tomoe to catch up while trying not to scare him off. He is the engine of the romance — gentle, persistent, occasionally bold enough to kiss someone goodbye on a train platform.
 
-Hinako Takanaga's visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
+**Souichi Tatsumi** is Tomoe's short-tempered, violently homophobic older brother, and he is — no exaggeration — the breakout star of the series. He spends *Challengers* trying to drag Tomoe back home and disapproving of everything. His backstory (he was nearly assaulted by a university professor) is the source of his hostility. He's so vivid that Takanaga gave him his own spin-off, *The Tyrant Falls in Love*.
 
-## Cultural Context
-
-*Challengers* comes from a tradition of Japanese storytelling that blends personal drama with broader themes — family loyalty, social pressure, and the courage it takes to be yourself. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
+**Tetsuhiro Morinaga** is Souichi's lab assistant, gay, and quietly in love with Souichi for years. In *Challengers* his role is a subplot, but it's the seed of the more famous series — and his presence is what eventually softens Souichi's stance enough to stop hounding Tomoe.
 
 ## What I Love About It
 
-Mitsuru is one of the most genuinely likeable BL protagonists I've encountered. He's not naive — he knows Souichi is difficult. He just doesn't care. His joy in pursuing this impossible person is completely infectious.
+The first meeting is the scene I always think of when this book comes up. It's the cleanest little comedy machine. Tomoe, lost and exhausted, runs into Kurokawa and Isogai — and Isogai, gloriously drunk, throws up all over Tomoe's coat. That's already funny. But the twist that makes it perfect is that the hotel address Tomoe needs is *in that coat pocket*, and Kurokawa, trying to be helpful, sends the coat to be cleaned and washes the address into oblivion. The kindness is what strands him. The good deed is the problem.
 
-## What English-Speaking Fans Say
-
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
+What I love is that the whole relationship is built on this kind of well-meaning chaos rather than fate or destiny. Nobody in this book is smooth. Kurokawa helps and accidentally makes it worse; Tomoe accepts help and ends up homeless-by-laundry; the romance later runs on the same fuel of one person being too kind and the other too oblivious. It told me right away what kind of story I was in — not a sweeping love story, but a warm, clumsy, human one where people stumble into each other. That tone is exactly why the book has aged better than I expected, and it's the foundation everything else in Takanaga's world is built on.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
+The kiss at the train station is the moment that defines the series for me. Tomoe is leaving Tokyo the morning after, and Kurokawa — who has clearly fallen — kisses him goodbye on the platform. Tomoe looks completely shocked. And then, instead of confronting it, his brain does the most Tomoe thing imaginable: he files it away as a foreign greeting, reasoning that Kurokawa picked it up from his American stepfather.
 
-## Similar Manga
-
-If you enjoyed *Challengers*, try:
-
-- **Fruits Basket** by Natsuki Takaya — emotional depth and unforgettable characters
-- **Nana** by Ai Yazawa — raw honesty about love and growing up
-- **Fullmetal Alchemist** by Hiromu Arakawa — different genre, same quality of character writing
-
-## Reading Order / Where to Start
-
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
-
-## Official English Translation Status
-
-*Challengers* has been fully published in English. All 2 volumes are available.
+It's hilarious and a little heartbreaking at once. Kurokawa has just done the bravest thing in the book and the recipient has decided it was the equivalent of a handshake. Kurokawa fully expects to be ghosted forever — and then the postcard arrives saying Tomoe passed and is coming back. That gap, between what Kurokawa risked and what Tomoe understood, is the engine of the entire romance, and it all hinges on this one panel of a kid blinking at a kiss and concluding "ah, this must be how Americans say bye." I never forgot it.
 
 ## Pros & Cons
 
 **Pros:**
-- Complete story with no wait for new volumes
-- Strong character work and genuine emotional investment
-- Art that serves the story without overwhelming it
+- A complete four-volume story with a real ending — no waiting, no dangling threads.
+- Character-driven comedy; the gags come from who these people are, not cheap setups.
+- Souichi alone is worth the price of admission, and you get to see where *The Tyrant Falls in Love* came from.
 
 **Cons:**
-- Less known outside core manga fandom — harder to find in physical stores
-- Some tropes of its era may feel dated to modern readers
+- The main couple's chemistry is gentle to a fault — Tomoe is so passive that some readers find him underwritten.
+- It's an older series and long out of print in English, so physical copies are pricey and hard to find.
+- The brother subplot leans on a homophobia-rooted backstory, and the central romance is low-conflict and slow — that's either cozy or dull depending on you, and it won't work for everyone.
 
-## Format Comparison
+## Is Challengers Worth Reading?
 
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+Yes — especially if you've read *The Tyrant Falls in Love* and want to see where Souichi started, or if you want a low-stakes, genuinely funny BL comedy with a complete ending. Go in for the humor and the warmth, not for a sweeping romance, and adjust your expectations for Tomoe being more reactive than driving. As a four-volume comfort read it delivers; as a great love story it's pleasant rather than essential.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Challengers&tag=dearmanga-20)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=Challengers+Hinako+Takanaga&tag=dearmanga-20)
 
 ---
 

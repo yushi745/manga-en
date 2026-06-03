@@ -1,25 +1,25 @@
 ---
-title: "Cantarella Review: Cesare Borgia Made a Deal with Devils — Now He Has to Live With the Consequences"
+title: "Cantarella Review: The Boy His Own Father Sold to Hell"
 slug: "cantarella"
 genre: "Historical / Fantasy"
 genreSlug: "romance"
 mangaTitle: "Cantarella"
 mangaTitleJa: "カンタレラ"
 mangaAuthor: "You Higuri"
-serialization: "Asuka"
-publisher: "Kadokawa Shoten / Go! Comi"
+serialization: "Princess Gold"
+publisher: "Akita Shoten / Go! Comi (English)"
 volumes: 12
 status: "Completed"
-englishVolumes: 12
-englishStatus: "Complete"
+englishVolumes: 10
+englishStatus: "Out of Print"
 ageRating: "M (Mature)"
 contentWarnings:
   - "violence"
+  - "sexual content"
   - "political intrigue"
-  - "mature romance"
+  - "incest themes"
   - "dark themes"
-  - "historical revisionism"
-description: "Yu's review of Cantarella — a dark historical fantasy reimagining of Cesare Borgia's life, where he strikes a pact with demons in exchange for power and lives between human warmth and darkness."
+description: "Yu's review of Cantarella — You Higuri's dark Renaissance fantasy where Cesare Borgia's own father sells his infant soul to a demon for the papal throne, and only the assassin Chiaro keeps him human."
 coverImage: "/covers/cantarella.jpg"
 amazonASIN: "1933617276"
 publishedAt: "2025-05-25"
@@ -32,109 +32,71 @@ tags:
   - "romance"
 rating: 4
 hasAffiliate: true
+read: true
+rewritten: "2026-06-03"
 ---
+
+I read a lot of shonen as a kid, the kind of stories where the hero is loved by everyone and just has to try hard enough. Cantarella was almost the opposite of that, and I think that is why it stuck to me. I picked up the first Go! Comi volume in my twenties at a used bookshop, mostly because the cover was so beautiful I could not put it down. I expected a pretty historical romance. What I got was a story about a child whose own father sold his soul to a demon before he could even speak — and I sat there reading it far later into the night than I meant to.
+
+It is not a comfortable manga. But there is a strange tenderness running under all the darkness, and that contrast is what I keep coming back to.
 
 ## Quick Take
 
-- Dark, gorgeous historical fantasy based on the Borgia family of Renaissance Italy.
-- You Higuri's art is absolutely stunning — elaborate costumes, expressive faces.
-- Handles serious themes with both dramatic weight and visual beauty.
-
-## Who Is This Manga For?
-
-- Fans of emotionally rich storytelling with memorable characters
-- Readers who enjoy complete series with satisfying conclusions
-- Anyone interested in discovering hidden gems from manga's golden era
-- People who like manga that stays with you long after the final page
-
-## Content Warnings & Age Rating
-
-**Age Rating**: M (Mature)
-**Content Warnings**: violence, political intrigue, mature romance, dark themes, historical revisionism
-
-Recommended for mature readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
-
-**Overall: 4/5** — Visually stunning and emotionally rich — historical manga at its most dramatic.
+- A dark historical fantasy reimagining of Cesare Borgia, drawn with You Higuri's gorgeous Renaissance detail.
+- The real engine of the story is the bond between cursed Cesare and the assassin Chiaro, who was first sent to kill him.
+- Rated M (Mature) — this one has violence, sexual content, incest themes, and a generally heavy tone, not a story for younger readers.
 
 ## Story Overview
 
-Cesare Borgia, son of Pope Alexander VI, strikes a deal with demons as a child — an act born of his profound loneliness in a family defined by cold political calculation. The demons give him power; the cost is his humanity, piece by piece. Through the political machinations of 15th-century Italy, Cesare moves between violence and tenderness, navigating papal politics, warfare, and the relationships — particularly with his loyal companion Michelotto and a mysterious woman named Chio — that keep him tethered to his human side.
+Cantarella opens before Cesare is even born. His father, Cardinal Rodrigo Borgia, makes a bargain with a demon: in exchange for the power that will one day make him Pope Alexander VI, he promises his firstborn son's soul to the dark. Cesare's biological mother senses the curse on the infant and tries to kill him — and dies in the attempt. The cursed child is handed off to Vannozza, a widow raising her own children, including the daughter Lucrezia and the favored son Juan.
+
+So Cesare grows up shadowed. Demons trail him, his father cannot look at him as anything but a living reminder of his own sin, and the boy despairs that no one will ever love him. The turning point comes through Chiaro, a thief and assassin who is originally sent to kill Cesare and instead becomes the one person who can hold the demons inside him at bay. Their bond becomes the spine of the whole series.
+
+From there the story follows Cesare's rise through the brutal politics of Renaissance Italy — papal scheming, war, his rivalry with his brother Juan, and Lucrezia being pushed into political marriages. Cesare leans harder and harder on the dark powers in his blood, drifting between the human warmth Chiaro offers and the monster his father made him. The Japanese series ran 12 volumes and reached its conclusion; the English edition, sadly, only made it to volume 10.
 
 ## Characters
 
-The cast of *Cantarella* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
+**Cesare Borgia** — The heart of it. He is not a brooding-handsome tragic hero; he is genuinely cursed, and the manga shows him as both a charming, even playful young man and something that is slowly becoming inhuman. Reviewers describe his arc bluntly: from an adorable little boy he hardens into "a true demon." Watching that slide happen, and watching the parts of him that resist it, is the whole experience.
 
-## Art Style
+**Chiaro (Michelotto)** — An assassin who is sent to kill Cesare early on and instead becomes his most trusted companion and protector. He is the cheerful, warm presence Cesare shows his real self to, and the one character described as able to "drive Cesare's demons away." His loyalty is constantly in question — does he want to save Cesare, or eliminate a rival? — which keeps their relationship tense rather than sweet.
 
-You Higuri's visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
+**Lucrezia** — Raised alongside Cesare as his sister, and one of the only two people he is gentle with. She begins innocent and gets steadily pulled into the family's political machinery, pushed into a marriage Cesare himself arranges using his influence over her. A romantic triangle forms between Cesare, Lucrezia, and Chiaro that, as one reviewer put it, does not work out well for anyone.
 
-## Cultural Context
-
-*Cantarella* comes from a tradition of Japanese storytelling that blends personal drama with broader themes — family loyalty, social pressure, and the courage it takes to be yourself. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
+**Rodrigo Borgia / Pope Alexander VI** — The father who started it all by trading his son's soul for the throne. He cannot see Cesare as a son, only as the proof of his own damnation, and that cold rejection is the wound the entire story grows out of.
 
 ## What I Love About It
 
-The art alone is worth the price of admission. You Higuri draws Renaissance Italy with the kind of lush detail that makes every page look like a painting. But the story is dark and emotionally complex in ways I didn't expect — Cesare is genuinely tragic, not just brooding-handsome tragic.
+The thing I love most is how Higuri handles the relationship between Cesare and Chiaro, and the place it starts from. Chiaro is sent to murder Cesare. That is the beginning of the most important bond in the entire series — an assassin's blade aimed at a cursed boy. And instead of the usual enemies-to-allies shortcut, the manga lets that history sit underneath everything. Even at their warmest, you never fully forget that Chiaro first came to him as death.
 
-## What English-Speaking Fans Say
-
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
+What got me is that Cesare only ever shows his real self — the playful, cheerful, almost boyish side — to Chiaro and to Lucrezia. Everyone else gets the cold Borgia heir or the demon. So when those quiet moments with Chiaro happen, they land hard, because you know they are the only times this character is allowed to be a person instead of a weapon. I am someone who grew up feeling like an outsider, and the idea of one single person who can quiet the worst thing inside you, even if you can never fully trust them, hit me in a place I did not expect a Renaissance period drama to reach. The ambiguity is the point: I love that the manga never lets me be sure whether Chiaro is salvation or just another knife.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
+The scene that stayed with me is the very first murder Cesare commits. The early volumes build him as a child drowning in loneliness, tormented by demonic auras he can see and hear, convinced no one loves him — and then he is forced to kill for the first time. It is not framed as a triumphant power-up the way violence so often is in the manga I grew up on. It is the moment the curse stops being something done *to* him and becomes something he *does*.
 
-## Similar Manga
-
-If you enjoyed *Cantarella*, try:
-
-- **Fruits Basket** by Natsuki Takaya — emotional depth and unforgettable characters
-- **Nana** by Ai Yazawa — raw honesty about love and growing up
-- **Fullmetal Alchemist** by Hiromu Arakawa — different genre, same quality of character writing
-
-## Reading Order / Where to Start
-
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
-
-## Official English Translation Status
-
-*Cantarella* has been fully published in English. All 12 volumes are available.
+What makes it stick is the contrast with everything around it. Higuri draws this beautiful, lush Renaissance world, all detailed costumes and architecture, and then drops this small damned boy into the middle of it taking a life. The art is gorgeous; the act is ugly. That gap is the whole manga in one moment — the prettiness never softens what is actually happening, it just makes it sadder.
 
 ## Pros & Cons
 
 **Pros:**
-- Complete story with no wait for new volumes
-- Strong character work and genuine emotional investment
-- Art that serves the story without overwhelming it
+- You Higuri's art is genuinely stunning — researched Renaissance costumes and architecture, expressive faces that tell you what characters feel before they speak.
+- A real tragic arc for Cesare, not just surface angst — he changes, and the change costs something.
+- The Cesare–Chiaro relationship has actual tension and ambiguity instead of an easy romance.
 
 **Cons:**
-- Less known outside core manga fandom — harder to find in physical stores
-- Some tropes of its era may feel dated to modern readers
+- The English release is incomplete and out of print — Go! Comi folded after volume 10, so volumes 11 and 12 never came out in English.
+- The early volumes lean heavily melodramatic and angsty, with a lot of young Cesare despairing that no one loves him.
+- It uses some heavy content — including incest themes and the threat of sexual violence — and that, plus the unfinished English run, means Cantarella won't work for everyone.
 
-## Format Comparison
+## Is Cantarella Worth Reading?
 
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+If you want beautiful art, a genuinely tragic central character, and a dark, ambiguous central relationship, yes — Cantarella is worth it, and it is unlike most romance or historical manga in English. Just go in knowing two things: the tone is heavy and the English edition stops at volume 10, so you will not get the full ending unless you can read Japanese. For me the art and the Cesare–Chiaro bond made it more than worth the incomplete run.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+Read the first volume. If it doesn't hook you, put it down. It'll hook you. (Just know the English run only goes to volume 10 — you'll likely be hunting used copies.)
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Cantarella&tag=dearmanga-20)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=Cantarella+Higuri+manga&tag=dearmanga-20)
 
 ---
 

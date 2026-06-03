@@ -1,133 +1,92 @@
 ---
-title: "Cherry Magic! Review: A 30-Year-Old Virgin Who Can Read Minds Discovers His Coworker's Secret"
+title: "Cherry Magic! Review: The Mind-Reader Who Couldn't Believe He Was Loved"
 slug: "cherry-magic"
 genre: "Romance"
 genreSlug: "romance"
 mangaTitle: "Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!"
 mangaTitleJa: "30歳まで童貞だと魔法使いになれるらしい"
 mangaAuthor: "Yuu Toyota"
-serialization: "Comic Cune"
+serialization: "Gangan pixiv"
 publisher: "Square Enix / Square Enix Manga"
-volumes: 12
-status: "Completed"
-englishVolumes: 12
-englishStatus: "Complete"
+volumes: 16
+status: "Ongoing"
+englishVolumes: 13
+englishStatus: "Ongoing"
 ageRating: "T (Teen)"
-contentWarnings: ["BL/boys love", "office romance", "mind reading premise", "workplace relationship"]
-description: "Yu's review of Cherry Magic! — Adachi Kiyoshi turns 30 without losing his virginity and gains the ability to read people's thoughts through touch; he accidentally learns that his popular, competent coworker Kurosawa is deeply in love with him; Yuu Toyota's BL romance about a man who suddenly knows exactly what the person in love with him is thinking."
+contentWarnings: ["BL/boys love", "office romance", "mind reading premise", "mild sexual content"]
+description: "Yu's review of Cherry Magic! — Adachi turns 30 a virgin and gains the power to read minds through touch, then accidentally learns his handsome coworker Kurosawa is hopelessly in love with him. Yuu Toyota's warm BL comedy about a man who can hear how much he's loved and still can't believe it."
 coverImage: "/covers/cherry-magic.jpg"
 amazonASIN: "1646091515"
 publishedAt: "2025-05-28"
-tags: ["romance", "BL", "completed", "teen", "square-enix", "office-romance", "mind-reading", "josei-bl"]
+read: true
+rewritten: "2026-06-03"
+tags: ["romance", "BL", "ongoing", "teen", "square-enix", "office-romance", "mind-reading"]
 rating: 4
 hasAffiliate: true
 ---
 
+I read most of the first volume of Cherry Magic! standing up on a crowded train, holding the strap with one hand and my phone with the other. I almost missed my stop. There is a moment early on where Adachi, this tired thirty-year-old office guy, brushes against his coworker and suddenly hears exactly how much that coworker loves him — and his face just collapses into pure panic. I actually laughed out loud, alone on the train, and an old man looked at me. I didn't care. I knew right then I was going to finish the whole thing.
+
+What got me wasn't the magic. It was Adachi. I have spent a lot of my life assuming nobody could really like me, that if someone was nice it was probably a misunderstanding. So watching a man literally hear proof that he is loved — and still not be able to believe it — felt embarrassingly familiar.
+
 ## Quick Take
 
-- The mind-reading premise gives the romance an unusual angle — one character knows the other's feelings from volume 1
-- Toyota's comedy of a man who can't process genuine love directed at him is warm and funny
-- 12 volumes complete; one of the most popular BL romances of recent years
-
-## Who Is This Manga For?
-
-- BL/boys love manga readers who want warmth over drama
-- Readers who enjoy office romance with comedic premise
-- Anyone who likes "oblivious protagonist learns the truth and has to process it" romance structure
-- Fans of romantic comedy with genuine emotional depth
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: BL/boys love romance between adult men; office romance; mind-reading as romantic device; mild physical affection
-
-T rating — BL romance appropriate for teen readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★★☆ |
+- A mind-reading premise that actually serves the romance: one man knows the other's feelings from chapter one, and that knowledge is the whole engine
+- Yuu Toyota writes the funniest, gentlest comedy out of one simple gap — Kurosawa's calm face versus the avalanche of love in his head
+- Rated T (Teen): BL romance between adult men, mild sexual content, nothing graphic
 
 ## Story Overview
 
-Adachi Kiyoshi has never had a girlfriend. He turns 30 having never dated. According to an old folk belief, a 30-year-old virgin becomes a wizard — and Adachi does gain a power: he can read people's thoughts through touch.
+Kiyoshi Adachi is an ordinary, slightly worn-down salaryman who hits 30 without ever having had a relationship. There's an old joke that a virgin who reaches 30 becomes a wizard — and to Adachi's horror, it turns out to be true. He gains the power to read people's thoughts whenever he touches them.
 
-The first thoughts he reads are those of his coworker Kurosawa Yuichi — the office's most popular, most capable man. Kurosawa's thoughts, when Adachi accidentally brushes his hand, are entirely about Adachi. Kurosawa is deeply, completely in love with him.
+The turning point happens almost immediately. His coworker Yuichi Kurosawa — the handsome, capable, universally liked guy in the office — accidentally pins Adachi against the wall of an elevator, and through that contact Adachi hears Kurosawa's thoughts. They are all about him. Kurosawa is completely, helplessly in love with Adachi, and has been hiding it perfectly.
 
-Now Adachi knows. Kurosawa doesn't know that Adachi knows. The romance unfolds around this asymmetry: a man who has never been loved, suddenly knowing exactly how much he is.
+So Adachi knows. Kurosawa doesn't know that Adachi knows. The series lives inside that gap: a man who has never been wanted suddenly carrying the full, undeniable weight of how much someone wants him, and having no idea what to do with it. Over the ongoing run the relationship slowly becomes real and mutual, the powers eventually fade once Adachi no longer needs to read minds to trust what's in front of him, and a parallel couple — Adachi's friend Tsuge and a deliveryman named Minato — runs alongside as a second take on the same wizard premise.
 
 ## Characters
 
-**Adachi Kiyoshi** — His low self-esteem — he cannot believe that someone like Kurosawa would genuinely love someone like him — drives the series' emotional conflict; his journey toward accepting the love being offered is the arc.
+**Kiyoshi Adachi** — The heart of the series. Adachi's whole arc is about self-worth: he genuinely cannot accept that a person like Kurosawa would love a person like him, so for a long stretch he pulls away, convinced he's a burden. His growth isn't about getting braver in some heroic way — it's the quiet, hard work of learning to believe he deserves the good thing being offered to him.
 
-**Kurosawa Yuichi** — His internal thoughts (which the reader also reads) establish him as completely genuine; his patience with Adachi's inability to reciprocate directly generates the series' romantic tension.
+**Yuichi Kurosawa** — The "perfect" coworker whose composed exterior hides a head full of pure, slightly ridiculous devotion. Because the reader hears his thoughts too, we know from the start that he's the real thing — patient, sincere, occasionally a complete mess internally. The tension comes entirely from his patience colliding with Adachi's inability to reciprocate.
 
-## Art Style
+**Masato Tsuge** — Adachi's college friend, a romance novelist who has written about love but never lived it, and who also becomes a "wizard" at 30. His storyline mirrors and contrasts Adachi's, giving the series a second emotional register.
 
-Toyota's art is clean and expressive — the contrast between Kurosawa's composed exterior and his thoroughly smitten interior thoughts is the series' primary comedy engine, delivered through character expression.
-
-## Cultural Context
-
-Cherry Magic! ran in Comic Cune, an online manga magazine. The series became a significant phenomenon — drama adaptation, anime — reflecting broader acceptance of BL content in mainstream Japanese publishing spaces.
+**Minato Wataya** — The young deliveryman who first connects with Tsuge over Tsuge's cat and gradually becomes the other half of that second couple. His arc deals with chasing a dream (an audition he fails) and the misunderstandings that grow when feelings go unspoken.
 
 ## What I Love About It
 
-The asymmetry. The reader and Adachi both know how Kurosawa feels. Kurosawa doesn't know they know. The triangle of knowledge creates both comedy and genuine emotional tension — and when Adachi has to decide what to do with what he knows, it becomes a real character question.
+There's a work drinking party where the coworkers, half-joking and pushy the way drunk coworkers get, dare Adachi and Kurosawa to kiss. Adachi freezes — he's mortified, cornered, not ready for any of this. And Kurosawa, reading the room instantly, doesn't take the dare as permission. Instead he leans in and kisses Adachi on the forehead. A small, sideways kindness that gets everyone off Adachi's back without forcing anything on him.
 
-## What English-Speaking Fans Say
-
-Western readers describe Cherry Magic! as one of the most accessible BL manga published in English — specifically noted for the premise being original and well-executed, for Adachi being a genuinely relatable protagonist, and for the warmth being consistent across all twelve volumes.
+The reason that scene wrecked me is the mechanic underneath it. Because of the touch, Adachi hears Kurosawa's thoughts in that moment — and later, when they touch again, he feels Kurosawa's quiet ache, the belief that this love will never be returned. Adachi is a man who would normally swallow that and walk away. But he can't pretend he didn't hear it. The magic doesn't give Adachi courage out of nowhere; it just makes it impossible for him to keep hiding behind "I didn't know." It drags this closed-off, conflict-avoidant person into the one conversation he'd spend his whole life avoiding. That's the smartest thing Toyota does with the premise — the mind-reading isn't a gimmick, it's the only thing that could ever crack Adachi open.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The first moment Adachi intentionally uses his power to hear Kurosawa's thoughts — when his motivation for touching Kurosawa's hand is no longer accidental — is the romance's first honest moment.
+The Christmas Eve scene is the one I keep coming back to. After a rough patch and a breakup, Kurosawa finally works through his own feelings and runs to find Adachi. Adachi admits he regrets the breakup, that he still wants to be with him. They hold each other, Kurosawa tells him he loves him and always will — and then he proposes, asking to stay together forever. He doesn't have a ring. He gives Adachi a pen instead. Then they watch fireworks from the rooftop.
 
-## Similar Manga
-
-- **Classmates (Doukyuusei)** — BL with similar quiet warmth
-- **Sasaki and Miyano** — Office-adjacent BL with similar earnest tone
-- **Our Dining Table** — Adult male domestic romance in softer register
-- **Ten Count** — BL office romance in more intense register
-
-## Reading Order / Where to Start
-
-Volume 1 — Adachi turns 30 and gains his power.
-
-## Official English Translation Status
-
-Square Enix Manga published the complete 12-volume English series.
+The pen is what makes it land. It's so unromantic and so completely them — a practical, slightly awkward object handed over in a moment that should "require" a ring. It's a promise made by two ordinary working adults who don't do grand gestures well, and that's exactly why it feels honest instead of staged. I sat with that page for a while.
 
 ## Pros & Cons
 
 **Pros**
-- Mind-reading premise original and well-used
-- Adachi's character arc genuinely satisfying
-- Warmth consistent throughout twelve volumes
-- Complete at 12 volumes
+- The mind-reading premise is genuinely well-used — it's the engine of the romance, not decoration
+- Adachi's self-worth arc is quietly moving and very relatable
+- Kurosawa's composed-face / chaotic-inner-thoughts gap is reliably funny
+- The art is clean and expressive, carrying the comedy through facial expression
 
 **Cons**
-- BL — may not be for all readers
-- Middle volumes slow compared to opening premise
-- Comedy relies on repeated structure
+- It's an ongoing series (16 volumes in Japanese, ending at 17), so you're not getting a closed story yet
+- The comedy leans on a repeated structure — Adachi panics, Kurosawa is sweet — which can feel familiar over many volumes
+- It's a slow, gentle BL with low stakes; if you want drama or heat, this soft register won't work for everyone
 
-## Format Comparison
+## Is Cherry Magic! Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Square Enix Manga; complete 12 volumes |
-| Digital | Available |
+Yes — if what you want is warmth. It's one of the most accessible, good-hearted BL romances out there, built on a clever premise that actually pays off emotionally. Just go in knowing it's a slow burn that's still ongoing, and that its charm is gentleness, not intensity.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Cherry+Magic%21+Thirty+Years+of+Virginity+Can+Make+You+a+Wizard%3F%21+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=Cherry+Magic+Thirty+Years+of+Virginity+manga&i=stripbooks&tag=dearmanga-20)
 
 ---
 
