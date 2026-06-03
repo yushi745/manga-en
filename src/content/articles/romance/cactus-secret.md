@@ -1,5 +1,5 @@
 ---
-title: "Cactus's Secret Review: The Class Delinquent Has a Surprising Soft Side"
+title: "Cactus's Secret Review: When the Girl Confesses First and Gets Called an Alien"
 slug: "cactus-secret"
 genre: "Romance"
 genreSlug: "romance"
@@ -7,127 +7,94 @@ mangaTitle: "Cactus's Secret"
 mangaTitleJa: "サボテンの秘密"
 mangaAuthor: "Nana Haruta"
 serialization: "Ribon"
-publisher: "Shueisha / Viz Media"
-volumes: 5
+publisher: "Shueisha / VIZ Media"
+volumes: 4
 status: "Completed"
-englishVolumes: 5
+englishVolumes: 4
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["high school romance", "delinquent character", "first love", "gentle content"]
-description: "Yu's review of Cactus's Secret — Miku Hasegawa has a crush on her class's delinquent, Kyohei Fujioka, who is sharp and intimidating on the surface; through an accidental discovery, she learns that he's secretly kind; Nana Haruta's shojo manga about discovering the person behind the intimidating exterior."
+contentWarnings: ["high school romance", "first love", "gentle content"]
+description: "Yu's review of Cactus's Secret (サボテンの秘密) by Nana Haruta — Miku Yamada has crushed on clueless Kyohei Fujioka since middle school, but when she tries to confess he treats it as a joke and nicknames her 'cactus' for being so prickly around him. A breezy four-volume Ribon romance where the girl makes the first move."
 coverImage: "/covers/cactus-secret.jpg"
-amazonASIN: "1421534827"
+amazonASIN: "1421531895"
 publishedAt: "2025-05-24"
-tags: ["romance", "comedy", "completed", "teen", "viz-media", "delinquent", "ribon", "first-love"]
+rewritten: "2026-06-03"
+read: true
+tags: ["romance", "comedy", "completed", "teen", "viz-media", "ribon", "first-love", "shojo"]
 rating: 3
 hasAffiliate: true
 ---
 
+I confessed to someone once, in middle school, and the boy laughed. He genuinely thought I was joking — that some friend had dared me to do it. I spent the rest of that year being extra cold to him so he'd never guess I'd meant it, which of course just made everything worse. So when I opened the first volume of Cactus's Secret and watched Miku Yamada get the exact same laugh, then get nicknamed "cactus" for going prickly every time her crush came near, I made a noise out loud. This was my exact teenage failure, drawn in Ribon's soft round lines.
+
+That's the thing about this little four-volume series. It's not deep and it doesn't pretend to be. But Nana Haruta builds the whole story around something most shojo skips: the girl confesses first, gets rejected, and then has to keep showing up at school anyway.
+
 ## Quick Take
 
-- The delinquent-with-secret-soft-side premise is a classic shojo structure executed cleanly
-- Haruta's comedy timing is reliable
-- 5 volumes complete; pleasant short Ribon romance
-
-## Who Is This Manga For?
-
-- Readers who want classic delinquent-with-hidden-warmth shojo romance
-- Anyone looking for a pleasant short romance manga without complication
-- Fans of Ribon magazine's warm romantic comedy style
-- Readers looking for short complete romance for light reading
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: High school romance; delinquent character behavior; first love; gentle throughout
-
-T rating — appropriate for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★☆☆ |
+- A shojo romance where the heroine makes the first move and gets crushed — then has to live with it
+- Nana Haruta's comedy timing carries four breezy, complete volumes
+- T (Teen) — gentle high school romance, nothing graphic
 
 ## Story Overview
 
-Miku Hasegawa has a crush on Kyohei Fujioka — the class delinquent who intimidates most of the school. He's rough, sharp, and doesn't seem interested in social niceties.
+Miku Yamada has liked her classmate Kyohei Fujioka since middle school. When she finally works up the nerve to act on it, Kyohei is so oblivious he treats the whole thing as a gag. Worse, he starts calling her "cactus" — because whenever he's around, she gets defensive and prickly, all spines and no softness.
 
-An accident reveals something about Kyohei that contradicts his exterior. Miku sees something that his reputation doesn't account for.
+The first real gut-punch comes on Valentine's Day. Miku plans to hand Kyohei chocolate and confess for real. But Kyohei, having no idea he's the target, cheerfully volunteers to be her "practice partner" so she can rehearse her confession on him before the real thing. She confesses — to his face, meaning every word — and he rejects her, saying he only thinks of her as a friend.
 
-The series follows Miku's navigation of this knowledge and her developing relationship with the real Kyohei underneath the sharp surface.
+That rejection is the engine of the series. Instead of disappearing, Miku has to keep sitting in the same classroom as the boy who just turned her down. The complication arrives in the form of Itsuki Natsukawa, the student council president, who witnesses how Kyohei treated her and decides to step in. His attention forces Kyohei to actually notice what he stands to lose. By chapter 12, the obliviousness finally breaks and Kyohei is the one confessing.
 
 ## Characters
 
-**Miku Hasegawa** — Her straightforward crush and her genuine response to what she discovers about Kyohei are the series' main character movements.
+**Miku Yamada** — The reason this works. Miku is smart and stubborn, and after the rejection she doesn't curl into the whiny-doormat shape that shojo heroines so often take. She keeps her self-respect. Her arc is learning to stop being defensive — to put the spines down and let Kyohei actually see her — without pretending the rejection didn't hurt.
 
-**Kyohei Fujioka** — The gap between exterior and interior is the series' central premise; his discomfort with being seen is the romance's main obstacle.
+**Kyohei Fujioka** — A former delinquent type, and almost comically dense about feelings. The "cactus" nickname is his, and it's affectionate before he understands it's affectionate. His arc is slow realization: he doesn't dislike Miku, he just never processed what her prickliness meant, and watching someone else pursue her is what finally connects the wires.
 
-## Art Style
-
-Haruta's art is warm and clean — Ribon's characteristic aesthetic applied to the delinquent character type with effective contrast between Kyohei's exterior and his softer moments.
-
-## Cultural Context
-
-Cactus's Secret ran in Ribon. The delinquent-with-secret-warmth is one of shojo's most reliable character types; Haruta executes it in a short focused format without overextending the premise.
+**Itsuki Natsukawa** — The student council president and the romantic complication. He sees Kyohei reject Miku and takes matters into his own hands, becoming the rival who pressures the central pair forward. He's the catalyst that turns Kyohei's cluelessness into action.
 
 ## What I Love About It
 
-The discovery moment. Miku learns something about Kyohei that he didn't intend to reveal. The series is partly about what you do with knowledge about someone that they weren't ready to share — and whether you can love someone's private self rather than their presented one.
+The "practice confession" scene. Miku has decided this is the day. She has the chocolate, she has the words. And Kyohei, with the best intentions and zero awareness, offers to let her rehearse on him — never realizing that the rehearsal *is* the real one. She says it to his actual face, and he pats it down as practice and then, separately, rejects her as a friend.
 
-## What English-Speaking Fans Say
-
-Western readers describe Cactus's Secret as a clean execution of classic shojo — specifically noted for the delinquent premise being handled warmly, for the comedy being effective, and for the five-volume length being perfectly suited to the concept.
+What I love is how cruel that is without anyone being cruel. Kyohei isn't a villain; he's just dense. Miku isn't pathetic; she did the brave thing and aimed straight. The comedy and the heartbreak are the same beat. Haruta gets that the worst rejections aren't the mean ones — they're the ones where the other person is being *nice* and still doesn't see you. That scene is why the "cactus" nickname lands: of course she goes prickly. She has to. It's the only armor she's got.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The first moment where Kyohei's private character is fully visible to Miku — when what he's been hiding becomes specific rather than implied — is the series' romantic pivot.
+The reversal in chapter 12. After eleven chapters of Miku being the one reaching out and getting nothing back — after the rejection, after Natsukawa's interference, after Kyohei being clueless to the point of comedy — it's Kyohei who finally says it. The boy who couldn't tell a real confession from a practice run is the one who confesses.
 
-## Similar Manga
-
-- **Kimi ni Todoke** — Social intimidation first love in longer form
-- **Yamada-kun and the Seven Witches** — School romance with hidden character elements
-- **Say I Love You** — Social intimidation romance in different register
-- **High School Debut** — Sports-adjacent first love in similar warm Viz register
-
-## Reading Order / Where to Start
-
-Volume 1 — Miku's initial crush and the discovery.
-
-## Official English Translation Status
-
-Viz Media published the complete 5-volume English series.
+It works because the series earned the inversion. The whole structure has been Miku doing the emotional labor; flipping it so Kyohei has to be vulnerable for once is the payoff. The cactus finally gets to lower her guard, because for the first time the other person reached first.
 
 ## Pros & Cons
 
 **Pros**
-- Classic premise cleanly executed
-- Comedy timing effective
-- Complete at 5 volumes
-- Pleasant short read
+- The girl-confesses-first structure gives the rejection real weight
+- Haruta's comedy timing is reliable
+- Complete and self-contained at four volumes
+- Miku keeps her dignity — no doormat heroine
 
 **Cons**
-- Very conventional shojo structure
-- Limited character development beyond premise
-- Nothing surprising
+- Short and light; the premise doesn't go anywhere unexpected
+- Kyohei's denseness can test your patience
+- A breezy read, not a deep one — if you want emotional complexity, this won't be it for you
 
-## Format Comparison
+## Is Cactus's Secret Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Viz Media; complete 5 volumes |
-| Digital | Available |
+If you want a short, complete shojo where the heroine makes the first move and the rejection actually costs something, yes. It's four volumes of warm Ribon comedy with one genuinely sharp idea at its center. If you're after depth or surprise, look elsewhere — this is comfort food, and it's good at being exactly that.
+
+## Similar Manga
+
+| Title | Its Approach | How Cactus's Secret Differs |
+|---|---|---|
+| Lovely★Complex | Mismatched-pair comedy where banter masks feelings | Tighter and shorter; built around one rejection rather than a long mismatch gag |
+| Kimi ni Todoke | Slow-burn first love through deep social misunderstanding | Faster and lighter; Miku is forward where Sawako is hesitant |
+| High School Debut | Bright Ribon-adjacent romance about trying to be loved | Centers the girl confessing first and surviving the no |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Cactus%27s+Secret+manga&i=stripbooks)
+[Start with Volume 1 →](https://www.amazon.com/Cactuss-Secret-Vol-Nana-Haruta/dp/1421531895/?tag=dearmanga-20)
 
+VIZ Media (under its Shojo Beat imprint) released the complete four-volume English series in 2010, in print and digital.
 
 ---
 

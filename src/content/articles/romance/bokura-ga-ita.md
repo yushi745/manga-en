@@ -1,5 +1,5 @@
 ---
-title: "We Were There Review: A Romance That Refuses to Let You Off Easy"
+title: "We Were There Review: First Love That Grows Up and Gets Harder"
 slug: "bokura-ga-ita"
 coverImage: "/covers/bokura-ga-ita.jpg"
 genre: "Romance / Drama"
@@ -8,7 +8,7 @@ mangaTitle: "We Were There"
 mangaTitleJa: "僕等がいた"
 mangaAuthor: "Yuki Obata"
 serialization: "Betsucomi"
-publisher: "Shogakukan"
+publisher: "Shogakukan / VIZ Media"
 volumes: 16
 status: "Completed"
 englishVolumes: 16
@@ -16,11 +16,13 @@ englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings:
   - "death"
+  - "suicide"
   - "depression"
-  - "mental-health"
-description: "A high school love story that follows its couple deep into adulthood and everything that breaks them along the way."
+description: "A high school love story that follows its couple deep into adulthood, through a four-year silence, a mother's suicide, and the slow work of finding each other again."
 amazonASIN: ""
 publishedAt: "2026-02-09"
+read: true
+rewritten: "2026-06-03"
 tags:
   - "romance"
   - "drama"
@@ -30,107 +32,74 @@ rating: 5
 hasAffiliate: true
 ---
 
+When I was a kid, the manga I read were almost all about boys punching their way toward a dream. Naruto, One Piece — loud, certain, the kind of stories that promise effort always pays off. I didn't read shojo for years because I assumed it was the same promise with flowers around it: confess, get rejected, confess again, end up together, the end.
+
+*Bokura ga Ita* (We Were There) is the manga that broke that assumption for me. I started it expecting a cute high school romance and finished it years older inside. It takes its couple all the way from a first-year classroom into their late twenties, and it is honest in a way that hurt — honest that loving someone and being good for them are not the same thing, and that some people you love keep walking away from you no matter how hard you reach. I didn't expect a shojo manga to know that. This one does.
+
 ## Quick Take
 
-- One of shojo's most realistic adult romances
-- Goes places most school romances refuse to
-- Long-form storytelling that pays off completely
-
-## Who Is This Manga For?
-
-- Fans of emotionally rich storytelling with memorable characters
-- Readers who enjoy complete series with satisfying conclusions
-- Anyone interested in discovering hidden gems from manga's golden era
-- People who like manga that stays with you long after the final page
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: death, depression, mental-health
-
-Safe for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
-
-**Overall: 5/5** — A strong entry in its genre worth seeking out.
+- One of shojo's most unflinching long-form romances — it follows its couple from age 15 into adulthood
+- Built around grief, guilt, and a four-year silence rather than love-triangle filler
+- Age rating: T (Teen), but with mature emotional weight — death, a parent's suicide, and depression are central, not background
 
 ## Story Overview
 
-Nanami Takahashi enters high school determined to make friends. Yano Motoharu is the most popular boy in class, charming but emotionally guarded. They fall in love. Then his past — the dead ex-girlfriend, the unresolved guilt — slowly pulls them apart. The story follows them through college, separation, jobs, and the work of maybe finding each other again as adults.
+Nanami Takahashi starts her first year of high school wanting one thing: friends. Instead she runs straight into Motoharu Yano — the most popular boy in class, funny and warm on the surface, but carrying something she can't see yet. Yano's previous girlfriend, Nana Yamamoto, died in a car accident the year before. Worse for Yano: Nana was in the car with her ex-boyfriend when it happened, so he half-believes she was cheating on him when she died. He hides all of it behind a careless smile.
+
+Nanami falls for him anyway, and to my surprise the manga lets them get together early — this isn't a "will they/won't they" stall. The real story is what being together costs. Yano can't trust easily; the dead girlfriend's shadow sits between them constantly, made sharper because Nana's younger sister Yuri is in their lives and has her own feelings for Yano.
+
+The turning point that defines the whole series comes when Yano transfers to Tokyo in their second year. Nanami sees him off at the train station — and then the story jumps four years forward. They never saw each other again. Yano simply went silent. The back half of the manga is about adults: Nanami in Tokyo, building a life, discovering Yano is alive but transformed — distant, living with Yuri, telling Nanami coldly that he dumped her. Everything after that is the painful, un-tidy work of finding out why, and whether what they had can survive what life did to it.
 
 ## Characters
 
-The cast of *We Were There* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
+**Nanami Takahashi** — Energetic, stubborn, a little reckless with her own heart. Her arc is the spine of the series: she goes from a 15-year-old who just wants to be liked to a working adult in Tokyo who has learned that loving Yano means surviving long stretches of his absence. She's the one who keeps choosing to stay reachable even when staying hurts, and the manga never frames that as weakness — it frames it as a decision with a real price.
 
-## Art Style
+**Motoharu Yano** — The center of gravity and the hardest character to love cleanly. His guilt over Nana's death — tangled up with the fact he didn't even remember her birthday before she died — teaches him to keep people at arm's length so he can't lose them the same way. After his mother's suicide, he disappears entirely, drifting into a numbed life with Yuri. His tragedy is that he pushes Nanami away to protect her and himself, then quietly dreams about her at night.
 
-Yuki Obata's visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
+**Yuri Yamamoto** — Nana's younger sister, and the character who could have been a simple rival but isn't. She loves Yano with the same unrequited ache he has for the past, and she ends up holding the truth that can free him: that Nana was never cheating — she'd gone to give her ex a proper goodbye. When Yuri finally lets Yano go and tells him this, it's one of the most generous acts in the book.
 
-## Cultural Context
-
-*We Were There* comes from a tradition of Japanese storytelling that blends personal drama with broader themes — family loyalty, social pressure, and the courage it takes to be yourself. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
+**Masafumi Takeuchi** — Yano's best friend, and the warmth that makes the colder stretches bearable. He becomes Nanami's confidant and, for a time, her partner. He's not a plot device to make Yano jealous; he's a genuinely good person who loves Nanami honestly, which makes the geometry of the whole thing harder, not easier.
 
 ## What I Love About It
 
-I cried a lot reading this. Bokura ga Ita doesn't romanticize first love. It says: yes, it's beautiful, and yes, it might not be enough. Watching Nanami grow up — make mistakes, build a career, become her own person — is one of the truest things shojo manga has done. The ending earns every page.
+The thing I keep coming back to is the train station. For most of the first half, Yano and Nanami are unbearably sweet — there's a recurring beat where they tease each other about how cheesy they are as a couple, and a quieter one where they wish on the stars to hurry up and grow up so they can finally be together for good. Obata earns all of that fluff. So when Nanami waves Yano off at the platform and the page turns to "four years later — they never saw each other again," it lands like a punch you didn't know was coming. The manga uses its own sweetness as the weapon.
 
-## What English-Speaking Fans Say
-
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
+What I love is that *Bokura ga Ita* refuses the easy version of "grow up so we can be together." It grants the wish and then shows the cruelty inside it — that growing up is exactly what pulls these two apart. Yano grows into his grief instead of out of it. Nanami grows into a life that doesn't have room to wait forever. Most first-love stories treat adulthood as the reward at the finish line. This one treats it as the obstacle, and that reframe is what made it feel true to me in a way few romances ever have.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
+The reunion around volume 13 is the moment I can't shake. After four years of silence, Nanami finally finds Yano again in Tokyo — and instead of the tearful reunion the genre trains you to expect, he looks at her and flatly tells her he dumped her. Cold, closed, like a different person wearing his face.
 
-## Similar Manga
-
-If you enjoyed *We Were There*, try:
-
-- **Fruits Basket** by Natsuki Takaya — emotional depth and unforgettable characters
-- **Nana** by Ai Yazawa — raw honesty about love and growing up
-- **Fullmetal Alchemist** by Hiromu Arakawa — different genre, same quality of character writing
-
-## Reading Order / Where to Start
-
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
-
-## Official English Translation Status
-
-*We Were There* has been fully published in English. All 16 volumes are available.
+What makes it devastating rather than just sad is what the manga shows you around the cruelty: that this same Yano dreams about her at night, that the distance is armor and not absence of feeling. He learned from Nana's death that the people you love disappear, so he tried to disappear first — leave before he could be left. The eventual climax pays this off when Nanami, overworked and anemic, collapses down a flight of stairs and is rushed to the hospital. Faced with actually losing her, the wall finally breaks; he rushes to her side. The series closes on Yano proposing — and then the two of them visiting Nana's grave together, the past finally laid to rest instead of buried alive. That last image, choosing the future while honoring what hurt, is the whole manga in one panel.
 
 ## Pros & Cons
 
 **Pros:**
-- Complete story with no wait for new volumes
-- Strong character work and genuine emotional investment
-- Art that serves the story without overwhelming it
+- A complete, fully translated 16-volume story with a real ending — no waiting
+- Genuinely adult emotional stakes: grief, guilt, and depression treated with care, not melodrama
+- The four-year time skip is one of the boldest structural choices in shojo, and it works
 
 **Cons:**
-- Less known outside core manga fandom — harder to find in physical stores
-- Some tropes of its era may feel dated to modern readers
+- Yano spends long stretches being maddening; if you need a love interest who's "good" the whole way through, he'll frustrate you
+- The middle act is heavy and slow on purpose — that pacing is either the point or a dealbreaker depending on what you want from a romance
 
-## Format Comparison
+## Is We Were There Worth Reading?
 
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+Yes — if you want a romance that takes love seriously enough to let it hurt. It's a complete, beautifully drawn series that follows its couple from 15 into adulthood and never lets them (or you) off easy. If you only want comfort-food shojo, look elsewhere; if you want first love told with the honesty of someone who knows it doesn't always survive, this is one of the best.
+
+## Similar Manga
+
+| Title | Its Approach | How We Were There Differs |
+|---|---|---|
+| Nana by Ai Yazawa | Raw, messy adult love and friendship in the city | We Were There centers on one couple across years rather than an ensemble |
+| Fruits Basket by Natsuki Takaya | Healing trauma through found family and warmth | We Were There is colder and more about romantic grief than chosen family |
+| Say I Love You by Kanae Hazuki | Realistic high school romance with social anxiety | We Were There follows its couple well past school, into adult disillusionment |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=We%20Were%20There&tag=dearmanga-20)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=We%20Were%20There%20Yuki%20Obata&tag=dearmanga-20)
 
 ---
 
