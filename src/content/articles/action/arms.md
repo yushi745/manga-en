@@ -1,9 +1,9 @@
 ---
-title: "ARMS Review: Teenagers With Nanomachine Weapons Grafted Into Their Bodies Fight a Secret War"
+title: "Project ARMS Review: The Nanomachine Manga Where the Weapon Inside You Has Its Own Hatred"
 slug: "arms"
 genre: "Action / Sci-Fi"
 genreSlug: "action"
-mangaTitle: "ARMS"
+mangaTitle: "Project ARMS"
 mangaTitleJa: "ARMS"
 mangaAuthor: "Kyoichi Nanatsuki / Ryoji Minagawa"
 serialization: "Weekly Shonen Sunday"
@@ -13,120 +13,89 @@ status: "Completed"
 englishVolumes: 22
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["action violence", "body horror elements", "scientific experimentation themes", "some graphic content in specific sequences"]
-description: "Yu's review of ARMS — four teenagers discover that nanomachine weapons technology called ARMS has been grafted into their bodies without their knowledge; they have superhuman abilities but no control; the technology originated with a secret organization called Egrigori; they must fight to survive, understand what they are, and resist an organization that created them."
+contentWarnings: ["action violence", "body horror", "human experimentation themes", "child trauma"]
+description: "Yu's review of Project ARMS (ARMS) by Kyoichi Nanatsuki and Ryoji Minagawa — four teenagers carry nanomachine weapons named after Alice in Wonderland grafted into their bodies. Ryo's right arm hides the Jabberwock, an artificial intelligence built from Black Alice's hatred that takes over when he loses control. A 22-volume Weekly Shonen Sunday sci-fi thriller, fully available in English from Viz Media."
 coverImage: "/covers/arms.jpg"
 amazonASIN: "1569317313"
 publishedAt: "2024-07-23"
+rewritten: "2026-06-03"
+read: true
 tags: ["action", "sci-fi", "completed", "viz", "nanomachines", "shonen"]
 rating: 4
 hasAffiliate: true
 ---
 
+I found Project ARMS in a used bookstore in Osaka, a tall stack of beat-up volumes with that Lewis Carroll cover lettering, and I almost passed it over because I'd never heard anyone talk about it. That's the strange thing about ARMS for me. It ran in Weekly Shonen Sunday in the same years I was reading everything I could get my hands on, it won a Shogakukan Manga Award, and somehow it stayed quiet. No one in my class mentioned it. So when I finally read it, it felt like a secret — a serious, anxious, body-horror science fiction story hiding under a shonen action cover.
+
+What got me wasn't the fights, even though Ryoji Minagawa draws gorgeous, brutal fights. It was the premise that the most dangerous thing in the story is inside the hero's own body, and it doesn't love him. The Jabberwock in Ryo's right arm is not a power-up. It's a passenger with its own hatred, and the whole series is Ryo trying not to lose himself to it.
+
 ## Quick Take
 
-- The 1990s sci-fi action manga that took the nanotech premise seriously — ARMS is not just weapons, it is the series' central metaphor for what we are when technology becomes part of our bodies
-- Four protagonists instead of one, each with different ARMS abilities, gives the ensemble action more tactical variety than most shonen from its era
-- 22 volumes complete; one of Viz's most substantial action releases from the Weekly Shonen Sunday catalog
-
-## Who Is This Manga For?
-
-- Readers who enjoy 1990s-style action sci-fi with genuine world-building and ensemble structure
-- Anyone interested in nanomachine/cyborg themes handled with more seriousness than most shonen
-- Fans of four-person team action with distinct power sets and genuine tactical variety
-- Readers who want a long completed action series from an underrepresented Weekly Shonen Sunday era
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Action violence with some graphic sequences; the ARMS transformation involves body horror elements; the scientific experimentation backstory is disturbing in implication; some sequences involving human subjects
-
-The T rating is accurate with the caveat that specific sequences push toward the rating's upper limit.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★☆☆ |
+- A 1997–2002 sci-fi action manga that treats its nanomachine premise as a question about identity, not just a source of cool weapons — the ARMS units have their own intelligence and their own will
+- Four protagonists instead of one, each carrying an ARMS named after an Alice in Wonderland figure (Jabberwock, White Knight, White Rabbit, Queen of Hearts), which gives the action genuine tactical variety
+- Rated T (Teen): action violence, body horror in the transformations, and a backstory of child experimentation that gets genuinely dark
 
 ## Story Overview
 
-Ryo Takatsuki discovers that a powerful entity lives in his right arm — a nanomachine weapon called ARMS. He cannot fully control it. It responds to threat by transforming his arm into a weapon with its own intelligence and judgment.
+Ryo Takatsuki looks like an ordinary, unusually calm high schooler. He isn't. His mercenary parents trained him in secret his whole life for one reason: his right arm contains the Jabberwock, a nanomachine weapon, and one day someone would come for it.
 
-Three other teenagers have the same situation: Hayato, Takeshi, and Kei each carry an ARMS unit in their bodies. The four were unknowing test subjects for Egrigori, a secret organization that developed ARMS technology and is now pursuing them to recover or eliminate the units.
+The trigger is Katsumi Akagi, Ryo's childhood friend. When the shadow organization Egrigori abducts her, Ryo goes after her — and in the process discovers three other teenagers in the same trap. Hayato Shingu, Takeshi Tomoe, and Kei Kuruma each carry an ARMS unit, each of them an unwilling experiment of the same organization that built the technology by grafting it into children.
 
-The series follows the four as they uncover the truth about Egrigori, develop increasing control over their ARMS, and confront the question of what it means to carry something in your body that has its own desires and its own intelligence.
+From there the series widens out into the truth behind ARMS. Egrigori, founded by Keith White and Dr. Samuel Tillinghast, didn't just make weapons — the ARMS are fragments of "Alice," a child whose consciousness split into White Alice (compassion) and Black Alice (rage) after fusing with an entity called Azazel during a massacre of test subjects. The Jabberwock is built from Black Alice's hatred, which is why it fights to take Ryo over. The back half of the series escalates toward Egrigori's actual goal — what a "successful" Alice would mean for humanity — and the final confrontation forces Ryo to either become the Jabberwock completely or hold onto himself through the people he loves.
 
 ## Characters
 
-**Ryo Takatsuki** — The primary protagonist. His ARMS unit is "Jabberwock" — wild, independent, and more powerful than the others. His relationship with Jabberwock is the series' central character dynamic: two consciousnesses sharing one body with different goals.
+**Ryo Takatsuki** — The center of the story. Polite, analytical, raised by mercenary parents to survive a war he didn't ask for. His ARMS is the Jabberwock, the most powerful and most unstable of the four. His real arc is control: the Jabberwock activates through rage and grief, and the more Ryo loses himself, the stronger and more monstrous it becomes. The series keeps asking whether Ryo can win without becoming the thing inside him.
 
-**Hayato, Takeshi, and Kei** — Each carries a different ARMS type (based on Wonderland creatures: White Rabbit, Humpty Dumpty, and Alice). The Alice mythology framing gives the ensemble a conceptual unity that is more interesting than a random power set assignment.
+**Hayato Shingu** — Impulsive and driven by justice, with the worst childhood of the four. As a small boy he watched Egrigori destroy his village and Keith Black kill his parents and sever his left arm — the arm that becomes his White Knight ARMS. He starts the series consumed by revenge and slowly grows into someone who protects rather than avenges.
 
-## Art Style
+**Takeshi Tomoe** — The timid one. His ARMS is the White Rabbit, manifesting as superhuman speed in his legs. His growth is about courage — overcoming his own fear and hesitation through loyalty to the others rather than through raw power.
 
-Minagawa's art is detailed and action-competent — the ARMS transformations are rendered with the specific kind of biomechanical detail that the premise requires. The character designs are distinctive and the ensemble is visually differentiated. Action sequences have the kinetic energy of 1990s shonen with better spatial clarity than many contemporaries.
-
-## Cultural Context
-
-ARMS ran in Weekly Shonen Sunday in the late 1990s, a period when the magazine was producing action manga that often flew under the radar compared to its Shonen Jump contemporaries. The Lewis Carroll mythology framing — Jabberwock, White Rabbit, Humpty Dumpty, Alice — gives the science fiction premise a literary texture that distinguishes it from pure tech-action.
+**Kei Kuruma** — A girl who carries the Queen of Hearts ARMS in her eyes, functioning as a kind of impartial judge among the units. Cool and guarded at first, her arc is about learning to actually connect with people instead of standing apart from them.
 
 ## What I Love About It
 
-The Jabberwock episodes. When Ryo loses control and Jabberwock acts independently, the series asks directly: who is responsible for what Jabberwock does? It is Ryo's body, but not Ryo's choice. The series never provides an easy answer and the question gets more complicated as Ryo and Jabberwock develop their relationship.
+The Jabberwock. Not as a weapon — as a problem the story never solves cheaply. Because the Jabberwock is made from Black Alice's hatred and answers to Ryo's anger and grief, the worse Ryo feels, the more control he loses, and the stronger he gets. That's a vicious design. It means Ryo's lowest emotional moments are also his most dangerous, and the manga refuses to let "getting stronger" be a clean victory.
 
-## What English-Speaking Fans Say
-
-Western readers who find ARMS describe it as one of the stronger action series in the Viz Weekly Shonen Sunday catalog — better than its relative obscurity suggests. The Alice mythology framing is consistently cited as a distinguishing element. Readers compare it favorably to other nanotech/cyborg manga while noting it predates many of the better-known examples.
+The question that runs underneath every Jabberwock sequence is: who is responsible for what the Jabberwock does? It's Ryo's body, but it isn't always Ryo's choice. When it acts on its own, is that Ryo? The series leans into how uncomfortable that is. The climax doesn't resolve it by Ryo simply overpowering the Jabberwock — it resolves through Ryo holding onto himself through his bonds with Katsumi and the others, choosing connection over the limitless destructive power the Jabberwock offers. For a 1990s shonen action series, that's a surprisingly grown-up answer, and it's the thing that stuck with me long after the fights blurred together.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The sequence where the true nature of Egrigori's goal — what they actually wanted to produce with ARMS, what the "successful" version of their experiment would have been — is revealed and forces a reassessment of what Ryo and the others represent.
+The first time Ryo fully loses control. When Egrigori takes Katsumi and Ryo believes she's been killed — he sees the blood, he sees her pulled into a giant creature — his grief just overflows. The Jabberwock's voice rises in him, and instead of his arm transforming into a controlled weapon, Ryo himself begins to warp into something monstrous, the Jabberwock taking him over completely through pure rage.
 
-## Similar Manga
-
-- **Battle Angel Alita** — Cyborg action, identity themes, sci-fi setting
-- **Biomega** — Nanomachine-adjacent sci-fi action
-- **Getter Robo** — Multiple pilots sharing one system, similar ensemble structure
-- **Parasyte** — Unknown entity grafted into a human body, similar relationship dynamics
-
-## Reading Order / Where to Start
-
-Volume 1 — Ryo's first ARMS activation and the beginning of Egrigori's pursuit.
-
-## Official English Translation Status
-
-Viz Media published the complete 22-volume English edition. Available.
+What makes the page work is that Minagawa draws it as horror, not triumph. This isn't the hero unlocking a new form to cheer for. It's the protagonist disappearing into the thing inside him because he's in too much pain to hold the line. That early sequence sets the stakes for the entire series: every time Ryo gets stronger like this, he's also losing. It reframes the genre's usual "power through emotion" beat into something genuinely frightening.
 
 ## Pros & Cons
 
 **Pros**
-- The Alice mythology framing distinguishes it from generic nanotech action
-- The four-protagonist structure provides tactical variety
-- The Jabberwock/Ryo relationship is genuinely interesting
-- 22 volumes of complete story
+- The Alice in Wonderland framing (Jabberwock, White Knight, White Rabbit, Queen of Hearts) gives the sci-fi a literary spine instead of generic tech names
+- The four-protagonist structure delivers real tactical variety in the action
+- The Jabberwock / Ryo relationship turns "getting stronger" into a moral problem
+- A complete 22-volume story with an actual ending, fully translated into English
 
 **Cons**
-- 1990s pacing — slower by contemporary standards in the early volumes
-- Some secondary characters are less developed than the central four
-- The power escalation in later volumes follows standard genre patterns
+- 1990s pacing — the early volumes build slowly by today's standards
+- Some secondary Egrigori antagonists are thinner than the central four
+- The mid-series power escalation occasionally follows familiar genre patterns
+- The slow burn and grim body-horror tone won't work for everyone — that's either the appeal or the dealbreaker depending on you
 
-## Format Comparison
+## Is Project ARMS Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Viz Media; 22 volumes |
-| Digital | Available |
+Yes — especially if you want sci-fi action with a real idea under it. It's a complete, well-drawn 22-volume series that uses its nanomachine premise to ask what you are when the weapon is part of your body and wants something different than you do. If you only want fast, frictionless shonen, the slower early volumes and the dark tone may not land. If you want a series that treats power as a danger instead of a reward, this one earns its length.
+
+## Similar Manga
+
+| Title | Its Approach | How Project ARMS Differs |
+|---|---|---|
+| Parasyte | An alien entity sharing a teenager's body, negotiating coexistence | ARMS makes the entity an extension of the hero's own rage, so the threat is internal and emotional rather than a separate being |
+| Battle Angel Alita | Cyborg action built around questions of identity and the body | ARMS keeps its leads fully human bodies invaded by tech, and centers an ensemble of four rather than one |
+| Spriggan | Minagawa's earlier action thriller — conspiracies, ancient tech, government shadow war | ARMS swaps relics for nanomachines and makes the protagonist's own body the central battleground |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=ARMS+manga&i=stripbooks)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Project+ARMS+manga&i=stripbooks&tag=dearmanga-20)
 
 
 ---
