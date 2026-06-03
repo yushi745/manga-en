@@ -1,8 +1,8 @@
 ---
 title: "Barefoot Gen Review: The Man Who Was There Drew What He Saw"
 slug: "barefoot-gen"
-genre: "Slice of Life"
-genreSlug: "slice-of-life"
+genre: "Drama"
+genreSlug: "drama"
 mangaTitle: "Barefoot Gen"
 mangaTitleJa: "はだしのゲン"
 mangaAuthor: "Keiji Nakazawa"

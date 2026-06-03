@@ -3,7 +3,7 @@ title: "Ushijima the Loan Shark Review — Japan's Underground Money Economy Thr
 slug: "ushijima-loan-shark"
 coverImage: "/covers/ushijima-loan-shark.jpg"
 genre: "Drama"
-genreSlug: "slice-of-life"
+genreSlug: "drama"
 mangaTitle: "Ushijima-kun the Loan Shark"
 mangaTitleJa: "闇金ウシジマくん"
 mangaAuthor: "Shohei Manabe"

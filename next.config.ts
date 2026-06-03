@@ -18,7 +18,7 @@ const nextConfig: NextConfig = {
       // === Stage 1: same slug, different genre (2026-05-18) ===
       { source: '/action/talentless-nana', destination: '/horror/talentless-nana', permanent: true },
       { source: '/slice-of-life/happiness', destination: '/horror/happiness', permanent: true },
-      { source: '/sports/a-drifting-life', destination: '/slice-of-life/a-drifting-life', permanent: true },
+      { source: '/sports/a-drifting-life', destination: '/drama/a-drifting-life', permanent: true },
       { source: '/sci-fi/shangri-la-frontier', destination: '/action/shangri-la-frontier', permanent: true },
       { source: '/sci-fi/i-am-a-hero', destination: '/horror/i-am-a-hero', permanent: true },
       { source: '/sci-fi/choujin-x', destination: '/action/choujin-x', permanent: true },
@@ -115,6 +115,27 @@ const nextConfig: NextConfig = {
       { source: '/fantasy/d-n-angel', destination: '/romance/dn-angel', permanent: true },
       { source: '/slice-of-life/komi-san', destination: '/slice-of-life/komi-cant-communicate', permanent: true },
       { source: '/action/origin', destination: '/sci-fi/origin-boichi', permanent: true },
+
+      // === New "drama" genre — reclassified out of mismatched folders (2026-06-04) ===
+      { source: '/sports/dotsuitare', destination: '/drama/dotsuitare', permanent: true },
+      { source: '/action/ayako', destination: '/drama/ayako', permanent: true },
+      { source: '/action/act-age', destination: '/drama/act-age', permanent: true },
+      { source: '/action/beck', destination: '/drama/beck', permanent: true },
+      { source: '/action/bakuman', destination: '/drama/bakuman', permanent: true },
+      { source: '/action/akane-banashi', destination: '/drama/akane-banashi', permanent: true },
+      { source: '/slice-of-life/barefoot-gen', destination: '/drama/barefoot-gen', permanent: true },
+      { source: '/slice-of-life/adolf', destination: '/drama/adolf', permanent: true },
+      { source: '/slice-of-life/hitler-mizuki', destination: '/drama/hitler-mizuki', permanent: true },
+      { source: '/slice-of-life/buddha', destination: '/drama/buddha', permanent: true },
+      { source: '/slice-of-life/a-drifting-life', destination: '/drama/a-drifting-life', permanent: true },
+      { source: '/slice-of-life/abandon-the-old-in-tokyo', destination: '/drama/abandon-the-old-in-tokyo', permanent: true },
+      { source: '/slice-of-life/say-hello-to-black-jack', destination: '/drama/say-hello-to-black-jack', permanent: true },
+      { source: '/slice-of-life/ushijima-loan-shark', destination: '/drama/ushijima-loan-shark', permanent: true },
+      { source: '/slice-of-life/crime-and-punishment-tezuka', destination: '/drama/crime-and-punishment-tezuka', permanent: true },
+      { source: '/sci-fi/mujirushi', destination: '/drama/mujirushi', permanent: true },
+      { source: '/horror/confidential-confessions', destination: '/drama/confidential-confessions', permanent: true },
+      { source: '/romance/a-cruel-god-reigns', destination: '/drama/a-cruel-god-reigns', permanent: true },
+      { source: '/romance/i-love-yoo', destination: '/drama/i-love-yoo', permanent: true },
 
       // === Stage 3: additional renames (2026-05-18) ===
       { source: '/fantasy/is-it-wrong-pick-up-girls', destination: '/fantasy/danmachi', permanent: true },

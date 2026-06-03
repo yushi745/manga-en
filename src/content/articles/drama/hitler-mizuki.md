@@ -2,7 +2,7 @@
 title: "Hitler Review: The Kitaro Artist Draws a Dictator"
 slug: "hitler-mizuki"
 genre: "Historical / Drama"
-genreSlug: "slice-of-life"
+genreSlug: "drama"
 mangaTitle: "Hitler"
 mangaTitleJa: "劇画ヒットラー"
 mangaAuthor: "Shigeru Mizuki"

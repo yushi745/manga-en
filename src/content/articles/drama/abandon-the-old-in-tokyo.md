@@ -3,7 +3,7 @@ title: "Abandon the Old in Tokyo Review: Yoshihiro Tatsumi's Bleak Portraits of 
 slug: "abandon-the-old-in-tokyo"
 coverImage: "/covers/abandon-the-old-in-tokyo.jpg"
 genre: "Slice of Life / Drama"
-genreSlug: "slice-of-life"
+genreSlug: "drama"
 mangaTitle: "Abandon the Old in Tokyo"
 mangaTitleJa: "東京うばすて山"
 mangaAuthor: "Yoshihiro Tatsumi"

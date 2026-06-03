@@ -2,7 +2,7 @@
 title: "Beck Review: The Quietest Kid in Class Opens His Mouth and a Whole Band Stops"
 slug: "beck"
 genre: "Action / Drama"
-genreSlug: "action"
+genreSlug: "drama"
 mangaTitle: "Beck: Mongolian Chop Squad"
 mangaTitleJa: "BECK"
 mangaAuthor: "Harold Sakuishi"

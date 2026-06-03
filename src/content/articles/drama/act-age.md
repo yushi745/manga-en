@@ -1,8 +1,8 @@
 ---
 title: "Act-Age Review: The Manga That Got Erased — And Why I Can't Forget It"
 slug: "act-age"
-genre: "Action"
-genreSlug: "action"
+genre: "Drama"
+genreSlug: "drama"
 mangaTitle: "Act-Age"
 mangaTitleJa: "アクタージュ act-age"
 mangaAuthor: "Tatsuya Matsuki (story) / Shiro Usazaki (art)"

@@ -1,8 +1,8 @@
 ---
 title: "Ayako Review: Tezuka's Buried Girl and the Secret Postwar Japan Couldn't Dig Up"
 slug: "ayako"
-genre: "Action"
-genreSlug: "action"
+genre: "Drama"
+genreSlug: "drama"
 mangaTitle: "Ayako"
 mangaTitleJa: "奇子"
 mangaAuthor: "Osamu Tezuka"

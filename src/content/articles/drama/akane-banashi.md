@@ -2,7 +2,7 @@
 title: "Akane-banashi Review — A High Schooler Becomes a Rakugo Performer to Vindicate Her Father's Lost Career"
 slug: "akane-banashi"
 genre: "Drama"
-genreSlug: "action"
+genreSlug: "drama"
 mangaTitle: "Akane-banashi"
 mangaTitleJa: "あかね噺"
 mangaAuthor: "Yuki Suenaga (story) / Takamasa Moue (art)"

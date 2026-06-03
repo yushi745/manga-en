@@ -2,7 +2,7 @@
 title: "Bakuman Review: The Manga About Making Manga That Made Me Understand Every Series I'd Ever Read"
 slug: "bakuman"
 genre: "Drama / Slice of Life"
-genreSlug: "action"
+genreSlug: "drama"
 mangaTitle: "Bakuman"
 mangaTitleJa: "バクマン。"
 mangaAuthor: "Tsugumi Ohba / Takeshi Obata"

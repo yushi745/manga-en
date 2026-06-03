@@ -2,7 +2,7 @@
 title: "I Love Yoo Review: The Webtoon Where the Romance Is the Smallest Thing About It"
 slug: "i-love-yoo"
 genre: "Romance / Drama"
-genreSlug: "romance"
+genreSlug: "drama"
 mangaTitle: "I Love Yoo"
 mangaTitleJa: "I Love Yoo"
 mangaAuthor: "Quimchee"

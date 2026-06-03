@@ -3,7 +3,7 @@ title: "Confidential Confessions Review: The Shojo Manga That Refused to Look Aw
 slug: "confidential-confessions"
 coverImage: "/covers/confidential-confessions.jpg"
 genre: "Horror / Drama"
-genreSlug: "horror"
+genreSlug: "drama"
 mangaTitle: "Confidential Confessions"
 mangaTitleJa: "問題提起作品集"
 mangaAuthor: "Reiko Momochi"

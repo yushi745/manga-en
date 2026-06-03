@@ -3,7 +3,7 @@ title: "A Cruel God Reigns Review: The Manga That Shows What Surviving Actually 
 slug: "a-cruel-god-reigns"
 coverImage: "/covers/a-cruel-god-reigns.jpg"
 genre: "Drama / Romance"
-genreSlug: "romance"
+genreSlug: "drama"
 mangaTitle: "A Cruel God Reigns"
 mangaTitleJa: "残酷な神が支配する"
 mangaAuthor: "Moto Hagio"

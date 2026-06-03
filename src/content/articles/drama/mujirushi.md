@@ -2,7 +2,7 @@
 title: "Mujirushi: The Sign of Dreams Review: Naoki Urasawa Got Permission to Wander the Louvre at Night, and This Is What He Brought Back"
 slug: "mujirushi"
 genre: "Mystery / Drama"
-genreSlug: "sci-fi"
+genreSlug: "drama"
 mangaTitle: "Mujirushi: The Sign of Dreams"
 mangaTitleJa: "夢印-MUJIRUSHI-"
 mangaAuthor: "Naoki Urasawa"

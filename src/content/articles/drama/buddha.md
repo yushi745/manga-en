@@ -1,8 +1,8 @@
 ---
 title: "Buddha Review: Tezuka Drew the Most Sacred Man in History — and Let Him Be Wrong"
 slug: "buddha"
-genre: "Slice of Life / Historical"
-genreSlug: "slice-of-life"
+genre: "Drama"
+genreSlug: "drama"
 mangaTitle: "Buddha"
 mangaTitleJa: "ブッダ"
 mangaAuthor: "Osamu Tezuka"

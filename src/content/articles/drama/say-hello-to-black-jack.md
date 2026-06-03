@@ -3,7 +3,7 @@ title: "Say Hello to Black Jack Review — A Young Resident Discovers What Japan
 slug: "say-hello-to-black-jack"
 coverImage: "/covers/say-hello-to-black-jack.jpg"
 genre: "Drama / Medical"
-genreSlug: "slice-of-life"
+genreSlug: "drama"
 mangaTitle: "Say Hello to Black Jack"
 mangaTitleJa: "ブラックジャックによろしく"
 mangaAuthor: "Shuho Sato"

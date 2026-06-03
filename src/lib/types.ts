@@ -46,6 +46,7 @@ export const GENRES: Record<string, string> = {
   "slice-of-life": "Slice of Life",
   sports: "Sports",
   "sci-fi": "Sci-Fi",
+  drama: "Drama",
 };
 
 export interface GuideFrontmatter {

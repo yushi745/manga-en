@@ -3,7 +3,7 @@ title: "Dotsuitare Review: The Tezuka Manga Where He Drew His Own Hungry Postwar
 slug: "dotsuitare"
 coverImage: "/covers/dotsuitare.jpg"
 genre: "Drama / Historical"
-genreSlug: "sports"
+genreSlug: "drama"
 mangaTitle: "Dotsuitare"
 mangaTitleJa: "どついたれ"
 mangaAuthor: "Osamu Tezuka"

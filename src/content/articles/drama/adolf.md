@@ -3,7 +3,7 @@ title: "Message to Adolf Review: Tezuka's Masterpiece About Three Men Named Adol
 slug: "adolf"
 coverImage: "/covers/adolf.jpg"
 genre: "Historical / Drama"
-genreSlug: "slice-of-life"
+genreSlug: "drama"
 mangaTitle: "Message to Adolf"
 mangaTitleJa: "アドルフに告ぐ"
 mangaAuthor: "Osamu Tezuka"
