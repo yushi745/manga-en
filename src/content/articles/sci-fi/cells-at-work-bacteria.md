@@ -1,133 +1,92 @@
 ---
-title: "Cells at Work! Bacteria Review: The Bacteria Living Inside You Are Working Hard Too"
+title: "Cells at Work! Bacteria Review: The War in Your Gut Has Two Sides"
 slug: "cells-at-work-bacteria"
 coverImage: "/covers/cells-at-work-bacteria.jpg"
 genre: "Sci-Fi"
 genreSlug: "sci-fi"
 mangaTitle: "Cells at Work! Bacteria"
-mangaTitleJa: "はたらく細胞"
-mangaAuthor: "Haruyama Moto"
-serialization: "Monthly Shōnen Sirius"
-publisher: "Kodansha / Kodansha Comics"
-volumes: 4
+mangaTitleJa: "はたらく細菌"
+mangaAuthor: "Haruyuki Yoshida (original concept by Akane Shimizu)"
+serialization: "Nakayoshi"
+publisher: "Kodansha / Kodansha Comics (Kodansha USA)"
+volumes: 7
 status: "Completed"
-englishVolumes: 4
+englishVolumes: 7
 englishStatus: "Complete"
-ageRating: "All Ages"
-contentWarnings: ["biology content", "bacterial characters", "mild comedic violence", "educational content"]
-description: "Yu's review of Cells at Work! Bacteria — the bacteria living in the human gut have their own lives and their own work to do; this spinoff follows gut bacteria characters as they maintain the microbiome; Haruyama Moto's educational spinoff focusing on the bacteria that live inside us."
-amazonASIN: "1632368668"
+ageRating: "T (Teen)"
+contentWarnings: ["mild comedic violence", "biology content"]
+description: "Yu's review of Cells at Work! Bacteria by Haruyuki Yoshida — a Hataraku Saibou spinoff set inside the human gut, where the good Bifidum army and the bad Clostridium Perfringens fight over a host's intestines, until a bigger threat forces them to team up."
+amazonASIN: "B08C21XQ2V"
 publishedAt: "2025-10-16"
-tags: ["sci-fi", "educational", "comedy", "completed", "all-ages", "kodansha", "cells-at-work", "spinoff"]
-rating: 3
+read: true
+rewritten: "2026-06-03"
+tags: ["sci-fi", "educational", "comedy", "completed", "kodansha", "cells-at-work", "spinoff"]
+rating: 4
 hasAffiliate: true
 ---
 
+When I first read the original *Cells at Work!*, I remember sitting in a clinic waiting room in Tokyo feeling oddly proud of my own red blood cells. It is a strange feeling, cheering for the inside of your own body. So when I found out there was a spinoff that gives the same treatment to the bacteria living in my gut — the trillions of tiny things I never once thought about — I had to read it. I am the kind of person who reads the back of yogurt containers. This manga felt like it was made for me.
+
+What surprised me was how much I cared about bacteria by the end. Not the cells this time. The germs.
+
 ## Quick Take
 
-- The gut bacteria premise is a specific and unusual angle on the Cells at Work formula
-- Educational content about the microbiome is presented with the same anthropomorphized enthusiasm
-- 4 volumes complete; works best for readers who enjoyed the original series
-
-## Who Is This Manga For?
-
-- Readers who want to know more about gut bacteria after reading Cells at Work
-- Anyone interested in microbiome content in educational manga form
-- Fans of the Cells at Work formula applied to less-familiar biology
-- Readers looking for short complete educational spinoff manga
-
-## Content Warnings & Age Rating
-
-**Age Rating**: All Ages
-**Content Warnings**: Biology content including bacteria, viruses, immune response; mild comedic violence in immune system conflicts; educational throughout
-
-All Ages — appropriate for everyone.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★☆☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★☆☆ |
+- A *Cells at Work!* spinoff that moves the camera from blood cells to the gut microbiome, where good and bad bacteria fight over one human host
+- Drawn in a softer shojo style than the original — it ran in *Nakayoshi*, a girls' magazine, not a shonen one
+- Complete at 7 volumes; rated T (Teen) — mostly all-ages but with comedic battle violence and a couple of darker infection arcs
 
 ## Story Overview
 
-The human gut is home to trillions of bacteria — beneficial bacteria that maintain the microbiome, support digestion, and interact with the immune system.
+The setting is the human intestine. Down in the gut, two armies are locked in a constant war. On one side is the Bifidum army — the good bacteria, led by their commander, who keep the host healthy and fight off invaders. On the other side is Clostridium Perfringens and the bad bacteria, who get stronger when the host eats too much meat and weaker when the host eats vegetables.
 
-This spinoff gives those bacteria the Cells at Work treatment — anthropomorphized characters with jobs, personalities, and daily tasks to perform. The beneficial bacteria go about their work, face threats from pathogenic bacteria, and interact with the immune cells of the original series.
+The early chapters set up this rivalry as the engine of the whole series. The good bacteria want a balanced, healthy host; the bad bacteria are more troublemakers than true villains. The turning point in how the manga works comes when a real outside threat shows up — pathogens like Salmonella or E. coli O157 that can actually kill the host. When that happens, the good Bifidum army and the "bad" Clostridium Perfringens are forced to fight on the same side, because if the host dies, everyone dies. That uneasy alliance is the heart of the book.
 
-The educational content focuses on the microbiome specifically — what gut bacteria do, why the balance matters, what disrupts it.
+It ends not with one side winning, but with the idea the whole series keeps circling back to: the gut needs balance. The "good" bacteria are not always right, and the "bad" ones are not pure evil. Health is the truce between them.
 
 ## Characters
 
-**The Beneficial Bacteria** — Lactobacilius and other gut residents as characters with occupational roles, depicted with the earnestness the original series used for red and white blood cells.
+**Bifidum (the Bifidum army)** — The beneficial bacteria who defend the intestine and regulate it. They are vegetarians, thriving when the host eats fruit and vegetables, and they are sincerely devoted to protecting their host. They carry the earnest, hard-working energy the original series gave to white blood cells.
 
-**Pathogenic Bacteria** — Threats to the microbiome given villain roles; the immune response to gut disruption is depicted through conflict.
+**Clostridium Perfringens** — The leader of the bad bacteria. He grows powerful when the host overeats meat. He is the antagonist, but the manga is careful: he is more of a stubborn rival than a monster, and when something truly dangerous appears, he will protect the host too.
 
-## Art Style
+**The Lactic Acid Bacteria** — A comedic, lovable group whose whole purpose is to help. In one arc, huge numbers of dead lactic acid bacteria pour down from the stomach into the intestine and release chemicals that massively reinforce the Bifidum army. They are the "probiotic" cavalry, and their chapters are the lightest in tone.
 
-Moto's art maintains visual continuity with the original Cells at Work style — bright, character-forward, with the health condition depicted as environmental setting.
-
-## Cultural Context
-
-Cells at Work! generated numerous spinoffs covering different aspects of human biology. The bacteria spinoff is unusual in focusing on microorganisms that aren't traditionally part of the body's "cast" — extending the series' premise into genuinely specialized territory.
+**The pathogens (Salmonella, E. coli O157)** — The true outside enemies. Unlike Clostridium, these are not residents but invaders who threaten the host's life, and their arrival is what forces the gut's rival factions to cooperate.
 
 ## What I Love About It
 
-The microbiome content specifically. The gut bacteria and their relationship to human health is a topic most manga don't touch at all. The series' choice to focus here rather than on more familiar biology makes it a genuinely different entry point than the original series.
+The thing I love most is the lactic acid bacteria arc — the moment the reinforcements arrive. The setup is that the host has eaten fermented food, and a flood of lactic acid bacteria comes down from the stomach into the gut. Most of them die on the way, but even in dying they release substances that strengthen the Bifidum army. The page turns a piece of dry nutrition science — "dead probiotic bacteria still benefit your gut" — into something that reads like a last stand in a war movie, soldiers giving everything they have on arrival.
 
-## What English-Speaking Fans Say
-
-Western readers describe Cells at Work! Bacteria as the most educational of the series' spinoffs — specifically noted for the microbiome content being more specialized than the original, for the formula translating well to the bacteria premise, and for the short length being appropriate for a concept that doesn't need to be longer.
+What got me was the tone. It is funny and warm and a little silly, and then it sneaks the real biology in sideways so you barely notice you learned something. I have read plenty of "educational manga" that feel like a textbook wearing a costume. This one earns the lesson, because I was already laughing at the lactic acid bacteria before I realized the manga had quietly explained why I should eat yogurt. As someone who genuinely reads yogurt labels, having a manga validate that habit by making it a heroic battle scene hit a very specific, very silly soft spot in me.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The sequences depicting the gut microbiome balance and what happens when it's disrupted — when the bacteria have to work harder to maintain an environment that's turning hostile — are the series' most specific educational content.
+The scene that stayed with me is the alliance against Salmonella. For most of the book, Bifidum and Clostridium Perfringens are enemies — the good army and the bad army, sniping at each other over what the host eats. Then a genuine killer pathogen invades, the kind that can actually take the host down, and the whole logic of the war flips.
 
-## Similar Manga
-
-- **Cells at Work!** — The original series; read this first
-- **Cells at Work! Code Black** — Adult body version with darker tone
-- **Hataraku Saibou White** — Another spinoff focusing on pregnancy
-- **Biology-focused manga** — Educational content on human systems
-
-## Reading Order / Where to Start
-
-Read Cells at Work! Volume 1 first for context; then Bacteria Volume 1.
-
-## Official English Translation Status
-
-Kodansha Comics published the complete 4-volume English series.
+Seeing the good Bifidum bacteria and the bad Clostridium bacteria stand back to back against a common enemy is the emotional payoff of the series. It is the moment the manga's quiet thesis becomes loud: in your gut there is no clean "good versus evil." There is only balance, and a shared survival that even rivals will fight to protect. For a series aimed partly at younger readers, that is a surprisingly mature idea, and it landed for me harder than anything in the original *Cells at Work!*.
 
 ## Pros & Cons
 
 **Pros**
-- Specific microbiome educational content
-- Maintains series formula effectively
-- Short and focused
-- Complete at 4 volumes
+- Takes the *Cells at Work!* formula somewhere genuinely fresh — the microbiome instead of blood cells
+- The "good and bad bacteria must cooperate" theme gives it real heart, not just trivia
+- Soft, friendly *Nakayoshi* art makes the science approachable
+- Complete and self-contained at 7 volumes
 
 **Cons**
-- Less accessible without original series context
-- Narrower focus limits character variety
-- Formula-dependent
+- Works much better if you have read the original series first
+- The educational framing means some chapters lean more toward "lesson" than "story"
+- It is gentle and episodic by design, so if you want high stakes and tight plotting, this softer, slower spinoff won't work for everyone
 
-## Format Comparison
+## Is Cells at Work! Bacteria Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Kodansha Comics; complete 4 volumes |
-| Digital | Available |
+Yes — especially if you liked the original and you are curious about the part of biology that lives in your gut. It is warm, funny, genuinely educational, and its central idea that health means balance between rivals is more thoughtful than a yogurt-mascot manga has any right to be. Go in expecting a gentle, episodic spinoff rather than an epic, and you will enjoy it.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Cells+at+Work%21+Bacteria+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=Cells+at+Work%21+Bacteria+manga&i=stripbooks&tag=dearmanga-20)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Bokurano Review: Fifteen Children Sign a Contract to Pilot a Giant Robot — and Learn What It Will Cost Them"
+title: "Bokurano Review: Fifteen Kids Sign a Contract to Pilot a Giant Robot, Not Knowing It Costs Their Lives"
 slug: "bokurano"
 coverImage: "/covers/bokurano.jpg"
 genre: "Sci-Fi / Drama"
@@ -7,129 +7,92 @@ genreSlug: "sci-fi"
 mangaTitle: "Bokurano"
 mangaTitleJa: "ぼくらの"
 mangaAuthor: "Mohiro Kitoh"
-serialization: "Monthly Big Comic Spirits"
-publisher: "Shogakukan / Viz Media"
+serialization: "Monthly Ikki"
+publisher: "Shogakukan / VIZ Media"
 volumes: 11
 status: "Completed"
 englishVolumes: 11
 englishStatus: "Complete"
 ageRating: "M (Mature)"
-contentWarnings: ["child death", "suicide themes", "existential horror", "dark psychological content", "abuse backstories"]
-description: "Yu's review of Bokurano — fifteen children at summer camp discover a game and sign a contract to pilot a giant mech called Zearth; the contract terms, which they did not understand, require each pilot's life as the cost of each battle won; the series follows each child's final story."
+contentWarnings: ["child death", "sexual abuse", "suicide themes", "existential horror", "mass death"]
+description: "Yu's review of Bokurano by Mohiro Kitoh — fifteen children sign a contract to pilot a giant robot called Zearth, only to learn each victory costs the pilot's life, and that every battle won erases another Earth."
 amazonASIN: "142152304X"
 publishedAt: "2025-10-14"
+rewritten: "2026-06-03"
+read: true
 tags: ["sci-fi", "drama", "completed", "psychological", "dark", "mecha", "mature"]
 rating: 5
 hasAffiliate: true
 ---
 
+I read the first chapter of Bokurano on a train ride home, expecting a fun giant-robot story. By the time I finished volume one, I was sitting very still, not wanting to move. I grew up loving mecha — Gundam, Evangelion, all of it. I thought I knew what a "kids pilot a robot" story was supposed to feel like. Bokurano took that comfort and quietly broke it in my hands. I have read a lot of dark manga in my life, but this one stayed with me in a way that almost scared me, because it never raises its voice. It just shows you a child, lets you love them, and then makes you watch.
+
 ## Quick Take
 
-- One of the darkest and most emotionally demanding manga in the medium — each chapter is a child's last story before they die piloting a robot they didn't fully choose
-- The mecha framework is a delivery mechanism for fifteen distinct human portraits, each complete and devastating on its own terms
-- 11 volumes complete; not for readers who cannot engage with child death and existential horror
-
-## Who Is This Manga For?
-
-- Readers who want manga that uses genre mechanics to explore serious human questions
-- Anyone who can engage with psychological and existential horror that takes its subjects seriously
-- Fans of dark mecha deconstruction (Evangelion, RahXephon) who want the darkest version
-- Readers who appreciate episodic character studies that accumulate into something larger
-
-## Content Warnings & Age Rating
-
-**Age Rating**: M (Mature)
-**Content Warnings**: Child death is the structural premise — each pilot dies after their battle; suicide themes; abuse backstories for several characters; existential horror about the nature of the contract; dark throughout
-
-The M rating is warranted. This is among the most emotionally demanding manga in English.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
+- A giant-robot story that uses the mecha genre as a delivery system for fifteen short, devastating portraits of ordinary children facing death
+- Mohiro Kitoh never flinches and never sentimentalizes — the battles are almost background noise next to the human stories
+- M (Mature): child death is the literal premise, plus sexual abuse, suicide themes, and mass death; this is not casual reading
 
 ## Story Overview
 
-Fifteen children at a summer program discover a cave and a man named Kokopelli, who offers them the chance to play a game — piloting a giant mech called Zearth to defend Earth from attacking robots. They sign a contract without reading it carefully.
+Fifteen middle-school kids at a seaside summer camp wander into a grotto full of computers. A young programmer who calls himself Kokopelli invites them to "test" a game: pilot a giant robot called Zearth and defend Earth against a series of attacking enemy robots. All but one of them sign the contract. It seems harmless — a game.
 
-The contract terms: Zearth is powered by the pilot's life force. Each battle won costs the pilot their life. The children will pilot one at a time, in order, until either all battles are won or all children are dead.
+The turning point comes after the very first battle. Takashi Waku climbs in, wins, and the kids celebrate on Zearth's giant chest. Then Waku falls, and the police find he was already dead before he hit the water. Zearth runs on the pilot's life force. Winning a battle costs the pilot everything. They will fly one at a time, in a fixed order, until either every enemy is defeated or every child is dead — and they cannot quit. A strange floating creature they nickname Koyemshi (the kids call him "Dung Beetle") manages the contract and tells them, coldly, exactly how it works.
 
-Koemushi — the mysterious creature who manages the contract — explains this after the fact. The children cannot quit.
-
-Each arc follows one child as they pilot Zearth, process what is happening to them, and resolve the unfinished business of their life in the time remaining. Some children are already carrying unbearable weight before they learn they will die. The battles are almost incidental to the portraits.
+From there the manga moves child by child, giving each pilot their own arc as they try to settle the unfinished business of their short lives before their turn comes. The deepest horror arrives later: these battles are not defending Earth from invaders. Each "enemy" is another parallel Earth's robot, and every victory means that the losing world — ten billion people — is erased from existence. The children are not heroes. They are executioners and victims at once. The final battles fall to Jun Ushiro, and the story does not offer an escape; it offers an ending, and asks what these doomed kids choose to become with the time they have left.
 
 ## Characters
 
-**The fifteen pilots** — Each child's arc is self-contained. The series introduces them in the group and then pulls them forward one at a time. The effect is of a camera that focuses on each person completely, makes you care for them completely, and then holds through their death.
+**Takashi Waku** — The first pilot. A soccer kid who lost faith in himself after realizing his talented father never made it as a pro. He wins the first fight cheerfully, gives the others a thumbs-up, and dies in the same breath — the death that teaches everyone, including the reader, what the contract really means.
 
-**Koemushi** — His role and nature are revealed gradually. What he is and what the contract actually serves are the series' central mystery, and its resolution is the most philosophically serious thing the manga does.
+**Jun Ushiro** — The closest thing to a protagonist. Guilt-ridden after the others believe he accidentally pushed Waku off Zearth, he carries a colder, harder edge than the rest. He turns out to be exempt from the original contract, but enters it willingly later and ends up piloting the final, most terrible battle of the series.
 
-## Art Style
+**Kana Ushiro** — Jun's gentle younger sister, the youngest of the group, too kind to want to hurt anyone. Her place in the story is one of the most quietly painful threads, and in the anime adaptation she is the one survivor who lives to narrate it all.
 
-Kitoh's art is deliberately unglamorous — the children look like children, the robot is industrial and heavy rather than sleek, and the emotional weight of each chapter is carried by precise, controlled expression work. The visual style refuses to beautify what it's depicting.
+**Chizuru Honda** — One of the most harrowing arcs in the book. A girl carrying a secret pregnancy and the trauma of being manipulated and assaulted by a teacher she trusted, Chizu's turn at Zearth becomes a reckoning with the people who destroyed her.
 
-## Cultural Context
-
-Bokurano ran in Monthly Big Comic Spirits and emerged from a tradition of dark mecha deconstruction — but goes further than most in its willingness to follow its premise to its logical end. Kitoh had previously done Narutaru (Shadow Star), another dark children-and-giant-creature manga, and this is the more fully realized work.
+**Kokopelli & Koyemshi** — Kokopelli, the smiling "programmer" who recruits them, is not what he seems; he is a pilot from another world running the same death game. Koyemshi, the floating mascot creature, is revealed to have been human once too — a participant in this endless tournament between Earths.
 
 ## What I Love About It
 
-Chizu's chapter. Without describing what happens: one pilot's chapter contains a confrontation about what was done to her that is the most direct moral statement the manga makes, handled without looking away, and the specific way it resolves is the series at its most uncompromising. It is also the most affecting thing in 11 volumes.
+What I love is Waku's death, because of how Kitoh chooses to draw it. He does not give us a tragic battlefield collapse or a tearful goodbye. Waku wins, the kids climb onto Zearth's enormous chest and cheer, the sky is bright, and one of them gives a thumbs-up. It looks like the triumphant final page of any normal shonen robot manga. Then Ushiro pats him on the back, Waku tips over the edge and falls into the sea, and everyone assumes Ushiro pushed him by accident. It is only afterward that we learn Waku had already been dead, standing there, the instant his time as pilot ended.
 
-## What English-Speaking Fans Say
-
-Western readers describe Bokurano as the manga that used the giant robot premise most honestly — honest about what "sacrifice" actually means when applied to real people with real lives. The contrast between the children's domestic concerns and the cosmic scale of what's happening to them is cited as the series' most effective technique.
+The first time I read this, I had to go back and look at the celebration panel again, knowing what I now knew. That is the genius of it. Kitoh hands you the exact image of victory that mecha stories have trained you to feel good about, and then he tells you the smiling boy in the middle of it was a corpse. It reframes the whole genre in two pages. Every cheer in every robot anime I had ever loved suddenly felt different. It hit me so hard because it was not cruel for the sake of shock — it was honest. If a child really paid for a victory with their life, this is exactly how invisible and ordinary and unbearable that moment would be. That single sequence is why I trust this manga to tell the truth about everything that comes after.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The revelation of what Zearth actually is — what powers it and what the battles actually mean for the alternate Earths — transforms the series from tragedy into something even larger, and the final pilot's understanding of the choice they're making is the most complete statement of what the whole series has been arguing.
+Chizuru Honda's battle is the one I cannot forget. By the time her turn comes, we know she is pregnant and we know what her teacher Hatagai and his friends did to her. When she takes control of Zearth, she does not just fight the enemy robot — she turns the most powerful weapon in the world on the men who assaulted her, killing them and, in the process, countless innocent people caught in the destruction. She is about to kill Hatagai too. The only thing that stops her is her older sister, who loved the same teacher and pleads with her in that final moment.
 
-## Similar Manga
+Then Chizuru dies, as the contract demands, and her unborn child dies with her — and she asks that her body and her baby be sealed inside Zearth. What stays with me is that Kitoh refuses to make her either a clean victim or a clean villain. He lets her be a wounded girl with the power of a god for a few minutes, and he lets us feel both the justice and the horror of what she does with it. It is the angriest, saddest chapter in the book, and it never once tells you how to feel.
 
-- **Narutaru (Shadow Star)** — Same author, similar dark children-and-monsters premise
-- **Neon Genesis Evangelion** — Mecha deconstruction, psychological focus
-- **Now and Then, Here and There** — Dark children's suffering in genre context
-- **Flowers of Evil** — Psychological intensity, refuses genre comfort
+## Content Warnings & Age Rating
 
-## Reading Order / Where to Start
+**Age Rating: M (Mature).** This is one of the heaviest manga I have ever recommended, and the rating is fully earned.
 
-Volume 1 — the contract and the first pilot's story establish the premise fully.
-
-## Official English Translation Status
-
-Viz Media published the complete 11-volume run. All volumes available.
+**Content Warnings:** Child death is the structural premise — each pilot dies after their battle. The series also contains sexual abuse and assault (Chizuru's arc), teen pregnancy, suicide themes, and the mass death of entire populations as a plot mechanic. Kitoh treats these subjects seriously, but he does not soften them.
 
 ## Pros & Cons
 
 **Pros**
-- Each pilot's chapter is a complete and devastating human portrait
-- The philosophical depth of the contract premise is fully realized
-- Complete with a meaningful ending
-- Among the most serious manga in the medium
+- Each pilot's chapter is a complete, human, devastating short story in itself
+- Waku's first death reframes the entire mecha genre in two pages
+- The reveal of what the battles actually cost gives the premise real philosophical weight
+- Eleven volumes, fully complete, with a real ending
 
 **Cons**
-- Child death is the structural premise — this is not incidental content
-- The M rating is accurate and the content is genuinely dark throughout
-- Not for readers seeking genre satisfaction from mecha battles
+- The relentless child death is the point, not incidental — it never lets up
+- A few pilots' arcs land harder than others, so the emotional intensity isn't perfectly even
+- It uses dark, genuinely upsetting subject matter to make its points, and that approach won't work for everyone
 
-## Format Comparison
+## Is Bokurano Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Viz Media; standard |
-| Digital | Available |
+Yes — if you can handle it. Bokurano is one of the most honest and emotionally demanding manga I have read, a giant-robot story that quietly dismantles every comfort the genre usually offers. If you want mecha as escapist fun, look elsewhere. If you want a series that takes the idea of "sacrifice" completely seriously and never blinks, there is nothing else quite like it.
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Bokurano+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=Bokurano+manga&i=stripbooks&tag=dearmanga-20)
 
 ---
 

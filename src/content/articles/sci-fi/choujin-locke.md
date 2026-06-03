@@ -1,5 +1,5 @@
 ---
-title: "Choujin Locke Review: The Immortal Esper Who Has Been Protecting Humanity Since 1967"
+title: "Choujin Locke Review: The Immortal Esper Who Outlived His Own Author"
 slug: "choujin-locke"
 coverImage: "/covers/choujin-locke.jpg"
 genre: "Sci-Fi / Action"
@@ -7,127 +7,86 @@ genreSlug: "sci-fi"
 mangaTitle: "Choujin Locke"
 mangaTitleJa: "超人ロック"
 mangaAuthor: "Yuki Hijiri"
-serialization: "Various (Monthly Shonen King, Weekly Shonen King, others)"
-publisher: "Sunday GX Comics (Shogakukan) / Previously various"
+serialization: "Various (doujinshi 1967, Monthly OUT, Weekly Shonen King, Young King OURs, Comic Flapper, others)"
+publisher: "Shōnen Gahōsha / Media Factory (KADOKAWA) / others"
 volumes: 60
-status: "Ongoing"
+status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
-contentWarnings: ["sci-fi action violence", "themes of immortality and loss", "space opera elements"]
-description: "Choujin Locke is one of manga's longest-running series — a space opera following Locke, an immortal esper who has existed for centuries, as he moves through a future humanity spread across the galaxy, protecting people from threats that only someone who cannot die can face."
+contentWarnings: ["sci-fi action violence", "themes of immortality and loss", "psychological manipulation"]
+description: "Choujin Locke is one of manga's longest-running sci-fi sagas — a galaxy-spanning space opera following Locke, an immortal esper who drifts through humanity's rise and fall, protecting people he knows he will outlive. Begun by Yuki Hijiri in 1967 and continued until his death in 2022."
 publishedAt: "2026-04-25"
 tags: ["sci-fi", "action", "space-opera", "esper", "classic", "long-running", "seinen"]
 rating: 4
 hasAffiliate: false
+read: true
+rewritten: "2026-06-03"
 ---
+
+When I was a kid hiding from the world in my room, I had this idea that the loneliest thing imaginable was to be the last one left at the end of a long day. Everyone goes home and you are still there. I found Choujin Locke much later, as an adult, after I started reading older sci-fi to understand where manga came from. And the first thing that hit me was that Locke is exactly that feeling stretched across centuries. He is the one who is always still there after everyone else has gone home. I did not expect a comic that started in 1967 to put its finger on something I had felt as a small, friendless kid. But it did.
 
 ## Quick Take
 
-- One of manga's most remarkable achievements — a single continuous series running since 1967
-- Locke's immortality gives the space opera an emotional dimension most sci-fi never reaches
-- Each arc is essentially a new story with new characters while Locke remains the constant — a genuinely original structure
-
-## Who Is This Manga For?
-
-- **Classic sci-fi manga fans** who want the genre at its most foundational
-- **Readers interested in space opera** with psychological depth and consistent philosophical concerns
-- **Anyone curious about how manga evolved** — Choujin Locke spans multiple eras of Japanese comics
-- **Fans of long-form series** who want something that has actually run for decades
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Sci-fi action and violence; themes of immortality and the loss that comes with it; some psychological content
-
-Appropriate for its rating.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★★ |
+- One of manga's longest-running sci-fi works — Yuki Hijiri drew Locke from 1967 until his death in 2022, an astonishing span of one artist following one character.
+- Locke's immortality is not a power fantasy. It is the source of the series' quiet grief — he protects people knowing he will bury all of them.
+- Rated T (Teen): sci-fi action and violence, psychic manipulation, and heavy themes of loss, but nothing graphic.
 
 ## Story Overview
 
-Locke has existed for centuries. He was born as an ordinary human but his esper abilities — which include telekinesis, telepathy, the capacity to alter matter, and effective immortality through the ability to regenerate and transfer his consciousness — have separated him from normal human lifespan.
+Choujin Locke is structured less like one continuous plot and more like a chain of self-contained stories spread across an enormous future timeline — from near-future Earth out to galactic federations and empires far in the future. The constant through all of it is Locke, an esper who does not age and does not die. He has telepathy, telekinesis, teleportation across light-years, the ability to heal his own body, and a "learning ability" that lets him absorb other espers' powers (he picks up his signature Psycho Spear technique from another esper, Amazona). He can also use "waka-gaeri" — age regression — to appear as a child.
 
-He doesn't seek conflict. He has lived long enough to know that most situations resolve without him. But certain threats — espers who have decided to reshape humanity according to their own vision, political powers using psychic ability as a weapon — require someone like Locke: someone old enough to remember how these stories always end, powerful enough to do something about it.
+The series' recurring engine is simple and devastating. Somewhere in human space, an esper or a power decides to reshape humanity by force — usually building some kind of psychic empire — and Locke, who would rather be left alone, gets pulled in. He has seen this story before. He has seen how it ends. That weariness is the turning point of nearly every arc: the moment Locke stops withdrawing and decides, again, to act.
 
-The series is structured around arcs that function almost as separate novels — different planets, different political situations, different antagonists — with Locke moving through them. He is the constant. Everyone else is temporary. The series knows this and uses it.
+There is no single ending, because there could not be one. Hijiri kept drawing Locke for over fifty years and the saga only stopped when its author died in October 2022, leaving two works unfinished — one of which, "Shōkei" (Admirations), was completed and published in 2023 with art help from a longtime assistant. So the series ends the way Locke's own life never does: not with resolution, but because the person carrying it forward finally ran out of time.
 
 ## Characters
 
-**Locke**: One of manga's most remarkable protagonists. He is not the most interesting person in any given arc — deliberately — because he has long since moved past the concerns that make people interesting in conventional ways. What makes him fascinating is what all that time has done to him: the specific quality of compassion available only to someone who has watched everyone he cared about die and still chosen to care.
+**Locke** — The immortal esper at the center of everything. What makes him compelling is not his near-limitless power but what time has done to him. He is quiet, solitary, and reluctant. He keeps denying he is "Locke the Superman." He has watched civilizations rise and collapse, and the result is not bitterness but a strange, worn-down compassion: he keeps choosing to protect people he has no reason to believe he can keep.
 
-**The antagonists and allies**: Each arc introduces new characters whose lives and deaths are given genuine weight by the contrast with Locke's continuity. The reader knows, as Locke knows, that these people are temporary. The series makes this hurt rather than numb.
+**Lady Khan** — The antagonist of "Witch's Century" (魔女の世紀). She plots to build a thousand-year empire ruled by espers, and to clear Locke out of her path she raises a weapon specifically designed to kill him.
 
-## Art Style
+**Jessica** — Khan's weapon. She is a girl with a rare power that neutralizes and dissolves other espers' abilities. Khan plants hatred of Locke in her as a child, then erases her memory and sends her — under the name Amelia — to get close to Federation Commander Yamaki. The cruelty is that Jessica does not know she is being used.
 
-Hijiri's art has evolved dramatically across the series' decades — from the clean lines of 1960s manga to more sophisticated and detailed contemporary work. The series is a visual history of manga art development. The space environments are consistently imaginative, the esper ability sequences visually distinctive, and the character designs clear and expressive across all eras.
-
-## Cultural Context
-
-Choujin Locke began publication in 1967 — the same era as Osamu Tezuka's late work, before most of the defining conventions of manga had settled. It has run through every major era of Japanese manga since. Reading it is reading manga history.
-
-The esper concept — psychic human evolution as a narrative premise — was central to Japanese science fiction of the 1960s-70s and Choujin Locke is its most sustained manga expression.
+**Lord Leon** — In his own arc, Leon is an esper and space pirate hunting the Astris conglomerate and its head, Great Jorg. Leon is not a simple villain; his rage is rooted in what Jorg did to him and to his sister, Flora. His arc is one of the saga's saddest, and his fate at Locke's hands is one of the strangest punishments in the series.
 
 ## What I Love About It
 
-I love the series' central emotional question: what does compassion cost when you cannot die?
+The arc that stayed with me is "Witch's Century," and specifically the way it traps you between two people who should be on opposite sides. Lady Khan's plan is not just to defeat Locke with brute force — she engineers a human being to do it. Jessica is raised from childhood to hate him, then has her memory wiped clean so she can be inserted, as the amnesiac "Amelia," next to Commander Yamaki, who is the man trying to stop Khan. And then the thing happens that the whole scheme did not account for: Yamaki and Jessica fall in love. Two people, both being moved like pieces on a board, find something real in the middle of a manipulation neither of them understands.
 
-Locke protects people. He always has. But his immortality means he will watch every person he protects eventually die — and then he will meet the next generation, and protect them, and watch them die too. The series never resolves this. It is not a problem that resolves. But it asks the question seriously, arc after arc, and Locke's answer — to keep caring, to keep showing up — is one of the most quietly extraordinary things in manga.
+What gets me is that the series refuses to make this clean. Jessica's power is literally the power to undo espers — she is the natural enemy of everything Locke is. Yet she is also a victim, robbed of her own memories and pointed at a target like a gun. I love that Hijiri builds the emotional weight not around Locke's strength but around two ordinary people caught in a plan bigger than they are. By the time Locke and Jessica finally meet, you do not want a fight. You want someone to tell her the truth. For a series often remembered as a "psychic superhero space opera," that ache is what proves it is something more.
 
-## What English-Speaking Fans Say
+## Memorable Scene ⚠️ Spoiler Warning
 
-Not known in English-speaking markets. Among scholars of classic manga and Japanese science fiction, Choujin Locke is recognized as a foundational work of the space opera genre. Its influence on subsequent esper manga and anime is extensive. The original is largely unread outside Japan due to the complete absence of translation.
+The Lord Leon arc broke me. Leon is a space pirate striking only at the Astris conglomerate, and the head of that conglomerate, Great Jorg, quietly refuses to report the raids — because Jorg is hiding what he did. The Federation, suspicious of Jorg, asks Locke to investigate, and while chasing Leon, Locke meets Leon's sister, Flora. Then comes the gut-punch the whole arc is built around: through Jorg's scheming, Leon ends up killing his own sister Flora. The person he was fighting for becomes the person he destroys.
 
-## Memorable Scene
-
-A sequence in a late arc where Locke visits a planet that has been changed completely since he was last there — a civilization that rose and fell while he was doing something else. He walks through the ruins. There is no dialogue. The series simply shows him standing in what used to be a place he cared about, in a world that has moved on without noticing his absence.
-
-## Similar Manga
-
-- **Toward the Terra**: Same era's sci-fi, similar esper premise, different emotional register
-- **Phoenix (Osamu Tezuka)**: Immortality as burden, similar philosophical concern
-- **Planetes**: Space opera, different tone, same era's seriousness about the genre
-
-## Reading Order / Where to Start
-
-Volume 1 of the current Shogakukan collection. Each arc functions independently, but the early arcs establish Locke's character and the series' emotional architecture.
-
-## Official English Translation Status
-
-Choujin Locke has no official English translation.
+After that, Leon is pure revenge, ready to burn everything down, and Locke has to stop him. But the way Locke ends it is what I cannot forget. He does not simply kill Leon. He uses his power to regress Leon all the way back into an infant — to start his life over from nothing. It is mercy and it is horror at the same time. Locke does not get to die and start over. He just keeps going. So when he hands Leon the one thing he himself can never have — a clean beginning — it lands as the most quietly merciful and most lonely thing in the series.
 
 ## Pros & Cons
 
 **Pros**
-- Genuinely unique long-form narrative structure spanning decades
-- The immortality theme handled with consistent philosophical depth
-- Foundational influence on Japanese sci-fi manga and anime
-- Each arc accessible as a standalone story
+- A genuinely singular achievement — one artist, one character, more than fifty years.
+- The immortality theme is handled as grief, not power fantasy, with real emotional payoff in arcs like Witch's Century and Lord Leon.
+- Self-contained arcs mean you can start almost anywhere and get a complete story.
+- A foundational pillar of Japanese sci-fi manga and the esper genre.
 
 **Cons**
-- No English translation
-- Art style shifts significantly across different eras
-- Ongoing with no conclusion — 60+ volumes of commitment
+- No licensed English manga edition exists, so you need Japanese (or a lot of patience).
+- The art shifts dramatically across the decades, which can feel jarring.
+- Sixty-plus volumes with no single overarching conclusion is a huge, sprawling commitment — that's either the appeal or the dealbreaker, and this one won't work for everyone.
 
-## Format Comparison
+## Is Choujin Locke Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available (multiple collection formats across history) |
-| Digital | Available in Japanese |
-| Omnibus | Various collected formats available in Japan |
+If you want a tight, finished story you can knock out in a weekend, no. But if the idea of an immortal who keeps choosing compassion across centuries — and the loneliness that costs him — speaks to you, this is one of the most rewarding things in classic sci-fi manga. Start with a self-contained arc like Witch's Century or Lord Leon and let it earn your trust.
 
 ## Where to Buy
 
 No English release yet. That just means you find it before everyone else does.
 
+There's no licensed English manga edition — the Japanese print and digital releases are the only legitimate way to read it.
+
+[Search Choujin Locke on Amazon.co.jp →](https://www.amazon.co.jp/s?k=%E8%B6%85%E4%BA%BA%E3%83%AD%E3%83%83%E3%82%AF&tag=yushi745-22)
 
 ---
+
+This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.
