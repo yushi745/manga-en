@@ -1,5 +1,5 @@
 ---
-title: "Apollo's Song Review: Tezuka's Meditation on Love and Death"
+title: "Apollo's Song Review: The Manga That Curses Its Hero to Lose Love Forever"
 slug: "apollos-song"
 genre: "Drama / Sci-Fi"
 genreSlug: "sci-fi"
@@ -8,7 +8,7 @@ mangaTitleJa: "アポロの歌"
 mangaAuthor: "Osamu Tezuka"
 serialization: "Weekly Shonen King"
 publisher: "Shonen Gahosha"
-volumes: 2
+volumes: 1
 status: "Completed"
 englishVolumes: 1
 englishStatus: "Complete"
@@ -16,120 +16,117 @@ ageRating: "M (Mature)"
 contentWarnings:
   - "sexual-violence"
   - "death"
+  - "animal-cruelty"
   - "psychological-trauma"
-description: "A boy cursed to fall in love and lose her in every life he ever lives — Tezuka's most personal meditation on romance."
+description: "A boy who hates love so much he kills any creature he sees in affection — until a goddess curses him to fall in love and lose her in every life he lives. Tezuka's rawest, ugliest, most personal work."
 coverImage: "/covers/apollos-song.jpg"
 amazonASIN: ""
 publishedAt: "2025-07-05"
+rewritten: "2026-06-03"
+read: true
 tags:
   - "drama"
   - "tezuka"
   - "psychological"
   - "classic"
-rating: 5
+rating: 4
 hasAffiliate: true
 ---
 
+I read a lot of Tezuka because, as a kid, Astro Boy and Black Jack were the "safe" Tezuka — the ones everyone agreed were masterpieces. *Apollo's Song* is not that Tezuka. I went in expecting another tidy humanist fable and instead got slapped in the face. The opening pages show a boy stamping on mating insects, then escalating to bigger animals, because the sight of two creatures in love makes him sick with rage. I had to put the book down. I have never read another manga that opens by making me dislike its hero so completely — and then spends 500 pages forcing me to ache for him.
+
+This is the strangest comic Tezuka ever drew, and one of the few I can't recommend cleanly. But it's stayed in my head longer than almost anything else of his.
+
 ## Quick Take
 
-- One of Tezuka's most ambitious shorter works
-- Reincarnation framework lets him explore love across history
-- Surprisingly difficult; not a comfortable read
+- Tezuka's bleakest, most uncomfortable work — about a boy *cursed* to fall in love and lose her, over and over, forever
+- A reincarnation-and-hallucination framework that runs from Nazi Germany to a cloned dystopian future
+- **M (Mature)** — heavy sexual violence, animal cruelty, abuse, and relentless tragedy; this is not a gentle read
 
-## Who Is This Manga For?
+## Story Overview
 
-- Fans of emotionally rich storytelling with memorable characters
-- Readers who enjoy complete series with satisfying conclusions
-- Anyone interested in discovering hidden gems from manga's golden era
-- People who like manga that stays with you long after the final page
+Shogo Chikaishi is a damaged teenager. His mother, who never knew which of her affairs produced him, beat him every time she caught him near anything tender — so Shogo grew up associating love itself with pain, and now he attacks any living thing he sees showing affection. After a violent act he's institutionalized, and a doctor subjects him to shock therapy.
+
+During the treatment, Shogo's mind is hurled before the goddess Athena, who pronounces his curse: he will experience love across different eras, again and again, and have it torn away every single time, dying repeatedly until he finally understands what love actually means. From there the book becomes an anthology of hallucinated lives, each one a different woman with the same face, each one ending in death.
+
+In the wartime vignette he's a soldier who falls for Elise, a Jewish woman he helps escape — and it ends in horror and a mutual killing. On an island he's stranded with a photographer, Naomi, surrounded by mating animals, until rescuers' gunfire destroys the paradise. In a cloning dystopia he's sent to assassinate Queen Sigma — who wears the same face as the woman he keeps losing — falls for her instead, and is cut down by his own replacement assassin. The framing thread is the modern Shogo, taken in by a doctor named Hiromi who trains him as a long-distance runner — the one relationship that feels like it might break the cycle. It doesn't. Tezuka refuses to let it.
+
+## Characters
+
+**Shogo Chikaishi** — The most repellent protagonist Tezuka ever wrote, by design. He begins as a cruelty-machine, a boy who can only express the love he was denied as violence. The curse is his arc: by being forced to love and lose in life after life, the hatred is slowly burned out of him. He doesn't become *good* so much as become capable of grief, which for him is a kind of healing.
+
+**Hiromi Watari** — The doctor in the present-day frame who takes Shogo under her wing and trains him for a marathon. She's the closest thing the book has to hope: tough, patient, the first person who treats Shogo as worth saving. Their bond is the emotional spine, which is exactly why the ending lands like a hammer.
+
+**Elise** — The woman of the wartime hallucination, a Jewish escapee Shogo loves and tries to save. Her thread is the book's most brutal, and the one that announces this is not a story that will spare anyone.
+
+**Athena / the goddess** — Not a character so much as the engine of the whole thing. She delivers the curse and reappears at the end to confirm there is no graduation, no reward — only the cycle, continuing.
+
+## What I Love About It
+
+What I love isn't comfort — it's nerve. Tezuka built a reputation on warmth, and here he deliberately torches it. He opens on a hero killing animals for the crime of loving each other, and dares you to keep reading. That's an astonishing choice for 1970, and it tells you he's not interested in flattering anyone.
+
+The structure is what really gets me. By disguising the book as a string of unrelated hallucinations — a soldier, a castaway, an assassin — Tezuka can keep restarting the same tragedy in new clothes, and each repetition tightens the screw. You start to dread the woman's face appearing, because you know what her face *means* now: she's going to die, and Shogo is going to have to feel it again. The cumulative effect is something a single linear plot could never achieve. It's love rendered as a sentence, in both senses of the word.
+
+## Memorable Scene ⚠️ Spoiler Warning
+
+The one that won't leave me is the marathon. In the modern frame, Hiromi trains Shogo into a long-distance runner, and the race becomes the book's argument that this Shogo — softened, finally human — has earned a different ending. He hasn't. Hiromi dies, and Shogo, gutted, provokes the police into shooting him; the scene ends in an explosion that kills him instantly.
+
+Then comes the gut-punch: he's brought before Athena one final time, and instead of release she tells him the curse stands — he will keep finding love and keep losing it, for eternity. As he turns to go, Hiromi is resurrected and quietly follows him, doomed to the same wheel. Some reviewers hate this ending, calling it tragedy for tragedy's sake, and I understand them. But that final image — two people walking into an endless loop of love and loss — is the cruelest, most honest thing Tezuka ever drew about what it costs to love someone.
+
+## Pros & Cons
+
+**Pros:**
+- A genuinely ambitious, formally daring structure that builds devastating cumulative weight
+- Tezuka at his most personal and least sentimental
+- A complete, self-contained story — no waiting, no filler
+
+**Cons:**
+- Heavy, repeated sexual violence and animal cruelty; deeply uncomfortable throughout
+- The ending withholds catharsis on purpose — some readers find it nihilistic rather than profound
+- The 1970s gender politics have aged badly in places
+
+This is a book that wants to disturb you. That's either the point or a dealbreaker, depending entirely on you.
+
+## Is Apollo's Song Worth Reading?
+
+If you want the comforting, humanist Tezuka, this isn't it — and it might genuinely upset you. But if you want to see one of manga's founding masters strip away every safety net and write about love as a wound that never closes, *Apollo's Song* is a singular, unforgettable experience. It's a 4 out of 5 for me only because the relentlessness can tip into punishment; for the right reader it's a 5.
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: M (Mature)
-**Content Warnings**: sexual-violence, death, psychological-trauma
+**Content Warnings**: sexual violence (including rape), animal cruelty, child abuse, suicide, and pervasive death and despair.
 
-Recommended for mature readers.
+This is one of the heaviest things Tezuka ever published. Do not hand it to a younger reader, and approach it carefully even as an adult.
 
 ## Yu's Rating
 
 | Category | Score |
 |----------|-------|
 | Story Depth | ★★★★★ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★★ |
+| Art Style | ★★★★☆ |
+| Character Development | ★★★★☆ |
 | Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
+| Reread Value | ★★★☆☆ |
 
-**Overall: 5/5** — A strong entry in its genre worth seeking out.
-
-## Story Overview
-
-Shogo is a troubled boy who can't believe in love. After committing an act of violence, he's institutionalized and treated by a doctor whose methods include hallucinatory therapy. He starts experiencing past lives — a soldier, a Greek myth, a lab rat. In every life, he loves and loses the same woman. Tezuka uses each life to ask what love means and what it costs.
-
-## Characters
-
-The cast of *Apollo's Song* is built around contrasting personalities that force each other to grow. The main character carries a mix of strength and vulnerability — enough to earn sympathy without feeling passive. Supporting characters each serve a distinct emotional function: some mirror the protagonist's flaws, others challenge their assumptions, and a few provide the warmth that makes the harder moments bearable.
-
-## Art Style
-
-Osamu Tezuka's visual style suits the story it tells. Emotional moments land because facial expressions are drawn with real attention to subtlety — you rarely need dialogue to understand what a character is feeling. Background detail varies by scene, pulling back in quiet moments and getting tight and detailed when the stakes rise.
-
-## Cultural Context
-
-*Apollo's Song* comes from a tradition of Japanese storytelling that blends personal drama with broader themes — family loyalty, social pressure, and the courage it takes to be yourself. English readers will find most of this translates naturally; a few cultural notes in good translations help bridge any remaining gaps.
-
-## What I Love About It
-
-Apollo's Song is Tezuka pushing himself. He's not making a kids' adventure or even a typical drama — he's writing about how love can destroy a person. Some sections are hard to read, especially the violence. But by the final chapter, you understand what he was building, and the emotional weight is real. It's one of his masterpieces.
-
-## What English-Speaking Fans Say
-
-Western readers who find this series often describe it as something they wish they'd found sooner. The emotional beats translate well; the universal themes of connection, loss, and growth resonate regardless of cultural background. Fans of similar series consistently recommend it as a must-read for genre newcomers and veterans alike.
-
-## Memorable Scene ⚠️ Spoiler Warning
-
-There is a moment — usually in the middle or final act — where the story does something unexpected with a character you thought you understood. The setup is careful and patient. The payoff is sudden and complete. Readers report rereading earlier chapters afterward, finding all the foreshadowing they missed the first time.
-
-## Similar Manga
-
-If you enjoyed *Apollo's Song*, try:
-
-- **Fruits Basket** by Natsuki Takaya — emotional depth and unforgettable characters
-- **Nana** by Ai Yazawa — raw honesty about love and growing up
-- **Fullmetal Alchemist** by Hiromu Arakawa — different genre, same quality of character writing
-
-## Reading Order / Where to Start
-
-Start from volume 1. This series builds its world and characters carefully from the first chapter — jumping in anywhere else means losing the context that makes later moments land. Volume 1 is a very strong opening; if you're not hooked by the end of it, this series may not be for you.
+**Overall: 4/5** — A brilliant, brutal experiment that earns its place in Tezuka's canon even when it hurts to read.
 
 ## Official English Translation Status
 
-*Apollo's Song* has been fully published in English. All 1 volumes are available.
+*Apollo's Song* is fully available in English, translated and published by **Vertical, Inc.** It first appeared in 2007 as a single hefty volume (over 500 pages), and was later reissued as a two-volume set. Digital editions are available via Kindle. So whether you want it in print or on a screen, there's a legitimate, complete English edition to read.
 
-## Pros & Cons
+## Similar Manga
 
-**Pros:**
-- Complete story with no wait for new volumes
-- Strong character work and genuine emotional investment
-- Art that serves the story without overwhelming it
-
-**Cons:**
-- Less known outside core manga fandom — harder to find in physical stores
-- Some tropes of its era may feel dated to modern readers
-
-## Format Comparison
-
-| Format | Pros | Cons |
-|--------|------|------|
-| Physical | Best art reproduction | May require ordering online |
-| Digital | Instant access, cheaper | Less collector value |
-| Used | Very affordable | Condition and availability vary |
+| Title | Its Approach | How Apollo's Song Differs |
+|---|---|---|
+| Ode to Kirihito by Osamu Tezuka | Tezuka's other "adult" experiment — a doctor's nightmarish odyssey through degradation | Apollo's Song turns the cruelty inward, onto the nature of love itself rather than the body |
+| MW by Osamu Tezuka | Tezuka at his darkest and most cynical about humanity | Apollo's Song is bleak but reaching for transcendence, not nihilism |
+| Oyasumi Punpun by Inio Asano | Modern manga about love as something that quietly destroys a person | Apollo's Song wraps the same despair in myth, reincarnation, and sci-fi instead of mundane realism |
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Apollo%27s%20Song&tag=dearmanga-20)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Apollo%27s%20Song%20Tezuka&tag=dearmanga-20)
 
 
 ---
