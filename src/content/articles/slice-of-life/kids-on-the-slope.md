@@ -1,5 +1,5 @@
 ---
-title: "Kids on the Slope Review: A Classical Music Prodigy and a Jazz Drummer Become Friends Over Music and Everything Else"
+title: "Kids on the Slope Review: The Manga Where Two Boys Who Should Hate Each Other Speak Only Through Jazz"
 slug: "kids-on-the-slope"
 coverImage: "/covers/kids-on-the-slope.jpg"
 genre: "Slice of Life / Drama"
@@ -8,128 +8,84 @@ mangaTitle: "Kids on the Slope"
 mangaTitleJa: "坂道のアポロン"
 mangaAuthor: "Yuki Kodama"
 serialization: "Monthly Flowers"
-publisher: "Shogakukan / Vertical"
+publisher: "Shogakukan"
 volumes: 9
 status: "Completed"
-englishVolumes: 9
-englishStatus: "Complete"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
-contentWarnings: ["mild romantic themes", "period setting violence references", "coming-of-age themes"]
-description: "Yu's review of Kids on the Slope — 1966, Kyushu; Kaoru Nishimi is a classical piano student who moves frequently and has never made a real friend; he discovers Sentaro Kawabuchi, a drummer who plays jazz in the basement of a record shop; their friendship built around jazz becomes the central relationship of both their lives."
-amazonASIN: "1935654926"
+contentWarnings: ["mild violence", "romantic themes", "1960s period social context"]
+description: "Yu's review of Kids on the Slope (Sakamichi no Apollon) — 1966 Sasebo, Kyushu. Kaoru is a lonely classical pianist; Sentaro is a half-American delinquent who plays jazz drums in the basement of a record shop. Their friendship grows through music, the school festival, and a reunion years later at a church."
 publishedAt: "2026-01-19"
-tags: ["slice-of-life", "drama", "completed", "teen", "vertical", "music", "historical"]
+tags: ["slice-of-life", "drama", "completed", "teen", "music", "historical", "unlicensed"]
 rating: 5
 hasAffiliate: true
+read: true
+rewritten: "2026-06-03"
 ---
+
+When I was a kid with no friends, I used to think that to be close to someone you had to be able to talk to them. Say the right things. Be interesting. I was none of those things, so I stayed quiet. Kids on the Slope is the first manga that made me feel, in my chest, that maybe I had it backwards the whole time. Kaoru and Sentaro barely know how to talk to each other. They argue, they sulk, one of them punches the other. But the moment Kaoru sits down at a piano and Sentaro picks up his drumsticks, something happens between them that words could never carry. I read the basement scene where they first play together and I had to put the book down for a minute. I wished, hard, that someone had handed me a thing like that when I was twelve.
 
 ## Quick Take
 
-- A coming-of-age story told through jazz — the music is not background; it is the vocabulary through which the characters communicate what they cannot say directly
-- Kodama's period setting (1966 Kyushu) is specific and inhabited, giving the story a concrete historical weight that distinguishes it from generic coming-of-age
-- 9 volumes complete; one of the most beautiful and emotionally complete manga available in English
-
-## Who Is This Manga For?
-
-- Readers who want coming-of-age manga with genuine emotional depth and beautiful execution
-- Anyone interested in jazz as a narrative subject
-- Fans of period drama manga where the historical setting is integral to the story
-- Readers who want complete, finished stories with satisfying endings
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Romantic themes that are appropriate for the age rating; period setting includes references to 1960s Japan social context; coming-of-age themes including first relationships
-
-The T rating is accurate.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★★ |
+- A coming-of-age story set in 1966 Sasebo where jazz is not background decoration — it is the only language two very different boys can use to be honest with each other
+- Yuki Kodama draws music like it's a physical event; the playing sequences carry rhythm and weight even though paper makes no sound
+- 9 volumes, complete in Japanese; rated T (Teen) for mild violence, teenage romance, and 1960s social context
 
 ## Story Overview
 
-1966. Kaoru Nishimi arrives in Kyushu for his final years of high school, staying with relatives while his father works elsewhere. He has moved so many times that connection has become something he no longer attempts. He is a skilled classical pianist who is anxious and solitary.
+It's 1966. Kaoru Nishimi, an anxious, well-off classical piano student, transfers to a high school in Sasebo on Kyushu. His father's work has moved the family so many times that Kaoru has simply stopped trying to make friends — moving on always hurts, so he keeps everyone at a distance. On his first days he's miserable, prone to stomachaches from stress.
 
-Sentaro Kawabuchi is everything Kaoru is not — loud, physical, apparently careless, from a complicated family background. He plays drums. He plays jazz, in the basement record shop run by the father of Ritsuko, a girl both boys will love. Kaoru begins to learn jazz. He begins to learn how to have a friend.
+The turning point comes through Sentaro Kawabuchi, the school's feared delinquent — half-American, loud, physical, the opposite of everything Kaoru is. Kaoru follows the trail to the basement beneath a record shop run by the family of their classmate Ritsuko Mukae, and finds Sentaro there hammering away at a jazz drum kit. Sentaro is dismissive of classical music; Kaoru, almost in spite of himself, buys a copy of Art Blakey's "Moanin'" and starts learning to play jazz. Through that basement, jazz standards, and the people around the record shop, Kaoru slowly learns how to have a friend — and how to want things out loud.
 
-The series follows the three of them — Kaoru, Sentaro, Ritsuko — through high school and beyond, with jazz as the thread connecting and complicating their relationships.
+The series follows the three of them through their high school years and the tangled feelings between them: Kaoru's growing love for Ritsuko, Sentaro's unrequited feelings for an older girl, Yurika. It builds to the school festival performance, then to a separation, and finally to a reunion years later at a church — where the friendship picks up exactly where the music left off.
 
 ## Characters
 
-**Kaoru Nishimi** — His quality is precision — in music, in observation, in everything except understanding what he feels. Jazz, which requires improvisation and response, is the specific thing he needed and the thing he did not know how to seek.
+**Kaoru Nishimi** — The pianist. His whole personality is precision and self-control, which is also his prison: he's so careful about being hurt that he never lets himself reach for anyone. Jazz, which demands improvisation and listening to your partner rather than reading a score, is the exact thing he didn't know he was missing. His arc is learning to play — and feel — without sheet music.
 
-**Sentaro Kawabuchi** — His apparent carelessness is its own form of precision — a character who has chosen not to be careful about things that do not matter. His background and his Christianity add depth that makes him more than the "energetic contrast" his initial role suggests.
+**Sentaro Kawabuchi** — The drummer. On the surface a half-American delinquent from a hard home, raised in a Catholic family, treated as an outsider in his town. Underneath he's loyal and tender, and he carries an unspoken love for Yurika that he knows will go nowhere. His path takes him away from the others and, by the end, toward the church.
 
-**Ritsuko Mukae** — Her position between both boys is handled without melodrama — she is not a prize but a person with her own view of both of them.
+**Ritsuko Mukae** — The classmate whose family runs the record shop where everything happens. She's warm and steady, the person who keeps the three of them connected. The story handles her without turning her into a trophy to be won — her feelings shift over time and she's allowed to have her own view of both boys.
 
-## Art Style
-
-Kodama's art is precise and emotionally expressive — the period setting is rendered with historical care, the music sequences are depicted with enough visual rhythm to convey playing without being legible in the way only sound can make legible. The faces carry the weight of what the characters cannot say.
-
-## Cultural Context
-
-1966 Japan was a specific cultural moment — jazz had come from American occupation to become part of Japanese youth culture; the student movement was beginning; the country was at a particular juncture between the postwar recovery and the 1970s. Kodama uses this specificity to ground her characters' decisions in something larger than individual psychology.
+**Yurika Fukahori** — The older girl Sentaro quietly loves. Her own romantic entanglement, with a college student named Junichi, ripples outward and shapes Sentaro's choices, including his eventual disappearance from the others' lives.
 
 ## What I Love About It
 
-The sequences where Kaoru and Sentaro play together — where they communicate through music things that their conversation cannot reach — are the series' most moving content. Kodama understands that music is a form of intimacy that language isn't.
+The basement scenes are the heart of this manga for me, and the best one is early: Kaoru, who has only ever played classical, sits down to play jazz with Sentaro for the first time, and he's terrible at it. He keeps trying to read it like a score, to get it correct, and jazz refuses to be correct. Sentaro just keeps the beat and tells him to stop counting and listen. And then, for a few bars, Kaoru lets go and follows the drums instead of his own head — and the two of them lock in.
 
-## What English-Speaking Fans Say
-
-Western readers describe Kids on the Slope as the manga that demonstrated what the medium can do with historical fiction and character drama. The jazz content is consistently cited as genuine — readers who know jazz describe it as accurate, and readers who don't describe it as compelling regardless.
+What gets me is that Kodama doesn't write this as a friendship that's declared in dialogue. These two would never say "I trust you" to each other; they'd be too embarrassed, and Sentaro would probably make a joke. So the trust has to live in the music instead. When Kaoru finally stops trying to control the song and lets Sentaro carry the rhythm, that *is* the friendship — that's him admitting he needs someone else, which is the one thing he's spent his whole life refusing to do. I grew up the careful, quiet kid. Watching the careful, quiet kid on the page learn that the way in was to let go and trust the other guy's beat — that hit a part of me I usually keep closed.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The final performance scene — what Kaoru and Sentaro play, and what it means given everything that has happened between them — is the series' most complete moment and the one that makes everything before it a preparation.
+The school festival. A rock band called Olympus is performing on stage when their electric amplifiers suddenly cut out and the crowd starts drifting away. To save it, Kaoru walks to the piano and just starts playing — and Sentaro climbs up behind the drums and joins him. With no amps, no plan, no rehearsal, the two of them launch into a medley: "My Favorite Things," "Someday My Prince Will Come," and finally "Moanin'." The audience, which was leaving, turns back and floods the room.
 
-## Similar Manga
-
-- **Blue Giant** — Jazz as primary subject, different generation
-- **Beck** — Rock music, similar intensity of feeling about music
-- **Shouwa Genroku Rakugo Shinjuu** — Traditional art as personal and historical subject
-- **March Comes in Like a Lion** — Craft as identity, period setting
-
-## Reading Order / Where to Start
-
-Volume 1 — Kaoru's arrival in Kyushu and his first encounter with Sentaro.
-
-## Official English Translation Status
-
-Vertical published all 9 volumes. Complete and available.
+It's the purest version of what the whole series has been building toward. Everything else between them — the fights, the embarrassment, the things they can't say — falls away, and all that's left is two people listening to each other and answering in real time. Later, after they've been separated for years by everything life throws at them, they meet again at a church where Sentaro has become a seminarian, and the first thing they do is sit down and play "Moanin'" once more. The song is the proof that the bond never actually broke. I think about that for a long time after closing the last volume — the idea that some connections don't need to be maintained with words, that you can put one down for years and pick it right back up on the downbeat.
 
 ## Pros & Cons
 
 **Pros**
-- One of the most complete and beautiful manga available in English
-- The jazz content is genuine and narratively functional
-- Period setting is specific and meaningful
-- 9 volumes is a satisfying complete arc
+- Jazz is treated as real and functional, not decoration — the music carries the emotional storytelling
+- The friendship between Kaoru and Sentaro is one of the most genuine in any manga I've read
+- Specific, lived-in 1966 Kyushu setting with real historical texture
+- 9 volumes is a complete, satisfying arc with a real ending
 
 **Cons**
-- Some Japanese cultural and historical context requires background for full appreciation
-- Romantic resolution may not satisfy all readers
-- The emotional weight is significant
+- Some 1960s Japanese social and historical context lands harder if you know the period
+- The romance threads are messy and not everyone gets a clean resolution
+- It's quiet and emotionally heavy rather than plot-driven — that's either exactly what you want or it isn't, so it won't work for everyone
 
-## Format Comparison
+## Is Kids on the Slope Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Vertical; complete |
-| Digital | Available |
+Yes — if you want a coming-of-age story that earns its feeling instead of forcing it. It's quiet, it's about music and loneliness and the kind of friendship you can't explain, and it tells a complete story in 9 volumes. If you need fast plot and tidy romance, it may frustrate you. For everyone else, it's one of the most moving things I've read.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+No English release yet. That just means you find it before everyone else does.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Kids+on+the+Slope+manga&i=stripbooks)
+If you read Japanese, the complete series is available from Shogakukan:
 
+[Find it on Amazon.co.jp →](https://www.amazon.co.jp/s?k=坂道のアポロン+小玉ユキ&tag=yushi745-22)
 
 ---
 
