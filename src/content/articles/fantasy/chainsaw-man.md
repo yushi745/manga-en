@@ -6,28 +6,38 @@ genreSlug: "fantasy"
 mangaTitle: "Chainsaw Man"
 mangaTitleJa: "チェンソーマン"
 mangaAuthor: "Tatsuki Fujimoto"
-serialization: "Weekly Shonen Jump"
+serialization: "Weekly Shonen Jump (Part 1) / Shonen Jump+ (Part 2)"
 publisher: "Shueisha / VIZ Media"
-volumes: 11
-status: "Completed"
-englishVolumes: 11
-englishStatus: "Complete"
+volumes: 23
+status: "Ongoing"
+englishVolumes: 23
+englishStatus: "Ongoing"
 ageRating: "M (Mature)"
 contentWarnings: ["extreme violence", "gore", "sexual content (mild)", "death of major characters", "psychological manipulation", "body horror"]
-description: "Yu's review of Chainsaw Man Part 1 — 11 volumes about a boy who just wants a normal life. Denji has the simplest dreams in the world: a warm bed, decent food, maybe a girlfriend. The universe makes this as difficult as possible. Brutal, tender, and unlike anything else."
+description: "Yu's review of Chainsaw Man — Tatsuki Fujimoto's brutal, tender story about a boy who just wants toast with jam, a warm bed, and someone who likes him. The universe makes this as hard as possible. Part 1 is one of the best things I've ever read."
 coverImage: "/covers/chainsaw-man.jpg"
 amazonASIN: "B08JTYRXZB"
 publishedAt: "2024-11-28"
-tags: ["shonen", "devils", "dark-fantasy", "action", "completed", "mature"]
+rewritten: "2026-06-03"
+read: true
+tags: ["shonen", "devils", "dark-fantasy", "action", "mature"]
 rating: 5
 hasAffiliate: true
 ---
 
+The first time I read Chainsaw Man, I was eating instant ramen alone in my apartment, the way I've eaten a lot of meals in my life. And there's a moment early on where Denji — this beaten-down kid who owns nothing — talks about his dream. Not saving the world. Not becoming a hero. His dream is a piece of toast with jam on it. A girlfriend, maybe. A warm place to sleep.
+
+I put the chopsticks down. Because that was my dream too, once. When I was a lonely kid with no friends and manga was the only warm thing in my life, I didn't dream big either. I just wanted someone to sit next to. Denji is the first protagonist I've ever read who wanted exactly what I wanted, and was treated as worthless for wanting it.
+
+That's why this manga gutted me. It's marketed as the chainsaw-faced gore series. It is that. But underneath, it's the most honest thing I've ever read about being a person who wants small things and isn't allowed to have them.
+
+---
+
 ## Quick Take
 
-- Part 1 is 11 volumes — short, complete, and hits harder than most 70-volume series
-- The protagonist has the simplest desires in manga: food, warmth, human connection. The story is about what the world does to people with simple desires
-- Nothing else reads like Chainsaw Man — it's violent, funny, devastating, and completely its own thing
+- Part 1 is 11 volumes — short, complete, and hits harder than most 70-volume series. (The full series runs 23 volumes in Japan, with Part 2 having concluded its serialization in 2026.)
+- The protagonist has the simplest desires in manga: toast, warmth, human connection. The story is about what the world does to people with desires that small
+- Rated **M (Mature)** — graphic violence, gore, body horror, and psychologically uncomfortable manipulation. Not for younger readers
 
 ---
 
@@ -38,138 +48,92 @@ Chainsaw Man is for you if:
 - You want something that feels genuinely different from every other manga you've read
 - You can handle dark, surreal violence in service of deeply human emotional content
 - You love characters who are completely honest about their needs, even when those needs are embarrassing
-- You want 11 volumes that will leave you thinking for weeks
+- You want a story that will leave you thinking for weeks
 
 ---
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: M (Mature)
-**Content Warnings**: Extreme violence and gore (this is among the most graphically violent mainstream manga), death of beloved characters, psychological manipulation as a major plot element, mild sexual content, body horror
+**Content Warnings**: Extreme violence and gore (this is among the most graphically violent mainstream manga), death of beloved characters, psychological manipulation as a central plot mechanic, mild sexual content, body horror
 
-This is adult content. The violence is graphic and frequent. The thematic content — particularly around manipulation and coercive relationships — requires emotional maturity to process. Not for younger readers.
-
----
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★★ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★★ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★★ |
+This is adult content. The violence is graphic and constant. The thematic material — especially the way Makima uses coercion and affection as weapons — needs some emotional maturity to sit with. Not for younger readers.
 
 ---
 
 ## Story Overview
 
-Denji is sixteen years old and owns nothing. His father's debt — left when he died — passed to Denji at birth, and he has been paying it back by hunting devils for the yakuza. He lives in a shack. He sells body parts when he needs money. His only companion is Pochita, a small devil that looks like a dog with a chainsaw for a nose, who has fused his heart with Denji's to keep him alive.
+Denji is a teenager who owns nothing. His father died and left a debt, and that debt passed to Denji, who has been paying it off to the yakuza by hunting devils. He lives in a shack. He sells his own organs when money runs short. His only companion is Pochita — a small devil that looks like a dog with a chainsaw for a nose, who has fused himself to Denji to keep him alive.
 
-His dreams: a piece of toast with jam. A girlfriend. Maybe a warm bed.
+His dreams: toast with jam. A girlfriend. A warm bed.
 
-When the yakuza betray Denji and have him killed, Pochita makes a contract: Pochita's heart becomes Denji's, letting him transform into a devil-human hybrid — Chainsaw Man — capable of regenerating from almost anything. Denji kills his killers. Then he's found by a government agency that employs devil hunters, and his life becomes... different. Still brutal. But different.
+When the yakuza betray him and have him killed, Pochita makes a contract — Pochita becomes Denji's heart, letting him pull the cord on his chest and transform into a devil-human hybrid, Chainsaw Man, who can regenerate from almost anything. Denji slaughters his killers. Then a woman named Makima finds him, leashes him like a dog, and brings him into Public Safety — the government's devil-hunting agency. He's partnered with a grim veteran, Aki Hayakawa, and later with Power, a Blood Fiend.
 
-What follows is a story about Denji navigating a world of devils, devil hunters, and powerful forces that see him as a weapon — trying, persistently and sometimes pathetically, to have the small things he always wanted.
+For the first time in his life, Denji has a bed, food, and people around him. The middle of Part 1 is almost domestic — three damaged people sharing an apartment, fighting over the bathroom, eating together. Then the Gun Devil arc arrives, and Fujimoto takes everything Denji has gained and starts tearing it away. The turning point is brutal: Makima — who Denji has been chasing like a lovesick dog the entire series — is revealed to be the Control Devil, and the warmth Denji thought he found was a leash the whole time.
 
 ---
 
 ## Characters
 
-**Denji** — One of the most unusual protagonists in manga. His goals are not heroic. He is not trying to save the world or fulfill a destiny. He wants toast and someone who likes him. The story treats this — his fundamental human smallness — with complete respect.
+**Denji** — One of the most unusual protagonists in manga. His goals are not heroic. He isn't saving the world or fulfilling a destiny. He wants toast and someone who likes him. The story treats this — his fundamental human smallness — with complete seriousness, and then weaponizes it against him. His arc is the slow, painful realization that the affection he was offered came with a price tag.
 
-**Pochita** — Denji's devil companion, who appears to be a tiny dog with a chainsaw. What Pochita actually is, and what his contract with Denji means, becomes clear near the end of Part 1. Few reveals in manga are as quietly devastating.
+**Pochita** — Denji's devil companion, the little chainsaw dog. What Pochita actually is — the Chainsaw Devil, feared across both the human and devil worlds, capable of erasing devils from existence permanently when he eats them — and what his contract with Denji really meant, lands near the end of Part 1. Few reveals in manga are this quietly devastating.
 
-**Power** — A Blood Devil in human form who joins Denji's team. Arrogant, selfish, chaotic, and — despite all of this — one of the most loveable characters in the series. Her arc is the most emotionally complete in Part 1.
+**Power** — A Blood Fiend in human form who joins Denji's apartment. Arrogant, selfish, a compulsive liar, and somehow one of the most loveable characters in the series. Her arc — from a creature who values nothing but herself to someone who calls Denji her friend — is the most emotionally complete in Part 1, and what happens to her breaks the story open.
 
-**Aki Hayakawa** — The serious, dedicated devil hunter assigned to manage Denji. His relationship with Denji evolves from reluctant supervision to something much more fraternal, and what happens to him is among the most painful things in the series.
+**Aki Hayakawa** — The serious, exhausted veteran assigned to babysit Denji. As a kid, Aki watched the Gun Devil kill his parents and his little brother Taiyo, and he's spent his life hunting it for revenge. His bond with Denji and Power grows from reluctant supervision into a real, makeshift family — which is exactly why what the story does to him is so cruel.
 
-**Makima** — The control devil in human form, Denji's superior. Everything about her is a spoiler. She is one of the most disturbing and effective antagonists in manga.
+**Makima** — Denji's superior at Public Safety, and the figure his entire devotion orbits around. She's the Control Devil, and her whole relationship with Denji is built on giving an unloved boy just enough affection to make him obey. One of the most disturbing and effective antagonists manga has produced.
 
 ---
 
 ## Art Style
 
-Fujimoto's art is kinetic, confident, and deeply cinematic. The action sequences have a raw energy — messy and immediate in a way that feels different from more polished shonen fights. Violence in Chainsaw Man doesn't feel choreographed. It feels chaotic in the way real violence is chaotic.
+Fujimoto's art is kinetic, confident, and cinematic. The action is raw and messy — violence here doesn't feel choreographed, it feels chaotic the way real violence is chaotic. The character designs are deliberately plain: Denji, Power, and Aki look like real, tired teenagers, not idealized heroes. The devils, by contrast, are weird and inventive, often mundane fears made physical — the Eternity Devil, the Darkness Devil.
 
-The character designs are deliberately understated — Denji and Power and Aki look like real teenagers, not idealized heroes. The devil designs, by contrast, are weird and inventive, often drawing on mundane fears made physical (the Eternity Devil, the Darkness Devil).
-
-Fujimoto also has a gift for quiet, domestic moments — panels of people eating, sleeping, watching TV — that make the violence hit harder by contrast.
-
----
-
-## Cultural Context
-
-**The concept of devils** in Chainsaw Man is specifically Japanese: supernatural entities that embody human fears. The more humanity fears something, the stronger the devil. Devils that embody universal fears — darkness, death — are incomprehensibly powerful. This connects to the Japanese folk concept of *mono no ke* (spirit of things) — the idea that objects, concepts, and emotions can have spiritual presence.
-
-**The yakuza** connection in Denji's backstory reflects real Japanese cultural anxiety about organized crime's penetration into ordinary life. That a teenager could be indebted to the yakuza through no fault of his own, and have no recourse, is not presented as outlandish — it's presented as simply how things are for certain people.
-
-**The government devil hunter organization** reflects a recurring Japanese narrative trope — the ambivalent state institution, officially protective, actually using the people in its care as tools. This tension between institutional legitimacy and individual humanity runs through the story.
+What I love most is Fujimoto's gift for quiet domestic panels — people eating, sleeping, watching TV — that make the violence land twice as hard by contrast.
 
 ---
 
 ## What I Love About It
 
-I've read a lot of manga about extraordinary people. Chainsaw Man is about an ordinary person — someone who has been treated as worthless for his entire life — who slowly, painfully, discovers that he matters to people.
+I've read so much manga about extraordinary people. Chainsaw Man is about an ordinary one — a kid treated as garbage his whole life — slowly discovering he matters to someone.
 
-The scene that stays with me is small. After a particularly brutal fight, Power and Denji are sitting together eating. They're arguing about something stupid. It's completely mundane. And it's the happiest Denji has been in the entire story up to that point.
+The scene that stays with me isn't a fight. It's Denji, Power, and Aki crammed into one apartment, arguing about stupid things, eating together. There's nothing heroic in it. And it's the happiest Denji has been in the entire story. I read those panels and thought: this is what survival actually looks like. Not victory. Just getting to sit somewhere warm with people who know you and bicker about nothing.
 
-I thought: this is what survival looks like. Not victory. Just getting to sit somewhere warm with someone who knows you, and argue about nothing.
-
-Fujimoto understands that this is what people actually want. Not glory. Just that.
+That's the engine of the whole series for me. Fujimoto understands that this — not glory, not power — is what people actually want. And then he builds the entire tragedy of Part 1 out of how easy it is to take that away from someone who's never had it. Denji is so starved for affection that when Makima offers him scraps of it, he'll do anything she asks. The horror of Chainsaw Man isn't the gore. It's watching a lonely kid get manipulated through the exact need I recognized in myself.
 
 ---
 
 ## What English-Speaking Fans Say
 
-Chainsaw Man has an extremely passionate Western fanbase that arrived largely through the anime adaptation and has gone deep into the manga. Part 1 is almost universally praised. Part 2 (the ongoing school arc) has a more divided reception.
+Chainsaw Man has an intensely passionate Western fanbase, a lot of which arrived through the anime and then dove into the manga. Part 1 is almost universally treated as a modern classic. Part 2 (the School Arc, following a new character named Asa) has a more divided reception — some readers love its weirder, slower direction; others miss Part 1's momentum.
 
-Common praise for Part 1: the originality, the emotional honesty, the ending, Makima as a villain, Power as a character. Common criticisms: the violence can be overwhelming, and the nihilistic tone isn't for everyone.
-
-The consensus: Part 1 is a masterpiece. Read it regardless of whether you continue to Part 2.
+Common praise for Part 1: the originality, the emotional honesty, Aki's death, Power's arc, and Makima as a villain. Common criticism: the violence can be overwhelming, and the bleak tone isn't for everyone.
 
 ---
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-Pochita's reveal.
+Aki's death.
 
-Near the end of Part 1, we learn what Pochita's contract with Denji actually meant. Pochita, the little chainsaw dog who lived with Denji and kept him alive, had one condition: let me see your dreams.
+The Future Devil warns Aki that he's going to die a terrible death. With nowhere left to turn, Aki begs Makima — sobbing — for the power to give Denji and Power a happy future. Makima, the Control Devil, uses that desperation to force a contract on him, and Aki is taken over by the Gun Devil, becoming the Gun Fiend.
 
-Denji's dreams — toast, warmth, a girlfriend — are so simple they're almost embarrassing. And Pochita cherished every one of them.
+Denji has to fight him. Has to kill him. The thing wearing Aki's body attacks Power, and Denji arrives to stop it, horrified, crying, wanting any other way out.
 
-The reveal reframes the entire series in a single page. It's not a plot twist. It's an emotional truth that was always there, waiting to be seen.
+And then Fujimoto does the cruelest, most beautiful thing in the series. In his final moments, the Gun Fiend perceives the fight not as a battle but as a snowball fight — the same one Aki had with his little brother Taiyo before the Gun Devil killed his family. He sees Denji crying and stops fighting. He lets Denji kill him. And in death, Aki gets a game of catch with the brother he lost.
 
----
-
-## Similar Manga
-
-**If you liked Chainsaw Man, try:**
-
-- **Jujutsu Kaisen** — Same generation, similar darkness, more traditionally shonen in structure
-- **Fire Punch** — Fujimoto's earlier work, even more brutal and surreal
-- **Dorohedoro** — Similar chaotic dark fantasy energy, similarly treats violence as mundane
-- **Dungeon Meshi (Delicious in Dungeon)** — Tonal opposite, but similarly treats the human need for small comforts seriously
+It reframes the entire fight. The person Denji is forced to murder dies happy, inside a memory of the one good thing he ever had. I had to put the book down.
 
 ---
 
-## Reading Order / Where to Start
+## Memorable Scene: Pochita's Reveal ⚠️ Spoiler Warning
 
-Start from Volume 1. Part 1 is 11 volumes and reads as a complete story. It's one of the fastest reads in manga — the pacing is relentless.
+Late in Part 1, we finally learn what Pochita's contract actually meant. The little chainsaw dog who kept Denji alive had one condition for giving Denji his heart: *let me see your dreams.*
 
-Note: Part 2 (ongoing) is a different arc with a different protagonist in the same world. You don't need to read Part 1 to start Part 2, but you will understand Part 2 much better if you've read Part 1.
+Denji's dreams — toast with jam, hugs, a girlfriend — are so small they're almost embarrassing. And Pochita cherished every one of them. Pochita didn't want to live them himself. He wanted to watch Denji finally get to live them. He gave up his own existence so that a boy who had nothing could have toast and warmth and someone beside him.
 
----
-
-## Official English Translation Status
-
-**Status**: Complete (Part 1) / Ongoing (Part 2)
-**English Volumes**: 11 (Part 1 complete), Part 2 ongoing
-**Translator**: VIZ Media
-**Translation Quality**: Excellent
-
-Part 1 is fully available in English. Part 2 is releasing simultaneously with Japan.
+The reveal doesn't twist the plot. It just lets you finally see the emotional truth that was sitting under the entire series the whole time. After everything Makima does to Denji's idea of love, Pochita is the one being in the story who loved him without wanting anything back.
 
 ---
 
@@ -177,27 +141,49 @@ Part 1 is fully available in English. Part 2 is releasing simultaneously with Ja
 
 **Pros**
 - Completely original in tone, structure, and emotional approach
-- 11 volumes — readable in a day or two, complete story
+- Part 1 is 11 volumes — readable in a day or two, and a complete story
 - Power and Aki are among the best supporting characters in recent manga
-- The ending of Part 1 is perfect
+- The ending of Part 1 is, for me, perfect
 
 **Cons**
 - The violence is extremely graphic — genuinely not for all readers
-- The surreal, dark tone isn't accessible to everyone
-- Makima's manipulation is psychologically uncomfortable to read (intentionally, but still)
-- Part 2 has a very different feel from Part 1
+- The surreal, bleak tone won't click with everyone
+- Makima's manipulation is psychologically uncomfortable by design — but still uncomfortable
+- Part 2 feels very different from Part 1, and not everyone follows it there. The bleakness is either the point or a dealbreaker, depending on you.
 
 ---
 
-## Format Comparison
+## Is Chainsaw Man Worth Reading?
 
-| Format | Volumes | Price per vol. (approx.) | Best for |
-|--------|---------|--------------------------|----------|
-| Paperback (individual) | 11 vols | ~$10–12 | Collecting |
-| Kindle | 11 vols | ~$7–9 | Quick read-through |
-| Box Set (Vol. 1–11) | 1 box | ~$90–100 | Complete physical set |
+Yes — Part 1 alone is worth the whole purchase. It's short, complete, completely original, and it uses its gore as a delivery system for one of the most honest stories about loneliness and wanting I've ever read. If you can handle the violence, read it. The only people I'd steer away are readers who can't stomach graphic content or who want something hopeful and clean.
 
-**Recommendation**: 11 volumes is short enough to read in any format. The Box Set is a great value if you're committing to physical.
+---
+
+## Reading Order / Where to Start
+
+Start from Volume 1. Part 1 is 11 volumes and reads as a complete, self-contained story — one of the fastest reads in manga because the pacing never lets up.
+
+Part 2 (the School Arc) is a different arc following a new lead, Asa Mitaka, in the same world. You technically don't need Part 1 to start it, but you'll understand far more of what it's doing if you've read Part 1 first.
+
+---
+
+## Official English Translation Status
+
+**Status**: Part 1 complete in English (11 volumes) / Part 2 ongoing in English
+**English Publisher**: VIZ Media
+**Translation Quality**: Excellent
+
+Part 1 is fully available in English from VIZ. Part 2 volumes continue to release.
+
+---
+
+## Similar Manga
+
+| Title | Its Approach | How Chainsaw Man Differs |
+|---|---|---|
+| Jujutsu Kaisen | Same generation, dark cursed-spirit battles, but built on classic shonen structure | Chainsaw Man rejects shonen structure entirely and centers a hero with no heroic goals |
+| Fire Punch | Fujimoto's earlier work — even more brutal and surreal | Chainsaw Man channels the same chaos into a tighter, more emotionally legible story |
+| Dorohedoro | Chaotic dark fantasy that treats grotesque violence as mundane | Chainsaw Man uses that same matter-of-fact violence to frame intimate human longing |
 
 ---
 
@@ -205,7 +191,7 @@ Part 1 is fully available in English. Part 2 is releasing simultaneously with Ja
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Chainsaw+Man+manga&i=stripbooks)
+[Start with Volume 1 →](https://www.amazon.com/s?k=Chainsaw+Man+manga&i=stripbooks&tag=dearmanga-20)
 
 
 ---

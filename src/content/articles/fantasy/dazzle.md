@@ -1,135 +1,104 @@
 ---
-title: "Dazzle Review: A Girl with No Magical Ability Travels With the Most Powerful Mage in the World"
+title: "Dazzle Review: The Funniest Road-Trip Fantasy That Slowly Turns Out to Be About Killing God"
 slug: "dazzle"
 genre: "Fantasy / Comedy"
 genreSlug: "fantasy"
 mangaTitle: "Dazzle"
 mangaTitleJa: "破天荒遊戯"
 mangaAuthor: "Minari Endoh"
-serialization: "Comic Blade"
-publisher: "Mag Garden / Tokyopop"
-volumes: 12
+serialization: "Monthly GFantasy / Monthly Comic Zero Sum"
+publisher: "Enix / Ichijinsha (JP) — Tokyopop (EN)"
+volumes: 24
 status: "Completed"
-englishVolumes: 12
+englishVolumes: 10
 englishStatus: "Complete"
 ageRating: "T (Teen)"
-contentWarnings: ["fantasy comedy violence", "eccentric cast", "power imbalance dynamic", "light romance"]
-description: "Yu's review of Dazzle (Hatenko Yuugi) — Rahzel was thrown out of her house by her father to 'see the world'; she travels with Alzeid, a man seeking his father's killer, and Baroqueheat, his partner; her magical ability to copy any ability she has seen once makes her more dangerous than she appears in a series where the comedy and the action balance constantly."
+contentWarnings: ["violence", "child death", "matricide (self-defense)", "dark backstory", "incomplete English release"]
+description: "Yu's review of Dazzle (Hatenkou Yuugi / 破天荒遊戯) by Minari Endoh — Rahzel is thrown out of the house by her foster father to 'go see the world,' attaches herself to the albino gunman Alzeid on his revenge quest, and picks up the womanizing Baroqueheat along the way. It looks like a loud comedy road trip, but underneath it's about clones, an immortal scientist, and a girl who already killed her own mother."
 coverImage: "/covers/dazzle.jpg"
 amazonASIN: "1595322965"
 publishedAt: "2024-12-01"
-tags: ["fantasy", "comedy", "completed", "teen", "tokyopop", "copy-ability", "travel-fantasy", "eccentric"]
-rating: 3
+tags: ["fantasy", "comedy", "dark-fantasy", "teen", "tokyopop", "travel-fantasy", "minari-endoh", "out-of-print"]
+rating: 4
+read: true
+rewritten: "2026-06-03"
 hasAffiliate: true
 ---
 
+When I was a kid hiding from the world, the manga I loved most were the ones that lied to me at first. They'd open loud and silly, make me laugh, lower my guard — and then somewhere around volume four they'd quietly tell me the heroine had done something terrible before the story even started. Dazzle is one of those. I picked it up because the cover looked like a fun fantasy comedy, three pretty people on a road trip, and for a while that's exactly what it is. Then it starts handing you the real story one cruel detail at a time, and you realize the loud girl in the middle has been carrying the heaviest thing in the cast the whole time.
+
+I read it in Tokyopop's English release, the one that stops at volume 10 and never came back. That's both the joy and the heartbreak of this manga, and I'll get to the heartbreak.
+
 ## Quick Take
 
-- A travel fantasy where the female protagonist's copy ability is more interesting than the standard "no power" heroine, and the eccentric trio dynamic generates consistent comedy
-- Endoh's character designs are immediately distinctive — Alzeid and Baroqueheat are a contrasting pair that works
-- 12 volumes complete; light complete fantasy comedy with genuine ability-use creativity
-
-## Who Is This Manga For?
-
-- Readers who want travel fantasy with female protagonist copy ability as central mechanic
-- Anyone interested in the eccentric trio road trip fantasy structure
-- Fans of early 2000s Mag Garden fantasy comedy
-- Readers looking for complete light fantasy with occasional serious moments
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Fantasy combat violence; eccentric character dynamics that occasionally touch darker backstory; light romantic tension; comedy violence
-
-T rating — fantasy comedy within teen standards.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★☆☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★☆☆ |
-| Accessibility for Non-Japanese Readers | ★★★★★ |
-| Reread Value | ★★★☆☆ |
+- A travel fantasy that disguises itself as a screwball comedy and slowly reveals a story about clones, an immortal scientist, and a girl who killed her own mother in self-defense
+- Minari Endoh's three leads — Rahzel, Alzeid, Baroqueheat — have some of the best comedic chemistry I've read, and the tonal whiplash between funny and grim is the whole point
+- T (Teen): fantasy violence, child death in some arcs, a heavy matricide backstory — funny on the surface, genuinely morbid underneath
 
 ## Story Overview
 
-Rahzel's father tells her to leave and see the world. She does. She meets Alzeid — silver-haired, serious, searching for the man who killed his father — and attaches herself to his journey. His partner Baroqueheat comes along.
+Rahzel Anadis is fifteen when her foster father throws her out the front door and tells her to go see the world. So she does — loudly, with a terrible sense of direction and an enormous appetite. Almost immediately she runs into Alzeid, an albino loner hunting the person who murdered his father. After she helps him recover his stolen gun, she decides she's coming with him and promises to make his life "more interesting and fun" whether he wants it or not. He very much does not want it. She comes anyway.
 
-Rahzel's magical ability is copy — she can reproduce any ability she has witnessed once. This is a significant power, though she is generally cheerful about it rather than dramatic. The series follows the trio through encounters in a fantasy world, each with its own situation and ability users.
+The third leg of the trio is Baroqueheat, a shameless womanizer and an acquaintance of Alzeid's, who tags along and spends most of his time flirting with Rahzel and needling Alzeid. The early volumes run as episodic adventures — the trio rolls into a town, finds something supernatural and wrong, and Rahzel bulldozes through it. The comedy is the engine: Rahzel praises Alzeid for the exact stoic behavior she scolds Baroqueheat for, the two men snipe at each other, and Rahzel eats everyone out of house and home.
 
-The comedy comes from the three personalities in collision — Rahzel's cheerful aggression, Alzeid's serious determination, Baroqueheat's more relaxed approach. The dramatic content comes from Alzeid's actual mission, which the series develops with more weight than the comedy register suggests.
+The turn is gradual, which is what makes it land. The "monster of the week" stops being random. The threads start connecting to a single backstory: an immortal scientist called Second, a centuries-long cloning project, and the question of where Alzeid actually came from. The series quietly stops being a comedy about a road trip and becomes a story about whether you can end something that refuses to die.
 
 ## Characters
 
-**Rahzel** — A protagonist whose copy ability is deployed with genuine creativity; the series consistently finds new situations to test what she's witnessed and what she can therefore produce.
+**Rahzel** (full name Rahzenshia Rose) — The loud, bossy, dangerously capable heart of the series. The comedy frames her as a fiery Lina-Inverse type, but her backstory is the darkest thing in the book: her birth mother could see the future, tried to kill Rahzel on her ninth birthday, and Rahzel killed her in self-defense as a child. Her biological father abandoned her after that; she was found by Kiara and handed to her foster father, taking the Anadis name. She carries all of this under the jokes, and her arc is learning what to do with the people who chose her.
 
-**Alzeid** — The serious partner whose mission provides the series' underlying dramatic arc; his interactions with Rahzel move from impatient to genuine over time.
+**Alzeid** — The albino gunman with the revenge quest, cold and quiet, hunting a woman with black hair and blue eyes who killed his father. He's the straight man to Rahzel's chaos, and the slow thaw of his obvious-but-unspoken care for her is one of the series' best long games. His deepest secret is that he and his older brother are clones of Second — which puts his entire identity and his revenge on a fault line.
 
-**Baroqueheat** — The third member whose relaxed presence provides comedic contrast to both Alzeid's seriousness and Rahzel's intensity.
+**Baroqueheat** — Non-human, far older than the twenty-eight he looks. He plays the charming pervert and romantic rival, but his real wound is Natsume — the woman who created him, and the love Second lost long ago. That grief is bound up with Second, which is why he refuses to even say Alzeid's name: Alzeid is Second's clone. His comedy and his bitterness come from the same place.
 
-## Art Style
-
-Endoh's art has distinctive character design — Rahzel's short dark hair and Alzeid's silver immediately differentiate the leads, and the fantasy costumes and world design are detailed enough to convey a real setting. The action sequences are clear and kinetic.
-
-## Cultural Context
-
-Dazzle ran in Comic Blade from 2002 to 2010. The travel fantasy structure — three characters with different personalities moving through a world of individual adventures — has a long tradition in manga, and Endoh's version is distinguished by the copy ability mechanics being creative and the trio dynamic being genuinely funny rather than simply contrasting.
+**Second & Kiara** — Second is an Earth scientist stranded on another world who, after losing Natsume, spent centuries trying to resurrect her through cloning; both Alzeids are his work, and the endgame turns on him. Kiara, Baroqueheat's brother, is the one who found the abandoned Rahzel and quietly arranges events around all three leads for reasons of his own.
 
 ## What I Love About It
 
-Rahzel's copy ability in practice. The series keeps finding new ways to make "she can do anything she's seen once" interesting — the creativity isn't in discovering new abilities but in what Rahzel chooses to copy, when she reveals she has it, and what copying a specific ability means against a specific opponent. It's a simple concept used with ongoing ingenuity.
+The bait-and-switch on tone. Endoh sets up a comedy so confidently that you stop bracing yourself, and then she tells you, almost casually, that the heroine committed matricide before page one. What I love is that the manga doesn't treat that as a contradiction to the comedy — it treats it as the reason the comedy exists. Rahzel is loud because she has to be. The road trip is fun because the alternative is sitting still with what she's carrying. Once you understand that, the jokes stop being just jokes; the laughter is armor, and Endoh lets you see the seams without ever stopping to lecture you about it.
 
-## What English-Speaking Fans Say
-
-Western readers describe Dazzle as an underappreciated complete travel fantasy — specifically noted for Rahzel being more interesting as a protagonist than the cheerful girl character usually is, for the trio dynamic sustaining 12 volumes without becoming repetitive, and for the serious moments landing despite the comedy framing. Recommended for Mag Garden fantasy fans.
+The other thing I love is the trio's specific comedic logic. The running bit where Rahzel praises Alzeid for stoic behavior and scolds Baroqueheat for the identical thing isn't just a gag — it's character. It tells you exactly how she's already sorted these two men in her head before she'd ever admit it out loud. Endoh builds the whole emotional triangle out of double standards, and it's funnier and more honest than most romance manga manage with a hundred more pages of monologue.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The volumes where Alzeid's mission comes to its climax — and where the comedy trio structure has to accommodate genuine emotional stakes for the first time — are the series' most affecting content.
+The backstory reveal is the moment that recontextualizes everything: that nine-year-old Rahzel, on her own birthday, killed her mother because her precognitive mother tried to kill her first — and that her father abandoned her for it. It's delivered without melodrama, which is exactly why it stuck with me. This loud, food-obsessed girl you've been laughing with for volumes has been a child-killer-in-self-defense the entire time, abandoned by blood and adopted by strangers, and she never once asked you to feel sorry for her.
 
-## Similar Manga
-
-- **Kaze no Stigma** — Fantasy ability user in travel adventure
-- **Law of Ueki** — Copy/acquisition ability in competitive fantasy
-- **Rave Master** — Travel fantasy with trio structure
-- **Chrono Crusade** — Fantasy comedy-serious balance in similar register
-
-## Reading Order / Where to Start
-
-Volume 1 — Rahzel's departure, her encounter with Alzeid, and the trio's formation establish the dynamic immediately.
-
-## Official English Translation Status
-
-Tokyopop published the complete English series. All 12 volumes available (may require secondhand purchase as Tokyopop is defunct).
+And then there's the endgame the Japanese run builds toward (which Tokyopop's ten volumes never reached in English): Rahzel killing Second to break the immortal cycle and stop the younger Alzeid from being sacrificed to it. The girl who began the series killing the parent who tried to kill her ends it killing the "father" of the man she loves — closing the loop on her own past by refusing to let his repeat. That symmetry is the kind of thing I only noticed after the fact, and it's why the comedy framing never felt cheap to me.
 
 ## Pros & Cons
 
 **Pros**
-- Copy ability used creatively throughout
-- Trio dynamic sustains 12 volumes
-- Comedy and serious moments balanced well
-- Complete with resolution
+- Genuinely funny, with three leads whose chemistry carries the episodic stretches
+- The slow reveal from comedy to dark fantasy is expertly paced
+- Rahzel is a capable, complicated heroine, not a damsel
+- The Second / cloning backstory gives the whole thing real stakes
 
 **Cons**
-- Tokyopop volumes may require secondhand purchase
-- Travel episodic structure can feel repetitive
-- Dramatic content understated in early volumes
+- The English release stops at volume 10 of 24 and Tokyopop is defunct — you cannot legally finish it in English
+- The early episodic structure can feel aimless before the main plot surfaces
+- The tonal whiplash between slapstick and child-death horror won't work for everyone
 
-## Format Comparison
+## Is Dazzle Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Individual Volumes | Tokyopop; complete series (secondhand) |
-| Digital | Limited availability |
+Yes — if you go in knowing what you're getting and what you're not. It's a sharp, funny, surprisingly dark fantasy with one of the best loud-heroine-and-stoic-loner duos I've read. The catch is hard: Tokyopop only ever published ten of the twenty-four volumes before going under, so the English edition leaves you stranded before the real ending. If "a brilliant story you can't finish in English" sounds unbearable, wait or read around it. If a strong incomplete run is still worth your time, this one absolutely is.
+
+## Official English Translation Status
+
+Tokyopop released the first **10 volumes** in English (the first dropped January 2006, the tenth in January 2009) and then stopped. The Japanese series ran to **24 volumes**, so the English release covers well under half the story and was never completed. Tokyopop is defunct, so the existing volumes are out of print and usually only available secondhand.
+
+## Similar Manga
+
+| Title | Its Approach | How Dazzle Differs |
+|---|---|---|
+| Slayers | Loud, capable sorceress headlines a comedic fantasy adventure | Dazzle hides a far darker backstory under the comedy and turns episodic into a single tragic plot |
+| Chrono Crusade | Balances comedy with a doomed, melancholy underlying arc | Dazzle's darkness is rooted in family and identity (clones, abandonment) rather than apocalypse |
+| Pandora Hearts | Cute cast slowly revealed to sit on top of a cruel hidden history | Dazzle leans harder on road-trip comedy before the trapdoor opens |
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+The English run only reaches volume 10 and Tokyopop is gone, so this is a secondhand hunt — but the first volume tells you within pages whether the trio's chemistry is for you.
 
-[Start with Volume 1 →](https://www.amazon.com/s?k=Dazzle+manga&i=stripbooks)
-
+[Start with Volume 1 →](https://www.amazon.com/s?k=Dazzle+Minari+Endoh+manga&i=stripbooks&tag=dearmanga-20)
 
 ---
 
