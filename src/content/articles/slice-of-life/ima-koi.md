@@ -1,24 +1,27 @@
 ---
-title: "Ima Koi: Now I'm in Love Review"
+title: "Ima Koi: Now I'm in Love — The Shoujo That Starts Where Others End"
 slug: "ima-koi"
 genre: "Romance / Slice of Life"
 genreSlug: "slice-of-life"
 mangaTitle: "Ima Koi: Now I'm in Love"
-mangaTitleJa: "今どきの若いモンは"
+mangaTitleJa: "今、恋をしています。"
 mangaAuthor: "Ayuko Hatta"
-serialization: "Betsucomi"
-publisher: "Shogakukan / VIZ Media"
-volumes: 10
+serialization: "Bessatsu Margaret"
+publisher: "Shueisha / VIZ Media"
+volumes: 9
 status: "Completed"
-englishVolumes: 10
+englishVolumes: 9
 englishStatus: "Complete"
 ageRating: "T (Teen)"
 contentWarnings:
   - "mild romantic content"
-description: "A comprehensive review of Ima Koi: Now I'm in Love — plot, characters, art style, and whether it's worth reading."
+  - "depiction of train groping (brief)"
+description: "A review of Ima Koi: Now I'm in Love by Ayuko Hatta — the shoujo manga that begins after the confession, following Satomi and Yagyu as they learn to actually be a couple."
 coverImage: "/covers/ima-koi.jpg"
-amazonASIN: "1974730050"
+amazonASIN: "1974728951"
 publishedAt: "2026-01-14"
+read: true
+rewritten: "2026-06-03"
 tags:
   - "romance"
   - "slice-of-life"
@@ -29,102 +32,84 @@ rating: 4
 hasAffiliate: true
 ---
 
+I have a confession about confessions: in shoujo manga, they usually bore me. I grew up loving the loud, world-saving stuff — Naruto, One Piece — and when I first started reading romance manga as an adult, I kept hitting the same wall. A hundred pages of "does he like me, does he not," and then the story ends the second they finally hold hands. I always wanted to flip the page and ask, *okay, but now what?* That's the exact question **Ima Koi: Now I'm in Love** answers, and it's why this little nine-volume series stuck with me far more than I expected.
+
+Ayuko Hatta — who later got famous in the West for *A Sign of Affection* — wrote this one earlier, and you can feel her working out an idea she clearly cares about: the part of love nobody draws is the part *after* you've started.
+
 ## Quick Take
 
-- A girl who has never confessed her feelings finally does — and he says yes immediately
-- The romance starts on page one — then deepens across 10 volumes
-- Sweet, direct shoujo that skips the will-they-won't-they for more interesting territory
-
-## Who Is This Manga For?
-
-- Shoujo romance fans who are tired of misunderstanding-based drama
-- Readers who want to see what comes after the confession
-- Anyone who likes gentle, warm romance with genuine character development
-- Complete series seekers in the romance genre
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: mild romantic content
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★★☆ |
+- A shy girl confesses on impulse, the cool guy says yes — and that's page one, not the finale
+- The whole point is the *after*: two awkward teenagers slowly learning how to actually be a couple
+- Sweet, low-drama, contemporary shoujo — rated T (Teen), with one brief train-groping scene early on
 
 ## Story Overview
 
-Satomi has never confessed her feelings to anyone — she's always chickened out. When she accidentally confesses to the cool older student Yagyu on the train, he says yes. Their relationship begins immediately and continues across 10 volumes as they navigate being a couple — different friend groups, different futures, external pressures, and the work of building trust and understanding in a real relationship.
+Satomi Mizusawa is a first-year high schooler who has spent her whole life being too shy to confess to anyone — and she's still quietly haunted by a crush she let slip away without ever saying a word. She makes herself a vow: next time, she won't choke. Then one day on the train she gets groped by a stranger, and a boy steps in and rescues her. He goes to her school. His name is Kazuma Yagyu.
+
+So she chases that vow down. She seeks him out to thank him — and instead of the princely savior she half-expected, she finds someone kind of cold and dismissive who doesn't really know what to do with her. Flustered, she blurts out that she likes him anyway. To her own shock, he says yes. He'll date her. She seems interesting.
+
+That's the inciting incident — and the relationship starts immediately. From there the series isn't "will they get together," it's the slow, often clumsy work of two inexperienced people figuring out how to be a *we*. Misread signals, awkward silences, the terror of a first kiss, her overprotective older brother nearly having a heart attack about all of it. Across nine volumes it stays grounded and small-scale on purpose — no love triangles parachuted in, no melodrama. The drama is just the ordinary friction of building something real.
 
 ## Characters
 
-Satomi's growth from chronically self-doubting to a person capable of expressing her feelings and trusting her partner is the series' emotional spine. Yagyu is a calmer, more certain character whose patience with Satomi is genuine rather than idealized. Their relationship is drawn as actual work — not just romantic feeling, but communication, compromise, and growth.
+**Satomi Mizusawa** is the emotional spine. Her arc is the move from someone defined by the things she was too scared to say, to someone who learns to actually speak — to ask for what she wants and to trust that the answer won't destroy her. She voices the series' whole thesis at one point: she doesn't put much weight on *beginnings* — what matters to her is what happens *after* something has started. That line is basically the manifesto of the book.
 
-## Art Style
+**Kazuma Yagyu** is, refreshingly, not a fantasy boyfriend. He's a little blunt, a little awkward, and he fumbles at reading the room — when Satomi shows up wanting connection, he doesn't always get it right. What I appreciated most is that the manga never frames him as a broken man Satomi has to *fix*. He's just a real, slightly stiff teenage boy learning the same things she is, at the same pace.
 
-Hatta's art is clean and attractive — typical of polished shoujo manga. Character expressions convey the emotional beats effectively. The warm palette and clean linework suit the gentle tone.
+**Nimo** is Satomi's best friend since middle school, and her tell-it-like-it-is bluntness is where most of the comedy lives — she's the reality check who keeps the romance from floating off into syrup.
 
-## Cultural Context
-
-Ima Koi's departure from the standard shoujo formula — starting the relationship early rather than ending with the confession — reflects a broader trend in recent shoujo toward showing relationship development rather than just the pursuit. This mirrors changing expectations in Japanese youth culture about relationships.
+**Saichi**, Satomi's older brother, supplies the other comic engine: his sheer overprotective shock that his little sister is suddenly *dating someone* is a recurring delight, and pays off in one of my favorite scenes in the whole series.
 
 ## What I Love About It
 
-I love that Ima Koi skips the part I find most exhausting about shoujo and goes straight to the part that interests me: what happens next? Being in a relationship is harder than falling into one. Watching Satomi and Yagyu figure out how to actually be together — with all the awkwardness and sweetness and occasional friction — is more interesting than another confession arc.
+The scene that sold me is small and domestic. Satomi and Yagyu have a misunderstanding hanging between them, and they finally hash it out in a kitchen — just talking, clearing the air, the kind of unglamorous conversation that real couples actually have. And right as it resolves, Saichi (the brother) turns his back for a second, and Yagyu sneaks in a surprise kiss.
 
-## What English-Speaking Fans Say
-
-Ima Koi has a dedicated shoujo readership internationally, praised for its willingness to explore relationship development beyond the first confession. VIZ's English publication has been consistent. Readers appreciate the psychological realism in Satomi's character arc.
+I love this beat because it's doing two things at once. The conversation is the *adult* part of the relationship — the communication, the repair, the choosing to understand each other instead of sulking. And the stolen kiss the instant the chaperone looks away is the *teenager* part — still giddy, still sneaking around a disapproving older brother. Hatta lets both exist in the same panel, and that's the whole tone of the series in miniature: mature about feelings, goofy about being sixteen. Most shoujo gives you one or the other. This gives you both at once, and it's the thing I think about whenever I recommend it.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-**Spoiler Warning**: A mid-series fight between Satomi and Yagyu — their first genuine conflict — and how they navigate it, shows the series' commitment to depicting a real relationship rather than a fantasy.
+**Spoiler Warning** for early volumes.
+
+The moment that defines the series for me is when Satomi first goes to thank Yagyu after the train rescue — and the fantasy collapses. She's built him up as this gallant prince, and the real Yagyu is standoffish and a bit cold, clearly not sure why this girl is in front of him. A lesser shoujo would have made him secretly perfect underneath. Instead, Satomi confesses *anyway*, into that awkwardness, and he agrees to date her not because of fate or destiny but because she "seems interesting."
+
+It's such an unromantic reason — and that's exactly why it works. It tells you immediately that this book isn't selling you a dream boy. It's two ordinary, awkward people deciding to find out what happens next together. Every sweet moment afterward feels earned because of how un-magical that first yes was.
+
+## Pros & Cons
+
+**Pros:**
+- Starts the relationship on page one and spends nine volumes on the part most shoujo skips
+- Yagyu is a believable, flawed boy — not a fantasy prince Satomi has to fix
+- Nimo and brother Saichi give it real comedic texture
+- Complete, self-contained, low-commitment at nine volumes
+
+**Cons:**
+- The romance is gentle and the stakes stay small — if you read shoujo for big dramatic angst, this will feel sleepy
+- Satomi's shyness and self-doubt can read as repetitive over a long sitting
+- The pacing is deliberately quiet — that's either the appeal or the dealbreaker, depending entirely on what you want from a love story.
+
+## Is Ima Koi: Now I'm in Love Worth Reading?
+
+Yes — if you've ever closed a shoujo manga feeling cheated that it ended the moment the couple got together. Ima Koi is a warm, low-drama, beautifully ordinary story about two awkward teens learning the actual work of being a couple. It won't satisfy readers chasing high melodrama, but as a complete nine-volume answer to "okay, but what happens *after* the confession?", it's quietly one of the most satisfying romances I've read.
 
 ## Similar Manga
 
-- **[Love Me For Who I Am](/slice-of-life/love-me-for-who-i-am)** — Relationship development focused
-- **[My Love Story!!](/slice-of-life/my-love-story)** — Sweet romance with immediate relationship formation
-- **[Ao Haru Ride](/slice-of-life/ao-haru-ride)** — Shoujo romance with character depth
-
-## Reading Order / Where to Start
-
-Start from Volume 1. Complete at 10 volumes.
+| Title | Its Approach | How Ima Koi Differs |
+|---|---|---|
+| My Love Story!! | Pairs up its leads early and mines warm comedy from the established couple | Ima Koi is quieter and more grounded, with no gag-manga exaggeration |
+| Ao Haru Ride | Builds a slow, angsty reunion romance heavy on unresolved feelings | Ima Koi skips the longing entirely and starts after the "yes" |
+| A Sign of Affection | Hatta's later hit — a tender first romance with a deaf heroine | Ima Koi is her earlier, lighter take on the same "learning to be a couple" theme |
 
 ## Official English Translation Status
 
 **Status**: Complete
 **Publisher**: VIZ Media
-**Volumes Available in English**: 10 of 10
-
-## Pros & Cons
-
-**Pros:**
-- Skips the long will-they-won't-they
-- Explores real relationship dynamics
-- Complete series
-- Character growth is genuine
-
-**Cons:**
-- Romance is gentle — not for readers wanting drama
-- Satomi's self-doubt can feel repetitive
-
-## Format Comparison
-
-| Format | Link | Notes |
-|--------|------|-------|
-| Paperback | [Amazon](https://www.amazon.com/dp/1974730050?tag=dearmanga-20) | VIZ edition — all 10 volumes |
+**Volumes Available in English**: 9 of 9 (final volume released March 2024)
 
 ## Where to Buy
 
 Read the first volume. If it doesn't hook you, put it down. It'll hook you.
 
-[Start with Volume 1 →](https://www.amazon.com/dp/1974730050?tag=dearmanga-20)
-
+[Start with Volume 1 →](https://www.amazon.com/dp/1974728951?tag=dearmanga-20)
 
 ---
 

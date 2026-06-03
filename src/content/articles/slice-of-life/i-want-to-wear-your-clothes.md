@@ -1,143 +1,96 @@
 ---
-title: "I Want to Wear Your Clothes Review: A Fashion Manga About Who You Are When You Dress"
+title: "Kitai Fuku ga Aru Review: A Lolita Fashion Manga About the Self You Hide"
 slug: "i-want-to-wear-your-clothes"
 coverImage: "/covers/i-want-to-wear-your-clothes.jpg"
-genre: "Slice of Life / Romance"
+genre: "Slice of Life"
 genreSlug: "slice-of-life"
-mangaTitle: "I Want to Wear Your Clothes"
+mangaTitle: "Kitai Fuku ga Aru"
 mangaTitleJa: "着たい服がある"
-mangaAuthor: "Aito Yuki"
-serialization: "Comic Newtype"
-publisher: "Kadokawa / Seven Seas Entertainment"
-volumes: 6
-status: "Ongoing"
-englishVolumes: 4
-englishStatus: "Ongoing"
+mangaAuthor: "Tsuneki Netaro"
+serialization: "Comic Days / D Morning"
+publisher: "Kodansha"
+volumes: 5
+status: "Completed"
+englishVolumes: 0
+englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
-contentWarnings: ["gender expression themes", "LGBTQ+ themes", "social pressure"]
-description: "I Want to Wear Your Clothes follows Machi Otori, a teen girl who loves fashion design, and Ouji Togo, a boy who secretly wants to wear women's clothing — and the friendship and creative partnership they build when his secret becomes shared."
-amazonASIN: "1638585571"
+contentWarnings: ["bullying", "social pressure", "online harassment"]
+description: "Kitai Fuku ga Aru follows Mami, a tall college student everyone reads as cool and model-like, who secretly longs to wear Lolita fashion. A five-volume self-discovery story about clothing, conformity, and the gap between how you look and who you are."
+amazonASIN: "B07MV9YBSR"
 publishedAt: "2026-04-28"
-tags: ["slice-of-life", "fashion", "LGBTQ", "gender", "design", "friendship", "coming-of-age"]
+read: true
+rewritten: "2026-06-03"
+tags: ["slice-of-life", "fashion", "lolita", "self-discovery", "coming-of-age", "identity"]
 rating: 4
 hasAffiliate: true
 ---
 
+When I was a kid, I had a version of myself I never let anyone see. At school I kept my head down, said nothing, tried to be invisible — but at home I'd draw heroes and dream loud, impossible dreams. Two completely different people lived in the same body, and I was terrified of the wrong one showing up at the wrong place. I didn't have a word for that feeling back then. I just knew it was exhausting to keep one half hidden.
+
+That's exactly the feeling "Kitai Fuku ga Aru" (着たい服がある) put its finger on. It looks like a fashion manga — and it is, partly — but really it's about the distance between the self people see and the self you keep folded up inside. Mami is tall and striking, the kind of person strangers expect to be cool and effortless. And what she actually wants, more than anything, is to wear frilly Lolita dresses and walk down the street as that person. The whole series is her slowly closing that distance.
+
 ## Quick Take
 
-- A gentle, thoughtful manga about fashion and identity that treats its subject with real care
-- Ouji's story is handled with emotional truth rather than shock or comedy
-- The fashion design elements are genuinely interesting — Machi's creative perspective elevates the series
-
-## Who Is This Manga For?
-
-- **Fashion and design enthusiasts** who want manga that takes clothing seriously as creative expression
-- **LGBTQ+ readers** looking for sympathetic, non-fetishizing gender expression stories
-- **Slice-of-life romance readers** who want warmth and gentleness
-- **Readers who enjoyed Given or other recent compassionate LGBTQ+ manga**
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Gender expression themes, LGBTQ+ content, social pressure and potential consequences of nonconformity
-
-Handled with care throughout — not exploitative.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★★ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★★☆ |
-| Reread Value | ★★★★☆ |
+- A five-volume self-discovery story disguised as a fashion manga — clothing is the door, not the point
+- Mami's arc is quiet and painful in a real way: family friction, online judgment, and the courage to dress as yourself
+- Age rating: T (Teen) — bullying, social pressure, and online harassment are present but never graphic
 
 ## Story Overview
 
-Machi Otori is passionate about fashion design — not just wearing clothes but understanding how clothing works as expression, as identity, as communication. She designs with ambition that outpaces her age.
+Mami is a college student who everyone reads at a glance: tall, good-looking, the type who "should" wear sharp, cool clothes. Her family and friends expect that of her, and she's quietly suffocated by it. Because what she actually loves — what she dreams about — is Lolita fashion: the frills, the petticoats, the deliberate sweetness. She owns the clothes. She just can't bring herself to wear them out the door, paralyzed by the gap between how she looks and what she wants.
 
-Ouji Togo is a popular, athletic boy at her school who has a secret he's never told anyone: he wants to wear women's clothing. He doesn't know exactly what this means about him. He knows it's real.
+The thing that cracks her open is a part-time coworker named Ozawa, a man who simply wears whatever he wants with total confidence. His attitude — that the clothes you want to wear are the right clothes — hits Mami like a slap and a gift at once. From there, the series is her taking small, terrifying steps toward dressing as herself in public.
 
-When Machi discovers Ouji's secret by accident, instead of the reaction he fears, she offers him something he doesn't expect: a space where the secret isn't a problem. She sees his desire to wear different clothing through the lens of her own passionate relationship with fashion — as a completely legitimate form of expression that deserves to exist.
-
-Their friendship — built on this shared understanding — develops into the series' emotional core, alongside Machi's growing creative work and Ouji's gradual process of understanding himself better.
+It doesn't go smoothly, and the manga refuses to pretend it does. When her family discovers her Lolita clothes, it leads to a wrenching fight with her mother, where Mami says she's only truly herself when she's wearing them — a line that opens a real rift at home. Later, a video of her in Lolita gets spread online without her consent, and the comments fill up with strangers judging who she is. Out of that low point comes an unexpected turn: a request from a fashion magazine's editorial department. The story builds toward what it actually means to support someone, and a final volume that reframes everything by revealing the past behind Ozawa's confidence.
 
 ## Characters
 
-**Machi Otori**: The perspective character. Her enthusiasm for design is the series' warmth — she sees clothing as alive, as meaningful, and this vision allows her to receive Ouji's situation without the distortion of judgment. Her own creative journey is a compelling subplot.
+**Mami** — The heart of the book. She isn't shy in a generic way; her specific trap is that she's been handed an image (cool, tall, mature) that fits her body but not her soul, and everyone keeps reinforcing it. Her arc isn't "girl gains confidence." It's "girl learns that the version of herself she's hidden is allowed to exist in the open, even when it costs her." The fight with her mother and the online video are the two crucibles that forge that.
 
-**Ouji Togo**: Rendered with genuine complexity. He isn't positioned as simply "a boy who wants to be a girl" — his relationship to his gender and his desires is shown as something he's working to understand himself, without the series imposing a resolution he hasn't reached.
+**Ozawa** — The coworker who lights the fuse. At first he's pure inspiration: a guy who wears bold, eccentric outfits and never apologizes for it. But the series doesn't let him stay a slogan. The final volume reveals the sad history behind his "wear what you want" philosophy — including being bullied at school — turning his armor of clothing into something earned and painful rather than effortless. He's the book's argument that confidence is often a scar, not a gift.
 
-## Art Style
-
-Aito Yuki's art is beautiful — particularly the fashion design sequences, where clothing is drawn with evident attention to silhouette, fabric, and construction. The character designs are elegant and expressive.
-
-## Cultural Context
-
-Japan's relationship with gender expression in fashion is more complex than Western stereotypes suggest — the fashion industry has long embraced androgyny, and men's fashion in Japan includes significantly more variety than many Western contexts. At the same time, social pressure toward gender conformity in everyday life remains strong.
-
-The manga navigates this tension — the fashion world as a space of greater possibility versus the social world of high school — without resolving it artificially.
+**Mami's mother** — Not a villain, which is what makes her hard. Her reaction to the Lolita clothes comes from her own expectations and fears, and the manga sits in that discomfort instead of resolving it cheaply. The rift between them is one of the most honest things in the book.
 
 ## What I Love About It
 
-What I love about this manga is that it treats clothing seriously.
+What I love is that the manga keeps insisting clothing matters and then quietly admits clothing isn't the point. The author, Tsuneki Netaro, has been open that this is "not just a fashion manga" — it's a self-discovery story for anyone who struggles with how they relate to other people. And you feel that double-ness on every page. The Lolita dresses are drawn with real love, but the actual subject is the terror and relief of being seen as who you are.
 
-Clothing is not decoration in this series. It's not a punchline. It's a genuine creative medium and a genuine form of self-expression, and Machi's passionate engagement with it makes everything else in the story possible. Because she takes clothing seriously, she can take Ouji's desire to wear different clothing seriously — not as aberrant behavior to be explained, but as a wish to express something true about himself.
-
-That framing is what separates this manga from series that use similar premises for comedy or shock. The seriousness of the creative context gives the emotional content somewhere to live.
-
-## What English-Speaking Fans Say
-
-Warmly received in LGBTQ+ manga communities for its careful, non-fetishizing treatment of its subject. Frequently recommended alongside Given and other recent sympathetic LGBTQ+ manga. The fashion content gets particular appreciation — readers note it's genuinely interesting to readers who care about clothing, not just a backdrop.
-
-Ongoing — the character arcs are still developing.
+The episode that stuck with me most isn't a fashion scene at all. Mami goes to an elementary school for a teaching practicum and meets a boy who's an outsider in his class — the kid who doesn't fit. A senior teacher pushes "cooperation" and falling in line, but Mami can't do it, because she sees herself in him. That moment crystallizes the whole book: it's not really about Lolita, it's about everyone who's been told to shrink themselves to match what's expected. I was that kid. Reading Mami refuse to lecture him into conformity, and instead just try to stand beside him, genuinely got to me.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-The first time Ouji wears a garment Machi has made specifically for him — not a costume, not something borrowed, but something designed with full knowledge of who he is and what he wants to express — and the look on his face when he sees himself in the mirror. The series earns that image over many chapters of careful preparation. It lands.
+The fight with her mother is the scene I keep coming back to. When her family finds the Lolita clothing, the confrontation isn't loud melodrama — it's the specific awfulness of a parent and child loving each other and still not being able to meet. Mami says, in effect, that she's only really herself in those clothes, and her mother can't accept it, and the room just fractures. There's no tidy reconciliation in that moment. The manga lets the rift stand, because that's how it actually goes for a lot of people who try to show their families the hidden half.
 
-## Similar Manga
-
-- **Given**: Different subject matter, similar emotional care with LGBTQ+ characters
-- **My Dress-Up Darling**: Different in tone (more ecchi-adjacent), but fashion as genuine subject
-- **Princess Jellyfish**: Fashion as identity, female perspective
-
-## Reading Order / Where to Start
-
-Volume 1. The relationship builds from the initial premise.
-
-## Official English Translation Status
-
-Seven Seas Entertainment is publishing I Want to Wear Your Clothes in English. Ongoing.
+What makes it land is everything around it: the online video that strips away her control over how she's seen, the comment sections full of strangers deciding who she is. By the time the magazine request arrives as a lifeline, you understand exactly how much it took for Mami to get there. The book earns its hope.
 
 ## Pros & Cons
 
 **Pros**
-- Thoughtful, caring treatment of its subject matter
-- Fashion content is genuinely interesting
-- Machi is an excellent protagonist
-- Warm and hopeful in tone throughout
+- A genuinely thoughtful self-discovery story, not a costume showcase
+- Ozawa's late reveal recontextualizes the whole series in a satisfying way
+- The family conflict and online-harassment beats feel honest, not sanitized
+- The teaching-practicum subplot widens the theme beyond just fashion
 
 **Cons**
-- Ongoing — character arcs unresolved
-- Slower pace than more dramatic series
-- Some readers want more confrontation with external social pressure
+- If you came purely for Lolita fashion eye-candy, the emotional weight may surprise you
+- The pacing is quiet and internal — this is a slow, reflective read, not a plot-driven one
+- That introspective tone is either the whole appeal or a dealbreaker depending on you
 
-## Format Comparison
+## Is Kitai Fuku ga Aru Worth Reading?
 
-| Format | Notes |
-|--------|-------|
-| Physical | Seven Seas Entertainment volumes, ongoing |
-| Digital | Available digitally |
-| Omnibus | Not available |
+Yes — if you've ever kept a version of yourself hidden because the world handed you a different image to wear. It's a slow, sincere five-volume story that uses Lolita fashion as a way into questions about conformity, family, and self-acceptance. Come for the dresses, stay for the honesty about how hard it is to be seen.
+
+## Official English Translation Status
+
+There's no licensed English edition of "Kitai Fuku ga Aru" yet. The five-volume series ran in Kodansha's digital Morning line (Comic Days / D Morning) and is complete in Japanese. If you read Japanese, the digital and print releases on Amazon Japan are the only legitimate way to read it right now.
 
 ## Where to Buy
 
-Read the first volume. If it doesn't hook you, put it down. It'll hook you.
+No English release yet. That just means you find it before everyone else does.
 
-[Start with Volume 1 →](https://www.amazon.com/dp/1638585571?tag=dearmanga-20)
+If you read Japanese, you can pick up the completed five-volume series from Amazon Japan.
 
+[Find it on Amazon Japan →](https://www.amazon.co.jp/s?k=着たい服がある+常喜寝太郎&tag=yushi745-22)
 
 ---
 

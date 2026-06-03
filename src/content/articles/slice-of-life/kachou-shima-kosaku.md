@@ -1,5 +1,5 @@
 ---
-title: "Kachou Shima Kosaku Review: The Salaryman Who Climbed Every Corporate Ladder and Wrote About Every Rung"
+title: "Kachou Shima Kosaku Review: The Salaryman Manga Where Refusing a Faction Gets You Fired"
 slug: "kachou-shima-kosaku"
 coverImage: "/covers/kachou-shima-kosaku.jpg"
 genre: "Slice of Life"
@@ -7,135 +7,119 @@ genreSlug: "slice-of-life"
 mangaTitle: "Kachou Shima Kosaku"
 mangaTitleJa: "課長島耕作"
 mangaAuthor: "Kenshi Hirokane"
-serialization: "Big Comic Spirits"
-publisher: "Shogakukan"
+serialization: "Morning"
+publisher: "Kodansha"
 volumes: 17
 status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "M (Mature)"
-contentWarnings: ["adult relationships", "office politics", "mature themes", "workplace romance"]
-description: "Kachou Shima Kosaku follows Kosaku Shima, a section chief at a major electronics company, through the realities of Japanese corporate life — office politics, professional competition, international business, and adult relationships — the first arc in a series that followed him from section chief to company chairman."
+contentWarnings: ["adult relationships", "infidelity", "office politics", "mature themes", "workplace romance"]
+description: "Kachou Shima Kosaku follows Kosaku Shima, a section chief at electronics giant Hatsushiba, through the faction wars, sudden firings, and tangled romances of 1980s Japanese corporate life — the first arc of Kenshi Hirokane's decades-long salaryman saga."
 publishedAt: "2026-04-16"
+read: true
+rewritten: "2026-06-03"
 tags: ["slice-of-life", "business", "classic", "completed", "hirokane"]
 rating: 4
 hasAffiliate: false
 ---
 
-He started as a section chief. By the end, he ran the company. That was always the story — who he was along the way is the manga.
+The first time I held down a job in a Japanese company, an older coworker took me drinking and told me, very seriously, that the work I did mattered less than which department head liked me. I thought he was being cynical. He was just describing how the building worked. Years later I read *Kachou Shima Kosaku*, and there is a scene where the president looks Shima in the eye and says "You're fired" — not because Shima failed at anything, but because he refused to pick a side in a power struggle between two executives. I sat there thinking: someone drew this. Someone put on paper the exact thing my coworker tried to warn me about.
+
+That's the strange power of this manga. It isn't a fantasy of office life. It's a documentary that happens to be drawn.
 
 ## Quick Take
 
-- Kenshi Hirokane's landmark salaryman manga — Shima Kosaku at a Japanese electronics giant, navigating corporate politics with charm, competence, and complicated personal relationships
-- The first arc in a series that followed Shima from section chief (Kachou) through every corporate title to company chairman
-- A frank, adult document of Japanese corporate culture in the 1980s that reads as both time capsule and evergreen human observation
+- Kenshi Hirokane's landmark salaryman manga — Shima Kosaku, a section chief at the electronics giant Hatsushiba, navigating faction politics, sudden firings, and complicated romances in 1980s Japan
+- The first arc of a saga that follows Shima from section chief (Kachou) all the way up to chairman across decades of serialization
+- Adult and frank about both corporate machinery and personal life — **M (Mature)**, with depicted infidelity and workplace affairs
 
 ## Who Is This Manga For?
 
-- **Adult readers** interested in Japanese corporate culture
-- **Business manga fans** who want human complexity alongside professional drama
-- **Readers curious about 1980s Japan** — the corporate landscape depicted here is historically specific
-- **Anyone who has worked in a large organization** and recognized its particular dynamics
+- **Adults curious about Japanese corporate culture** — this is the canonical text on it
+- **Business-manga readers** who want human messiness alongside boardroom strategy
+- **People who have survived a large organization** and recognized its quiet politics
+- **Readers interested in bubble-era Japan** — the world here is historically specific, not generic
 
 ## Content Warnings & Age Rating
 
 **Age Rating**: M (Mature)
-**Content Warnings**: Adult relationships depicted frankly, office workplace romance, mature themes. Alcohol, adult lifestyle.
+**Content Warnings**: Depicted infidelity and workplace affairs, frank adult relationships, alcohol, and the adult workplace lifestyle of 1980s Japan.
 
-For adult readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★☆☆ |
+This is a manga for adult readers. The romance is not incidental — affairs and their fallout are a recurring part of the story.
 
 ## Story Overview
 
-Kosaku Shima is a section chief (Kachou) at Hatsushiba Electronics — a major Japanese corporation whose internal politics, external competition, and international ambitions mirror the real corporate landscape of 1980s Japan. He is competent, principled in his way, and possessed of a charm that generates both professional success and complicated personal entanglements.
+*Kachou Shima Kosaku* ran in Kodansha's *Morning* from 1983 to 1992, across 17 volumes. It opens with Shima Kosaku as a section chief at Hatsushiba Electric — a fictional electronics conglomerate openly modeled on Matsushita (today's Panasonic), the very company where Hirokane himself once worked. The setting tracks real history: Japan's mid-growth period of the early '80s sliding into the bubble of the late '80s and the start of its collapse in the early '90s.
 
-The corporate politics are detailed and convincing: promotions are contested, allegiances shift, the relationship between loyalty and ambition is navigated differently by different characters, and Shima's particular path through this landscape reveals something real about how Japanese corporations worked in their bubble-era peak.
+Shima starts out, by Hirokane's own framing, as a fairly small, self-protective ordinary salaryman — a guy whose early chapters lean on office romance and personal entanglements as much as business. The transformation is the point. Over the arc he hardens into someone who acts on his own convictions rather than his department's, and that conviction is exactly what makes the corporate world treat him as a problem.
 
-The adult relationships are handled with the frankness that Big Comic Spirits permits — Shima has relationships, they have consequences, and the series doesn't pretend otherwise. The frankness is not gratuitous; it's part of the series' portrait of adult professional life.
+The engine of the story is faction warfare inside Hatsushiba. Shima refuses to formally join a faction, and the price comes due: President Tomabechi abruptly hands him a firing — *"You're fired"* — as a direct consequence of the escalating power struggle with Vice President Ōizumi and Shima's refusal to align. The series doesn't treat this as melodrama. It treats it as how the building works.
+
+Underneath the politics runs Shima's relationship with his subordinate Kumiko Ohmachi, which becomes one of the arc's emotional spines and pulls in her family, her mother's schemes, and an arranged-marriage proposal designed to break the two of them apart.
 
 ## Characters
 
-**Shima Kosaku**: A protagonist whose competence and charm are both genuine and complicated — he succeeds because he is actually good at his work, and his personal relationships are complicated because he is actually human.
+**Shima Kosaku** — The section chief at the center. What makes him work is that he isn't a born hero; he begins cautious and self-interested and *becomes* principled over the arc. His competence is real and shown through actual work, but his defining trait is that he won't trade his convictions for a faction's protection — which is both why readers admire him and why his superiors keep trying to break him.
 
-**The corporate ensemble**: Superiors, subordinates, rivals, and allies drawn with enough specificity that the office politics feel like a genuine human landscape rather than a diagram.
+**Kiichi Nakazawa** — The man who made Shima a section chief, creating a new Advertising Section inside Hatsushiba and installing Shima to run it. Nakazawa is the rare executive who belongs to no faction — a lone wolf whose way of surviving the company on his own terms visibly shapes how Shima decides to live his own corporate life.
 
-## Art Style
+**Kumiko Ohmachi** — A new recruit who becomes Shima's subordinate; he's drawn to her sharpness and nerve before things turn personal. Her arc is a real arc: when her mother Aiko engineers an arranged marriage to pry her away from Shima, Kumiko makes a choice — she chooses a life with Shima rather than the safe match her mother arranged.
 
-Hirokane's art has the clean, detailed realism of serious gekiga — character designs that distinguish between people rather than typing them, environments that feel like actual corporate Japan, and the ability to make a meeting room feel like a place where significant things happen.
-
-## Cultural Context
-
-Kachou Shima Kosaku ran in Big Comic Spirits from 1983 to 1992. It appeared during Japan's economic bubble — a period when Japanese corporate culture was both at its peak power and increasingly examined for what that power cost.
-
-Hirokane continued Shima's story through subsequent series: Bucho (Division Chief), Torishimariyaku (Director), Joumu (Managing Director), and eventually Kaicho (Chairman) — a complete corporate biography across decades of serialization.
+**President Tomabechi & VP Ōizumi** — The two poles of the faction war. They aren't cartoon villains; they're the institutional pressure made human, and Shima's refusal to pick between them is what nearly ends his career.
 
 ## What I Love About It
 
-I love that Shima's competence is specific.
+I love that the firing isn't a betrayal — it's a policy.
 
-Most manga protagonists are exceptional in ways that function as plot devices. Shima's professional excellence is depicted through the actual work: the meeting he prepares for, the argument he makes, the relationships he builds over time. His competence is legible as competence rather than just labeled as it.
+In most workplace dramas, a good employee getting fired is framed as injustice: someone lied, someone schemed, the truth will out. Hirokane refuses that comfort. Shima gets fired *correctly*, by the internal logic of Hatsushiba. He didn't fail. He didn't get framed. He simply declined to belong to a faction in a company where belonging to a faction is the actual job, and the system did what the system does. The president saying "You're fired" isn't a twist — it's the manga finally stating out loud the rule that's been running underneath every meeting.
 
-## What English-Speaking Fans Say
-
-Known among readers of Japanese business culture and fans of realistic adult manga. The series is discussed in contexts about Japanese corporate culture and the bubble era. Its frank treatment of adult relationships is noted in discussions of what Big Comic Spirits permitted that other magazines didn't.
+That honesty is what got under my skin. I've watched competent people sidelined for exactly this reason and watched everyone agree it was "just how things are." Hirokane draws that shrug and then refuses to shrug with it. He lets Shima keep his convictions and makes you watch what they cost. The manga admires Shima without pretending his integrity is free — and that tension, between what the company rewards and what a person can live with, is the whole reason this thing has outlasted the era it documents.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-A scene where Shima, navigating a political situation at work, makes a decision that is professionally calculated and personally honest simultaneously — a combination that the series presents as rare enough to be notable. The scene works because Hirokane doesn't pretend that the professional and personal are separate domains.
+The scene I keep returning to is Kumiko's decision.
+
+Her mother, Aiko, doesn't fight Shima head-on. She does something colder and more recognizable: she arranges a respectable marriage proposal, a clean exit, the kind of "good match" that a family is supposed to want — and she sets it as a trap to split her daughter from a man she's already involved with at the office. Everything about the setup is socially correct. The arranged match is the safe, approved path, and Shima is the complication.
+
+And Kumiko walks away from the safe path. She chooses Shima. What makes it stay with me isn't romance for its own sake — it's that the manga has spent so many pages showing how Japanese institutions reward people for taking the approved option, whether that's joining a faction or accepting a suitable marriage. Then it lets one character refuse, the same way Shima refuses his faction. The two refusals rhyme. That's the moment the personal and the professional stop being separate stories and become the same story about whether a person gets to choose their own life inside systems built to choose for them.
+
+## Pros & Cons
+
+**Pros**
+- The most detailed, convincing portrait of 1980s Japanese corporate life in manga
+- Shima is a genuine arc, not a fixed archetype — he grows from cautious to principled
+- Faction politics are specific and plausible, not generic boardroom drama
+- The first chapter of an enormous, rewarding career saga
+
+**Cons**
+- No official English edition of this arc (only later arcs got bilingual releases)
+- The corporate and cultural context rewards readers who already know some of it
+- The affair-driven romance and bubble-era attitudes will not sit well with every reader
+- Some of its 1980s assumptions are very much of their time — that's either fascinating or alienating depending on you
+
+## Is Kachou Shima Kosaku Worth Reading?
+
+If you want a clear-eyed, adult portrait of how a Japanese corporation actually pressures the people inside it, yes — this is essential. Shima is one of manga's most carefully observed salarymen, and the world he navigates is real history lightly fictionalized. If you're after action or fantasy, this isn't your register. As a document of work, ambition, and the cost of having convictions inside a system that punishes them, it's hard to beat.
+
+## Official English Translation Status
+
+The Section Chief (*Kachou*) arc has **no official English edition**. Kodansha released a handful of bilingual (Japanese-English) volumes drawn from *later* arcs — *Division Chief Kosaku Shima* and *President Kosaku Shima* — but these are language-learning editions, not a release of this first arc. To read *Kachou Shima Kosaku* itself, the Japanese edition is currently the only legitimate route.
 
 ## Similar Manga
 
 | Title | Its Approach | How Kachou Shima Kosaku Differs |
 |---|---|---|
-| Golgo 13 | Professional competence in a different register | Corporate rather than covert; Japanese institutional world |
-| Hataraki Man | Modern workplace manga with female protagonist | Male protagonist in 1980s corporate Japan rather than contemporary media |
-| Tsuri Baka Nisshi | Salaryman with fishing hobby as counterweight to corporate life | Shima engages with corporate life rather than escaping it |
-
-## Reading Order / Where to Start
-
-Volume 1 of Kachou (the first arc). The full Shima saga is rewarding in sequence — watching the titles accumulate gives the complete career portrait.
-
-## Official English Translation Status
-
-Kachou Shima Kosaku has no official English translation.
-
-## Pros & Cons
-
-**Pros**
-- Detailed and convincing portrait of Japanese corporate life in the 1980s
-- Shima is a fully realized adult protagonist — competent, human, and complicated
-- The corporate politics are specific enough to be interesting rather than generic
-- Part of a complete career saga that rewards long-term reading
-
-**Cons**
-- No English translation
-- The corporate culture requires context for non-Japanese readers
-- The frank adult content limits its accessibility
-- 1980s setting means some elements are historically specific rather than universal
-
-## Is Kachou Shima Kosaku Worth Reading?
-
-For adult manga readers interested in Japanese corporate culture and realistic character portraits, yes — Shima is one of manga's most carefully observed adult protagonists, and the corporate world he navigates is genuinely specific and interesting. For readers who want action or fantasy, this is not the right register. But as an adult, realistic portrait of professional life in a specific historical moment, it is essential reading.
-
-## Format Comparison
-
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available |
-| Digital | Available in Japanese |
-| Omnibus | Available in complete series collected editions |
+| Tsuri Baka Nisshi | A salaryman who escapes corporate life into fishing | Shima engages the corporate machine head-on instead of escaping it |
+| Hataraki Man | A modern media-industry workplace with a female lead | Male lead, 1980s manufacturing-era corporate Japan rather than contemporary media |
+| Golgo 13 | Cold professional competence in the world of contract killing | Same gekiga-realism register, but office politics instead of covert ops |
 
 ## Where to Buy
 
-No English release yet. That just means you find it before everyone else does.
+There's no licensed English edition of this arc — the Japanese print and digital releases are the only legitimate way to read it.
+
+[Find it on Amazon.co.jp →](https://www.amazon.co.jp/s?k=%E8%AA%B2%E9%95%B7%E5%B3%B6%E8%80%95%E4%BD%9C&tag=yushi745-22)
 
 ---
+
+*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
