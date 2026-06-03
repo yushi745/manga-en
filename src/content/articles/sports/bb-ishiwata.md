@@ -1,11 +1,11 @@
 ---
-title: "B.B. Review: The Boxing Manga That Made Becoming a Boxer the Whole Question"
+title: "B・B Review: The Boxing Manga That Burned Its Own Ring Down and Walked Onto a Battlefield"
 slug: "bb-ishiwata"
 coverImage: "/covers/bb-ishiwata.jpg"
 genre: "Sports / Drama"
 genreSlug: "sports"
-mangaTitle: "B.B."
-mangaTitleJa: "B.B."
+mangaTitle: "B・B"
+mangaTitleJa: "B・B"
 mangaAuthor: "Osamu Ishiwata"
 serialization: "Weekly Shonen Sunday"
 publisher: "Shogakukan"
@@ -13,131 +13,81 @@ volumes: 31
 status: "Completed"
 englishVolumes: 0
 englishStatus: "Unlicensed"
-ageRating: "T (Teen)"
-contentWarnings: ["boxing violence", "intense competition"]
-description: "B.B. is Osamu Ishiwata's 31-volume boxing classic from Weekly Shonen Sunday — the rise of Ryo, a boxer whose journey from amateur through professional ranks was told with unusual psychological depth for the genre's era."
+ageRating: "M (Mature)"
+contentWarnings: ["graphic violence", "killing", "war", "blood"]
+description: "B・B (Burning Blood) is Osamu Ishiwata's 31-volume Weekly Shonen Sunday classic — a boxing manga that starts with a trumpet, detours through a killing, and ends with the hero as a bare-fisted mercenary on a battlefield. Winner of the 34th Shogakukan Manga Award."
 publishedAt: "2026-04-13"
 tags: ["sports", "drama", "boxing", "completed", "ishiwata"]
 rating: 4
 hasAffiliate: false
+read: true
+rewritten: "2026-06-03"
 ---
 
-He could box. The question was whether boxing could become him, or whether becoming a boxer would only be a thing he learned to do.
+When I was a kid, the manga that scared me most weren't the horror ones. They were the sports manga that suddenly stopped being sports manga. You start reading something safe — a kid, a ring, a rival — and then the floor drops out and the story goes somewhere you weren't ready for. B・B did that to me harder than almost anything. I started it expecting a boxing manga. By the time I looked up, the hero was a mercenary fighting bare-handed in a war, and I genuinely could not remember how we got there. It got there honestly. That's the trick of it.
 
 ## Quick Take
 
-- Osamu Ishiwata's 31-volume boxing manga from Weekly Shonen Sunday — Ryo's career from amateur through professional
-- A psychologically deeper take on boxing manga than its 1980s contemporaries
-- Sunday's defining boxing series for the era
-
-## Who Is This Manga For?
-
-- **Boxing manga fans** who want the genre's psychological register
-- **Sunday classic readers** who want the magazine's signature 1980s sports work
-- **Long sports drama enthusiasts** who want career-arc tracking
-- **Anyone interested in** the question of how identity forms through competitive practice
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Boxing violence, competitive psychological intensity.
-
-Suitable for most readers.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★★☆ |
+- Osamu Ishiwata's 31-volume Weekly Shonen Sunday epic (1985–1991) — a boxing manga that mutates into a war story without ever feeling like it cheated
+- Follows Takagi Ryō, nicknamed "B・B" (Burning Blood), from Yokosuka street kid to high school boxer to legendary mercenary
+- Mature content: this gets violent — killing, war, blood. Rated M; not the cozy sports read the first volume promises
 
 ## Story Overview
 
-Ryo enters boxing as a young man whose physical gifts are clear and whose psychological readiness is uncertain. The series tracks both his career progression — amateur tournaments, professional debut, increasingly serious title contests — and the parallel question of who he is becoming through this practice.
+Takagi Ryō is a high schooler in Yokosuka — strong enough to be the local king of the streets, and good enough on the trumpet to be called the best in town. American soldiers on Dobuita Street watch him brawl and mutter "his blood is burning," and the nickname B・B, Burning Blood, sticks to him.
 
-Ishiwata's choice to give the psychological dimension equal weight with the boxing dimension distinguishes the series. Many sports manga assume that competence answers identity questions; B.B. doesn't. Ryo can box at the highest level by mid-series, but the question of whether he is genuinely a boxer (rather than someone with boxing skills) continues to develop.
+The turn comes when he loses. His "natural enemy," the genius Moriyama Jin, beats him in a street fight — Ryō's first defeat. He throws the trumpet away and picks up boxing instead, chasing the one person who proved he could be beaten. For a stretch this reads like a straight, proud boxing manga: he enters the Kanto high school tournament and starts walking the orthodox sports-manga road.
 
-The 31 volumes allow the question to unfold at appropriate pace. The boxing matches are depicted with technical accuracy, the training is grueling and earned, and the relationships — with coaches, opponents, family — are tracked with the patience long-form sports drama requires.
+Then Ishiwata burns that road down. In the waiting room at the tournament, Ryō beats an opponent who fought dirty — and kills him. Certain the police are coming, he flees to America, and the boxing manga becomes something else entirely: underground mafia bouts, then the battlefield, where B・B becomes a legendary bare-fisted mercenary. He saves a billionaire named Gargill, who later sponsors his return as an American boxer so the long-delayed reckoning with Moriyama can finally happen. The series ran across high school rings, the mafia underworld, and actual war zones — and it doesn't end with the hero on top.
 
 ## Characters
 
-**Ryo**: The protagonist whose career and self-discovery are intertwined — neither subject can be resolved without the other.
+**Takagi Ryō ("B・B")**: The protagonist. He begins as a kid with two gifts he treats casually — fists and a trumpet — and the whole series is about which one survives contact with consequence. Losing to Moriyama starts him; killing a man in a tournament waiting room exiles him. The boy who could have been a musician becomes a mercenary, and Ishiwata never lets him fully escape what he did.
 
-**The coaches and mentors**: Each represents a different angle into boxing as practice and as identity.
+**Moriyama Jin**: Ryō's nemesis and equal — the genius who gives him his first defeat and the gravitational center of the whole story. While Ryō spirals through exile and war, Moriyama trains his body into what the manga calls a "steel body" and rises to become lightweight unified world champion. He is the destination Ryō keeps trying to reach.
 
-**The opponents**: Significant rivals across multiple arcs serve as foils for Ryo's developing sense of who he is.
+**Matsubara Koyuki**: The heroine, the human thread keeping Ryō tethered to the life he left in Japan.
 
-## Art Style
+**Takagi Ai**: Family to Ryō — part of what's at stake back home while he's bleeding overseas.
 
-Ishiwata's art has the clean, slightly angular quality of 1980s Sunday — boxing matches drawn with attention to actual technique, faces expressive enough to carry psychological subplots, dynamic enough action to satisfy the genre's expectations.
-
-## Cultural Context
-
-B.B. ran from 1985 to 1991 in Weekly Shonen Sunday, during the magazine's strong era for serious sports manga. The series belongs to the broader 1980s tradition of psychologically serious shonen sports — alongside Adachi's baseball work, Aim for the Ace, and others.
-
-Ishiwata went on to other works but B.B. remains his signature title, regarded as one of Sunday's defining sports manga of its era.
+**Gargill**: The billionaire Ryō rescues during his mercenary years, whose gratitude buys Ryō American citizenship and a path back into the ring.
 
 ## What I Love About It
 
-I love that the question doesn't resolve early.
+I love that B・B and Moriyama share the same finishing weapon: the "10-centimeter bomb," a short-range blow that travels almost no distance and ends fights anyway. That detail is the whole manga compressed into a single punch. These two are mirror images — same gift, same destructive ceiling — and the entire 31 volumes are about what each of them does with the same terrible talent. One channels it into the orthodox world and becomes a world champion. The other carries it through a killing, a war, and a battlefield. Same fist, two completely different lives.
 
-A faster-paced series would have Ryo "become a boxer" within a few volumes, then move on to other concerns. B.B. lets the question persist. By volume 20, Ryo is technically excellent but the identity question remains open. By volume 31, the resolution has come from accumulated practice and experience rather than from any single revelatory moment. That commitment to slow becoming is the series' integrity.
-
-## What English-Speaking Fans Say
-
-Limited international awareness without translation. Among readers familiar with 1980s Sunday sports manga, regarded as one of the strongest entries in the magazine's run.
+What makes it land is that Ishiwata earns the genre swerve instead of forcing it. The killing in the tournament waiting room isn't a shock-gimmick — it's the logical end of a kid whose blood is literally always "burning," who was never going to be safely contained by rules and weight classes. Once you accept that, the leap from boxing to mercenary work stops feeling like a different manga and starts feeling like the only honest place this character could go.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-A late-series match where Ryo recognizes that he has become the boxer he wasn't sure he could become — not as triumph but as quiet acknowledgment. The scene's restraint is the series' signature.
+The ending is the scene that sticks. After 31 volumes — after the trumpet, the killing, the exile, the mafia rings, the war, the citizenship bought with a billionaire's gratitude, all of it built so Ryō can finally face Moriyama — Ryō loses. The hero loses to his nemesis at the very end.
 
-## Similar Manga
-
-| Title | Its Approach | How B.B. Differs |
-|---|---|---|
-| Hajime no Ippo | Boxing with detailed training and rival structure | B.B. is more psychologically focused on identity formation |
-| Ashita no Joe | Boxing with tragic-classical structure | B.B. is contemporary and less mythic |
-| Rokudenashi Blues | Sunday delinquent-boxing classic | B.B. is more procedural and less comedic |
-
-## Reading Order / Where to Start
-
-Volume 1. The identity question depends on the foundation.
-
-## Official English Translation Status
-
-B.B. has no official English translation.
+I keep coming back to how rare that is in a long shonen sports manga. The whole engine of the genre is the promise that all that suffering buys you the win. B・B spends six years of serialization earning the rematch and then refuses the payoff. Moriyama, the genius with the steel body, stays the better man in the ring. It's a downbeat, unromantic finish for a story that opened with a cocky kid who thought his burning blood made him untouchable — and it's exactly why the manga is remembered instead of forgotten.
 
 ## Pros & Cons
 
 **Pros**
-- Psychologically deeper than typical 1980s sports manga
-- Career-arc structure across 31 volumes feels earned
-- Boxing technical accuracy throughout
-- Sunday classic with sustained quality
+- A genuinely wild genre evolution — boxing to mafia to war — that somehow holds together
+- Takagi Ryō and Moriyama Jin make one of the great shonen mirror-rivalries
+- The "10-centimeter bomb" and Ishiwata's brutal, kinetic art sell every fight
+- Won the 34th Shogakukan Manga Award (1988) — recognized in its era, not just by nostalgia
 
 **Cons**
-- No English translation
-- 1980s register feels dated to modern readers
-- Slow pacing won't satisfy readers wanting tighter arcs
-- Identity-focused theme may feel too abstract for some
+- No English translation exists
+- The 1985–1991 register and art feel dated to modern readers
+- The tonal whiplash from sports manga to war manga will lose people who signed up for boxing
+- The downer ending won't satisfy readers who want the hero to win — that's either the point or a dealbreaker depending on you
 
-## Is B.B. Worth Reading?
+## Is B・B Worth Reading?
 
-For boxing manga readers and Sunday classic enthusiasts who want psychological depth alongside athletic specificity, yes — this is among the strongest entries in the magazine's sports tradition. For readers wanting faster pacing or pure spectacle, the slow becoming may feel slow. As serious 1980s sports drama, it's exemplary.
-
-## Format Comparison
-
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available |
-| Digital | Available in Japanese |
-| Omnibus | Collected editions available |
+If you want a boxing manga that has the nerve to stop being a boxing manga — that lets its hero kill, flee, fight a war, and lose at the end — B・B is one of the boldest sports series of its era. If you want a clean tournament arc with a triumphant finish, the genre swerve and the downbeat ending will frustrate you. As a piece of ambitious, award-winning 1980s Sunday manga, it's exemplary.
 
 ## Where to Buy
 
-No English release yet. That just means you find it before everyone else does.
+There's no licensed English edition — the Japanese print and digital release is the only legitimate way to read it. It's all in Japanese, but that just means you find it before everyone else does.
+
+[Find B・B on Amazon.co.jp →](https://www.amazon.co.jp/s?k=B%E3%83%BBB+%E7%9F%B3%E6%B8%A1%E6%B2%BB&tag=yushi745-22)
 
 ---
+
+*This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.*
