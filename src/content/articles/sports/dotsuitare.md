@@ -1,141 +1,93 @@
 ---
-title: "Dotsuitare Review: The Boxing Manga That Hit as Hard as Its Title Promised"
+title: "Dotsuitare Review: The Tezuka Manga Where He Drew His Own Hungry Postwar Youth"
 slug: "dotsuitare"
 coverImage: "/covers/dotsuitare.jpg"
-genre: "Sports"
+genre: "Drama / Historical"
 genreSlug: "sports"
 mangaTitle: "Dotsuitare"
 mangaTitleJa: "どついたれ"
-mangaAuthor: "Hiroshi Motomiya"
-serialization: "Weekly Shonen Jump"
+mangaAuthor: "Osamu Tezuka"
+serialization: "Weekly Young Jump"
 publisher: "Shueisha"
-volumes: 11
-status: "Completed"
+volumes: 2
+status: "Discontinued"
 englishVolumes: 0
 englishStatus: "Unlicensed"
 ageRating: "T (Teen)"
-contentWarnings: ["boxing violence", "street life themes", "intense competition"]
-description: "Dotsuitare follows a young man from Osaka who enters professional boxing with raw talent and a fighting spirit that predates any training — a gritty, direct boxing manga from Hiroshi Motomiya whose title translates roughly as 'Hit him!' in Osaka dialect."
+contentWarnings: ["war", "poverty", "prostitution", "violence"]
+description: "Dotsuitare is Osamu Tezuka's semi-autobiographical drama about young men scraping a life out of the burnt-out ruins of postwar Osaka — an unfinished, rarely discussed work where Tetsu, a war orphan turned shoeshine-boy boss, nurses a private rage against General MacArthur."
 publishedAt: "2026-04-17"
-tags: ["sports", "boxing", "classic", "completed", "motomiya"]
+read: true
+rewritten: "2026-06-03"
+tags: ["drama", "historical", "postwar", "tezuka", "unfinished"]
 rating: 4
 hasAffiliate: false
 ---
 
-Some words don't translate. "Dotsuitare" is one of them — you have to hear it to understand what this manga is.
+I grew up on Tezuka the way most people grow up on him — through Astro Boy, through Black Jack, through the round-faced kindness of his most famous pages. So the first time I opened "Dotsuitare," I almost didn't believe it was the same man. There's no robot here, no doctor, no cosmic morality. There's just hungry kids in a burnt city, picking through ash for something to eat. I read it knowing it was unfinished, knowing it had been cut off twice, and that knowledge sat on me the whole time like a weight. This is Tezuka writing about the Osaka he actually survived.
 
 ## Quick Take
 
-- Hiroshi Motomiya's boxing manga — the creator of Ore wa Teppei and other gritty 1970s Jump manga applied to the sweet science
-- Osaka dialect, Osaka fighting spirit, Osaka refusal to lose — the setting is as important as the sport
-- 11 volumes of direct, brutal boxing storytelling that doesn't flinch from what the sport costs
-
-## Who Is This Manga For?
-
-- **Boxing manga fans** who want the sport's physical reality rather than fantasy power escalation
-- **Readers of Motomiya's work** who want to see his gritty visual style applied to a ring sport
-- **Anyone interested in Osaka sports culture** and its relationship to fighting and competition
-- **Sports manga readers** who want emotional stakes alongside the athletic action
-
-## Content Warnings & Age Rating
-
-**Age Rating**: T (Teen)
-**Content Warnings**: Boxing violence — depicted realistically, not fantastically. Street life themes. Intense competition.
-
-Suitable for teen readers and above.
-
-## Yu's Rating
-
-| Category | Score |
-|----------|-------|
-| Story Depth | ★★★★☆ |
-| Art Style | ★★★★☆ |
-| Character Development | ★★★★☆ |
-| Accessibility for Non-Japanese Readers | ★★★☆☆ |
-| Reread Value | ★★★☆☆ |
+- A semi-autobiographical drama by Osamu Tezuka, set in the scorched ruins of Osaka right after Japan's 1945 defeat — far from the sci-fi he's famous for
+- Follows Tetsu, a war orphan who leads a pack of shoeshine boys and quietly plans revenge against General MacArthur, alongside a young manga artist named Shu who is Tezuka himself
+- Rated T (Teen) — heavy themes of war, starvation, and a sister forced into street prostitution, but nothing drawn for shock value
 
 ## Story Overview
 
-The protagonist enters boxing not through a gym but through the streets — raw, unschooled, and fundamentally difficult to hit cleanly because nobody taught him the predictable habits that coaches then have to untrain. The early sections are about converting street fighting into something the sport can recognize.
+The series opens in 1945, in an Osaka that the war has flattened into a wasteland of ash and rubble. Tetsu (Yamashita Tetsu) is a war orphan surviving in the chaos. He becomes the leader of a band of shoeshine children working the streets, and beneath his toughness he carries a single fixed idea: that General MacArthur, the face of the American occupation, is the enemy who killed his parents. That hatred is the engine of his arc.
 
-What follows is a classic boxing manga structure: opponents, training, fights that go badly in the middle, and the question of whether the protagonist's will is sufficient to make up for whatever technical deficit his opponent holds. But Motomiya's execution elevates the structure — the fights are physically convincing, the setbacks feel real, and the protagonist's Osaka stubbornness is a character trait, not a superpower.
+The turning point comes as Tetsu's world widens past simple survival. He takes shelter with — and works for — Katsuragi, the young heir of a small manufacturing works, and his life tangles with a cast of others trying to claw their way up out of the wreckage: tough street toughs Hiroyan and Tomoyan, and Takatsuka Shu, an aspiring manga artist who is openly a stand-in for Tezuka himself. The deeper wound underneath Tetsu's revenge is personal — his sister Miho falls into street prostitution to survive, and that shame eats at him as much as any grand hatred of the occupiers.
 
-The title — Dotsuitare, Osaka dialect for "Hit him!" or more roughly "Get him!" — captures the series' spirit exactly. It is not subtle. It does not ask for patience. It wants the fight.
+There is no clean ending, and I won't pretend otherwise. "Dotsuitare" was serialized in two parts and both were cut short — Part 1 in 1979, Part 2 in 1980 — so the story simply stops rather than resolves. What Tezuka leaves us is not a finished narrative but a vivid, incomplete sketch of how the postwar generation survived, and a rare look at his own raw memory of those years.
 
 ## Characters
 
-**The protagonist**: Raw talent shaped by street life rather than formal training — his unconventional style is both his advantage and his limitation.
+**Tetsu (Yamashita Tetsu)** — A war orphan who hardens into the boss of a crew of shoeshine boys. His defining trait is the revenge he nurses against MacArthur, whom he blames for his parents' deaths. But his real arc is quieter and sadder: the helplessness of watching his sister sell herself to survive while he can't stop it.
 
-**The opponents**: Each opponent is drawn with enough specificity to make the fight feel like a genuine encounter rather than a villain appearance.
+**Takatsuka Shu** — A young man who dreams of becoming a manga artist. He is unmistakably Tezuka's own self-portrait dropped into the story, which is what makes the whole thing feel like memoir wearing the mask of fiction.
 
-## Art Style
+**Katsuragi Kenji** — The young heir of a manufacturing works who takes Tetsu in. He is modeled on Kenzo Kasai, the real businessman who founded Aprica and who, years later, financially rescued Tezuka's collapsing Mushi Production. Knowing that, his presence in the story reads like Tezuka's quiet thank-you.
 
-Motomiya's art has the kinetic directness of his best 1970s work — punch impact conveyed through panel deformation and character expression rather than elaborate effect lines, the ring geometry used to create tension rather than just space.
-
-## Cultural Context
-
-Dotsuitare ran in Weekly Shonen Jump in the early 1970s. Motomiya was one of Jump's most prolific creators in this period, and the boxing manga sits alongside his other work in the gritty, physically honest register that distinguished his approach from more idealized sports manga.
-
-Osaka's distinctive culture — its relationship with performance, competition, and verbal directness — runs through the series and gives it a regional character that most sports manga don't have.
+**Hiroyan and Tomoyan** — Two tough street guys scraping by in the postwar chaos, drawn from real men connected to Kasai's life. They give the book its texture of ordinary people just trying to eat another day.
 
 ## What I Love About It
 
-I love that the protagonist doesn't become refined.
+What I love is that Tezuka let himself be hungry on the page. There's a moment early on of kids in the burnt-out city scrounging for food — picking up dropped chocolate from the rubble, begging rice off farmers in the countryside because the city has nothing. It is such a small, un-heroic thing. No drama of speeches, no villain monologue, just the plain animal fact of children who haven't eaten. And it landed on me harder than almost anything in his more famous work, because I knew he wasn't inventing it. He lived in that Osaka. He was a teenager when the bombs came.
 
-Boxing manga often chart a trajectory from raw fighter to polished athlete. Dotsuitare allows its protagonist to incorporate technical skill without losing the essential nature that made him dangerous before training. He doesn't become a different kind of fighter. He becomes a better version of the fighter he always was.
-
-## What English-Speaking Fans Say
-
-Not known in English-speaking markets. Among readers of Motomiya's complete work and 1970s Jump sports manga, Dotsuitare is recognized as a strong example of the direct, unrefined boxing manga tradition.
+That's the thing that hit me. Most of Tezuka's catalog is him reaching for the universal — robots and gods and the whole sweep of life and death. "Dotsuitare" is the opposite. It's him reaching backward, into the specific, into the ash of his own youth, and not flinching from how undignified survival actually was. The fact that he buried this in an unfinished, half-forgotten series instead of one of his masterpieces somehow makes it more honest to me. It feels like the memory he couldn't quite finish telling.
 
 ## Memorable Scene ⚠️ Spoiler Warning
 
-A fight that the protagonist is losing — technically outmatched, taking more punishment than he's delivering — where he continues not because he has a plan but because stopping has genuinely not occurred to him as an option. His opponent's frustration at not being able to put him down is the scene's real subject.
+The image I can't shake is Tetsu's hatred of MacArthur set against the reality of his sister Miho. Here is a boy who has built his whole identity around a grand enemy — the American general, the symbol of the occupation, the man he blames for everything. It's a clean, almost comforting kind of rage, because it points outward at a faraway figure.
 
-## Similar Manga
-
-| Title | Its Approach | How Dotsuitare Differs |
-|---|---|---|
-| Ashita no Joe | Elegiac boxing with tragedy and transcendence | Rougher, more direct — less poetry, more punch |
-| Ring ni Kakero | Fantasy-inflected super-boxing with power escalation | Realistic boxing within the sport's actual limits |
-| Ore wa Teppei | Gritty male protagonist drama (same creator) | Sport-focused application of the same creative instincts |
-
-## Reading Order / Where to Start
-
-Volume 1. The series moves quickly and the protagonist's arc is clear from the start.
-
-## Official English Translation Status
-
-Dotsuitare has no official English translation.
+And then the real ruin is right next to him: his own sister, driven to selling herself on the street just to live. The revenge fantasy and the domestic shame sit side by side, and the contrast is the whole tragedy. The enemy he wants to fight is unreachable and abstract; the suffering he actually has to live with is intimate and powerless to stop. That tension is what stays with me — Tezuka showing how postwar rage was often a way of not looking at the closer, quieter devastation.
 
 ## Pros & Cons
 
 **Pros**
-- Motomiya's gritty style fits boxing perfectly
-- Osaka setting gives the series distinctive cultural texture
-- The protagonist's stubbornness is a genuine character trait, not a plot device
-- Direct, unpretentious boxing storytelling
+- A rare, deeply personal Tezuka work — his own postwar Osaka, drawn from memory
+- The real-people roots (Kasai/Aprica, the manga-artist self-portrait) give it documentary weight
+- Unflinching about poverty, hunger, and the human cost of occupation
+- Short — two volumes — so it never overstays
 
 **Cons**
-- No English translation
-- Osaka dialect flavoring may not fully translate even in context
-- Less elegiac than Ashita no Joe — readers expecting poetry may not find it here
-- The style is an acquired taste — not for everyone
+- It's unfinished; both serializations were cut short, so the story doesn't resolve
+- No official English edition exists
+- It is not sci-fi or the polished Tezuka most readers expect — the tone is grim and grounded
+- This is a fragment of a memoir more than a complete story, and that incompleteness won't work for everyone.
 
 ## Is Dotsuitare Worth Reading?
 
-For boxing manga fans and Motomiya readers, yes — the direct approach works, and the Osaka grounding gives it texture that distinguishes it from the genre's more refined entries. For readers wanting the transcendent, elegiac boxing of Ashita no Joe, this operates in a different register. But on its own terms, it delivers exactly what the title promises.
-
-## Format Comparison
-
-| Format | Notes |
-|--------|-------|
-| Physical | Japanese editions available |
-| Digital | Limited availability in Japanese |
-| Omnibus | Collected editions available |
+If you only know Tezuka through Astro Boy and Black Jack, "Dotsuitare" is worth it precisely because it's so unlike them — it's the man drawing his own hungry, angry youth in the ruins of Osaka. Just go in knowing it's a fragment, not a finished story. For readers who want resolution and polish, the unfinished state will frustrate. For anyone curious about who Tezuka was before he was a legend, it's a quietly devastating window.
 
 ## Where to Buy
 
 No English release yet. That just means you find it before everyone else does.
 
+The only legitimate way to read it right now is the Japanese edition, collected in the Osamu Tezuka Complete Works (Tezuka Osamu Bunko Zenshu).
+
+[Search on Amazon.co.jp →](https://www.amazon.co.jp/s?k=%E3%81%A9%E3%81%A4%E3%81%84%E3%81%9F%E3%82%8C+%E6%89%8B%E5%A1%9A%E6%B2%BB%E8%99%AB&tag=yushi745-22)
+
 ---
+
+This post contains affiliate links. If you purchase through these links, I may earn a small commission at no extra cost to you. As an Amazon Associate, I earn from qualifying purchases.
